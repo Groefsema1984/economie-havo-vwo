@@ -852,7 +852,7 @@ EXAMEN.vragen.push(...[
 "nr": 11,
 "ctx": "Volgens het krantenartikel zal door de koersdaling van het Britse pond de concurrentiepositie van Nederlandse agrariërs verslechteren.",
 "q": "Leg uit dat een koersdaling van het Britse pond kan leiden tot (een toename van de) inflatie in GB.",
-"model": "Voorbeelden van een juiste uitleg zijn:\n• Door de koersdaling van het Britse pond kunnen importgoederen voor GB duurder worden (1p)\n• De prijsstijging van importgoederen kan doorwerken in het algemeen prijspeil van GB 1 of\n• Door de koersdaling van het Britse pond kunnen Britse exportgoederen goedkoper worden op de EU-markt / Nederlandse markt / wereldmarkt (1p)\n• De vraag naar Britse exportgoederen kan toenemen en groter worden dan de productiecapaciteit, waardoor de prijzen van deze goederen kunnen stijgen. Deze prijsstijging kan doorwerken in het algemeen prijspeil van GB (1p)",
+"model": "Voorbeelden van een juiste uitleg zijn:\n• Door de koersdaling van het Britse pond kunnen importgoederen voor GB duurder worden (1p)\n• De prijsstijging van importgoederen kan doorwerken in het algemeen prijspeil van GB (1p)\nof\n• Door de koersdaling van het Britse pond kunnen Britse exportgoederen goedkoper worden op de EU-markt / Nederlandse markt / wereldmarkt (1p)\n• De vraag naar Britse exportgoederen kan toenemen en groter worden dan de productiecapaciteit, waardoor de prijzen van deze goederen kunnen stijgen. Deze prijsstijging kan doorwerken in het algemeen prijspeil van GB (1p)",
 "pnt": 2
 },
 {
@@ -2359,7 +2359,7 @@ EXAMEN.vragen.push(...[
 "nr": 25,
 "ctx": "uit een krant, 14 november 2017: Anderzorg heeft de voorwaarden voor zijn ziektekostenverzekering voor komend jaar bekendgemaakt. De jaarpremie voor 2018 is vastgesteld op € 1.290 en daalt daarmee met 0,5% ten opzichte van 2017. Bovendien verlaagt Anderzorg het eigen risico van € 485 naar € 375. Gezondheidseconoom Harry Klein zegt in een interview met deze krant dat dit hem verbaast. “Gezien de stijgende zorgkosten had ik juist een premieverhoging van 10% en een verhoging van het eigen risico verwacht.” Een woordvoerder van Anderzorg bevestigt de nieuwe voorwaarden en zegt hierover: “Door schaalvoordelen zijn onze gemiddelde kosten gedaald en dat leidt tot een premieverlaging. Het eigen risico hebben wij verlaagd, omdat mensen niet altijd invloed hebben op hun zorgkosten en wij van mening zijn dat je deze ‘slechte’ risico’s niet mag benadelen. Wij pleiten voor het volledig afschaffen van het eigen risico.”",
 "q": "Gebruik het krantenbericht.\nBereken de premiestijging in euro’s die Harry Klein voor 2018 had verwacht.",
-"model": "Voorbeelden van een juiste berekening zijn:\n• 1.290\n99,5 × 100 = € 1.296,48 1\n• 1.296,48 × 0,10 = € 129,65 1 of\n• 1.290 0,995 × 0,10 = € 129,65 (2p)\nOpmerking Voor een andere juiste manier van afronden ook scorepunten toekennen.",
+"model": "Voorbeelden van een juiste berekening zijn:\n• 1.290\n99,5 × 100 = € 1.296,48 1\n• 1.296,48 × 0,10 = € 129,65 (1p)\nof\n• 1.290 0,995 × 0,10 = € 129,65 (2p)\nOpmerking Voor een andere juiste manier van afronden ook scorepunten toekennen.",
 "pnt": 2
 },
 {
@@ -3114,7 +3114,7 @@ EXAMEN.vragen.push(...[
 "nr": 25,
 "ctx": "Een Zwitserse econoom stelt dat de koersstijging van de Zwitserse frank in de periode 2010 tot en met 2015 ook positieve gevolgen heeft gehad voor de Zwitserse economie. De econoom: “Een koersstijging van de Zwitserse frank ten opzichte van de euro leidt tot een daling van de inflatie in Zwitserland.”",
 "q": "Geef een verklaring voor de uitspraak van de econoom.",
-"model": "Voorbeelden van een juist antwoord zijn:\n• Door de gestegen koers van de CHF worden geïmporteerde goederen uit eurolanden voor Zwitserland goedkoper (1p)\n• waardoor de inflatie in Zwitserland kan afnemen bij doorberekening in de prijzen 1 of\n• Door de gestegen koers van de CHF worden Zwitserse producten duurder voor de eurolanden, (1p)\n• dus daalt de vraag naar Zwitserse producten en dit heeft een dempend effect op de inflatie 1 of\n• Door de gestegen koers van de CHF worden geïmporteerde productiefactoren / halffabricaten / grondstoffen uit de eurolanden goedkoper, (1p)\n• waardoor de productiekosten dalen (, en de aanbodlijn naar rechts verschuift,) hetgeen een dempend effect heeft op de inflatie (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• Door de gestegen koers van de CHF worden geïmporteerde goederen uit eurolanden voor Zwitserland goedkoper (1p)\n• waardoor de inflatie in Zwitserland kan afnemen bij doorberekening in de prijzen (1p)\nof\n• Door de gestegen koers van de CHF worden Zwitserse producten duurder voor de eurolanden, (1p)\n• dus daalt de vraag naar Zwitserse producten en dit heeft een dempend effect op de inflatie (1p)\nof\n• Door de gestegen koers van de CHF worden geïmporteerde productiefactoren / halffabricaten / grondstoffen uit de eurolanden goedkoper, (1p)\n• waardoor de productiekosten dalen (, en de aanbodlijn naar rechts verschuift,) hetgeen een dempend effect heeft op de inflatie (1p)",
 "pnt": 2
 },
 {
@@ -3520,7 +3520,7 @@ EXAMEN.vragen.push(...[
 "nr": 15,
 "ctx": "uit een krant: Het verhogen van de AOW-leeftijd leidt tot veel negatieve reacties in de samenleving. Er is juist een toenemende behoefte om de AOW- leeftijd flexibel te maken. Bijvoorbeeld elk jaar dat je de AOW later laat ingaan dan 67 jaar, gaat de uitkering per jaar dat je later stopt 6,5% omhoog. Elk jaar dat je de AOW eerder laat ingaan dan 67 jaar, gaat de uitkering per jaar 6,5% omlaag (zie bron 1). De voorzitter van de Ouderenbond is voorstander van zo’n flexibele AOW. De staatssecretaris van Sociale Zaken en Werkgelegenheid is minder enthousiast. De voorzitter van de Ouderenbond en de staatssecretaris van Sociale Zaken en Werkgelegenheid discussieerden in januari 2021 met elkaar in een televisieprogramma. - De voorzitter: “Mijn buurman Henk is laag opgeleid en heeft een fysiek zwaar beroep. Hij wil in goede gezondheid samen met zijn vrouw van zijn oude dag genieten, ook al moet hij daarvoor een deel van zijn pensioenuitkering inleveren. Op 3 januari 2022 wordt hij 65 jaar. Hij zou dan graag met pensioen gaan. Een flexibele AOW maakt dat mogelijk.” - De staatssecretaris: “Hoogopgeleiden hebben, in tegenstelling tot Henk, vaak geen fysiek zwaar beroep. Een flexibele AOW kan daardoor leiden tot een nog grotere inkomensongelijkheid tussen laag- en hoogopgeleiden.”",
 "q": "Gebruik de uitspraak van de staatssecretaris en bron 1.\nLeg uit hoe een flexibele AOW kan leiden tot een nog grotere inkomensongelijkheid tussen laag- en hoogopgeleiden.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Voorbeelden van een juiste uitleg zijn:\n• Mensen met een hogere opleiding hebben relatief weinig fysiek zware beroepen en zullen geneigd zijn hun AOW-uitkering later te laten ingaan (1p)\n• Zij kunnen dan profiteren van een hogere AOW-uitkering ten opzichte van de lager opgeleiden (en dit leidt tot een grotere inkomensongelijkheid) 1 of\n• Mensen met een lagere opleiding hebben relatief vaak fysiek zware beroepen en zien zich hierdoor meer genoodzaakt hun AOW-uitkering eerder te laten ingaan (1p)\n• Zij ontvangen ten opzichte van de hoger opgeleiden een lagere AOW- uitkering (en dit leidt tot een grotere inkomensongelijkheid) (1p)",
+"model": "Voorbeelden van een juiste uitleg zijn:\n• Mensen met een hogere opleiding hebben relatief weinig fysiek zware beroepen en zullen geneigd zijn hun AOW-uitkering later te laten ingaan (1p)\n• Zij kunnen dan profiteren van een hogere AOW-uitkering ten opzichte van de lager opgeleiden (en dit leidt tot een grotere inkomensongelijkheid) (1p)\nof\n• Mensen met een lagere opleiding hebben relatief vaak fysiek zware beroepen en zien zich hierdoor meer genoodzaakt hun AOW-uitkering eerder te laten ingaan (1p)\n• Zij ontvangen ten opzichte van de hoger opgeleiden een lagere AOW- uitkering (en dit leidt tot een grotere inkomensongelijkheid) (1p)",
 "pnt": 2
 },
 {
@@ -3738,7 +3738,7 @@ EXAMEN.vragen.push(...[
 "nr": 26,
 "ctx": "Zonnepanelen zorgen voor een duurzame opwekking van energie. De Nederlandse overheid heeft de toepassing van zonnepanelen op woonhuizen in het verleden met een financieel programma gestimuleerd. De subsidieregeling bestaat al enige jaren niet meer. Voorzitter Carlein Solis van de stichting ‘NL Duurzaam’ stelt: “De terugkeer van de subsidie- regeling is nodig voor de ontwikkeling naar een duurzaam Nederland.”",
 "q": "Leg uit dat er sprake is van ruilen over de tijd als de overheid subsidie geeft voor de duurzame opwekking van energie.",
-"model": "Voorbeelden van een juiste uitleg zijn:\n• De duurzame opwekking van energie vergroot de welvaart van toekomstige generaties (door behoud van natuurlijke hulpbronnen / door behoud van gezonde lucht / door verminderde CO2-uitstoot) (1p)\n• en wordt (via de belastingheffing) betaald door de huidige generatie. (En daarom is er sprake van ruilen over de tijd.) 1 of\n• Als de overheid de subsidie financiert met een lening, dan wordt deze (via de belasting) betaald door toekomstige generaties; (1p)\n• terwijl de huidige generatie / de gezinnen die de subsidie ontvangen (het meeste) voordeel heeft / hebben. (En daarom is er sprake van ruilen over de tijd.) 1 of\n• Als overheidssubsidie leidt tot investeringen door huishoudens / bedrijven, dan worden kosten nu … (1p)\n• geruild voor lagere (energie)kosten van het huishouden / bedrijf later. (En daarom is er sprake van ruilen over de tijd.) (1p)",
+"model": "Voorbeelden van een juiste uitleg zijn:\n• De duurzame opwekking van energie vergroot de welvaart van toekomstige generaties (door behoud van natuurlijke hulpbronnen / door behoud van gezonde lucht / door verminderde CO2-uitstoot) (1p)\n• en wordt (via de belastingheffing) betaald door de huidige generatie. (En daarom is er sprake van ruilen over de tijd.) (1p)\nof\n• Als de overheid de subsidie financiert met een lening, dan wordt deze (via de belasting) betaald door toekomstige generaties; (1p)\n• terwijl de huidige generatie / de gezinnen die de subsidie ontvangen (het meeste) voordeel heeft / hebben. (En daarom is er sprake van ruilen over de tijd.) (1p)\nof\n• Als overheidssubsidie leidt tot investeringen door huishoudens / bedrijven, dan worden kosten nu … (1p)\n• geruild voor lagere (energie)kosten van het huishouden / bedrijf later. (En daarom is er sprake van ruilen over de tijd.) (1p)",
 "pnt": 2
 },
 {
@@ -3892,7 +3892,7 @@ EXAMEN.vragen.push(...[
 "nr": 5,
 "ctx": "Om iets aan de hoge prijs van roomboter te doen, besluit de Noorse regering de belasting op de invoer van roomboter op te heffen. Hierdoor treden veel buitenlandse aanbieders toe tot de roombotermarkt in Noorwegen en ontstaat er een markt van volkomen concurrentie. De nieuwe toetreders hebben een andere kostenstructuur dan Tine. In het bronnenboekje wordt de situatie op de roombotermarkt onder monopolie (bron 1) en de situatie onder volkomen concurrentie (bron 2) weergegeven. De verandering van de marktstructuur heeft gevolgen voor zowel het consumentensurplus als het producentensurplus.",
 "q": "Gebruik bron 1 en bron 2.\nLeid uit de grafieken af dat het totale surplus toeneemt als de roombotermarkt verandert van monopolie naar volkomen concurrentie.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Voorbeelden van een juist antwoord zijn: Door de prijsdaling, de toename van de evenwichtshoeveelheid en de afname van de marginale kosten\n• neemt het consumentensurplus fors toe (van driehoek EFM naar driehoek SFU) (en wijzigt het producentensurplus relatief weinig, van rechthoek DEML naar driehoek RSU) (1p)\n• zodat de som van beide, oftewel het totale surplus, toeneemt (van DFML naar RFU) 1 of\n• het totale surplus bij monopolie heeft als oppervlak DFML (1p)\n• het totale surplus bij volkomen concurrentie heeft als oppervlak RFU, en RFU is groter dan DFML (1p)",
+"model": "Voorbeelden van een juist antwoord zijn: Door de prijsdaling, de toename van de evenwichtshoeveelheid en de afname van de marginale kosten\n• neemt het consumentensurplus fors toe (van driehoek EFM naar driehoek SFU) (en wijzigt het producentensurplus relatief weinig, van rechthoek DEML naar driehoek RSU) (1p)\n• zodat de som van beide, oftewel het totale surplus, toeneemt (van DFML naar RFU) (1p)\nof\n• het totale surplus bij monopolie heeft als oppervlak DFML (1p)\n• het totale surplus bij volkomen concurrentie heeft als oppervlak RFU, en RFU is groter dan DFML (1p)",
 "pnt": 2
 },
 {
@@ -4763,7 +4763,7 @@ EXAMEN.vragen.push(...[
 "nr": 18,
 "ctx": "Het plan heeft voordelen, maar er zitten ook risico’s aan als de deelnemers niet verplicht kunnen worden om voor een vast eindbedrag te blijven sparen. Uit onderzoek blijkt namelijk dat veel deelnemers dan keuzes maken waarbij ze te weinig pensioen opbouwen. Afhankelijk van het feit of een deelnemer een onder- of overspaarder is, kan een tijdelijke verlaging van de premie-inleg voor het bedrijfspensioen wel of niet risicovol zijn. Om te bepalen of een huishouden tot de onder- of overspaarders behoort, wordt gekeken naar de hoogte van de vervangingsratio. Onderspaarders, overspaarders, gelijkspaarders en vervangingsratio: - Onderspaarders zijn werknemers van wie het besteedbaar inkomen na pensionering naar verwachting1) lager is dan het besteedbaar inkomen vóór pensionering2). - Overspaarders zijn werknemers van wie het besteedbaar inkomen na pensionering naar verwachting1) hoger is dan het besteedbaar inkomen vóór pensionering2). - Gelijkspaarders zijn werknemers van wie het besteedbaar inkomen na pensionering naar verwachting1) gelijk is aan het besteedbaar inkomen vóór pensionering2). - Vervangingsratio = besteedbaar besteedbaar inkomen inkomen vóór na pensionering pensionering × 100% noot 1 De verwachting is gebaseerd op eerder ingelegde premies. noot 2 Met ‘besteedbaar inkomen vóór pensionering’ wordt het gemiddelde besteedbare inkomen bedoeld over de gehele periode voor pensionering. Stel dat een pensioendeelnemer met een besteedbaar inkomen vóór pensionering van € 40.000 een vervangingsratio heeft van 90%.",
 "q": "Bereken het pensioenbedrag dat deze deelnemer per jaar tekortkomt in vergelijking met een gelijkspaarder.",
-"model": "Voorbeelden van een juiste berekening zijn:\n• De deelnemer komt (100%−90%=)10% tekort (1p)\n• 10% van € 40.000 (het pensioenbedrag van een gelijkspaarder) is € 4.000 1 of\n• Besteedbaar inkomen na pensionering is € 40.000 × 90\n100 = € 36.000 1\n• Een gelijkspaarder zou € 40.000 per jaar krijgen, dus het pensioenbedrag dat de deelnemer tekort komt is € 4.000 per jaar (1p)",
+"model": "Voorbeelden van een juiste berekening zijn:\n• De deelnemer komt (100%−90%=)10% tekort (1p)\n• 10% van € 40.000 (het pensioenbedrag van een gelijkspaarder) is € 4.000 (1p)\nof\n• Besteedbaar inkomen na pensionering is € 40.000 × 90\n100 = € 36.000 1\n• Een gelijkspaarder zou € 40.000 per jaar krijgen, dus het pensioenbedrag dat de deelnemer tekort komt is € 4.000 per jaar (1p)",
 "pnt": 2
 },
 {
@@ -4964,7 +4964,7 @@ EXAMEN.vragen.push(...[
 "nr": 24,
 "ctx": "De renteverlaging door de ECB leidde op de valutamarkten tot een verandering van de wisselkoers van de euro in dollars. Deze wisselkoersverandering draagt ook bij aan het tegengaan van deflatie in de eurozone.",
 "q": "Leg uit dat deze koersverandering van de euro bijdraagt aan de economische groei in de eurozone.",
-"model": "Voorbeelden van juiste antwoorden zijn:\n• Daling van de eurokoers leidt tot dure import voor de eurozone (1p)\n• Hierdoor gaan er meer EU-producten gevraagd worden in plaats van importproducten van buiten de EU, zodat de economische groei wordt gestimuleerd 1 of\n• Daling van de eurokoers leidt ertoe dat de export toeneemt doordat de internationale concurrentiepositie van Europa verbetert / doordat Europese producten goedkoper worden voor kopers van buiten de eurozone (1p)\n• De toegenomen vraag van buiten de eurozone veroorzaakt een grotere productie in de EU, zodat de economische groei wordt gestimuleerd (1p)",
+"model": "Voorbeelden van juiste antwoorden zijn:\n• Daling van de eurokoers leidt tot dure import voor de eurozone (1p)\n• Hierdoor gaan er meer EU-producten gevraagd worden in plaats van importproducten van buiten de EU, zodat de economische groei wordt gestimuleerd (1p)\nof\n• Daling van de eurokoers leidt ertoe dat de export toeneemt doordat de internationale concurrentiepositie van Europa verbetert / doordat Europese producten goedkoper worden voor kopers van buiten de eurozone (1p)\n• De toegenomen vraag van buiten de eurozone veroorzaakt een grotere productie in de EU, zodat de economische groei wordt gestimuleerd (1p)",
 "pnt": 2
 },
 {
@@ -5044,7 +5044,7 @@ EXAMEN.vragen.push(...[
 "nr": 29,
 "ctx": "De Europese Commissie stuurt aan op handhaving van de afspraken van het stabiliteitspact. De Commissie kijkt ook naar de gevolgen van de hoge staatsschuld op de lange termijn. Bovendien is het niet nakomen van de afspraken over het overheidstekort ongunstig voor de kredietwaardigheid van Italië. De lage kredietwaardigheid zal tot uitdrukking komen in de ratings van Italiaanse staatsobligaties door kredietbeoordelaars. Op dit moment hebben deze obligaties nog een B-rating (zie bron 2).",
 "q": "Gebruik bron 2.\nLeg uit welk effect de lagere rating van kredietbeoordelaars zal hebben op de staatschuld van de Italiaanse overheid.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Voorbeelden van een juist antwoord zijn:\n• Een lagere rating betekent dat beleggers tegen strengere voorwaarden / hogere rente zullen uitlenen, waardoor de rente-uitgaven van de overheid (op de staatsschuld) stijgen (1p)\n• en moet de overheid meer lenen (bij gelijkblijvende belastinginkomsten en overige uitgaven), waardoor de staatsschuld groeit 1 of\n• Een lagere rating betekent lagere staatsobligatiekoersen, wat leidt tot verliezen op beleggingen van Italiaanse banken (1p)\n• die (bij te zwakke kapitaalpositie) een beroep doen op staatssteun van de Italiaanse overheid, wat leidt tot een stijging van de staatsschuld en tot financieringstekort (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• Een lagere rating betekent dat beleggers tegen strengere voorwaarden / hogere rente zullen uitlenen, waardoor de rente-uitgaven van de overheid (op de staatsschuld) stijgen (1p)\n• en moet de overheid meer lenen (bij gelijkblijvende belastinginkomsten en overige uitgaven), waardoor de staatsschuld groeit (1p)\nof\n• Een lagere rating betekent lagere staatsobligatiekoersen, wat leidt tot verliezen op beleggingen van Italiaanse banken (1p)\n• die (bij te zwakke kapitaalpositie) een beroep doen op staatssteun van de Italiaanse overheid, wat leidt tot een stijging van de staatsschuld en tot financieringstekort (1p)",
 "pnt": 2
 },
 {
@@ -5076,7 +5076,7 @@ EXAMEN.vragen.push(...[
 "nr": 2,
 "ctx": "Schadeverzekeringen hebben hun oorsprong in de scheepvaart. De Romeinen dreven handel met verre gebieden, waardoor er extra risico was van schade, bijvoorbeeld door zeerovers. Daarom werd de transportprijs verhoogd met een risico- opslag. Tegenwoordig is er een aparte verzekeringsmarkt waar schaderisico’s worden ondergebracht bij schadeverzekeraars.",
 "q": "Leg uit dat de markt van schadeverzekeringen een bijdrage levert aan het bruto binnenlands product.",
-"model": "Voorbeelden van een juist antwoord zijn:\n• Het bbp is de totale toegevoegde waarde van alle in een land geproduceerde goederen en diensten, en (1p)\n• er wordt omzet/waarde gegenereerd met de geleverde diensten (van zekerheid, van risicodekking) 1 of\n• Het bbp is het totaal aan beloningen die de productiefactoren ontvangen plus de afschrijvingen, en (1p)\n• met schadeverzekeringen wordt inkomen verdiend (loon, winst) 1 of\n• Het bbp is gelijk aan de finale bestedingen, en (1p)\n• uitgaven aan schadeverzekeringen (door consumenten) zijn onderdeel van deze finale bestedingen (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• Het bbp is de totale toegevoegde waarde van alle in een land geproduceerde goederen en diensten, en (1p)\n• er wordt omzet/waarde gegenereerd met de geleverde diensten (van zekerheid, van risicodekking) (1p)\nof\n• Het bbp is het totaal aan beloningen die de productiefactoren ontvangen plus de afschrijvingen, en (1p)\n• met schadeverzekeringen wordt inkomen verdiend (loon, winst) (1p)\nof\n• Het bbp is gelijk aan de finale bestedingen, en (1p)\n• uitgaven aan schadeverzekeringen (door consumenten) zijn onderdeel van deze finale bestedingen (1p)",
 "pnt": 2
 },
 {
@@ -6213,7 +6213,7 @@ EXAMEN.vragen.push(...[
 "nr": 3,
 "ctx": "Uit de doorrekening van het nieuwe belastingstelsel door het Centraal Planbureau (CPB) blijkt dat de maatregelen zorgen voor: - een gemiddelde stijging van het reëel arbeidsinkomen; - een stijging van de werkgelegenheid; - een daling van de werkloosheid.",
 "q": "Leg uit dat de vraag naar arbeid kan stijgen als gevolg van de invoering van het nieuwe belastingstelsel.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Het gemiddelde besteedbaar inkomen neemt toe, waardoor de vraag naar producten stijgt, (1p)\n• en waardoor de productie stijgt (en daardoor de vraag naar arbeid kan stijgen) 1 of\n• Het gemiddelde besteedbaar inkomen neemt toe, waardoor er lagere looneisen gesteld worden (ten behoeve van koopkrachtstijging) (1p)\n• en waardoor de concurrentiepositie verbetert, de (vraag en) productie stijgt (en daardoor de vraag naar arbeid kan stijgen) (1p)",
+"model": "Een voorbeeld van een juist antwoord is:\n• Het gemiddelde besteedbaar inkomen neemt toe, waardoor de vraag naar producten stijgt, (1p)\n• en waardoor de productie stijgt (en daardoor de vraag naar arbeid kan stijgen) (1p)\nof\n• Het gemiddelde besteedbaar inkomen neemt toe, waardoor er lagere looneisen gesteld worden (ten behoeve van koopkrachtstijging) (1p)\n• en waardoor de concurrentiepositie verbetert, de (vraag en) productie stijgt (en daardoor de vraag naar arbeid kan stijgen) (1p)",
 "pnt": 2
 },
 {
@@ -6229,7 +6229,7 @@ EXAMEN.vragen.push(...[
 "nr": 4,
 "ctx": "Door de toegenomen vraag naar arbeid daalt de werkloosheid. Een econoom stelt: “De daling van de werkloosheid als gevolg van het nieuwe belastingstelsel is minder sterk dan de stijging van de werkgelegenheid.”",
 "q": "Leg de stelling van de econoom uit.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Meer mensen (die eerder niet op zoek waren, en nu aangetrokken worden door de hogere netto beloning) zullen zich aanbieden op de arbeidsmarkt, en (1p)\n• dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (en dit betekent dat de daling van de werkloosheid minder sterk is dan de stijging van de werkgelegenheid) 1 of\n• Werknemers die in deeltijd werken (die niet op zoek waren naar extra arbeidsuren, en nu aangetrokken worden door de hogere netto beloning) zullen zich voor extra arbeidsuren aanbieden op de arbeidsmarkt, en (1p)\n• dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (en dit betekent dat de daling van de werkloosheid minder sterk is dan de stijging van de werkgelegenheid) 1 of\n• Mensen die werkloos zijn kunnen een andere opleiding / andere kwaliteiten hebben dan de gevraagde arbeid (er is sprake van kwalitatieve werkloosheid) (1p)\n• waardoor de toegenomen werkgelegenheid maar ten dele vervuld kan worden door mensen die werkloos zijn (en de daling van de werkloosheid dus minder sterk is dan de stijging van de werkgelegenheid) (1p)",
+"model": "Een voorbeeld van een juist antwoord is:\n• Meer mensen (die eerder niet op zoek waren, en nu aangetrokken worden door de hogere netto beloning) zullen zich aanbieden op de arbeidsmarkt, en (1p)\n• dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (en dit betekent dat de daling van de werkloosheid minder sterk is dan de stijging van de werkgelegenheid) (1p)\nof\n• Werknemers die in deeltijd werken (die niet op zoek waren naar extra arbeidsuren, en nu aangetrokken worden door de hogere netto beloning) zullen zich voor extra arbeidsuren aanbieden op de arbeidsmarkt, en (1p)\n• dit extra aanbod van arbeid vermindert het effect van de daling van het aantal werklozen (en dit betekent dat de daling van de werkloosheid minder sterk is dan de stijging van de werkgelegenheid) (1p)\nof\n• Mensen die werkloos zijn kunnen een andere opleiding / andere kwaliteiten hebben dan de gevraagde arbeid (er is sprake van kwalitatieve werkloosheid) (1p)\n• waardoor de toegenomen werkgelegenheid maar ten dele vervuld kan worden door mensen die werkloos zijn (en de daling van de werkloosheid dus minder sterk is dan de stijging van de werkgelegenheid) (1p)",
 "pnt": 2
 },
 {
@@ -6245,7 +6245,7 @@ EXAMEN.vragen.push(...[
 "nr": 5,
 "ctx": "Over de verhoging van het lage btw-tarief van 6 naar 9 procent ontstond direct veel discussie in de media. De koopkracht zou dalen als gevolg van toegenomen inflatie. Uit onderzoek van het CPB blijkt dat: - 20% van alle consumptieve bestedingen valt onder het huidige lage tarief van 6%; - 40% van alle consumptieve bestedingen valt onder het hoge tarief van 21%; - 40% van alle consumptieve bestedingen valt onder het tarief van 0%.",
 "q": "Bereken de inflatie die wordt veroorzaakt door de verhoging van het lage btw-tarief van 6% naar 9%. Rond je antwoord af op een decimaal.",
-"model": "Voorbeelden van een juiste benadering of berekening zijn:\n• De prijsstijging van de goederen onder het lage tarief is (bij benadering) 9% - 6% = 3% (1p)\n• De inflatie is (bij benadering) 20% van 3% ≈ 0,6% 1 of\n• De nieuwe prijsindex van goederen onder het lage tarief is (prijs voor de tariefswijziging = 100): 109 100 102,83 106 × = De relatieve prijsstijging van deze goederen is 102,83% − 100% = 2,83% (1p)\n• De inflatie is 20% van 2,83% is 0,57% ≈ 0,6% 1 of\n• Poud = 100 Pnieuw : × × + + × = 109 0,2 100 (0,4 0,4) 100 100,566 106 (1p)\n• inflatie ≈ Pnieuw - Poud = 100,566 - 100 = 0,5666 ≈ 0,6% (1p)",
+"model": "Voorbeelden van een juiste benadering of berekening zijn:\n• De prijsstijging van de goederen onder het lage tarief is (bij benadering) 9% - 6% = 3% (1p)\n• De inflatie is (bij benadering) 20% van 3% ≈ 0,6% (1p)\nof\n• De nieuwe prijsindex van goederen onder het lage tarief is (prijs voor de tariefswijziging = 100): 109 100 102,83 106 × = De relatieve prijsstijging van deze goederen is 102,83% − 100% = 2,83% (1p)\n• De inflatie is 20% van 2,83% is 0,57% ≈ 0,6% (1p)\nof\n• Poud = 100 Pnieuw : × × + + × = 109 0,2 100 (0,4 0,4) 100 100,566 106 (1p)\n• inflatie ≈ Pnieuw - Poud = 100,566 - 100 = 0,5666 ≈ 0,6% (1p)",
 "pnt": 2
 },
 {
@@ -6293,7 +6293,7 @@ EXAMEN.vragen.push(...[
 "nr": 8,
 "ctx": "Tijdens een inspraakavond in de gemeente wordt verschillend gedacht over het plan van de wethouder. Mevrouw van Buren stelt dat de gemeente de investering uit moet stellen totdat het nieuwe systeem zich in andere gemeentes voldoende heeft bewezen, om zodoende te voorkomen dat de gemeente te maken krijgt met verzonken kosten. De heer Jastek stelt dat de afgenomen kans op gezondheidsklachten bij personeel leidt tot een daling van de negatieve externe effecten.",
 "q": "Leg de stelling van mevrouw van Buren uit.",
-"model": "Voorbeelden van een juist antwoord zijn:\n• De scholing van de chauffeur van de vuilnisvrachtwagen is heel specifiek (1p)\n• Indien het experiment mislukt kunnen de investeringskosten van deze scholing niet terugverdiend worden 1 of\n• De technische aanpassing is heel specifiek (1p)\n• Indien het experiment mislukt, kunnen de investeringskosten van deze aanpassing niet terugverdiend worden (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• De scholing van de chauffeur van de vuilnisvrachtwagen is heel specifiek (1p)\n• Indien het experiment mislukt kunnen de investeringskosten van deze scholing niet terugverdiend worden (1p)\nof\n• De technische aanpassing is heel specifiek (1p)\n• Indien het experiment mislukt, kunnen de investeringskosten van deze aanpassing niet terugverdiend worden (1p)",
 "pnt": 2
 },
 {
@@ -6581,7 +6581,7 @@ EXAMEN.vragen.push(...[
 "nr": 26,
 "ctx": "Inktmarkt.nl is aanbieder van kloon-patronen. De marketingdirecteur legt uit waarom de kloon-patronen van Inktmarkt.nl zo populair zijn: “Wij leveren dezelfde kwaliteit inkt tegen minder dan 50% van de prijs van de originele patronen.” Sister, met een jaaromzet van 65 miljoen euro op de Nederlandse markt, heeft plannen om de internetwinkel Inktmarkt.nl met een jaaromzet van 20 miljoen euro over te nemen. Inktmarkt.nl verkoopt alleen in Nederland. In bepaalde gevallen moeten overnames verplicht worden aangemeld bij de mededingingsautoriteit.",
 "q": "Leg uit hoe het overnemen van Inktmarkt.nl voor Sister een mogelijk kostenvoordeel kan opleveren.",
-"model": "Voorbeelden van een juist antwoord zijn:\n• Door de overname van Inktmarkt.nl krijgt Sister een grotere afzet (q) wat kan leiden tot schaalvoordelen, en (1p)\n• daardoor nemen de gemiddelde totale kosten (GTK) af / daardoor neemt de kostprijs af 1 of\n• Door de overname van inktmarkt.nl zal de productie van kloonpatronen door concurrenten dalen (1p)\n• Hierdoor is het minder noodzakelijk om te innoveren, waardoor de gemiddelde totale kosten (GTK) kunnen dalen (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• Door de overname van Inktmarkt.nl krijgt Sister een grotere afzet (q) wat kan leiden tot schaalvoordelen, en (1p)\n• daardoor nemen de gemiddelde totale kosten (GTK) af / daardoor neemt de kostprijs af (1p)\nof\n• Door de overname van inktmarkt.nl zal de productie van kloonpatronen door concurrenten dalen (1p)\n• Hierdoor is het minder noodzakelijk om te innoveren, waardoor de gemiddelde totale kosten (GTK) kunnen dalen (1p)",
 "pnt": 2
 },
 {
@@ -6983,7 +6983,7 @@ EXAMEN.vragen.push(...[
 "nr": 13,
 "ctx": "Uit een krant, december 2022: Als een werknemer zijn auto van de zaak ook privé gebruikt, wordt dat door de belastingdienst gezien als extra inkomen uit arbeid. Daarom moet een bepaald percentage van de aanschafwaarde van de auto jaarlijks bij het bruto jaarinkomen worden opgeteld, waardoor het belastbaar inkomen stijgt: de zogenoemde fiscale bijtelling. De overheid van een land houdt zich aan het klimaatakkoord. Daarom zal vanaf 1 januari 2023 deze fiscale bijtelling afhankelijk worden van de CO2- uitstoot van de auto en het type brandstof dat de auto verbruikt. Volgens de overheid heeft deze nieuwe regeling ook een gunstig effect op de technologische vooruitgang en daarmee op de structurele groei van de economie.",
 "q": "Gebruik bron 1.\nLeg uit dat de nieuwe regeling van fiscale bijtelling de negatieve externe effecten van het autorijden kan terugdringen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Een voorbeeld van een juist antwoord is:\n• CO2-uitstoot is een negatief extern effect van autorijden, omdat de vervuiling niet tot uitdrukking komt in de prijs van autorijden (en dat leidt tot maatschappelijke kosten) (1p)\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO2-uitstoot. De CO2-uitstoot zal afnemen, omdat de werknemer (via het prijsmechanisme) wordt gestimuleerd om een auto met minder CO2-uitstoot te kiezen 1 of\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO2-uitstoot. Hierdoor wordt de vervuiling (als gevolg van CO2-uitstoot) geïnternaliseerd en is er sprake van minder negatieve externe effecten (2p)\nHA-1022-a-23-1-c-A",
+"model": "Een voorbeeld van een juist antwoord is:\n• CO2-uitstoot is een negatief extern effect van autorijden, omdat de vervuiling niet tot uitdrukking komt in de prijs van autorijden (en dat leidt tot maatschappelijke kosten) (1p)\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO2-uitstoot. De CO2-uitstoot zal afnemen, omdat de werknemer (via het prijsmechanisme) wordt gestimuleerd om een auto met minder CO2-uitstoot te kiezen (1p)\nof\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO2-uitstoot. Hierdoor wordt de vervuiling (als gevolg van CO2-uitstoot) geïnternaliseerd en is er sprake van minder negatieve externe effecten (2p)\nHA-1022-a-23-1-c-A",
 "pnt": 2
 },
 {
@@ -7063,7 +7063,7 @@ EXAMEN.vragen.push(...[
 "nr": 18,
 "ctx": "Vanuit de Verenigde Staten (VS) komt kritiek op de renteverlaging door de ECB. Een Amerikaanse politicus: “Die renteverlaging door de ECB kan zorgen voor een verslechtering van de internationale concurrentiepositie van de VS.”",
 "q": "Leg uit dat een renteverlaging van de ECB zorgt voor een verslechtering van de internationale concurrentiepositie van de VS.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Door een verlaging van de rente dalen de kosten van Europese producenten (1p)\n• Hierdoor kunnen prijzen van Europese producten dalen ten opzichte van prijzen van Amerikaanse producten (waardoor de internationale concurrentiepositie van de VS verslechtert) 1 of\n• Indien de ECB de rente verlaagt zal de rente in de VS relatief hoog zijn. Meer internationale beleggers zullen in de VS krediet willen verlenen. Hierdoor is er meer vraag naar de dollar waardoor de dollar apprecieert (1p)\n• Amerikaanse producten worden in euro’s duurder (waardoor de internationale concurrentiepositie van de VS verslechtert) (1p)\nOpmerkingen - Bij een antwoord in de lijn van het tweede voorbeeld moeten\nkapitaalstroom en vraag naar dollars verwoord zijn voor het eerste scorepunt. - Een beredenering vanuit de EU kan juist zijn.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Door een verlaging van de rente dalen de kosten van Europese producenten (1p)\n• Hierdoor kunnen prijzen van Europese producten dalen ten opzichte van prijzen van Amerikaanse producten (waardoor de internationale concurrentiepositie van de VS verslechtert) (1p)\nof\n• Indien de ECB de rente verlaagt zal de rente in de VS relatief hoog zijn. Meer internationale beleggers zullen in de VS krediet willen verlenen. Hierdoor is er meer vraag naar de dollar waardoor de dollar apprecieert (1p)\n• Amerikaanse producten worden in euro’s duurder (waardoor de internationale concurrentiepositie van de VS verslechtert) (1p)\nOpmerkingen - Bij een antwoord in de lijn van het tweede voorbeeld moeten\nkapitaalstroom en vraag naar dollars verwoord zijn voor het eerste scorepunt. - Een beredenering vanuit de EU kan juist zijn.",
 "pnt": 2
 },
 {
@@ -7191,7 +7191,7 @@ EXAMEN.vragen.push(...[
 "nr": 26,
 "ctx": "De dalende olieprijs had ook gevolgen voor andere markten. Zo bleek de prijs voor het gebruik van olietankers voor olieopslag juist te zijn gestegen met meer dan 1.000%. Daarnaast verwachtten analisten dat de dalende olieprijs ertoe kan leiden dat investeerders in duurzame energieproductie een lagere winstgevendheid op hun investeringen behalen.",
 "q": "Beredeneer op welke manier de dalende olieprijs kan leiden tot een prijsstijging van het gebruik van olietankers voor olieopslag.",
-"model": "Voorbeelden van een juist antwoord zijn:\n• Door de lage olieprijs bieden olieproducenten minder olie aan terwijl deze wel is geproduceerd (1p)\n• Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van olietankers 1 of\n• Door de lage olieprijs kan het voor importeurs / oliehandelaren goedkoper zijn om nu te kopen en op te slaan voor latere consumptie / doorverkoop (1p)\n• Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van het gebruik van olietankers (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• Door de lage olieprijs bieden olieproducenten minder olie aan terwijl deze wel is geproduceerd (1p)\n• Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van olietankers (1p)\nof\n• Door de lage olieprijs kan het voor importeurs / oliehandelaren goedkoper zijn om nu te kopen en op te slaan voor latere consumptie / doorverkoop (1p)\n• Hierdoor stijgt de vraag naar opslagcapaciteit / olietankers en stijgt (bij gelijkblijvend aanbod) de prijs van het gebruik van olietankers (1p)",
 "pnt": 2
 },
 {
@@ -8376,7 +8376,7 @@ EXAMEN.vragen.push(...[
 "nr": 22,
 "ctx": "Als gevolg van de lage dekkingsgraad is de kans groot dat de huidige en toekomstige pensioenuitkeringen moeten worden verlaagd.",
 "q": "Leg uit dat verlaging van de pensioenuitkeringen kan leiden tot afname van de huidige bestedingen van de werkzame beroepsbevolking.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Een verlaging van de pensioenuitkeringen zorgt voor een daling van het toekomstig inkomen van werkenden. (1p)\n• Hierdoor zullen werkenden kiezen om nu extra te sparen (waardoor er minder besteed gaat worden.) 1 of\n• Door de verlaging van de pensioenen gaan ouderen minder besteden, hierdoor daalt de vraag en de productie. (1p)\n• Werkenden worden werkloos, waardoor het inkomen daalt. Hierdoor heeft de werkzame bevolking minder te besteden. (1p)",
+"model": "Een voorbeeld van een juist antwoord is:\n• Een verlaging van de pensioenuitkeringen zorgt voor een daling van het toekomstig inkomen van werkenden. (1p)\n• Hierdoor zullen werkenden kiezen om nu extra te sparen (waardoor er minder besteed gaat worden.) (1p)\nof\n• Door de verlaging van de pensioenen gaan ouderen minder besteden, hierdoor daalt de vraag en de productie. (1p)\n• Werkenden worden werkloos, waardoor het inkomen daalt. Hierdoor heeft de werkzame bevolking minder te besteden. (1p)",
 "pnt": 2
 },
 {
@@ -8392,7 +8392,7 @@ EXAMEN.vragen.push(...[
 "nr": 23,
 "ctx": "Als gevolg van de lage dekkingsgraad is de kans groot dat de huidige en toekomstige pensioenuitkeringen moeten worden verlaagd.",
 "q": "Leg uit dat uitstel van verlaging van pensioenuitkeringen kan leiden tot afname van de huidige bestedingen.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Het uitstellen van pensioenverlagingen kan leiden tot onzekerheid over het inkomen (bij zowel werkenden als gepensioneerden) (1p)\n• en bij onzekerheid over toekomstig inkomen neemt het consumentenvertrouwen af (en daarmee ook de huidige bestedingen van werkenden en gepensioneerden). 1 of\n• Uitstel van het verlagen van de pensioenuitkeringen leidt in de toekomst tot een extra verlaging van de pensioenuitkeringen / een extra premieverhoging. (1p)\n• Hierdoor zullen werkenden er eerder voor kiezen nu extra te sparen om deze toekomstige terugval op te vangen (waardoor er minder besteed gaat worden.) (1p)",
+"model": "Een voorbeeld van een juist antwoord is:\n• Het uitstellen van pensioenverlagingen kan leiden tot onzekerheid over het inkomen (bij zowel werkenden als gepensioneerden) (1p)\n• en bij onzekerheid over toekomstig inkomen neemt het consumentenvertrouwen af (en daarmee ook de huidige bestedingen van werkenden en gepensioneerden). (1p)\nof\n• Uitstel van het verlagen van de pensioenuitkeringen leidt in de toekomst tot een extra verlaging van de pensioenuitkeringen / een extra premieverhoging. (1p)\n• Hierdoor zullen werkenden er eerder voor kiezen nu extra te sparen om deze toekomstige terugval op te vangen (waardoor er minder besteed gaat worden.) (1p)",
 "pnt": 2
 },
 {
@@ -8853,7 +8853,7 @@ EXAMEN.vragen.push(...[
 "nr": 18,
 "ctx": "Een econoom reageert op het krantenbericht met twee beweringen. Bewering 1: “Door de renteverlaging zullen in een laagconjunctuur de bedrijfsinvesteringen nauwelijks toenemen.” Bewering 2: “De afweging van huurders om nu al dan niet over te gaan tot koop van een eigen woning, is gebaseerd op veel meer factoren dan alleen de hoogte van het rentetarief. Ik heb een voorbeeld uitgewerkt (bron 1).”",
 "q": "Leg bewering 1 uit.",
-"model": "Een voorbeeld van een juiste verklaring is:\n• In een laagconjunctuur is sprake van onderbezetting van de productiecapaciteit, (1p)\n• waardoor toegenomen bestedingen (vanwege de renteverlaging) zonder investeringen kunnen worden beantwoord (met productieverhoging). 1 of\n• In een laagconjunctuur hebben bedrijven geen / lage winstverwachtingen, (1p)\n• waardoor investeringen (naar verwachting) niet kunnen worden terugverdiend, en daardoor nauwelijks toenemen. (1p)",
+"model": "Een voorbeeld van een juiste verklaring is:\n• In een laagconjunctuur is sprake van onderbezetting van de productiecapaciteit, (1p)\n• waardoor toegenomen bestedingen (vanwege de renteverlaging) zonder investeringen kunnen worden beantwoord (met productieverhoging). (1p)\nof\n• In een laagconjunctuur hebben bedrijven geen / lage winstverwachtingen, (1p)\n• waardoor investeringen (naar verwachting) niet kunnen worden terugverdiend, en daardoor nauwelijks toenemen. (1p)",
 "pnt": 2
 },
 {
@@ -9061,7 +9061,7 @@ EXAMEN.vragen.push(...[
 "nr": 3,
 "ctx": "Het debat gaat verder. Econoom 2 beweert: “Het minimumuurloon ligt boven het marktloon. Het verhogen van het minimumuurloon heeft een effect op de werkloosheid”.",
 "q": "Leg uit welk effect het verhogen van het minimumuurloon heeft op de werkloosheid.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Het minimumuurloon wordt verhoogd, waardoor de aangeboden hoeveelheid arbeid (ten opzichte van de gevraagde hoeveelheid) zal toenemen. (1p)\n• Hierdoor zal de werkloosheid toenemen. 1 of\n• Het minimumuurloon wordt verhoogd, waardoor de gevraagde hoeveelheid arbeid (ten opzichte van de aangeboden hoeveelheid) zal afnemen. (1p)\n• Hierdoor zal de werkloosheid toenemen. 1 of\n• Het minimumuurloon wordt verhoogd, waardoor de consumptie stijgt en daardoor de productie stijgt. (1p)\n• Hierdoor stijgt de vraag naar arbeid en zal de werkloosheid afnemen. 1 of\n• Het minimumuurloon wordt verhoogd, waardoor de loonkosten stijgen. De loonkosten per product stijgen, waardoor de productie daalt. (1p)\n• Hierdoor daalt de vraag naar arbeid en zal de werkloosheid toenemen. (1p)\nOpmerking Het tweede scorepunt uitsluitend toekennen als het een logisch gevolg is van de eerste stap.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Het minimumuurloon wordt verhoogd, waardoor de aangeboden hoeveelheid arbeid (ten opzichte van de gevraagde hoeveelheid) zal toenemen. (1p)\n• Hierdoor zal de werkloosheid toenemen. (1p)\nof\n• Het minimumuurloon wordt verhoogd, waardoor de gevraagde hoeveelheid arbeid (ten opzichte van de aangeboden hoeveelheid) zal afnemen. (1p)\n• Hierdoor zal de werkloosheid toenemen. (1p)\nof\n• Het minimumuurloon wordt verhoogd, waardoor de consumptie stijgt en daardoor de productie stijgt. (1p)\n• Hierdoor stijgt de vraag naar arbeid en zal de werkloosheid afnemen. (1p)\nof\n• Het minimumuurloon wordt verhoogd, waardoor de loonkosten stijgen. De loonkosten per product stijgen, waardoor de productie daalt. (1p)\n• Hierdoor daalt de vraag naar arbeid en zal de werkloosheid toenemen. (1p)\nOpmerking Het tweede scorepunt uitsluitend toekennen als het een logisch gevolg is van de eerste stap.",
 "pnt": 2
 },
 {
@@ -9093,7 +9093,7 @@ EXAMEN.vragen.push(...[
 "nr": 5,
 "ctx": "Een 16-jarige begint op 31 maart 2024 met werken bij een supermarkt. Op 31 juli 2024 is deze persoon nog steeds 16 jaar.",
 "q": "Gebruik bron 1 en 2.\nBereken hoe hoog het minimumuurloon op 31 juli 2024 van de 16-jarige moet zijn om minimaal dezelfde koopkracht te behouden als op 31 maart 2024.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Een voorbeeld van een juiste berekening is:\n• De inflatie (van april tot en met juli) is (bij benadering) 0,16 + 0,39 + 0,44 + 0,77 = 1,76%\n1\n• Het minimumuurloon voor een 16-jarige zal moeten stijgen tot 1,0176 x € 4,58 = € 4,66 (om dezelfde koopkracht te behouden). 1 of\n• De inflatie (van april tot en met juli) is 100 x 1,0016 x 1,0039 x 1,0044 x 1,0077 – 100 = 1,77%\n1\n• Het minimumuurloon voor een 16-jarige zal moeten stijgen tot 1,0177 x € 4,58 = € 4,66 (om dezelfde koopkracht te behouden). (1p)\nOpmerking Als de kandidaat de inflatie berekent op basis van 3 of 5 maanden kunnen maximale scorepunten worden behaald.",
+"model": "Een voorbeeld van een juiste berekening is:\n• De inflatie (van april tot en met juli) is (bij benadering) 0,16 + 0,39 + 0,44 + 0,77 = 1,76%\n1\n• Het minimumuurloon voor een 16-jarige zal moeten stijgen tot 1,0176 x € 4,58 = € 4,66 (om dezelfde koopkracht te behouden). (1p)\nof\n• De inflatie (van april tot en met juli) is 100 x 1,0016 x 1,0039 x 1,0044 x 1,0077 – 100 = 1,77%\n1\n• Het minimumuurloon voor een 16-jarige zal moeten stijgen tot 1,0177 x € 4,58 = € 4,66 (om dezelfde koopkracht te behouden). (1p)\nOpmerking Als de kandidaat de inflatie berekent op basis van 3 of 5 maanden kunnen maximale scorepunten worden behaald.",
 "pnt": 2
 },
 {
@@ -9362,7 +9362,7 @@ EXAMEN.vragen.push(...[
 "nr": 18,
 "ctx": "De Nederlandse overheid geeft een groot deel van de verkregen emissierechten aan bedrijven die vooral produceren voor de export.",
 "q": "Leg uit dat het grotendeels toewijzen van emissierechten aan internationaal opererende bedrijven een vorm van protectie is.",
-"model": "Voorbeelden van een juist antwoord zijn:\n• De Nederlandse overheid geeft exporterende bedrijven emissierechten om te zorgen dat de kosten van bedrijven niet stijgen / de kosten minder stijgen dan van buitenlandse concurrenten. (1p)\n• Daarmee beschermt het de eigen productie / werkgelegenheid. 1 of\n• De Nederlandse overheid geeft exporterende bedrijven emissierechten om te zorgen dat de productie zich niet verplaatst naar een ander land, (1p)\n• waardoor de eigen productie / eigen werkgelegenheid behouden blijft. 1 of\n• De Nederlandse overheid geeft exporterende bedrijven emissierechten, dus is er sprake van een (export)-subsidie. (1p)\n• Daarmee beschermt het de eigen productie / werkgelegenheid. (1p)",
+"model": "Voorbeelden van een juist antwoord zijn:\n• De Nederlandse overheid geeft exporterende bedrijven emissierechten om te zorgen dat de kosten van bedrijven niet stijgen / de kosten minder stijgen dan van buitenlandse concurrenten. (1p)\n• Daarmee beschermt het de eigen productie / werkgelegenheid. (1p)\nof\n• De Nederlandse overheid geeft exporterende bedrijven emissierechten om te zorgen dat de productie zich niet verplaatst naar een ander land, (1p)\n• waardoor de eigen productie / eigen werkgelegenheid behouden blijft. (1p)\nof\n• De Nederlandse overheid geeft exporterende bedrijven emissierechten, dus is er sprake van een (export)-subsidie. (1p)\n• Daarmee beschermt het de eigen productie / werkgelegenheid. (1p)",
 "pnt": 2
 },
 {
@@ -9458,7 +9458,7 @@ EXAMEN.vragen.push(...[
 "nr": 24,
 "ctx": "De onderzoeker: “Bij maatregel 2 ontvangen AOW’ers een lagere maandelijkse uitkering. Bovendien komt de koopkracht van AOW’ers verder onder druk te staan, zelfs al bij een inflatie van 1%. Voor een (echt)paar met een AOW-uitkering als enige bron van inkomsten, levert maatregel 2 een koopkrachtdaling van minimaal 6% op.”",
 "q": "Gebruik bron 1 en 2.\nToon met een berekening aan dat door maatregel 2 de koopkrachtdaling voor een (echt)paar minimaal 6% is bij een inflatie van 1%.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Voorbeelden van een juiste berekening zijn:\n• € 1.708,08 – € 1.807,20\n1.807,20 x 100% = -5,5% €\n1\n• Koopkrachtverandering = -5,5% − 1% (inflatie) = -6,5% 1 of\n• €€ 1.708,08 1.807,20\nx 100 = 94,5 1\n• 94,5 101 x 100 = 93,6 Dus een daling van 6,4% (1p)",
+"model": "Voorbeelden van een juiste berekening zijn:\n• € 1.708,08 – € 1.807,20\n1.807,20 x 100% = -5,5% €\n1\n• Koopkrachtverandering = -5,5% − 1% (inflatie) = -6,5% (1p)\nof\n• €€ 1.708,08 1.807,20\nx 100 = 94,5 1\n• 94,5 101 x 100 = 93,6 Dus een daling van 6,4% (1p)",
 "pnt": 2
 },
 {
@@ -9474,7 +9474,7 @@ EXAMEN.vragen.push(...[
 "nr": 25,
 "ctx": "De onderzoeker zegt over maatregel 3: “Dit leidt ertoe dat een alleenstaande oudere met een AOW-uitkering als enige inkomstenbron, jaarlijks een paar duizend euro meer belasting in box 1 moet betalen ten opzichte van de huidige situatie.”",
 "q": "Gebruik bron 1, 2 en 3.\nBereken hoeveel euro een alleenstaande oudere extra in box 1 moet betalen door maatregel 3.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
-"model": "Voorbeelden van een juiste berekening zijn:\n• Belasting met maatregel 3: € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x 0,3693 = € 5.897 (1p)\n• Belasting zonder maatregel 3: € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x 0,1903 = € 3.038 € 5.897 − € 3.038 = € 2.859 1 of\n• € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x (0,3693 − 0,1903) = € 2.858 (2p)\nOpmerking Als de kandidaat met niet afgeronde getallen rekent kan de maximale score worden behaald.",
+"model": "Voorbeelden van een juiste berekening zijn:\n• Belasting met maatregel 3: € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x 0,3693 = € 5.897 (1p)\n• Belasting zonder maatregel 3: € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x 0,1903 = € 3.038 € 5.897 − € 3.038 = € 2.859 (1p)\nof\n• € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x (0,3693 − 0,1903) = € 2.858 (2p)\nOpmerking Als de kandidaat met niet afgeronde getallen rekent kan de maximale score worden behaald.",
 "pnt": 2
 },
 {
@@ -10574,7 +10574,7 @@ EXAMEN.vragen.push(...[
 "nr": 15,
 "ctx": "De verhuurder heeft ook een sterke onderhandelingspositie, daarom analyseert FC Forward de onderhandelingspositie (zie matrix 1). Matrix 1 Verandering van de financiële positie Verhuurder stadion Huur verhogen Gelijke huur Huur verlagen FC Forward Huur- contract verlengen -3% ; 2% -2% ; 0% 15% ; -2% Huur- contract opzeggen -100% ; -100% -100% -100% -100% ; -100%",
 "q": "Gebruik matrix 1.\nLeg met behulp van de getallen uit of de dreiging van FC Forward om het huurcontract op te zeggen geloofwaardig is.",
-"model": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van de voetbalclub is / De voetbalclub zal altijd het huurcontract verlengen, want –3% > –100%, –2% > –100% en 15% > –100%. 1 of\n• Omdat de strategie van de verhuurder “Huur verlagen” niet tot een dreiging van “Huurcontract opzeggen” leidt, zal de voetbalclub altijd het huurcontract verlengen, want –3% > –100% en –2% > –100%. (1p)\n• Er is dus geen sprake van geloofwaardige dreiging van FC Forward. (1p)",
+"model": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van de voetbalclub is / De voetbalclub zal altijd het huurcontract verlengen, want –3% > –100%, –2% > –100% en 15% > –100%. (1p)\nof\n• Omdat de strategie van de verhuurder “Huur verlagen” niet tot een dreiging van “Huurcontract opzeggen” leidt, zal de voetbalclub altijd het huurcontract verlengen, want –3% > –100% en –2% > –100%. (1p)\n• Er is dus geen sprake van geloofwaardige dreiging van FC Forward. (1p)",
 "pnt": 2
 },
 {
@@ -10670,7 +10670,7 @@ EXAMEN.vragen.push(...[
 "nr": 21,
 "ctx": "De Europese Centrale Bank (ECB) heeft een inflatiedoelstelling van 2%. Een te lage inflatie kan leiden tot deflatie en dat kan weer leiden tot een hogere werkloosheid. Een te hoge inflatie verslechtert de handelspositie van een land.",
 "q": "Leg uit dat een te hoge inflatie leidt tot een verslechtering van het saldo op de lopende rekening.",
-"model": "Een voorbeeld van een juist antwoord is:\n• Een te hoge inflatie leidt tot stijgende exportprijzen / hogere prijzen ten opzichte van het buitenland. (1p)\n• Hierdoor zal de vraag naar goederen en diensten vanuit het buitenland dalen / zal de export dalen. (Daardoor verslechtert het saldo op de lopende rekening.) 1 of\n• Hierdoor zal de vraag naar goederen en diensten uit het buitenland stijgen / zal de import stijgen. (Daardoor verslechtert het saldo op de lopende rekening.) (1p)",
+"model": "Een voorbeeld van een juist antwoord is:\n• Een te hoge inflatie leidt tot stijgende exportprijzen / hogere prijzen ten opzichte van het buitenland. (1p)\n• Hierdoor zal de vraag naar goederen en diensten vanuit het buitenland dalen / zal de export dalen. (Daardoor verslechtert het saldo op de lopende rekening.) (1p)\nof\n• Hierdoor zal de vraag naar goederen en diensten uit het buitenland stijgen / zal de import stijgen. (Daardoor verslechtert het saldo op de lopende rekening.) (1p)",
 "pnt": 2
 },
 {
@@ -11773,6 +11773,470 @@ EXAMEN.vragen.push(...[
 "ctx": "Investeringen in menselijk kapitaal kunnen ook door de werkgever gedaan worden. Deze investeringen kunnen leiden tot verzonken kosten voor de werkgever.",
 "q": "Leg uit hoe de werkgever ervoor kan zorgen dat er geen verzonken kosten optreden.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De werkgever kan een clausule in het contract van de werknemer opnemen dat hij/zij een minimale periode in dienst moet blijven. (1p)\n• Op deze manier kan de werkgever de investering terugverdienen, waardoor er geen verzonken kosten optreden. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Solo",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.1",
+"t": "open",
+"nr": 1,
+"ctx": "Monopolist Solo is een rederij die personen vervoert per boot tussen verschillende Indonesische eilanden. De directeur overweegt vanwege het milieu de vervuilende diesel te vervangen door een schonere, duurdere biobrandstof. In figuur 1 zijn de kosten en opbrengsten van Solo geschetst. Figuur 1 Kosten en opbrengsten van Solo in 2025 GO = -2Q + 100 MKdiesel = 16 (x 1.000) MKbio = 24 (x 1.000) GO is de prijs van een ticket in roepia (x 1.000)",
+"q": "Leg uit dat het gebruik van diesel leidt tot maatschappelijke kosten. Ga in je antwoord in op een voorbeeld van maatschappelijke kosten van het gebruik van diesel.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een voorbeeld van maatschappelijke kosten. (1p)\n• een uitleg van het ontstaan van maatschappelijke kosten. (1p)\nEen voorbeeld van een juist antwoord is:\n• De vervuilende dieselbrandstof leidt tot kosten zoals schoonmaakkosten / het aanplanten van extra bomen / gezondheidskosten / onderhoudskosten aan infrastructuur of milieu. (1p)\n• Deze kosten worden betaald door de maatschappij en niet door de gebruikers zelf / zijn niet in de prijs opgenomen. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Solo",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.2",
+"t": "open",
+"nr": 2,
+"ctx": "Solo streeft naar maximale winst en behaalt deze bij het gebruik van diesel bij een prijs van 58.000 roepia per ticket. De winst is dan 690.000 roepia.",
+"q": "Bereken de totale vaste (constante) kosten.",
+"model": "Een voorbeeld van een juiste berekening is:\n• GO = 58 → 58 = –2Q + 100 → Q = 21 TO = 58 x 21 = 1.218 (x 1.000) TVK = 16 x 21 = 336 (x 1.000) (1p)\n• TW = TO – TK → 1.218.000 – (336.000 + TCK) = 690.000 → TCK = 192.000 roepia (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Solo",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.3",
+"t": "open",
+"nr": 3,
+"ctx": "De directeur kiest vanwege sociale normen voor biobrandstof. De stijging van de marginale kosten leidt tot een nieuwe prijs. Solo streeft nog steeds naar maximale winst.",
+"q": "Bereken de procentuele prijsstijging van een ticket door de keuze voor biobrandstof.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een afleiding van de MO-functie. (1p)\n• een berekening van de afzet bij maximale winst. (1p)\n• een berekening van de procentuele prijsstijging. (1p)\nEen voorbeeld van een juiste berekening is:\n• GO = –2Q + 100 → TO = –2Q² + 100Q → MO = –4Q + 100 (1p)\n• MO = MKbio → –4Q + 100 = 24 → Q = 19 (1p)\n• GO = (–2 x 19) + 100 = 62 (x 1.000) De prijs stijgt met (62 – 58) / 58 x 100% = 6,9%. (1p)",
+"pnt": 3
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Solo",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.4",
+"t": "open",
+"nr": 4,
+"ctx": "Als gevolg van de keuze voor biobrandstof verandert het totale surplus bij winstmaximalisatie.",
+"q": "Arceer in figuur 1 van de uitwerkbijlage de vlakken die deze verandering van het totale surplus bij winstmaximalisatie weergeven.",
+"model": "Een juist antwoord bevat:\n• het arceren van de verandering als gevolg van de andere prijs. (1p)\n• het arceren van de verandering als gevolg van de andere afzet. (1p)\nEen voorbeeld van een juiste arcering is: (zie de tekening in het correctievoorschrift)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Solo",
+"d": "F",
+"e": "EX.F",
+"id": "ex.v26-1.5",
+"t": "open",
+"nr": 5,
+"ctx": "Rederij Laman ziet winstkansen en zal in 2026 toetreden door te varen met biobrandstof. Laman heeft drie strategieën om toe te treden tot de markt (zie spelboom 1). Vanwege deze concurrentie verwacht Solo minder winst te behalen en overweegt weer op diesel te gaan varen. Spelboom 1 Winsten in roepia (x 1.000) in het jaar 2026 De winst van Solo zal in 2027 dalen als gevolg van de speluitkomst in 2026.",
+"q": "Geef aan:\n- wat de speluitkomst is in 2026; - dat de winst van Solo in 2027 zal dalen als gevolg van het afwijken van de sociale norm.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• het aangeven van de speluitkomst in 2026. (1p)\n• het aangeven van het verband tussen de sociale norm en winst in 2027. (1p)\nEen voorbeeld van een juist antwoord is:\n• De uitkomst is (snellere boot ; diesel) / (120 ; 160). (1p)\n• Het afwijken van de sociale norm leidt tot reputatieschade / lagere afzet voor Solo. (Hierdoor daalt de winst van Solo.) (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Geld in de markt",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.6",
+"t": "open",
+"nr": 6,
+"ctx": "In deze opgave gaat het bij de rente altijd om de geldmarktrente. De geldmarktrente is de rente op kortlopende leningen. Op de geldmarkt bieden pensioenfondsen en banken geld aan. Overheden vragen om geld als zij kortlopende leningen afsluiten om investeringen in publiek kapitaal te financieren. Ook gezinnen zijn vragers op de geldmarkt.",
+"q": "Leg uit welk effect een hoge tijdsvoorkeur van gezinnen heeft op de rente.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Als gezinnen een hoge tijdsvoorkeur hebben, zullen ze nu meer consumeren en dus meer lenen. (1p)\n• Hierdoor stijgt de vraag naar geld waardoor de rente zal stijgen. (1p)\nof\n• Als gezinnen een hoge tijdsvoorkeur hebben, zullen ze nu meer consumeren en dus minder sparen. (1p)\n• Hierdoor daalt het aanbod van geld waardoor de rente zal stijgen. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Geld in de markt",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.7",
+"t": "open",
+"nr": 7,
+"ctx": "In deze opgave gaat het bij de rente altijd om de geldmarktrente. De geldmarktrente is de rente op kortlopende leningen. Op de geldmarkt bieden pensioenfondsen en banken geld aan. Overheden vragen om geld als zij kortlopende leningen afsluiten om investeringen in publiek kapitaal te financieren. Ook gezinnen zijn vragers op de geldmarkt.",
+"q": "Leg uit dat investeringen in publiek kapitaal kunnen leiden tot een hogere structurele economische groei. Ga in je antwoord in op een voorbeeld van publiek kapitaal.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een voorbeeld van publiek kapitaal. (1p)\n• een uitleg over het verband tussen investeringen in publiek kapitaal en structurele economische groei. (1p)\nEen voorbeeld van een juist antwoord is:\n• Investeringen in infrastructuur (bijvoorbeeld in snelwegen / spoorwegen / elektriciteitsnetwerk), (1p)\n• verhogen de productiviteit en dus de productiecapaciteit / potentiële productie. (1p)\nof\n• Investeringen in onderwijs, (1p)\n• verhogen de (arbeids)productiviteit en dus de productiecapaciteit / potentiële productie. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Geld in de markt",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.8",
+"t": "open",
+"nr": 8,
+"ctx": "Ook de centrale bank heeft invloed op de geldmarktrente. Een econoom maakt een model van de geldmarkt (zie figuur 2) en analyseert de gevolgen van het ingrijpen van de centrale bank. Figuur 2 Geldmarkt A0 = aanbod voordat de centrale bank ingrijpt A1 = aanbod nadat de centrale bank ingrijpt V = vraag naar geld Door de lagere rente na het ingrijpen van de centrale bank dalen de rente- inkomsten op opgebouwd vermogen door gezinnen.",
+"q": "Is het opgebouwde vermogen een stroomgrootheid of een voorraadgrootheid? Geef een argument voor je keuze.",
+"model": "Een voorbeeld van een juist antwoord is: Een voorraadgrootheid omdat het vermogen op een bepaald tijdstip wordt gemeten.",
+"pnt": 1
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Geld in de markt",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.9",
+"t": "open",
+"nr": 9,
+"ctx": "De effectiviteit van het monetaire beleid kan worden gemeten door de rente-elasticiteit. De rente-elasticiteit meet hoe sterk de vraag naar geld reageert als gevolg van een renteverandering.",
+"q": "Gebruik figuur 2.\nBereken de rente-elasticiteit als gevolg van het ingrijpen van de centrale bank.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de procentuele veranderingen van de rente en van de gevraagde hoeveelheid. (1p)\n• een berekening van de rente-elasticiteit. (1p)\nEen voorbeeld van een juiste berekening is:\n• Procentuele verandering rente: (2,5 – 4) / 4 x 100% = –37,5%. Procentuele verandering vraag: (50 mld – 40 mld) / 40 mld x 100% = 25%. (1p)\n• De rente-elasticiteit = 25% / –37,5% = –0,7 (1p)\nOpmerking Als de kandidaat de nieuwe evenwichtsrente afleest tussen 2,3% en 2,7% kunnen maximale scorepunten worden behaald.",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Geld in de markt",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.10",
+"t": "open",
+"nr": 10,
+"ctx": "Uit onderzoek blijkt dat de effectieve ondergrens van de nominale rente geen 0%, maar -0,5% is. Ondanks deze negatieve nominale rente kunnen consumenten toch besluiten hun spaargeld bij een bank aan te houden.",
+"q": "Beargumenteer dat consumenten hun spaargeld bij een bank aanhouden ondanks een negatieve nominale rente.",
+"model": "Voorbeelden van een juist antwoord zijn: - Het aanhouden van contant geld zorgt voor risico’s (diefstal / brand). - Het aanhouden van contant geld is kostbaar / onpraktisch. - Consumenten zijn bereid te betalen voor de veiligheid van hun\nspaargeld bij een bank.",
+"pnt": 1
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Beleid",
+"d": "H",
+"e": "EX.H",
+"id": "ex.v26-1.11",
+"t": "open",
+"nr": 11,
+"ctx": "In 2026 heeft een land het stelsel van inkomstenbelasting hervormd. Hierbij is het progressieve stelsel vervangen door een vlaktaks zonder heffingskortingen. Het tarief van deze vlaktaks is gelijk aan het gemiddelde landelijke tarief in 2025.",
+"q": "Leg uit dat de hervorming van het stelsel van inkomstenbelasting leidt tot een denivellering van de secundaire inkomens.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Het gekozen tarief van de vlaktaks zorgt ervoor dat huishoudens die bovengemiddeld werden belast in 2025, procentueel minder belasting gaan betalen. (1p)\n• Als gevolg hiervan stijgen de secundaire inkomens voor deze huishoudens (en dus is er denivellering). (1p)\nof\n• Het gekozen tarief van de vlaktaks zorgt ervoor dat huishoudens die gemiddeld minder werden belast in 2025, procentueel meer belasting gaan betalen. (1p)\n• Als gevolg hiervan dalen de secundaire inkomens voor deze huishoudens (en dus is er denivellering). (1p)\nOpmerking Een antwoord via het afschaffen van een heffingskorting kan de maximale score opleveren.",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Beleid",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.12",
+"t": "open",
+"nr": 12,
+"ctx": "Door de denivellering neemt het consumentenvertrouwen af, waardoor de bestedingen dalen. Een econoom analyseert dit met het IS-MB-GA model. Figuur 3 IS-MB-GA model De IS-curve geeft het dalend verband weer tusen de reële rente en het inkomen.",
+"q": "Leg dit dalend verband tussen de reële rente en het inkomen uit.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Als de reële rente daalt wordt lenen aantrekkelijker / sparen minder aantrekkelijk. (1p)\n• Hierdoor zullen de investeringen / zal de consumptie toenemen en stijgt het inkomen. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Beleid",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.13",
+"t": "open",
+"nr": 13,
+"ctx": "In periode 1 verschuift de IS-curve naar IS1. De econoom neemt aan dat de centrale bank met één rentestap de economie terugbrengt naar de potentiële productie (Y*).",
+"q": "Geef de aanpassing van de economie weer over de tijd.\nDoe het als volgt: - Teken in figuur 3 van de uitwerkbijlage de nieuwe MB-curve (MB1) en GA-curve (GA1) van periode 1. - Vul in de tabel in de uitwerkbijlage de reële rente (r) en de inflatie (π) in na de renteaanpassing.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een schets van GA1 (1p)\n• een schets van MB1 (1p)\n• de nieuwe reële rente en inflatie. (1p)\nEen voorbeeld van een juist antwoord is:\n• GA1 verschuift met twee procentpunt omlaag. (1p)\n• MB1 verschuift naar r = 1%. (1p)\n• In het evenwicht geldt dat r = 1% en π = 2%. (1p)",
+"pnt": 3
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Beleid",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.14",
+"t": "open",
+"nr": 14,
+"ctx": "De econoom is van mening dat de overheid altijd de bestedingen moet verhogen in een situatie van onderbesteding. Deze extra bestedingen kunnen op twee manieren worden gefinancierd: a het verhogen van het tarief van de vlaktaks; b het uitgeven van nieuwe staatsobligaties.",
+"q": "Leidt een hoger tarief van de vlaktaks tot een kleinere of grotere multiplier? Leg je keuze uit.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Bij een hoger vlaktakstarief zal het belastinglek / de marginale belastingquote groter worden. (1p)\n• Hierdoor heeft een hoger inkomen een kleiner effect op de bestedingen, waardoor de multiplier kleiner wordt. (1p)\nof\n• De marginale consumptie zal dalen, waardoor de multiplier kleiner wordt. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Beleid",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.15",
+"t": "open",
+"nr": 15,
+"ctx": "Er is sprake van onderbesteding. Daarom streeft de overheid naar een toename van het bbp. Ga uit van een situatie van een lage inflatie en een lage rente.",
+"q": "Vind jij dat de overheid nieuwe staatsobligaties moet uitgeven om de extra bestedingen te financieren? Leg je keuze uit.",
+"model": "Voorbeelden van een juist antwoord voor de uitgifte van nieuwe staatsobligaties zijn:\n• Door de lage rente zullen de rentekosten voor het aangaan van nieuwe leningen laag zijn. (1p)\n• Daardoor wordt er meer geïnvesteerd en stijgt het bbp. (1p)\nof\n• Het verhogen van de vlaktaks leidt tot een lager besteedbaar inkomen en dus lagere bestedingen. Hierdoor daalt het bbp. (1p)\n• Hogere overheidsbestedingen verhogen het bbp (en dat wil de overheid). (1p)\nof\n• Een alternatief voor nieuwe staatsobligaties uitgeven is het verhogen van belastingen. Dit zal leiden tot een verdere daling van het consumentenvertrouwen. (1p)\n• Hierdoor zal de consumptie dalen en dus daalt het bbp. De overheid wil juist een hoger bbp. (1p)\nEen voorbeeld van een juist antwoord tegen de uitgifte van nieuwe staatsobligaties is:\n• Door het uitgeven van nieuwe staatsobligaties zal de overheidsschuld toenemen. (1p)\n• De aflossing van de schuld wordt bij de toekomstige generaties neergelegd / de intergenerationele solidariteit daalt. (1p)\nof\n• Door het uitgeven van nieuwe staatsobligaties zal de vraag naar geld stijgen en daardoor de rente. (1p)\n• Een hogere rente zorgt voor lagere investeringen / minder consumptie, waardoor de totale bestedingen kunnen dalen en dus het bbp daalt. (1p)\nof\n• Het uitgeven van nieuwe staatsobligaties kan zorgen voor een hogere onzekerheid over de toekomstige financiële positie van de overheid. (1p)\n• Dit leidt tot een hogere rente, waardoor de investeringen dalen / de consumptie daalt. De totale bestedingen dalen en dus daalt het bbp. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Kappen met kappen",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.16",
+"t": "open",
+"nr": 16,
+"ctx": "In Zuid-Amerika verdwijnt door houtkap steeds meer tropisch regenwoud. Een econoom maakt een model en onderzoekt de houtkap voor een gedeelte van het tropisch regenwoud. De econoom gaat uit van een aantal aannames: - Al het gekapte hout is van dezelfde kwaliteit en wordt grotendeels geëxporteerd naar de Verenigde Staten en Europa. - Een werkend systeem van eigendomsrechten voor dit gedeelte van het tropische regenwoud ontbreekt.",
+"q": "Gebruik bovenstaande tekst.\nLeg met behulp van twee kenmerken uit van welke marktvorm er sprake is bij kaphout.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• twee marktkenmerken. (1p)\n• een correcte gevolgtrekking met de marktvorm volledige mededinging / volkomen concurrentie. (1p)\nEen voorbeeld van een juist antwoord is:\n• Het kaphout is homogeen / Er is vrije toetreding / Er zijn veel aanbieders. (1p)\n• Hierdoor is sprake van een volledige mededinging / volkomen concurrentie. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Kappen met kappen",
+"d": "F",
+"e": "EX.F",
+"id": "ex.v26-1.17",
+"t": "open",
+"nr": 17,
+"ctx": "De econoom voegt een aantal aannames over de houthakkers toe aan het model: - De gemiddelde variabele kosten zijn voor alle houthakkers en per eenheid gekapt hout gelijk. - Houthakkers ontvangen nu een marktprijs die hoger is dan de variabele kosten per eenheid product. - Houthakkers hebben alleen de keuze om minder hout te kappen of meer hout te kappen. De econoom concludeert: “Op basis van de aannames over de houthakkers, heeft iedere houthakker een dominante strategie waardoor op termijn een suboptimaal Nash-evenwicht ontstaat.”",
+"q": "Leg de conclusie van de econoom uit.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een uitleg dat de marginale winst leidt tot een dominante strategie. (1p)\n• een uitleg dat de dominante strategie op termijn suboptimaal is. (1p)\nEen voorbeeld van een juist antwoord is:\n• Omdat de marginale opbrengst hoger is dan de marginale kosten / de marktprijs hoger is dan de GVK zal elke aanbieder de dominante strategie hebben om meer te kappen. (1p)\n• Hierdoor stijgt het totale aanbod van kaphout, waardoor de prijs daalt en aanbieders minder winst maken. (Hierdoor ontstaat er een suboptimaal Nash-evenwicht.) (1p)\nof\n• Hierdoor stijgt het totale aanbod van kaphout, waardoor op lange termijn de bossen weggekapt zijn. Dan is er geen omzet / winst meer te behalen (en ontstaat er een suboptimaal Nash-evenwicht). (1p)\nOpmerking Antwoorden dat het milieu verslechtert, levert geen tweede scorepunt op omdat de maatschappij geen speler is in deze toepassing van speltheorie.",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Kappen met kappen",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.18",
+"t": "open",
+"nr": 18,
+"ctx": "De econoom maakt een nieuw model (zie figuur 4). De econoom stelt een collectieve aanbodlijn op bestaande uit twee segmenten: A1 en A2. Figuur 4 Model kaphout in 2026 V: Qv = 7 – 0,02P V = vraag kaphout als % van het tropisch regenwoud A1 → P = 100 A = aanbod kaphout als % van het tropisch regenwoud bij (0% ≤ Q ≤ 6%) A2 → Qa = 6% P = De gemiddelde opbrengst van kaphout per m² tropisch regenwoud in $",
+"q": "Geef een verklaring voor het horizontale verloop van de aanbodlijn van segment A1.",
+"model": "Voorbeelden van een juist antwoord zijn: - De variabele kosten per product zijn constant, waardoor de marginale\nkosten constant zijn. - Houthakkers / de aanbieders kunnen hun productie verhogen tegen\ndezelfde marginale kosten / variabele kosten per product.",
+"pnt": 1
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Kappen met kappen",
+"d": "H",
+"e": "EX.H",
+"id": "ex.v26-1.19",
+"t": "open",
+"nr": 19,
+"ctx": "De totale omvang van het tropisch regenwoud is 700 miljoen hectare aan het begin van 2026. Het tropisch regenwoud zal zonder houtkap jaarlijks groeien met 2,2% per jaar. De werkelijke jaarlijkse verandering van het tropisch regenwoud in procentpunten is het groeipercentage minus het gekapte hout in procenten. Ga uit van het marktevenwicht.",
+"q": "Bereken met hoeveel hectare het tropisch regenwoud krimpt in 2026.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de krimp van het regenwoud in procenten. (1p)\n• een berekening van de krimp van het regenwoud in hectare. (1p)\nEen voorbeeld van een juiste berekening is:\n• Qa = Qv bij Qv = 5% → De krimp is 5 – 2,2 = 2,8% (per jaar). (1p)\n• Dit is: 0,028 x 700 miljoen = 19,6 miljoen hectare. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Kappen met kappen",
+"d": "D",
+"e": "EX.D",
+"id": "ex.v26-1.20",
+"t": "open",
+"nr": 20,
+"ctx": "De econoom wil de gevraagde hoeveelheid kaphout laten afnemen en stelt voor om een heffing te introduceren op de koop van hout. Hierdoor zal de vraag naar kaphout in het model 1,8% worden als percentage van het tropisch regenwoud.",
+"q": "Bereken de hoogte van de heffing per m² in dollars.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de nieuwe evenwichtsprijs per m2. (1p)\n• een berekening van de heffing. (1p)\nEen voorbeeld van een juiste berekening is:\n• De prijs wordt: Qv = 1,8% → 1,8 = 7 – 0,02P → P = $ 260 (per m2) (1p)\n• Prijs bij Qa = 1,8 is gelijk aan $ 100. De heffing is dan gelijk aan 260 – 100 = $ 160 (per m2). (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Australië",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.21",
+"t": "open",
+"nr": 21,
+"ctx": "Australië produceert en exporteert delfstoffen zoals steenkool en aardgas. De prijzen van deze delfstoffen worden op de wereldmarkt bepaald en hangen samen met de stand van de (gemiddelde) conjunctuur in de wereld. De productie van delfstoffen in Australië is zeer prijsinelastisch. Een econoom stelt: “Een hoogconjunctuur in de rest van de wereld heeft, via de prijselasticiteit van de productie van delfstoffen, een zwak effect op de werkgelegenheid in de delfstoffenmarkt in Australië.”",
+"q": "Leg de stelling van de econoom uit.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Een hoogconjunctuur zorgt voor een hogere vraag naar de Australische delfstoffen waardoor de prijs stijgt. (1p)\n• De productie is (zeer) prijsinelastisch, waardoor deze niet / nauwelijks verandert. Hierdoor zal de vraag naar arbeid weinig veranderen (en is er een zwak effect op de werkgelegenheid). (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Australië",
+"d": "C",
+"e": "EX.C",
+"id": "ex.v26-1.22",
+"t": "open",
+"nr": 22,
+"ctx": "In Australië is sprake van loonrigiditeit.",
+"q": "Leg uit dat hogere exportprijzen voor delfstoffen leiden tot een lagere arbeidsinkomensquote.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Als de exportprijzen stijgen, dan zullen (bij dezelfde kosten) de winsten / dividenden / aandelenkoersen van bedrijven stijgen. (1p)\n• Omdat er sprake is van loonrigiditeit stijgen de winsten harder dan de lonen (en dus neemt de AIQ af). (1p)\nof\n• Als de exportprijzen stijgen, dan zal de exportwaarde stijgen en dus het totale inkomen / bbp. (1p)\n• Vanwege de loonrigiditeit blijft het arbeidsinkomen gelijk (en dus neemt de AIQ af). (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Australië",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.23",
+"t": "open",
+"nr": 23,
+"ctx": "Een econoom analyseert de economie van Australië in 2023 met behulp van een kringloopmodel (zie figuur 5). De pijlen zijn geldstromen. Figuur 5 Kringloopmodel Australië (2023) De getallen zijn in miljarden Australische dollars. B = belastingen C = particuliere consumptie E = export van goederen en diensten I = bedrijfsinvesteringen M = import van goederen en diensten O = overheidsbestedingen S = particuliere besparingen Y = nationaal inkomen (vervangingsinvesteringen en afschrijvingen blijven buiten beschouwing) In het kringloopmodel staan de pijlen tussen gezinnen, banken en bedrijven gegeven. De richting van de pijlen tussen buitenland, banken en overheid (pijlen 1 en 3) zijn nog onbekend.",
+"q": "Geef:\n- de berekening van de vier ontbrekende waarden in figuur 5; - aan in welke richting de pijlen bij 1 en 3 lopen.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de vier ontbrekende waarden. (2p)\n• het benoemen van de richting van de twee pijlen. (1p)\nEen voorbeeld van een juist antwoord is:\n• 1 → (E - M) = 671 - 527 = 144 2 → I = (Y - C - O - E + M) → I = 2.385 - 1.237 - 885 - 671 + 527 = 119 3 → (B - O) = 923 - 885 = 38 4 → S = (Y - B - C) → S = 2.385 - 923 - 1.237 = 225 (2p)\n• Pijl 1 loopt van banken naar buitenland en pijl 3 loopt van overheid naar banken. (1p)\nVoor de eerste deelscore geldt: indien vier waarden juist 2 indien drie of twee waarden juist 1 indien minder dan twee waarden juist 0",
+"pnt": 3
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "Australië",
+"d": "C",
+"e": "EX.C",
+"id": "ex.v26-1.24",
+"t": "open",
+"nr": 24,
+"ctx": "Australië heeft in 2023 een positief saldo op de betalingsbalans.",
+"q": "Leg uit welk effect dit positieve saldo, via de valutamarkt, heeft op de internationale concurrentiepositie van Australië.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een uitleg over de relatie tussen het saldo op de betalingsbalans en de wisselkoers. (1p)\n• een uitleg over de relatie tussen de wisselkoers en de internationale concurrentiepositie. (1p)\nEen voorbeeld van een juist antwoord is:\n• Het positieve saldo op de betalingsbalans betekent dat er (relatief) veel vraag naar dollars / weinig aanbod van dollars is, waardoor de wisselkoers van de Australische dollar stijgt. (1p)\n• Hierdoor worden producten uit Australië duurder / worden producten buiten Australië goedkoper, dus verslechtert de internationale concurrentiepositie. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "De prijs van woningbezit",
+"d": "I",
+"e": "EX.I",
+"id": "ex.v26-1.25",
+"t": "open",
+"nr": 25,
+"ctx": "In Nederland hebben veel huishoudens een woning gekocht met een hypothecaire lening. Dit is een leenvorm waarbij de woning als onderpand dient. De Nederlandsche Bank (DNB) is toezichthouder op de hypotheekmarkt en onderzoekt daarom de koopwoningmarkt (zie tabel 1). Tabel 1 Gegevens onderzoek Nederlandse koopwoningmarkt begin 2021 eind 2022 hypotheekrente (looptijd 10 jaar) 1,80% 4,05% inkomenstoets van DNB 5,7 4,4 totale hypotheekschuld (in miljarden €) € 740,1 € 797,6 totale hypotheekschuld (in % van het bbp) 93 83 2021 2022 reële groei bbp Nederland 4,9% 4,5% De inkomenstoets is een eis van DNB. Een inkomenstoets van 5,7 betekent dat huishoudens een maximale hypotheek kunnen krijgen van 5,7 keer hun primair inkomen.",
+"q": "Leg uit welk effect een hoogconjunctuur heeft, via de inkomenstoets, op de koopwoningprijzen.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een uitleg over de relatie tussen een hoogconjunctuur en de leencapaciteit. (1p)\n• een uitleg over de relatie tussen de leencapaciteit en de prijzen. (1p)\nEen voorbeeld van een juist antwoord is:\n• In een hoogconjunctuur stijgen de lonen. Dit betekent dat huishoudens (vanwege de inkomenstoets) hogere hypotheken / leningen kunnen krijgen. (1p)\n• Dit zorgt ervoor dat de vraag naar / betalingsbereidheid voor woningen zal toenemen waardoor de prijs van woningen zal stijgen. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "De prijs van woningbezit",
+"d": "G",
+"e": "EX.G",
+"id": "ex.v26-1.26",
+"t": "open",
+"nr": 26,
+"ctx": "Stelling: “Bij een hogere hypotheekrente stijgt het risico van wanbetaling. Hierdoor verlaagt DNB de inkomenstoets.”",
+"q": "Leg de stelling uit.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Bij een hogere rente zullen de (rente)kosten van een hypothecaire lening toenemen. Hierdoor stijgt het risico op wanbetaling. (1p)\n• Dit risico wordt kleiner door een lagere inkomenstoets, omdat dit zorgt voor een lagere maximale hypotheek (en dus lagere lasten). (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "De prijs van woningbezit",
+"d": "H",
+"e": "EX.H",
+"id": "ex.v26-1.27",
+"t": "open",
+"nr": 27,
+"ctx": "Stelling: “Bij een hogere hypotheekrente stijgt het risico van wanbetaling. Hierdoor verlaagt DNB de inkomenstoets.”",
+"q": "Bereken op basis van tabel 1 de inflatie in de periode begin 2021 tot eind 2022.",
+"model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de stijging van het nominale bbp / NIC. (1p)\n• een berekening van de stijging van het reële bbp / RIC. (1p)\n• een berekening van de inflatie. (1p)\nEen voorbeeld van een juiste berekening is:\n• Het nominale bbp is gestegen met: bbp oud = (740,1 / 0,93) = € 795,81 mld bbp nieuw = (797,6 / 0,83) = € 960,96 mld stijging = (960,96 – 795,81) / 795,81 x 100% = 20,8% (NIC = 120,8) (1p)\n• Het reële bbp is gestegen met: 100 x 1,049 x 1,045 – 100 = 9,6% (RIC = 109,6) (1p)\n• (120,8 / 109,6) x 100 = 110,2 → De inflatie is 10,2%. (1p)",
+"pnt": 3
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "De prijs van woningbezit",
+"d": "G",
+"e": "EX.G",
+"id": "ex.v26-1.28",
+"t": "open",
+"nr": 28,
+"ctx": "Bij de aanschaf van een woning met een hypothecaire lening verplichten banken de huishoudens een woonhuisverzekering af te sluiten. Deze verzekering dekt onverwachte schade aan woningen, bijvoorbeeld waterschade als gevolg van stormen.",
+"q": "Leg uit of er averechtse selectie kan optreden bij een woonhuisverzekering voor huizenkopers met een hypothecaire lening.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Voor huizenkopers met een hypothecaire lening geldt dat de woonhuisverzekering een verplichte verzekering is. (1p)\n• Hierdoor zullen de goede risico’s zich ook verzekeren waardoor er geen averechtse selectie kan optreden. (1p)",
+"pnt": 2
+},
+{
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"titel": "De prijs van woningbezit",
+"d": "G",
+"e": "EX.G",
+"id": "ex.v26-1.29",
+"t": "open",
+"nr": 29,
+"ctx": "Bij de aanschaf van een woning met een hypothecaire lening verplichten banken de huishoudens een woonhuisverzekering af te sluiten. Deze verzekering dekt onverwachte schade aan woningen, bijvoorbeeld waterschade als gevolg van stormen.",
+"q": "Leg uit of er sprake kan zijn van moral hazard na het afsluiten van een woonhuisverzekering.",
+"model": "Een voorbeeld van een juist antwoord is:\n• Moral hazard betekent dat mensen zich risicovoller / nalatig gedragen nadat zij zich hebben verzekerd. (1p)\n• Bij de woonhuisverzekering is er geen sprake van moral hazard, omdat de schade door het klimaat / collectieve gebeurtenissen ontstaat / mensen willen goed voor hun huis zorgen. (1p)\nof\n• Als een huiseigenaar een verzekering heeft afgesloten, kan de eigenaar minder onderhoud plegen aan de woning. (1p)\n• In dit geval is er sprake van risicovoller / nalatig gedrag en dus is er sprake van moral hazard. (1p)",
 "pnt": 2
 }
 ]);

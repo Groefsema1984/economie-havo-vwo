@@ -73,7 +73,8 @@ def opgaven(tekst):
             if len(stukken) > 1 and (re.search(r':\s*$', stukken[0]) and re.match(r'\s*\\?-\s', stukken[1]) or re.search(r'onderstaande (tabel|zinnen|tekst)|als volgt', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1]) or re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Betrek|Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
-                while len(stukken) > 1 and 'Kies uit' not in stukken[0] and not re.search(r'[.?!:)]\s*$', stukken[0]) and re.match(r'\s*[a-zà-ü(]', stukken[1]):   # zin loopt nog door
+                while len(stukken) > 1 and 'Kies uit' not in stukken[0] and (not re.search(r'[.?!:)]\s*$', stukken[0]) and (re.match(r'\s*[a-zà-ü(]', stukken[1]) or re.search(r'\b(en|of|de|het|een|van)\s*$', stukken[0]))
+                        or re.search(r'\)\s*$', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1])):   # zin loopt nog door
                     verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                     stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             vraag = stukken[0]
@@ -101,6 +102,7 @@ def opgaven(tekst):
 
 def deelscores(a):
     """'… lager is 1' aan het eind van een regel -> '… lager is (1p)'; niet bij 'grafiek 3' of 'indien … juist 2'"""
+    a = re.sub(r'(?m)^(•.{20,}) (\d) of$', r'\1 \2\nof', a)
     return '\n'.join(re.sub(r' (\d)$', r' (\1p)', r) if (len(r) > 25 or r.startswith('•')) and 'indien' not in r and not r.endswith(' 0') else r for r in a.split('\n')).strip()
 
 def antwoorden(tekst):
@@ -162,14 +164,26 @@ def main():
             bib[m.group(1)] = m.group(2)
     for f in sorted(glob.glob(os.path.join(ROOT, 'bron-ruw', '02_EXAMENCONTEXT_*_OPGAVEN.pdf.md'))):
         m = re.search(r'_(HAVO|VWO)_ECO_(\d{4})_TIJDVAK_(\d)_OPGAVEN', f)
+        if not m: continue   # los erratumblad: wordt hieronder bij het examen gezocht
         niv, jaar, tv = m.group(1)[0].lower(), int(m.group(2)), int(m.group(3))
         cvp = f.replace('_OPGAVEN.pdf.md', '_CORRECTIEVOORSCHRIFT.pdf.md')
         if not os.path.exists(cvp): rapport.append(f'{os.path.basename(f)}: correctievoorschrift ontbreekt'); continue
         ex = f'{niv}{jaar % 100:02d}-{tv}'
         cvtekst = open(cvp, encoding='utf-8').read()
-        ops = opgaven(open(f, encoding='utf-8').read()); cv = antwoorden(cvtekst)
+        optekst = open(f, encoding='utf-8').read()
+        # vwo: erratum en aanvulling staan in losse bestanden; plak ze achter opgaven / correctievoorschrift
+        for x in sorted(glob.glob(f.replace('_OPGAVEN.pdf.md', '_*.pdf.md'))):
+            if x in (f, cvp) or not re.search(r'AANVUL|ERRAT', os.path.basename(x).upper()): continue
+            xt = open(x, encoding='utf-8').read()
+            if 'OPGAVEN' in os.path.basename(x).upper(): optekst += '\n\n' + xt
+            else: cvtekst += '\n\n' + xt
+        ops = opgaven(optekst); cv = antwoorden(cvtekst)
+        # erratum: 'in de inleiding voor vraag 21 moet ... het woord X vervangen worden door: Y'
+        for m in re.finditer(r'vraag (\d+)[^\n]*?het woord\s+(\S+)\s+vervangen worden door:\s+(\S+)', optekst):
+            for v in ops:
+                if v['nr'] == int(m.group(1)): v['ctx'] = v['ctx'].replace(m.group(2), m.group(3)); v['q'] = v['q'].replace(m.group(2), m.group(3))
         # erratum: 'bij vraag 25 moeten de woorden boven de vraag vervangen worden door: Gebruik ...'
-        for m in re.finditer(r'bij vraag (\d+) moeten de woorden boven de vraag vervangen worden door:\s*(.+)', schoon(open(f, encoding='utf-8').read())):
+        for m in re.finditer(r'bij vraag (\d+) moeten de woorden boven de vraag vervangen worden door:\s*(.+)', schoon(optekst)):
             for v in ops:
                 if v['nr'] == int(m.group(1)): v['q'] = re.sub(r'^Gebruik[^\n]*', m.group(2).strip().rstrip(':') + '.', v['q'])
         # aanvulling op het correctievoorschrift: 'bij vraag 13 moeten altijd 2 scorepunten worden toegekend' -> vraag overslaan
@@ -195,6 +209,7 @@ def main():
             if not a: rapport.append(f'{ex} vraag {v["nr"]}: geen antwoord gevonden'); continue
             if 'altijd worden toegekend' in a or v['nr'] in altijd: continue
             if re.search(r':\s*$', a) and len(a) < 80: rapport.append(f'{ex} vraag {v["nr"]}: antwoord is een tekening, overgeslagen'); continue
+            if re.search(r':\s*$', a): a += ' (zie de tekening in het correctievoorschrift)'
             eid = f'ex.{ex}.{v["nr"]}'
             d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
             basis = {'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': v['opgave'], 'd': d, 'e': 'EX.' + d}
