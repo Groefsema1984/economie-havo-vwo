@@ -1,0 +1,110 @@
+# HOOFDSTUK v 2 | Consumentengedrag
+domein: D
+hoofdvraag: Hoe reageren consumenten op prijsveranderingen en inkomensveranderingen?
+
+## § 2.1 | Betalingsbereidheid en vraaglijn
+onderwerp: D.vraag
+deelvraag: Wat is het verband tussen de prijs van een product en de gevraagde hoeveelheid ervan?
+leerdoelen: ECO-MARKT-05, ECO-MARKT-07
+ook: h 2.1
+### UITLEG Betalingsbereidheid en consumentensurplus
+Betalingsbereidheid: het maximale bedrag dat iemand voor een product wil betalen. Consumentensurplus: betalingsbereidheid min betaalde prijs, voor de markt de driehoek tussen vraaglijn en prijs.
+Verandert de prijs, dan verandert het consumentensurplus door twee effecten: (1) er kopen meer of minder mensen, en (2) de afstand tussen betalingsbereidheid en prijs wordt groter of kleiner voor wie al kocht.
+### UITLEG Individuele en collectieve vraaglijn
+De individuele vraaglijn hoort bij één consument. Tel je bij elke prijs de gevraagde hoeveelheden van alle consumenten op (horizontaal optellen), dan krijg je de collectieve vraaglijn.
+Vraagvergelijking: Qv = aP + b, met a negatief. Het snijpunt met de prijsas (Qv = 0) is de hoogste betalingsbereidheid.
+### MC
+Een prijsdaling vergroot het consumentensurplus. Welke twee effecten spelen daarbij?
+* Bestaande kopers betalen minder en er komen nieuwe kopers bij
+- De vraaglijn verschuift naar rechts en de aanbodlijn naar links
+- De betalingsbereidheid stijgt en de prijs stijgt
+- Alleen het aantal kopers verandert
+> Een groter verschil tussen betalingsbereidheid en prijs voor wie al kocht, plus surplus van nieuwe kopers.
+### MC
+Bij een prijs van € 4 vraagt Ali 3 stuks, Bo 5 stuks en Cas 0 stuks. Wat is de collectieve gevraagde hoeveelheid bij € 4?
+* 8 stuks
+- 4 stuks
+- 12 stuks
+- 2,67 stuks
+> Collectieve vraag = optellen van de individuele hoeveelheden bij dezelfde prijs.
+
+## § 2.2 | Overige vraagbepalende factoren
+onderwerp: D.vraag
+deelvraag: Wat zijn naast de prijs de overige factoren die de vraag naar een product bepalen?
+leerdoelen: ECO-MARKT-06
+ook: h 2.2
+### UITLEG Vraagbepalende factoren
+1. Besteedbaar inkomen (noodzakelijke, luxe en inferieure goederen reageren verschillend).
+2. Voorkeuren en smaken (achtergrond, cultuur, leeftijd).
+3. Prijzen van andere producten: substituten en complementen.
+4. Het aantal vragers.
+5. Verwachtingen (verwachte prijsstijging: nu kopen).
+Ceteris paribus: alle andere factoren blijven gelijk.
+Een prijsverandering van het product zelf geeft een verschuiving LANGS de vraaglijn; een verandering van een andere factor geeft een verschuiving VAN de vraaglijn.
+### MC
+Consumenten verwachten dat televisies volgende maand flink duurder worden. Wat gebeurt er nu met de vraag naar televisies?
+* De vraaglijn verschuift naar rechts
+- De vraaglijn verschuift naar links
+- Er is een beweging langs de vraaglijn
+- Er gebeurt niets, want de prijs is nog niet veranderd
+> Verwachtingen zijn een vraagbepalende factor: mensen halen aankopen naar voren.
+
+## § 2.3 | Prijselasticiteit en kruislingse elasticiteit
+onderwerp: D.elas
+deelvraag: Hoe reageert de consument op een prijsverandering?
+leerdoelen: ECO-ELAST-01, ECO-ELAST-02, ECO-ELAST-06
+gens: elasticiteit
+ook: h 2.3
+### UITLEG Prijs, afzet en omzet
+Omzet = prijs × afzet. Bij een prijsverhoging daalt de omzet door het hoeveelheidseffect (minder afzet) en stijgt ze door het prijseffect (meer per stuk). Welk effect wint, hangt af van de prijselasticiteit.
+### UITLEG Prijselasticiteit
+Ev = %ΔQv : %ΔP. Tussen 0 en −1: prijsinelastisch, de omzet stijgt bij een prijsverhoging. Kleiner dan −1: prijselastisch, de omzet daalt bij een prijsverhoging.
+### UITLEG Kruislingse prijselasticiteit
+Ek = %ΔQv van product A : %ΔP van product B.
+Ek positief: substituten (B duurder, meer vraag naar A). Ek negatief: complementen (B duurder, minder vraag naar A). Ek = 0: de producten hebben niets met elkaar te maken.
+### BEGRIPPEN
+Kruislingse prijselasticiteit = De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B.
+Hoeveelheidseffect = De verandering van de omzet doordat de afzet verandert na een prijsverandering.
+### MC
+De prijs van koffiepads stijgt met 10%. De vraag naar padapparaten daalt met 4%. Wat is de kruislingse elasticiteit en wat voor goederen zijn het?
+* −0,4: complementaire goederen
+- 0,4: substitutiegoederen
+- −2,5: complementaire goederen
+- −0,4: substitutiegoederen
+> Ek = −4 : 10 = −0,4. Negatief, dus complementen.
+### MC
+De kruislingse elasticiteit van treinreizen ten opzichte van de benzineprijs is +0,3. Wat betekent dit?
+* Trein en auto zijn substituten: als benzine duurder wordt, stijgt de vraag naar treinreizen
+- Trein en auto zijn complementen
+- Treinreizen zijn een inferieur goed
+- De vraag naar treinreizen is prijsinelastisch
+> Een positieve Ek wijst op substituten.
+
+## § 2.4 | Inkomenselasticiteit
+onderwerp: D.elas
+deelvraag: Hoe en in welke mate reageert de consument op een inkomensverandering?
+leerdoelen: ECO-ELAST-03, ECO-ELAST-04
+ook: h 2.4
+### UITLEG Inkomenselasticiteit en de wet van Engel
+Ey = %ΔQv : %Δbesteedbaar inkomen. Inferieur: Ey < 0. Noodzakelijk (primair): 0 < Ey < 1. Luxe: Ey > 1.
+Wet van Engel: naarmate het inkomen stijgt, daalt het deel van het inkomen dat aan voedsel (eerste levensbehoeften) wordt uitgegeven.
+Drempelinkomen: het inkomen vanaf waar iemand een product gaat kopen. Noodzakelijke goederen hebben een laag drempelinkomen, luxe goederen een hoog drempelinkomen.
+De inkomensvraaglijn laat het verband zien tussen het inkomen en de gevraagde hoeveelheid.
+### BEGRIPPEN
+Wet van Engel = Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven.
+Drempelinkomen = Het inkomen vanaf waar een consument een product gaat kopen.
+Inkomensvraaglijn = Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product.
+### MC
+Volgens de wet van Engel gebeurt er bij een stijgend inkomen het volgende:
+* Het aandeel van de uitgaven aan voedsel in het inkomen daalt
+- Er wordt minder voedsel gekocht
+- Het aandeel van de uitgaven aan voedsel stijgt
+- Alle uitgaven stijgen met hetzelfde percentage
+> Voedsel is een noodzakelijk goed met Ey tussen 0 en 1: de uitgaven stijgen procentueel minder dan het inkomen.
+### MC
+Welk product heeft waarschijnlijk het hoogste drempelinkomen?
+* Een zeiljacht
+- Brood
+- Tandpasta
+- Melk
+> Luxegoederen worden pas bij een hoog inkomen gekocht.

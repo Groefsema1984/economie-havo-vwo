@@ -3422,6 +3422,4211 @@ LEVELS.D.push(...[
 "x": "Een productiequotum beperkt de hoeveelheid (vangstquota tegen overbevissing). Ontwikkelingslanden gebruiken buffervoorraden en exportquota om prijzen omhoog te houden. Verboden: wapens, drugs, alcohol en tabak aan jongeren. Overige regels: omgevingsvergunning, Colportagewet en Warenwet."
 }
 ]
+},
+{
+"id": "D.v2.1",
+"hfd": "Hoofdstuk 2 · Consumentengedrag",
+"niv": "v",
+"naam": "§2.1 Betalingsbereidheid en vraaglijn",
+"kort": "Wat is het verband tussen de prijs van een product en de gevraagde hoeveelheid ervan?",
+"vragen": [
+{
+"id": "D.v2.1.m01",
+"t": "mc",
+"e": "D.vraag",
+"q": "Een prijsdaling vergroot het consumentensurplus. Welke twee effecten spelen daarbij?",
+"o": [
+"Bestaande kopers betalen minder en er komen nieuwe kopers bij",
+"De vraaglijn verschuift naar rechts en de aanbodlijn naar links",
+"De betalingsbereidheid stijgt en de prijs stijgt",
+"Alleen het aantal kopers verandert"
+],
+"a": 0,
+"u": "Een groter verschil tussen betalingsbereidheid en prijs voor wie al kocht, plus surplus van nieuwe kopers."
+},
+{
+"id": "D.v2.1.m02",
+"t": "mc",
+"e": "D.vraag",
+"q": "Bij een prijs van € 4 vraagt Ali 3 stuks, Bo 5 stuks en Cas 0 stuks. Wat is de collectieve gevraagde hoeveelheid bij € 4?",
+"o": [
+"8 stuks",
+"4 stuks",
+"12 stuks",
+"2,67 stuks"
+],
+"a": 0,
+"u": "Collectieve vraag = optellen van de individuele hoeveelheden bij dezelfde prijs."
+},
+{
+"id": "D.v2.1.m03",
+"t": "mc",
+"e": "D.vraag",
+"q": "Sanne wil maximaal € 12 betalen voor een concertkaartje. Het kaartje kost € 9. Hoe groot is haar consumentensurplus?",
+"o": [
+"€ 3",
+"€ 9",
+"€ 12",
+"€ 21"
+],
+"a": 0,
+"u": "Consumentensurplus = betalingsbereidheid − prijs = 12 − 9 = € 3."
+},
+{
+"id": "D.v2.1.m04",
+"t": "mc",
+"e": "D.vraag",
+"q": "De vraaglijn is Qv = −2P + 40 en de marktprijs is € 10. Hoe groot is het consumentensurplus?",
+"o": [
+"€ 100",
+"€ 200",
+"€ 400",
+"€ 50"
+],
+"a": 0,
+"u": "Bij P = 10 is Qv = 20. Snijpunt met de prijsas: P = 20. CS = ½ × 20 × (20 − 10) = € 100."
+},
+{
+"id": "D.v2.1.m05",
+"t": "mc",
+"e": "D.vraag",
+"q": "Wat geeft de vraaglijn weer?",
+"o": [
+"Hoeveel consumenten bij elke prijs willen kopen, dus de betalingsbereidheid van de kopers",
+"Hoeveel producenten bij elke prijs willen verkopen",
+"De kosten van het product bij elke hoeveelheid",
+"De winst van de aanbieders bij elke prijs"
+],
+"a": 0,
+"u": "De vraaglijn hoort bij de vragers: bij elke prijs de gevraagde hoeveelheid."
+},
+{
+"id": "D.v2.1.k01",
+"t": "koppel",
+"e": "D.vraag",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Betalingsbereidheid",
+"Het hoogste bedrag dat een consument voor een product wil betalen."
+],
+[
+"Consumentensurplus",
+"Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen."
+],
+[
+"Vraaglijn",
+"Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid."
+]
+],
+"u": "Betalingsbereidheid: Het hoogste bedrag dat een consument voor een product wil betalen. Consumentensurplus: Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen. Vraaglijn: Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid."
+},
+{
+"id": "D.v2.1.b01",
+"t": "mc",
+"e": "D.vraag",
+"b": "Betalingsbereidheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het hoogste bedrag dat een consument voor een product wil betalen.\"",
+"o": [
+"Betalingsbereidheid",
+"Consumentensurplus",
+"Ceteris paribus",
+"Inkomenselasticiteit"
+],
+"a": 0,
+"u": "Betalingsbereidheid: Het hoogste bedrag dat een consument voor een product wil betalen."
+},
+{
+"id": "D.v2.1.b02",
+"t": "mc",
+"e": "D.vraag",
+"b": "Consumentensurplus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.\"",
+"o": [
+"Consumentensurplus",
+"Inferieur goed",
+"Inkomensvraaglijn",
+"Betalingsbereidheid"
+],
+"a": 0,
+"u": "Consumentensurplus: Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen."
+},
+{
+"id": "D.v2.1.b03",
+"t": "mc",
+"e": "D.vraag",
+"b": "Vraaglijn",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.\"",
+"o": [
+"Vraaglijn",
+"Complementaire goederen",
+"Substitutiegoederen",
+"Prijselasticiteit van de vraag"
+],
+"a": 0,
+"u": "Vraaglijn: Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid."
+},
+{
+"id": "D.v2.1.b04",
+"t": "mc",
+"e": "D.vraag",
+"b": "Afzet",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De hoeveelheid verkochte producten in een bepaalde periode.\"",
+"o": [
+"Afzet",
+"Wet van Engel",
+"Betalingsbereidheid",
+"Complementaire goederen"
+],
+"a": 0,
+"u": "Afzet: De hoeveelheid verkochte producten in een bepaalde periode."
+},
+{
+"t": "open",
+"titel": "Kookstudio Smaakwerf",
+"q": "Kookstudio Smaakwerf geeft kooklessen aan volwassenen. De eigenaar wil weten hoeveel voordeel haar cursisten hebben van de lesprijs. De tabel geeft gegevens over een gemiddelde maand. De vraaglijn naar kooklessen is een rechte lijn.\nTabel Gegevens kooklessen per maand:\nGegeven | Waarde\nPrijs per les nu | € 18\nAantal lessen per maand bij die prijs | 60\nHoogste prijs die een cursist per les wil betalen | € 30\nAantal lessen per maand bij een prijs van € 0 | 150\nKostprijs per les voor de kookstudio | € 11\nMaak van onderstaande tekst een economisch juiste tekst.\nHet consumentensurplus is het verschil tussen de ...(1)... en de prijs die de consument betaalt. In een figuur met de vraaglijn heeft het consumentensurplus de vorm van een ...(2)... Bij een prijs van € 18 is het consumentensurplus van de cursisten ...(3)... per maand.\nKies uit: bij (1) betalingsbereidheid / marktprijs / kostprijs\nKies uit: bij (2) driehoek / rechthoek / trapezium\nKies uit: bij (3) € 360 / € 720 / € 900",
+"model": "(1) betalingsbereidheid. (2) driehoek. (3) € 360. Ik gebruik 60 lessen bij € 18 en de maximale prijs € 30: ½ × 60 × (30 − 18) = € 360.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie keuzes: bij (1): betalingsbereidheid (1)\n• bij (2): driehoek (1)\n• bij (3): € 360 (= ½ × 60 × (30 − 18)) (1)",
+"pnt": 3,
+"id": "D.v2.1.IT00440",
+"e": "D.vraag"
+},
+{
+"t": "open",
+"titel": "Sapbar Vitaal",
+"q": "Sapbar Vitaal verkoopt smoothies in een winkelcentrum. De vraag naar smoothies per dag wordt weergegeven door de vraagvergelijking Qv = −8p + 160. Hierin is Qv het aantal smoothies per dag en p de prijs in euro's. De huidige prijs is € 6 per smoothie.\nBereken het consumentensurplus per dag bij de huidige prijs.\nDoe het als volgt:\n- Bereken het aantal smoothies dat per dag wordt verkocht bij de huidige prijs.\n- Bereken de maximale prijs.\n- Bereken het consumentensurplus en vermeld de eenheid.",
+"model": "Qv = −8 × 6 + 160 = 112. Maximale prijs: Qv = 0, dus p = 160 : 8 = € 20. Consumentensurplus = ½ × 112 × (20 − 6) = € 784 per dag.\nPuntenverdeling:\n• Een juiste berekening is: Qv bij p = 6: −8 × 6 + 160 = 112 smoothies (1)\n• Maximale prijs (Qv = 0): 160 : 8 = € 20 (1)\n• Consumentensurplus = ½ × 112 × (20 − 6) = € 784 per dag (1)",
+"pnt": 3,
+"id": "D.v2.1.IT00441",
+"e": "D.vraag"
+},
+{
+"t": "open",
+"titel": "Padelhal Nova",
+"q": "Padelhal Nova verhuurt banen per uur aan spelers. De eigenaar laat onderzoeken hoe de spelers de huidige prijs ervaren. De vraaglijn naar baanuren is een rechte lijn. De tabel geeft gegevens over een gemiddelde week.\nTabel Gegevens padelhal per week:\nGegeven | Waarde\nPrijs per baanuur nu | € 24\nVerhuurde baanuren per week bij die prijs | 72\nHoogste prijs die een speler per uur wil betalen | € 36\nKostprijs per baanuur voor de hal | € 14\nAantal baanuren per week bij een prijs van € 0 | 216\nOmzet per week | € 1.728\nBereken het consumentensurplus per week en geef daarbij aan wat dit bedrag zegt over de spelers.\nDoe het als volgt:\n- Kies de juiste gegevens uit de tabel.\n- Bereken het consumentensurplus.\n- Schrijf in één zin op wat het bedrag voor de spelers betekent.",
+"model": "Ik gebruik 72 uren, prijs € 24 en maximale prijs € 36. Consumentensurplus = ½ × 72 × (36 − 24) = € 432 per week. Spelers hebben samen € 432 per week voordeel, omdat ze minder betalen dan ze maximaal over hebben.\nPuntenverdeling:\n• Een juist antwoord bevat: Juiste gegevens gekozen: hoeveelheid 72, prijs € 24 en maximale prijs € 36 (1)\n• Consumentensurplus = ½ × 72 × (36 − 24) = € 432 per week (1)\n• De spelers hadden samen € 432 per week meer over voor hun baanuren dan ze betalen (voordeel / welvaart van de spelers) (1)",
+"pnt": 3,
+"id": "D.v2.1.IT00442",
+"e": "D.vraag"
+}
+],
+"gens": [],
+"doel": "Wat is het verband tussen de prijs van een product en de gevraagde hoeveelheid ervan?",
+"uitleg": [
+{
+"t": "Betalingsbereidheid en consumentensurplus",
+"x": "Betalingsbereidheid: het maximale bedrag dat iemand voor een product wil betalen. Consumentensurplus: betalingsbereidheid min betaalde prijs, voor de markt de driehoek tussen vraaglijn en prijs.\nVerandert de prijs, dan verandert het consumentensurplus door twee effecten: (1) er kopen meer of minder mensen, en (2) de afstand tussen betalingsbereidheid en prijs wordt groter of kleiner voor wie al kocht."
+},
+{
+"t": "Individuele en collectieve vraaglijn",
+"x": "De individuele vraaglijn hoort bij één consument. Tel je bij elke prijs de gevraagde hoeveelheden van alle consumenten op (horizontaal optellen), dan krijg je de collectieve vraaglijn.\nVraagvergelijking: Qv = aP + b, met a negatief. Het snijpunt met de prijsas (Qv = 0) is de hoogste betalingsbereidheid."
+}
+]
+},
+{
+"id": "D.v2.2",
+"hfd": "Hoofdstuk 2 · Consumentengedrag",
+"niv": "v",
+"naam": "§2.2 Overige vraagbepalende factoren",
+"kort": "Wat zijn naast de prijs de overige factoren die de vraag naar een product bepalen?",
+"vragen": [
+{
+"id": "D.v2.2.m01",
+"t": "mc",
+"e": "D.vraag",
+"q": "Consumenten verwachten dat televisies volgende maand flink duurder worden. Wat gebeurt er nu met de vraag naar televisies?",
+"o": [
+"De vraaglijn verschuift naar rechts",
+"De vraaglijn verschuift naar links",
+"Er is een beweging langs de vraaglijn",
+"Er gebeurt niets, want de prijs is nog niet veranderd"
+],
+"a": 0,
+"u": "Verwachtingen zijn een vraagbepalende factor: mensen halen aankopen naar voren."
+},
+{
+"id": "D.v2.2.m02",
+"t": "mc",
+"e": "D.vraag",
+"q": "De prijs van boter stijgt sterk. Wat gebeurt er met de vraaglijn van margarine?",
+"o": [
+"Die verschuift naar rechts, want margarine is een substituut van boter",
+"Die verschuift naar links, want margarine is een complement van boter",
+"Er is een beweging langs de vraaglijn van margarine",
+"Er verandert niets"
+],
+"a": 0,
+"u": "Boter en margarine vervangen elkaar. Duurdere boter maakt margarine aantrekkelijker: bij elke prijs wordt meer margarine gevraagd."
+},
+{
+"id": "D.v2.2.m03",
+"t": "mc",
+"e": "D.vraag",
+"q": "De prijs van een tandenborstel stijgt. Welke verandering hoort daarbij op de markt voor tandenborstels?",
+"o": [
+"Een beweging langs de vraaglijn: de gevraagde hoeveelheid daalt",
+"Een verschuiving van de vraaglijn naar links",
+"Een verschuiving van de vraaglijn naar rechts",
+"Een verschuiving van de aanbodlijn naar links"
+],
+"a": 0,
+"u": "Een prijsverandering van het product zelf geeft een beweging langs de lijn."
+},
+{
+"id": "D.v2.2.m04",
+"t": "mc",
+"e": "D.vraag",
+"q": "Het wordt een warme zomer. Wat gebeurt er met de vraaglijn naar ijs?",
+"o": [
+"Die verschuift naar rechts",
+"Die verschuift naar links",
+"Er is alleen een beweging langs de vraaglijn",
+"De vraaglijn wordt steiler maar verschuift niet"
+],
+"a": 0,
+"u": "De voorkeur voor ijs neemt toe door het weer: bij elke prijs willen mensen meer ijs kopen."
+},
+{
+"id": "D.v2.2.m05",
+"t": "mc",
+"e": "D.vraag",
+"q": "De prijs van benzine stijgt flink. Wat verwacht je voor de vraag naar auto's met een hoog benzineverbruik?",
+"o": [
+"De vraag naar auto's met een hoog verbruik daalt, want benzine en auto's zijn complementair",
+"De vraag stijgt, want benzine en auto's zijn substituten",
+"Er verandert niets, want het gaat om een ander product",
+"Er is een beweging langs de vraaglijn van auto's"
+],
+"a": 0,
+"u": "Benzine en auto's worden samen gebruikt (complementen). Duurdere benzine maakt rijden duurder, vooral met een auto die veel verbruikt."
+},
+{
+"id": "D.v2.2.k01",
+"t": "koppel",
+"e": "D.vraag",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Substitutiegoederen",
+"Goederen die elkaar volgens de consument kunnen vervangen."
+],
+[
+"Complementaire goederen",
+"Goederen die elkaar aanvullen en vaak samen worden gebruikt."
+],
+[
+"Ceteris paribus",
+"De aanname dat alle andere factoren gelijk blijven."
+]
+],
+"u": "Substitutiegoederen: Goederen die elkaar volgens de consument kunnen vervangen. Complementaire goederen: Goederen die elkaar aanvullen en vaak samen worden gebruikt. Ceteris paribus: De aanname dat alle andere factoren gelijk blijven."
+},
+{
+"id": "D.v2.2.b01",
+"t": "mc",
+"e": "D.vraag",
+"b": "Substitutiegoederen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die elkaar volgens de consument kunnen vervangen.\"",
+"o": [
+"Substitutiegoederen",
+"Prijselasticiteit van de vraag",
+"Kruislingse prijselasticiteit",
+"Hoeveelheidseffect"
+],
+"a": 0,
+"u": "Substitutiegoederen: Goederen die elkaar volgens de consument kunnen vervangen."
+},
+{
+"id": "D.v2.2.b02",
+"t": "mc",
+"e": "D.vraag",
+"b": "Complementaire goederen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die elkaar aanvullen en vaak samen worden gebruikt.\"",
+"o": [
+"Complementaire goederen",
+"Inkomensvraaglijn",
+"Prijsinelastische vraag",
+"Substitutiegoederen"
+],
+"a": 0,
+"u": "Complementaire goederen: Goederen die elkaar aanvullen en vaak samen worden gebruikt."
+},
+{
+"id": "D.v2.2.b03",
+"t": "mc",
+"e": "D.vraag",
+"b": "Ceteris paribus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De aanname dat alle andere factoren gelijk blijven.\"",
+"o": [
+"Ceteris paribus",
+"Vraaglijn",
+"Inkomenselasticiteit",
+"Inkomensvraaglijn"
+],
+"a": 0,
+"u": "Ceteris paribus: De aanname dat alle andere factoren gelijk blijven."
+},
+{
+"t": "open",
+"titel": "Koffie, thee en melk bij Bonenlust",
+"q": "Koffiebar Bonenlust verkoopt koffie. Een concurrent, Theehuis Mira, verlaagt de prijs van een kop thee van € 4,00 naar € 3,40. Veel klanten kopen koffie én melk-koekjes bij Bonenlust.\nTekst: Koffie en thee kunnen elkaar vervangen. Het zijn dus (1) ... . Koffie en melk gebruik je juist samen. Het zijn (2) ... . De prijs van thee daalt met (3) ...%. Daardoor verschuift de vraaglijn naar koffie naar (4) ... . Bij elke prijs wordt er dan (5) ... koffie gekocht.\nMaak van onderstaande tekst een economisch juiste tekst.\nKies uit: bij (1) substituten / complementen / inferieure goederen\nbij (2) substituten / complementen / luxe goederen\nbij (3) 6 / 15 / 17,6\nbij (4) links / rechts / boven\nbij (5) minder / evenveel / meer",
+"model": "Koffie en thee kunnen elkaar vervangen, dus het zijn substituten. Koffie en melk gebruik je samen, dus het zijn complementen. De daling is 0,60 : 4,00 × 100 = 15%. Thee is goedkoper, dus kopen klanten minder koffie. De vraaglijn verschuift naar links: bij elke prijs wordt minder koffie gekocht.\nPuntenverdeling:\n• Maak van onderstaande tekst een economisch juiste tekst. Het juiste antwoord: (1) substituten, (2) complementen, (3) 15, (4) links, (5) minder. Indien alle vijf de keuzes juist zijn (2)\n• Indien drie of vier keuzes juist zijn (1)\n• Indien twee of minder keuzes juist zijn (0)",
+"pnt": 2,
+"id": "D.v2.2.IT00436",
+"e": "D.vraag"
+},
+{
+"t": "open",
+"titel": "Spelcomputers en games bij Spelplezier",
+"q": "Webwinkel Spelplezier verkoopt spelcomputers en games. De prijs van een spelcomputer daalt van € 300 naar € 240. Spelplezier verlaagt later ook de prijs van een game van € 60 naar € 50. Games en spelcomputers worden samen gebruikt.\nLeg uit dat de prijsdaling van de spelcomputer de vraaglijn naar games doet verschuiven, terwijl de prijsdaling van de game zelf een beweging langs de vraaglijn geeft.\nDoe het als volgt:\n- Schakel 1 (gegeven): de prijs van de spelcomputer daalt.\n- Vul aan: wat is de relatie tussen spelcomputers en games, en wat gebeurt er met de vraaglijn?\n- Geef daarna de oorzaak van de beweging langs de vraaglijn bij de prijsdaling van de game.",
+"model": "Spelcomputers en games zijn complementen. Is de computer goedkoper, dan kopen meer mensen een computer en dus ook meer games. Bij elke prijs wordt meer gekocht: de vraaglijn schuift naar rechts. Bij een lagere prijs van de game zelf verandert alleen de eigen prijs: we bewegen langs dezelfde lijn.\nPuntenverdeling:\n• Leg uit dat een verschuiving en een beweging verschillende oorzaken hebben. Spelcomputers en games zijn complementen (ze worden samen gebruikt), dus als de spelcomputer goedkoper wordt, stijgt de vraag naar games (1)\n• Er worden bij elke prijs meer games gekocht, dus de vraaglijn verschuift naar rechts (1)\n• Bij de prijsdaling van de game zelf verandert alleen de eigen prijs, dus er is een beweging langs dezelfde vraaglijn naar een grotere hoeveelheid (1)",
+"pnt": 3,
+"id": "D.v2.2.IT00437",
+"e": "D.vraag"
+},
+{
+"t": "open",
+"titel": "Pizza's en burgers bij Da Nonna",
+"q": "Pizzeria Da Nonna heeft een bezorgdienst. In één maand gebeuren twee dingen. Eerst verlaagt een burgerketen in dezelfde stad de prijs van een burger van € 5,00 naar € 3,75. Daarna verlaagt Da Nonna zelf de prijs van een pizza van € 12,00 naar € 10,00.\nDe eigenaar zegt: 'Beide prijsdalingen veranderen de vraaglijn naar mijn pizza's.'\nBeredeneer welke van de twee gebeurtenissen een verschuiving van de vraaglijn naar pizza's geeft en welke gebeurtenis een beweging langs de vraaglijn geeft.",
+"model": "De burgerprijs daalt. Pizza's en burgers zijn substituten, dus klanten kiezen vaker voor burgers. Bij elke prijs worden minder pizza's gekocht: de vraaglijn verschuift naar links. De eigen prijsdaling van de pizza geeft geen verschuiving, maar een beweging langs de vraaglijn: bij € 10 worden meer pizza's verkocht dan bij € 12. De eigenaar heeft dus maar deels gelijk.\nPuntenverdeling:\n• Beredeneer welke gebeurtenis een verschuiving en welke een beweging geeft. Pizza's en burgers zijn substituten, dus als burgers goedkoper worden, kiezen consumenten voor burgers (1)\n• Er worden bij elke prijs minder pizza's gekocht, dus de vraaglijn verschuift naar links (burgerprijs is de oorzaak) (1)\n• De eigen prijsverlaging van de pizza geeft een beweging langs de vraaglijn (geen verschuiving) (1)\n• Bij de lagere pizzaprijs worden meer pizza's gekocht (grotere hoeveelheid langs de lijn); conclusie: de eigenaar heeft maar voor een deel gelijk (1)",
+"pnt": 4,
+"id": "D.v2.2.IT00438",
+"e": "D.vraag"
+}
+],
+"gens": [],
+"doel": "Wat zijn naast de prijs de overige factoren die de vraag naar een product bepalen?",
+"uitleg": [
+{
+"t": "Vraagbepalende factoren",
+"x": "1. Besteedbaar inkomen (noodzakelijke, luxe en inferieure goederen reageren verschillend).\n2. Voorkeuren en smaken (achtergrond, cultuur, leeftijd).\n3. Prijzen van andere producten: substituten en complementen.\n4. Het aantal vragers.\n5. Verwachtingen (verwachte prijsstijging: nu kopen).\nCeteris paribus: alle andere factoren blijven gelijk.\nEen prijsverandering van het product zelf geeft een verschuiving LANGS de vraaglijn; een verandering van een andere factor geeft een verschuiving VAN de vraaglijn."
+}
+]
+},
+{
+"id": "D.v2.3",
+"hfd": "Hoofdstuk 2 · Consumentengedrag",
+"niv": "v",
+"naam": "§2.3 Prijselasticiteit en kruislingse elasticiteit",
+"kort": "Hoe reageert de consument op een prijsverandering?",
+"vragen": [
+{
+"id": "D.v2.3.m01",
+"t": "mc",
+"e": "D.elas",
+"q": "De prijs van koffiepads stijgt met 10%. De vraag naar padapparaten daalt met 4%. Wat is de kruislingse elasticiteit en wat voor goederen zijn het?",
+"o": [
+"−0,4: complementaire goederen",
+"0,4: substitutiegoederen",
+"−2,5: complementaire goederen",
+"−0,4: substitutiegoederen"
+],
+"a": 0,
+"u": "Ek = −4 : 10 = −0,4. Negatief, dus complementen."
+},
+{
+"id": "D.v2.3.m02",
+"t": "mc",
+"e": "D.elas",
+"q": "De kruislingse elasticiteit van treinreizen ten opzichte van de benzineprijs is +0,3. Wat betekent dit?",
+"o": [
+"Trein en auto zijn substituten: als benzine duurder wordt, stijgt de vraag naar treinreizen",
+"Trein en auto zijn complementen",
+"Treinreizen zijn een inferieur goed",
+"De vraag naar treinreizen is prijsinelastisch"
+],
+"a": 0,
+"u": "Een positieve Ek wijst op substituten."
+},
+{
+"id": "D.v2.3.m03",
+"t": "mc",
+"e": "D.elas",
+"q": "De prijs van een product stijgt met 5%. De gevraagde hoeveelheid daalt met 10%. Hoe groot is de prijselasticiteit?",
+"o": [
+"−2, de vraag is prijselastisch",
+"−0,5, de vraag is prijsinelastisch",
+"−2, de vraag is prijsinelastisch",
+"−0,5, de vraag is prijselastisch"
+],
+"a": 0,
+"u": "Ev = −10 : 5 = −2. Kleiner dan −1, dus elastisch."
+},
+{
+"id": "D.v2.3.m04",
+"t": "mc",
+"e": "D.elas",
+"q": "De prijselasticiteit van brood is −0,3. Een bakker verhoogt zijn prijs. Wat gebeurt er met zijn omzet (ceteris paribus)?",
+"o": [
+"De omzet stijgt, want de afzet daalt procentueel minder dan de prijs stijgt",
+"De omzet daalt, want hij verkoopt minder brood",
+"De omzet blijft gelijk",
+"Dat kun je niet zeggen zonder de kosten te kennen"
+],
+"a": 0,
+"u": "Inelastische vraag: prijs omhoog geeft hogere omzet."
+},
+{
+"id": "D.v2.3.m05",
+"t": "mc",
+"e": "D.elas",
+"q": "Bij welke prijselasticiteit is de omzet maximaal?",
+"o": [
+"Ev = −1",
+"Ev = 0",
+"Ev = −2",
+"Ev = −0,5"
+],
+"a": 0,
+"u": "Bij Ev = −1 heft het prijseffect het hoeveelheidseffect precies op. Daar heeft de omzet zijn maximum."
+},
+{
+"id": "D.v2.3.m06",
+"t": "mc",
+"e": "D.elas",
+"q": "Welk product heeft waarschijnlijk de meest prijselastische vraag?",
+"o": [
+"Een vliegvakantie naar Spanje",
+"Aardappelen",
+"Insuline voor diabetespatiënten",
+"Kraanwater"
+],
+"a": 0,
+"u": "Voor een vakantie zijn er veel alternatieven en het is geen eerste levensbehoefte, dus consumenten reageren sterk op de prijs."
+},
+{
+"id": "D.v2.3.k01",
+"t": "koppel",
+"e": "D.elas",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Kruislingse prijselasticiteit",
+"De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B."
+],
+[
+"Hoeveelheidseffect",
+"De verandering van de omzet doordat de afzet verandert na een prijsverandering."
+],
+[
+"Prijselasticiteit van de vraag",
+"De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs."
+]
+],
+"u": "Kruislingse prijselasticiteit: De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B. Hoeveelheidseffect: De verandering van de omzet doordat de afzet verandert na een prijsverandering. Prijselasticiteit van de vraag: De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs."
+},
+{
+"id": "D.v2.3.b01",
+"t": "mc",
+"e": "D.elas",
+"b": "Kruislingse prijselasticiteit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B.\"",
+"o": [
+"Kruislingse prijselasticiteit",
+"Wet van Engel",
+"Hoeveelheidseffect",
+"Prijsinelastische vraag"
+],
+"a": 0,
+"u": "Kruislingse prijselasticiteit: De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B."
+},
+{
+"id": "D.v2.3.b02",
+"t": "mc",
+"e": "D.elas",
+"b": "Hoeveelheidseffect",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verandering van de omzet doordat de afzet verandert na een prijsverandering.\"",
+"o": [
+"Hoeveelheidseffect",
+"Drempelinkomen",
+"Inkomenselasticiteit",
+"Ceteris paribus"
+],
+"a": 0,
+"u": "Hoeveelheidseffect: De verandering van de omzet doordat de afzet verandert na een prijsverandering."
+},
+{
+"id": "D.v2.3.b03",
+"t": "mc",
+"e": "D.elas",
+"b": "Prijselasticiteit van de vraag",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.\"",
+"o": [
+"Prijselasticiteit van de vraag",
+"Noodzakelijk goed",
+"Prijsinelastische vraag",
+"Kruislingse prijselasticiteit"
+],
+"a": 0,
+"u": "Prijselasticiteit van de vraag: De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs."
+},
+{
+"id": "D.v2.3.b04",
+"t": "mc",
+"e": "D.elas",
+"b": "Prijsinelastische vraag",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.\"",
+"o": [
+"Prijsinelastische vraag",
+"Ceteris paribus",
+"Inferieur goed",
+"Omzet"
+],
+"a": 0,
+"u": "Prijsinelastische vraag: Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs."
+},
+{
+"id": "D.v2.3.b05",
+"t": "mc",
+"e": "D.elas",
+"b": "Omzet",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.\"",
+"o": [
+"Omzet",
+"Complementaire goederen",
+"Inferieur goed",
+"Luxe goed"
+],
+"a": 0,
+"u": "Omzet: Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet."
+},
+{
+"t": "open",
+"titel": "Fluisterboot Rietvaart",
+"q": "Rederij Rietvaart organiseert dagtochten met een elektrische fluisterboot door een natuurgebied. De rederij verlaagt de prijs van een ticket om meer toeristen te trekken. In de tabel staan de ticketprijs en de omzet per maand vóór en na de prijsverlaging. Andere factoren die de vraag beïnvloeden, zijn gelijk gebleven.\nTabel Ticketprijs en omzet per maand:\nSituatie | Prijs per ticket (€) | Omzet per maand (€)\nVoor de verlaging | 20,00 | 36.000\nNa de verlaging | 18,00 | 37.800\nBereken de prijselasticiteit van de vraag naar tickets bij de prijsverlaging van € 20,00 naar € 18,00. Geef je antwoord op twee decimalen.\nDoe het als volgt:\n− Bedenk vooraf met de omzetgegevens of de vraag elastisch of inelastisch moet zijn.\n− Bepaal de afzet bij beide prijzen.\n− Bereken de procentuele verandering van de afzet en van de prijs.\n− Bereken Ev en controleer of dit past bij je verwachting.",
+"model": "Afzet voor: 36.000 : 20 = 1.800. Afzet na: 37.800 : 18 = 2.100. %ΔQv = (2.100 − 1.800) : 1.800 × 100% = 16,67%. %ΔP = (18 − 20) : 20 × 100% = −10%. Ev = 16,67 : −10 = −1,67. De prijs daalt en de omzet stijgt, dus de vraag is elastisch; dat klopt met Ev < −1.\nPuntenverdeling:\n• Afzet voor de verlaging: 36.000 : 20 = 1.800 en na de verlaging: 37.800 : 18 = 2.100 (1)\n• Procentuele verandering van de afzet: (2.100 − 1.800) : 1.800 × 100% = 16,67% en van de prijs: (18 − 20) : 20 × 100% = −10% (1)\n• Ev = 16,67 : −10 = −1,67 (1)",
+"pnt": 3,
+"id": "D.v2.3.IT00112",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Kaashoeve De Hoogwei",
+"q": "Kaashoeve De Hoogwei verkoopt op de markt in Hoogveld twee producten: biologische kaas en geitenkaas. Per 1 januari verhoogt de kaashoeve de prijs van de biologische kaas. Bij de geitenkaas overweegt de eigenaar ook een prijsverhoging.\nIn de tabel staan de prijs per kilo en de omzet per kwartaal van de biologische kaas vóór en na de prijsverhoging.\nTabel Biologische kaas: prijs per kilo en omzet per kwartaal:\nSituatie | Prijs per kilo (€) | Omzet per kwartaal (€)\nVoor de verhoging | 12,00 | 24.000\nNa de verhoging | 13,50 | 22.680\nToon met een berekening aan dat de vraag naar biologische kaas prijselastisch is.",
+"model": "Afzet voor: 24.000 : 12 = 2.000 kilo. Afzet na: 22.680 : 13,50 = 1.680 kilo. %ΔQv = (1.680 − 2.000) : 2.000 × 100% = −16%. %ΔP = (13,50 − 12) : 12 × 100% = 12,5%. Ev = −16 : 12,5 = −1,28. Dit is kleiner dan −1, dus de vraag is prijselastisch.\nPuntenverdeling:\n• Afzet voor de verhoging: 24.000 : 12 = 2.000 kilo en na de verhoging: 22.680 : 13,50 = 1.680 kilo (1)\n• Procentuele verandering van de afzet: (1.680 − 2.000) : 2.000 × 100% = −16% en van de prijs: (13,50 − 12) : 12 × 100% = 12,5% (1)\n• Ev = −16 : 12,5 = −1,28; dit is kleiner dan −1, dus de vraag is prijselastisch (1)",
+"pnt": 3,
+"id": "D.v2.3.IT00113",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Kaashoeve De Hoogwei",
+"q": "Kaashoeve De Hoogwei verkoopt op de markt in Hoogveld ook geitenkaas. De prijselasticiteit van de vraag naar geitenkaas is −0,40.\nDe eigenaar overweegt de prijs van de geitenkaas met 10% te verhogen. Andere factoren die de vraag beïnvloeden, blijven gelijk.\nLeg uit of de omzet van geitenkaas stijgt of daalt bij een prijsverhoging van 10%.",
+"model": "Ev = −0,40 ligt tussen −1 en 0, dus de vraag is prijsinelastisch. Bij een prijsverhoging van 10% daalt de afzet met 0,40 × 10 = 4%. De afzet daalt dus procentueel minder dan de prijs stijgt. Daardoor stijgt de omzet: 1,10 × 0,96 = 1,056, dus een stijging van 5,6%.\nPuntenverdeling:\n• De vraag is prijsinelastisch (Ev = −0,40 ligt tussen −1 en 0) / de afzet daalt procentueel minder dan de prijs stijgt (4% tegenover 10%). Eén van beide formuleringen is voldoende voor dit punt. (1)\n• Dus de omzet stijgt. (1)",
+"pnt": 2,
+"id": "D.v2.3.IT00118",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-II, vraag 13",
+"q": "(Examen vwo 2019-II, vraag 13)\nDe spitsprijs stijgt 10% en de dalprijs daalt 10%. De prijselasticiteit in de spits is −0,2 en de kruislingse elasticiteit +0,3. De huidige bezetting is 109%. Bereken de bezettingsgraad in de spits.",
+"model": "Eigen prijs: −0,2 × 10% = −2% (1). Kruislings: +0,3 × −10% = −3% (1). Bezetting 109 × 0,98 × 0,97 ≈ 103,62 of 109 × 0,95 = 103,55 (1).",
+"pnt": 3,
+"id": "D.v2.3.v2019II13",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 19",
+"q": "(Examen vwo 2021-I, vraag 19)\nBij de prijselasticiteit van de export staat de prijs in vreemde valuta in de noemer, bij de import de prijs in eigen valuta. Verklaar dit verschil.",
+"model": "De vraag naar importgoederen komt van binnen het land. Die vragers reageren op de prijs in eigen valuta. De vraag naar export komt uit het buitenland. Buitenlandse vragers reageren op de prijs in hun eigen valuta.",
+"pnt": 1,
+"id": "D.v2.3.v2021I19",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 20",
+"q": "(Examen vwo 2021-I, vraag 20)\nEen land devalueert 20%. De prijselasticiteit van de export is −0,5 en die van de import −0,4. Toon met een berekening aan dat de importwaarde in eigen valuta sterker toeneemt dan de exportwaarde.",
+"model": "Exportprijs in vreemde valuta −20%, dus exportvolume +10% (1). Importprijs in eigen valuta 1 : 0,8 = 1,25, dus +25%, importvolume −10% (1). Exportwaarde: 100 × 1,1 = 110. Importwaarde: 100 × 0,9 × 1,25 = 112,5. Importwaarde stijgt dus meer (1).",
+"pnt": 3,
+"id": "D.v2.3.v2021I20",
+"e": "D.elas"
+}
+],
+"gens": [
+"elasticiteit"
+],
+"doel": "Hoe reageert de consument op een prijsverandering?",
+"uitleg": [
+{
+"t": "Prijs, afzet en omzet",
+"x": "Omzet = prijs × afzet. Bij een prijsverhoging daalt de omzet door het hoeveelheidseffect (minder afzet) en stijgt ze door het prijseffect (meer per stuk). Welk effect wint, hangt af van de prijselasticiteit."
+},
+{
+"t": "Prijselasticiteit",
+"x": "Ev = %ΔQv : %ΔP. Tussen 0 en −1: prijsinelastisch, de omzet stijgt bij een prijsverhoging. Kleiner dan −1: prijselastisch, de omzet daalt bij een prijsverhoging."
+},
+{
+"t": "Kruislingse prijselasticiteit",
+"x": "Ek = %ΔQv van product A : %ΔP van product B.\nEk positief: substituten (B duurder, meer vraag naar A). Ek negatief: complementen (B duurder, minder vraag naar A). Ek = 0: de producten hebben niets met elkaar te maken."
+}
+]
+},
+{
+"id": "D.v2.4",
+"hfd": "Hoofdstuk 2 · Consumentengedrag",
+"niv": "v",
+"naam": "§2.4 Inkomenselasticiteit",
+"kort": "Hoe en in welke mate reageert de consument op een inkomensverandering?",
+"vragen": [
+{
+"id": "D.v2.4.m01",
+"t": "mc",
+"e": "D.elas",
+"q": "Volgens de wet van Engel gebeurt er bij een stijgend inkomen het volgende:",
+"o": [
+"Het aandeel van de uitgaven aan voedsel in het inkomen daalt",
+"Er wordt minder voedsel gekocht",
+"Het aandeel van de uitgaven aan voedsel stijgt",
+"Alle uitgaven stijgen met hetzelfde percentage"
+],
+"a": 0,
+"u": "Voedsel is een noodzakelijk goed met Ey tussen 0 en 1: de uitgaven stijgen procentueel minder dan het inkomen."
+},
+{
+"id": "D.v2.4.m02",
+"t": "mc",
+"e": "D.elas",
+"q": "Welk product heeft waarschijnlijk het hoogste drempelinkomen?",
+"o": [
+"Een zeiljacht",
+"Brood",
+"Tandpasta",
+"Melk"
+],
+"a": 0,
+"u": "Luxegoederen worden pas bij een hoog inkomen gekocht."
+},
+{
+"id": "D.v2.4.m03",
+"t": "mc",
+"e": "D.elas",
+"q": "Het inkomen stijgt met 4%. De vraag naar restaurantbezoek stijgt met 10%. Wat voor goed is restaurantbezoek?",
+"o": [
+"Een luxe goed, Ey = 2,5",
+"Een noodzakelijk goed, Ey = 0,4",
+"Een inferieur goed, Ey = −2,5",
+"Een luxe goed, Ey = 0,4"
+],
+"a": 0,
+"u": "Ey = 10 : 4 = 2,5. Groter dan 1, dus luxe."
+},
+{
+"id": "D.v2.4.m04",
+"t": "mc",
+"e": "D.elas",
+"q": "De inkomenselasticiteit van huismerkcola is −0,6. De inkomens dalen tijdens een crisis. Wat gebeurt er?",
+"o": [
+"De vraag naar huismerkcola stijgt",
+"De vraag naar huismerkcola daalt",
+"De vraag blijft gelijk",
+"De prijs van huismerkcola daalt"
+],
+"a": 0,
+"u": "Een negatieve Ey (inferieur goed): als het inkomen daalt, stijgt de vraag."
+},
+{
+"id": "D.v2.4.m05",
+"t": "mc",
+"e": "D.elas",
+"q": "Bij welke inkomenselasticiteit spreek je van een noodzakelijk goed?",
+"o": [
+"Tussen 0 en 1",
+"Groter dan 1",
+"Kleiner dan 0",
+"Precies −1"
+],
+"a": 0,
+"u": "Noodzakelijke (primaire) goederen: de vraag stijgt wel als het inkomen stijgt, maar procentueel minder."
+},
+{
+"id": "D.v2.4.k01",
+"t": "koppel",
+"e": "D.elas",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Wet van Engel",
+"Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven."
+],
+[
+"Drempelinkomen",
+"Het inkomen vanaf waar een consument een product gaat kopen."
+],
+[
+"Inkomensvraaglijn",
+"Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product."
+]
+],
+"u": "Wet van Engel: Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven. Drempelinkomen: Het inkomen vanaf waar een consument een product gaat kopen. Inkomensvraaglijn: Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product."
+},
+{
+"id": "D.v2.4.k02",
+"t": "koppel",
+"e": "D.elas",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Inkomenselasticiteit",
+"De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen."
+],
+[
+"Inferieur goed",
+"Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0)."
+],
+[
+"Luxe goed",
+"Goed met een inkomenselasticiteit groter dan 1."
+]
+],
+"u": "Inkomenselasticiteit: De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen. Inferieur goed: Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0). Luxe goed: Goed met een inkomenselasticiteit groter dan 1."
+},
+{
+"id": "D.v2.4.b01",
+"t": "mc",
+"e": "D.elas",
+"b": "Wet van Engel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven.\"",
+"o": [
+"Wet van Engel",
+"Inkomensvraaglijn",
+"Complementaire goederen",
+"Consumentensurplus"
+],
+"a": 0,
+"u": "Wet van Engel: Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven."
+},
+{
+"id": "D.v2.4.b02",
+"t": "mc",
+"e": "D.elas",
+"b": "Drempelinkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het inkomen vanaf waar een consument een product gaat kopen.\"",
+"o": [
+"Drempelinkomen",
+"Noodzakelijk goed",
+"Consumentensurplus",
+"Inkomensvraaglijn"
+],
+"a": 0,
+"u": "Drempelinkomen: Het inkomen vanaf waar een consument een product gaat kopen."
+},
+{
+"id": "D.v2.4.b03",
+"t": "mc",
+"e": "D.elas",
+"b": "Inkomensvraaglijn",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product.\"",
+"o": [
+"Inkomensvraaglijn",
+"Consumentensurplus",
+"Prijsinelastische vraag",
+"Inferieur goed"
+],
+"a": 0,
+"u": "Inkomensvraaglijn: Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product."
+},
+{
+"id": "D.v2.4.b04",
+"t": "mc",
+"e": "D.elas",
+"b": "Inkomenselasticiteit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.\"",
+"o": [
+"Inkomenselasticiteit",
+"Complementaire goederen",
+"Omzet",
+"Substitutiegoederen"
+],
+"a": 0,
+"u": "Inkomenselasticiteit: De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen."
+},
+{
+"id": "D.v2.4.b05",
+"t": "mc",
+"e": "D.elas",
+"b": "Inferieur goed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).\"",
+"o": [
+"Inferieur goed",
+"Drempelinkomen",
+"Inkomensvraaglijn",
+"Ceteris paribus"
+],
+"a": 0,
+"u": "Inferieur goed: Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0)."
+},
+{
+"id": "D.v2.4.b06",
+"t": "mc",
+"e": "D.elas",
+"b": "Luxe goed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed met een inkomenselasticiteit groter dan 1.\"",
+"o": [
+"Luxe goed",
+"Prijsinelastische vraag",
+"Prijselasticiteit van de vraag",
+"Drempelinkomen"
+],
+"a": 0,
+"u": "Luxe goed: Goed met een inkomenselasticiteit groter dan 1."
+},
+{
+"id": "D.v2.4.b07",
+"t": "mc",
+"e": "D.elas",
+"b": "Noodzakelijk goed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed met een inkomenselasticiteit tussen 0 en 1.\"",
+"o": [
+"Noodzakelijk goed",
+"Prijsinelastische vraag",
+"Hoeveelheidseffect",
+"Drempelinkomen"
+],
+"a": 0,
+"u": "Noodzakelijk goed: Goed met een inkomenselasticiteit tussen 0 en 1."
+},
+{
+"t": "open",
+"titel": "Supermarkt Veldzicht: inkomen en afzet",
+"q": "Supermarkt Veldzicht verkoopt huismerk-macaroni. In een wijk stijgt het gemiddelde inkomen met 8%. De afzet van de macaroni daalt daardoor met 4%. De prijs verandert niet.\nMaak van onderstaande tekst een economisch juiste tekst.\nDe inkomenselasticiteit is gelijk aan de ...(1)... De uitkomst bij de macaroni van Veldzicht is ...(2)... Het gaat om een ...(3)... product.\nKies uit:\nbij (1): procentuele verandering van de afzet : procentuele verandering van het inkomen / procentuele verandering van het inkomen : procentuele verandering van de afzet / procentuele verandering van de afzet : procentuele verandering van de prijs\nbij (2): −2,00 / −0,50 / 0,50\nbij (3): inferieur / noodzakelijk / luxe",
+"model": "(1) procentuele verandering van de afzet : procentuele verandering van het inkomen. (2) −4 : 8 = −0,50. (3) inferieur, want de uitkomst is negatief: het inkomen stijgt en de afzet daalt.\nPuntenverdeling:\n• Per juiste keuze 1 scorepunt. bij (1): procentuele verandering van de afzet : procentuele verandering van het inkomen (1)\n• bij (2): −0,50 (−4 : 8) (1)\n• bij (3): inferieur (de uitkomst is negatief) (1)",
+"pnt": 3,
+"id": "D.v2.4.IT00459",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Sapbar Fruitig",
+"q": "Sapbar Fruitig verkoopt smoothies voor € 4,00 per stuk. De prijs is al jaren gelijk. In 2026 stijgt het gemiddelde inkomen van de klanten. De eigenaar ziet ook dat zijn omzet groeit.\nGebruik de tabel.\nTabel Inkomen en omzet (fictieve cijfers):\nJaar | Gemiddeld inkomen per maand (€) | Omzet smoothies per week (€)\n2025 | 2.400 | 3.200\n2026 | 2.640 | 3.680\nBereken de inkomenselasticiteit van de smoothies van Sapbar Fruitig. Geef je antwoord in twee decimalen.\nDoe het als volgt:\n- bereken de afzet in 2025 en in 2026;\n- bereken de procentuele verandering van de afzet en van het inkomen, met de oude waarde als basis.",
+"model": "Afzet 2025: 3.200 : 4 = 800. Afzet 2026: 3.680 : 4 = 920. Afzet stijgt (920 − 800) : 800 × 100 = 15%. Inkomen stijgt (2.640 − 2.400) : 2.400 × 100 = 10%. Ey = 15 : 10 = 1,50.\nPuntenverdeling:\n• Een los eindantwoord zonder berekening levert 0 scorepunten op. Afzet 2025 = 3.200 : 4,00 = 800 en afzet 2026 = 3.680 : 4,00 = 920 (1)\n• Procentuele verandering afzet = (920 − 800) : 800 × 100 = 15% en procentuele verandering inkomen = (2.640 − 2.400) : 2.400 × 100 = 10% (1)\n• Inkomenselasticiteit = 15 : 10 = 1,50 (1)",
+"pnt": 3,
+"id": "D.v2.4.IT00460",
+"e": "D.elas"
+},
+{
+"t": "open",
+"titel": "Noedels bij een lager inkomen",
+"q": "In de regio Noordkust sluit een grote fabriek. Het gemiddelde inkomen van de huishoudens daalt daardoor. Supermarktketen Prijsvrij verkoopt in deze regio instantnoedels van het huismerk voor € 0,80 per pakje. De prijs blijft gelijk.\nGebruik de tabel.\nTabel Inkomen en omzet noedels (fictieve cijfers):\nJaar | Gemiddeld huishoudinkomen per jaar (€) | Omzet noedels per maand (€)\n2025 | 36.000 | 24.000\n2026 | 34.200 | 24.720\nBereken de inkomenselasticiteit van de noedels en geef met je uitkomst aan of het een inferieur, een noodzakelijk of een luxeproduct is. Geef de uitkomst in twee decimalen.",
+"model": "Afzet 2025: 24.000 : 0,80 = 30.000. Afzet 2026: 24.720 : 0,80 = 30.900. Afzet: +3%. Inkomen: (34.200 − 36.000) : 36.000 × 100 = −5%. Ey = 3 : −5 = −0,60. Dit is negatief, dus de noedels zijn een inferieur product.\nPuntenverdeling:\n• Een los eindantwoord zonder berekening levert 0 scorepunten op. Afzet 2025 = 24.000 : 0,80 = 30.000 en afzet 2026 = 24.720 : 0,80 = 30.900 (1)\n• Procentuele verandering afzet = (30.900 − 30.000) : 30.000 × 100 = +3% en procentuele verandering inkomen = (34.200 − 36.000) : 36.000 × 100 = −5% (1)\n• Inkomenselasticiteit = 3 : −5 = −0,60 en dus een inferieur product (negatieve uitkomst) (1)",
+"pnt": 3,
+"id": "D.v2.4.IT00461",
+"e": "D.elas"
+}
+],
+"gens": [],
+"doel": "Hoe en in welke mate reageert de consument op een inkomensverandering?",
+"uitleg": [
+{
+"t": "Inkomenselasticiteit en de wet van Engel",
+"x": "Ey = %ΔQv : %Δbesteedbaar inkomen. Inferieur: Ey < 0. Noodzakelijk (primair): 0 < Ey < 1. Luxe: Ey > 1.\nWet van Engel: naarmate het inkomen stijgt, daalt het deel van het inkomen dat aan voedsel (eerste levensbehoeften) wordt uitgegeven.\nDrempelinkomen: het inkomen vanaf waar iemand een product gaat kopen. Noodzakelijke goederen hebben een laag drempelinkomen, luxe goederen een hoog drempelinkomen.\nDe inkomensvraaglijn laat het verband zien tussen het inkomen en de gevraagde hoeveelheid."
+}
+]
+},
+{
+"id": "D.v3.1",
+"hfd": "Hoofdstuk 3 · Producentengedrag",
+"niv": "v",
+"naam": "§3.1 Kosten en omzet",
+"kort": "Wat is het verband tussen de omvang van productie en afzet en de kosten en opbrengsten van de onderneming?",
+"vragen": [
+{
+"id": "D.v3.1.m01",
+"t": "mc",
+"e": "D.kosten",
+"q": "Een producent is prijsnemer en verkoopt tegen € 15 per stuk. Wat is zijn marginale opbrengst bij de 200e eenheid?",
+"o": [
+"€ 15",
+"€ 3.000",
+"€ 0",
+"€ 7,50"
+],
+"a": 0,
+"u": "Bij een vaste prijs levert elk extra product precies de prijs op: MO = GO = P."
+},
+{
+"id": "D.v3.1.m02",
+"t": "mc",
+"e": "D.kosten",
+"q": "Waarom daalt de GTK-lijn bij kleine productieaantallen?",
+"o": [
+"De constante kosten worden over steeds meer producten verdeeld",
+"De marginale kosten zijn negatief",
+"De prijs daalt",
+"De variabele kosten per stuk stijgen"
+],
+"a": 0,
+"u": "GCK = TCK : Q daalt sterk als Q groter wordt."
+},
+{
+"id": "D.v3.1.m03",
+"t": "mc",
+"e": "D.kosten",
+"q": "Een bakkerij heeft € 20.000 constante kosten per maand. De variabele kosten zijn € 1,50 per brood. Er worden 10.000 broden gemaakt. Hoe groot zijn de gemiddelde totale kosten?",
+"o": [
+"€ 3,50",
+"€ 2,00",
+"€ 1,50",
+"€ 21,50"
+],
+"a": 0,
+"u": "TK = 20.000 + 10.000 × 1,50 = 35.000. GTK = 35.000 : 10.000 = € 3,50."
+},
+{
+"id": "D.v3.1.m04",
+"t": "mc",
+"e": "D.kosten",
+"q": "Welke kosten zijn constante kosten voor een fietsenfabriek?",
+"o": [
+"De huur van de fabriekshal",
+"De kosten van frames en banden",
+"De verpakking per fiets",
+"De energie voor het spuiten van elke fiets"
+],
+"a": 0,
+"u": "De huur blijft gelijk, hoeveel fietsen er ook gemaakt worden."
+},
+{
+"id": "D.v3.1.m05",
+"t": "mc",
+"e": "D.kosten",
+"q": "Als de productie stijgt, wat gebeurt er dan met de gemiddelde constante kosten?",
+"o": [
+"Die dalen, want dezelfde vaste kosten worden over meer producten verdeeld",
+"Die stijgen, want er worden meer producten gemaakt",
+"Die blijven gelijk, want de constante kosten veranderen niet",
+"Die worden gelijk aan de marginale kosten"
+],
+"a": 0,
+"u": "GCK = TCK : Q. Q groter, dus GCK kleiner."
+},
+{
+"id": "D.v3.1.m06",
+"t": "mc",
+"e": "D.kosten",
+"q": "De verkoopprijs exclusief btw is € 50. Het btw-tarief is 21%. Wat is de consumentenprijs?",
+"o": [
+"€ 60,50",
+"€ 71,00",
+"€ 50,00",
+"€ 41,32"
+],
+"a": 0,
+"u": "50 × 1,21 = € 60,50."
+},
+{
+"id": "D.v3.1.k01",
+"t": "koppel",
+"e": "D.kosten",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Constante kosten",
+"Kosten die niet veranderen als de productie toeneemt of afneemt."
+],
+[
+"Variabele kosten",
+"Kosten die meeveranderen met de omvang van de productie."
+],
+[
+"Marginale kosten",
+"De extra kosten van het produceren van één product meer."
+]
+],
+"u": "Constante kosten: Kosten die niet veranderen als de productie toeneemt of afneemt. Variabele kosten: Kosten die meeveranderen met de omvang van de productie. Marginale kosten: De extra kosten van het produceren van één product meer."
+},
+{
+"id": "D.v3.1.k02",
+"t": "koppel",
+"e": "D.kosten",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Marginale opbrengst",
+"De extra opbrengst van het verkopen van één product meer."
+],
+[
+"Gemiddelde totale kosten",
+"De totale kosten gedeeld door de geproduceerde hoeveelheid."
+],
+[
+"Consumentenprijs",
+"De verkoopprijs inclusief btw en andere prijsverhogende belastingen."
+]
+],
+"u": "Marginale opbrengst: De extra opbrengst van het verkopen van één product meer. Gemiddelde totale kosten: De totale kosten gedeeld door de geproduceerde hoeveelheid. Consumentenprijs: De verkoopprijs inclusief btw en andere prijsverhogende belastingen."
+},
+{
+"id": "D.v3.1.b01",
+"t": "mc",
+"e": "D.kosten",
+"b": "Constante kosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kosten die niet veranderen als de productie toeneemt of afneemt.\"",
+"o": [
+"Constante kosten",
+"Marginale winst",
+"Break-evenomzet",
+"Producentensurplus"
+],
+"a": 0,
+"u": "Constante kosten: Kosten die niet veranderen als de productie toeneemt of afneemt."
+},
+{
+"id": "D.v3.1.b02",
+"t": "mc",
+"e": "D.kosten",
+"b": "Variabele kosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kosten die meeveranderen met de omvang van de productie.\"",
+"o": [
+"Variabele kosten",
+"Marginale winst",
+"Break-evenafzet",
+"Consumentenprijs"
+],
+"a": 0,
+"u": "Variabele kosten: Kosten die meeveranderen met de omvang van de productie."
+},
+{
+"id": "D.v3.1.b03",
+"t": "mc",
+"e": "D.kosten",
+"b": "Marginale kosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De extra kosten van het produceren van één product meer.\"",
+"o": [
+"Marginale kosten",
+"Variabele kosten",
+"Gemiddelde totale kosten",
+"Producentensurplus"
+],
+"a": 0,
+"u": "Marginale kosten: De extra kosten van het produceren van één product meer."
+},
+{
+"id": "D.v3.1.b04",
+"t": "mc",
+"e": "D.kosten",
+"b": "Marginale opbrengst",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De extra opbrengst van het verkopen van één product meer.\"",
+"o": [
+"Marginale opbrengst",
+"Break-evenafzet",
+"Dekkingsbijdrage",
+"Consumentenprijs"
+],
+"a": 0,
+"u": "Marginale opbrengst: De extra opbrengst van het verkopen van één product meer."
+},
+{
+"id": "D.v3.1.b05",
+"t": "mc",
+"e": "D.kosten",
+"b": "Gemiddelde totale kosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De totale kosten gedeeld door de geproduceerde hoeveelheid.\"",
+"o": [
+"Gemiddelde totale kosten",
+"Marginale opbrengst",
+"Marginale kosten",
+"Break-evenomzet"
+],
+"a": 0,
+"u": "Gemiddelde totale kosten: De totale kosten gedeeld door de geproduceerde hoeveelheid."
+},
+{
+"id": "D.v3.1.b06",
+"t": "mc",
+"e": "D.kosten",
+"b": "Consumentenprijs",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verkoopprijs inclusief btw en andere prijsverhogende belastingen.\"",
+"o": [
+"Consumentenprijs",
+"Collectieve aanbodlijn",
+"Variabele kosten",
+"Sluitingspunt"
+],
+"a": 0,
+"u": "Consumentenprijs: De verkoopprijs inclusief btw en andere prijsverhogende belastingen."
+}
+],
+"gens": [
+"winst"
+],
+"doel": "Wat is het verband tussen de omvang van productie en afzet en de kosten en opbrengsten van de onderneming?",
+"uitleg": [
+{
+"t": "Kosten",
+"x": "Constante kosten (capaciteitskosten) zijn in een periode onafhankelijk van de productieomvang. Variabele kosten hangen op korte termijn af van de productie en kunnen proportioneel, progressief of degressief verlopen.\nTK = TCK + TVK. GTK = TK : Q = GCK + GVK. De GTK-lijn daalt eerst (vaste kosten over meer producten) en stijgt later (progressieve variabele kosten).\nMarginale kosten: de extra kosten van één extra product, MK = ΔTK : ΔQ."
+},
+{
+"t": "Opbrengsten bij volkomen concurrentie",
+"x": "Bij volkomen concurrentie (vrije toegang, homogene producten) is een aanbieder prijsnemer: zijn aanbod heeft geen invloed op de prijs. Dan geldt GO = MO = P, en is de TO-lijn een rechte lijn door de oorsprong."
+}
+]
+},
+{
+"id": "D.v3.2",
+"hfd": "Hoofdstuk 3 · Producentengedrag",
+"niv": "v",
+"naam": "§3.2 Break-evenanalyse",
+"kort": "Vanaf welke afzet wordt de productie winstgevend?",
+"vragen": [
+{
+"id": "D.v3.2.m01",
+"t": "mc",
+"e": "D.kosten",
+"q": "TO = 20Q en TK = 8Q + 6.000. Bij welke afzet is er break-even?",
+"o": [
+"500",
+"300",
+"750",
+"214"
+],
+"a": 0,
+"u": "20Q = 8Q + 6.000 geeft 12Q = 6.000, dus Q = 500."
+},
+{
+"id": "D.v3.2.m02",
+"t": "mc",
+"e": "D.kosten",
+"q": "Een bedrijf heeft € 30.000 constante kosten. De prijs is € 25 en de variabele kosten zijn € 10 per stuk. Wat is de break-evenafzet?",
+"o": [
+"2.000 stuks",
+"1.200 stuks",
+"857 stuks",
+"3.000 stuks"
+],
+"a": 0,
+"u": "BEA = 30.000 : (25 − 10) = 2.000."
+},
+{
+"id": "D.v3.2.m03",
+"t": "mc",
+"e": "D.kosten",
+"q": "Wat gebeurt er met de break-evenafzet als de variabele kosten per stuk stijgen (ceteris paribus)?",
+"o": [
+"Die stijgt, want de dekkingsbijdrage per product wordt kleiner",
+"Die daalt, want de kosten zijn hoger",
+"Die blijft gelijk, want de constante kosten veranderen niet",
+"Die stijgt, want de prijs stijgt mee"
+],
+"a": 0,
+"u": "BEA = TCK : (P − GVK). Een hogere GVK maakt de noemer kleiner, dus de BEA groter."
+},
+{
+"id": "D.v3.2.m04",
+"t": "mc",
+"e": "D.kosten",
+"q": "De break-evenafzet is 4.000 stuks en de prijs is € 12. Hoe groot is de break-evenomzet?",
+"o": [
+"€ 48.000",
+"€ 4.012",
+"€ 333",
+"€ 12.000"
+],
+"a": 0,
+"u": "BEO = 4.000 × 12 = € 48.000."
+},
+{
+"id": "D.v3.2.k01",
+"t": "koppel",
+"e": "D.kosten",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Break-evenafzet",
+"De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten."
+],
+[
+"Break-evenomzet",
+"De omzet die hoort bij de break-evenafzet."
+],
+[
+"Dekkingsbijdrage",
+"Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten."
+]
+],
+"u": "Break-evenafzet: De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten. Break-evenomzet: De omzet die hoort bij de break-evenafzet. Dekkingsbijdrage: Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten."
+},
+{
+"id": "D.v3.2.b01",
+"t": "mc",
+"e": "D.kosten",
+"b": "Break-evenafzet",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.\"",
+"o": [
+"Break-evenafzet",
+"Gemiddelde winst",
+"Variabele kosten",
+"Capaciteitskosten"
+],
+"a": 0,
+"u": "Break-evenafzet: De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten."
+},
+{
+"id": "D.v3.2.b02",
+"t": "mc",
+"e": "D.kosten",
+"b": "Break-evenomzet",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De omzet die hoort bij de break-evenafzet.\"",
+"o": [
+"Break-evenomzet",
+"Collectieve aanbodlijn",
+"Dekkingsbijdrage",
+"Variabele kosten"
+],
+"a": 0,
+"u": "Break-evenomzet: De omzet die hoort bij de break-evenafzet."
+},
+{
+"id": "D.v3.2.b03",
+"t": "mc",
+"e": "D.kosten",
+"b": "Dekkingsbijdrage",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.\"",
+"o": [
+"Dekkingsbijdrage",
+"Break-evenafzet",
+"Totale winst",
+"Capaciteitskosten"
+],
+"a": 0,
+"u": "Dekkingsbijdrage: Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten."
+}
+],
+"gens": [
+"breakEven"
+],
+"doel": "Vanaf welke afzet wordt de productie winstgevend?",
+"uitleg": [
+{
+"t": "Break-even en uittreden",
+"x": "Break-evenproductie: TO = TK, of GO = GTK. Daarboven winst, daaronder verlies.\nDe break-evenanalyse is voor een producent een eenvoudig instrument om te zien of productie winstgevend is. Is break-even niet haalbaar, dan kan hij overwegen uit de markt te treden."
+}
+]
+},
+{
+"id": "D.v3.3",
+"hfd": "Hoofdstuk 3 · Producentengedrag",
+"niv": "v",
+"naam": "§3.3 Maximale winst en sluitingspunt",
+"kort": "Hoe kun je bepalen bij welke productie en verkoop een onderneming de maximale winst haalt?",
+"vragen": [
+{
+"id": "D.v3.3.m01",
+"t": "mc",
+"e": "D.kosten",
+"q": "De prijs is € 9. De GTK is € 11 en de GVK is € 7. Wat doet de ondernemer op korte termijn?",
+"o": [
+"Doorproduceren, want hij dekt zijn variabele kosten en een deel van zijn constante kosten",
+"Direct stoppen, want hij maakt verlies",
+"De prijs verhogen tot € 11",
+"Meer produceren tot de GTK gelijk is aan € 9"
+],
+"a": 0,
+"u": "P > GVK: elke verkochte eenheid draagt € 2 bij aan de vaste kosten. Stoppen geeft een groter verlies."
+},
+{
+"id": "D.v3.3.m02",
+"t": "mc",
+"e": "D.kosten",
+"q": "Waar ligt het sluitingspunt?",
+"o": [
+"Bij het minimum van de GVK-lijn, waar MK = GVK",
+"Bij het minimum van de GTK-lijn",
+"Waar MO = 0",
+"Waar TO = TK"
+],
+"a": 0,
+"u": "Onder de minimale GVK dekt de opbrengst zelfs de variabele kosten niet."
+},
+{
+"id": "D.v3.3.m03",
+"t": "mc",
+"e": "D.kosten",
+"q": "Bij een afzet van 500 stuks is MO = € 8 en MK = € 6. Wat moet het bedrijf doen om meer winst te maken?",
+"o": [
+"Meer produceren, want een extra product levert meer op dan het kost",
+"Minder produceren, want de kosten stijgen",
+"Niets veranderen, want het maakt al winst",
+"De prijs verlagen tot MO = 0"
+],
+"a": 0,
+"u": "MO > MK: elk extra product verhoogt de winst."
+},
+{
+"id": "D.v3.3.m04",
+"t": "mc",
+"e": "D.kosten",
+"q": "Bij de winstmaximale afzet van 1.000 stuks is de prijs € 30 en zijn de gemiddelde totale kosten € 22. Hoe groot is de maximale totale winst?",
+"o": [
+"€ 8.000",
+"€ 30.000",
+"€ 22.000",
+"€ 52.000"
+],
+"a": 0,
+"u": "TW = (30 − 22) × 1.000 = € 8.000."
+},
+{
+"id": "D.v3.3.m05",
+"t": "mc",
+"e": "D.kosten",
+"q": "Waar is de winst maximaal?",
+"o": [
+"Waar de marginale opbrengst gelijk is aan de marginale kosten",
+"Waar de gemiddelde totale kosten minimaal zijn",
+"Waar de totale opbrengst maximaal is",
+"Waar de totale kosten gelijk zijn aan de totale opbrengst"
+],
+"a": 0,
+"u": "MO = MK. Bij TO = TK is de winst juist nul (break-even)."
+},
+{
+"id": "D.v3.3.k01",
+"t": "koppel",
+"e": "D.kosten",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Sluitingspunt",
+"Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren."
+],
+[
+"Capaciteitskosten",
+"Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten)."
+],
+[
+"Totale winst",
+"Totale opbrengst min totale kosten."
+]
+],
+"u": "Sluitingspunt: Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren. Capaciteitskosten: Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten). Totale winst: Totale opbrengst min totale kosten."
+},
+{
+"id": "D.v3.3.b01",
+"t": "mc",
+"e": "D.kosten",
+"b": "Sluitingspunt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren.\"",
+"o": [
+"Sluitingspunt",
+"Constante kosten",
+"Producentensurplus",
+"Capaciteitskosten"
+],
+"a": 0,
+"u": "Sluitingspunt: Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren."
+},
+{
+"id": "D.v3.3.b02",
+"t": "mc",
+"e": "D.kosten",
+"b": "Capaciteitskosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten).\"",
+"o": [
+"Capaciteitskosten",
+"Variabele kosten",
+"Gemiddelde winst",
+"Producentensurplus"
+],
+"a": 0,
+"u": "Capaciteitskosten: Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten)."
+},
+{
+"id": "D.v3.3.b03",
+"t": "mc",
+"e": "D.kosten",
+"b": "Totale winst",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Totale opbrengst min totale kosten.\"",
+"o": [
+"Totale winst",
+"Gemiddelde winst",
+"Dekkingsbijdrage",
+"Capaciteitskosten"
+],
+"a": 0,
+"u": "Totale winst: Totale opbrengst min totale kosten."
+},
+{
+"id": "D.v3.3.b04",
+"t": "mc",
+"e": "D.kosten",
+"b": "Marginale winst",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verandering van de totale winst bij één product meer: MO − MK.\"",
+"o": [
+"Marginale winst",
+"Gemiddelde winst",
+"Verkoopbereidheid",
+"Marginale kosten"
+],
+"a": 0,
+"u": "Marginale winst: De verandering van de totale winst bij één product meer: MO − MK."
+},
+{
+"id": "D.v3.3.b05",
+"t": "mc",
+"e": "D.kosten",
+"b": "Gemiddelde winst",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.\"",
+"o": [
+"Gemiddelde winst",
+"Marginale kosten",
+"Sluitingspunt",
+"Consumentenprijs"
+],
+"a": 0,
+"u": "Gemiddelde winst: De winst per product: gemiddelde opbrengst min gemiddelde totale kosten."
+}
+],
+"gens": [
+"winst"
+],
+"doel": "Hoe kun je bepalen bij welke productie en verkoop een onderneming de maximale winst haalt?",
+"uitleg": [
+{
+"t": "Besluitvorming in de marge",
+"x": "Maximale winst bij MO = MK. Stappenplan: (1) stel MO = MK, (2) bepaal Q, (3) bepaal P via de GO-lijn, (4) TO = P × Q, (5) TK = GTK × Q, (6) TW = TO − TK."
+},
+{
+"t": "Sluitingspunt",
+"x": "Zolang P boven de GTK ligt, maakt de ondernemer winst. Ligt P tussen de GVK en de GTK, dan maakt hij verlies, maar dekt hij nog wel zijn variabele kosten plus een deel van de constante kosten. Op korte termijn gaat hij dan door, want de constante kosten moet hij hoe dan ook betalen.\nLigt P onder de minimale GVK, dan kan hij beter stoppen. Het sluitingspunt ligt waar MK = MO = GVK (het minimum van de GVK)."
+}
+]
+},
+{
+"id": "D.v3.4",
+"hfd": "Hoofdstuk 3 · Producentengedrag",
+"niv": "v",
+"naam": "§3.4 Prijs, aanbod en producentensurplus",
+"kort": "Wat is het verband tussen de prijs van een product en het producentensurplus?",
+"vragen": [
+{
+"id": "D.v3.4.m01",
+"t": "mc",
+"e": "D.vraag",
+"q": "De lonen in de bouw stijgen sterk. Wat gebeurt er met de aanbodlijn van nieuwbouwwoningen?",
+"o": [
+"Die verschuift naar links (omhoog)",
+"Die verschuift naar rechts",
+"Er is een beweging langs de aanbodlijn",
+"De vraaglijn verschuift"
+],
+"a": 0,
+"u": "Hogere factorprijzen verhogen de kosten: bij elke prijs wordt minder aangeboden."
+},
+{
+"id": "D.v3.4.m02",
+"t": "mc",
+"e": "D.vraag",
+"q": "Een producent wil minimaal € 40 ontvangen voor een product. De marktprijs is € 55. Hoe groot is zijn producentensurplus voor dit product?",
+"o": [
+"€ 15",
+"€ 40",
+"€ 55",
+"€ 95"
+],
+"a": 0,
+"u": "PS = prijs − verkoopbereidheid = 55 − 40 = € 15."
+},
+{
+"id": "D.v3.4.m03",
+"t": "mc",
+"e": "D.vraag",
+"q": "De grondstofprijzen dalen sterk. Wat gebeurt er met de collectieve aanbodlijn?",
+"o": [
+"Die verschuift naar rechts",
+"Die verschuift naar links",
+"Er is een beweging langs de aanbodlijn",
+"Die blijft gelijk, alleen de vraaglijn verschuift"
+],
+"a": 0,
+"u": "Lagere kosten: bij elke prijs willen producenten meer aanbieden."
+},
+{
+"id": "D.v3.4.m04",
+"t": "mc",
+"e": "D.vraag",
+"q": "Waarom is de MK-lijn de aanbodlijn van een producent die de marktprijs niet kan beïnvloeden?",
+"o": [
+"Hij biedt aan tot de prijs gelijk is aan zijn marginale kosten, omdat daar zijn winst maximaal is",
+"Omdat de marginale kosten altijd gelijk zijn aan de prijs",
+"Omdat hij geen constante kosten heeft",
+"Omdat de vraaglijn horizontaal loopt"
+],
+"a": 0,
+"u": "Voor een prijsnemer is P = MO. Winstmaximalisatie MO = MK wordt dan P = MK."
+},
+{
+"id": "D.v3.4.k01",
+"t": "koppel",
+"e": "D.vraag",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Producentensurplus",
+"Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen."
+],
+[
+"Verkoopbereidheid",
+"De laagste prijs waarvoor een producent een product wil verkopen."
+],
+[
+"Collectieve aanbodlijn",
+"Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden."
+]
+],
+"u": "Producentensurplus: Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen. Verkoopbereidheid: De laagste prijs waarvoor een producent een product wil verkopen. Collectieve aanbodlijn: Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden."
+},
+{
+"id": "D.v3.4.b01",
+"t": "mc",
+"e": "D.vraag",
+"b": "Producentensurplus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.\"",
+"o": [
+"Producentensurplus",
+"Capaciteitskosten",
+"Constante kosten",
+"Break-evenafzet"
+],
+"a": 0,
+"u": "Producentensurplus: Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen."
+},
+{
+"id": "D.v3.4.b02",
+"t": "mc",
+"e": "D.vraag",
+"b": "Verkoopbereidheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De laagste prijs waarvoor een producent een product wil verkopen.\"",
+"o": [
+"Verkoopbereidheid",
+"Consumentenprijs",
+"Dekkingsbijdrage",
+"Break-evenomzet"
+],
+"a": 0,
+"u": "Verkoopbereidheid: De laagste prijs waarvoor een producent een product wil verkopen."
+},
+{
+"id": "D.v3.4.b03",
+"t": "mc",
+"e": "D.vraag",
+"b": "Collectieve aanbodlijn",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.\"",
+"o": [
+"Collectieve aanbodlijn",
+"Marginale kosten",
+"Break-evenafzet",
+"Marginale winst"
+],
+"a": 0,
+"u": "Collectieve aanbodlijn: Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden."
+}
+],
+"gens": [
+"evenwicht"
+],
+"doel": "Wat is het verband tussen de prijs van een product en het producentensurplus?",
+"uitleg": [
+{
+"t": "Aanbodbepalende factoren",
+"x": "Naast de prijs bepalen deze factoren het aanbod: technologie (AI en robots verlagen kosten), factorprijzen (lonen en kosten van kapitaal), het aantal aanbieders, verwachtingen en overige factoren zoals het weer.\nVerandert de prijs van het product zelf, dan is er een beweging langs de aanbodlijn. Verandert een andere factor, dan verschuift de hele aanbodlijn: bij álle prijzen wordt meer of minder aangeboden."
+}
+]
+},
+{
+"id": "D.v4.1",
+"hfd": "Hoofdstuk 4 · Volledige mededinging",
+"niv": "v",
+"naam": "§4.1 Markt van volledige mededinging",
+"kort": "Op welk type markten hebben individuele vragers en aanbieders geen invloed op de prijs?",
+"vragen": [
+{
+"id": "D.v4.1.m01",
+"t": "mc",
+"e": "D.vorm",
+"q": "Welke markt is een niet-perfecte markt?",
+"o": [
+"Een markt met drie grote aanbieders van spelcomputers",
+"De wereldmarkt voor aandelen van een groot bedrijf",
+"De valutamarkt voor euro's",
+"Een markt met duizenden tarweboeren"
+],
+"a": 0,
+"u": "Bij weinig aanbieders heeft elke aanbieder invloed op de prijs."
+},
+{
+"id": "D.v4.1.m02",
+"t": "mc",
+"e": "D.vorm",
+"q": "Welke markt komt het dichtst bij volledige mededinging?",
+"o": [
+"De markt voor euro's en dollars",
+"De markt voor smartphones",
+"De markt voor treinvervoer in Nederland",
+"De markt voor kapsalons in een stad"
+],
+"a": 0,
+"u": "Valuta zijn homogeen, er zijn heel veel kopers en verkopers en de markt is transparant."
+},
+{
+"id": "D.v4.1.m03",
+"t": "mc",
+"e": "D.vorm",
+"q": "Wat betekent het dat een aanbieder bij volledige mededinging prijsnemer is?",
+"o": [
+"Hij kan de marktprijs niet beïnvloeden en moet die accepteren",
+"Hij bepaalt zelf de prijs",
+"Hij neemt de prijs van de grootste concurrent over",
+"Hij krijgt de prijs van de overheid"
+],
+"a": 0,
+"u": "Door de vele aanbieders van een homogeen product heeft één aanbieder geen invloed op de prijs."
+},
+{
+"id": "D.v4.1.m04",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een markt heeft veel aanbieders, maar elke aanbieder verkoopt een eigen merk met een eigen uitstraling. Welke marktvorm is dit?",
+"o": [
+"Monopolistische concurrentie",
+"Volledige mededinging",
+"Oligopolie",
+"Monopolie"
+],
+"a": 0,
+"u": "Veel aanbieders met heterogene producten."
+},
+{
+"id": "D.v4.1.k01",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Perfecte markt",
+"Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs."
+],
+[
+"Niet-perfecte markt",
+"Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs."
+],
+[
+"Marktvorm",
+"Het geheel van prijsbepalende factoren op een markt."
+]
+],
+"u": "Perfecte markt: Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs. Niet-perfecte markt: Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs. Marktvorm: Het geheel van prijsbepalende factoren op een markt."
+},
+{
+"id": "D.v4.1.k02",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Volledige mededinging",
+"Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt."
+],
+[
+"Homogene producten",
+"Producten die in de ogen van de koper precies hetzelfde zijn."
+],
+[
+"Transparante markt",
+"Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien."
+]
+],
+"u": "Volledige mededinging: Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt. Homogene producten: Producten die in de ogen van de koper precies hetzelfde zijn. Transparante markt: Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien."
+},
+{
+"id": "D.v4.1.k03",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Abstracte markt",
+"Het geheel van vraag en aanbod van een product, zonder vaste plaats."
+],
+[
+"Concrete markt",
+"Een aanwijsbare plaats waar kopers en verkopers producten verhandelen."
+],
+[
+"Volkomen markt",
+"Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid."
+]
+],
+"u": "Abstracte markt: Het geheel van vraag en aanbod van een product, zonder vaste plaats. Concrete markt: Een aanwijsbare plaats waar kopers en verkopers producten verhandelen. Volkomen markt: Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid."
+},
+{
+"id": "D.v4.1.b01",
+"t": "mc",
+"e": "D.vorm",
+"b": "Perfecte markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs.\"",
+"o": [
+"Perfecte markt",
+"Allocatie",
+"Evenwichtsprijs",
+"Totaal surplus"
+],
+"a": 0,
+"u": "Perfecte markt: Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs."
+},
+{
+"id": "D.v4.1.b02",
+"t": "mc",
+"e": "D.vorm",
+"b": "Niet-perfecte markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs.\"",
+"o": [
+"Niet-perfecte markt",
+"Evenwichtshoeveelheid",
+"Allocatie",
+"Evenwichtsprijs"
+],
+"a": 0,
+"u": "Niet-perfecte markt: Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs."
+},
+{
+"id": "D.v4.1.b03",
+"t": "mc",
+"e": "D.vorm",
+"b": "Marktvorm",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het geheel van prijsbepalende factoren op een markt.\"",
+"o": [
+"Marktvorm",
+"Bedrijfsevenwicht",
+"Optimale allocatie",
+"Aanbodoverschot"
+],
+"a": 0,
+"u": "Marktvorm: Het geheel van prijsbepalende factoren op een markt."
+},
+{
+"id": "D.v4.1.b04",
+"t": "mc",
+"e": "D.vorm",
+"b": "Volledige mededinging",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.\"",
+"o": [
+"Volledige mededinging",
+"Marginale producent",
+"Toetreding",
+"Optimale allocatie"
+],
+"a": 0,
+"u": "Volledige mededinging: Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt."
+},
+{
+"id": "D.v4.1.b05",
+"t": "mc",
+"e": "D.vorm",
+"b": "Homogene producten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Producten die in de ogen van de koper precies hetzelfde zijn.\"",
+"o": [
+"Homogene producten",
+"Evenwichtsprijs",
+"Totaal surplus",
+"Bedrijfstakevenwicht"
+],
+"a": 0,
+"u": "Homogene producten: Producten die in de ogen van de koper precies hetzelfde zijn."
+},
+{
+"id": "D.v4.1.b06",
+"t": "mc",
+"e": "D.vorm",
+"b": "Transparante markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien.\"",
+"o": [
+"Transparante markt",
+"Abstracte markt",
+"Pareto-optimum",
+"Volkomen markt"
+],
+"a": 0,
+"u": "Transparante markt: Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien."
+},
+{
+"id": "D.v4.1.b07",
+"t": "mc",
+"e": "D.vorm",
+"b": "Abstracte markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het geheel van vraag en aanbod van een product, zonder vaste plaats.\"",
+"o": [
+"Abstracte markt",
+"Evenwichtsprijs",
+"Bedrijfstakevenwicht",
+"Economisch surplus"
+],
+"a": 0,
+"u": "Abstracte markt: Het geheel van vraag en aanbod van een product, zonder vaste plaats."
+},
+{
+"id": "D.v4.1.b08",
+"t": "mc",
+"e": "D.vorm",
+"b": "Concrete markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.\"",
+"o": [
+"Concrete markt",
+"Externe effecten",
+"Abstracte markt",
+"Economisch surplus"
+],
+"a": 0,
+"u": "Concrete markt: Een aanwijsbare plaats waar kopers en verkopers producten verhandelen."
+},
+{
+"id": "D.v4.1.b09",
+"t": "mc",
+"e": "D.vorm",
+"b": "Volkomen markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.\"",
+"o": [
+"Volkomen markt",
+"Economisch surplus",
+"Externe effecten",
+"Transparante markt"
+],
+"a": 0,
+"u": "Volkomen markt: Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid."
+},
+{
+"t": "open",
+"titel": "Prei in Veldmark",
+"q": "Op de groothandelsmarkt voor prei in Veldmark bieden 120 telers hun oogst aan. Samen leveren ze 24.000 bossen per week. De grootste teler, Veldhof Brink, levert er 300. Dat is 1,25 procent van het totale aanbod.\nAlle telers verkopen dezelfde preisoort in bossen van tien stronken. Elke teler bindt zijn bossen met een band met de eigen naam erop. Inkopers van supermarktketens zien bij het uitpakken geen verschil in kwaliteit tussen bossen van verschillende telers. Zij wisselen van leverancier zodra een teler een paar cent per bos goedkoper is.\nVoor het telen en verkopen van prei is geen vergunning of quotum nodig. Wie wil beginnen, pacht grond en huurt per week een koelcel bij het gezamenlijke koelhuis voor € 90. Sinds 2022 zijn 14 nieuwe telers begonnen.\nMaak van onderstaande tekst een economisch juiste tekst. Kies bij (1) tot en met (4) uit de mogelijkheden. Elke teler levert een klein deel van het totale aanbod. Een individuele teler is daardoor ...(1)... . Het product is ...(2)... . De toetreding tot de markt is ...(3)... . Op deze markt is daarom sprake van ...(4)... .\nKies uit: bij (1) prijsnemer / prijszetter / prijsleider\nKies uit: bij (2) homogeen / heterogeen / uniek\nKies uit: bij (3) vrij / beperkt door een vergunning / beperkt door hoge kosten\nKies uit: bij (4) volledige mededinging / monopolistische concurrentie / oligopolie",
+"model": "(1) prijsnemer: een teler levert maar 1,25 procent van het aanbod en kan de marktprijs niet beïnvloeden. (2) homogeen: inkopers zien geen verschil tussen de bossen en letten alleen op de prijs, ook al staat op elke band een andere naam. (3) vrij: er is geen vergunning of quotum nodig en starten kost weinig, want grond is te pachten en een koelcel te huren. Er zijn ook 14 nieuwe telers bijgekomen. (4) volledige mededinging: er zijn veel aanbieders, het product is homogeen en de toetreding is vrij.\nPuntenverdeling:\n• Een juist antwoord is: bij (1) prijsnemer, bij (2) homogeen, bij (3) vrij, bij (4) volledige mededinging (volkomen concurrentie). Per gemaakte fout 1 scorepunt in mindering brengen. (2)",
+"pnt": 2,
+"id": "D.v4.1.IT00188",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Zonnebloemen op de veiling van Zuidveld",
+"q": "Op de bloemenveiling van Zuidveld bieden 150 kwekers zonnebloemen aan. Elke kweker sorteert zijn oogst in klasse A1 en bindt de bloemen in bossen van tien. De veilingmeester vermeldt alleen de klasse en niet de kweker. De ruim 90 kopers, bloemisten en exporteurs, geven aan dat zij een bos van de ene kweker niet kunnen onderscheiden van een bos van een andere kweker.\nNa elke veilingronde staat de prijs per bos op een scherm in de zaal en op de website van de veiling. Kwekers en kopers kunnen die prijs zien.\nWie zonnebloemen op de veiling wil verkopen, vraagt het keurmerk Veldkeur aan bij de brancheorganisatie. Het keurmerk gaat naar elke kweker die de kwaliteitsregels volgt en kost € 120 per jaar. Er geldt geen maximum aan het aantal kwekers. Kopers kopen alleen bossen met het keurmerk en hebben geen voorkeur voor een bepaalde kweker. Sinds 2021 zijn 11 nieuwe kwekers begonnen en alle 11 kregen het keurmerk.\nLeg met twee kenmerken uit van welke marktvorm sprake is op de markt voor zonnebloemen bij de veiling van Zuidveld.",
+"model": "Er is sprake van volledige mededinging. Het product is homogeen: kopers kunnen een bos van de ene kweker niet onderscheiden van een bos van een andere kweker. De toetreding is vrij: elke kweker die de kwaliteitsregels volgt krijgt het keurmerk Veldkeur en er is geen maximum aan het aantal kwekers. Het keurmerk is dus geen drempel. Met een homogeen product en vrije toetreding is dit volledige mededinging.\nPuntenverdeling:\n• Een juist antwoord is: er is sprake van volledige mededinging (volkomen concurrentie), want: een eerste kenmerk van volledige mededinging met een bijpassend gegeven uit de tekst, bijvoorbeeld: het product is homogeen, want kopers kunnen bossen van verschillende kwekers niet van elkaar onderscheiden (1)\n• een tweede kenmerk van volledige mededinging met een bijpassend gegeven uit de tekst, bijvoorbeeld: de toetreding is vrij, want elke kweker die de kwaliteitsregels volgt krijgt het keurmerk en er is geen maximum aan het aantal kwekers (1)\n• Indien niet de marktvorm volledige mededinging (volkomen concurrentie) als conclusie is genoemd of een onjuiste marktvorm is genoemd: 0 scorepunten. (0)",
+"pnt": 2,
+"id": "D.v4.1.IT00189",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Schol op Zandmark",
+"q": "Op het eiland Zandmark vangen 85 vissers schol. Alle vangsten worden bij de visafslag in dezelfde maatklasse gesorteerd en in kisten van 25 kilo verkocht aan zo'n veertig groothandelaren. De afslag publiceert na elke veiling de prijs per kist, zodat iedereen hem kan zien.\nOm op Zandmark te mogen vissen heeft een visser een eigen vergunning nodig. Sinds 2012 geeft de overheid geen nieuwe vergunningen meer uit, om overbevissing te voorkomen. Een nieuwe visser kan alleen beginnen door een bestaande vergunning te kopen van een visser die stopt. Zo'n vergunning komt hooguit twee keer per jaar te koop en kost gemiddeld € 250.000.\nLeg met twee kenmerken uit of er op de scholmarkt van Zandmark sprake is van volledige mededinging.",
+"model": "Nee, er is geen volledige mededinging. Het product is wel homogeen, want alle schol wordt in dezelfde maatklasse gesorteerd. Dat kenmerk is dus aanwezig. De toetreding is echter niet vrij: sinds 2012 komen er geen nieuwe vergunningen bij en een nieuwe visser moet een bestaande vergunning kopen, die hooguit twee keer per jaar te koop komt voor gemiddeld € 250.000. Omdat vrije toetreding een kenmerk van volledige mededinging is en hier ontbreekt, is niet aan alle kenmerken voldaan.\nPuntenverdeling:\n• Een juist antwoord is: nee, er is geen volledige mededinging, want: een kenmerk van volledige mededinging dat wel aanwezig is, met een bijpassend gegeven uit de tekst, bijvoorbeeld: het product is homogeen, want alle schol is in dezelfde maatklasse gesorteerd (of: er zijn veel aanbieders, want 85 vissers en zo'n veertig groothandelaren; of: de prijs is voor iedereen zichtbaar) (1)\n• een kenmerk dat niet aanwezig is, met een bijpassend gegeven uit de tekst: de toetreding is niet vrij, want sinds 2012 worden geen nieuwe vergunningen uitgegeven en een nieuwe visser moet een bestaande vergunning kopen die zelden te koop komt en gemiddeld € 250.000 kost (1)\n• Indien niet de conclusie is gegeven dat er geen volledige mededinging is (of een keuze ontbreekt): 0 scorepunten. (0)",
+"pnt": 2,
+"id": "D.v4.1.IT00190",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 4",
+"q": "(Examen vwo 2022-II, vraag 4)\nEen model met volledige mededinging zou volgens de onderzoekers alleen gelden voor laaggeschoolde arbeid. Verklaar deze stelling.",
+"model": "Laaggeschoolde arbeid is vrij homogeen, dus het uurtarief volgt uit vraag en aanbod van alle zzp'ers samen. Hooggeschoolde diensten zijn heterogeen, dus daar is geen volledige mededinging.",
+"pnt": 2,
+"id": "D.v4.1.v2022II4",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2026-I, vraag 16",
+"q": "(Examen vwo 2026-I, vraag 16)\nEen houthandelsmarkt heeft homogeen hout en geen eigendomsrechten. Leg met twee kenmerken uit van welke marktvorm sprake is.",
+"model": "Twee kenmerken, bijvoorbeeld homogeen product, vrije toetreding of veel aanbieders. Conclusie: volledige mededinging (volkomen concurrentie).",
+"pnt": 2,
+"id": "D.v4.1.v2026I16",
+"e": "D.vorm"
+}
+],
+"gens": [],
+"doel": "Op welk type markten hebben individuele vragers en aanbieders geen invloed op de prijs?",
+"uitleg": [
+{
+"t": "Marktvormen",
+"x": "Een marktvorm is het geheel van prijsbepalende factoren op een markt.\nPerfecte markten: individuele vragers en aanbieders hebben geen invloed op de prijs (volledige mededinging).\nNiet-perfecte markten: ze hebben wel invloed (monopolie, oligopolie, monopolistische concurrentie)."
+},
+{
+"t": "Volledige mededinging",
+"x": "Veel concurrentie en een volkomen markt: (1) homogene producten en een homogene aanbieding, (2) een transparante markt, (3) vrije toe- en uittreding. Andere namen: volkomen concurrentie of volkomen vrije mededinging. Voorbeelden die erop lijken: valutamarkten, de aandelenmarkt, grondstoffenmarkten."
+}
+]
+},
+{
+"id": "D.v4.2",
+"hfd": "Hoofdstuk 4 · Volledige mededinging",
+"niv": "v",
+"naam": "§4.2 Marktevenwicht en prijsontwikkeling",
+"kort": "Hoe komt door vraag en aanbod een prijs tot stand?",
+"vragen": [
+{
+"id": "D.v4.2.m01",
+"t": "mc",
+"e": "D.vraag",
+"q": "Qv = −2P + 120 en Qa = 4P − 30. Er komt een extra aanbod bij, waardoor Qa = 4P. Wat is de nieuwe evenwichtsprijs?",
+"o": [
+"€ 20",
+"€ 25",
+"€ 30",
+"€ 15"
+],
+"a": 0,
+"u": "Oud: −2P + 120 = 4P − 30 geeft P = 25. Nieuw: −2P + 120 = 4P geeft P = 20."
+},
+{
+"id": "D.v4.2.m02",
+"t": "mc",
+"e": "D.vraag",
+"q": "Qv = −5P + 200 en Qa = 15P − 40. Wat is de evenwichtsprijs?",
+"o": [
+"€ 12",
+"€ 8",
+"€ 20",
+"€ 140"
+],
+"a": 0,
+"u": "−5P + 200 = 15P − 40, dus 240 = 20P en P = 12."
+},
+{
+"id": "D.v4.2.m03",
+"t": "mc",
+"e": "D.vraag",
+"q": "Door een slechte oogst daalt het aanbod van koffiebonen. Wat gebeurt er op de markt voor koffiebonen?",
+"o": [
+"De aanbodlijn verschuift naar links: de prijs stijgt en de hoeveelheid daalt",
+"De aanbodlijn verschuift naar rechts: de prijs daalt",
+"De vraaglijn verschuift naar links: de prijs daalt",
+"Er is een beweging langs de aanbodlijn: de prijs stijgt"
+],
+"a": 0,
+"u": "Minder aanbod bij elke prijs: aanbodlijn naar links, hogere evenwichtsprijs."
+},
+{
+"id": "D.v4.2.m04",
+"t": "mc",
+"e": "D.vraag",
+"q": "De marktprijs ligt boven de evenwichtsprijs. Wat gebeurt er?",
+"o": [
+"Er is een aanbodoverschot, waardoor de prijs gaat dalen",
+"Er is een vraagoverschot, waardoor de prijs gaat stijgen",
+"Er is evenwicht, want er wordt verhandeld",
+"De vraaglijn verschuift naar rechts"
+],
+"a": 0,
+"u": "Bij een te hoge prijs willen aanbieders meer verkopen dan kopers willen kopen."
+},
+{
+"id": "D.v4.2.k01",
+"t": "koppel",
+"e": "D.vraag",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Marktevenwicht",
+"Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid."
+],
+[
+"Prijsmechanisme",
+"Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn."
+],
+[
+"Evenwichtsprijs",
+"De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid."
+]
+],
+"u": "Marktevenwicht: Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid. Prijsmechanisme: Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn. Evenwichtsprijs: De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid."
+},
+{
+"id": "D.v4.2.b01",
+"t": "mc",
+"e": "D.vraag",
+"b": "Marktevenwicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.\"",
+"o": [
+"Marktevenwicht",
+"Externe effecten",
+"Perfecte markt",
+"Economisch surplus"
+],
+"a": 0,
+"u": "Marktevenwicht: Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid."
+},
+{
+"id": "D.v4.2.b02",
+"t": "mc",
+"e": "D.vraag",
+"b": "Prijsmechanisme",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn.\"",
+"o": [
+"Prijsmechanisme",
+"Externe effecten",
+"Niet-perfecte markt",
+"Pareto-optimum"
+],
+"a": 0,
+"u": "Prijsmechanisme: Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn."
+},
+{
+"id": "D.v4.2.b03",
+"t": "mc",
+"e": "D.vraag",
+"b": "Evenwichtsprijs",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.\"",
+"o": [
+"Evenwichtsprijs",
+"Uittreding",
+"Concrete markt",
+"Externe effecten"
+],
+"a": 0,
+"u": "Evenwichtsprijs: De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid."
+},
+{
+"id": "D.v4.2.b04",
+"t": "mc",
+"e": "D.vraag",
+"b": "Evenwichtshoeveelheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verhandelde hoeveelheid bij de evenwichtsprijs.\"",
+"o": [
+"Evenwichtshoeveelheid",
+"Marktvorm",
+"Aanbodoverschot",
+"Homogene producten"
+],
+"a": 0,
+"u": "Evenwichtshoeveelheid: De verhandelde hoeveelheid bij de evenwichtsprijs."
+},
+{
+"id": "D.v4.2.b05",
+"t": "mc",
+"e": "D.vraag",
+"b": "Aanbodoverschot",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.\"",
+"o": [
+"Aanbodoverschot",
+"Allocatie",
+"Abstracte markt",
+"Volledige mededinging"
+],
+"a": 0,
+"u": "Aanbodoverschot: Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd."
+}
+],
+"gens": [
+"evenwicht"
+],
+"doel": "Hoe komt door vraag en aanbod een prijs tot stand?",
+"uitleg": [
+{
+"t": "Vraag, aanbod en evenwicht",
+"x": "De vraag omvat alle hoeveelheden die bij verschillende prijzen worden gevraagd (vraagvergelijking, Qv). Het aanbod omvat alle hoeveelheden die bij verschillende prijzen worden aangeboden (aanbodvergelijking, Qa). Evenwicht: Qv = Qa.\nPrijsmechanisme: bij een aanbodoverschot daalt de prijs, bij een vraagoverschot stijgt de prijs, tot het evenwicht hersteld is.\nDe balansmethode: je zet vraag en aanbod bij verschillende prijzen naast elkaar en zoekt de prijs waarbij ze in balans zijn."
+}
+]
+},
+{
+"id": "D.v4.3",
+"hfd": "Hoofdstuk 4 · Volledige mededinging",
+"niv": "v",
+"naam": "§4.3 Marktevenwicht en bedrijfsevenwicht",
+"kort": "Wat betekent de marktprijs voor de winst van een individuele onderneming?",
+"vragen": [
+{
+"id": "D.v4.3.m01",
+"t": "mc",
+"e": "D.vorm",
+"q": "De marktprijs daalt. Welke producent stapt als eerste uit de markt?",
+"o": [
+"De marginale producent, met de hoogste kosten",
+"De producent met de laagste kosten",
+"De grootste producent",
+"Alle producenten tegelijk"
+],
+"a": 0,
+"u": "Bij een lagere prijs kan de aanbieder met de hoogste kosten zijn kosten niet meer dekken."
+},
+{
+"id": "D.v4.3.m02",
+"t": "mc",
+"e": "D.vorm",
+"q": "Op een markt met volledige mededinging maken de bedrijven flinke winst. Wat gebeurt er op lange termijn?",
+"o": [
+"Nieuwe aanbieders treden toe, het aanbod stijgt en de prijs daalt tot de winst verdwijnt",
+"De prijs stijgt verder omdat de vraag toeneemt",
+"De bedrijven houden hun winst, want niemand kan de prijs beïnvloeden",
+"De overheid verlaagt de prijs"
+],
+"a": 0,
+"u": "Vrije toetreding drukt de winst weg."
+},
+{
+"id": "D.v4.3.m03",
+"t": "mc",
+"e": "D.vorm",
+"q": "Wat geldt in het bedrijfstakevenwicht?",
+"o": [
+"De prijs is gelijk aan de minimale gemiddelde totale kosten",
+"De prijs is hoger dan de gemiddelde totale kosten",
+"De marginale opbrengst is nul",
+"De bedrijven maken maximale winst boven de kosten"
+],
+"a": 0,
+"u": "P = MK = GTK minimaal: de bedrijven draaien quitte."
+},
+{
+"id": "D.v4.3.m04",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een aanbieder bij volledige mededinging maakt verlies omdat de prijs onder zijn GTK ligt. Wat gebeurt er op lange termijn?",
+"o": [
+"Aanbieders treden uit, het aanbod daalt en de prijs stijgt",
+"Aanbieders treden toe en de prijs daalt verder",
+"De vraag stijgt automatisch",
+"De aanbieder verhoogt zelf zijn prijs"
+],
+"a": 0,
+"u": "Uittreding verschuift de aanbodlijn naar links, waardoor de prijs stijgt."
+},
+{
+"id": "D.v4.3.k01",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Marginale producent",
+"De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven."
+],
+[
+"Bedrijfsevenwicht",
+"Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen."
+],
+[
+"Bedrijfstakevenwicht",
+"Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken."
+]
+],
+"u": "Marginale producent: De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven. Bedrijfsevenwicht: Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen. Bedrijfstakevenwicht: Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken."
+},
+{
+"id": "D.v4.3.b01",
+"t": "mc",
+"e": "D.vorm",
+"b": "Marginale producent",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven.\"",
+"o": [
+"Marginale producent",
+"Perfecte markt",
+"Prijsmechanisme",
+"Economisch surplus"
+],
+"a": 0,
+"u": "Marginale producent: De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven."
+},
+{
+"id": "D.v4.3.b02",
+"t": "mc",
+"e": "D.vorm",
+"b": "Bedrijfsevenwicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen.\"",
+"o": [
+"Bedrijfsevenwicht",
+"Perfecte markt",
+"Pareto-optimum",
+"Evenwichtsprijs"
+],
+"a": 0,
+"u": "Bedrijfsevenwicht: Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen."
+},
+{
+"id": "D.v4.3.b03",
+"t": "mc",
+"e": "D.vorm",
+"b": "Bedrijfstakevenwicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.\"",
+"o": [
+"Bedrijfstakevenwicht",
+"Optimale allocatie",
+"Bedrijfsevenwicht",
+"Uittreding"
+],
+"a": 0,
+"u": "Bedrijfstakevenwicht: Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken."
+},
+{
+"id": "D.v4.3.b04",
+"t": "mc",
+"e": "D.vorm",
+"b": "Toetreding",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.\"",
+"o": [
+"Toetreding",
+"Transparante markt",
+"Marktvorm",
+"Uittreding"
+],
+"a": 0,
+"u": "Toetreding: Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is."
+},
+{
+"id": "D.v4.3.b05",
+"t": "mc",
+"e": "D.vorm",
+"b": "Uittreding",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.\"",
+"o": [
+"Uittreding",
+"Optimale allocatie",
+"Perfecte markt",
+"Marktevenwicht"
+],
+"a": 0,
+"u": "Uittreding: Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken."
+}
+],
+"gens": [],
+"doel": "Wat betekent de marktprijs voor de winst van een individuele onderneming?",
+"uitleg": [
+{
+"t": "Korte en lange termijn",
+"x": "Korte termijn: de aanbieder streeft naar maximale winst. Lopen de variabele kosten proportioneel, dan biedt hij zoveel aan als zijn productiecapaciteit toelaat.\nLange termijn: winst lokt uitbreiding en nieuwe aanbieders (toetreders). Het marktaanbod stijgt, de aanbodlijn schuift naar rechts en de prijs daalt.\nDe marginale producent is de producent met de hoogste kosten die nog nét kan overleven. Nieuwkomers hebben vaak hogere constante kosten dan de gevestigde bedrijven."
+}
+]
+},
+{
+"id": "D.v4.4",
+"hfd": "Hoofdstuk 4 · Volledige mededinging",
+"niv": "v",
+"naam": "§4.4 Het economisch surplus en volledige mededinging",
+"kort": "Hoe beïnvloeden de prijzen de verdeling van het economisch surplus?",
+"vragen": [
+{
+"id": "D.v4.4.m01",
+"t": "mc",
+"e": "D.falen",
+"q": "Wat betekent het dat een markt in een Pareto-optimum is?",
+"o": [
+"Niemand kan zijn positie verbeteren zonder dat een ander erop achteruitgaat",
+"Iedereen heeft evenveel surplus",
+"Alle producenten maken winst",
+"De overheid heeft de prijs vastgesteld"
+],
+"a": 0,
+"u": "Het gaat om efficiëntie, niet om een gelijke verdeling."
+},
+{
+"id": "D.v4.4.m02",
+"t": "mc",
+"e": "D.falen",
+"q": "Bij volledige mededinging is de marktprijs gelijk aan:",
+"o": [
+"De marginale kosten van de marginale aanbieder",
+"De gemiddelde kosten van de goedkoopste aanbieder",
+"De maximale betalingsbereidheid",
+"Nul"
+],
+"a": 0,
+"u": "Kenmerk 5 van optimale allocatie."
+},
+{
+"id": "D.v4.4.m03",
+"t": "mc",
+"e": "D.falen",
+"q": "Waarom zorgt volledige mededinging voor optimale allocatie?",
+"o": [
+"Het totale surplus is maximaal en de productie is afgestemd op de vraag tegen de laagst mogelijke prijs",
+"De overheid bepaalt hoeveel er wordt geproduceerd",
+"De producenten maken de hoogste winst",
+"Iedereen krijgt evenveel van het surplus"
+],
+"a": 0,
+"u": "Optimaal gaat over de omvang van het totale surplus, niet over de verdeling."
+},
+{
+"id": "D.v4.4.m04",
+"t": "mc",
+"e": "D.falen",
+"q": "Een fabriek loost afvalwater in een rivier. Vissers verdienen daardoor minder. Wat is dit?",
+"o": [
+"Een negatief extern effect",
+"Een positief extern effect",
+"Een collectief goed",
+"Een vorm van prijsdiscriminatie"
+],
+"a": 0,
+"u": "De schade komt bij anderen terecht en zit niet in de prijs van de producten van de fabriek."
+},
+{
+"id": "D.v4.4.m05",
+"t": "mc",
+"e": "D.falen",
+"q": "Welke uitspraak over volledige mededinging is juist?",
+"o": [
+"Het totale surplus is maximaal, maar de verdeling ervan kan maatschappelijk ongewenst zijn",
+"De verdeling van de welvaart is altijd eerlijk",
+"Externe effecten worden automatisch in de prijs verwerkt",
+"De markt levert vanzelf dijken en politie"
+],
+"a": 0,
+"u": "Volledige mededinging zegt niets over een eerlijke verdeling."
+},
+{
+"id": "D.v4.4.k01",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Pareto-optimum",
+"Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat."
+],
+[
+"Economisch surplus",
+"De som van het consumentensurplus en het producentensurplus."
+],
+[
+"Allocatie",
+"De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden."
+]
+],
+"u": "Pareto-optimum: Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat. Economisch surplus: De som van het consumentensurplus en het producentensurplus. Allocatie: De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden."
+},
+{
+"id": "D.v4.4.k02",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Optimale allocatie",
+"Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is."
+],
+[
+"Totaal surplus",
+"De som van het consumentensurplus en het producentensurplus."
+],
+[
+"Externe effecten",
+"Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend."
+]
+],
+"u": "Optimale allocatie: Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is. Totaal surplus: De som van het consumentensurplus en het producentensurplus. Externe effecten: Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend."
+},
+{
+"id": "D.v4.4.b01",
+"t": "mc",
+"e": "D.falen",
+"b": "Pareto-optimum",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.\"",
+"o": [
+"Pareto-optimum",
+"Perfecte markt",
+"Externe effecten",
+"Volkomen markt"
+],
+"a": 0,
+"u": "Pareto-optimum: Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat."
+},
+{
+"id": "D.v4.4.b02",
+"t": "mc",
+"e": "D.falen",
+"b": "Economisch surplus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De som van het consumentensurplus en het producentensurplus.\"",
+"o": [
+"Economisch surplus",
+"Evenwichtshoeveelheid",
+"Evenwichtsprijs",
+"Marginale producent"
+],
+"a": 0,
+"u": "Economisch surplus: De som van het consumentensurplus en het producentensurplus."
+},
+{
+"id": "D.v4.4.b03",
+"t": "mc",
+"e": "D.falen",
+"b": "Allocatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden.\"",
+"o": [
+"Allocatie",
+"Evenwichtshoeveelheid",
+"Volkomen markt",
+"Volledige mededinging"
+],
+"a": 0,
+"u": "Allocatie: De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden."
+},
+{
+"id": "D.v4.4.b04",
+"t": "mc",
+"e": "D.falen",
+"b": "Optimale allocatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.\"",
+"o": [
+"Optimale allocatie",
+"Transparante markt",
+"Bedrijfstakevenwicht",
+"Marktevenwicht"
+],
+"a": 0,
+"u": "Optimale allocatie: Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is."
+},
+{
+"id": "D.v4.4.b05",
+"t": "mc",
+"e": "D.falen",
+"b": "Totaal surplus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De som van het consumentensurplus en het producentensurplus.\"",
+"o": [
+"Totaal surplus",
+"Marginale producent",
+"Abstracte markt",
+"Bedrijfstakevenwicht"
+],
+"a": 0,
+"u": "Totaal surplus: De som van het consumentensurplus en het producentensurplus."
+},
+{
+"id": "D.v4.4.b06",
+"t": "mc",
+"e": "D.falen",
+"b": "Externe effecten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.\"",
+"o": [
+"Externe effecten",
+"Aanbodoverschot",
+"Allocatie",
+"Transparante markt"
+],
+"a": 0,
+"u": "Externe effecten: Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend."
+},
+{
+"t": "open",
+"titel": "Kippenslachterij in Veldwijk",
+"q": "In Veldwijk opent Kipperij Dalhoef een nieuwe slachterij. Het bedrijf koopt levende kippen, verpakkingen en energie in bij andere bedrijven en verkoopt kippenvlees aan supermarkten. Het CBS berekent het bbp van de regio.\nHet afvalwater van de slachterij stroomt via een beek een natuurgebied in en de slachterij geeft sterke geurhinder. Omwonenden en de beheerder van het natuurgebied hebben daardoor schade. Dalhoef betaalt hier niet voor.\nGebruik de tabel.\nTabel Kipperij Dalhoef (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet | 48\nInkoop van kippen, verpakking en energie | 36\nGeschatte schade aan natuur en woningwaarde, niet betaald door Dalhoef | 14\nVerklaar met behulp van de tabel dat het bbp van Veldwijk stijgt terwijl de welvaart in Veldwijk daalt.",
+"model": "Dalhoef maakt een toegevoegde waarde van 48 - 36 = € 12 miljoen, dus het bbp stijgt. De schade van € 14 miljoen voor natuur en woningen ligt bij anderen en zit niet in de prijs van het vlees: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 12 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van Dalhoef: omzet min inkoop is 48 - 36 = € 12 miljoen. (1)\n• De schade aan natuur en woningwaarde en de geurhinder komen terecht bij anderen en worden niet door Dalhoef betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 14 miljoen) is groter dan de toegevoegde waarde (€ 12 miljoen), dus de welvaart daalt, terwijl het bbp stijgt. (1)",
+"pnt": 3,
+"id": "D.v4.4.IT00339",
+"e": "D.falen"
+},
+{
+"t": "open",
+"titel": "Evenementenhal in Beukenrode",
+"q": "In Beukenrode opent Arena Beukenrode, een evenementenhal voor concerten. De hal koopt techniek, catering en beveiliging in bij andere bedrijven. Het CBS berekent het bbp van de gemeente.\nBij elk concert hebben omwonenden last van geluid en parkeeroverlast. De exploitant betaalt hun niets en de kaartprijs is er niet hoger door.\nTabel Arena Beukenrode (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit kaartverkoop en consumpties | 30\nInkoop van techniek, catering en beveiliging | 18\nLeg uit dat het bbp van Beukenrode stijgt door de komst van de hal, terwijl de overlast voor omwonenden niet in het bbp terechtkomt.\nGebruik de tabel.",
+"model": "De hal maakt een toegevoegde waarde van 30 - 18 = € 12 miljoen, dus het bbp stijgt. De overlast raakt omwonenden, die geen koper of verkoper zijn, en zit niet in de kaartprijs. Het is een negatief extern effect. Het wordt niet betaald en daarom niet in het bbp geteld.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de hal: omzet min inkoop is 30 - 18 = € 12 miljoen. (1)\n• De overlast raakt omwonenden (anderen dan de hal en het publiek) en zit niet in de kaartprijs: een negatief extern effect. Daarom telt de overlast niet mee in het bbp. (1)",
+"pnt": 2,
+"id": "D.v4.4.IT00505",
+"e": "D.falen"
+},
+{
+"t": "open",
+"titel": "Biomassacentrale in Roodveen",
+"q": "In Roodveen opent Energie Roodveen een biomassacentrale die stroom en warmte levert aan bedrijven en huishoudens. De centrale koopt houtpellets, onderhoud en transport in bij andere bedrijven. Het CBS berekent het bbp van de regio.\nDe schoorsteen geeft fijnstof en de vrachtwagens veroorzaken lawaai. Omwonenden worden hierdoor vaker ziek en de woningen in de buurt verliezen waarde. De centrale betaalt hier niet voor.\nTabel Energie Roodveen (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit stroom en warmte | 60\nInkoop van houtpellets, onderhoud en transport | 45\nGeschatte schade door fijnstof en lawaai, niet betaald door de centrale | 18\nVerklaar met behulp van de tabel dat het bbp van Roodveen stijgt terwijl de welvaart in Roodveen daalt.\nGebruik de tabel.",
+"model": "De centrale maakt een toegevoegde waarde van 60 - 45 = € 15 miljoen, dus het bbp stijgt. De schade van € 18 miljoen ligt bij omwonenden en zit niet in de prijs van stroom: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 15 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de centrale: omzet min inkoop is 60 - 45 = € 15 miljoen. (1)\n• De schade door fijnstof en lawaai komt terecht bij omwonenden en wordt niet door de centrale betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 18 miljoen) is groter dan de toegevoegde waarde (€ 15 miljoen), dus de welvaart daalt (met € 3 miljoen), terwijl het bbp stijgt. (1)",
+"pnt": 3,
+"id": "D.v4.4.IT00506",
+"e": "D.falen"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 26",
+"q": "(Examen vwo 2022-II, vraag 26)\nVerklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
+"pnt": 2,
+"id": "D.v4.4.v2022II26",
+"e": "D.falen"
+}
+],
+"gens": [],
+"doel": "Hoe beïnvloeden de prijzen de verdeling van het economisch surplus?",
+"uitleg": [
+{
+"t": "Pareto-optimum",
+"x": "Economisch surplus = consumentensurplus + producentensurplus. In een Pareto-optimum is dat maximaal: niemand kan erop vooruitgaan zonder dat een ander erop achteruitgaat.\nKenmerken van optimale allocatie: (1) het totale surplus is maximaal, (2) de productie is zo groot mogelijk, (3) de prijzen zijn zo laag mogelijk, (4) productiefactoren worden ingezet volgens de vraag naar eindproducten, (5) de marktprijs is gelijk aan de marginale kosten van de marginale aanbieder."
+},
+{
+"t": "Marktmacht en tekortkomingen",
+"x": "Heeft een partij marktmacht, dan kan ze de prijs boven de marginale kosten zetten en consumentensurplus afromen. Er gaat economisch surplus verloren.\nTekortkomingen van volledige mededinging: de verdeling van het surplus kan ongewenst zijn, collectieve goederen worden niet geleverd, de marktvorm komt weinig voor, en overheidsingrijpen (verboden, belastingen, subsidies) maakt de uitkomst niet meer Pareto-optimaal."
+}
+]
+},
+{
+"id": "D.v5.1",
+"hfd": "Hoofdstuk 5 · Economische macht",
+"niv": "v",
+"naam": "§5.1 Economische macht en marktvormen",
+"kort": "Welke typen economische machtsvorming kun je onderscheiden?",
+"vragen": [
+{
+"id": "D.v5.1.m01",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een markt heeft weinig aanbieders van heterogene producten en toetreding is moeilijk. Welke marktvorm is dit?",
+"o": [
+"Heterogeen oligopolie",
+"Monopolistische concurrentie",
+"Volledige mededinging",
+"Homogeen oligopolie"
+],
+"a": 0,
+"u": "Weinig aanbieders + heterogene producten."
+},
+{
+"id": "D.v5.1.m02",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een farmaceutisch bedrijf heeft een octrooi op een nieuw medicijn. Wat is daarvan het gevolg voor de markt?",
+"o": [
+"Het bedrijf heeft tijdelijk een monopolie en kan een hoge prijs vragen",
+"Andere bedrijven mogen het medicijn ook maken als ze goedkoper zijn",
+"De overheid bepaalt de prijs van het medicijn",
+"Er ontstaat volledige mededinging"
+],
+"a": 0,
+"u": "Het octrooi houdt concurrenten buiten de markt."
+},
+{
+"id": "D.v5.1.m03",
+"t": "mc",
+"e": "D.vorm",
+"q": "Drie bouwbedrijven spreken af wie welke aanbesteding wint en tegen welke prijs. Hoe heet dit?",
+"o": [
+"Een kartel",
+"Een joint venture",
+"Franchising",
+"Een fusie"
+],
+"a": 0,
+"u": "Zelfstandige bedrijven die afspraken maken om concurrentie te beperken vormen een kartel. Dat is verboden."
+},
+{
+"id": "D.v5.1.m04",
+"t": "mc",
+"e": "D.vorm",
+"q": "Waarom is een fusie tussen de twee grootste aanbieders vaak nadelig voor consumenten?",
+"o": [
+"De concurrentie neemt af, waardoor de prijs kan stijgen",
+"De kwaliteit gaat altijd omlaag",
+"De overheid moet dan meer subsidie geven",
+"Er komen meer aanbieders op de markt"
+],
+"a": 0,
+"u": "Minder concurrentie betekent meer marktmacht voor de aanbieder."
+},
+{
+"id": "D.v5.1.k01",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Heterogene producten",
+"Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen."
+],
+[
+"Marketingmix",
+"De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming."
+],
+[
+"Octrooi",
+"Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen."
+]
+],
+"u": "Heterogene producten: Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen. Marketingmix: De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming. Octrooi: Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen."
+},
+{
+"id": "D.v5.1.k02",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Kartel",
+"Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken."
+],
+[
+"Fusie",
+"Twee of meer ondernemingen die samen verdergaan als één onderneming."
+],
+[
+"Franchising",
+"Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt."
+]
+],
+"u": "Kartel: Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken. Fusie: Twee of meer ondernemingen die samen verdergaan als één onderneming. Franchising: Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt."
+},
+{
+"id": "D.v5.1.b01",
+"t": "mc",
+"e": "D.vorm",
+"b": "Heterogene producten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen.\"",
+"o": [
+"Heterogene producten",
+"Marketingmix",
+"Oligopolie",
+"Harberger-driehoek"
+],
+"a": 0,
+"u": "Heterogene producten: Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen."
+},
+{
+"id": "D.v5.1.b02",
+"t": "mc",
+"e": "D.vorm",
+"b": "Marketingmix",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.\"",
+"o": [
+"Marketingmix",
+"Duopolie",
+"Franchising",
+"Octrooi"
+],
+"a": 0,
+"u": "Marketingmix: De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming."
+},
+{
+"id": "D.v5.1.b03",
+"t": "mc",
+"e": "D.vorm",
+"b": "Octrooi",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.\"",
+"o": [
+"Octrooi",
+"Prijsleider",
+"Marketingmix",
+"Joint venture"
+],
+"a": 0,
+"u": "Octrooi: Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen."
+},
+{
+"id": "D.v5.1.b04",
+"t": "mc",
+"e": "D.vorm",
+"b": "Kartel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.\"",
+"o": [
+"Kartel",
+"Monopolie",
+"Duopolie",
+"Prijsdifferentiatie"
+],
+"a": 0,
+"u": "Kartel: Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken."
+},
+{
+"id": "D.v5.1.b05",
+"t": "mc",
+"e": "D.vorm",
+"b": "Fusie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Twee of meer ondernemingen die samen verdergaan als één onderneming.\"",
+"o": [
+"Fusie",
+"Heterogene producten",
+"Wettelijk monopolie",
+"Marketingmix"
+],
+"a": 0,
+"u": "Fusie: Twee of meer ondernemingen die samen verdergaan als één onderneming."
+},
+{
+"id": "D.v5.1.b06",
+"t": "mc",
+"e": "D.vorm",
+"b": "Franchising",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.\"",
+"o": [
+"Franchising",
+"Prijsdifferentiatie",
+"Collectief monopolie",
+"Marketingmix"
+],
+"a": 0,
+"u": "Franchising: Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt."
+},
+{
+"id": "D.v5.1.b07",
+"t": "mc",
+"e": "D.vorm",
+"b": "Joint venture",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.\"",
+"o": [
+"Joint venture",
+"Natuurlijk monopolie",
+"Monopolistische concurrentie",
+"Prijsstarheid"
+],
+"a": 0,
+"u": "Joint venture: Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project."
+},
+{
+"id": "D.v5.1.b08",
+"t": "mc",
+"e": "D.vorm",
+"b": "Productdifferentiatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.\"",
+"o": [
+"Productdifferentiatie",
+"Monopolie",
+"Joint venture",
+"Duopolie"
+],
+"a": 0,
+"u": "Productdifferentiatie: Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is."
+}
+],
+"gens": [],
+"doel": "Welke typen economische machtsvorming kun je onderscheiden?",
+"uitleg": [
+{
+"t": "Drie kernelementen",
+"x": "1. Mate van volkomenheid: homogene producten (voorzien op volkomen gelijke wijze in een behoefte) of heterogene producten (zelfde behoefte, maar in de ogen van de consument verschillend).\n2. Mate van concurrentie: één aanbieder (monopolie), weinig (oligopolie), veel (volledige mededinging en monopolistische concurrentie).\n3. Mate van vrijheid: kunnen aanbieders vrij toetreden?\nMet productdifferentiatie en de marketingmix (product, prijs, plaats, promotie) maken aanbieders hun product heterogeen en krijgen ze prijsruimte."
+}
+]
+},
+{
+"id": "D.v5.2",
+"hfd": "Hoofdstuk 5 · Economische macht",
+"niv": "v",
+"naam": "§5.2 Monopolie",
+"kort": "Hoe stelt een monopolist de verkoopprijs zo vast dat hij maximale winst behaalt?",
+"vragen": [
+{
+"id": "D.v5.2.m01",
+"t": "mc",
+"e": "D.vorm",
+"q": "Waarom is het spoornet een natuurlijk monopolie?",
+"o": [
+"De vaste kosten zijn zo hoog dat één netwerk de markt goedkoper bedient dan meerdere concurrerende netwerken",
+"Omdat de wet concurrentie verbiedt",
+"Omdat er een octrooi op rails rust",
+"Omdat treinreizen een inferieur goed is"
+],
+"a": 0,
+"u": "Dubbele netwerken zouden de gemiddelde kosten sterk verhogen."
+},
+{
+"id": "D.v5.2.m02",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een monopolist heeft TO = −2Q² + 200Q en MK = 40. Bij welke afzet is de winst maximaal?",
+"o": [
+"40",
+"50",
+"80",
+"100"
+],
+"a": 0,
+"u": "MO = −4Q + 200. MO = MK: −4Q + 200 = 40, dus Q = 40."
+},
+{
+"id": "D.v5.2.m03",
+"t": "mc",
+"e": "D.vorm",
+"q": "Waarom ligt de MO-lijn van een monopolist onder de prijsafzetlijn?",
+"o": [
+"Om één extra product te verkopen moet de prijs omlaag voor alle eenheden, niet alleen voor de laatste",
+"Omdat de monopolist kosten moet maken",
+"Omdat de overheid een maximumprijs instelt",
+"Omdat de vraag prijsinelastisch is"
+],
+"a": 0,
+"u": "Het verlies op de eerdere eenheden wordt van de prijs van de extra eenheid afgetrokken."
+},
+{
+"id": "D.v5.2.m04",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een monopolist heeft P = −0,5Q + 60. Wat is de marginale opbrengst?",
+"o": [
+"MO = −Q + 60",
+"MO = −0,5Q + 60",
+"MO = −0,25Q + 60",
+"MO = −Q + 30"
+],
+"a": 0,
+"u": "TO = −0,5Q² + 60Q, dus MO = −Q + 60. De MO-lijn is twee keer zo steil als de prijsafzetlijn."
+},
+{
+"id": "D.v5.2.m05",
+"t": "mc",
+"e": "D.vorm",
+"q": "Bij welke voorwaarde maakt een monopolist maximale omzet?",
+"o": [
+"MO = 0",
+"MO = MK",
+"GO = GTK",
+"P = MK"
+],
+"a": 0,
+"u": "De omzet stijgt zolang MO positief is en daalt daarna."
+},
+{
+"id": "D.v5.2.m06",
+"t": "mc",
+"e": "D.vorm",
+"q": "Een pretpark geeft kinderen korting op de toegangsprijs. Waarom kan dit hier werken als prijsdiscriminatie?",
+"o": [
+"Kinderen en volwassenen zijn te onderscheiden en een kaartje kan bij de ingang niet worden doorverkocht aan een volwassene",
+"Kinderen gebruiken minder attracties",
+"De kosten van kinderen zijn lager",
+"De overheid verplicht kinderkorting"
+],
+"a": 0,
+"u": "Beide voorwaarden: gescheiden deelmarkten en geen doorverkoop. Kinderen zijn bovendien prijsgevoeliger."
+},
+{
+"id": "D.v5.2.m07",
+"t": "mc",
+"e": "D.vorm",
+"q": "Waarom is er bij een monopolie een welvaartsverlies?",
+"o": [
+"De monopolist produceert minder en vraagt een hogere prijs dan bij volledige mededinging, waardoor het totale surplus daalt",
+"Omdat de monopolist verlies maakt",
+"Omdat het consumentensurplus naar de overheid gaat",
+"Omdat de kosten van een monopolist altijd hoger zijn"
+],
+"a": 0,
+"u": "P > MK: er worden producten niet gemaakt waarvoor kopers meer willen betalen dan de extra kosten."
+},
+{
+"id": "D.v5.2.k01",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Natuurlijk monopolie",
+"Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen."
+],
+[
+"Wettelijk monopolie",
+"Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi."
+],
+[
+"Collectief monopolie",
+"Aanbieders die samen optreden als één aanbieder, zoals de OPEC."
+]
+],
+"u": "Natuurlijk monopolie: Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen. Wettelijk monopolie: Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi. Collectief monopolie: Aanbieders die samen optreden als één aanbieder, zoals de OPEC."
+},
+{
+"id": "D.v5.2.k02",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Prijsdifferentiatie",
+"Verschillende prijzen vragen omdat de kosten van het product verschillen."
+],
+[
+"Harberger-driehoek",
+"Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek."
+],
+[
+"Monopolie",
+"Marktvorm met één aanbieder tegenover veel vragers."
+]
+],
+"u": "Prijsdifferentiatie: Verschillende prijzen vragen omdat de kosten van het product verschillen. Harberger-driehoek: Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek. Monopolie: Marktvorm met één aanbieder tegenover veel vragers."
+},
+{
+"id": "D.v5.2.b01",
+"t": "mc",
+"e": "D.vorm",
+"b": "Natuurlijk monopolie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen.\"",
+"o": [
+"Natuurlijk monopolie",
+"Marketingmix",
+"Heterogene producten",
+"Octrooi"
+],
+"a": 0,
+"u": "Natuurlijk monopolie: Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen."
+},
+{
+"id": "D.v5.2.b02",
+"t": "mc",
+"e": "D.vorm",
+"b": "Wettelijk monopolie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi.\"",
+"o": [
+"Wettelijk monopolie",
+"Harberger-driehoek",
+"Collectief monopolie",
+"Monopolistische concurrentie"
+],
+"a": 0,
+"u": "Wettelijk monopolie: Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi."
+},
+{
+"id": "D.v5.2.b03",
+"t": "mc",
+"e": "D.vorm",
+"b": "Collectief monopolie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Aanbieders die samen optreden als één aanbieder, zoals de OPEC.\"",
+"o": [
+"Collectief monopolie",
+"Octrooi",
+"Fusie",
+"Prijsdiscriminatie"
+],
+"a": 0,
+"u": "Collectief monopolie: Aanbieders die samen optreden als één aanbieder, zoals de OPEC."
+},
+{
+"id": "D.v5.2.b04",
+"t": "mc",
+"e": "D.vorm",
+"b": "Prijsdifferentiatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verschillende prijzen vragen omdat de kosten van het product verschillen.\"",
+"o": [
+"Prijsdifferentiatie",
+"Kartel",
+"Prijsleider",
+"Heterogene producten"
+],
+"a": 0,
+"u": "Prijsdifferentiatie: Verschillende prijzen vragen omdat de kosten van het product verschillen."
+},
+{
+"id": "D.v5.2.b05",
+"t": "mc",
+"e": "D.vorm",
+"b": "Harberger-driehoek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek.\"",
+"o": [
+"Harberger-driehoek",
+"Kartel",
+"Prijsleider",
+"Collectief monopolie"
+],
+"a": 0,
+"u": "Harberger-driehoek: Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek."
+},
+{
+"id": "D.v5.2.b06",
+"t": "mc",
+"e": "D.vorm",
+"b": "Monopolie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met één aanbieder tegenover veel vragers.\"",
+"o": [
+"Monopolie",
+"Franchising",
+"Kartel",
+"Wettelijk monopolie"
+],
+"a": 0,
+"u": "Monopolie: Marktvorm met één aanbieder tegenover veel vragers."
+},
+{
+"id": "D.v5.2.b07",
+"t": "mc",
+"e": "D.vorm",
+"b": "Prijsdiscriminatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.\"",
+"o": [
+"Prijsdiscriminatie",
+"Geknikte afzetcurve",
+"Natuurlijk monopolie",
+"Productdifferentiatie"
+],
+"a": 0,
+"u": "Prijsdiscriminatie: Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers."
+},
+{
+"id": "D.v5.2.b08",
+"t": "mc",
+"e": "D.vorm",
+"b": "Welvaartsverlies",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.\"",
+"o": [
+"Welvaartsverlies",
+"Duopolie",
+"Natuurlijk monopolie",
+"Collectief monopolie"
+],
+"a": 0,
+"u": "Welvaartsverlies: Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging."
+},
+{
+"t": "open",
+"titel": "Veerdienst Zeelicht",
+"q": "Rederij Zeelicht is de enige aanbieder van overtochten naar het Rimmeleiland. Er is geen brug en geen concurrent, dus Zeelicht bepaalt zelf de prijs van een enkele overtocht.\nDe vraag naar overtochten per dag is Qv = −4P + 480, met P in euro per overtocht. De totale kosten per dag zijn TK = 0,25Q² + 20Q + 1.000 (in euro). Zeelicht streeft naar maximale winst.\nBereken bij welke hoeveelheid overtochten per dag de winst van Zeelicht maximaal is.\nDoe het als volgt:\n− Schat eerst of de winstmaximale hoeveelheid kleiner of groter is dan 240 overtochten (de helft van 480). Schrijf je schatting op.\n− Schrijf de vraagfunctie om naar P = ... en stel TO, MO en MK op.\n− Los MO = MK op en vergelijk je uitkomst met je schatting.",
+"model": "Schatting: bij Q = 240 is MO gelijk aan 0. MK is positief, dus de winstmaximale Q is kleiner dan 240. Qv = −4P + 480 geeft 4P = 480 − Q, dus P = −0,25Q + 120. TO = P × Q = −0,25Q² + 120Q, dus MO = TO' = −0,5Q + 120. MK = TK' = 0,5Q + 20. Winstmaximum: MO = MK, dus −0,5Q + 120 = 0,5Q + 20. Dan 100 = Q. Zeelicht vervoert dus 100 overtochten per dag. Controle: P = −0,25 × 100 + 120 = € 95 en 100 is kleiner dan 240, dat past bij mijn schatting.\nPuntenverdeling:\n• Omschrijven naar P = −0,25Q + 120, TO = −0,25Q² + 120Q, dus MO = TO' = −0,5Q + 120 (1)\n• MK = TK' = 0,5Q + 20 (1)\n• MO = MK geeft −0,5Q + 120 = 0,5Q + 20, dus Q = 100 overtochten per dag (1)",
+"pnt": 3,
+"id": "D.v5.2.IT00097",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Zoutmijn Rosendal",
+"q": "Zoutmijn Rosendal is de enige producent van het zeldzame Rosenzout in het land. De mijn kiest de afzet waarbij de winst maximaal is.\nIn de tabel staan gegevens over één jaar. Let op de eenheden.\nTabel Gegevens Zoutmijn Rosendal (per jaar):\nGegeven | Waarde | Eenheid\nVraagfunctie | Qv = −2,5P + 400 | Qv in 1.000 ton; P in euro per ton\nTotale kosten | TK = 0,1Q² + 40Q + 3.000 | Q in 1.000 ton; TK in 1.000 euro\nAfzet vorig jaar | 90 | 1.000 ton\nVerkoopprijs vorig jaar | 124 | euro per ton\nAantal medewerkers | 85 | personen\nBereken de maximale totale winst per jaar van Rosendal. Geef je antwoord in duizenden euro's.\nDoe het als volgt:\n− Noteer welke gegevens uit de tabel je nodig hebt en welke niet.\n− Bepaal MO en MK. Controle: daalt MO twee keer zo snel als de prijsafzetfunctie?\n− Los MO = MK op. Controle: vul Q in beide functies in; de uitkomsten moeten gelijk zijn.\n− Bereken P uit de prijsafzetfunctie en daarna TW. Zet de eenheid bij je antwoord.",
+"model": "Nodig heb ik de vraagfunctie en de TK; afzet en prijs van vorig jaar en het aantal medewerkers heb ik niet nodig. Qv = −2,5P + 400 geeft P = −0,4Q + 160. TO = −0,4Q² + 160Q, dus MO = −0,8Q + 160. TK = 0,1Q² + 40Q + 3.000, dus MK = 0,2Q + 40. MO = MK: −0,8Q + 160 = 0,2Q + 40, dus 120 = Q. Q = 120 (× 1.000 ton). P = −0,4 × 120 + 160 = € 112 per ton. TO = 112 × 120 = 13.440. TK = 0,1 × 120² + 40 × 120 + 3.000 = 9.240. TW = 13.440 − 9.240 = 4.200 (× € 1.000), dus € 4.200.000 per jaar.\nPuntenverdeling:\n• Omschrijven naar P = −0,4Q + 160, TO = −0,4Q² + 160Q, dus MO = −0,8Q + 160 (1)\n• MK = TK' = 0,2Q + 40 (1)\n• MO = MK geeft −0,8Q + 160 = 0,2Q + 40, dus Q = 120 (× 1.000 ton), en P = −0,4 × 120 + 160 = € 112 per ton (1)\n• TW = TO − TK = 112 × 120 − (0,1 × 120² + 40 × 120 + 3.000) = 13.440 − 9.240 = 4.200 (× € 1.000), dus € 4.200.000 per jaar (1)",
+"pnt": 4,
+"id": "D.v5.2.IT00099",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Zeilkaart",
+"q": "Zeilkaart is de enige app met de officiële getijdenkaarten van de kust. Zeilers die deze kaarten willen gebruiken, nemen een abonnement bij Zeilkaart. Het bedrijf kiest de prijs waarbij de winst maximaal is.\nIn de tabel staan gegevens over één jaar. Let op de eenheden.\nTabel Gegevens Zeilkaart (per jaar):\nGegeven | Waarde | Eenheid\nVraagfunctie | Qv = −8P + 640 | Qv in 1.000 abonnementen; P in euro per abonnement\nVariabele kosten | 30 | euro per abonnement\nConstante kosten | 2.500 | 1.000 euro\nPrijs vorig jaar | 60 | euro per abonnement\nAantal ontwikkelaars | 14 | personen\nBereken de maximale totale winst per jaar van Zeilkaart. Geef je antwoord in duizenden euro's.\nDoe het als volgt:\n− Kies uit de tabel de gegevens die je nodig hebt en schrijf ze op als functies met dezelfde eenheden.\n− Bepaal MO en MK. Controle: kloppen de eenheden van beide functies?\n− Los MO = MK op. Controle: vul Q in beide functies in; de uitkomsten moeten gelijk zijn.\n− Bereken P uit de prijsafzetfunctie en daarna TW. Zet de eenheid bij je antwoord.",
+"model": "Nodig: de vraagfunctie, de variabele kosten en de constante kosten. De prijs van vorig jaar en het aantal ontwikkelaars heb ik niet nodig. Qv = −8P + 640 geeft P = −0,125Q + 80. TO = −0,125Q² + 80Q, dus MO = −0,25Q + 80. TK = 30Q + 2.500, dus MK = 30. MO = MK: −0,25Q + 80 = 30, dus Q = 200 (× 1.000 abonnementen). P = −0,125 × 200 + 80 = € 55. TO = 55 × 200 = 11.000. TK = 30 × 200 + 2.500 = 8.500. TW = 11.000 − 8.500 = 2.500 (× € 1.000), dus € 2.500.000 per jaar.\nPuntenverdeling:\n• Omschrijven naar P = −0,125Q + 80, TO = −0,125Q² + 80Q, dus MO = −0,25Q + 80 (1)\n• TK = 30Q + 2.500, dus MK = TK' = 30 (1)\n• MO = MK geeft −0,25Q + 80 = 30, dus Q = 200 (× 1.000 abonnementen), en P = −0,125 × 200 + 80 = € 55 (1)\n• TW = TO − TK = 55 × 200 − (30 × 200 + 2.500) = 11.000 − 8.500 = 2.500 (× € 1.000), dus € 2.500.000 per jaar (1)",
+"pnt": 4,
+"id": "D.v5.2.IT00100",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-II, vraag 3",
+"q": "(Examen vwo 2019-II, vraag 3)\nMores heeft een prijs-afzetfunctie en een kostenfunctie. De accijns stijgt met € 2 per pakje (scenario 2). Toon met een berekening aan dat de winst maximaal is bij 10 miljoen pakjes.",
+"model": "MO = −0,08q + 16 (1); MK = 0,02q + 4 + 2 (1); MO = MK geeft q = 100, dus 100 × 100.000 = 10 miljoen pakjes (1). De aanvulling kent de derde deelscore altijd toe en accepteert ook MK met factor 100.000 als alternatief.",
+"pnt": 3,
+"id": "D.v5.2.v2019II3",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-II, vraag 4",
+"q": "(Examen vwo 2019-II, vraag 4)\nBereken de maximale totale winst van Mores in scenario 2.",
+"model": "P = −0,04 × 100 + 16 = € 12; TO = 12 × 100 × 100.000 = € 120 miljoen (1). TK = (0,01 × 100² + 6 × 100 + 100) × 100.000 = € 80 miljoen, dus TW = € 40 miljoen (1). Doorwerkfouten uit vraag 3 worden niet gestraft.",
+"pnt": 2,
+"id": "D.v5.2.v2019II4",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 15",
+"q": "(Examen vwo 2021-I, vraag 15)\nEen verfbedrijf heeft een prijsafzetfunctie met de eigen prijs en de prijs van de concurrent (€ 12). MK is € 8. Toon met een berekening aan dat het bedrijf bij maximale winst € 11 per liter vraagt.",
+"model": "Invullen pfb = 12 geeft q = −2p + 28, dus p = −0,5q + 14 (1). TO = −0,5q² + 14q, dus MO = −q + 14 (1). MO = MK: −q + 14 = 8, q = 6, p = −0,5 × 6 + 14 = 11 (1).",
+"pnt": 3,
+"id": "D.v5.2.v2021I15",
+"e": "D.vorm"
+}
+],
+"gens": [
+"monopolie"
+],
+"doel": "Hoe stelt een monopolist de verkoopprijs zo vast dat hij maximale winst behaalt?",
+"uitleg": [
+{
+"t": "Soorten monopolies",
+"x": "Wettelijk monopolie: door de wet beschermd (de centrale bank, of via patenten, octrooien en copyright). Natuurlijk monopolie: één aanbieder kan de markt het goedkoopst bedienen door hoge vaste kosten (spoor- of leidingnet). Collectief monopolie: aanbieders die samen optreden als één, zoals de OPEC."
+},
+{
+"t": "Opbrengsten van de monopolist",
+"x": "De afzetlijn is de marktvraaglijn. Conclusies: (1) GO daalt bij meer afzet, (2) TO heeft een maximum waar MO = 0, (3) MO daalt sneller dan GO en wordt negatief, want een prijsverlaging geldt voor alle eenheden.\nDoelstellingen: maximale omzet (MO = 0), maximale winst (MO = MK), kostendekking/break-even (GO = GTK)."
+},
+{
+"t": "Prijsdifferentiatie en prijsdiscriminatie",
+"x": "Prijsdifferentiatie: verschillende prijzen door verschillende kosten (eerste klas in de trein). Prijsdiscriminatie: hetzelfde product tegen verschillende prijzen aan verschillende groepen. Voorwaarden: gescheiden deelmarkten met een verschillende prijselasticiteit en geen doorverkoop (geen arbitrage). Zo zet de monopolist consumentensurplus om in extra opbrengst."
+}
+]
+},
+{
+"id": "D.v5.3",
+"hfd": "Hoofdstuk 5 · Economische macht",
+"niv": "v",
+"naam": "§5.3 Monopolistische concurrentie en oligopolie",
+"kort": "Hoe komen de prijzen tot stand op markten waar geen volledige mededinging of monopolie bestaat?",
+"vragen": [
+{
+"id": "D.v5.3.m01",
+"t": "mc",
+"e": "D.vorm",
+"q": "Volgens de theorie van de geknikte afzetcurve verhoogt een oligopolist zijn prijs. Wat gebeurt er?",
+"o": [
+"Concurrenten gaan niet mee, zodat hij veel klanten verliest",
+"Concurrenten verhogen ook hun prijs, zodat iedereen meer verdient",
+"Zijn afzet blijft gelijk",
+"Er ontstaat een prijzenoorlog"
+],
+"a": 0,
+"u": "Het deel van de afzetcurve boven de knik is elastisch."
+},
+{
+"id": "D.v5.3.m02",
+"t": "mc",
+"e": "D.vorm",
+"q": "Waarom verdwijnt bij monopolistische concurrentie op lange termijn de winst?",
+"o": [
+"Winst trekt nieuwe aanbieders aan, waardoor de vraag naar het product van elke aanbieder afneemt",
+"De overheid belast de winst volledig",
+"De kosten stijgen tot boven de prijs",
+"De producten worden homogeen"
+],
+"a": 0,
+"u": "Toetreding schuift de afzetlijn van de bestaande aanbieders naar binnen."
+},
+{
+"id": "D.v5.3.m03",
+"t": "mc",
+"e": "D.vorm",
+"q": "Welke markt is een oligopolie?",
+"o": [
+"De Nederlandse markt voor mobiele telefonie met een paar grote providers",
+"De markt voor kappers in Amsterdam",
+"De markt voor tarwe op de wereldmarkt",
+"De markt voor drinkwater in een regio met één waterbedrijf"
+],
+"a": 0,
+"u": "Weinig aanbieders met een groot marktaandeel."
+},
+{
+"id": "D.v5.3.m04",
+"t": "mc",
+"e": "D.vorm",
+"q": "Waarom reageren oligopolisten sterk op elkaars prijzen?",
+"o": [
+"Omdat ze elk een groot marktaandeel hebben, raakt een prijsverandering van de één direct de afzet van de ander",
+"Omdat de overheid dat verplicht",
+"Omdat hun producten homogeen zijn en de markt volkomen is",
+"Omdat ze geen winst mogen maken"
+],
+"a": 0,
+"u": "Onderlinge afhankelijkheid is het kenmerk van een oligopolie."
+},
+{
+"id": "D.v5.3.m05",
+"t": "mc",
+"e": "D.vorm",
+"q": "Welk voordeel heeft monopolistische concurrentie voor de consument vergeleken met volledige mededinging?",
+"o": [
+"Meer keuze, service en variatie in kwaliteit",
+"Een lagere prijs",
+"Een grotere productie",
+"Een groter totaal surplus"
+],
+"a": 0,
+"u": "De prijs is juist hoger, maar daar staat productvariatie tegenover."
+},
+{
+"id": "D.v5.3.k01",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Geknikte afzetcurve",
+"Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging."
+],
+[
+"Prijsstarheid",
+"Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen."
+],
+[
+"Oligopolie",
+"Marktvorm met weinig aanbieders tegenover veel vragers."
+]
+],
+"u": "Geknikte afzetcurve: Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging. Prijsstarheid: Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen. Oligopolie: Marktvorm met weinig aanbieders tegenover veel vragers."
+},
+{
+"id": "D.v5.3.k02",
+"t": "koppel",
+"e": "D.vorm",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Monopolistische concurrentie",
+"Marktvorm met veel aanbieders van heterogene producten."
+],
+[
+"Duopolie",
+"Marktvorm met twee aanbieders."
+],
+[
+"Prijsleider",
+"De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd."
+]
+],
+"u": "Monopolistische concurrentie: Marktvorm met veel aanbieders van heterogene producten. Duopolie: Marktvorm met twee aanbieders. Prijsleider: De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd."
+},
+{
+"id": "D.v5.3.b01",
+"t": "mc",
+"e": "D.vorm",
+"b": "Geknikte afzetcurve",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging.\"",
+"o": [
+"Geknikte afzetcurve",
+"Monopolie",
+"Wettelijk monopolie",
+"Kartel"
+],
+"a": 0,
+"u": "Geknikte afzetcurve: Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging."
+},
+{
+"id": "D.v5.3.b02",
+"t": "mc",
+"e": "D.vorm",
+"b": "Prijsstarheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen.\"",
+"o": [
+"Prijsstarheid",
+"Franchising",
+"Productdifferentiatie",
+"Prijsdiscriminatie"
+],
+"a": 0,
+"u": "Prijsstarheid: Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen."
+},
+{
+"id": "D.v5.3.b03",
+"t": "mc",
+"e": "D.vorm",
+"b": "Oligopolie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met weinig aanbieders tegenover veel vragers.\"",
+"o": [
+"Oligopolie",
+"Geknikte afzetcurve",
+"Welvaartsverlies",
+"Natuurlijk monopolie"
+],
+"a": 0,
+"u": "Oligopolie: Marktvorm met weinig aanbieders tegenover veel vragers."
+},
+{
+"id": "D.v5.3.b04",
+"t": "mc",
+"e": "D.vorm",
+"b": "Monopolistische concurrentie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met veel aanbieders van heterogene producten.\"",
+"o": [
+"Monopolistische concurrentie",
+"Natuurlijk monopolie",
+"Prijsleider",
+"Geknikte afzetcurve"
+],
+"a": 0,
+"u": "Monopolistische concurrentie: Marktvorm met veel aanbieders van heterogene producten."
+},
+{
+"id": "D.v5.3.b05",
+"t": "mc",
+"e": "D.vorm",
+"b": "Duopolie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met twee aanbieders.\"",
+"o": [
+"Duopolie",
+"Monopolie",
+"Welvaartsverlies",
+"Harberger-driehoek"
+],
+"a": 0,
+"u": "Duopolie: Marktvorm met twee aanbieders."
+},
+{
+"id": "D.v5.3.b06",
+"t": "mc",
+"e": "D.vorm",
+"b": "Prijsleider",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.\"",
+"o": [
+"Prijsleider",
+"Duopolie",
+"Prijsstarheid",
+"Octrooi"
+],
+"a": 0,
+"u": "Prijsleider: De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 13",
+"q": "(Examen vwo 2019-I, vraag 13)\nBeargumenteer met de pay-offmatrix wat er gebeurt met het verschil in collegegeld tussen BSA en BSB.",
+"model": "Voor BSA is verhogen dominant (0,57 > 0 en 6,86 > 5,71). Voor BSB is gelijk houden dominant (0 > −1,48 en 6,52 > 5,70). BSA startte met het laagste collegegeld (€ 15.000), dus het verschil wordt kleiner.",
+"pnt": 3,
+"id": "D.v5.3.v2019I13",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 24",
+"q": "(Examen vwo 2019-I, vraag 24)\nDe directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.",
+"model": "OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.",
+"pnt": 2,
+"id": "D.v5.3.v2019I24",
+"e": "D.vorm"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 5",
+"q": "(Examen vwo 2021-I, vraag 5)\nEen voorstel van de directie bevat voorwaarden: tweemaal akkoord geeft 20% werk bij de dochter, één weigering geeft die vakbond 30% en de ander maximaal 10%, tweemaal weigeren geeft faillissement. Gaan beide vakbonden akkoord? Licht toe door hun strategieën te vergelijken.",
+"model": "Ja. Gaat de ander niet akkoord, dan is akkoord beter, want 10% bij de dochter is beter dan faillissement. Gaat de ander wel akkoord, dan is akkoord beter, want 20% is beter dan 30%. Akkoord is dominante strategie voor beide. Een toelichting met matrix mag ook. Alleen 0 of 2 punten.",
+"pnt": 2,
+"id": "D.v5.3.v2021I5",
+"e": "D.vorm"
+}
+],
+"gens": [],
+"doel": "Hoe komen de prijzen tot stand op markten waar geen volledige mededinging of monopolie bestaat?",
+"uitleg": [
+{
+"t": "Monopolistische concurrentie",
+"x": "Veel aanbieders, heterogene producten, meestal vrije toetreding. Maakt een aanbieder winst, dan treden anderen toe. Omdat er dan meer substituten zijn, daalt de betalingsbereidheid voor zijn product: zijn afzetlijn schuift naar binnen tot de winst verdwijnt."
+},
+{
+"t": "Oligopolie en de geknikte afzetcurve",
+"x": "Weinig spelers, vaak een marktleider, en een grote verleiding tot kartelvorming. Een homogeen oligopolie wordt door productdifferentiatie vaak een heterogeen oligopolie.\nPrijsstarheid: verhoogt een aanbieder de prijs, dan gaan concurrenten niet mee en verliest hij veel klanten (elastisch deel). Verlaagt hij de prijs, dan gaan ze wel mee en wint hij weinig klanten (inelastisch deel). De afzetcurve heeft dus een knik bij de huidige prijs. Daarom blijven prijzen in een oligopolie vaak lang gelijk."
+}
+]
+},
+{
+"id": "D.v6.1",
+"hfd": "Hoofdstuk 6 · De overheid grijpt in",
+"niv": "v",
+"naam": "§6.1 Waarom grijpt de overheid in?",
+"kort": "Welke motieven heeft de overheid om in te grijpen in het economisch proces?",
+"vragen": [
+{
+"id": "D.v6.1.m01",
+"t": "mc",
+"e": "D.falen",
+"q": "Welke reden voor overheidsingrijpen hoort bij een progressieve inkomstenbelasting?",
+"o": [
+"Een aanvaardbare inkomensverdeling",
+"Externe effecten",
+"Collectieve goederen",
+"Marktmacht"
+],
+"a": 0,
+"u": "Hogere inkomens betalen verhoudingsgewijs meer: de verschillen worden kleiner."
+},
+{
+"id": "D.v6.1.m02",
+"t": "mc",
+"e": "D.falen",
+"q": "Waarom levert de markt geen dijken?",
+"o": [
+"Niemand kan van de bescherming worden uitgesloten, dus niemand wil er vrijwillig voor betalen",
+"Omdat dijken te goedkoop zijn om winst op te maken",
+"Omdat er te veel concurrentie is tussen dijkenbouwers",
+"Omdat dijken een individueel goed zijn"
+],
+"a": 0,
+"u": "Een collectief goed: wie niet betaalt, wordt toch beschermd (meeliften)."
+},
+{
+"id": "D.v6.1.m03",
+"t": "mc",
+"e": "D.falen",
+"q": "Onderwijs is splitsbaar en je kunt mensen uitsluiten, maar de overheid betaalt het grootste deel. Wat voor goed is onderwijs?",
+"o": [
+"Een quasi-collectief goed",
+"Een collectief goed",
+"Een inferieur goed",
+"Een complementair goed"
+],
+"a": 0,
+"u": "Individueel van aard, maar vooral door de overheid geleverd vanwege de positieve externe effecten."
+},
+{
+"id": "D.v6.1.m04",
+"t": "mc",
+"e": "D.falen",
+"q": "Welk argument hoort bij privatisering?",
+"o": [
+"Particuliere bedrijven werken vaak doelmatiger en reageren sneller op wensen van klanten",
+"Misbruik van macht moet worden voorkomen",
+"Zwakkeren in de samenleving moeten worden beschermd",
+"Het product is te duur voor de particuliere sector"
+],
+"a": 0,
+"u": "De andere drie zijn argumenten voor collectivisatie en regulering."
+},
+{
+"id": "D.v6.1.k01",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Marktfalen",
+"Situatie waarin de markt niet tot een optimale uitkomst leidt."
+],
+[
+"Collectieve goederen",
+"Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn."
+],
+[
+"Quasi-collectieve goederen",
+"Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs."
+]
+],
+"u": "Marktfalen: Situatie waarin de markt niet tot een optimale uitkomst leidt. Collectieve goederen: Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn. Quasi-collectieve goederen: Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs."
+},
+{
+"id": "D.v6.1.k02",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Privatisering",
+"Het overdragen van een overheidstaak aan particuliere bedrijven."
+],
+[
+"Deregulering",
+"Het verminderen van overheidsregels voor bedrijven en burgers."
+],
+[
+"Maatschappelijke kosten",
+"Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen."
+]
+],
+"u": "Privatisering: Het overdragen van een overheidstaak aan particuliere bedrijven. Deregulering: Het verminderen van overheidsregels voor bedrijven en burgers. Maatschappelijke kosten: Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen."
+},
+{
+"id": "D.v6.1.b01",
+"t": "mc",
+"e": "D.falen",
+"b": "Marktfalen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin de markt niet tot een optimale uitkomst leidt.\"",
+"o": [
+"Marktfalen",
+"Quotering",
+"Concentratie",
+"Zelfstandig bestuursorgaan"
+],
+"a": 0,
+"u": "Marktfalen: Situatie waarin de markt niet tot een optimale uitkomst leidt."
+},
+{
+"id": "D.v6.1.b02",
+"t": "mc",
+"e": "D.falen",
+"b": "Collectieve goederen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn.\"",
+"o": [
+"Collectieve goederen",
+"Quotering",
+"Subsidie",
+"Accijns"
+],
+"a": 0,
+"u": "Collectieve goederen: Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn."
+},
+{
+"id": "D.v6.1.b03",
+"t": "mc",
+"e": "D.falen",
+"b": "Quasi-collectieve goederen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.\"",
+"o": [
+"Quasi-collectieve goederen",
+"Subsidie",
+"Interventieprijs",
+"Autoriteit Consument en Markt"
+],
+"a": 0,
+"u": "Quasi-collectieve goederen: Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs."
+},
+{
+"id": "D.v6.1.b04",
+"t": "mc",
+"e": "D.falen",
+"b": "Privatisering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het overdragen van een overheidstaak aan particuliere bedrijven.\"",
+"o": [
+"Privatisering",
+"Accijns",
+"Afwentelingspercentage",
+"Concentratie"
+],
+"a": 0,
+"u": "Privatisering: Het overdragen van een overheidstaak aan particuliere bedrijven."
+},
+{
+"id": "D.v6.1.b05",
+"t": "mc",
+"e": "D.falen",
+"b": "Deregulering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verminderen van overheidsregels voor bedrijven en burgers.\"",
+"o": [
+"Deregulering",
+"Mededingingsbeleid",
+"Collectieve goederen",
+"Minimumprijs"
+],
+"a": 0,
+"u": "Deregulering: Het verminderen van overheidsregels voor bedrijven en burgers."
+},
+{
+"id": "D.v6.1.b06",
+"t": "mc",
+"e": "D.falen",
+"b": "Maatschappelijke kosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.\"",
+"o": [
+"Maatschappelijke kosten",
+"Privatisering",
+"Quotum",
+"Afwentelingspercentage"
+],
+"a": 0,
+"u": "Maatschappelijke kosten: Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen."
+},
+{
+"id": "D.v6.1.b07",
+"t": "mc",
+"e": "D.falen",
+"b": "Nationalisatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het overnemen van een particulier bedrijf door de overheid.\"",
+"o": [
+"Nationalisatie",
+"Accijns",
+"Quotum",
+"Interventieprijs"
+],
+"a": 0,
+"u": "Nationalisatie: Het overnemen van een particulier bedrijf door de overheid."
+},
+{
+"t": "open",
+"titel": "Kippenslachterij in Veldwijk",
+"q": "In Veldwijk opent Kipperij Dalhoef een nieuwe slachterij. Het bedrijf koopt levende kippen, verpakkingen en energie in bij andere bedrijven en verkoopt kippenvlees aan supermarkten. Het CBS berekent het bbp van de regio.\nHet afvalwater van de slachterij stroomt via een beek een natuurgebied in en de slachterij geeft sterke geurhinder. Omwonenden en de beheerder van het natuurgebied hebben daardoor schade. Dalhoef betaalt hier niet voor.\nGebruik de tabel.\nTabel Kipperij Dalhoef (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet | 48\nInkoop van kippen, verpakking en energie | 36\nGeschatte schade aan natuur en woningwaarde, niet betaald door Dalhoef | 14\nVerklaar met behulp van de tabel dat het bbp van Veldwijk stijgt terwijl de welvaart in Veldwijk daalt.",
+"model": "Dalhoef maakt een toegevoegde waarde van 48 - 36 = € 12 miljoen, dus het bbp stijgt. De schade van € 14 miljoen voor natuur en woningen ligt bij anderen en zit niet in de prijs van het vlees: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 12 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van Dalhoef: omzet min inkoop is 48 - 36 = € 12 miljoen. (1)\n• De schade aan natuur en woningwaarde en de geurhinder komen terecht bij anderen en worden niet door Dalhoef betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 14 miljoen) is groter dan de toegevoegde waarde (€ 12 miljoen), dus de welvaart daalt, terwijl het bbp stijgt. (1)",
+"pnt": 3,
+"id": "D.v6.1.IT00339",
+"e": "D.falen"
+},
+{
+"t": "open",
+"titel": "Evenementenhal in Beukenrode",
+"q": "In Beukenrode opent Arena Beukenrode, een evenementenhal voor concerten. De hal koopt techniek, catering en beveiliging in bij andere bedrijven. Het CBS berekent het bbp van de gemeente.\nBij elk concert hebben omwonenden last van geluid en parkeeroverlast. De exploitant betaalt hun niets en de kaartprijs is er niet hoger door.\nTabel Arena Beukenrode (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit kaartverkoop en consumpties | 30\nInkoop van techniek, catering en beveiliging | 18\nLeg uit dat het bbp van Beukenrode stijgt door de komst van de hal, terwijl de overlast voor omwonenden niet in het bbp terechtkomt.\nGebruik de tabel.",
+"model": "De hal maakt een toegevoegde waarde van 30 - 18 = € 12 miljoen, dus het bbp stijgt. De overlast raakt omwonenden, die geen koper of verkoper zijn, en zit niet in de kaartprijs. Het is een negatief extern effect. Het wordt niet betaald en daarom niet in het bbp geteld.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de hal: omzet min inkoop is 30 - 18 = € 12 miljoen. (1)\n• De overlast raakt omwonenden (anderen dan de hal en het publiek) en zit niet in de kaartprijs: een negatief extern effect. Daarom telt de overlast niet mee in het bbp. (1)",
+"pnt": 2,
+"id": "D.v6.1.IT00505",
+"e": "D.falen"
+},
+{
+"t": "open",
+"titel": "Biomassacentrale in Roodveen",
+"q": "In Roodveen opent Energie Roodveen een biomassacentrale die stroom en warmte levert aan bedrijven en huishoudens. De centrale koopt houtpellets, onderhoud en transport in bij andere bedrijven. Het CBS berekent het bbp van de regio.\nDe schoorsteen geeft fijnstof en de vrachtwagens veroorzaken lawaai. Omwonenden worden hierdoor vaker ziek en de woningen in de buurt verliezen waarde. De centrale betaalt hier niet voor.\nTabel Energie Roodveen (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit stroom en warmte | 60\nInkoop van houtpellets, onderhoud en transport | 45\nGeschatte schade door fijnstof en lawaai, niet betaald door de centrale | 18\nVerklaar met behulp van de tabel dat het bbp van Roodveen stijgt terwijl de welvaart in Roodveen daalt.\nGebruik de tabel.",
+"model": "De centrale maakt een toegevoegde waarde van 60 - 45 = € 15 miljoen, dus het bbp stijgt. De schade van € 18 miljoen ligt bij omwonenden en zit niet in de prijs van stroom: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 15 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de centrale: omzet min inkoop is 60 - 45 = € 15 miljoen. (1)\n• De schade door fijnstof en lawaai komt terecht bij omwonenden en wordt niet door de centrale betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 18 miljoen) is groter dan de toegevoegde waarde (€ 15 miljoen), dus de welvaart daalt (met € 3 miljoen), terwijl het bbp stijgt. (1)",
+"pnt": 3,
+"id": "D.v6.1.IT00506",
+"e": "D.falen"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 26",
+"q": "(Examen vwo 2022-II, vraag 26)\nVerklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
+"pnt": 2,
+"id": "D.v6.1.v2022II26",
+"e": "D.falen"
+}
+],
+"gens": [],
+"doel": "Welke motieven heeft de overheid om in te grijpen in het economisch proces?",
+"uitleg": [
+{
+"t": "Marktfalen",
+"x": "De overheid grijpt in als de markt niet optimaal werkt (marktfalen):\n- Collectieve goederen: niet splitsbaar en niet-uitsluitbaar (dijken, defensie). Bij individuele goederen liggen beslissen, betalen en genieten in één hand. Quasi-collectieve goederen zijn individuele goederen die toch door de overheid worden geleverd (onderwijs, infrastructuur).\n- Externe effecten: gevolgen van productie of consumptie van de één voor de welvaart van een ander, positief of negatief.\n- Een onaanvaardbare inkomensverdeling: Participatiewet, minimumloon, progressieve inkomstenbelasting.\n- Marktmacht: misbruik door monopolies en kartels tegengaan."
+}
+]
+},
+{
+"id": "D.v6.2",
+"hfd": "Hoofdstuk 6 · De overheid grijpt in",
+"niv": "v",
+"naam": "§6.2 Maximumprijzen en minimumprijzen",
+"kort": "Wat zijn de motieven voor en de gevolgen van maximum- en minimumprijzen?",
+"vragen": [
+{
+"id": "D.v6.2.m01",
+"t": "mc",
+"e": "D.falen",
+"q": "Waarom kan een maximumprijs bij een monopolist het totale surplus vergroten?",
+"o": [
+"De monopolist kan geen hoge prijs meer vragen en produceert meer, dichter bij de hoeveelheid waar P = MK",
+"Omdat de monopolist dan verlies maakt",
+"Omdat er een vraagoverschot ontstaat",
+"Omdat de vraaglijn naar rechts verschuift"
+],
+"a": 0,
+"u": "Zonder ingrijpen beperkt de monopolist de productie. Een maximumprijs neemt die prikkel deels weg."
+},
+{
+"id": "D.v6.2.m02",
+"t": "mc",
+"e": "D.falen",
+"q": "Welke combinatie hoorde bij het Europese landbouwbeleid?",
+"o": [
+"Interventieprijzen, invoerrechten en exportsubsidies",
+"Maximumprijzen, importsubsidies en accijnzen",
+"Quota voor consumenten en lage prijzen",
+"Vrije handel zonder overheidsingrijpen"
+],
+"a": 0,
+"u": "Minimumprijzen beschermden de boeren; invoerrechten en exportsubsidies hielden dat in stand."
+},
+{
+"id": "D.v6.2.m03",
+"t": "mc",
+"e": "D.falen",
+"q": "Wat ontstaat er structureel bij een minimumprijs boven de evenwichtsprijs?",
+"o": [
+"Een aanbodoverschot",
+"Een vraagoverschot",
+"Een zwarte markt met hoge prijzen",
+"Een groter consumentensurplus"
+],
+"a": 0,
+"u": "Producenten willen bij de hoge prijs meer leveren dan consumenten willen kopen."
+},
+{
+"id": "D.v6.2.k01",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Interventieprijs",
+"Minimumprijs waarvoor de overheid overschotten van boeren opkoopt."
+],
+[
+"Maximumprijs",
+"De hoogste prijs die een aanbieder van de overheid mag vragen."
+],
+[
+"Minimumprijs",
+"De laagste prijs waarvoor een product van de overheid mag worden verkocht."
+]
+],
+"u": "Interventieprijs: Minimumprijs waarvoor de overheid overschotten van boeren opkoopt. Maximumprijs: De hoogste prijs die een aanbieder van de overheid mag vragen. Minimumprijs: De laagste prijs waarvoor een product van de overheid mag worden verkocht."
+},
+{
+"id": "D.v6.2.b01",
+"t": "mc",
+"e": "D.falen",
+"b": "Interventieprijs",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Minimumprijs waarvoor de overheid overschotten van boeren opkoopt.\"",
+"o": [
+"Interventieprijs",
+"Quotering",
+"Maatschappelijke kosten",
+"Accijns"
+],
+"a": 0,
+"u": "Interventieprijs: Minimumprijs waarvoor de overheid overschotten van boeren opkoopt."
+},
+{
+"id": "D.v6.2.b02",
+"t": "mc",
+"e": "D.falen",
+"b": "Maximumprijs",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De hoogste prijs die een aanbieder van de overheid mag vragen.\"",
+"o": [
+"Maximumprijs",
+"Privatisering",
+"Autoriteit Consument en Markt",
+"Quotering"
+],
+"a": 0,
+"u": "Maximumprijs: De hoogste prijs die een aanbieder van de overheid mag vragen."
+},
+{
+"id": "D.v6.2.b03",
+"t": "mc",
+"e": "D.falen",
+"b": "Minimumprijs",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De laagste prijs waarvoor een product van de overheid mag worden verkocht.\"",
+"o": [
+"Minimumprijs",
+"Quotum",
+"Autoriteit Consument en Markt",
+"Quotering"
+],
+"a": 0,
+"u": "Minimumprijs: De laagste prijs waarvoor een product van de overheid mag worden verkocht."
+}
+],
+"gens": [],
+"doel": "Wat zijn de motieven voor en de gevolgen van maximum- en minimumprijzen?",
+"uitleg": [
+{
+"t": "Maximumprijzen",
+"x": "Motief: de consument beschermen (maximumhuur, maximumtarieven van de NZa, geneesmiddelen). Bij volledige mededinging ontstaat een vraagoverschot en verlies aan economisch surplus (Harberger-driehoek). Bij een monopolie (zoals het ov) kan de prijs juist dichter bij de marginale kosten komen, waardoor de productie en het totale surplus groter worden."
+},
+{
+"t": "Minimumprijzen",
+"x": "Motief: de aanbieder beschermen (minimumloon). Voorbeeld: het Europese landbouwbeleid met invoerrechten op goedkope import, interventieprijzen (minimumprijzen) voor boeren en exportsubsidies om overschotten op de wereldmarkt kwijt te raken. Gevolgen: kleiner consumentensurplus, groter producentensurplus, welvaartsverlies en een structureel aanbodoverschot."
+}
+]
+},
+{
+"id": "D.v6.3",
+"hfd": "Hoofdstuk 6 · De overheid grijpt in",
+"niv": "v",
+"naam": "§6.3 Heffingen en subsidies",
+"kort": "Wat zijn de motieven voor en de gevolgen van indirecte belastingen en subsidies?",
+"vragen": [
+{
+"id": "D.v6.3.m01",
+"t": "mc",
+"e": "D.heffing",
+"q": "Hoe verschuift de aanbodlijn door een btw-verhoging?",
+"o": [
+"Hij draait omhoog: de verschuiving is groter bij een hogere prijs",
+"Hij verschuift evenwijdig omhoog",
+"Hij verschuift evenwijdig naar beneden",
+"Hij blijft liggen, alleen de vraaglijn verschuift"
+],
+"a": 0,
+"u": "Btw is een percentage van de prijs, dus het bedrag per stuk groeit met de prijs."
+},
+{
+"id": "D.v6.3.m02",
+"t": "mc",
+"e": "D.heffing",
+"q": "De vraag naar sigaretten is zeer prijsinelastisch. Wat verwacht je bij een hogere accijns?",
+"o": [
+"Een hoog afwentelingspercentage: rokers betalen het grootste deel van de accijns",
+"Een laag afwentelingspercentage: de producenten betalen bijna alles",
+"Een sterke daling van de afzet",
+"Geen opbrengst voor de overheid"
+],
+"a": 0,
+"u": "Als de vraag nauwelijks reageert, kan de producent de heffing makkelijk in de prijs doorberekenen."
+},
+{
+"id": "D.v6.3.m03",
+"t": "mc",
+"e": "D.heffing",
+"q": "De accijns op een product stijgt met € 1 per stuk. De consumentenprijs stijgt met € 0,70. Hoeveel procent van de accijns wordt doorberekend aan de consument?",
+"o": [
+"70%",
+"30%",
+"100%",
+"0,7%"
+],
+"a": 0,
+"u": "0,70 : 1,00 × 100% = 70%. De producent betaalt de overige 30%."
+},
+{
+"id": "D.v6.3.m04",
+"t": "mc",
+"e": "D.heffing",
+"q": "Hoe verschuift de aanbodlijn door een accijns?",
+"o": [
+"Evenwijdig omhoog met het bedrag van de accijns",
+"Evenwijdig omlaag met het bedrag van de accijns",
+"De vraaglijn verschuift, niet de aanbodlijn",
+"De aanbodlijn wordt horizontaal"
+],
+"a": 0,
+"u": "Voor elke hoeveelheid willen aanbieders nu een prijs die de accijns hoger is."
+},
+{
+"id": "D.v6.3.m05",
+"t": "mc",
+"e": "D.heffing",
+"q": "Na invoering van een accijns van € 2 worden er 5.000 stuks verkocht. Hoeveel ontvangt de overheid?",
+"o": [
+"€ 10.000",
+"€ 2.500",
+"€ 5.000",
+"€ 2.000"
+],
+"a": 0,
+"u": "Opbrengst = accijns × hoeveelheid na de heffing = 2 × 5.000."
+},
+{
+"id": "D.v6.3.m06",
+"t": "mc",
+"e": "D.heffing",
+"q": "Waarom geeft de overheid subsidie op isolatie van huizen?",
+"o": [
+"Om het gebruik te stimuleren, omdat minder energieverbruik minder milieuschade geeft (positief extern effect)",
+"Om de prijs van energie te verhogen",
+"Omdat isolatie een collectief goed is",
+"Om meer belasting te ontvangen"
+],
+"a": 0,
+"u": "Subsidies stimuleren producten met positieve externe effecten."
+},
+{
+"id": "D.v6.3.k01",
+"t": "koppel",
+"e": "D.heffing",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Afwentelingspercentage",
+"Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument."
+],
+[
+"Kostprijsverlagende subsidie",
+"Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift."
+],
+[
+"Accijns",
+"Een vast bedrag aan belasting per eenheid van een product."
+]
+],
+"u": "Afwentelingspercentage: Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument. Kostprijsverlagende subsidie: Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift. Accijns: Een vast bedrag aan belasting per eenheid van een product."
+},
+{
+"id": "D.v6.3.b01",
+"t": "mc",
+"e": "D.heffing",
+"b": "Afwentelingspercentage",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument.\"",
+"o": [
+"Afwentelingspercentage",
+"Collectieve goederen",
+"Quasi-collectieve goederen",
+"Maatschappelijke kosten"
+],
+"a": 0,
+"u": "Afwentelingspercentage: Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument."
+},
+{
+"id": "D.v6.3.b02",
+"t": "mc",
+"e": "D.heffing",
+"b": "Kostprijsverlagende subsidie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift.\"",
+"o": [
+"Kostprijsverlagende subsidie",
+"Autoriteit Consument en Markt",
+"Maatschappelijke kosten",
+"Interventieprijs"
+],
+"a": 0,
+"u": "Kostprijsverlagende subsidie: Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift."
+},
+{
+"id": "D.v6.3.b03",
+"t": "mc",
+"e": "D.heffing",
+"b": "Accijns",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een vast bedrag aan belasting per eenheid van een product.\"",
+"o": [
+"Accijns",
+"Interventieprijs",
+"Kostprijsverlagende subsidie",
+"Privatisering"
+],
+"a": 0,
+"u": "Accijns: Een vast bedrag aan belasting per eenheid van een product."
+},
+{
+"id": "D.v6.3.b04",
+"t": "mc",
+"e": "D.heffing",
+"b": "Indirecte belastingen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.\"",
+"o": [
+"Indirecte belastingen",
+"Quasi-collectieve goederen",
+"Minimumprijs",
+"Autoriteit Consument en Markt"
+],
+"a": 0,
+"u": "Indirecte belastingen: Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten."
+},
+{
+"id": "D.v6.3.b05",
+"t": "mc",
+"e": "D.heffing",
+"b": "Subsidie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.\"",
+"o": [
+"Subsidie",
+"Privatisering",
+"Maatschappelijke kosten",
+"Afwentelingspercentage"
+],
+"a": 0,
+"u": "Subsidie: Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren."
+},
+{
+"t": "open",
+"titel": "Accijns op sportdrank",
+"q": "Het land Valmora heft sinds kort accijns op sportdrank. De accijns bedraagt € 0,50 per fles en wordt door de producenten afgedragen aan de overheid.\nVoor de markt van sportdrank gelden de volgende vergelijkingen: Qv = −40P + 300 en Qa = 60P − 100, vóór invoering van de accijns. Hierin is P de prijs in euro per fles en Q de hoeveelheid in duizenden flessen per week.\nBereken hoeveel procent van de accijns in de marktprijs van sportdrank wordt doorberekend.\nDoe het als volgt:\n− Bereken de evenwichtsprijs vóór de accijns.\n− Stel de aanbodfunctie na invoering van de accijns op en bereken de nieuwe evenwichtsprijs.\n− Bereken het percentage dat wordt doorberekend.",
+"model": "Vóór de accijns: −40P + 300 = 60P − 100, dus 100P = 400 en P = € 4,00. Met accijns moet ik in Qa de P vervangen door (P − 0,50): Qa = 60(P − 0,50) − 100 = 60P − 130. Evenwicht: −40P + 300 = 60P − 130, dus 100P = 430 en P = € 4,30. De prijs stijgt met € 0,30. Doorberekend: 0,30 : 0,50 × 100% = 60%.\nPuntenverdeling:\n• Evenwicht vóór de accijns: −40P + 300 = 60P − 100, dus P = 400 : 100 = € 4,00 (1)\n• Aanbod na de accijns: Qa = 60(P − 0,50) − 100 = 60P − 130; evenwicht: −40P + 300 = 60P − 130, dus P = 430 : 100 = € 4,30 (1)\n• Doorberekend: (4,30 − 4,00) : 0,50 × 100% = 60% (1)",
+"pnt": 3,
+"id": "D.v6.3.IT00128",
+"e": "D.heffing"
+},
+{
+"t": "open",
+"titel": "Accijns op gin",
+"q": "In het land Brevonia stookt een aantal kleine distilleerderijen gin. De overheid voert een accijns van € 3,00 per fles in. De distilleerderijen dragen deze accijns af.\nVoor de markt van gin gelden vóór de invoering van de accijns de vergelijkingen P = −0,04Q + 18 (vraag) en P = 0,06Q + 6 (aanbod). Hierin is P de prijs in euro per fles en Q de hoeveelheid in duizenden flessen per maand.\nBereken hoeveel procent van de accijns in de marktprijs van gin wordt doorberekend.\nDoe het als volgt:\n− Bereken de evenwichtsprijs vóór de accijns.\n− Stel de aanbodfunctie na invoering van de accijns op en bereken de nieuwe evenwichtsprijs.\n− Bereken het percentage dat wordt doorberekend.",
+"model": "Vóór de accijns: −0,04Q + 18 = 0,06Q + 6, dus 12 = 0,10Q en Q = 120. P = −0,04 × 120 + 18 = € 13,20. De accijns van € 3 maakt aanbieden € 3 duurder, dus het aanbod wordt P = 0,06Q + 9. Evenwicht: −0,04Q + 18 = 0,06Q + 9, dus 9 = 0,10Q en Q = 90. P = −0,04 × 90 + 18 = € 14,40. De prijs stijgt met € 1,20. Doorberekend: 1,20 : 3,00 × 100% = 40%.\nPuntenverdeling:\n• Evenwicht vóór de accijns: −0,04Q + 18 = 0,06Q + 6, dus Q = 120 (× 1.000) en P = −0,04 × 120 + 18 = € 13,20 (1)\n• Aanbod na de accijns: P = 0,06Q + 6 + 3 = 0,06Q + 9; evenwicht: −0,04Q + 18 = 0,06Q + 9, dus Q = 90 (× 1.000) en P = −0,04 × 90 + 18 = € 14,40 (1)\n• Doorberekend: (14,40 − 13,20) : 3,00 × 100% = 40% (1)",
+"pnt": 3,
+"id": "D.v6.3.IT00129",
+"e": "D.heffing"
+},
+{
+"t": "open",
+"titel": "Hogere accijns op frisdrank",
+"q": "In het land Veldmark geldt een accijns op frisdrank van € 0,15 per liter. De frisdrankproducenten dragen deze accijns af aan de overheid. De regering besluit de accijns te verhogen met € 0,10 per liter, naar € 0,25 per liter.\nEen onderzoeksbureau heeft de markt voor frisdrank in kaart gebracht bij de huidige accijns. P is de prijs in euro per liter en Q is de hoeveelheid in miljoenen liters per maand. De aanbodfunctie geldt bij de huidige accijns. Een hogere accijns verhoogt de kosten van de producenten per liter.\nTabel Markt voor frisdrank in Veldmark, bij de huidige accijns:\nFunctie | Vergelijking\nVraag | Qv = −100P + 300\nAanbod (bij de huidige accijns) | P = 0,015Q + 0,50\nBereken hoeveel procent van de verhoging van de accijns wordt doorberekend in de marktprijs van frisdrank.",
+"model": "De accijns stijgt met 0,25 − 0,15 = € 0,10 per liter. Vóór de verhoging: Q = −100 × (0,015Q + 0,50) + 300, dus 2,5Q = 250 en Q = 100. De prijs is dan 0,015 × 100 + 0,50 = € 2,00. Na de verhoging worden de kosten van de producenten € 0,10 hoger: P = 0,015Q + 0,60. Dan Q = −100 × (0,015Q + 0,60) + 300, dus 2,5Q = 240 en Q = 96. De prijs is dan 0,015 × 96 + 0,60 = € 2,04. De prijs stijgt met € 0,04. Doorberekend: 0,04 : 0,10 × 100% = 40%. Dus 40% van de verhoging komt in de marktprijs terecht.\nPuntenverdeling:\n• Evenwicht vóór de verhoging: Qv = Qa geeft Q = 100 (miljoen liter) en P = 0,015 × 100 + 0,50 = € 2,00 (1)\n• Evenwicht na de verhoging: de aanbodfunctie wordt P = 0,015Q + 0,60 (verhoging € 0,10), dit geeft Q = 96 en P = 0,015 × 96 + 0,60 = € 2,04 (1)\n• Doorberekend: (2,04 − 2,00) : 0,10 × 100% = 40% (1)",
+"pnt": 3,
+"id": "D.v6.3.IT00137",
+"e": "D.heffing"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-II, vraag 5",
+"q": "(Examen vwo 2019-II, vraag 5)\nBereken hoeveel procent van de accijnsverhoging Mores bij winstmaximalisatie in scenario 2 in de verkoopprijs doorberekent.",
+"model": "(12,00 − 11,20) : 2 × 100% = 40%. Bij een foutieve prijs uit vraag 4 kan het punt alsnog worden toegekend.",
+"pnt": 1,
+"id": "D.v6.3.v2019II5",
+"e": "D.heffing"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-III, vraag 15",
+"q": "(Examen vwo 2021-III, vraag 15)\nDe taks is 2,5% van de prijs, de prijselasticiteit van de vraag is −2 en de hoeveelheid daalt met 4,3%. Toon met een berekening aan of meer dan driekwart van de taks wordt doorberekend.",
+"model": "Prijsstijging = −4,3 : −2 = 2,15%. Doorberekend: 2,15 : 2,5 × 100% = 86%. Dat is meer dan 75%, dus de bewering klopt.",
+"pnt": 2,
+"id": "D.v6.3.v2021III15",
+"e": "D.heffing"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2024-I, vraag 2",
+"q": "(Examen vwo 2024-I, vraag 2)\nGebruik figuur 1 (markt A met en zonder heffing). Bereken hoeveel procent van de heffing in de prijs van product A wordt doorberekend.",
+"model": "Prijs stijgt van € 18 naar € 20 (+ € 2); de heffing is € 4 per stuk, af te lezen uit de verschuiving van de aanbodlijn (1). Doorberekend: 2 : 4 × 100% = 50% (1).",
+"pnt": 2,
+"id": "D.v6.3.v2024I2",
+"e": "D.heffing"
+}
+],
+"gens": [],
+"doel": "Wat zijn de motieven voor en de gevolgen van indirecte belastingen en subsidies?",
+"uitleg": [
+{
+"t": "Accijns en btw",
+"x": "Accijns: een vast bedrag per product. De aanbodlijn verschuift evenwijdig omhoog.\nBtw: een percentage van de prijs. De aanbodlijn draait omhoog: de afstand tussen de oude en de nieuwe lijn wordt groter bij een hogere prijs.\nHet afwentelingspercentage geeft aan welk deel van de heffing de producent doorberekent aan de consument. Hoe minder prijsgevoelig de vraag, hoe hoger het afwentelingspercentage.\nGevolgen: kleiner consumenten- en producentensurplus, een opbrengst voor de overheid en een welvaartsverlies."
+},
+{
+"t": "Subsidies",
+"x": "Een kostprijsverlagende subsidie verschuift de aanbodlijn naar beneden: de evenwichtsprijs daalt en de hoeveelheid stijgt. Motieven: prijzen laag houden of duurzaamheid bevorderen (woningbouw, ov, cultuur)."
+}
+]
+},
+{
+"id": "D.v6.4",
+"hfd": "Hoofdstuk 6 · De overheid grijpt in",
+"niv": "v",
+"naam": "§6.4 Overige overheidsingrepen",
+"kort": "Welke instrumenten heeft de overheid nog meer en hoe werken ze?",
+"vragen": [
+{
+"id": "D.v6.4.m01",
+"t": "mc",
+"e": "D.falen",
+"q": "De ACM verbiedt een fusie tussen de twee grootste aanbieders. Welk doel heeft dat?",
+"o": [
+"Voorkomen dat er te veel marktmacht ontstaat, waardoor de prijzen stijgen",
+"De werkgelegenheid verlagen",
+"Externe effecten internaliseren",
+"Een collectief goed leveren"
+],
+"a": 0,
+"u": "Mededingingsbeleid tegen concentratie."
+},
+{
+"id": "D.v6.4.m02",
+"t": "mc",
+"e": "D.falen",
+"q": "De EU stelt een vangstquotum voor kabeljauw in. Wat is het doel?",
+"o": [
+"Overbevissing tegengaan zodat er ook in de toekomst vis is",
+"De prijs van kabeljauw verlagen",
+"De export van vis stimuleren",
+"Meer vissers aan het werk helpen"
+],
+"a": 0,
+"u": "Een quotum beperkt de vangst. Dat beschermt de visstand (toekomstige generaties)."
+},
+{
+"id": "D.v6.4.m03",
+"t": "mc",
+"e": "D.falen",
+"q": "Welke toezichthouder grijpt in als supermarkten verboden prijsafspraken maken?",
+"o": [
+"De Autoriteit Consument en Markt (ACM)",
+"De Autoriteit Financiële Markten (AFM)",
+"De Nederlandse Zorgautoriteit (NZa)",
+"De Nederlandsche Bank (DNB)"
+],
+"a": 0,
+"u": "Kartels en machtsmisbruik vallen onder de Mededingingswet en de ACM."
+},
+{
+"id": "D.v6.4.m04",
+"t": "mc",
+"e": "D.falen",
+"q": "Wat gebeurt er meestal met de prijs als een vangstquotum de hoeveelheid vis beperkt?",
+"o": [
+"De prijs stijgt, want het aanbod is kleiner",
+"De prijs daalt, want er is minder vis",
+"De prijs blijft gelijk",
+"De vraaglijn verschuift naar links"
+],
+"a": 0,
+"u": "Minder aanbod bij gelijke vraag geeft een hogere prijs."
+},
+{
+"id": "D.v6.4.k01",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Concentratie",
+"Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen."
+],
+[
+"Mededingingsbeleid",
+"Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt."
+],
+[
+"Quotering",
+"Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."
+]
+],
+"u": "Concentratie: Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen. Mededingingsbeleid: Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt. Quotering: Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."
+},
+{
+"id": "D.v6.4.k02",
+"t": "koppel",
+"e": "D.falen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Quotum",
+"Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd."
+],
+[
+"Autoriteit Consument en Markt",
+"Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt."
+],
+[
+"Zelfstandig bestuursorgaan",
+"Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt."
+]
+],
+"u": "Quotum: Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd. Autoriteit Consument en Markt: Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt. Zelfstandig bestuursorgaan: Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt."
+},
+{
+"id": "D.v6.4.b01",
+"t": "mc",
+"e": "D.falen",
+"b": "Concentratie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen.\"",
+"o": [
+"Concentratie",
+"Zelfstandig bestuursorgaan",
+"Interventieprijs",
+"Autoriteit Consument en Markt"
+],
+"a": 0,
+"u": "Concentratie: Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen."
+},
+{
+"id": "D.v6.4.b02",
+"t": "mc",
+"e": "D.falen",
+"b": "Mededingingsbeleid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt.\"",
+"o": [
+"Mededingingsbeleid",
+"Zelfstandig bestuursorgaan",
+"Concentratie",
+"Marktfalen"
+],
+"a": 0,
+"u": "Mededingingsbeleid: Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt."
+},
+{
+"id": "D.v6.4.b03",
+"t": "mc",
+"e": "D.falen",
+"b": "Quotering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid.\"",
+"o": [
+"Quotering",
+"Kostprijsverlagende subsidie",
+"Maatschappelijke kosten",
+"Concentratie"
+],
+"a": 0,
+"u": "Quotering: Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."
+},
+{
+"id": "D.v6.4.b04",
+"t": "mc",
+"e": "D.falen",
+"b": "Quotum",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd.\"",
+"o": [
+"Quotum",
+"Accijns",
+"Privatisering",
+"Afwentelingspercentage"
+],
+"a": 0,
+"u": "Quotum: Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd."
+},
+{
+"id": "D.v6.4.b05",
+"t": "mc",
+"e": "D.falen",
+"b": "Autoriteit Consument en Markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.\"",
+"o": [
+"Autoriteit Consument en Markt",
+"Quasi-collectieve goederen",
+"Maatschappelijke kosten",
+"Concentratie"
+],
+"a": 0,
+"u": "Autoriteit Consument en Markt: Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt."
+},
+{
+"id": "D.v6.4.b06",
+"t": "mc",
+"e": "D.falen",
+"b": "Zelfstandig bestuursorgaan",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt.\"",
+"o": [
+"Zelfstandig bestuursorgaan",
+"Indirecte belastingen",
+"Privatisering",
+"Maatschappelijke kosten"
+],
+"a": 0,
+"u": "Zelfstandig bestuursorgaan: Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt."
+}
+],
+"gens": [],
+"doel": "Welke instrumenten heeft de overheid nog meer en hoe werken ze?",
+"uitleg": [
+{
+"t": "Quotering",
+"x": "Een productiequotum stelt wettelijk een maximale productie vast (vangst van tong en kabeljauw, landbouw). Doel: negatieve externe effecten wegnemen en het maatschappelijk optimum bereiken."
+},
+{
+"t": "Mededingingsbeleid",
+"x": "Een kartel is een verboden samenwerking tussen juridisch zelfstandige ondernemingen om de onderlinge concurrentie te beperken. Concentratie is het verschijnsel dat steeds minder bedrijven de beslissingen over de productie nemen (zoals bij de grote banken). De overheid (ACM) let op ongewenste marktmacht en kan fusies verbieden."
+}
+]
 }
 ]);
 LEVELS.F.push(...[
@@ -4837,6 +9042,1728 @@ LEVELS.F.push(...[
 "x": "De arbeidsmarkt is de totale vraag naar en het totale aanbod van arbeid. In theorie komen vraag en aanbod via het loon in evenwicht. In de praktijk niet:\n1. Arbeid is heterogeen: werknemers verschillen in opleiding en ervaring.\n2. De markt is niet transparant: niet iedereen kent alle vacatures en werkzoekenden.\n3. Er is geen vrije loonvorming: cao's en het minimumloon maken lonen star. Lonen dalen bijna nooit, waardoor werkloosheid langzaam verdwijnt."
 }
 ]
+},
+{
+"id": "F.v7.1",
+"hfd": "Hoofdstuk 7 · Samenwerken",
+"niv": "v",
+"naam": "§7.1 Het gevangenendilemma",
+"kort": "Hoe herken je een conflict tussen eigenbelang en gemeenschappelijk belang?",
+"vragen": [
+{
+"id": "F.v7.1.m01",
+"t": "mc",
+"e": "F.spel",
+"q": "In het gevangenendilemma hierboven: waarom is (−1 ; −1) geen Nash-evenwicht?",
+"o": [
+"Elke verdachte kan zich verbeteren door te bekennen als de ander zwijgt (0 in plaats van −1)",
+"Omdat het de slechtste uitkomst is",
+"Omdat (−1 ; −1) geen Pareto-optimum is",
+"Omdat er geen dominante strategie is"
+],
+"a": 0,
+"u": "Bij een Nash-evenwicht kan niemand zich eenzijdig verbeteren. Hier wel."
+},
+{
+"id": "F.v7.1.m02",
+"t": "mc",
+"e": "F.spel",
+"q": "Twee automobilisten kunnen links of rechts rijden. Beide rechts (100 ; 100), beide links (100 ; 100), verschillend (−100 ; −100). Hoeveel Nash-evenwichten zijn er?",
+"o": [
+"Twee: beide links en beide rechts",
+"Eén: beide rechts",
+"Geen, want er is geen dominante strategie",
+"Vier"
+],
+"a": 0,
+"u": "Een coördinatiespel: elke situatie waarin beiden hetzelfde kiezen is een evenwicht."
+},
+{
+"id": "F.v7.1.m03",
+"t": "mc",
+"e": "F.spel",
+"q": "Twee bedrijven kiezen een hoge of lage prijs. Winst (A ; B): beide hoog (10 ; 10), A hoog en B laag (2 ; 14), A laag en B hoog (14 ; 2), beide laag (5 ; 5). Wat is de uitkomst als ze niet kunnen samenwerken?",
+"o": [
+"Beide kiezen een lage prijs: (5 ; 5)",
+"Beide kiezen een hoge prijs: (10 ; 10)",
+"A kiest hoog en B laag: (2 ; 14)",
+"Er is geen evenwicht"
+],
+"a": 0,
+"u": "Laag is voor beide dominant: 14 > 10 en 5 > 2. Het evenwicht (5 ; 5) is slechter dan (10 ; 10): een gevangenendilemma."
+},
+{
+"id": "F.v7.1.m04",
+"t": "mc",
+"e": "F.spel",
+"q": "Wanneer heeft een speler een dominante strategie?",
+"o": [
+"Als één keuze altijd beter is, wat de ander ook kiest",
+"Als hij als eerste mag kiezen",
+"Als hij de hoogste uitkomst in de matrix kan halen",
+"Als beide spelers dezelfde keuze maken"
+],
+"a": 0,
+"u": "Dominant betekent: onafhankelijk van de keuze van de ander."
+},
+{
+"id": "F.v7.1.m05",
+"t": "mc",
+"e": "F.spel",
+"q": "Waarom kan herhaling van het spel samenwerking makkelijker maken?",
+"o": [
+"Wie nu bedriegt, kan in volgende rondes worden gestraft, dus samenwerken levert op lange termijn meer op",
+"Omdat de uitkomsten in de matrix dan veranderen",
+"Omdat de spelers dan tegelijk moeten kiezen",
+"Omdat de overheid dan ingrijpt"
+],
+"a": 0,
+"u": "De dreiging van vergelding en het belang van reputatie maken samenwerken aantrekkelijker."
+},
+{
+"id": "F.v7.1.k01",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Pareto-optimum",
+"Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat."
+],
+[
+"Coördinatiespel",
+"Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken."
+],
+[
+"Achterwaartse inductie",
+"Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren."
+]
+],
+"u": "Pareto-optimum: Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat. Coördinatiespel: Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken. Achterwaartse inductie: Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren."
+},
+{
+"id": "F.v7.1.k02",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Pay-offmatrix",
+"Tabel met de strategieën en uitkomsten van een simultaan spel."
+],
+[
+"Dominante strategie",
+"Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest."
+],
+[
+"Gevangenendilemma",
+"Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken."
+]
+],
+"u": "Pay-offmatrix: Tabel met de strategieën en uitkomsten van een simultaan spel. Dominante strategie: Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest. Gevangenendilemma: Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken."
+},
+{
+"id": "F.v7.1.k03",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Simultaan spel",
+"Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen."
+],
+[
+"Niet-coöperatief spel",
+"Spel waarin de spelers geen bindende afspraken kunnen maken."
+],
+[
+"Nash-evenwicht",
+"Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken."
+]
+],
+"u": "Simultaan spel: Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen. Niet-coöperatief spel: Spel waarin de spelers geen bindende afspraken kunnen maken. Nash-evenwicht: Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken."
+},
+{
+"id": "F.v7.1.b01",
+"t": "mc",
+"e": "F.spel",
+"b": "Pareto-optimum",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.\"",
+"o": [
+"Pareto-optimum",
+"Rivaliteit",
+"Nash-evenwicht",
+"Gevangenendilemma"
+],
+"a": 0,
+"u": "Pareto-optimum: Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat."
+},
+{
+"id": "F.v7.1.b02",
+"t": "mc",
+"e": "F.spel",
+"b": "Coördinatiespel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken.\"",
+"o": [
+"Coördinatiespel",
+"Nash-evenwicht",
+"Uitsluitbaarheid",
+"Collectieve dwang"
+],
+"a": 0,
+"u": "Coördinatiespel: Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken."
+},
+{
+"id": "F.v7.1.b03",
+"t": "mc",
+"e": "F.spel",
+"b": "Achterwaartse inductie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren.\"",
+"o": [
+"Achterwaartse inductie",
+"Pareto-optimum",
+"Geloofwaardige dreiging",
+"Grim trigger"
+],
+"a": 0,
+"u": "Achterwaartse inductie: Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren."
+},
+{
+"id": "F.v7.1.b04",
+"t": "mc",
+"e": "F.spel",
+"b": "Pay-offmatrix",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Tabel met de strategieën en uitkomsten van een simultaan spel.\"",
+"o": [
+"Pay-offmatrix",
+"Clubgoed",
+"Meeliftersgedrag",
+"Achterwaartse inductie"
+],
+"a": 0,
+"u": "Pay-offmatrix: Tabel met de strategieën en uitkomsten van een simultaan spel."
+},
+{
+"id": "F.v7.1.b05",
+"t": "mc",
+"e": "F.spel",
+"b": "Dominante strategie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.\"",
+"o": [
+"Dominante strategie",
+"Grim trigger",
+"Meeliftersgedrag",
+"Clubgoed"
+],
+"a": 0,
+"u": "Dominante strategie: Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest."
+},
+{
+"id": "F.v7.1.b06",
+"t": "mc",
+"e": "F.spel",
+"b": "Gevangenendilemma",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.\"",
+"o": [
+"Gevangenendilemma",
+"Zelfbinding",
+"Niet-coöperatief spel",
+"Meeliftersgedrag"
+],
+"a": 0,
+"u": "Gevangenendilemma: Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken."
+},
+{
+"id": "F.v7.1.b07",
+"t": "mc",
+"e": "F.spel",
+"b": "Simultaan spel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.\"",
+"o": [
+"Simultaan spel",
+"Gemeenschappelijke middelen",
+"Individuele goederen",
+"Emissierechten"
+],
+"a": 0,
+"u": "Simultaan spel: Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen."
+},
+{
+"id": "F.v7.1.b08",
+"t": "mc",
+"e": "F.spel",
+"b": "Niet-coöperatief spel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Spel waarin de spelers geen bindende afspraken kunnen maken.\"",
+"o": [
+"Niet-coöperatief spel",
+"Emissierechten",
+"Clubgoed",
+"Pay-offmatrix"
+],
+"a": 0,
+"u": "Niet-coöperatief spel: Spel waarin de spelers geen bindende afspraken kunnen maken."
+},
+{
+"id": "F.v7.1.b09",
+"t": "mc",
+"e": "F.spel",
+"b": "Nash-evenwicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.\"",
+"o": [
+"Nash-evenwicht",
+"Clubgoed",
+"Coördinatiespel",
+"Simultaan spel"
+],
+"a": 0,
+"u": "Nash-evenwicht: Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken."
+},
+{
+"id": "F.v7.1.b10",
+"t": "mc",
+"e": "F.spel",
+"b": "Tit-for-tatstrategie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.\"",
+"o": [
+"Tit-for-tatstrategie",
+"Nash-evenwicht",
+"Gemeenschappelijke middelen",
+"Herhaald spel"
+],
+"a": 0,
+"u": "Tit-for-tatstrategie: Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 13",
+"q": "(Examen vwo 2019-I, vraag 13)\nBeargumenteer met de pay-offmatrix wat er gebeurt met het verschil in collegegeld tussen BSA en BSB.",
+"model": "Voor BSA is verhogen dominant (0,57 > 0 en 6,86 > 5,71). Voor BSB is gelijk houden dominant (0 > −1,48 en 6,52 > 5,70). BSA startte met het laagste collegegeld (€ 15.000), dus het verschil wordt kleiner.",
+"pnt": 3,
+"id": "F.v7.1.v2019I13",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 24",
+"q": "(Examen vwo 2019-I, vraag 24)\nDe directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.",
+"model": "OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.",
+"pnt": 2,
+"id": "F.v7.1.v2019I24",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 5",
+"q": "(Examen vwo 2021-I, vraag 5)\nEen voorstel van de directie bevat voorwaarden: tweemaal akkoord geeft 20% werk bij de dochter, één weigering geeft die vakbond 30% en de ander maximaal 10%, tweemaal weigeren geeft faillissement. Gaan beide vakbonden akkoord? Licht toe door hun strategieën te vergelijken.",
+"model": "Ja. Gaat de ander niet akkoord, dan is akkoord beter, want 10% bij de dochter is beter dan faillissement. Gaat de ander wel akkoord, dan is akkoord beter, want 20% is beter dan 30%. Akkoord is dominante strategie voor beide. Een toelichting met matrix mag ook. Alleen 0 of 2 punten.",
+"pnt": 2,
+"id": "F.v7.1.v2021I5",
+"e": "F.spel"
+}
+],
+"gens": [],
+"doel": "Hoe herken je een conflict tussen eigenbelang en gemeenschappelijk belang?",
+"uitleg": [
+{
+"t": "Eigenbelang tegenover gemeenschappelijk belang",
+"x": "Als iedereen rationeel zijn eigenbelang volgt, kan dat leiden tot een uitkomst die voor iedereen slechter is dan samenwerken. Voorbeeld: belastingontduiking. Wie ontduikt, houdt meer over en profiteert toch van de voorzieningen (free riding). Doet iedereen dat, dan stort het stelsel in."
+},
+{
+"t": "Het klassieke gevangenendilemma",
+"x": "Twee verdachten kiezen in aparte cellen tussen bekennen en zwijgen (strafjaren als negatieve getallen):\nbeide bekennen (−5 ; −5), 1 bekent en 2 zwijgt (0 ; −10), 1 zwijgt en 2 bekent (−10 ; 0), beide zwijgen (−1 ; −1).\nVoor beiden is bekennen dominant (−5 > −10 en 0 > −1). Het Nash-evenwicht is (−5 ; −5). Het Pareto-optimum is (−1 ; −1): daar kan niemand vooruit zonder dat de ander achteruitgaat. Omdat ze niet kunnen overleggen en elkaar niet vertrouwen, komen ze niet bij het Pareto-optimum uit."
+},
+{
+"t": "Spelboom en coördinatiespel",
+"x": "Bij een sequentieel spel gebruik je een spelboom en achterwaartse inductie (rollback): bepaal eerst de beste keuze van de laatste speler, redeneer dan terug.\nNiet elk spel heeft een dominante strategie. In een coördinatiespel (links of rechts rijden) hangt jouw beste keuze af van die van de ander. Er zijn dan twee Nash-evenwichten, die allebei Pareto-optimaal zijn. Afspraken of wetten (verkeersregels) lossen het coördinatieprobleem op."
+}
+]
+},
+{
+"id": "F.v7.2",
+"hfd": "Hoofdstuk 7 · Samenwerken",
+"niv": "v",
+"naam": "§7.2 Langetermijnrelaties",
+"kort": "Wat is de invloed van de duur van de relatie op economische beslissingen?",
+"vragen": [
+{
+"id": "F.v7.2.m01",
+"t": "mc",
+"e": "F.spel",
+"q": "Twee bedrijven spelen precies tien keer een gevangenendilemma en weten dat. Wat voorspelt achterwaartse inductie?",
+"o": [
+"Ze werken in geen enkele ronde samen",
+"Ze werken in alle rondes samen",
+"Ze werken samen tot en met ronde 9",
+"Ze wisselen elke ronde af"
+],
+"a": 0,
+"u": "In ronde 10 kiest ieder zijn dominante strategie. Dan is samenwerken in ronde 9 zinloos, enzovoort terug."
+},
+{
+"id": "F.v7.2.m02",
+"t": "mc",
+"e": "F.spel",
+"q": "Waarom werkt de dreiging 'als je mij één keer bedriegt, werk ik nooit meer met je samen' bij een oneindig herhaald spel wel?",
+"o": [
+"Er is altijd een volgende ronde, dus het toekomstige verlies weegt zwaar en de dreiging is geloofwaardig",
+"Omdat de uitkomsten in de matrix veranderen",
+"Omdat bedriegen dan verboden is",
+"Omdat er geen dominante strategie meer is"
+],
+"a": 0,
+"u": "'Schaduw van de toekomst': het verlies van alle toekomstige samenwerking is groter dan de winst van één keer bedriegen."
+},
+{
+"id": "F.v7.2.k01",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Grim trigger",
+"Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt."
+],
+[
+"Geloofwaardige dreiging",
+"Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is."
+],
+[
+"Reputatie",
+"Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag."
+]
+],
+"u": "Grim trigger: Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt. Geloofwaardige dreiging: Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is. Reputatie: Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag."
+},
+{
+"id": "F.v7.2.b01",
+"t": "mc",
+"e": "F.spel",
+"b": "Grim trigger",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt.\"",
+"o": [
+"Grim trigger",
+"Coördinatiespel",
+"Prijskartel",
+"Zelfbinding"
+],
+"a": 0,
+"u": "Grim trigger: Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt."
+},
+{
+"id": "F.v7.2.b02",
+"t": "mc",
+"e": "F.spel",
+"b": "Geloofwaardige dreiging",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is.\"",
+"o": [
+"Geloofwaardige dreiging",
+"Prijzenoorlog",
+"Niet-coöperatief spel",
+"Gevangenendilemma"
+],
+"a": 0,
+"u": "Geloofwaardige dreiging: Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is."
+},
+{
+"id": "F.v7.2.b03",
+"t": "mc",
+"e": "F.spel",
+"b": "Reputatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag.\"",
+"o": [
+"Reputatie",
+"Collectieve dwang",
+"Rivaliteit",
+"Herhaald spel"
+],
+"a": 0,
+"u": "Reputatie: Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag."
+},
+{
+"id": "F.v7.2.b04",
+"t": "mc",
+"e": "F.spel",
+"b": "Herhaald spel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden.\"",
+"o": [
+"Herhaald spel",
+"Geloofwaardige dreiging",
+"Nash-evenwicht",
+"Internaliseren"
+],
+"a": 0,
+"u": "Herhaald spel: Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden."
+},
+{
+"t": "open",
+"titel": "Fietsenmaker Pedaal",
+"q": "In het stadje Lindeveld is fietsenmaker Pedaal al jaren de enige aanbieder. Winkelketen Wielwerk overweegt een filiaal te openen. Wielwerk beslist eerst; daarna bepaalt Pedaal zijn prijzen. Pedaal dreigt bij toetreding de prijzen fors te verlagen, maar Wielwerk gelooft die dreiging niet.\nPedaal legt zich daarom vooraf vast. Het tekent publiek een overeenkomst met de ondernemersvereniging: verlaagt Pedaal na de komst van Wielwerk de prijzen niet, dan betaalt Pedaal een boete van € 45.000 per jaar.\nDe tabel toont de jaarwinsten in duizenden euro's. De boete is in de tabel nog niet verwerkt.\nTabel Jaarwinst in duizenden euro's, vóór aftrek van een eventuele boete:\nSituatie | Winst Pedaal | Winst Wielwerk\nWielwerk opent niet | 100 | 0\nWielwerk opent, Pedaal laat de prijzen hoog | 60 | 40\nWielwerk opent, Pedaal verlaagt de prijzen (prijzenoorlog) | 30 | -10\nLeg uit dat de overeenkomst de uitkomst van het spel verandert. Gebruik de getallen uit de tabel.\nDoe het als volgt:\n- Kijk eerst wat Pedaal kiest als Wielwerk opent, nu met de boete.\n- Kijk daarna wat Wielwerk daarop kiest en vergelijk de uitkomst met die zonder overeenkomst.",
+"model": "Als Wielwerk opent en Pedaal de prijzen hoog laat, houdt Pedaal door de boete van 45 (duizend euro) nog 60 - 45 = 15 over. Bij een prijzenoorlog is dat 30. Pedaal doet het dus zelf beter door de prijzen te verlagen, en de dreiging is geloofwaardig. Wielwerk weet dit en verwacht bij openen -10, terwijl niet openen 0 oplevert. Wielwerk opent dus niet en de uitkomst is (100 ; 0). Zonder overeenkomst laat Pedaal de prijzen hoog, want 60 is meer dan 30. Dan opent Wielwerk, want 40 is meer dan 0, en is de uitkomst (60 ; 40). De overeenkomst verandert de uitkomst dus van (60 ; 40) in (100 ; 0).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Met de boete levert 'prijzen hoog laten' Pedaal 60 - 45 = 15 (duizend euro) op; dat is minder dan de 30 bij de prijzenoorlog, dus Pedaal verlaagt de prijzen en de dreiging is geloofwaardig (1)\n• Wielwerk verwacht bij openen een winst van -10 tegenover 0 bij niet openen, dus Wielwerk opent niet en de uitkomst is (100 ; 0) (1)\n• Zonder overeenkomst laat Pedaal de prijzen hoog (60 is meer dan 30), dus Wielwerk opent (40 is meer dan 0) en de uitkomst is (60 ; 40); de overeenkomst verandert de uitkomst dus van (60 ; 40) in (100 ; 0) (1)",
+"pnt": 3,
+"id": "F.v7.2.IT00167",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Glasvezel in Kerkwijk",
+"q": "In de nieuwe wijk Kerkwijk bieden twee providers glasvezel aan: Vezelnet en Glasline. Ze beslissen na elkaar. Eerst kiest Vezelnet of het een tariefgarantie in de abonnementsvoorwaarden opneemt. Daarna kiest Glasline of het zijn tarief handhaaft of verlaagt.\nMet de garantie belooft Vezelnet publiek nooit duurder te zijn dan Glasline. Is het tarief van Vezelnet toch hoger, dan krijgen alle klanten het verschil terug, zodat Vezelnet elke verlaging van Glasline in feite volgt. Zonder garantie verlaagt Vezelnet zijn tarief dit jaar niet, omdat de abonnementen voor een jaar vastliggen.\nDe spelboom toont de winsten in duizenden euro's per maand als (winst Vezelnet ; winst Glasline).\nSpelboom: eerst kiest Vezelnet, daarna Glasline. Uitkomsten als (Vezelnet ; Glasline):\nGarantie → Tarief handhaven: (50 ; 50)\nGarantie → Tarief verlagen: (35 ; 35)\nGeen garantie → Tarief handhaven: (50 ; 50)\nGeen garantie → Tarief verlagen: (20 ; 70)\nLeg uit dat de tariefgarantie de uitkomst van het spel verandert. Gebruik de getallen uit de spelboom.\nDoe het als volgt:\n- Bepaal eerst wat Glasline kiest na de garantie en wat Glasline kiest zonder garantie.\n- Kijk daarna wat Vezelnet daardoor kiest.",
+"model": "Na de garantie volgt Vezelnet elke verlaging van Glasline. Verlagen levert Glasline dan 35 op en handhaven 50, dus Glasline handhaaft zijn tarief en de uitkomst is (50 ; 50). Zonder garantie levert verlagen Glasline 70 op en handhaven 50, dus Glasline verlaagt en de uitkomst is (20 ; 70). Vezelnet kijkt vooruit: met garantie krijgt het 50, zonder garantie 20. Vezelnet kiest dus de garantie. Door de garantie verandert de uitkomst van (20 ; 70) in (50 ; 50).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Na de garantie volgt Vezelnet de verlaging, dus verlagen levert Glasline 35 op en handhaven 50; Glasline handhaaft dus het tarief en de uitkomst is (50 ; 50) (1)\n• Zonder garantie levert verlagen Glasline 70 op en handhaven 50; Glasline verlaagt dus en de uitkomst is (20 ; 70) (1)\n• Vezelnet kijkt vooruit: met garantie krijgt het 50, zonder garantie 20, dus het kiest de garantie; de garantie verandert de uitkomst van (20 ; 70) in (50 ; 50) (1)",
+"pnt": 3,
+"id": "F.v7.2.IT00168",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Kaas voor Marktfris",
+"q": "Kaasmakerij Dorpsdijk wil een machine kopen om haar biologische kaas te verpakken, speciaal voor de supermarktketen Marktfris. De machine kan nergens anders worden ingezet. Eerst beslist Dorpsdijk of het investeert. Investeert Dorpsdijk, dan kiest Marktfris of het de inkoopprijs handhaaft of drukt. Dorpsdijk twijfelt over de investering.\nMarktfris sluit zich daarom aan bij het onafhankelijke keurmerk Eerlijke Keten. Het keurmerk controleert de inkoopprijzen en maakt elke prijsdruk openbaar. Drukt Marktfris na de investering van Dorpsdijk de inkoopprijs, dan betaalt Marktfris een boete van € 30.000 per jaar aan het keurmerk.\nDe tabel toont de jaarwinsten in duizenden euro's, nog zonder die boete.\nTabel Jaarwinst in duizenden euro's, (Dorpsdijk ; Marktfris), zonder boete:\nSituatie | Winst Dorpsdijk | Winst Marktfris\nDorpsdijk investeert niet | 0 | 20\nDorpsdijk investeert, Marktfris handhaaft de inkoopprijs | 30 | 50\nDorpsdijk investeert, Marktfris drukt de inkoopprijs | -15 | 70\nLeg uit dat de aansluiting van Marktfris bij het keurmerk de uitkomst van het spel verandert. Gebruik de getallen uit de tabel.",
+"model": "Met het keurmerk betaalt Marktfris 30 (duizend euro) boete als het de inkoopprijs drukt. Drukken levert dan 70 - 30 = 40 op. Handhaven levert 50 op. Marktfris handhaaft dus de inkoopprijs en zijn belofte is geloofwaardig. Dorpsdijk weet dit en kiest tussen 30 bij investeren en 0 bij niet investeren. Dorpsdijk investeert dus en de uitkomst is (30 ; 50). Zonder keurmerk zou Marktfris drukken, want 70 is meer dan 50. Dorpsdijk zou dan -15 verwachten en niet investeren, met als uitkomst (0 ; 20). Het keurmerk verandert de uitkomst dus van (0 ; 20) in (30 ; 50).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Met het keurmerk levert drukken Marktfris 70 - 30 = 40 op (€ 30.000 is 30 duizend euro) en handhaven 50; 40 is minder dan 50, dus Marktfris handhaaft de inkoopprijs en de belofte is geloofwaardig (1)\n• Dorpsdijk weet dit, kiest tussen investeren (30) en niet investeren (0) en investeert dus; de uitkomst is (30 ; 50) (1)\n• Zonder keurmerk zou Marktfris drukken (70 is meer dan 50), zou Dorpsdijk -15 verwachten en niet investeren; de uitkomst was dan (0 ; 20), dus het keurmerk verandert de uitkomst van (0 ; 20) in (30 ; 50) (1)",
+"pnt": 3,
+"id": "F.v7.2.IT00170",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 8",
+"q": "(Examen vwo 2022-II, vraag 8)\nLeport legt een pijpleiding aan en de bedrijven bouwen afvanginstallaties. Verklaar dat Leport een berovingsprobleem kan krijgen en dat de dreiging van de bedrijven om op te zeggen niet geloofwaardig is.",
+"model": "De pijpleiding is een specifieke investering die Leport niet anders kan terugverdienen, dus Leport kan worden beroofd (2). De bedrijven hebben zelf verzonken kosten van € 39 miljoen, dus hun dreiging met opzeggen is niet geloofwaardig (1).",
+"pnt": 3,
+"id": "F.v7.2.v2022II8",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2025-I, vraag 16",
+"q": "(Examen vwo 2025-I, vraag 16)\nGuarda adverteert met een vaste prijs voor 2025 plus een laagsteprijsgarantie: bij een lagere prijs bij de concurrent krijgt de klant 25% korting op die lagere prijs. Leg uit dat dit het risico op een prijzenoorlog beperkt.",
+"model": "Guarda is gebonden aan het volgen van de prijsverlaging van de concurrent (1). De concurrent weet dat zijn omzet of winst bij een prijsverlaging daalt en heeft dus geen prikkel om de prijs te verlagen (1).",
+"pnt": 2,
+"id": "F.v7.2.v2025I16",
+"e": "F.spel"
+}
+],
+"gens": [],
+"doel": "Wat is de invloed van de duur van de relatie op economische beslissingen?",
+"uitleg": [
+{
+"t": "Eindig en oneindig herhaald",
+"x": "Eindig herhaald spel met een bekende laatste ronde: in de laatste ronde is er geen toekomst, dus kiest iedereen zijn dominante strategie. Dan heeft samenwerken in de ronde daarvoor ook geen zin. Via achterwaartse inductie valt de samenwerking al in ronde 1 weg.\nOneindig herhaald spel of onbekende laatste ronde: er is altijd een kans op een volgende ronde, dus de dreiging met vergelding is geloofwaardig. Samenwerking kan blijven bestaan met voorwaardelijke strategieën:\n- Tit-for-tat: begin met samenwerken en doe daarna steeds wat de ander de vorige ronde deed.\n- Grim trigger: werk samen tot de ander één keer valsspeelt en werk daarna nooit meer samen."
+},
+{
+"t": "Zelfbinding, reputatie en sociale normen",
+"x": "Zelfbinding (commitment): je eigen keuzeruimte vrijwillig beperken om een dreiging of belofte geloofwaardig te maken. Onvoorwaardelijk (een contract dat je niet kunt opzeggen) of voorwaardelijk (je vastleggen op een automatische tegenreactie).\nReputatie: het korte voordeel van bedrog weegt niet op tegen het verlies van toekomstige deals.\nSociale normen: morele plicht en angst voor uitsluiting zorgen dat afspraken worden nagekomen zonder rechter."
+}
+]
+},
+{
+"id": "F.v7.3",
+"hfd": "Hoofdstuk 7 · Samenwerken",
+"niv": "v",
+"naam": "§7.3 Prijzenoorlog",
+"kort": "Beconcurreren supermarkten elkaar via het prijsniveau?",
+"vragen": [
+{
+"id": "F.v7.3.m01",
+"t": "mc",
+"e": "F.spel",
+"q": "Waarom kan een laagsteprijsgarantie leiden tot hogere prijzen voor consumenten?",
+"o": [
+"Concurrenten weten dat elke prijsverlaging automatisch wordt gevolgd, waardoor niemand meer een prikkel heeft om de prijs te verlagen",
+"Omdat de winkel de kosten van de garantie doorberekent",
+"Omdat consumenten dan minder vergelijken",
+"Omdat de ACM de garantie verbiedt"
+],
+"a": 0,
+"u": "Het is een geloofwaardige, automatische vergelding (zelfbinding)."
+},
+{
+"id": "F.v7.3.m02",
+"t": "mc",
+"e": "F.spel",
+"q": "Waarom is een kartel moeilijk vol te houden, ook zonder toezicht?",
+"o": [
+"Elk lid kan extra winst maken door stiekem goedkoper te verkopen dan afgesproken",
+"Omdat kartelleden altijd verlies maken",
+"Omdat consumenten weigeren te kopen",
+"Omdat de afspraken automatisch vervallen na een jaar"
+],
+"a": 0,
+"u": "Het is een gevangenendilemma: valsspelen is voor elk lid aantrekkelijk."
+},
+{
+"id": "F.v7.3.m03",
+"t": "mc",
+"e": "F.spel",
+"q": "Wat is het doel van de clementieregeling?",
+"o": [
+"Bedrijven aanmoedigen een kartel te melden, zodat kartels makkelijker worden opgespoord",
+"Kartels toestaan als ze klein zijn",
+"Consumenten compenseren na een prijzenoorlog",
+"Bedrijven helpen bij het maken van prijsafspraken"
+],
+"a": 0,
+"u": "Het eerste bedrijf dat meldt, krijgt minder of geen boete. Dat maakt kartels onstabiel."
+},
+{
+"id": "F.v7.3.m04",
+"t": "mc",
+"e": "F.spel",
+"q": "Wie profiteert van een prijzenoorlog tussen supermarkten op korte termijn?",
+"o": [
+"De consumenten, want hun consumentensurplus stijgt",
+"De supermarkten, want hun winst stijgt",
+"De overheid, want ze ontvangt meer btw",
+"Niemand, want het totale surplus daalt"
+],
+"a": 0,
+"u": "Lagere prijzen verschuiven surplus van producenten naar consumenten."
+},
+{
+"id": "F.v7.3.k01",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Laagsteprijsgarantie",
+"Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is."
+],
+[
+"Prijzenoorlog",
+"Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen."
+],
+[
+"Clementieregeling",
+"Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt."
+]
+],
+"u": "Laagsteprijsgarantie: Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is. Prijzenoorlog: Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen. Clementieregeling: Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt."
+},
+{
+"id": "F.v7.3.b01",
+"t": "mc",
+"e": "F.spel",
+"b": "Laagsteprijsgarantie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is.\"",
+"o": [
+"Laagsteprijsgarantie",
+"Achterwaartse inductie",
+"Dominante strategie",
+"Nash-evenwicht"
+],
+"a": 0,
+"u": "Laagsteprijsgarantie: Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is."
+},
+{
+"id": "F.v7.3.b02",
+"t": "mc",
+"e": "F.spel",
+"b": "Prijzenoorlog",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.\"",
+"o": [
+"Prijzenoorlog",
+"Reputatie",
+"Laagsteprijsgarantie",
+"Individuele goederen"
+],
+"a": 0,
+"u": "Prijzenoorlog: Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen."
+},
+{
+"id": "F.v7.3.b03",
+"t": "mc",
+"e": "F.spel",
+"b": "Clementieregeling",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.\"",
+"o": [
+"Clementieregeling",
+"Grim trigger",
+"Simultaan spel",
+"Dominante strategie"
+],
+"a": 0,
+"u": "Clementieregeling: Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt."
+},
+{
+"id": "F.v7.3.b04",
+"t": "mc",
+"e": "F.spel",
+"b": "Zelfbinding",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.\"",
+"o": [
+"Zelfbinding",
+"Internaliseren",
+"Herhaald spel",
+"Individuele goederen"
+],
+"a": 0,
+"u": "Zelfbinding: Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken."
+},
+{
+"id": "F.v7.3.b05",
+"t": "mc",
+"e": "F.spel",
+"b": "Prijskartel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kartel waarin ondernemingen afspraken maken over de verkoopprijs.\"",
+"o": [
+"Prijskartel",
+"Grim trigger",
+"Collectieve dwang",
+"Zelfbinding"
+],
+"a": 0,
+"u": "Prijskartel: Kartel waarin ondernemingen afspraken maken over de verkoopprijs."
+}
+],
+"gens": [],
+"doel": "Beconcurreren supermarkten elkaar via het prijsniveau?",
+"uitleg": [
+{
+"t": "Prijzenoorlog als gevangenendilemma",
+"x": "Twee supermarkten: beide een hoge prijs geeft de hoogste gezamenlijke winst (Pareto-optimum). Verlaagt er één de prijs, dan pakt die marktaandeel en maakt die extra winst. Verlagen ze allebei, dan blijven de marktaandelen gelijk tegen lagere marges: een slechter Nash-evenwicht. Prijsverlaging is voor beide dominant."
+},
+{
+"t": "De laagsteprijsgarantie",
+"x": "'Elders goedkoper? Wij betalen het verschil terug.' Dat lijkt gunstig voor de consument, maar werkt als stilzwijgende samenspanning: de concurrent weet dat elke prijsverlaging automatisch wordt gevolgd, dus met een lagere prijs wint hij geen klanten. De prikkel om prijzen te verlagen verdwijnt en de prijzen blijven hoog."
+}
+]
+},
+{
+"id": "F.v7.4",
+"hfd": "Hoofdstuk 7 · Samenwerken",
+"niv": "v",
+"naam": "§7.4 Wanneer is overheidsregulering nodig?",
+"kort": "Wanneer is regulering door de overheid wenselijk?",
+"vragen": [
+{
+"id": "F.v7.4.m01",
+"t": "mc",
+"e": "F.coll",
+"q": "Vis in internationale wateren wordt overbevist. Welk soort goed is dit?",
+"o": [
+"Een gemeenschappelijk middel: rivaliserend maar niet uitsluitbaar",
+"Een zuiver collectief goed",
+"Een clubgoed",
+"Een individueel goed"
+],
+"a": 0,
+"u": "Elke gevangen vis is weg voor een ander, maar niemand kan vissers weren: tragedy of the commons."
+},
+{
+"id": "F.v7.4.m02",
+"t": "mc",
+"e": "F.coll",
+"q": "Hoe internaliseren emissierechten een negatief extern effect?",
+"o": [
+"Uitstoot krijgt een prijs, zodat de vervuiler de kosten in zijn eigen afweging meeneemt",
+"De overheid verbiedt alle uitstoot",
+"Vervuilers krijgen subsidie",
+"Consumenten betalen de schade rechtstreeks aan de slachtoffers"
+],
+"a": 0,
+"u": "Wie uitstoot, moet rechten kopen: de externe kosten worden bedrijfskosten."
+},
+{
+"id": "F.v7.4.m03",
+"t": "mc",
+"e": "F.coll",
+"q": "Een streamingdienst is uitsluitbaar maar niet rivaliserend. Hoe heet zo'n goed?",
+"o": [
+"Een clubgoed (quasi-collectief goed)",
+"Een zuiver collectief goed",
+"Een gemeenschappelijk middel",
+"Een inferieur goed"
+],
+"a": 0,
+"u": "Je kunt niet-betalers weren, maar kijken door de één hindert de ander niet."
+},
+{
+"id": "F.v7.4.m04",
+"t": "mc",
+"e": "F.coll",
+"q": "Een buurt wil samen camerabewaking. Iedereen profiteert, ook wie niet meebetaalt. Wat is het probleem?",
+"o": [
+"Meeliftersgedrag: iedereen wacht tot een ander betaalt, waardoor er te weinig geld komt",
+"Een prijzenoorlog",
+"Averechtse selectie",
+"Een te hoge vraag naar camera's"
+],
+"a": 0,
+"u": "Bij een collectief goed is niet betalen individueel aantrekkelijk."
+},
+{
+"id": "F.v7.4.m05",
+"t": "mc",
+"e": "F.coll",
+"q": "Hoe lost de overheid het meeliftprobleem bij dijken op?",
+"o": [
+"Met collectieve dwang: iedereen betaalt verplicht via belastingen",
+"Door dijken te privatiseren",
+"Door een maximumprijs in te stellen",
+"Door alleen betalers te beschermen"
+],
+"a": 0,
+"u": "Niet-betalers uitsluiten kan niet, dus wordt betalen verplicht."
+},
+{
+"id": "F.v7.4.m06",
+"t": "mc",
+"e": "F.coll",
+"q": "Waarom is meeliften bij een collectief goed een gevangenendilemma?",
+"o": [
+"Voor ieder individu is niet betalen het beste, maar als iedereen zo kiest, komt het goed er niet en is iedereen slechter af",
+"Omdat de overheid de spelers gevangen zet",
+"Omdat er maar twee spelers zijn",
+"Omdat het goed rivaliserend is"
+],
+"a": 0,
+"u": "Individuele rationaliteit leidt tot een slechtere collectieve uitkomst."
+},
+{
+"id": "F.v7.4.k01",
+"t": "koppel",
+"e": "F.coll",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Rivaliteit",
+"Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander."
+],
+[
+"Uitsluitbaarheid",
+"Mensen die niet betalen kunnen van het gebruik worden uitgesloten."
+],
+[
+"Clubgoed",
+"Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst."
+]
+],
+"u": "Rivaliteit: Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander. Uitsluitbaarheid: Mensen die niet betalen kunnen van het gebruik worden uitgesloten. Clubgoed: Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst."
+},
+{
+"id": "F.v7.4.k02",
+"t": "koppel",
+"e": "F.coll",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Gemeenschappelijke middelen",
+"Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan."
+],
+[
+"Internaliseren",
+"Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing."
+],
+[
+"Emissierechten",
+"Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten."
+]
+],
+"u": "Gemeenschappelijke middelen: Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan. Internaliseren: Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing. Emissierechten: Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten."
+},
+{
+"id": "F.v7.4.k03",
+"t": "koppel",
+"e": "F.coll",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Meeliftersgedrag",
+"Profiteren van een goed of voorziening zonder eraan mee te betalen."
+],
+[
+"Collectieve dwang",
+"Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen."
+],
+[
+"Individuele goederen",
+"Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten."
+]
+],
+"u": "Meeliftersgedrag: Profiteren van een goed of voorziening zonder eraan mee te betalen. Collectieve dwang: Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen. Individuele goederen: Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten."
+},
+{
+"id": "F.v7.4.b01",
+"t": "mc",
+"e": "F.coll",
+"b": "Rivaliteit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander.\"",
+"o": [
+"Rivaliteit",
+"Grim trigger",
+"Achterwaartse inductie",
+"Tit-for-tatstrategie"
+],
+"a": 0,
+"u": "Rivaliteit: Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander."
+},
+{
+"id": "F.v7.4.b02",
+"t": "mc",
+"e": "F.coll",
+"b": "Uitsluitbaarheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen die niet betalen kunnen van het gebruik worden uitgesloten.\"",
+"o": [
+"Uitsluitbaarheid",
+"Grim trigger",
+"Zelfbinding",
+"Individuele goederen"
+],
+"a": 0,
+"u": "Uitsluitbaarheid: Mensen die niet betalen kunnen van het gebruik worden uitgesloten."
+},
+{
+"id": "F.v7.4.b03",
+"t": "mc",
+"e": "F.coll",
+"b": "Clubgoed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst.\"",
+"o": [
+"Clubgoed",
+"Coördinatiespel",
+"Geloofwaardige dreiging",
+"Rivaliteit"
+],
+"a": 0,
+"u": "Clubgoed: Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst."
+},
+{
+"id": "F.v7.4.b04",
+"t": "mc",
+"e": "F.coll",
+"b": "Gemeenschappelijke middelen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan.\"",
+"o": [
+"Gemeenschappelijke middelen",
+"Achterwaartse inductie",
+"Simultaan spel",
+"Grim trigger"
+],
+"a": 0,
+"u": "Gemeenschappelijke middelen: Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan."
+},
+{
+"id": "F.v7.4.b05",
+"t": "mc",
+"e": "F.coll",
+"b": "Internaliseren",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing.\"",
+"o": [
+"Internaliseren",
+"Gemeenschappelijke middelen",
+"Herhaald spel",
+"Clubgoed"
+],
+"a": 0,
+"u": "Internaliseren: Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing."
+},
+{
+"id": "F.v7.4.b06",
+"t": "mc",
+"e": "F.coll",
+"b": "Emissierechten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten.\"",
+"o": [
+"Emissierechten",
+"Internaliseren",
+"Pay-offmatrix",
+"Clubgoed"
+],
+"a": 0,
+"u": "Emissierechten: Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten."
+},
+{
+"id": "F.v7.4.b07",
+"t": "mc",
+"e": "F.coll",
+"b": "Meeliftersgedrag",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Profiteren van een goed of voorziening zonder eraan mee te betalen.\"",
+"o": [
+"Meeliftersgedrag",
+"Herhaald spel",
+"Internaliseren",
+"Tit-for-tatstrategie"
+],
+"a": 0,
+"u": "Meeliftersgedrag: Profiteren van een goed of voorziening zonder eraan mee te betalen."
+},
+{
+"id": "F.v7.4.b08",
+"t": "mc",
+"e": "F.coll",
+"b": "Collectieve dwang",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.\"",
+"o": [
+"Collectieve dwang",
+"Gevangenendilemma",
+"Clementieregeling",
+"Coördinatiespel"
+],
+"a": 0,
+"u": "Collectieve dwang: Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen."
+},
+{
+"id": "F.v7.4.b09",
+"t": "mc",
+"e": "F.coll",
+"b": "Individuele goederen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.\"",
+"o": [
+"Individuele goederen",
+"Clementieregeling",
+"Zelfbinding",
+"Reputatie"
+],
+"a": 0,
+"u": "Individuele goederen: Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten."
+},
+{
+"t": "open",
+"titel": "Kippenslachterij in Veldwijk",
+"q": "In Veldwijk opent Kipperij Dalhoef een nieuwe slachterij. Het bedrijf koopt levende kippen, verpakkingen en energie in bij andere bedrijven en verkoopt kippenvlees aan supermarkten. Het CBS berekent het bbp van de regio.\nHet afvalwater van de slachterij stroomt via een beek een natuurgebied in en de slachterij geeft sterke geurhinder. Omwonenden en de beheerder van het natuurgebied hebben daardoor schade. Dalhoef betaalt hier niet voor.\nGebruik de tabel.\nTabel Kipperij Dalhoef (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet | 48\nInkoop van kippen, verpakking en energie | 36\nGeschatte schade aan natuur en woningwaarde, niet betaald door Dalhoef | 14\nVerklaar met behulp van de tabel dat het bbp van Veldwijk stijgt terwijl de welvaart in Veldwijk daalt.",
+"model": "Dalhoef maakt een toegevoegde waarde van 48 - 36 = € 12 miljoen, dus het bbp stijgt. De schade van € 14 miljoen voor natuur en woningen ligt bij anderen en zit niet in de prijs van het vlees: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 12 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van Dalhoef: omzet min inkoop is 48 - 36 = € 12 miljoen. (1)\n• De schade aan natuur en woningwaarde en de geurhinder komen terecht bij anderen en worden niet door Dalhoef betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 14 miljoen) is groter dan de toegevoegde waarde (€ 12 miljoen), dus de welvaart daalt, terwijl het bbp stijgt. (1)",
+"pnt": 3,
+"id": "F.v7.4.IT00339",
+"e": "F.coll"
+},
+{
+"t": "open",
+"titel": "Evenementenhal in Beukenrode",
+"q": "In Beukenrode opent Arena Beukenrode, een evenementenhal voor concerten. De hal koopt techniek, catering en beveiliging in bij andere bedrijven. Het CBS berekent het bbp van de gemeente.\nBij elk concert hebben omwonenden last van geluid en parkeeroverlast. De exploitant betaalt hun niets en de kaartprijs is er niet hoger door.\nTabel Arena Beukenrode (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit kaartverkoop en consumpties | 30\nInkoop van techniek, catering en beveiliging | 18\nLeg uit dat het bbp van Beukenrode stijgt door de komst van de hal, terwijl de overlast voor omwonenden niet in het bbp terechtkomt.\nGebruik de tabel.",
+"model": "De hal maakt een toegevoegde waarde van 30 - 18 = € 12 miljoen, dus het bbp stijgt. De overlast raakt omwonenden, die geen koper of verkoper zijn, en zit niet in de kaartprijs. Het is een negatief extern effect. Het wordt niet betaald en daarom niet in het bbp geteld.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de hal: omzet min inkoop is 30 - 18 = € 12 miljoen. (1)\n• De overlast raakt omwonenden (anderen dan de hal en het publiek) en zit niet in de kaartprijs: een negatief extern effect. Daarom telt de overlast niet mee in het bbp. (1)",
+"pnt": 2,
+"id": "F.v7.4.IT00505",
+"e": "F.coll"
+},
+{
+"t": "open",
+"titel": "Biomassacentrale in Roodveen",
+"q": "In Roodveen opent Energie Roodveen een biomassacentrale die stroom en warmte levert aan bedrijven en huishoudens. De centrale koopt houtpellets, onderhoud en transport in bij andere bedrijven. Het CBS berekent het bbp van de regio.\nDe schoorsteen geeft fijnstof en de vrachtwagens veroorzaken lawaai. Omwonenden worden hierdoor vaker ziek en de woningen in de buurt verliezen waarde. De centrale betaalt hier niet voor.\nTabel Energie Roodveen (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit stroom en warmte | 60\nInkoop van houtpellets, onderhoud en transport | 45\nGeschatte schade door fijnstof en lawaai, niet betaald door de centrale | 18\nVerklaar met behulp van de tabel dat het bbp van Roodveen stijgt terwijl de welvaart in Roodveen daalt.\nGebruik de tabel.",
+"model": "De centrale maakt een toegevoegde waarde van 60 - 45 = € 15 miljoen, dus het bbp stijgt. De schade van € 18 miljoen ligt bij omwonenden en zit niet in de prijs van stroom: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 15 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de centrale: omzet min inkoop is 60 - 45 = € 15 miljoen. (1)\n• De schade door fijnstof en lawaai komt terecht bij omwonenden en wordt niet door de centrale betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 18 miljoen) is groter dan de toegevoegde waarde (€ 15 miljoen), dus de welvaart daalt (met € 3 miljoen), terwijl het bbp stijgt. (1)",
+"pnt": 3,
+"id": "F.v7.4.IT00506",
+"e": "F.coll"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 26",
+"q": "(Examen vwo 2022-II, vraag 26)\nVerklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
+"pnt": 2,
+"id": "F.v7.4.v2022II26",
+"e": "F.coll"
+}
+],
+"gens": [],
+"doel": "Wanneer is regulering door de overheid wenselijk?",
+"uitleg": [
+{
+"t": "Typologie van goederen",
+"x": "Rivaliteit: vermindert gebruik door de één het gebruik door een ander? Uitsluitbaarheid: kun je niet-betalers weren?\n- Rivaliserend en uitsluitbaar: individuele (private) goederen (brood, kleding).\n- Niet-rivaliserend en uitsluitbaar: clubgoederen of quasi-collectieve goederen (tolweg, streamingdienst).\n- Rivaliserend en niet-uitsluitbaar: gemeenschappelijke middelen (vis op volle zee): gevaar van uitputting (tragedy of the commons).\n- Niet-rivaliserend en niet-uitsluitbaar: zuiver collectieve goederen (dijken, defensie, straatverlichting)."
+},
+{
+"t": "Externe effecten en oplossingen",
+"x": "Een extern effect is een onbedoeld gevolg voor derden dat niet in de prijs zit. Bij een negatief extern effect zijn de maatschappelijke kosten hoger dan de private kosten: er wordt te veel geproduceerd tegen een te lage prijs. Bij een positief extern effect (onderwijs, vaccinaties) wordt er te weinig geproduceerd.\nOplossingen: een heffing ter grootte van de externe schade (de vervuiler betaalt, internaliseren), subsidies, quota en verboden, of verhandelbare eigendomsrechten zoals CO2-emissierechten."
+}
+]
+},
+{
+"id": "F.v8.1",
+"hfd": "Hoofdstuk 8 · Onderhandelen",
+"niv": "v",
+"naam": "§8.1 Onderhandelingsvoorwaarden",
+"kort": "Onder welke voorwaarden is onderhandeling over prijzen mogelijk?",
+"vragen": [
+{
+"id": "F.v8.1.m01",
+"t": "mc",
+"e": "F.spel",
+"q": "Een koper wil maximaal € 50.000 betalen, de verkoper wil minimaal € 42.000 ontvangen. Ze komen uit op € 47.000. Hoe groot is het surplus van de verkoper?",
+"o": [
+"€ 5.000",
+"€ 3.000",
+"€ 8.000",
+"€ 47.000"
+],
+"a": 0,
+"u": "47.000 − 42.000 = € 5.000. Het totale surplus is € 8.000, de koper krijgt € 3.000."
+},
+{
+"id": "F.v8.1.m02",
+"t": "mc",
+"e": "F.spel",
+"q": "Waarom valt er bij volledige mededinging niet te onderhandelen over de prijs?",
+"o": [
+"Iedereen is prijsnemer: wie een hogere prijs vraagt, raakt al zijn kopers kwijt aan de vele concurrenten",
+"Omdat de overheid de prijs vaststelt",
+"Omdat de producten heterogeen zijn",
+"Omdat er een monopsonie is"
+],
+"a": 0,
+"u": "De marktprijs komt anoniem tot stand door vraag en aanbod."
+},
+{
+"id": "F.v8.1.m03",
+"t": "mc",
+"e": "F.spel",
+"q": "Welke oplossing voor het hold-upprobleem hoort bij verticale integratie?",
+"o": [
+"De afnemer en de toeleverancier gaan samen in één bedrijf, zodat er niemand meer te beroven valt",
+"De toeleverancier zoekt meer afnemers",
+"De overheid geeft subsidie op de investering",
+"De afnemer betaalt alles vooruit"
+],
+"a": 0,
+"u": "Binnen één bedrijf verdwijnt het belangenconflict."
+},
+{
+"id": "F.v8.1.m04",
+"t": "mc",
+"e": "F.spel",
+"q": "Een toeleverancier koopt een machine die alleen onderdelen voor één autofabrikant kan maken. Daarna eist de fabrikant een lagere prijs. Hoe heet dit?",
+"o": [
+"Het berovingsprobleem",
+"Meeliftersgedrag",
+"Averechtse selectie",
+"Prijsdiscriminatie"
+],
+"a": 0,
+"u": "De investering is verzonken; de fabrikant gebruikt de zwakke positie van de leverancier."
+},
+{
+"id": "F.v8.1.m05",
+"t": "mc",
+"e": "F.spel",
+"q": "Hoe kan de toeleverancier zich vooraf beschermen tegen beroving?",
+"o": [
+"Door vóór de investering een langlopend contract met vaste prijzen af te sluiten",
+"Door de machine pas na het onderhandelen te verkopen",
+"Door een lagere prijs te vragen",
+"Door de investering geheim te houden"
+],
+"a": 0,
+"u": "Een bindende afspraak vooraf voorkomt dat de ander later kan heronderhandelen."
+},
+{
+"id": "F.v8.1.m06",
+"t": "mc",
+"e": "F.spel",
+"q": "Een werkgever vindt een werknemer maximaal € 4.000 per maand waard. Het loon wordt € 3.200. De werknemer wil minimaal € 2.800 verdienen. Hoe groot is het werknemerssurplus?",
+"o": [
+"€ 400",
+"€ 800",
+"€ 1.200",
+"€ 3.200"
+],
+"a": 0,
+"u": "Werknemerssurplus = loon − minimaal gewenst loon = 3.200 − 2.800 = € 400. Het werkgeverssurplus is € 800."
+},
+{
+"id": "F.v8.1.k01",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Onderhandelingsruimte",
+"Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper."
+],
+[
+"Relatiespecifieke investering",
+"Investering die alleen waarde heeft binnen één bepaalde samenwerking."
+],
+[
+"Monopsonie",
+"Marktvorm met één vrager tegenover veel aanbieders."
+]
+],
+"u": "Onderhandelingsruimte: Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper. Relatiespecifieke investering: Investering die alleen waarde heeft binnen één bepaalde samenwerking. Monopsonie: Marktvorm met één vrager tegenover veel aanbieders."
+},
+{
+"id": "F.v8.1.k02",
+"t": "koppel",
+"e": "F.spel",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Verticale integratie",
+"Samengaan van bedrijven uit opeenvolgende schakels van de productieketen."
+],
+[
+"Berovingsprobleem",
+"Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken."
+],
+[
+"Werknemerssurplus",
+"Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken."
+]
+],
+"u": "Verticale integratie: Samengaan van bedrijven uit opeenvolgende schakels van de productieketen. Berovingsprobleem: Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken. Werknemerssurplus: Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken."
+},
+{
+"id": "F.v8.1.b01",
+"t": "mc",
+"e": "F.spel",
+"b": "Onderhandelingsruimte",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper.\"",
+"o": [
+"Onderhandelingsruimte",
+"Prijscompensatie",
+"Centraal akkoord",
+"Loonruimte"
+],
+"a": 0,
+"u": "Onderhandelingsruimte: Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper."
+},
+{
+"id": "F.v8.1.b02",
+"t": "mc",
+"e": "F.spel",
+"b": "Relatiespecifieke investering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Investering die alleen waarde heeft binnen één bepaalde samenwerking.\"",
+"o": [
+"Relatiespecifieke investering",
+"Monopsonie",
+"Secundaire arbeidsvoorwaarden",
+"Prijscompensatie"
+],
+"a": 0,
+"u": "Relatiespecifieke investering: Investering die alleen waarde heeft binnen één bepaalde samenwerking."
+},
+{
+"id": "F.v8.1.b03",
+"t": "mc",
+"e": "F.spel",
+"b": "Monopsonie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met één vrager tegenover veel aanbieders.\"",
+"o": [
+"Monopsonie",
+"Incidentele loonstijging",
+"Relatiespecifieke investering",
+"Secundaire arbeidsvoorwaarden"
+],
+"a": 0,
+"u": "Monopsonie: Marktvorm met één vrager tegenover veel aanbieders."
+},
+{
+"id": "F.v8.1.b04",
+"t": "mc",
+"e": "F.spel",
+"b": "Verticale integratie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Samengaan van bedrijven uit opeenvolgende schakels van de productieketen.\"",
+"o": [
+"Verticale integratie",
+"Algemeen verbindend verklaren",
+"Relatiespecifieke investering",
+"Incidentele loonstijging"
+],
+"a": 0,
+"u": "Verticale integratie: Samengaan van bedrijven uit opeenvolgende schakels van de productieketen."
+},
+{
+"id": "F.v8.1.b05",
+"t": "mc",
+"e": "F.spel",
+"b": "Berovingsprobleem",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.\"",
+"o": [
+"Berovingsprobleem",
+"Cao",
+"Armoedeval",
+"Secundaire arbeidsvoorwaarden"
+],
+"a": 0,
+"u": "Berovingsprobleem: Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken."
+},
+{
+"id": "F.v8.1.b06",
+"t": "mc",
+"e": "F.spel",
+"b": "Werknemerssurplus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.\"",
+"o": [
+"Werknemerssurplus",
+"Secundaire arbeidsvoorwaarden",
+"Centraal akkoord",
+"Onderhandelingsruimte"
+],
+"a": 0,
+"u": "Werknemerssurplus: Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken."
+},
+{
+"id": "F.v8.1.b07",
+"t": "mc",
+"e": "F.spel",
+"b": "Werkgeverssurplus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.\"",
+"o": [
+"Werkgeverssurplus",
+"Verticale integratie",
+"Armoedeval",
+"Centraal akkoord"
+],
+"a": 0,
+"u": "Werkgeverssurplus: Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt."
+},
+{
+"t": "open",
+"titel": "Een vrachtterminal voor Cargolijn",
+"q": "Luchthaven Veenland wil een vrachtterminal bouwen voor vrachtmaatschappij Cargolijn, die snijbloemen en groenten per vliegtuig vervoert. De terminal krijgt koelcellen en een laadsysteem dat precies past bij de vliegtuigen van Cargolijn. De terminal kost € 24 miljoen. Andere maatschappijen kunnen er met hun vliegtuigen niets mee. Daarnaast verlengt Veenland de taxibaan voor € 6 miljoen; die baan kunnen alle maatschappijen gebruiken.\nCargolijn heeft een alternatief: een regionale luchthaven op 60 kilometer afstand met vrije capaciteit, waar Cargolijn zonder noemenswaardige kosten naartoe kan verhuizen.\nVeenland overweegt om vooraf met Cargolijn af te spreken dat Cargolijn bij vertrek binnen tien jaar een vergoeding betaalt voor het deel van de terminalkosten dat dan nog niet is terugverdiend.\nLeg uit dat Luchthaven Veenland zonder de afspraak een berovingsprobleem kan krijgen en dat de afspraak over de vergoeding dit probleem beperkt.",
+"model": "De vrachtterminal is een specifieke investering: andere maatschappijen kunnen er niets mee, dus Veenland kan de € 24 miljoen niet anders terugverdienen. Dat zijn verzonken kosten. De taxibaan is voor alle maatschappijen bruikbaar en levert geen verzonken kosten op. Zonder afspraak is Veenland afhankelijk van Cargolijn. Cargolijn kan gemakkelijk naar de regionale luchthaven en daarmee dreigen om lagere havengelden af te dwingen. Veenland gaat daarmee akkoord, want een lage opbrengst is beter dan geen opbrengst. Dat is het berovingsprobleem. Met de vergoeding bij vertrek binnen tien jaar wordt vertrekken voor Cargolijn duur. De dreiging is dan minder sterk en Veenland kan minder worden beroofd.\nPuntenverdeling:\n• De terminal is een specifieke investering die alleen voor Cargolijn bruikbaar is (de taxibaan kunnen alle maatschappijen gebruiken), dus Veenland kan de kosten van de terminal op geen andere manier terugverdienen: verzonken kosten (1)\n• Zonder afspraak is Veenland afhankelijk van Cargolijn: Cargolijn kan dreigen naar de regionale luchthaven te verhuizen en lagere havengelden of betere voorwaarden eisen, en Veenland stemt daarmee in omdat een lagere opbrengst beter is dan geen opbrengst (berovingsprobleem) (1)\n• Met de vergoeding wordt vertrek binnen tien jaar duur voor Cargolijn, waardoor de dreiging minder geloofwaardig is, Cargolijn minder kan afdwingen en Veenland het risico van de investering kleiner is (1)",
+"pnt": 3,
+"id": "F.v8.1.IT00165",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Stoelen voor Nachtegaal",
+"q": "Meubelmaker Eikenhout levert stoelen aan hotelketen Nachtegaal, die een collectie met een afwijkende rugleuning wil. Eikenhout kan die alleen maken met een freesmachine en mal van samen € 150.000. Die specifieke investering is onbruikbaar voor andere klanten: de kosten zijn verzonken kosten.\nNachtegaal kan ook standaardstoelen bij een andere maker bestellen en vindt dat acceptabel. Er is nog geen contract; de prijs ligt niet vast. Eikenhout verdient zolang de prijs boven de variabele kosten per stoel ligt.\nLeg uit dat het berovingsprobleem ervoor zorgt dat Eikenhout twijfelt over de investering in de freesmachine en de mal.",
+"model": "Bij het berovingsprobleem maakt Eikenhout een specifieke investering: de machine en mal werken alleen voor Nachtegaal, dus de € 150.000 zijn verzonken kosten en Eikenhout wordt afhankelijk. Nachtegaal kan dan met een standaardstoel dreigen en een lagere prijs eisen. Eikenhout stemt toe, want een prijs boven de variabele kosten is beter dan niets terugverdienen. Eikenhout voorziet dit vooraf, verwacht dat de opbrengst lager uitvalt dan de investering en twijfelt daarom.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Door de specifieke investering zijn de € 150.000 verzonken kosten: de machine en mal zijn niet elders te gebruiken, dus Eikenhout wordt na de investering afhankelijk van Nachtegaal (1)\n• Nachtegaal kan na de investering een lagere prijs eisen (bijvoorbeeld door te dreigen met een standaardstoel van een andere maker) en Eikenhout stemt toe, omdat een prijs boven de variabele kosten beter is dan niets terugverdienen (1)\n• Eikenhout voorziet dit vooraf, verwacht dat de opbrengst lager is dan de investering en twijfelt daarom (of investeert pas met zekerheid, zoals een meerjarig contract) (1)",
+"pnt": 3,
+"id": "F.v8.1.IT00193",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Kaas voor Bergfris",
+"q": "Kaasmakerij Weidelust wil kaas leveren aan supermarktketen Bergfris. Daarvoor is een rijpingsinstallatie van € 120.000 nodig die voor geen enkele andere kaas geschikt is.\nWeidelust levert vijf jaar lang 50.000 kazen per jaar. Bij de huidige prijsafspraak houdt Weidelust € 0,60 per kaas over na aftrek van de variabele kosten. Er is niets schriftelijk vastgelegd.\nBergfris kan zonder kosten overstappen op een andere kaasmaker. Weidelust verwacht dat Bergfris na de eerste leveringen een prijs eist waarbij € 0,40 per kaas overblijft.\nLeg uit dat Weidelust te maken heeft met een berovingsprobleem en daarom twijfelt over de investering in de rijpingsinstallatie, ook al wordt de installatie bij de huidige prijsafspraak binnen vijf jaar terugverdiend.\nDoe het als volgt:\n- Leg uit waarom de kosten van de installatie verzonken kosten zijn en wat dat betekent voor de positie van Weidelust.\n- Leg uit waarom Bergfris na de investering een lagere prijs kan eisen.\n- Toon met een berekening aan dat Weidelust de installatie bij die lagere prijs niet terugverdient.",
+"model": "De installatie past alleen bij de kaas van Bergfris. De € 120.000 zijn dus verzonken kosten en Weidelust is afhankelijk van Bergfris. Bergfris kan daarom een lagere prijs eisen, want het kan zonder kosten overstappen. Weidelust stemt toe, want een kleine marge is beter dan niets. Bij € 0,40 is de opbrengst 50.000 × 0,40 × 5 = € 100.000, minder dan € 120.000. Weidelust twijfelt dus.\nPuntenverdeling:\n• De installatie is alleen bruikbaar voor de kaas van Bergfris, dus de kosten zijn verzonken kosten en Weidelust is na de investering afhankelijk van Bergfris. (1)\n• Bergfris kan na de investering een lagere prijs eisen, omdat het gemakkelijk kan overstappen, en Weidelust stemt toe, omdat elke marge boven nul beter is dan een ongebruikte installatie (Weidelust wordt als het ware 'beroofd' van een deel van de opbrengst). (1)\n• Bij € 0,40 per kaas is de opbrengst 50.000 × € 0,40 × 5 = € 100.000, minder dan € 120.000 (bij € 0,60 was dit € 150.000); Weidelust verwacht dit en twijfelt dus. (1)",
+"pnt": 3,
+"id": "F.v8.1.IT00194",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-II, vraag 27",
+"q": "(Examen vwo 2021-II, vraag 27)\nVerklaar dat het zuiveringsbedrijf bij de onderhandelingen met de vier grote bedrijven met een berovingsprobleem te maken heeft.",
+"model": "Het zuiveringsbedrijf heeft specifieke investeringen gedaan (verzonken kosten) die het alleen terugverdient met voldoende afvalwater. Daardoor kunnen de vier bedrijven het dwingen akkoord te gaan met een korting op de heffing.",
+"pnt": 2,
+"id": "F.v8.1.v2021II27",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-III, vraag 5",
+"q": "(Examen vwo 2021-III, vraag 5)\nEen club investeert in jeugdspeelsters, maar die kunnen vroeg vertrekken. De maatregel is dat vroege vertrekkers een vergoeding aan de club betalen. Leg uit hoe dit het berovingsprobleem deels beperkt.",
+"model": "De investering is specifiek en niet terug te verdienen bij vroeg vertrek, wat een berovingsprobleem geeft. De vergoeding dekt de kosten deels, dus het probleem wordt deels voorkomen.",
+"pnt": 2,
+"id": "F.v8.1.v2021III5",
+"e": "F.spel"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-III, vraag 19",
+"q": "(Examen vwo 2021-III, vraag 19)\nDe redactrice verwacht dat verzekeraars na 2021 een lagere prijs afdwingen. Leg uit dat het ziekenhuis daarom een meerjarig contract moet eisen om een berovingsprobleem te vermijden.",
+"model": "De investering is specifiek: bij overstap naar een ander ziekenhuis blijven vaste kosten onterugverdiend. Een meerjarig contract geeft zekerheid over opbrengsten en voorkomt het berovingsprobleem.",
+"pnt": 2,
+"id": "F.v8.1.v2021III19",
+"e": "F.spel"
+}
+],
+"gens": [],
+"doel": "Onder welke voorwaarden is onderhandeling over prijzen mogelijk?",
+"uitleg": [
+{
+"t": "Marktvorm en onderhandelingsruimte",
+"x": "Bij volledige mededinging valt er niets te onderhandelen: iedereen is prijsnemer. Bij een oligopolie, monopolistische concurrentie of monopolie (of een monopsonie: één vrager) is er wel onderhandelingsruimte.\nDe onderhandelingsruimte is het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs waarvoor de verkoper wil leveren (reserveringsprijs). De onderhandeling bepaalt hoe het totale surplus wordt verdeeld. Wie de meeste marktmacht of het beste alternatief heeft, krijgt het grootste deel."
+},
+{
+"t": "Hold-up (beroving)",
+"x": "Een relatiespecifieke investering heeft alleen waarde binnen één samenwerking. Na de investering zijn de kosten verzonken. De afnemer kan dan een lagere prijs eisen; de leverancier accepteert elke prijs die minstens zijn variabele kosten dekt. Zo wordt hij 'beroofd' van zijn surplus. Gevolg: zulke investeringen worden niet gedaan. Oplossingen: langetermijncontracten, verticale integratie (fusie) of wederzijdse zelfbinding.\nRationele beslissingen houden geen rekening met verzonken kosten, alleen met toekomstige kosten en baten."
+}
+]
+},
+{
+"id": "F.v8.2",
+"hfd": "Hoofdstuk 8 · Onderhandelen",
+"niv": "v",
+"naam": "§8.2 Loonvorming",
+"kort": "Hoe komen de arbeidsvoorwaarden tot stand?",
+"vragen": [
+{
+"id": "F.v8.2.m01",
+"t": "mc",
+"e": "I.werk",
+"q": "Het nominale loonindexcijfer is 112 en het prijsindexcijfer is 105. Hoe groot is het reële loonindexcijfer?",
+"o": [
+"106,7",
+"107",
+"117,6",
+"93,8"
+],
+"a": 0,
+"u": "112 : 105 × 100 = 106,7."
+},
+{
+"id": "F.v8.2.m02",
+"t": "mc",
+"e": "I.werk",
+"q": "De cao geeft 2,5% prijscompensatie en 1% initiële loonstijging. Een werknemer krijgt ook een periodiek van 2%. Hoe groot is de contractloonstijging?",
+"o": [
+"3,5%",
+"5,5%",
+"2,5%",
+"1%"
+],
+"a": 0,
+"u": "Contractloon = prijscompensatie + initieel. Het periodiek is incidenteel."
+},
+{
+"id": "F.v8.2.m03",
+"t": "mc",
+"e": "I.werk",
+"q": "Waarom leidt loonstarheid bij een negatieve vraagschok tot meer werkloosheid op korte termijn?",
+"o": [
+"De lonen dalen niet mee, dus werkgevers passen zich aan door minder mensen in dienst te nemen",
+"Omdat lonen dan juist stijgen",
+"Omdat de productiviteit stijgt",
+"Omdat de inflatie dan hoger wordt"
+],
+"a": 0,
+"u": "Als de prijs van arbeid niet daalt, past de hoeveelheid zich aan."
+},
+{
+"id": "F.v8.2.m04",
+"t": "mc",
+"e": "I.werk",
+"q": "De loonkosten van een werknemer zijn € 4.500 per maand. Zijn nettoloon is € 2.700. Hoe groot is de wig?",
+"o": [
+"€ 1.800",
+"€ 2.700",
+"€ 4.500",
+"€ 7.200"
+],
+"a": 0,
+"u": "Wig = loonkosten − nettoloon = 4.500 − 2.700."
+},
+{
+"id": "F.v8.2.m05",
+"t": "mc",
+"e": "I.werk",
+"q": "Waarom verklaart de minister een cao soms algemeen verbindend?",
+"o": [
+"Zodat werkgevers die niet bij de cao horen niet kunnen meeliften door lagere lonen te betalen",
+"Zodat vakbonden meer leden krijgen",
+"Zodat de lonen dalen",
+"Zodat de overheid minder belasting hoeft te heffen"
+],
+"a": 0,
+"u": "Avv voorkomt oneerlijke loonconcurrentie en meeliften."
+},
+{
+"id": "F.v8.2.m06",
+"t": "mc",
+"e": "I.werk",
+"q": "De inflatie is 3% en de arbeidsproductiviteit stijgt met 1,5%. Hoe groot is de loonruimte ongeveer?",
+"o": [
+"4,5%",
+"1,5%",
+"3%",
+"1,5 procentpunt minder dan de inflatie"
+],
+"a": 0,
+"u": "Loonruimte ≈ inflatie + productiviteitsstijging."
+},
+{
+"id": "F.v8.2.m07",
+"t": "mc",
+"e": "I.werk",
+"q": "Een werknemer krijgt 4% loonsverhoging. De inflatie is 3%. Wat is ongeveer zijn reële loonstijging?",
+"o": [
+"1%",
+"7%",
+"4%",
+"−1%"
+],
+"a": 0,
+"u": "Reëel ≈ nominaal − inflatie."
+},
+{
+"id": "F.v8.2.k01",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Centraal akkoord",
+"Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid."
+],
+[
+"Contractloonstijging",
+"De loonstijging uit de cao: prijscompensatie plus initiële loonstijging."
+],
+[
+"Armoedeval",
+"Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen."
+]
+],
+"u": "Centraal akkoord: Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid. Contractloonstijging: De loonstijging uit de cao: prijscompensatie plus initiële loonstijging. Armoedeval: Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen."
+},
+{
+"id": "F.v8.2.k02",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Reserveringsloon",
+"Het laagste loon waarvoor iemand bereid is te werken."
+],
+[
+"Cao",
+"Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers."
+],
+[
+"Algemeen verbindend verklaren",
+"Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak."
+]
+],
+"u": "Reserveringsloon: Het laagste loon waarvoor iemand bereid is te werken. Cao: Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers. Algemeen verbindend verklaren: Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak."
+},
+{
+"id": "F.v8.2.k03",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Wig",
+"Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer."
+],
+[
+"Prijscompensatie",
+"Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft."
+],
+[
+"Incidentele loonstijging",
+"Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar."
+]
+],
+"u": "Wig: Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer. Prijscompensatie: Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft. Incidentele loonstijging: Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar."
+},
+{
+"id": "F.v8.2.k04",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Loonruimte",
+"De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt."
+],
+[
+"Primaire arbeidsvoorwaarden",
+"Afspraken over loon en werktijden."
+],
+[
+"Secundaire arbeidsvoorwaarden",
+"Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak."
+]
+],
+"u": "Loonruimte: De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt. Primaire arbeidsvoorwaarden: Afspraken over loon en werktijden. Secundaire arbeidsvoorwaarden: Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak."
+},
+{
+"id": "F.v8.2.b01",
+"t": "mc",
+"e": "I.werk",
+"b": "Centraal akkoord",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid.\"",
+"o": [
+"Centraal akkoord",
+"Incidentele loonstijging",
+"Werkgeverssurplus",
+"Secundaire arbeidsvoorwaarden"
+],
+"a": 0,
+"u": "Centraal akkoord: Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid."
+},
+{
+"id": "F.v8.2.b02",
+"t": "mc",
+"e": "I.werk",
+"b": "Contractloonstijging",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De loonstijging uit de cao: prijscompensatie plus initiële loonstijging.\"",
+"o": [
+"Contractloonstijging",
+"Reserveringsloon",
+"Incidentele loonstijging",
+"Werknemerssurplus"
+],
+"a": 0,
+"u": "Contractloonstijging: De loonstijging uit de cao: prijscompensatie plus initiële loonstijging."
+},
+{
+"id": "F.v8.2.b03",
+"t": "mc",
+"e": "I.werk",
+"b": "Armoedeval",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen.\"",
+"o": [
+"Armoedeval",
+"Onderhandelingsruimte",
+"Wig",
+"Reserveringsloon"
+],
+"a": 0,
+"u": "Armoedeval: Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen."
+},
+{
+"id": "F.v8.2.b04",
+"t": "mc",
+"e": "I.werk",
+"b": "Reserveringsloon",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het laagste loon waarvoor iemand bereid is te werken.\"",
+"o": [
+"Reserveringsloon",
+"Loonruimte",
+"Onderhandelingsruimte",
+"Werkgeverssurplus"
+],
+"a": 0,
+"u": "Reserveringsloon: Het laagste loon waarvoor iemand bereid is te werken."
+},
+{
+"id": "F.v8.2.b05",
+"t": "mc",
+"e": "I.werk",
+"b": "Cao",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.\"",
+"o": [
+"Cao",
+"Wig",
+"Reserveringsloon",
+"Centraal akkoord"
+],
+"a": 0,
+"u": "Cao: Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers."
+},
+{
+"id": "F.v8.2.b06",
+"t": "mc",
+"e": "I.werk",
+"b": "Algemeen verbindend verklaren",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.\"",
+"o": [
+"Algemeen verbindend verklaren",
+"Loonruimte",
+"Wig",
+"Berovingsprobleem"
+],
+"a": 0,
+"u": "Algemeen verbindend verklaren: Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak."
+},
+{
+"id": "F.v8.2.b07",
+"t": "mc",
+"e": "I.werk",
+"b": "Wig",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.\"",
+"o": [
+"Wig",
+"Incidentele loonstijging",
+"Werkgeverssurplus",
+"Verticale integratie"
+],
+"a": 0,
+"u": "Wig: Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer."
+},
+{
+"id": "F.v8.2.b08",
+"t": "mc",
+"e": "I.werk",
+"b": "Prijscompensatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.\"",
+"o": [
+"Prijscompensatie",
+"Wig",
+"Loonruimte",
+"Verticale integratie"
+],
+"a": 0,
+"u": "Prijscompensatie: Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft."
+},
+{
+"id": "F.v8.2.b09",
+"t": "mc",
+"e": "I.werk",
+"b": "Incidentele loonstijging",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.\"",
+"o": [
+"Incidentele loonstijging",
+"Primaire arbeidsvoorwaarden",
+"Verticale integratie",
+"Secundaire arbeidsvoorwaarden"
+],
+"a": 0,
+"u": "Incidentele loonstijging: Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar."
+},
+{
+"id": "F.v8.2.b10",
+"t": "mc",
+"e": "I.werk",
+"b": "Loonruimte",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.\"",
+"o": [
+"Loonruimte",
+"Centraal akkoord",
+"Incidentele loonstijging",
+"Monopsonie"
+],
+"a": 0,
+"u": "Loonruimte: De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt."
+},
+{
+"id": "F.v8.2.b11",
+"t": "mc",
+"e": "I.werk",
+"b": "Primaire arbeidsvoorwaarden",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Afspraken over loon en werktijden.\"",
+"o": [
+"Primaire arbeidsvoorwaarden",
+"Berovingsprobleem",
+"Contractloonstijging",
+"Prijscompensatie"
+],
+"a": 0,
+"u": "Primaire arbeidsvoorwaarden: Afspraken over loon en werktijden."
+},
+{
+"id": "F.v8.2.b12",
+"t": "mc",
+"e": "I.werk",
+"b": "Secundaire arbeidsvoorwaarden",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.\"",
+"o": [
+"Secundaire arbeidsvoorwaarden",
+"Wig",
+"Berovingsprobleem",
+"Prijscompensatie"
+],
+"a": 0,
+"u": "Secundaire arbeidsvoorwaarden: Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak."
+}
+],
+"gens": [
+"werkloosheid",
+"reeelIndex"
+],
+"doel": "Hoe komen de arbeidsvoorwaarden tot stand?",
+"uitleg": [
+{
+"t": "Arbeidsovereenkomst",
+"x": "Een werknemer verplicht zich onder gezag tegen loon te werken. Lonen worden giraal betaald. Primaire voorwaarden: brutoloon, werkuren, vakantiegeld. Secundaire: pensioen, reiskosten, leaseauto, scholing. Einde: met wederzijds goedvinden, via kantonrechter of UWV, in de proeftijd, ontslag op staande voet of door faillissement."
+},
+{
+"t": "Evenwichtsloon en minimumloon",
+"x": "Evenwichtsloon: vraag naar arbeid = aanbod van arbeid. Werkgeverssurplus: wat de werknemer maximaal waard is (productiviteit) min het loon. Werknemerssurplus: het loon min het reserveringsloon. Ligt het minimumloon boven het evenwichtsloon, dan ontstaat werkloosheid aan de onderkant."
+},
+{
+"t": "Overlegmodel en loonruimte",
+"x": "Drie niveaus: centraal (Stichting van de Arbeid: centraal akkoord), bedrijfstak (sectorale cao, eventueel avv door de minister) en onderneming (ondernemings-cao).\nLoonruimte = verwachte inflatie + stijging van de arbeidsproductiviteit. Contractloonstijging = prijscompensatie + initiële loonstijging. Incidentele loonstijging is persoonlijk.\nLoonwig = loonkosten − nettoloon. Een hoge wig maakt arbeid duur voor werkgevers en werken minder lonend (armoedeval)."
+},
+{
+"t": "Loonstarheid en reëel loon",
+"x": "Nominale lonen zijn star: cao's lopen 1 à 2 jaar en werknemers accepteren geen nominale loonsverlaging. Daardoor leidt een negatieve schok op korte termijn tot minder productie en meer werkloosheid (koppeling met het IS-MB-GA-model).\nReëel loonindexcijfer = nominaal loonindexcijfer : prijsindexcijfer × 100."
+}
+]
 }
 ]);
 LEVELS.G.push(...[
@@ -5790,6 +11717,2756 @@ LEVELS.G.push(...[
 ]
 }
 ]);
-LEVELS.D.begrippen = Object.assign(LEVELS.D.begrippen||{}, {"Betalingsbereidheid": "Het hoogste bedrag dat een consument voor een product wil betalen.", "Consumentensurplus": "Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.", "Vraaglijn": "Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.", "Afzet": "De hoeveelheid verkochte producten in een bepaalde periode.", "Substitutiegoederen": "Goederen die elkaar volgens de consument kunnen vervangen.", "Complementaire goederen": "Goederen die elkaar aanvullen en vaak samen worden gebruikt.", "Ceteris paribus": "De aanname dat alle andere factoren gelijk blijven.", "Prijselasticiteit van de vraag": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.", "Prijsinelastische vraag": "Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.", "Omzet": "Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.", "Inkomenselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.", "Inferieur goed": "Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).", "Luxe goed": "Goed met een inkomenselasticiteit groter dan 1.", "Noodzakelijk goed": "Goed met een inkomenselasticiteit tussen 0 en 1.", "Constante kosten": "Kosten die niet veranderen als de productie toeneemt of afneemt.", "Variabele kosten": "Kosten die meeveranderen met de omvang van de productie.", "Marginale kosten": "De extra kosten van het produceren van één product meer.", "Marginale opbrengst": "De extra opbrengst van het verkopen van één product meer.", "Gemiddelde totale kosten": "De totale kosten gedeeld door de geproduceerde hoeveelheid.", "Consumentenprijs": "De verkoopprijs inclusief btw en andere prijsverhogende belastingen.", "Break-evenafzet": "De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.", "Break-evenomzet": "De omzet die hoort bij de break-evenafzet.", "Dekkingsbijdrage": "Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.", "Totale winst": "Totale opbrengst min totale kosten.", "Marginale winst": "De verandering van de totale winst bij één product meer: MO − MK.", "Gemiddelde winst": "De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.", "Producentensurplus": "Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.", "Verkoopbereidheid": "De laagste prijs waarvoor een producent een product wil verkopen.", "Collectieve aanbodlijn": "Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.", "Volledige mededinging": "Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.", "Homogene producten": "Producten die in de ogen van de koper precies hetzelfde zijn.", "Transparante markt": "Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien.", "Abstracte markt": "Het geheel van vraag en aanbod van een product, zonder vaste plaats.", "Concrete markt": "Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.", "Volkomen markt": "Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.", "Evenwichtsprijs": "De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Evenwichtshoeveelheid": "De verhandelde hoeveelheid bij de evenwichtsprijs.", "Aanbodoverschot": "Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.", "Bedrijfstakevenwicht": "Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.", "Toetreding": "Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.", "Uittreding": "Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.", "Optimale allocatie": "Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.", "Totaal surplus": "De som van het consumentensurplus en het producentensurplus.", "Externe effecten": "Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.", "Marketingmix": "De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.", "Octrooi": "Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.", "Kartel": "Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.", "Fusie": "Twee of meer ondernemingen die samen verdergaan als één onderneming.", "Franchising": "Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.", "Joint venture": "Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.", "Productdifferentiatie": "Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.", "Monopolie": "Marktvorm met één aanbieder tegenover veel vragers.", "Prijsdiscriminatie": "Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.", "Welvaartsverlies": "Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.", "Oligopolie": "Marktvorm met weinig aanbieders tegenover veel vragers.", "Monopolistische concurrentie": "Marktvorm met veel aanbieders van heterogene producten.", "Duopolie": "Marktvorm met twee aanbieders.", "Prijsleider": "De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.", "Collectieve goederen": "Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn.", "Quasi-collectieve goederen": "Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.", "Privatisering": "Het overdragen van een overheidstaak aan particuliere bedrijven.", "Deregulering": "Het verminderen van overheidsregels voor bedrijven en burgers.", "Maatschappelijke kosten": "Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.", "Nationalisatie": "Het overnemen van een particulier bedrijf door de overheid.", "Maximumprijs": "De hoogste prijs die een aanbieder van de overheid mag vragen.", "Zwarte markt": "Illegale handel tegen een hogere prijs dan de toegestane prijs.", "Aanbodtekort": "Situatie waarin bij een bepaalde prijs meer wordt gevraagd dan aangeboden (vraagoverschot).", "Minimumprijs": "De laagste prijs waarvoor een product van de overheid mag worden verkocht.", "Minimumloon": "Het wettelijk vastgestelde laagste loon dat een werkgever moet betalen.", "Accijns": "Een vast bedrag aan belasting per eenheid van een product.", "Indirecte belastingen": "Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.", "Subsidie": "Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.", "Quotum": "Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd.", "Autoriteit Consument en Markt": "Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.", "Zelfstandig bestuursorgaan": "Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt."});
-LEVELS.F.begrippen = Object.assign(LEVELS.F.begrippen||{}, {"Dominante strategie": "Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.", "Gevangenendilemma": "Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.", "Simultaan spel": "Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.", "Niet-coöperatief spel": "Spel waarin de spelers geen bindende afspraken kunnen maken.", "Nash-evenwicht": "Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.", "Tit-for-tatstrategie": "Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.", "Prijzenoorlog": "Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.", "Clementieregeling": "Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.", "Zelfbinding": "Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.", "Prijskartel": "Kartel waarin ondernemingen afspraken maken over de verkoopprijs.", "Meeliftersgedrag": "Profiteren van een goed of voorziening zonder eraan mee te betalen.", "Collectieve dwang": "Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.", "Individuele goederen": "Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.", "Sequentieel spel": "Spel waarin de spelers na elkaar kiezen en de keuze van de vorige speler kennen.", "Ultimatumspel": "Spel waarin één speler een verdeling voorstelt en de ander alleen kan accepteren of weigeren.", "Verzonken kosten": "Kosten die al gemaakt zijn en niet meer terug te verdienen zijn.", "Berovingsprobleem": "Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.", "Werknemerssurplus": "Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.", "Werkgeverssurplus": "Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.", "Cao": "Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.", "Algemeen verbindend verklaren": "Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.", "Wig": "Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.", "Prijscompensatie": "Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.", "Incidentele loonstijging": "Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.", "Loonruimte": "De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.", "Primaire arbeidsvoorwaarden": "Afspraken over loon en werktijden.", "Secundaire arbeidsvoorwaarden": "Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.", "Diepte-investering": "Investering waarbij arbeid wordt vervangen door kapitaal, zoals machines of robots.", "Sociale partners": "De werkgeversorganisaties en vakbonden die samen overleggen over arbeidsvoorwaarden.", "Stichting van de Arbeid": "Landelijk overlegorgaan van werkgevers en werknemers.", "Arbeidsmarkt": "De totale vraag naar en het totale aanbod van arbeid.", "Loonstarheid": "Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.", "Arbeidsaanbod": "De hoeveelheid arbeid die mensen willen en kunnen verrichten."});
+LEVELS.I.push(...[
+{
+"id": "I.v15.1",
+"hfd": "Hoofdstuk 15 · Conjunctuur",
+"niv": "v",
+"naam": "§15.1 Conjunctuurverschijnselen",
+"kort": "Op welke manier kan de conjunctuurbeweging in kaart worden gebracht?",
+"vragen": [
+{
+"id": "I.v15.1.m01",
+"t": "mc",
+"e": "I.conj",
+"q": "De potentiële productie is € 950 miljard en de feitelijke productie € 920 miljard. Wat is er aan de hand?",
+"o": [
+"Een negatieve output gap van € 30 miljard: laagconjunctuur",
+"Een positieve output gap van € 30 miljard: hoogconjunctuur",
+"Inflatie van 3%",
+"Een overbesteding"
+],
+"a": 0,
+"u": "Output gap = 920 − 950 = −30. De productie ligt onder het potentiële niveau."
+},
+{
+"id": "I.v15.1.m02",
+"t": "mc",
+"e": "I.conj",
+"q": "De inflatie daalt van 4% naar 2%. Wat betekent dit voor de prijzen?",
+"o": [
+"De prijzen stijgen nog steeds, maar minder snel",
+"De prijzen dalen",
+"De prijzen blijven gelijk",
+"Er is deflatie"
+],
+"a": 0,
+"u": "Afnemende inflatie is geen deflatie."
+},
+{
+"id": "I.v15.1.m03",
+"t": "mc",
+"e": "I.conj",
+"q": "Welk kenmerk hoort bij hoogconjunctuur?",
+"o": [
+"Overbesteding en kans op stijgende inflatie",
+"Toenemende werkloosheid",
+"Een negatieve output gap",
+"Dalende werkgelegenheid"
+],
+"a": 0,
+"u": "De bestedingen zijn groter dan wat de economie normaal kan maken."
+},
+{
+"id": "I.v15.1.k01",
+"t": "koppel",
+"e": "I.conj",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Output gap",
+"Het verschil tussen de feitelijke productie en de potentiële productie."
+],
+[
+"Hoogconjunctuur",
+"Periode waarin de feitelijke productie boven de potentiële productie ligt."
+],
+[
+"Laagconjunctuur",
+"Periode waarin de feitelijke productie onder de potentiële productie ligt."
+]
+],
+"u": "Output gap: Het verschil tussen de feitelijke productie en de potentiële productie. Hoogconjunctuur: Periode waarin de feitelijke productie boven de potentiële productie ligt. Laagconjunctuur: Periode waarin de feitelijke productie onder de potentiële productie ligt."
+},
+{
+"id": "I.v15.1.k02",
+"t": "koppel",
+"e": "I.conj",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Recessie",
+"Periode waarin de economie krimpt."
+],
+[
+"Consumentenvertrouwen",
+"Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie."
+],
+[
+"Producentenvertrouwen",
+"Mate waarin ondernemers optimistisch zijn over de afzet en de economie."
+]
+],
+"u": "Recessie: Periode waarin de economie krimpt. Consumentenvertrouwen: Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie. Producentenvertrouwen: Mate waarin ondernemers optimistisch zijn over de afzet en de economie."
+},
+{
+"id": "I.v15.1.b01",
+"t": "mc",
+"e": "I.conj",
+"b": "Output gap",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de feitelijke productie en de potentiële productie.\"",
+"o": [
+"Output gap",
+"Ingebouwde stabilisatoren",
+"Marginale spaarquote",
+"Inverdieneffect"
+],
+"a": 0,
+"u": "Output gap: Het verschil tussen de feitelijke productie en de potentiële productie."
+},
+{
+"id": "I.v15.1.b02",
+"t": "mc",
+"e": "I.conj",
+"b": "Hoogconjunctuur",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de feitelijke productie boven de potentiële productie ligt.\"",
+"o": [
+"Hoogconjunctuur",
+"Trend",
+"Ingebouwde stabilisatoren",
+"Anticyclisch conjunctuurbeleid"
+],
+"a": 0,
+"u": "Hoogconjunctuur: Periode waarin de feitelijke productie boven de potentiële productie ligt."
+},
+{
+"id": "I.v15.1.b03",
+"t": "mc",
+"e": "I.conj",
+"b": "Laagconjunctuur",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de feitelijke productie onder de potentiële productie ligt.\"",
+"o": [
+"Laagconjunctuur",
+"Output gap",
+"Naïeve inflatieverwachting",
+"Uitverdieneffect"
+],
+"a": 0,
+"u": "Laagconjunctuur: Periode waarin de feitelijke productie onder de potentiële productie ligt."
+},
+{
+"id": "I.v15.1.b04",
+"t": "mc",
+"e": "I.conj",
+"b": "Recessie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de economie krimpt.\"",
+"o": [
+"Recessie",
+"Spaarlek",
+"IS-curve",
+"Multiplier"
+],
+"a": 0,
+"u": "Recessie: Periode waarin de economie krimpt."
+},
+{
+"id": "I.v15.1.b05",
+"t": "mc",
+"e": "I.conj",
+"b": "Consumentenvertrouwen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie.\"",
+"o": [
+"Consumentenvertrouwen",
+"Laagconjunctuur",
+"Marginale spaarquote",
+"Belastinglek"
+],
+"a": 0,
+"u": "Consumentenvertrouwen: Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie."
+},
+{
+"id": "I.v15.1.b06",
+"t": "mc",
+"e": "I.conj",
+"b": "Producentenvertrouwen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mate waarin ondernemers optimistisch zijn over de afzet en de economie.\"",
+"o": [
+"Producentenvertrouwen",
+"Recessie",
+"Inverdieneffect",
+"Marginale spaarquote"
+],
+"a": 0,
+"u": "Producentenvertrouwen: Mate waarin ondernemers optimistisch zijn over de afzet en de economie."
+},
+{
+"id": "I.v15.1.b07",
+"t": "mc",
+"e": "I.conj",
+"b": "Trend",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De gemiddelde groei van het reële bbp over een lange periode.\"",
+"o": [
+"Trend",
+"Effectieve vraag",
+"Recessie",
+"Taylor-regel"
+],
+"a": 0,
+"u": "Trend: De gemiddelde groei van het reële bbp over een lange periode."
+},
+{
+"t": "open",
+"titel": "De formules voor reële groei",
+"q": "Het nominale bbp van Brevoria steeg van € 500 miljard in 2024 naar € 530 miljard in 2025. Het prijsindexcijfer van 2025 is 104,0 (2024 = 100).\nHet nominale indexcijfer van 2025 is ...(1)... . De reële groei bereken je met de formule Ric = ...(2)... . De reële groei van het bbp in 2025 is ...(3)... .\nMaak van onderstaande tekst een economisch juiste tekst.\nKies uit: bij (1) 94,3 / 106,0 / 530,0\nbij (2) Nic − Pic / Pic : Nic × 100 / Nic : Pic × 100\nbij (3) 1,9% / 2,0% / 6,0%",
+"model": "(1) 106,0, want 530 : 500 × 100. (2) Nic : Pic × 100. (3) 106,0 : 104,0 × 100 = 101,9, dus de reële groei is 1,9%.\nPuntenverdeling:\n• Bij (1) 106,0 en bij (2) Nic : Pic × 100 juist (1)\n• Bij (3) 1,9% (106,0 : 104,0 × 100 = 101,9) (1)",
+"pnt": 2,
+"id": "I.v15.1.IT00499",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Reële groei in Selmora",
+"q": "Selmora is een land met een open economie. De overheid wil weten hoe sterk de productie echt is gegroeid. Het prijsindexcijfer van 2025 is gegeven met 2024 als basisjaar (2024 = 100).\nGebruik de gegevens in de tabel.\nTabel Bbp en prijzen van Selmora:\nJaar | Nominaal bbp (€ miljard) | Prijsindexcijfer (2024 = 100)\n2024 | 820 | 100,0\n2025 | 861 | 102,5\nBereken de reële groei van het bbp van Selmora in 2025 ten opzichte van 2024. Geef het antwoord in procenten, afgerond op één decimaal.",
+"model": "Nominaal indexcijfer: 861 : 820 × 100 = 105,0. Reëel: 105,0 : 102,5 × 100 = 102,4. De reële groei is dus 2,4%.\nPuntenverdeling:\n• Nominaal indexcijfer: 861 : 820 × 100 = 105,0 (nominale groei 5,0%) (1)\n• Reëel indexcijfer: 105,0 : 102,5 × 100 = 102,4, dus de reële groei is 2,4% (1)",
+"pnt": 2,
+"id": "I.v15.1.IT00500",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Lomara: groei zonder inflatie",
+"q": "Lomara is een land dat veel exporteert. Het statistiekbureau van Lomara publiceert elk jaar het nominale bbp. In de tabel staat ook het prijsindexcijfer, met 2023 als basisjaar (2023 = 100).\nEen journalist schrijft dat het bbp in 2025 met 5,0% is gegroeid. Een econoom zegt dat de productie in werkelijkheid minder is toegenomen.\nTabel Bbp en prijzen van Lomara:\nJaar | Nominaal bbp (€ miljard) | Prijsindexcijfer (2023 = 100)\n2023 | 418 | 100,0\n2024 | 440 | 103,0\n2025 | 462 | 106,0\nBereken de reële groei van het bbp van Lomara in 2025 ten opzichte van 2024. Geef het antwoord in procenten, afgerond op één decimaal.\nDoe het als volgt:\n- Bereken de prijsstijging in 2025 ten opzichte van 2024.\n- Bereken de nominale groei als indexcijfer.\n- Bereken de reële groei.",
+"model": "Prijsindex 2025 t.o.v. 2024: 106,0 : 103,0 × 100 = 102,9. Nominaal: 462 : 440 × 100 = 105,0. Reëel: 105,0 : 102,9 × 100 = 102,0. De reële groei is 2,0%.\nPuntenverdeling:\n• Prijsindexcijfer 2025 ten opzichte van 2024: 106,0 : 103,0 × 100 = 102,9 (1)\n• Nominaal indexcijfer: 462 : 440 × 100 = 105,0 (1)\n• Reëel indexcijfer: 105,0 : 102,9 × 100 = 102,0, dus de reële groei is 2,0% (1)",
+"pnt": 3,
+"id": "I.v15.1.IT00501",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2026-I, vraag 27",
+"q": "(Examen vwo 2026-I, vraag 27)\nBereken met tabel 1 (hypotheekschuld in euro's en als % van het bbp, reële groei 2021 en 2022) de inflatie van begin 2021 tot eind 2022.",
+"model": "Bbp oud = 740,1 : 0,93 = 795,81 mld; bbp nieuw = 797,6 : 0,83 = 960,96 mld, dus nominaal +20,8%. Reëel: 1,049 × 1,045 → +9,6%. Inflatie = 120,8 : 109,6 × 100 = 110,2, dus 10,2%.",
+"pnt": 3,
+"id": "I.v15.1.v2026I27",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2026-II, vraag 2",
+"q": "(Examen vwo 2026-II, vraag 2)\nEen tabel geeft de rijstprijsindex (gewicht 20%), het nominaal bbp per hoofd en de stijging van de overige prijzen met 15%. Bereken de verandering van de koopkracht over 2019-2022 en beargumenteer of de voedselzekerheid is gestegen of gedaald.",
+"model": "Prijsindex: 151 × 0,20 + 115 × 0,80 = 122,2. Nominale groei: (2288 − 2050) : 2050 = 11,6%, index 111,6. Reëel: 111,6 : 122,2 × 100 = 91,3. Koopkracht gedaald, dus voedselzekerheid afgenomen. Drie scorepunten bij vier juiste elementen.",
+"pnt": 3,
+"id": "I.v15.1.v2026II2",
+"e": "I.conj"
+}
+],
+"gens": [
+"reeleGroei"
+],
+"doel": "Op welke manier kan de conjunctuurbeweging in kaart worden gebracht?",
+"uitleg": [
+{
+"t": "Conjunctuur en output gap",
+"x": "De conjunctuurbeweging is het schommelen van de groei van het reële bbp rond de trend. Een volledige golf van top tot top heet een conjunctuurcyclus. Crises in Nederland: de kredietcrisis (2008), de eurocrisis, de huizenmarktcrisis en de coronacrisis.\nOutput gap = feitelijke productie (Y) − potentiële productie (Ypot).\nLaagconjunctuur: negatieve output gap, onderbesteding, minder werkgelegenheid, meer werkloosheid, de inflatie neemt af. Hoogconjunctuur: positieve output gap, overbesteding, meer werkgelegenheid, minder werkloosheid, kans op hogere inflatie.\nLet op: als de inflatie afneemt, stijgen de prijzen nog steeds, alleen minder snel.\nEen recessie is een periode van krimp (in de praktijk: twee kwartalen op rij negatieve groei); een depressie is een lange, diepe recessie."
+},
+{
+"t": "Bestedingen",
+"x": "Y = C + I + O + E − M.\nC hangt af van het besteedbaar inkomen en het consumentenvertrouwen. I hangt af van het verwachte rendement, de verwachte groei, de bezettingsgraad en het producentenvertrouwen. E − M hangt af van de groei in het buitenland, de prijsverhouding met concurrenten en de wisselkoers. Hoe hoger het bbp, hoe meer import."
+}
+]
+},
+{
+"id": "I.v15.2",
+"hfd": "Hoofdstuk 15 · Conjunctuur",
+"niv": "v",
+"naam": "§15.2 Het keynesiaanse model",
+"kort": "Hoe verklaarde John Maynard Keynes veranderingen in het bbp?",
+"vragen": [
+{
+"id": "I.v15.2.m01",
+"t": "mc",
+"e": "I.conj",
+"q": "Y = 0,75(Y − 0,2Y) + 40 + 50 + 110. Hoe groot is het evenwichtsinkomen?",
+"o": [
+"500",
+"800",
+"200",
+"400"
+],
+"a": 0,
+"u": "Y = 0,6Y + 200, dus 0,4Y = 200 en Y = 500."
+},
+{
+"id": "I.v15.2.m02",
+"t": "mc",
+"e": "I.conj",
+"q": "In een model zonder belastingen is de marginale consumptiequote 0,8. De overheidsbestedingen stijgen met 10. Hoeveel stijgt Y?",
+"o": [
+"50",
+"10",
+"8",
+"12,5"
+],
+"a": 0,
+"u": "Multiplier = 1 : (1 − 0,8) = 5. ΔY = 5 × 10 = 50."
+},
+{
+"id": "I.v15.2.m03",
+"t": "mc",
+"e": "I.conj",
+"q": "Waarom zijn investeringen in het keynesiaanse model autonoom?",
+"o": [
+"Ze hangen af van moeilijk te meten zaken als vertrouwen (animal spirits), niet van het inkomen in het model",
+"Omdat de overheid ze vaststelt",
+"Omdat ze altijd gelijk zijn aan de besparingen",
+"Omdat ze negatief zijn"
+],
+"a": 0,
+"u": "Autonoom = niet afhankelijk van andere variabelen in het model."
+},
+{
+"id": "I.v15.2.k01",
+"t": "koppel",
+"e": "I.conj",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Effectieve vraag",
+"De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen."
+],
+[
+"Marginale consumptiequote",
+"Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie."
+],
+[
+"Marginale spaarquote",
+"Het deel van een extra euro besteedbaar inkomen dat wordt gespaard."
+]
+],
+"u": "Effectieve vraag: De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen. Marginale consumptiequote: Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie. Marginale spaarquote: Het deel van een extra euro besteedbaar inkomen dat wordt gespaard."
+},
+{
+"id": "I.v15.2.k02",
+"t": "koppel",
+"e": "I.conj",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Multiplier",
+"De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost."
+],
+[
+"Spaarlek",
+"Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen."
+],
+[
+"Belastinglek",
+"Het deel van een extra inkomen dat naar de overheid gaat als belasting."
+]
+],
+"u": "Multiplier: De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost. Spaarlek: Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen. Belastinglek: Het deel van een extra inkomen dat naar de overheid gaat als belasting."
+},
+{
+"id": "I.v15.2.b01",
+"t": "mc",
+"e": "I.conj",
+"b": "Effectieve vraag",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen.\"",
+"o": [
+"Effectieve vraag",
+"Ingebouwde stabilisatoren",
+"Conjuncturele werkloosheid",
+"Laagconjunctuur"
+],
+"a": 0,
+"u": "Effectieve vraag: De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen."
+},
+{
+"id": "I.v15.2.b02",
+"t": "mc",
+"e": "I.conj",
+"b": "Marginale consumptiequote",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie.\"",
+"o": [
+"Marginale consumptiequote",
+"Ingebouwde stabilisatoren",
+"Naïeve inflatieverwachting",
+"Trend"
+],
+"a": 0,
+"u": "Marginale consumptiequote: Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie."
+},
+{
+"id": "I.v15.2.b03",
+"t": "mc",
+"e": "I.conj",
+"b": "Marginale spaarquote",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra euro besteedbaar inkomen dat wordt gespaard.\"",
+"o": [
+"Marginale spaarquote",
+"Producentenvertrouwen",
+"Output gap",
+"Laagconjunctuur"
+],
+"a": 0,
+"u": "Marginale spaarquote: Het deel van een extra euro besteedbaar inkomen dat wordt gespaard."
+},
+{
+"id": "I.v15.2.b04",
+"t": "mc",
+"e": "I.conj",
+"b": "Multiplier",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost.\"",
+"o": [
+"Multiplier",
+"Anticyclisch conjunctuurbeleid",
+"Effectieve vraag",
+"Belastinglek"
+],
+"a": 0,
+"u": "Multiplier: De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost."
+},
+{
+"id": "I.v15.2.b05",
+"t": "mc",
+"e": "I.conj",
+"b": "Spaarlek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen.\"",
+"o": [
+"Spaarlek",
+"Naïeve inflatieverwachting",
+"Producentenvertrouwen",
+"Trend"
+],
+"a": 0,
+"u": "Spaarlek: Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen."
+},
+{
+"id": "I.v15.2.b06",
+"t": "mc",
+"e": "I.conj",
+"b": "Belastinglek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra inkomen dat naar de overheid gaat als belasting.\"",
+"o": [
+"Belastinglek",
+"Anticyclisch conjunctuurbeleid",
+"Consumentenvertrouwen",
+"Naïeve inflatieverwachting"
+],
+"a": 0,
+"u": "Belastinglek: Het deel van een extra inkomen dat naar de overheid gaat als belasting."
+},
+{
+"t": "open",
+"titel": "De kringloop van Brandvik",
+"q": "Brandvik is een klein land. In 2025 is het nationaal inkomen (Y) 800, de consumptie (C) 470, de overheidsbestedingen (O) 140, de uitvoer (E) 310 en de invoer (M) 280. Alle bedragen zijn in miljoen euro.\nTekst: Via de bestedingen geldt Y = C + ...(1)... + O + E − M. De investeringen in Brandvik zijn dan ...(2)... . Via het inkomen geldt Y = C + B + S. De letter B staat voor ...(3)... en de letter S voor ...(4)... .\nMaak van onderstaande tekst een economisch juiste tekst.\nKies uit: bij (1) I / S / B\nbij (2) € 160 miljoen / € 400 miljoen / € 100 miljoen\nbij (3) belastingen en premies / bestedingen van de overheid / besparingen\nbij (4) besparingen / bedrijfsinvesteringen / buitenlandse bestedingen",
+"model": "(1) I; (2) € 160 miljoen, want I = Y − C − O − E + M = 800 − 470 − 140 − 310 + 280 = 160; (3) belastingen en premies; (4) besparingen.\nPuntenverdeling:\n• Per juiste keuze geen aparte score; ken de punten toe per paar. bij (1) I en bij (2) € 160 miljoen (1)\n• bij (3) belastingen en premies en bij (4) besparingen (1)",
+"pnt": 2,
+"id": "I.v15.2.IT00492",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "De economie van Tarvik",
+"q": "Tarvik is een eilandstaat met een kleine, open economie. De tabel geeft de gegevens van de kringloop in 2025. Het bedrag voor de investeringen (I) en de besparingen (S) ontbreekt nog.\nTabel Kringloop Tarvik 2025 (in miljoen euro):\nPost | Bedrag\nNationaal inkomen (Y) | 1.200\nConsumptie (C) | 700\nBelastingen en premies (B) | 300\nOverheidsbestedingen (O) | 280\nUitvoer (E) | 420\nInvoer (M) | 380\nBereken de investeringen (I) en de besparingen (S) van Tarvik in 2025.\nDoe het als volgt:\n- Herschik eerst de formule Y = C + I + O + E − M naar I.\n- Herschik daarna Y = C + B + S naar S.",
+"model": "I = Y − C − O − E + M = 1.200 − 700 − 280 − 420 + 380 = € 180 miljoen. S = Y − B − C = 1.200 − 300 − 700 = € 200 miljoen.\nPuntenverdeling:\n• Een los eindantwoord zonder berekening levert 0 punten op. Herschikken van de formule: I = Y − C − O − E + M (1)\n• I = 1.200 − 700 − 280 − 420 + 380 = 180 (miljoen euro) (1)\n• S = Y − B − C = 1.200 − 300 − 700 = 200 (miljoen euro) (1)",
+"pnt": 3,
+"id": "I.v15.2.IT00493",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Kringloop van Dorsmark",
+"q": "Dorsmark is een land met een open economie. Bron 1 toont de kringloop van Dorsmark in 2025. Alle bedragen staan in miljoen euro.\nDe investeringen (I) en de besparingen (S) zijn nog niet ingevuld. Het nationaal inkomen (Y) is gelijk aan de totale bestedingen.\nKringloop (in miljarden): nationaal inkomen (Y) = 1.500, consumptie (C) = 860, belastingen (B) = 400, overheidsbestedingen (O) = 450, export (E) = 520, import (M) = 560\nBereken de investeringen (I) en de besparingen (S) van Dorsmark in 2025.\nGebruik bron 1.",
+"model": "I = Y − C − O − E + M = 1.500 − 860 − 450 − 520 + 560 = € 230 miljoen. S = Y − B − C = 1.500 − 400 − 860 = € 240 miljoen.\nPuntenverdeling:\n• Een los eindantwoord zonder berekening levert 0 punten op. Rekenfout: maximaal 1 scorepunt aftrek. Investeringen: I = Y − C − O − E + M = 1.500 − 860 − 450 − 520 + 560 = € 230 miljoen (1)\n• Besparingen: S = Y − B − C = 1.500 − 400 − 860 = € 240 miljoen (1)",
+"pnt": 2,
+"id": "I.v15.2.IT00495",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2018-I, vraag 15",
+"q": "(Examen vwo 2018-I, vraag 15)\nTabel met consumptie, investeringen, overheidsbestedingen, invoer en bbp voor 2015 (uitvoer ontbreekt); 2014: 10,73%. Toon met een berekening aan dat het uitvoersaldo in 2015 een hoger percentage van het bbp is.",
+"model": "667,7 = 298,9 + 101,5 + 194,1 + uitvoer − 491,1, dus uitvoer = 564,3. Saldo (564,3 − 491,1) : 667,7 × 100% = 10,96%, hoger dan 10,73%.",
+"pnt": 2,
+"id": "I.v15.2.v2018I15",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 23",
+"q": "(Examen vwo 2021-I, vraag 23)\nGegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.",
+"model": "S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.",
+"pnt": 2,
+"id": "I.v15.2.v2021I23",
+"e": "I.conj"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2023-II, vraag 1",
+"q": "(Examen vwo 2023-II, vraag 1)\nLaat met een berekening zien dat het nationaal inkomen in 2000 € 350 miljard bedraagt, aan de hand van de bedragen in het kringloopmodel.",
+"model": "Y = C + I + O + E − M = 199 + 28 + 106 + 197 − 180 = 350 (miljard euro).",
+"pnt": 1,
+"id": "I.v15.2.v2023II1",
+"e": "I.conj"
+}
+],
+"gens": [],
+"doel": "Hoe verklaarde John Maynard Keynes veranderingen in het bbp?",
+"uitleg": [
+{
+"t": "Effectieve vraag",
+"x": "De effectieve vraag (EV) is de vraag naar goederen en diensten zoals die blijkt uit de bestedingen. In een gesloten economie: EV = C + I + O.\nC = c(Y − B) + Cauto. c is de marginale consumptiequote: het deel van elke extra euro besteedbaar inkomen dat wordt geconsumeerd. 1 − c is de marginale spaarquote.\nI is autonoom: het hangt af van vertrouwen ('animal spirits'). O is autonoom: de regering en het parlement stellen het vast."
+},
+{
+"t": "Evenwicht en multiplier",
+"x": "Volgens Keynes past de productie zich aan de vraag aan: Y = EV.\nVoorbeeld: Y = 0,8(Y − 0,25Y) + 30 + 60 + 210. Dan Y = 0,6Y + 300, dus 0,4Y = 300 en Y = 750 (evenwichtsinkomen).\nDe multiplier geeft aan hoeveel het evenwichtsinkomen verandert als een autonome post met 1 verandert. Zonder belastingen: 1 : (1 − c). Met een belastingtarief t: 1 : (1 − c(1 − t)). In het voorbeeld 1 : 0,4 = 2,5.\nLekken: sparen (spaarlek), belastingen (belastinglek) en import zorgen dat de multiplier niet oneindig is.\nHet evenwichtsinkomen kan lager zijn dan de productiecapaciteit: dan is er conjuncturele werkloosheid."
+}
+]
+},
+{
+"id": "I.v15.3",
+"hfd": "Hoofdstuk 15 · Conjunctuur",
+"niv": "v",
+"naam": "§15.3 Het IS-MB-GA-model",
+"kort": "Hoe verklaart een moderne theorie het niveau van productie en inflatie?",
+"vragen": [
+{
+"id": "I.v15.3.m01",
+"t": "mc",
+"e": "I.conj",
+"q": "De inflatie ligt ruim boven het doel van de centrale bank. Wat doet de centrale bank volgens de MB-curve?",
+"o": [
+"De rente verhogen, zodat de bestedingen en de inflatie dalen",
+"De rente verlagen",
+"De overheidsbestedingen verhogen",
+"De belastingen verlagen"
+],
+"a": 0,
+"u": "Een hogere rente remt investeringen en consumptie op krediet."
+},
+{
+"id": "I.v15.3.m02",
+"t": "mc",
+"e": "I.conj",
+"q": "Waarom loopt de IS-curve dalend?",
+"o": [
+"Bij een hogere rente investeren bedrijven minder, waardoor de effectieve vraag en het evenwichtsinkomen lager zijn",
+"Omdat de inflatie stijgt bij een hogere productie",
+"Omdat de overheid bij een hogere rente meer uitgeeft",
+"Omdat sparen bij een hogere rente minder aantrekkelijk is"
+],
+"a": 0,
+"u": "Rente omhoog, I omlaag, Y omlaag."
+},
+{
+"id": "I.v15.3.k01",
+"t": "koppel",
+"e": "I.conj",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"IS-curve",
+"Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag."
+],
+[
+"Taylor-regel",
+"Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap."
+],
+[
+"Naïeve inflatieverwachting",
+"De verwachting dat de inflatie gelijk blijft aan die van de vorige periode."
+]
+],
+"u": "IS-curve: Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag. Taylor-regel: Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap. Naïeve inflatieverwachting: De verwachting dat de inflatie gelijk blijft aan die van de vorige periode."
+},
+{
+"id": "I.v15.3.b01",
+"t": "mc",
+"e": "I.conj",
+"b": "IS-curve",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag.\"",
+"o": [
+"IS-curve",
+"Taylor-regel",
+"Recessie",
+"Trend"
+],
+"a": 0,
+"u": "IS-curve: Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag."
+},
+{
+"id": "I.v15.3.b02",
+"t": "mc",
+"e": "I.conj",
+"b": "Taylor-regel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap.\"",
+"o": [
+"Taylor-regel",
+"Ingebouwde stabilisatoren",
+"Consumentenvertrouwen",
+"Uitverdieneffect"
+],
+"a": 0,
+"u": "Taylor-regel: Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap."
+},
+{
+"id": "I.v15.3.b03",
+"t": "mc",
+"e": "I.conj",
+"b": "Naïeve inflatieverwachting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verwachting dat de inflatie gelijk blijft aan die van de vorige periode.\"",
+"o": [
+"Naïeve inflatieverwachting",
+"Effectieve vraag",
+"Uitverdieneffect",
+"Spaarlek"
+],
+"a": 0,
+"u": "Naïeve inflatieverwachting: De verwachting dat de inflatie gelijk blijft aan die van de vorige periode."
+}
+],
+"gens": [],
+"doel": "Hoe verklaart een moderne theorie het niveau van productie en inflatie?",
+"uitleg": [
+{
+"t": "IS-curve",
+"x": "In een gesloten economie geldt in evenwicht I + O = S + B. De IS-curve geeft het verband tussen de rente en het evenwichtsinkomen waarbij die gelijkheid geldt, dus waarbij Y gelijk is aan de effectieve vraag. Een hogere rente remt de investeringen en dus het evenwichtsinkomen: de IS-curve loopt dalend."
+},
+{
+"t": "MB- en GA-curve",
+"x": "De MB-curve (monetair beleid): de centrale bank verhoogt de rente als de inflatie boven haar doel ligt en verlaagt die als de inflatie eronder ligt (Taylor-regel).\nDe GA-curve (geaggregeerd aanbod) geeft het verband tussen de productie en de inflatie. Bij een positieve output gap stijgt de inflatie, bij een negatieve output gap daalt ze. Met naïeve inflatieverwachtingen verwachten mensen dat de inflatie van vorig jaar ook dit jaar geldt.\nWisselwerking: een positieve output gap geeft hogere inflatie, de centrale bank verhoogt de rente, de bestedingen dalen en Y gaat terug naar het potentiële niveau."
+}
+]
+},
+{
+"id": "I.v15.4",
+"hfd": "Hoofdstuk 15 · Conjunctuur",
+"niv": "v",
+"naam": "§15.4 Conjunctuurbeleid",
+"kort": "Welke instrumenten heeft de overheid om de conjunctuurbeweging te beïnvloeden?",
+"vragen": [
+{
+"id": "I.v15.4.m01",
+"t": "mc",
+"e": "I.beleid",
+"q": "Tijdens een recessie verlaagt de overheid de belastingen en verhoogt ze haar investeringen. Welk beleid is dit?",
+"o": [
+"Anticyclisch begrotingsbeleid",
+"Procyclisch begrotingsbeleid",
+"Monetair beleid",
+"Structureel beleid"
+],
+"a": 0,
+"u": "Stimuleren in een laagconjunctuur gaat tegen de cyclus in."
+},
+{
+"id": "I.v15.4.m02",
+"t": "mc",
+"e": "I.beleid",
+"q": "Waarom werkt de WW als ingebouwde stabilisator?",
+"o": [
+"In laagconjunctuur stijgen de WW-uitkeringen automatisch, waardoor het besteedbaar inkomen minder daalt",
+"Omdat de WW-premie in laagconjunctuur stijgt",
+"Omdat de overheid de WW afschaft in hoogconjunctuur",
+"Omdat werklozen meer sparen"
+],
+"a": 0,
+"u": "Zonder nieuw besluit dempen de uitkeringen de daling van de bestedingen."
+},
+{
+"id": "I.v15.4.m03",
+"t": "mc",
+"e": "I.beleid",
+"q": "De overheid bezuinigt € 10 miljard. Door de krimp van de economie dalen de belastingontvangsten met € 3 miljard. Hoe heet die € 3 miljard?",
+"o": [
+"Een uitverdieneffect",
+"Een inverdieneffect",
+"De multiplier",
+"Een spaarlek"
+],
+"a": 0,
+"u": "Een bezuiniging verdient zichzelf deels uit."
+},
+{
+"id": "I.v15.4.k01",
+"t": "koppel",
+"e": "I.beleid",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Anticyclisch conjunctuurbeleid",
+"Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur."
+],
+[
+"Ingebouwde stabilisatoren",
+"Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen."
+],
+[
+"Inverdieneffect",
+"Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen."
+]
+],
+"u": "Anticyclisch conjunctuurbeleid: Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur. Ingebouwde stabilisatoren: Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen. Inverdieneffect: Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen."
+},
+{
+"id": "I.v15.4.b01",
+"t": "mc",
+"e": "I.beleid",
+"b": "Anticyclisch conjunctuurbeleid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur.\"",
+"o": [
+"Anticyclisch conjunctuurbeleid",
+"Effectieve vraag",
+"Spaarlek",
+"Consumentenvertrouwen"
+],
+"a": 0,
+"u": "Anticyclisch conjunctuurbeleid: Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur."
+},
+{
+"id": "I.v15.4.b02",
+"t": "mc",
+"e": "I.beleid",
+"b": "Ingebouwde stabilisatoren",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen.\"",
+"o": [
+"Ingebouwde stabilisatoren",
+"Taylor-regel",
+"Belastinglek",
+"Anticyclisch conjunctuurbeleid"
+],
+"a": 0,
+"u": "Ingebouwde stabilisatoren: Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen."
+},
+{
+"id": "I.v15.4.b03",
+"t": "mc",
+"e": "I.beleid",
+"b": "Inverdieneffect",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen.\"",
+"o": [
+"Inverdieneffect",
+"Effectieve vraag",
+"Ingebouwde stabilisatoren",
+"Belastinglek"
+],
+"a": 0,
+"u": "Inverdieneffect: Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen."
+},
+{
+"id": "I.v15.4.b04",
+"t": "mc",
+"e": "I.beleid",
+"b": "Uitverdieneffect",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt.\"",
+"o": [
+"Uitverdieneffect",
+"Laagconjunctuur",
+"Effectieve vraag",
+"Inverdieneffect"
+],
+"a": 0,
+"u": "Uitverdieneffect: Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt."
+},
+{
+"id": "I.v15.4.b05",
+"t": "mc",
+"e": "I.beleid",
+"b": "Conjuncturele werkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit.\"",
+"o": [
+"Conjuncturele werkloosheid",
+"Taylor-regel",
+"Producentenvertrouwen",
+"Hoogconjunctuur"
+],
+"a": 0,
+"u": "Conjuncturele werkloosheid: Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit."
+}
+],
+"gens": [
+"begrotingssaldo"
+],
+"doel": "Welke instrumenten heeft de overheid om de conjunctuurbeweging te beïnvloeden?",
+"uitleg": [
+{
+"t": "Anticyclisch beleid",
+"x": "De overheid dempt de conjunctuur: in laagconjunctuur stimuleren (meer uitgeven, minder belasting), in hoogconjunctuur afremmen. Instrumenten: begrotingsbeleid (overheid) en monetair beleid (rente van de centrale bank).\nIngebouwde stabilisatoren: uitkeringen en progressieve belastingen dempen automatisch. In laagconjunctuur stijgen de uitkeringen en dalen de belastingontvangsten, waardoor de bestedingen minder hard dalen.\nInverdieneffecten: een deel van extra overheidsuitgaven komt terug via hogere belastingontvangsten en lagere uitkeringen. Uitverdieneffecten: een bezuiniging levert minder op dan gedacht, doordat de economie krimpt."
+}
+]
+},
+{
+"id": "I.v16.1",
+"hfd": "Hoofdstuk 16 · Werk en werkloosheid",
+"niv": "v",
+"naam": "§16.1 Beroepsbevolking",
+"kort": "Wat is de relatie tussen de beroepsbevolking, werkgelegenheid en werkloosheid?",
+"vragen": [
+{
+"id": "I.v16.1.m01",
+"t": "mc",
+"e": "I.werk",
+"q": "De beroepsgeschikte bevolking is 13,3 miljoen. De beroepsbevolking is 10 miljoen. Hoe groot is de brutoparticipatiegraad?",
+"o": [
+"75,2%",
+"133%",
+"24,8%",
+"3%"
+],
+"a": 0,
+"u": "10 : 13,3 × 100% = 75,2%."
+},
+{
+"id": "I.v16.1.m02",
+"t": "mc",
+"e": "I.werk",
+"q": "In een laagconjunctuur stoppen veel mensen met zoeken naar werk. Wat gebeurt er met het officiële werkloosheidspercentage?",
+"o": [
+"Het stijgt minder dan je zou verwachten, omdat deze mensen niet meer tot de beroepsbevolking worden gerekend",
+"Het stijgt extra hard",
+"Het daalt altijd",
+"Het verandert niet, want verborgen werklozen tellen mee"
+],
+"a": 0,
+"u": "Het ontmoedigingseffect verbergt een deel van de werkloosheid."
+},
+{
+"id": "I.v16.1.m03",
+"t": "mc",
+"e": "I.werk",
+"q": "Bij welke groep hoort een student die 4 uur per week in een supermarkt werkt?",
+"o": [
+"De werkzame beroepsbevolking",
+"De niet-beroepsbevolking",
+"De werkloze beroepsbevolking",
+"De verborgen werklozen"
+],
+"a": 0,
+"u": "Minstens 1 uur per week betaald werk telt mee."
+},
+{
+"id": "I.v16.1.k01",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Beroepsbevolking",
+"Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn."
+],
+[
+"Werkgelegenheid",
+"De vraag naar arbeid: het aantal bezette banen plus de vacatures."
+],
+[
+"Verborgen werkloosheid",
+"Mensen die werk willen maar niet als werkzoekend staan geregistreerd."
+]
+],
+"u": "Beroepsbevolking: Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn. Werkgelegenheid: De vraag naar arbeid: het aantal bezette banen plus de vacatures. Verborgen werkloosheid: Mensen die werk willen maar niet als werkzoekend staan geregistreerd."
+},
+{
+"id": "I.v16.1.k02",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Bruto arbeidsparticipatie",
+"De beroepsbevolking als percentage van de beroepsgeschikte bevolking."
+],
+[
+"Arbeidsjaar",
+"Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar."
+],
+[
+"Ontmoedigingseffect",
+"Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is."
+]
+],
+"u": "Bruto arbeidsparticipatie: De beroepsbevolking als percentage van de beroepsgeschikte bevolking. Arbeidsjaar: Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar. Ontmoedigingseffect: Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is."
+},
+{
+"id": "I.v16.1.b01",
+"t": "mc",
+"e": "I.werk",
+"b": "Beroepsbevolking",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn.\"",
+"o": [
+"Beroepsbevolking",
+"Arbeidsjaar",
+"Werkgelegenheid",
+"Frictiewerkloosheid"
+],
+"a": 0,
+"u": "Beroepsbevolking: Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn."
+},
+{
+"id": "I.v16.1.b02",
+"t": "mc",
+"e": "I.werk",
+"b": "Werkgelegenheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De vraag naar arbeid: het aantal bezette banen plus de vacatures.\"",
+"o": [
+"Werkgelegenheid",
+"Kwantitatieve structurele werkloosheid",
+"Loonstarheid",
+"Beroepsbevolking"
+],
+"a": 0,
+"u": "Werkgelegenheid: De vraag naar arbeid: het aantal bezette banen plus de vacatures."
+},
+{
+"id": "I.v16.1.b03",
+"t": "mc",
+"e": "I.werk",
+"b": "Verborgen werkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen die werk willen maar niet als werkzoekend staan geregistreerd.\"",
+"o": [
+"Verborgen werkloosheid",
+"Gespannen arbeidsmarkt",
+"Bruto arbeidsparticipatie",
+"Beroepsbevolking"
+],
+"a": 0,
+"u": "Verborgen werkloosheid: Mensen die werk willen maar niet als werkzoekend staan geregistreerd."
+},
+{
+"id": "I.v16.1.b04",
+"t": "mc",
+"e": "I.werk",
+"b": "Bruto arbeidsparticipatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De beroepsbevolking als percentage van de beroepsgeschikte bevolking.\"",
+"o": [
+"Bruto arbeidsparticipatie",
+"Verborgen werkloosheid",
+"Ontmoedigingseffect",
+"Arbeidsaanbod"
+],
+"a": 0,
+"u": "Bruto arbeidsparticipatie: De beroepsbevolking als percentage van de beroepsgeschikte bevolking."
+},
+{
+"id": "I.v16.1.b05",
+"t": "mc",
+"e": "I.werk",
+"b": "Arbeidsjaar",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar.\"",
+"o": [
+"Arbeidsjaar",
+"Arbeidsaanbod",
+"Loonstarheid",
+"Frictiewerkloosheid"
+],
+"a": 0,
+"u": "Arbeidsjaar: Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar."
+},
+{
+"id": "I.v16.1.b06",
+"t": "mc",
+"e": "I.werk",
+"b": "Ontmoedigingseffect",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is.\"",
+"o": [
+"Ontmoedigingseffect",
+"Kwantitatieve structurele werkloosheid",
+"Frictiewerkloosheid",
+"Gespannen arbeidsmarkt"
+],
+"a": 0,
+"u": "Ontmoedigingseffect: Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is."
+}
+],
+"gens": [
+"werkloosheid"
+],
+"doel": "Wat is de relatie tussen de beroepsbevolking, werkgelegenheid en werkloosheid?",
+"uitleg": [
+{
+"t": "Vraag naar en aanbod van arbeid",
+"x": "Vraag naar arbeid (werkgelegenheid) = werkenden + vacatures. Aanbod van arbeid (beroepsbevolking) = alle mensen van 15 tot 75 jaar die minstens 1 uur per week betaald werken, of die recent werk hebben gezocht en direct beschikbaar zijn.\nOpbouw (voorbeeld): bevolking 17,8 mln. Daarvan 13,3 mln tussen 15 en 75 jaar (beroepsgeschikte bevolking): 10 mln beroepsbevolking (9,7 mln werkzaam en 0,3 mln werkloos) en 3,3 mln niet-beroepsbevolking.\nWerkloosheidspercentage = werklozen : beroepsbevolking × 100%."
+},
+{
+"t": "Verborgen werkloosheid en stromen",
+"x": "Verborgen werkloosheid: mensen die wel werk willen maar niet als werkzoekend staan geregistreerd (baanloze partners, ontmoedigde jongeren, arbeidsongeschikten die met voorzieningen zouden kunnen werken). Verborgen werkgelegenheid: zwart werk.\nAanmoedigingseffect: in hoogconjunctuur gaan meer mensen werk zoeken. Ontmoedigingseffect: in laagconjunctuur trekken mensen zich terug.\nBrutoparticipatiegraad = beroepsbevolking : beroepsgeschikte bevolking. De i/a-ratio = inactieven : actieven.\nEen arbeidsjaar is een maatstaf voor het arbeidsvolume: het aantal uren van een voltijdbaan in een jaar."
+}
+]
+},
+{
+"id": "I.v16.2",
+"hfd": "Hoofdstuk 16 · Werk en werkloosheid",
+"niv": "v",
+"naam": "§16.2 Oorzaken van werkloosheid",
+"kort": "Waarom is het zinvol om onderscheid te maken tussen structurele en conjuncturele werkloosheid?",
+"vragen": [
+{
+"id": "I.v16.2.m01",
+"t": "mc",
+"e": "I.werk",
+"q": "Er zijn veel vacatures voor technici, terwijl veel werklozen een administratieve opleiding hebben. Welke werkloosheid is dit?",
+"o": [
+"Kwalitatieve structurele werkloosheid",
+"Conjuncturele werkloosheid",
+"Kwantitatieve structurele werkloosheid",
+"Seizoenswerkloosheid"
+],
+"a": 0,
+"u": "Er is werk, maar het past niet bij de werkzoekenden."
+},
+{
+"id": "I.v16.2.m02",
+"t": "mc",
+"e": "I.werk",
+"q": "Welk beleid past bij conjuncturele werkloosheid?",
+"o": [
+"De effectieve vraag vergroten, bijvoorbeeld met extra overheidsinvesteringen",
+"Omscholing van werklozen",
+"Loonmatiging om de concurrentiepositie te verbeteren",
+"Vakantiespreiding"
+],
+"a": 0,
+"u": "Conjuncturele werkloosheid komt door te weinig bestedingen."
+},
+{
+"id": "I.v16.2.m03",
+"t": "mc",
+"e": "I.werk",
+"q": "Welke werkloosheid daalt door de vakanties van scholen over het land te spreiden?",
+"o": [
+"Seizoenswerkloosheid",
+"Frictiewerkloosheid",
+"Conjuncturele werkloosheid",
+"Kwantitatieve structurele werkloosheid"
+],
+"a": 0,
+"u": "Het toeristenseizoen wordt langer, zodat horeca langer werk heeft."
+},
+{
+"id": "I.v16.2.k01",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Kwalitatieve structurele werkloosheid",
+"Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures."
+],
+[
+"Kwantitatieve structurele werkloosheid",
+"Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn."
+],
+[
+"Frictiewerkloosheid",
+"Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan."
+]
+],
+"u": "Kwalitatieve structurele werkloosheid: Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures. Kwantitatieve structurele werkloosheid: Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn. Frictiewerkloosheid: Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan."
+},
+{
+"id": "I.v16.2.b01",
+"t": "mc",
+"e": "I.werk",
+"b": "Kwalitatieve structurele werkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures.\"",
+"o": [
+"Kwalitatieve structurele werkloosheid",
+"Ontmoedigingseffect",
+"Beroepsbevolking",
+"Kwantitatieve structurele werkloosheid"
+],
+"a": 0,
+"u": "Kwalitatieve structurele werkloosheid: Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures."
+},
+{
+"id": "I.v16.2.b02",
+"t": "mc",
+"e": "I.werk",
+"b": "Kwantitatieve structurele werkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn.\"",
+"o": [
+"Kwantitatieve structurele werkloosheid",
+"Loonstarheid",
+"Beroepsbevolking",
+"Werkgelegenheid"
+],
+"a": 0,
+"u": "Kwantitatieve structurele werkloosheid: Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn."
+},
+{
+"id": "I.v16.2.b03",
+"t": "mc",
+"e": "I.werk",
+"b": "Frictiewerkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan.\"",
+"o": [
+"Frictiewerkloosheid",
+"Beroepsbevolking",
+"Arbeidsaanbod",
+"Kwalitatieve structurele werkloosheid"
+],
+"a": 0,
+"u": "Frictiewerkloosheid: Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan."
+},
+{
+"id": "I.v16.2.b04",
+"t": "mc",
+"e": "I.werk",
+"b": "Seizoenswerkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid door seizoensschommelingen in de bedrijvigheid.\"",
+"o": [
+"Seizoenswerkloosheid",
+"Ontmoedigingseffect",
+"Natuurlijke werkloosheid",
+"Bruto arbeidsparticipatie"
+],
+"a": 0,
+"u": "Seizoenswerkloosheid: Werkloosheid door seizoensschommelingen in de bedrijvigheid."
+},
+{
+"id": "I.v16.2.b05",
+"t": "mc",
+"e": "I.werk",
+"b": "Natuurlijke werkloosheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie.\"",
+"o": [
+"Natuurlijke werkloosheid",
+"Arbeidsaanbod",
+"Werkgelegenheid",
+"Beroepsbevolking"
+],
+"a": 0,
+"u": "Natuurlijke werkloosheid: De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie."
+}
+],
+"gens": [],
+"doel": "Waarom is het zinvol om onderscheid te maken tussen structurele en conjuncturele werkloosheid?",
+"uitleg": [
+{
+"t": "Structurele werkloosheid (aanbodkant)",
+"x": "Kwantitatief: structureel te weinig arbeidsplaatsen. Oorzaken: te hoge arbeidskosten, concurrentie uit lagelonenlanden, fusies, overheidsmaatregelen. Beleid: loonmatiging, innovatie stimuleren, de concurrentiepositie verbeteren.\nKwalitatief: het aanbod van arbeid past niet bij de vraag. Oorzaken: verkeerde scholing, te weinig regionale mobiliteit. Beleid: voorlichting bij studiekeuze, bedrijven in regio's met veel werklozen vestigen, loonkostensubsidies, om- en bijscholing.\nSeizoenswerkloosheid (landbouw, toerisme) en frictiewerkloosheid (zoektijd tussen twee banen) horen samen met structurele werkloosheid bij de natuurlijke werkloosheid."
+},
+{
+"t": "Conjuncturele werkloosheid (vraagkant)",
+"x": "Ontstaat doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit. Oorzaken: minder consumenten- en producentenvertrouwen, bezuinigingen. Beleid: de effectieve vraag vergroten, bijvoorbeeld met extra overheidsbestedingen.\nHet onderscheid is belangrijk omdat de bestrijding anders is: meer bestedingen helpen niet tegen een tekort aan geschikte werknemers."
+}
+]
+},
+{
+"id": "I.v16.3",
+"hfd": "Hoofdstuk 16 · Werk en werkloosheid",
+"niv": "v",
+"naam": "§16.3 Arbeidsmarkt en lonen",
+"kort": "Is er een verband tussen beloningsstructuur en werkloosheid?",
+"vragen": [
+{
+"id": "I.v16.3.m01",
+"t": "mc",
+"e": "I.werk",
+"q": "Op de arbeidsmarkt voor leraren natuurkunde zijn veel meer vacatures dan sollicitanten. Hoe heet deze deelmarkt?",
+"o": [
+"Een gespannen arbeidsmarkt",
+"Een ruime arbeidsmarkt",
+"Een markt met conjuncturele werkloosheid",
+"Een markt in evenwicht"
+],
+"a": 0,
+"u": "De vraag naar arbeid is groter dan het aanbod."
+},
+{
+"id": "I.v16.3.m02",
+"t": "mc",
+"e": "I.werk",
+"q": "Waarom daalt de werkloosheid niet snel door lagere lonen?",
+"o": [
+"Lonen zijn star door cao's en het minimumloon",
+"Omdat de arbeidsmarkt volkomen transparant is",
+"Omdat werknemers allemaal hetzelfde zijn",
+"Omdat er geen vraag naar arbeid is"
+],
+"a": 0,
+"u": "Loonstarheid verhindert dat het loon snel daalt tot het evenwicht."
+},
+{
+"id": "I.v16.3.m03",
+"t": "mc",
+"e": "I.werk",
+"q": "Welke uitspraak laat zien dat arbeid heterogeen is?",
+"o": [
+"Een werkloze lasser kan niet zomaar een vacature voor verpleegkundige vervullen",
+"Alle werknemers verdienen hetzelfde",
+"Er zijn evenveel vacatures als werklozen",
+"Lonen dalen bij werkloosheid"
+],
+"a": 0,
+"u": "Werknemers verschillen in opleiding en vaardigheden."
+},
+{
+"id": "I.v16.3.m04",
+"t": "mc",
+"e": "I.werk",
+"q": "De beroepsbevolking is 9,8 miljoen en er zijn 392.000 werklozen. Hoeveel procent werkloosheid is dat?",
+"o": [
+"4%",
+"0,4%",
+"3,9%",
+"40%"
+],
+"a": 0,
+"u": "392.000 : 9.800.000 × 100% = 4%."
+},
+{
+"id": "I.v16.3.k01",
+"t": "koppel",
+"e": "I.werk",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Gespannen arbeidsmarkt",
+"Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod."
+],
+[
+"Vacatures",
+"Openstaande banen waarvoor werkgevers personeel zoeken."
+],
+[
+"Arbeidsmarkt",
+"De totale vraag naar en het totale aanbod van arbeid."
+]
+],
+"u": "Gespannen arbeidsmarkt: Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod. Vacatures: Openstaande banen waarvoor werkgevers personeel zoeken. Arbeidsmarkt: De totale vraag naar en het totale aanbod van arbeid."
+},
+{
+"id": "I.v16.3.b01",
+"t": "mc",
+"e": "I.werk",
+"b": "Gespannen arbeidsmarkt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod.\"",
+"o": [
+"Gespannen arbeidsmarkt",
+"Loonstarheid",
+"Seizoenswerkloosheid",
+"Verborgen werkloosheid"
+],
+"a": 0,
+"u": "Gespannen arbeidsmarkt: Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod."
+},
+{
+"id": "I.v16.3.b02",
+"t": "mc",
+"e": "I.werk",
+"b": "Vacatures",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Openstaande banen waarvoor werkgevers personeel zoeken.\"",
+"o": [
+"Vacatures",
+"Gespannen arbeidsmarkt",
+"Arbeidsjaar",
+"Bruto arbeidsparticipatie"
+],
+"a": 0,
+"u": "Vacatures: Openstaande banen waarvoor werkgevers personeel zoeken."
+},
+{
+"id": "I.v16.3.b03",
+"t": "mc",
+"e": "I.werk",
+"b": "Arbeidsmarkt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De totale vraag naar en het totale aanbod van arbeid.\"",
+"o": [
+"Arbeidsmarkt",
+"Bruto arbeidsparticipatie",
+"Ontmoedigingseffect",
+"Kwalitatieve structurele werkloosheid"
+],
+"a": 0,
+"u": "Arbeidsmarkt: De totale vraag naar en het totale aanbod van arbeid."
+},
+{
+"id": "I.v16.3.b04",
+"t": "mc",
+"e": "I.werk",
+"b": "Loonstarheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.\"",
+"o": [
+"Loonstarheid",
+"Werkgelegenheid",
+"Frictiewerkloosheid",
+"Beroepsbevolking"
+],
+"a": 0,
+"u": "Loonstarheid: Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden."
+},
+{
+"id": "I.v16.3.b05",
+"t": "mc",
+"e": "I.werk",
+"b": "Arbeidsaanbod",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De hoeveelheid arbeid die mensen willen en kunnen verrichten.\"",
+"o": [
+"Arbeidsaanbod",
+"Kwantitatieve structurele werkloosheid",
+"Arbeidsjaar",
+"Seizoenswerkloosheid"
+],
+"a": 0,
+"u": "Arbeidsaanbod: De hoeveelheid arbeid die mensen willen en kunnen verrichten."
+}
+],
+"gens": [],
+"doel": "Is er een verband tussen beloningsstructuur en werkloosheid?",
+"uitleg": [
+{
+"t": "Deelmarkten en loonvorming",
+"x": "De arbeidsmarkt bestaat uit veel deelmarkten (per beroep, opleiding en regio). Een gespannen arbeidsmarkt heeft meer vacatures dan werkzoekenden.\nHet minimumloon (Wet minimumloon en minimumvakantiebijslag) is een bodem in de beloning. Loonstarheid: lonen dalen nauwelijks door langlopende cao's en regels. Daardoor kan werkloosheid lang blijven bestaan.\nDe wig (loonkosten min nettoloon) maakt arbeid duurder voor werkgevers."
+}
+]
+},
+{
+"id": "I.v17.1",
+"hfd": "Hoofdstuk 17 · Monetaire zaken",
+"niv": "v",
+"naam": "§17.1 Inflatie en deflatie",
+"kort": "Hoe kunnen veranderingen in het algemene prijspeil gemeten worden?",
+"vragen": [
+{
+"id": "I.v17.1.m01",
+"t": "mc",
+"e": "I.infl",
+"q": "Voeding (gewicht 20%) wordt 5% duurder, wonen (gewicht 30%) 2% duurder en de rest (gewicht 50%) 1% duurder. Hoe groot is de inflatie?",
+"o": [
+"2,1%",
+"2,7%",
+"8%",
+"1,5%"
+],
+"a": 0,
+"u": "0,2 × 5 + 0,3 × 2 + 0,5 × 1 = 1,0 + 0,6 + 0,5 = 2,1%."
+},
+{
+"id": "I.v17.1.m02",
+"t": "mc",
+"e": "I.infl",
+"q": "Wie heeft voordeel van onverwacht hoge inflatie?",
+"o": [
+"Iemand met een grote hypotheekschuld tegen een vaste rente",
+"Een spaarder met geld op een spaarrekening",
+"Een gepensioneerde met een vast pensioen",
+"Een bank die leningen heeft verstrekt"
+],
+"a": 0,
+"u": "De reële waarde van de schuld daalt."
+},
+{
+"id": "I.v17.1.m03",
+"t": "mc",
+"e": "I.infl",
+"q": "Waarom kan deflatie de economie verder laten krimpen?",
+"o": [
+"Mensen stellen aankopen uit omdat producten later goedkoper worden, waardoor de bestedingen dalen",
+"Omdat de koopkracht daalt",
+"Omdat schulden reëel minder waard worden",
+"Omdat de export altijd daalt"
+],
+"a": 0,
+"u": "Uitstel van bestedingen kan een neerwaartse spiraal geven."
+},
+{
+"id": "I.v17.1.k01",
+"t": "koppel",
+"e": "I.infl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Consumentenprijsindex",
+"Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen."
+],
+[
+"Partiële prijsindex",
+"Prijsindexcijfer van één productgroep."
+],
+[
+"Deflatie",
+"Een daling van het algemene prijspeil."
+]
+],
+"u": "Consumentenprijsindex: Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen. Partiële prijsindex: Prijsindexcijfer van één productgroep. Deflatie: Een daling van het algemene prijspeil."
+},
+{
+"id": "I.v17.1.k02",
+"t": "koppel",
+"e": "I.infl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Waardevast inkomen",
+"Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft."
+],
+[
+"Welvaartsvast inkomen",
+"Een inkomen dat meestijgt met de lonen."
+],
+[
+"Geldillusie",
+"Letten op het nominale bedrag in plaats van op de koopkracht."
+]
+],
+"u": "Waardevast inkomen: Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft. Welvaartsvast inkomen: Een inkomen dat meestijgt met de lonen. Geldillusie: Letten op het nominale bedrag in plaats van op de koopkracht."
+},
+{
+"id": "I.v17.1.b01",
+"t": "mc",
+"e": "I.infl",
+"b": "Consumentenprijsindex",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen.\"",
+"o": [
+"Consumentenprijsindex",
+"Monetair beleid",
+"Reële rente",
+"Partiële prijsindex"
+],
+"a": 0,
+"u": "Consumentenprijsindex: Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen."
+},
+{
+"id": "I.v17.1.b02",
+"t": "mc",
+"e": "I.infl",
+"b": "Partiële prijsindex",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Prijsindexcijfer van één productgroep.\"",
+"o": [
+"Partiële prijsindex",
+"Quantitative easing",
+"Geïmporteerde inflatie",
+"Bestedingsinflatie"
+],
+"a": 0,
+"u": "Partiële prijsindex: Prijsindexcijfer van één productgroep."
+},
+{
+"id": "I.v17.1.b03",
+"t": "mc",
+"e": "I.infl",
+"b": "Deflatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een daling van het algemene prijspeil.\"",
+"o": [
+"Deflatie",
+"Maatschappelijke geldhoeveelheid",
+"Wederzijdse schuldaanvaarding",
+"Depositogarantiestelsel"
+],
+"a": 0,
+"u": "Deflatie: Een daling van het algemene prijspeil."
+},
+{
+"id": "I.v17.1.b04",
+"t": "mc",
+"e": "I.infl",
+"b": "Waardevast inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft.\"",
+"o": [
+"Waardevast inkomen",
+"Geïmporteerde inflatie",
+"Secundaire liquiditeiten",
+"Zero lower bound"
+],
+"a": 0,
+"u": "Waardevast inkomen: Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft."
+},
+{
+"id": "I.v17.1.b05",
+"t": "mc",
+"e": "I.infl",
+"b": "Welvaartsvast inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een inkomen dat meestijgt met de lonen.\"",
+"o": [
+"Welvaartsvast inkomen",
+"Liquiditeit",
+"Geïmporteerde inflatie",
+"Kasreserveregeling"
+],
+"a": 0,
+"u": "Welvaartsvast inkomen: Een inkomen dat meestijgt met de lonen."
+},
+{
+"id": "I.v17.1.b06",
+"t": "mc",
+"e": "I.infl",
+"b": "Geldillusie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Letten op het nominale bedrag in plaats van op de koopkracht.\"",
+"o": [
+"Geldillusie",
+"Secundaire liquiditeiten",
+"Kosteninflatie",
+"Liquiditeit"
+],
+"a": 0,
+"u": "Geldillusie: Letten op het nominale bedrag in plaats van op de koopkracht."
+}
+],
+"gens": [
+"inflatieCpi",
+"reeelIndex"
+],
+"doel": "Hoe kunnen veranderingen in het algemene prijspeil gemeten worden?",
+"uitleg": [
+{
+"t": "Meten",
+"x": "Inflatie: de consumentenprijsindex (CPI) stijgt. Deflatie: de CPI daalt.\nDe CPI is een gewogen gemiddelde van partiële prijsindexcijfers per productgroep; elke groep krijgt een gewicht naar het aandeel in de uitgaven. De geharmoniseerde CPI (HICP) maakt vergelijken tussen EU-landen mogelijk. Je persoonlijke inflatie hangt af van je eigen uitgavenpatroon. De producentenprijsindex meet de prijzen die producenten ontvangen.\nWaardevast: een bedrag stijgt mee met de prijzen (koopkracht gelijk). Welvaartsvast: een bedrag stijgt mee met de lonen."
+},
+{
+"t": "Gevolgen",
+"x": "Inflatie: koopkrachtverlies (als lonen achterblijven), slechtere concurrentiepositie (als de prijzen sneller stijgen dan in het buitenland), gunstig voor schuldenaren en ongunstig voor schuldeisers, effect op de inkomensverdeling, en aankopen naar voren halen (in extreme vorm: hyperinflatie).\nDeflatie: hogere koopkracht van een vast bedrag, mogelijk een betere concurrentiepositie, de reële waarde van schulden stijgt, en mensen stellen aankopen uit."
+}
+]
+},
+{
+"id": "I.v17.2",
+"hfd": "Hoofdstuk 17 · Monetaire zaken",
+"niv": "v",
+"naam": "§17.2 Oorzaken van inflatie en deflatie",
+"kort": "Wat zijn de oorzaken van inflatie dan wel deflatie?",
+"vragen": [
+{
+"id": "I.v17.2.m01",
+"t": "mc",
+"e": "I.infl",
+"q": "De olieprijs op de wereldmarkt verdubbelt. Welke inflatie ontstaat in Nederland?",
+"o": [
+"Geïmporteerde inflatie, een vorm van kosteninflatie",
+"Bestedingsinflatie",
+"Belastinginflatie",
+"Deflatie"
+],
+"a": 0,
+"u": "Duurdere ingevoerde grondstoffen verhogen de kosten van bedrijven."
+},
+{
+"id": "I.v17.2.m02",
+"t": "mc",
+"e": "I.infl",
+"q": "Bij welke situatie past bestedingsinflatie?",
+"o": [
+"Een hoogconjunctuur met een positieve output gap",
+"Een recessie met veel werkloosheid",
+"Een stijging van de btw",
+"Een stijging van de importprijzen"
+],
+"a": 0,
+"u": "De vraag is groter dan wat de economie normaal kan produceren."
+},
+{
+"id": "I.v17.2.k01",
+"t": "koppel",
+"e": "I.infl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Bestedingsinflatie",
+"Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit."
+],
+[
+"Kosteninflatie",
+"Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen."
+],
+[
+"Geïmporteerde inflatie",
+"Inflatie doordat ingevoerde goederen, zoals energie, duurder worden."
+]
+],
+"u": "Bestedingsinflatie: Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit. Kosteninflatie: Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen. Geïmporteerde inflatie: Inflatie doordat ingevoerde goederen, zoals energie, duurder worden."
+},
+{
+"id": "I.v17.2.b01",
+"t": "mc",
+"e": "I.infl",
+"b": "Bestedingsinflatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit.\"",
+"o": [
+"Bestedingsinflatie",
+"Maatschappelijke geldhoeveelheid",
+"Geldillusie",
+"Waardevast inkomen"
+],
+"a": 0,
+"u": "Bestedingsinflatie: Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit."
+},
+{
+"id": "I.v17.2.b02",
+"t": "mc",
+"e": "I.infl",
+"b": "Kosteninflatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen.\"",
+"o": [
+"Kosteninflatie",
+"Geldschepping",
+"Kasreserveregeling",
+"Waardevast inkomen"
+],
+"a": 0,
+"u": "Kosteninflatie: Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen."
+},
+{
+"id": "I.v17.2.b03",
+"t": "mc",
+"e": "I.infl",
+"b": "Geïmporteerde inflatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat ingevoerde goederen, zoals energie, duurder worden.\"",
+"o": [
+"Geïmporteerde inflatie",
+"Reële rente",
+"Consumentenprijsindex",
+"Geldillusie"
+],
+"a": 0,
+"u": "Geïmporteerde inflatie: Inflatie doordat ingevoerde goederen, zoals energie, duurder worden."
+}
+],
+"gens": [],
+"doel": "Wat zijn de oorzaken van inflatie dan wel deflatie?",
+"uitleg": [
+{
+"t": "Bestedingsinflatie",
+"x": "Bestedingsinflatie (demand-pull) ontstaat als de feitelijke productie boven de potentiële productie ligt: de bestedingen trekken het prijspeil omhoog."
+},
+{
+"t": "Kosteninflatie",
+"x": "Kosteninflatie (cost-push): stijgende loonkosten (loonkosteninflatie), hogere winstmarges, hogere indirecte belastingen (belastinginflatie), hogere rente (rente-inflatie) en duurdere import, zoals energie (geïmporteerde inflatie)."
+}
+]
+},
+{
+"id": "I.v17.3",
+"hfd": "Hoofdstuk 17 · Monetaire zaken",
+"niv": "v",
+"naam": "§17.3 Geld, geldschepping en banken",
+"kort": "Op welke manieren kan de geldhoeveelheid veranderen en welke gevolgen heeft dat?",
+"vragen": [
+{
+"id": "I.v17.3.m01",
+"t": "mc",
+"e": "I.infl",
+"q": "Je neemt € 200 contant geld op van je betaalrekening. Wat gebeurt er met de maatschappelijke geldhoeveelheid?",
+"o": [
+"Niets: giraal geld wordt chartaal geld (substitutie)",
+"Die stijgt met € 200",
+"Die daalt met € 200",
+"Die stijgt door transformatie"
+],
+"a": 0,
+"u": "M1 = chartaal + giraal. Alleen de samenstelling verandert."
+},
+{
+"id": "I.v17.3.m02",
+"t": "mc",
+"e": "I.infl",
+"q": "Een bank verstrekt een lening van € 20.000 en zet het bedrag op de betaalrekening van de klant. Wat is er gebeurd?",
+"o": [
+"Geldschepping door wederzijdse schuldaanvaarding",
+"Geldvernietiging",
+"Substitutie",
+"Er is niets met de geldhoeveelheid gebeurd"
+],
+"a": 0,
+"u": "De klant heeft een schuld aan de bank en de bank een schuld aan de klant (het tegoed): nieuw giraal geld."
+},
+{
+"id": "I.v17.3.m03",
+"t": "mc",
+"e": "I.infl",
+"q": "Je zet € 1.000 van je betaalrekening op een termijndeposito van 1 jaar. Wat gebeurt er met M1?",
+"o": [
+"M1 daalt: geld wordt bijna-geld (transformatie, geldvernietiging)",
+"M1 stijgt",
+"M1 blijft gelijk",
+"M3 daalt"
+],
+"a": 0,
+"u": "Het tegoed telt nu bij de secundaire liquiditeiten. M3 blijft gelijk."
+},
+{
+"id": "I.v17.3.k01",
+"t": "koppel",
+"e": "I.infl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Maatschappelijke geldhoeveelheid",
+"Chartaal geld plus giraal geld in handen van het publiek."
+],
+[
+"Secundaire liquiditeiten",
+"Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten."
+],
+[
+"Geldschepping",
+"Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt."
+]
+],
+"u": "Maatschappelijke geldhoeveelheid: Chartaal geld plus giraal geld in handen van het publiek. Secundaire liquiditeiten: Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten. Geldschepping: Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt."
+},
+{
+"id": "I.v17.3.k02",
+"t": "koppel",
+"e": "I.infl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Wederzijdse schuldaanvaarding",
+"Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat."
+],
+[
+"Liquiditeit",
+"De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen."
+],
+[
+"Depositogarantiestelsel",
+"Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt."
+]
+],
+"u": "Wederzijdse schuldaanvaarding: Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat. Liquiditeit: De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen. Depositogarantiestelsel: Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt."
+},
+{
+"id": "I.v17.3.b01",
+"t": "mc",
+"e": "I.infl",
+"b": "Maatschappelijke geldhoeveelheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Chartaal geld plus giraal geld in handen van het publiek.\"",
+"o": [
+"Maatschappelijke geldhoeveelheid",
+"Quantitative easing",
+"Consumentenprijsindex",
+"Geïmporteerde inflatie"
+],
+"a": 0,
+"u": "Maatschappelijke geldhoeveelheid: Chartaal geld plus giraal geld in handen van het publiek."
+},
+{
+"id": "I.v17.3.b02",
+"t": "mc",
+"e": "I.infl",
+"b": "Secundaire liquiditeiten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten.\"",
+"o": [
+"Secundaire liquiditeiten",
+"Bestedingsinflatie",
+"Geldillusie",
+"Quantitative easing"
+],
+"a": 0,
+"u": "Secundaire liquiditeiten: Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten."
+},
+{
+"id": "I.v17.3.b03",
+"t": "mc",
+"e": "I.infl",
+"b": "Geldschepping",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt.\"",
+"o": [
+"Geldschepping",
+"Consumentenprijsindex",
+"Zero lower bound",
+"Geïmporteerde inflatie"
+],
+"a": 0,
+"u": "Geldschepping: Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt."
+},
+{
+"id": "I.v17.3.b04",
+"t": "mc",
+"e": "I.infl",
+"b": "Wederzijdse schuldaanvaarding",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat.\"",
+"o": [
+"Wederzijdse schuldaanvaarding",
+"Partiële prijsindex",
+"Reële rente",
+"Maatschappelijke geldhoeveelheid"
+],
+"a": 0,
+"u": "Wederzijdse schuldaanvaarding: Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat."
+},
+{
+"id": "I.v17.3.b05",
+"t": "mc",
+"e": "I.infl",
+"b": "Liquiditeit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen.\"",
+"o": [
+"Liquiditeit",
+"Depositogarantiestelsel",
+"Deflatie",
+"Geldschepping"
+],
+"a": 0,
+"u": "Liquiditeit: De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen."
+},
+{
+"id": "I.v17.3.b06",
+"t": "mc",
+"e": "I.infl",
+"b": "Depositogarantiestelsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt.\"",
+"o": [
+"Depositogarantiestelsel",
+"Monetair beleid",
+"Kasreserveregeling",
+"Geïmporteerde inflatie"
+],
+"a": 0,
+"u": "Depositogarantiestelsel: Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt."
+}
+],
+"gens": [],
+"doel": "Op welke manieren kan de geldhoeveelheid veranderen en welke gevolgen heeft dat?",
+"uitleg": [
+{
+"t": "Geldhoeveelheid",
+"x": "Geld in omloop is geld in handen van het publiek (huishoudens en bedrijven, niet de banken).\nMaatschappelijke geldhoeveelheid (M1, primaire liquiditeiten): chartaal geld (munten en biljetten) + giraal geld (direct opvraagbare tegoeden).\nSecundaire liquiditeiten (bijna-geld): internetspaarrekeningen, termijndeposito's tot 2 jaar en spaartegoeden die niet binnen 3 maanden opneembaar zijn. Je kunt er niet direct mee betalen.\nBinnenlandse liquiditeitsmassa (M3) = M1 + secundaire liquiditeiten."
+},
+{
+"t": "Geldschepping",
+"x": "Geldschepping: de geldhoeveelheid neemt toe. Geldvernietiging: ze neemt af. Manieren: transformatie (bijna-geld wordt geld of andersom), substitutie (chartaal wordt giraal of andersom, dat verandert M1 niet) en wederzijdse schuldaanvaarding (een bank verstrekt een lening en zet het bedrag op de rekening van de klant: nieuw geld).\nGrenzen: banken moeten liquide blijven (kunnen voldoen aan kortlopende verplichtingen) en solvabel (genoeg eigen vermogen). Het depositogarantiestelsel beschermt spaarders tot € 100.000 per bank. De bankencrisis van 2008 liet zien hoe snel liquiditeitsproblemen kunnen ontstaan."
+}
+]
+},
+{
+"id": "I.v17.4",
+"hfd": "Hoofdstuk 17 · Monetaire zaken",
+"niv": "v",
+"naam": "§17.4 Monetair beleid",
+"kort": "Welke rol speelt de Europese Centrale Bank in het eurogebied?",
+"vragen": [
+{
+"id": "I.v17.4.m01",
+"t": "mc",
+"e": "I.infl",
+"q": "De inflatie in het eurogebied is 6%. Wat zal de ECB waarschijnlijk doen?",
+"o": [
+"De herfinancieringsrente verhogen",
+"De herfinancieringsrente verlagen",
+"Meer obligaties opkopen",
+"De kasreserveverplichting verlagen"
+],
+"a": 0,
+"u": "Een hogere rente remt kredietverlening en bestedingen."
+},
+{
+"id": "I.v17.4.m02",
+"t": "mc",
+"e": "I.infl",
+"q": "Wat is het verschil tussen het mandaat van de ECB en dat van de Fed?",
+"o": [
+"De ECB richt zich alleen op prijsstabiliteit; de Fed ook op werkgelegenheid",
+"De ECB richt zich op werkgelegenheid; de Fed op prijsstabiliteit",
+"Ze hebben precies hetzelfde mandaat",
+"De ECB richt zich op de wisselkoers"
+],
+"a": 0,
+"u": "Enkelvoudig tegenover dubbel mandaat."
+},
+{
+"id": "I.v17.4.m03",
+"t": "mc",
+"e": "I.infl",
+"q": "Waarom zet een centrale bank quantitative easing in als de rente al bijna 0% is?",
+"o": [
+"Ze kan de korte rente niet verder verlagen (zero lower bound) en wil via opkoop van obligaties de lange rente drukken",
+"Om de inflatie te verlagen",
+"Om de banken te belasten",
+"Om de geldhoeveelheid te verkleinen"
+],
+"a": 0,
+"u": "Een extra stimuleringsmiddel als het gewone rentebeleid op zijn grens zit."
+},
+{
+"id": "I.v17.4.k01",
+"t": "koppel",
+"e": "I.infl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Monetair beleid",
+"Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden."
+],
+[
+"Kasreserveregeling",
+"Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank."
+],
+[
+"Quantitative easing",
+"De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren."
+]
+],
+"u": "Monetair beleid: Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden. Kasreserveregeling: Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank. Quantitative easing: De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren."
+},
+{
+"id": "I.v17.4.b01",
+"t": "mc",
+"e": "I.infl",
+"b": "Monetair beleid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden.\"",
+"o": [
+"Monetair beleid",
+"Wederzijdse schuldaanvaarding",
+"Secundaire liquiditeiten",
+"Consumentenprijsindex"
+],
+"a": 0,
+"u": "Monetair beleid: Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden."
+},
+{
+"id": "I.v17.4.b02",
+"t": "mc",
+"e": "I.infl",
+"b": "Kasreserveregeling",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank.\"",
+"o": [
+"Kasreserveregeling",
+"Maatschappelijke geldhoeveelheid",
+"Quantitative easing",
+"Partiële prijsindex"
+],
+"a": 0,
+"u": "Kasreserveregeling: Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank."
+},
+{
+"id": "I.v17.4.b03",
+"t": "mc",
+"e": "I.infl",
+"b": "Quantitative easing",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren.\"",
+"o": [
+"Quantitative easing",
+"Maatschappelijke geldhoeveelheid",
+"Secundaire liquiditeiten",
+"Geldschepping"
+],
+"a": 0,
+"u": "Quantitative easing: De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren."
+},
+{
+"id": "I.v17.4.b04",
+"t": "mc",
+"e": "I.infl",
+"b": "Zero lower bound",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen.\"",
+"o": [
+"Zero lower bound",
+"Depositogarantiestelsel",
+"Bestedingsinflatie",
+"Deflatie"
+],
+"a": 0,
+"u": "Zero lower bound: De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen."
+},
+{
+"id": "I.v17.4.b05",
+"t": "mc",
+"e": "I.infl",
+"b": "Reële rente",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De nominale rente gecorrigeerd voor inflatie.\"",
+"o": [
+"Reële rente",
+"Kosteninflatie",
+"Deflatie",
+"Monetair beleid"
+],
+"a": 0,
+"u": "Reële rente: De nominale rente gecorrigeerd voor inflatie."
+}
+],
+"gens": [
+"reeleRente"
+],
+"doel": "Welke rol speelt de Europese Centrale Bank in het eurogebied?",
+"uitleg": [
+{
+"t": "Centrale banken",
+"x": "De ECB (Frankfurt) en de nationale centrale banken van de eurolanden vormen samen het Eurosysteem. Met de centrale banken van de niet-eurolanden heet het geheel het Europees Stelsel van Centrale Banken. De Nederlandsche Bank houdt toezicht in Nederland.\nTaken: inflatiebestrijding (de ECB heeft een enkelvoudig mandaat: prijsstabiliteit, rond 2%; de Fed heeft een dubbel mandaat: ook werkgelegenheid), bank van de banken, zorgen voor een goed betalingsverkeer, toezicht op banken en het beheer van de goud- en deviezenvoorraad."
+},
+{
+"t": "Instrumenten",
+"x": "Herfinancieringsrente: de rente die banken aan de ECB betalen. Renteverlaging: banken rekenen lagere rentes, er wordt meer geleend en besteed, productie en inflatie stijgen. Renteverhoging werkt andersom.\nKasreserveregeling: banken moeten een deel van hun tegoeden vastzetten bij de centrale bank. Zo dalen hun liquide middelen, wordt kredietverlening moeilijker en nemen bestedingen en de druk op de prijzen af.\nVerder: kwantitatieve verruiming (de centrale bank koopt obligaties op om de rente op lange termijn te drukken), valutaswaps en het probleem van de zero lower bound (de rente kan nauwelijks onder nul)."
+}
+]
+},
+{
+"id": "I.v18.1",
+"hfd": "Hoofdstuk 18 · Economie internationaal",
+"niv": "v",
+"naam": "§18.1 De betalingsbalans",
+"kort": "Op welke manier worden internationale geldstromen op de betalingsbalans geregistreerd?",
+"vragen": [
+{
+"id": "I.v18.1.m01",
+"t": "mc",
+"e": "I.saldi",
+"q": "Een Nederlands bedrijf koopt een fabriek in Polen. Waar komt deze transactie op de betalingsbalans?",
+"o": [
+"Op de financiële rekening, als directe investering",
+"Op de lopende rekening, bij goederen",
+"Op de lopende rekening, bij inkomensoverdrachten",
+"Bij de mutatie officiële reserves"
+],
+"a": 0,
+"u": "Het oprichten of overnemen van bedrijven in het buitenland is een directe investering."
+},
+{
+"id": "I.v18.1.m02",
+"t": "mc",
+"e": "I.saldi",
+"q": "In een land is S − I = 40, B − O = −10. Hoe groot is het saldo op de lopende rekening (E − M)?",
+"o": [
+"+30",
+"+50",
+"−30",
+"−50"
+],
+"a": 0,
+"u": "(S − I) + (B − O) = E − M, dus 40 − 10 = 30."
+},
+{
+"id": "I.v18.1.m03",
+"t": "mc",
+"e": "I.saldi",
+"q": "Een Poolse werknemer in Nederland stuurt een deel van zijn loon naar zijn familie. Waar staat dat?",
+"o": [
+"Op de lopende rekening, bij inkomensoverdrachten",
+"Op de financiële rekening",
+"Bij de primaire inkomens",
+"Bij de goederenrekening"
+],
+"a": 0,
+"u": "Er staat geen tegenprestatie tegenover."
+},
+{
+"id": "I.v18.1.k01",
+"t": "koppel",
+"e": "I.saldi",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Betalingsbalans",
+"Overzicht van alle geldstromen tussen een land en het buitenland in een periode."
+],
+[
+"Lopende rekening",
+"Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten."
+],
+[
+"Financiële rekening",
+"Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten."
+]
+],
+"u": "Betalingsbalans: Overzicht van alle geldstromen tussen een land en het buitenland in een periode. Lopende rekening: Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten. Financiële rekening: Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten."
+},
+{
+"id": "I.v18.1.b01",
+"t": "mc",
+"e": "I.saldi",
+"b": "Betalingsbalans",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overzicht van alle geldstromen tussen een land en het buitenland in een periode.\"",
+"o": [
+"Betalingsbalans",
+"Opvoedingsargument",
+"Convergentiecriteria",
+"Douane-unie"
+],
+"a": 0,
+"u": "Betalingsbalans: Overzicht van alle geldstromen tussen een land en het buitenland in een periode."
+},
+{
+"id": "I.v18.1.b02",
+"t": "mc",
+"e": "I.saldi",
+"b": "Lopende rekening",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten.\"",
+"o": [
+"Lopende rekening",
+"Protectie",
+"Opvoedingsargument",
+"Wederuitvoer"
+],
+"a": 0,
+"u": "Lopende rekening: Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten."
+},
+{
+"id": "I.v18.1.b03",
+"t": "mc",
+"e": "I.saldi",
+"b": "Financiële rekening",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten.\"",
+"o": [
+"Financiële rekening",
+"Lopende rekening",
+"Protectie",
+"Contingentering"
+],
+"a": 0,
+"u": "Financiële rekening: Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten."
+},
+{
+"id": "I.v18.1.b04",
+"t": "mc",
+"e": "I.saldi",
+"b": "Wederuitvoer",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad.\"",
+"o": [
+"Wederuitvoer",
+"Betalingsbalans",
+"Protectie",
+"Devaluatie"
+],
+"a": 0,
+"u": "Wederuitvoer: Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad."
+},
+{
+"id": "I.v18.1.b05",
+"t": "mc",
+"e": "I.saldi",
+"b": "Inkomensoverdrachten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat.\"",
+"o": [
+"Inkomensoverdrachten",
+"Monetaire unie",
+"Vrijhandelszone",
+"Protectie"
+],
+"a": 0,
+"u": "Inkomensoverdrachten: Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat."
+},
+{
+"t": "open",
+"titel": "Sarland: wat blijft er over bij overheid en buitenland?",
+"q": "Het statistiekbureau van Sarland publiceert de geldstromen van het land over 2026. Alle bedragen staan in miljarden euro. In de tabel staan meer posten dan je nodig hebt.\nTabel Geldstromen Sarland, 2026:\nPost | Bedrag (miljarden euro)\nBbp (Y) | 900\nConsumptie (C) | 500\nInvesteringen (I) | 130\nBesparingen (S) | 190\nBelastingen (B) | 210\nOverheidsuitgaven (O) | 230\nExport (E) | 400\nImport (M) | 360\nBereken het saldo van de overheid en het saldo van het buitenland van Sarland in 2026, met bij beide saldo's het teken (+ of −).",
+"model": "Saldo overheid = B − O = 210 − 230 = −20 miljard euro. De overheid geeft meer uit dan zij ontvangt: een tekort. Saldo buitenland = E − M = 400 − 360 = +40 miljard euro: een overschot.\nPuntenverdeling:\n• Het saldo van de overheid is B − O en het saldo van het buitenland is E − M. Saldo overheid: 210 − 230 = −20 (miljard euro), dus een tekort (1)\n• Saldo buitenland: 400 − 360 = +40 (miljard euro), dus een overschot (1)",
+"pnt": 2,
+"id": "I.v18.1.IT00508",
+"e": "I.saldi"
+},
+{
+"t": "open",
+"titel": "Tolland: klopt het bij de banken?",
+"q": "Het Tollandse ministerie van Financiën wil weten waar het geld in 2026 naartoe stroomt. Alle bedragen staan in miljarden euro.\nDe banken ontvangen geld van de sectoren met een overschot en geven geld aan de sectoren met een tekort.\nTabel Geldstromen Tolland, 2026:\nPost | Bedrag (miljarden euro)\nBbp (Y) | 1.200\nConsumptie (C) | 700\nInvesteringen (I) | 110\nBesparingen (S) | 200\nBelastingen (B) | 300\nOverheidsuitgaven (O) | 330\nExport (E) | 480\nImport (M) | 420\nToon met een berekening aan dat bij de banken het bedrag dat binnenkomt gelijk is aan het bedrag dat eruit gaat.\nDoe het als volgt:\n- bereken het saldo van de overheid en het saldo van het buitenland en bepaal de richting van elke geldstroom;\n- vergelijk wat de banken ontvangen met wat zij uitgeven.",
+"model": "Overheid: 300 − 330 = −30 miljard euro, dus geld van de banken naar de overheid. Buitenland: 480 − 420 = +60 miljard euro, dus geld van de banken naar het buitenland. Banken geven uit: 110 + 30 + 60 = 200 miljard euro. Zij ontvangen 200 miljard euro aan besparingen. Het is gelijk.\nPuntenverdeling:\n• Saldo overheid is B − O en saldo buitenland is E − M. Een negatief saldo betekent een geldstroom van de banken naar die sector, een positief saldo een geldstroom naar de banken. Saldo overheid: 300 − 330 = −30 (miljard euro), dus geld van de banken naar de overheid (1)\n• Saldo buitenland: 480 − 420 = +60 (miljard euro), dus geld van de banken naar het buitenland (1)\n• Wat de banken uitgeven: 110 + 30 + 60 = 200 (miljard euro) (1)\n• Conclusie: de banken ontvangen 200 miljard euro (besparingen) en geven 200 miljard euro uit, dus gelijk (1)",
+"pnt": 4,
+"id": "I.v18.1.IT00509",
+"e": "I.saldi"
+},
+{
+"t": "open",
+"titel": "Brantia: de geldstromen in 2026",
+"q": "Een economisch bureau zet de geldstromen van Brantia in 2026 in een tabel. Alle bedragen staan in miljarden euro. Het bureau wil weten hoe de overheid en het buitenland zich tot de banken verhouden.\nTabel Geldstromen Brantia, 2026:\nPost | Bedrag (miljarden euro)\nBbp (Y) | 640\nConsumptie (C) | 350\nInvesteringen (I) | 170\nBesparingen (S) | 120\nBelastingen (B) | 170\nOverheidsuitgaven (O) | 150\nExport (E) | 210\nImport (M) | 240\nBereken het saldo van de overheid en het saldo van het buitenland van Brantia in 2026, met bij elk saldo de richting van de geldstroom tussen die sector en de banken.",
+"model": "Saldo overheid = B − O = 170 − 150 = +20 miljard euro. Een overschot: de overheid brengt geld naar de banken. Saldo buitenland = E − M = 210 − 240 = −30 miljard euro. Een tekort: de banken lenen geld uit aan het buitenland.\nPuntenverdeling:\n• Saldo overheid is B − O en saldo buitenland is E − M. Bij een positief saldo stroomt het geld naar de banken, bij een negatief saldo van de banken naar die sector. Saldo overheid: B − O = 170 − 150 = +20 (miljard euro), een overschot (1)\n• Richting overheid: van de overheid naar de banken (1)\n• Saldo buitenland: E − M = 210 − 240 = −30 (miljard euro), een tekort (1)\n• Richting buitenland: van de banken naar het buitenland (1)",
+"pnt": 4,
+"id": "I.v18.1.IT00510",
+"e": "I.saldi"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 23",
+"q": "(Examen vwo 2021-I, vraag 23)\nGegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.",
+"model": "S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.",
+"pnt": 2,
+"id": "I.v18.1.v2021I23",
+"e": "I.saldi"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-III, vraag 7",
+"q": "(Examen vwo 2021-III, vraag 7)\nEen politicus wil de pensioenleeftijd verlagen. Geef twee oorzaken waarom dit het overheidssaldo kan verslechteren.",
+"model": "Ouderen betalen minder jaren premie, dus de inkomsten van de overheid dalen. Ze ontvangen langer AOW, dus de uitgaven stijgen.",
+"pnt": 2,
+"id": "I.v18.1.v2021III7",
+"e": "I.saldi"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2023-II, vraag 3",
+"q": "(Examen vwo 2023-II, vraag 3)\nLeg met het kringloopmodel uit of de overheid in 2019 positief of negatief heeft bijgedragen aan het totaal van de bestedingen.",
+"model": "Overheidssaldo B − O = 160 − 135 = 25 miljard. Belastingen onttrekken vraag, overheidsbestedingen scheppen vraag. De belastingen zijn groter, dus de bijdrage aan de bestedingen is negatief.",
+"pnt": 2,
+"id": "I.v18.1.v2023II3",
+"e": "I.saldi"
+}
+],
+"gens": [],
+"doel": "Op welke manier worden internationale geldstromen op de betalingsbalans geregistreerd?",
+"uitleg": [
+{
+"t": "Opbouw",
+"x": "De betalingsbalans is een overzicht van alle geldstromen uit transacties met het buitenland in een periode.\nLopende rekening: goederen en diensten, primaire inkomens (lonen en rente van en naar het buitenland) en inkomensoverdrachten zonder tegenprestatie (geld naar familie in het buitenland, ontwikkelingshulp).\nFinanciële rekening: directe investeringen (bedrijven in het buitenland oprichten of overnemen), effectentransacties (aandelen en obligaties), internationale kredietverlening (handelskrediet) en vermogensoverdrachten (schenkingen, schuldkwijtschelding).\nMutatie officiële reserves: bij een overschot op de totale betalingsbalans nemen de deviezenreserves toe, bij een tekort nemen ze af."
+},
+{
+"t": "Saldi",
+"x": "Y = C + I + O + E − M = C + S + B, dus (S − I) + (B − O) = E − M.\nEen overschot op de lopende rekening (E > M) betekent dat de binnenlandse sectoren samen meer sparen dan ze investeren: het land leent geld uit aan het buitenland.\nNederland is een open economie met veel wederuitvoer (goederen die hier binnenkomen en na een kleine bewerking weer vertrekken) en doorvoer."
+}
+]
+},
+{
+"id": "I.v18.2",
+"hfd": "Hoofdstuk 18 · Economie internationaal",
+"niv": "v",
+"naam": "§18.2 Internationale handel",
+"kort": "Wat zijn de oorzaken en gevolgen van internationale handel?",
+"vragen": [
+{
+"id": "I.v18.2.m01",
+"t": "mc",
+"e": "C.intl",
+"q": "De VS verhogen de invoerrechten op Europese auto's. Wat is een mogelijk kettingeffect voor de VS zelf?",
+"o": [
+"De EU exporteert minder, het Europese inkomen daalt en de EU koopt minder Amerikaanse producten",
+"De Amerikaanse export stijgt",
+"Europese auto's worden goedkoper in de VS",
+"Er verandert niets voor de VS"
+],
+"a": 0,
+"u": "Minder handel de ene kant op leidt via lagere inkomens tot minder handel de andere kant op."
+},
+{
+"id": "I.v18.2.m02",
+"t": "mc",
+"e": "C.intl",
+"q": "Welk argument voor protectie is het opvoedingsargument?",
+"o": [
+"Een nieuwe bedrijfstak tijdelijk beschermen tot die kan concurreren",
+"Voedsel zelf blijven produceren om onafhankelijk te zijn",
+"Banen in een oude industrie behouden",
+"Gevaarlijke producten weren"
+],
+"a": 0,
+"u": "Infant industry argument."
+},
+{
+"id": "I.v18.2.m03",
+"t": "mc",
+"e": "C.intl",
+"q": "Wat is het belangrijkste nadeel van protectie voor consumenten in het eigen land?",
+"o": [
+"Ze betalen hogere prijzen, omdat goedkopere buitenlandse producten worden geweerd of duurder gemaakt",
+"Ze kunnen meer kiezen",
+"Hun lonen dalen direct",
+"Ze betalen minder belasting"
+],
+"a": 0,
+"u": "Protectie gaat ten koste van het consumentensurplus."
+},
+{
+"id": "I.v18.2.k01",
+"t": "koppel",
+"e": "C.intl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Protectie",
+"Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie."
+],
+[
+"Opvoedingsargument",
+"Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie."
+],
+[
+"Contingentering",
+"Het beperken van de invoer tot een maximale hoeveelheid."
+]
+],
+"u": "Protectie: Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie. Opvoedingsargument: Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie. Contingentering: Het beperken van de invoer tot een maximale hoeveelheid."
+},
+{
+"id": "I.v18.2.b01",
+"t": "mc",
+"e": "C.intl",
+"b": "Protectie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie.\"",
+"o": [
+"Protectie",
+"Devaluatie",
+"Inkomensoverdrachten",
+"Lopende rekening"
+],
+"a": 0,
+"u": "Protectie: Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie."
+},
+{
+"id": "I.v18.2.b02",
+"t": "mc",
+"e": "C.intl",
+"b": "Opvoedingsargument",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie.\"",
+"o": [
+"Opvoedingsargument",
+"Revaluatie",
+"Appreciatie",
+"Offshoring"
+],
+"a": 0,
+"u": "Opvoedingsargument: Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie."
+},
+{
+"id": "I.v18.2.b03",
+"t": "mc",
+"e": "C.intl",
+"b": "Contingentering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het beperken van de invoer tot een maximale hoeveelheid.\"",
+"o": [
+"Contingentering",
+"Financiële rekening",
+"Offshoring",
+"Betalingsbalans"
+],
+"a": 0,
+"u": "Contingentering: Het beperken van de invoer tot een maximale hoeveelheid."
+},
+{
+"id": "I.v18.2.b04",
+"t": "mc",
+"e": "C.intl",
+"b": "Offshoring",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verplaatsen van bedrijfsactiviteiten naar het buitenland.\"",
+"o": [
+"Offshoring",
+"Monetaire unie",
+"Betalingsbalans",
+"Protectie"
+],
+"a": 0,
+"u": "Offshoring: Het verplaatsen van bedrijfsactiviteiten naar het buitenland."
+},
+{
+"id": "I.v18.2.b05",
+"t": "mc",
+"e": "C.intl",
+"b": "Comparatief voordeel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een land kan een product met relatief minder opofferingen maken dan een ander land.\"",
+"o": [
+"Comparatief voordeel",
+"Contingentering",
+"Betalingsbalans",
+"Gemeenschappelijke markt"
+],
+"a": 0,
+"u": "Comparatief voordeel: Een land kan een product met relatief minder opofferingen maken dan een ander land."
+},
+{
+"t": "open",
+"titel": "Fietsaccu's uit Tarnia",
+"q": "Het land Valmeer koopt veel fietsaccu's uit het buitenland. Een accu uit Tarnia kost in Valmeer € 200. Een vergelijkbare accu van het Valmeerse bedrijf Accuwerk kost € 230.\nDe overheid van Valmeer wil Accuwerk beschermen en voert een importheffing in op accu's uit Tarnia.\nGeef aan wat een importheffing is en wat er door deze heffing gebeurt met de prijs van een accu uit Tarnia in Valmeer.",
+"model": "Een importheffing is een belasting die de overheid heft op producten die uit het buitenland worden ingevoerd. De accu uit Tarnia wordt daardoor duurder in Valmeer.\nPuntenverdeling:\n• Een importheffing is een belasting die de overheid heft op producten die uit het buitenland komen. Een importheffing is een belasting op ingevoerde (geïmporteerde) producten (1)\n• De prijs van de accu uit Tarnia in Valmeer stijgt (het importproduct wordt duurder) (1)",
+"pnt": 2,
+"id": "I.v18.2.IT00535",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Elektrische fietsen uit Brenau",
+"q": "In het land Noordmark maakt het bedrijf Dorrevaart elektrische fietsen. Fietsen uit het buitenland zijn goedkoper. Een fiets uit Brenau kost in Noordmark € 1.000, een fiets van Dorrevaart € 1.150.\nOm Dorrevaart te beschermen voert Noordmark een importheffing van 20% in op elektrische fietsen uit Brenau.\nLeg uit wat de importheffing betekent voor Dorrevaart en voor de consumenten in Noordmark.\nDoe het als volgt:\n- Bereken de nieuwe prijs van een fiets uit Brenau.\n- Leg uit wat dit betekent voor de afzet van Dorrevaart.\n- Leg uit wat dit betekent voor de consumenten.",
+"model": "De fiets uit Brenau kost door de heffing € 1.200 en is nu duurder dan die van Dorrevaart (€ 1.150). Consumenten kopen daarom meer bij Dorrevaart, dus Dorrevaart verkoopt en produceert meer. Consumenten betalen wel meer dan zonder heffing (€ 1.150 in plaats van € 1.000).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen. De fiets uit Brenau wordt duurder: € 1.000 + 20% = € 1.200, dus duurder dan de fiets van Dorrevaart (€ 1.150) (1)\n• Consumenten kopen daardoor meer bij Dorrevaart, dus de afzet (en productie) van Dorrevaart stijgt (1)\n• Consumenten betalen een hogere prijs (of hebben minder keuze) dan zonder heffing (1)",
+"pnt": 3,
+"id": "I.v18.2.IT00536",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Wandelschoenen in Estavia",
+"q": "Het land Estavia heft sinds dit jaar een importheffing van 25% op wandelschoenen uit het buitenland. De regering wil de Estaviase schoenmakers beschermen. De tabel toont de prijs van een paar wandelschoenen in Estavia.\nDe heffing wordt betaald door de importeur en volledig doorberekend in de verkoopprijs.\nTabel Prijs per paar wandelschoenen in Estavia (in euro's):\nProduct | Prijs zonder heffing | Prijs met heffing\nGeïmporteerd | € 80 | € 100\nEstaviaas product | € 92 | € 92\nLeg uit wat de importheffing betekent voor de afzet van de Estaviase schoenmakers en voor de prijs die consumenten minimaal betalen voor wandelschoenen.\nGebruik de tabel.",
+"model": "Door de heffing kosten geïmporteerde schoenen € 100 en zijn ze duurder dan de Estaviase schoenen van € 92. Consumenten kopen daarom meer Estaviase schoenen, dus de schoenmakers verkopen meer. De goedkoopste schoenen kosten nu € 92 in plaats van € 80, dus consumenten betalen meer.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen. Door de heffing stijgt de prijs van geïmporteerde schoenen van € 80 naar € 100 (80 + 25% = 100), dus de import is duurder dan het Estaviase product (€ 92) (1)\n• Consumenten stappen over op het Estaviase product, dus de afzet van de Estaviase schoenmakers stijgt (1)\n• De laagste prijs voor consumenten stijgt van € 80 naar € 92 (1)",
+"pnt": 3,
+"id": "I.v18.2.IT00537",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2018-I, vraag 2",
+"q": "(Examen vwo 2018-I, vraag 2)\nNoem de letter(s) van het vlak of de vlakken die het welvaartsverlies weergeven dat ontstaat door het importverbod.",
+"model": "F. Alleen de juiste letter mag genoemd zijn.",
+"pnt": 1,
+"id": "I.v18.2.v2018I2",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2018-I, vraag 3",
+"q": "(Examen vwo 2018-I, vraag 3)\nQv = −2P + 100 en Qa = 4P − 80 (in duizenden tonnen); wereldprijs 25 UR. De prijs mag door een importquotum 10% stijgen. Bereken hoeveel import dan nog is toegestaan.",
+"model": "Prijs 1,1 × 25 = 27,50. Qa = 4 × 27,50 − 80 = 30. Qv = −2 × 27,50 + 100 = 45. Import 45 − 30 = 15 (duizend ton).",
+"pnt": 2,
+"id": "I.v18.2.v2018I3",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 15",
+"q": "(Examen vwo 2019-I, vraag 15)\nLeg uit dat verhoging van importheffingen de vraag naar importen kan beperken.",
+"model": "Door de heffing worden geïmporteerde goederen duurder dan binnenlandse substituten. Daardoor daalt de vraag naar importen.",
+"pnt": 1,
+"id": "I.v18.2.v2019I15",
+"e": "C.intl"
+}
+],
+"gens": [
+"comparatief"
+],
+"doel": "Wat zijn de oorzaken en gevolgen van internationale handel?",
+"uitleg": [
+{
+"t": "Oorzaken van handel",
+"x": "Comparatieve kostenverschillen en internationale arbeidsdeling, de wens van consumenten naar variatie in merken, geografische nabijheid en transport, een vrijhandelszone of muntunie, historische toevalligheden en verschillen in productiviteit en loonniveau.\nGlobalisering wordt gestimuleerd door de WTO. Bedrijven besteden werk uit (outsourcing) of verplaatsen activiteiten naar het buitenland (offshoring)."
+},
+{
+"t": "Protectie",
+"x": "Protectie beschermt de eigen productie tegen buitenlandse concurrentie. Motieven: banen behouden, het opvoedingsargument (jonge industrie beschermen tot ze volwassen is), veiligheid en gezondheid, onafhankelijkheid (voedsel) en politieke redenen.\nMaatregelen: import belemmeren (invoerrechten, quota/contingenten, administratieve regels, verboden) of export stimuleren (exportsubsidies, belastingvoordelen, garanties op exportkredieten).\nNadelen: je koopt niet meer waar het goedkoopst is (hogere prijzen), een negatief kettingeffect (minder import uit China betekent minder Chinese export, een lager Chinees bbp en minder Chinese import uit de EU) en represailles: handelsoorlogen zoals in de jaren dertig."
+}
+]
+},
+{
+"id": "I.v18.3",
+"hfd": "Hoofdstuk 18 · Economie internationaal",
+"niv": "v",
+"naam": "§18.3 Wisselkoersen",
+"kort": "Hoe komen wisselkoersen tot stand en waarom zijn ze belangrijk voor de economie?",
+"vragen": [
+{
+"id": "I.v18.3.m01",
+"t": "mc",
+"e": "C.intl",
+"q": "De euro appreciëert ten opzichte van de dollar. Wat is het gevolg voor Europese exporteurs naar de VS?",
+"o": [
+"Hun producten worden duurder in dollars, waardoor hun concurrentiepositie verslechtert",
+"Hun producten worden goedkoper in dollars",
+"Er verandert niets",
+"Ze ontvangen meer euro's per verkocht product"
+],
+"a": 0,
+"u": "Amerikanen moeten meer dollars betalen voor hetzelfde Europese product."
+},
+{
+"id": "I.v18.3.m02",
+"t": "mc",
+"e": "C.intl",
+"q": "Amerikaanse beleggers kopen massaal Europese staatsobligaties. Wat gebeurt er met de euro?",
+"o": [
+"De vraag naar euro's stijgt, de euro appreciëert",
+"Het aanbod van euro's stijgt, de euro deprecieert",
+"De euro devalueert",
+"Niets, alleen de rente verandert"
+],
+"a": 0,
+"u": "Om Europese obligaties te kopen hebben de beleggers euro's nodig."
+},
+{
+"id": "I.v18.3.m03",
+"t": "mc",
+"e": "C.intl",
+"q": "Een land wil een vaste wisselkoers en vrij kapitaalverkeer. Wat moet het volgens het trilemma opgeven?",
+"o": [
+"Een zelfstandig monetair beleid",
+"De vaste wisselkoers",
+"Het vrije kapitaalverkeer",
+"Niets, alle drie kan"
+],
+"a": 0,
+"u": "De rente moet dan worden ingezet om de koers vast te houden."
+},
+{
+"id": "I.v18.3.k01",
+"t": "koppel",
+"e": "C.intl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Appreciatie",
+"Een waardestijging van een munt door veranderingen in vraag en aanbod."
+],
+[
+"Depreciatie",
+"Een waardedaling van een munt door veranderingen in vraag en aanbod."
+],
+[
+"Devaluatie",
+"Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen."
+]
+],
+"u": "Appreciatie: Een waardestijging van een munt door veranderingen in vraag en aanbod. Depreciatie: Een waardedaling van een munt door veranderingen in vraag en aanbod. Devaluatie: Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen."
+},
+{
+"id": "I.v18.3.b01",
+"t": "mc",
+"e": "C.intl",
+"b": "Appreciatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een waardestijging van een munt door veranderingen in vraag en aanbod.\"",
+"o": [
+"Appreciatie",
+"Douane-unie",
+"Contingentering",
+"Lopende rekening"
+],
+"a": 0,
+"u": "Appreciatie: Een waardestijging van een munt door veranderingen in vraag en aanbod."
+},
+{
+"id": "I.v18.3.b02",
+"t": "mc",
+"e": "C.intl",
+"b": "Depreciatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een waardedaling van een munt door veranderingen in vraag en aanbod.\"",
+"o": [
+"Depreciatie",
+"Monetaire unie",
+"Gemeenschappelijke markt",
+"Lopende rekening"
+],
+"a": 0,
+"u": "Depreciatie: Een waardedaling van een munt door veranderingen in vraag en aanbod."
+},
+{
+"id": "I.v18.3.b03",
+"t": "mc",
+"e": "C.intl",
+"b": "Devaluatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen.\"",
+"o": [
+"Devaluatie",
+"Betalingsbalans",
+"Gemeenschappelijke markt",
+"Lopende rekening"
+],
+"a": 0,
+"u": "Devaluatie: Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen."
+},
+{
+"id": "I.v18.3.b04",
+"t": "mc",
+"e": "C.intl",
+"b": "Revaluatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen.\"",
+"o": [
+"Revaluatie",
+"Financiële rekening",
+"Gemeenschappelijke markt",
+"Appreciatie"
+],
+"a": 0,
+"u": "Revaluatie: Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen."
+},
+{
+"id": "I.v18.3.b05",
+"t": "mc",
+"e": "C.intl",
+"b": "Trilemma",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben.\"",
+"o": [
+"Trilemma",
+"Comparatief voordeel",
+"Appreciatie",
+"Douane-unie"
+],
+"a": 0,
+"u": "Trilemma: Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2018-II, vraag 19",
+"q": "(Examen vwo 2018-II, vraag 19)\nVerklaar dat vóór de muntunie een verslechterde concurrentiepositie in het Zuiden via de wisselkoers in zekere mate kon worden tegengegaan.",
+"model": "Door de slechtere concurrentiepositie daalt de export, dus de vraag naar de eigen valuta en de wisselkoers. Export wordt in vreemde valuta goedkoper en import in eigen valuta duurder, waardoor de concurrentiepositie kan verbeteren.",
+"pnt": 2,
+"id": "I.v18.3.v2018II19",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 3",
+"q": "(Examen vwo 2019-I, vraag 3)\nLeg uit dat een hogere rente in de VS via de kapitaalrekening de dollarkoers beïnvloedt en daarmee via de lopende rekening de bbp-groei kan afremmen.",
+"model": "Hogere rente maakt beleggen in de VS aantrekkelijk, dus er is meer vraag naar dollars en de koers stijgt. Amerikaanse producten worden voor het buitenland duurder, de export daalt en de bbp-groei kan afnemen. Twee punten per deel.",
+"pnt": 4,
+"id": "I.v18.3.v2019I3",
+"e": "C.intl"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 18",
+"q": "(Examen vwo 2019-I, vraag 18)\nLeg uitsluitend met informatie uit tabel 1 uit dat de stijging van de exportwaarde 1995-2015 door een waardeverandering van de pesto kan komen.",
+"model": "De importwaarde is groter dan de exportwaarde, dus het saldo op de lopende rekening is negatief. Er worden meer pesto's aangeboden dan gevraagd, dus de pesto daalt in waarde. Producten uit Pesthan worden goedkoper voor het buitenland en de export stijgt.",
+"pnt": 2,
+"id": "I.v18.3.v2019I18",
+"e": "C.intl"
+}
+],
+"gens": [
+"wisselkoers"
+],
+"doel": "Hoe komen wisselkoersen tot stand en waarom zijn ze belangrijk voor de economie?",
+"uitleg": [
+{
+"t": "Vraag en aanbod van valuta",
+"x": "Een wisselkoers is de prijs van de ene munt uitgedrukt in een andere. Bij zwevende koersen bepalen vraag en aanbod de koers. Appreciatie: de munt wordt meer waard; depreciatie: minder waard.\nExport van Europese producten naar de VS: vraag naar euro's, aanbod van dollars. Import uit de VS: vraag naar dollars, aanbod van euro's. Kapitaal naar de VS: vraag naar dollars. Kapitaal naar de EU: vraag naar euro's. Een hogere rente in het eurogebied trekt kapitaal aan en laat de euro stijgen.\nEen duurdere euro maakt de export duurder voor buitenlanders (slechtere concurrentiepositie) en de import goedkoper."
+},
+{
+"t": "Vaste koersen en het trilemma",
+"x": "Bij een vaste koers (Denemarken ten opzichte van de euro) is er een spilkoers met een bandbreedte; de centrale bank grijpt in bij de interventiepunten. Een officiële aanpassing heet revaluatie (omhoog) of devaluatie (omlaag).\nTrilemma: een land kan maar twee van deze drie doelen tegelijk halen: een vaste wisselkoers, zelfstandig monetair beleid en vrij kapitaalverkeer."
+}
+]
+},
+{
+"id": "I.v18.4",
+"hfd": "Hoofdstuk 18 · Economie internationaal",
+"niv": "v",
+"naam": "§18.4 Europese samenwerking",
+"kort": "Hoe heeft de economische samenwerking tussen Europese landen zich ontwikkeld?",
+"vragen": [
+{
+"id": "I.v18.4.m01",
+"t": "mc",
+"e": "C.intl",
+"q": "Een land heeft een begrotingstekort van 4,5% van het bbp en wil de euro invoeren. Aan welk criterium voldoet het niet?",
+"o": [
+"Het begrotingstekort moet kleiner zijn dan 3% van het bbp",
+"De overheidsschuld moet onder 60% liggen",
+"De inflatie moet onder 2% liggen",
+"De rente moet onder 3% liggen"
+],
+"a": 0,
+"u": "Een van de vijf convergentiecriteria."
+},
+{
+"id": "I.v18.4.m02",
+"t": "mc",
+"e": "C.intl",
+"q": "Wat is het verschil tussen een vrijhandelszone en een douane-unie?",
+"o": [
+"Een douane-unie heeft ook een gemeenschappelijk buitentarief tegenover andere landen",
+"Een vrijhandelszone heeft één munt",
+"In een douane-unie zijn er nog onderlinge invoerrechten",
+"Er is geen verschil"
+],
+"a": 0,
+"u": "In een vrijhandelszone bepaalt elk land zelf zijn tarieven tegenover derde landen."
+},
+{
+"id": "I.v18.4.m03",
+"t": "mc",
+"e": "C.intl",
+"q": "Welk motief voor de muntunie was volgens de kader het belangrijkste?",
+"o": [
+"Het politieke motief: oorlogen in Europa voorkomen door sterke integratie",
+"Lagere wisselkosten voor toeristen",
+"Hogere rente voor spaarders",
+"Meer inflatie"
+],
+"a": 0,
+"u": "De andere voordelen (transactiekosten, transparantie, schaal) zijn economisch."
+},
+{
+"id": "I.v18.4.k01",
+"t": "koppel",
+"e": "C.intl",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Douane-unie",
+"Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief."
+],
+[
+"Monetaire unie",
+"Samenwerking waarin de landen één munt en één centrale bank hebben."
+],
+[
+"Convergentiecriteria",
+"De eisen waaraan een land moet voldoen om de euro in te voeren."
+]
+],
+"u": "Douane-unie: Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief. Monetaire unie: Samenwerking waarin de landen één munt en één centrale bank hebben. Convergentiecriteria: De eisen waaraan een land moet voldoen om de euro in te voeren."
+},
+{
+"id": "I.v18.4.b01",
+"t": "mc",
+"e": "C.intl",
+"b": "Douane-unie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief.\"",
+"o": [
+"Douane-unie",
+"Contingentering",
+"Revaluatie",
+"Protectie"
+],
+"a": 0,
+"u": "Douane-unie: Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief."
+},
+{
+"id": "I.v18.4.b02",
+"t": "mc",
+"e": "C.intl",
+"b": "Monetaire unie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarin de landen één munt en één centrale bank hebben.\"",
+"o": [
+"Monetaire unie",
+"Offshoring",
+"Financiële rekening",
+"Opvoedingsargument"
+],
+"a": 0,
+"u": "Monetaire unie: Samenwerking waarin de landen één munt en één centrale bank hebben."
+},
+{
+"id": "I.v18.4.b03",
+"t": "mc",
+"e": "C.intl",
+"b": "Convergentiecriteria",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De eisen waaraan een land moet voldoen om de euro in te voeren.\"",
+"o": [
+"Convergentiecriteria",
+"Revaluatie",
+"Depreciatie",
+"Wederuitvoer"
+],
+"a": 0,
+"u": "Convergentiecriteria: De eisen waaraan een land moet voldoen om de euro in te voeren."
+},
+{
+"id": "I.v18.4.b04",
+"t": "mc",
+"e": "C.intl",
+"b": "Vrijhandelszone",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarin de landen onderling geen invoerrechten heffen.\"",
+"o": [
+"Vrijhandelszone",
+"Depreciatie",
+"Appreciatie",
+"Gemeenschappelijke markt"
+],
+"a": 0,
+"u": "Vrijhandelszone: Samenwerking waarin de landen onderling geen invoerrechten heffen."
+},
+{
+"id": "I.v18.4.b05",
+"t": "mc",
+"e": "C.intl",
+"b": "Gemeenschappelijke markt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Douane-unie met ook vrij verkeer van arbeid en kapitaal.\"",
+"o": [
+"Gemeenschappelijke markt",
+"Convergentiecriteria",
+"Financiële rekening",
+"Monetaire unie"
+],
+"a": 0,
+"u": "Gemeenschappelijke markt: Douane-unie met ook vrij verkeer van arbeid en kapitaal."
+}
+],
+"gens": [],
+"doel": "Hoe heeft de economische samenwerking tussen Europese landen zich ontwikkeld?",
+"uitleg": [
+{
+"t": "Vormen van integratie",
+"x": "Van los naar steeds hechter: vrijhandelszone (geen onderlinge invoerrechten), douane-unie (plus een gemeenschappelijk buitentarief), gemeenschappelijke markt (plus vrij verkeer van arbeid en kapitaal), economische unie (plus afstemming van economisch beleid), monetaire unie (plus één munt) en politieke unie."
+},
+{
+"t": "De EMU",
+"x": "Motieven: politiek (vrede in Europa na twee wereldoorlogen), geen wisselkosten, prijzen beter te vergelijken (meer concurrentie) en schaalvoordelen in één grote markt.\nConvergentiecriteria: (1) inflatie hoogstens 1,5 procentpunt boven het gemiddelde van de drie landen met de laagste inflatie, (2) begrotingstekort kleiner dan 3% van het bbp, (3) overheidsschuld hoogstens 60% van het bbp, (4) lange rente hoogstens 2 procentpunt boven het gemiddelde van die drie landen, (5) twee jaar een stabiele wisselkoers.\nHet Stabiliteits- en Groeipact moet de begrotingsdiscipline na toetreding bewaken. Problemen: divergentie (economieën groeien uit elkaar) en verschillen in belastingen en sociale zekerheid."
+}
+]
+}
+]);
+LEVELS.D.begrippen = Object.assign(LEVELS.D.begrippen||{}, {"Betalingsbereidheid": "Het hoogste bedrag dat een consument voor een product wil betalen.", "Consumentensurplus": "Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.", "Vraaglijn": "Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.", "Afzet": "De hoeveelheid verkochte producten in een bepaalde periode.", "Substitutiegoederen": "Goederen die elkaar volgens de consument kunnen vervangen.", "Complementaire goederen": "Goederen die elkaar aanvullen en vaak samen worden gebruikt.", "Ceteris paribus": "De aanname dat alle andere factoren gelijk blijven.", "Prijselasticiteit van de vraag": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.", "Prijsinelastische vraag": "Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.", "Omzet": "Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.", "Inkomenselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.", "Inferieur goed": "Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).", "Luxe goed": "Goed met een inkomenselasticiteit groter dan 1.", "Noodzakelijk goed": "Goed met een inkomenselasticiteit tussen 0 en 1.", "Constante kosten": "Kosten die niet veranderen als de productie toeneemt of afneemt.", "Variabele kosten": "Kosten die meeveranderen met de omvang van de productie.", "Marginale kosten": "De extra kosten van het produceren van één product meer.", "Marginale opbrengst": "De extra opbrengst van het verkopen van één product meer.", "Gemiddelde totale kosten": "De totale kosten gedeeld door de geproduceerde hoeveelheid.", "Consumentenprijs": "De verkoopprijs inclusief btw en andere prijsverhogende belastingen.", "Break-evenafzet": "De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.", "Break-evenomzet": "De omzet die hoort bij de break-evenafzet.", "Dekkingsbijdrage": "Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.", "Totale winst": "Totale opbrengst min totale kosten.", "Marginale winst": "De verandering van de totale winst bij één product meer: MO − MK.", "Gemiddelde winst": "De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.", "Producentensurplus": "Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.", "Verkoopbereidheid": "De laagste prijs waarvoor een producent een product wil verkopen.", "Collectieve aanbodlijn": "Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.", "Volledige mededinging": "Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.", "Homogene producten": "Producten die in de ogen van de koper precies hetzelfde zijn.", "Transparante markt": "Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien.", "Abstracte markt": "Het geheel van vraag en aanbod van een product, zonder vaste plaats.", "Concrete markt": "Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.", "Volkomen markt": "Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.", "Evenwichtsprijs": "De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Evenwichtshoeveelheid": "De verhandelde hoeveelheid bij de evenwichtsprijs.", "Aanbodoverschot": "Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.", "Bedrijfstakevenwicht": "Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.", "Toetreding": "Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.", "Uittreding": "Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.", "Optimale allocatie": "Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.", "Totaal surplus": "De som van het consumentensurplus en het producentensurplus.", "Externe effecten": "Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.", "Marketingmix": "De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.", "Octrooi": "Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.", "Kartel": "Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.", "Fusie": "Twee of meer ondernemingen die samen verdergaan als één onderneming.", "Franchising": "Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.", "Joint venture": "Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.", "Productdifferentiatie": "Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.", "Monopolie": "Marktvorm met één aanbieder tegenover veel vragers.", "Prijsdiscriminatie": "Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.", "Welvaartsverlies": "Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.", "Oligopolie": "Marktvorm met weinig aanbieders tegenover veel vragers.", "Monopolistische concurrentie": "Marktvorm met veel aanbieders van heterogene producten.", "Duopolie": "Marktvorm met twee aanbieders.", "Prijsleider": "De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.", "Collectieve goederen": "Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn.", "Quasi-collectieve goederen": "Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.", "Privatisering": "Het overdragen van een overheidstaak aan particuliere bedrijven.", "Deregulering": "Het verminderen van overheidsregels voor bedrijven en burgers.", "Maatschappelijke kosten": "Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.", "Nationalisatie": "Het overnemen van een particulier bedrijf door de overheid.", "Maximumprijs": "De hoogste prijs die een aanbieder van de overheid mag vragen.", "Zwarte markt": "Illegale handel tegen een hogere prijs dan de toegestane prijs.", "Aanbodtekort": "Situatie waarin bij een bepaalde prijs meer wordt gevraagd dan aangeboden (vraagoverschot).", "Minimumprijs": "De laagste prijs waarvoor een product van de overheid mag worden verkocht.", "Minimumloon": "Het wettelijk vastgestelde laagste loon dat een werkgever moet betalen.", "Accijns": "Een vast bedrag aan belasting per eenheid van een product.", "Indirecte belastingen": "Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.", "Subsidie": "Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.", "Quotum": "Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd.", "Autoriteit Consument en Markt": "Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.", "Zelfstandig bestuursorgaan": "Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt.", "Kruislingse prijselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B.", "Hoeveelheidseffect": "De verandering van de omzet doordat de afzet verandert na een prijsverandering.", "Wet van Engel": "Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven.", "Drempelinkomen": "Het inkomen vanaf waar een consument een product gaat kopen.", "Inkomensvraaglijn": "Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product.", "Sluitingspunt": "Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren.", "Capaciteitskosten": "Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten).", "Perfecte markt": "Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs.", "Niet-perfecte markt": "Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs.", "Marktvorm": "Het geheel van prijsbepalende factoren op een markt.", "Marktevenwicht": "Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Prijsmechanisme": "Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn.", "Marginale producent": "De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven.", "Bedrijfsevenwicht": "Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen.", "Pareto-optimum": "Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.", "Economisch surplus": "De som van het consumentensurplus en het producentensurplus.", "Allocatie": "De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden.", "Heterogene producten": "Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen.", "Natuurlijk monopolie": "Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen.", "Wettelijk monopolie": "Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi.", "Collectief monopolie": "Aanbieders die samen optreden als één aanbieder, zoals de OPEC.", "Prijsdifferentiatie": "Verschillende prijzen vragen omdat de kosten van het product verschillen.", "Harberger-driehoek": "Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek.", "Geknikte afzetcurve": "Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging.", "Prijsstarheid": "Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen.", "Marktfalen": "Situatie waarin de markt niet tot een optimale uitkomst leidt.", "Interventieprijs": "Minimumprijs waarvoor de overheid overschotten van boeren opkoopt.", "Afwentelingspercentage": "Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument.", "Kostprijsverlagende subsidie": "Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift.", "Concentratie": "Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen.", "Mededingingsbeleid": "Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt.", "Quotering": "Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."});
+LEVELS.F.begrippen = Object.assign(LEVELS.F.begrippen||{}, {"Dominante strategie": "Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.", "Gevangenendilemma": "Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.", "Simultaan spel": "Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.", "Niet-coöperatief spel": "Spel waarin de spelers geen bindende afspraken kunnen maken.", "Nash-evenwicht": "Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.", "Tit-for-tatstrategie": "Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.", "Prijzenoorlog": "Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.", "Clementieregeling": "Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.", "Zelfbinding": "Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.", "Prijskartel": "Kartel waarin ondernemingen afspraken maken over de verkoopprijs.", "Meeliftersgedrag": "Profiteren van een goed of voorziening zonder eraan mee te betalen.", "Collectieve dwang": "Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.", "Individuele goederen": "Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.", "Sequentieel spel": "Spel waarin de spelers na elkaar kiezen en de keuze van de vorige speler kennen.", "Ultimatumspel": "Spel waarin één speler een verdeling voorstelt en de ander alleen kan accepteren of weigeren.", "Verzonken kosten": "Kosten die al gemaakt zijn en niet meer terug te verdienen zijn.", "Berovingsprobleem": "Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.", "Werknemerssurplus": "Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.", "Werkgeverssurplus": "Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.", "Cao": "Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.", "Algemeen verbindend verklaren": "Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.", "Wig": "Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.", "Prijscompensatie": "Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.", "Incidentele loonstijging": "Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.", "Loonruimte": "De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.", "Primaire arbeidsvoorwaarden": "Afspraken over loon en werktijden.", "Secundaire arbeidsvoorwaarden": "Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.", "Diepte-investering": "Investering waarbij arbeid wordt vervangen door kapitaal, zoals machines of robots.", "Sociale partners": "De werkgeversorganisaties en vakbonden die samen overleggen over arbeidsvoorwaarden.", "Stichting van de Arbeid": "Landelijk overlegorgaan van werkgevers en werknemers.", "Arbeidsmarkt": "De totale vraag naar en het totale aanbod van arbeid.", "Loonstarheid": "Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.", "Arbeidsaanbod": "De hoeveelheid arbeid die mensen willen en kunnen verrichten.", "Pareto-optimum": "Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.", "Coördinatiespel": "Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken.", "Achterwaartse inductie": "Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren.", "Pay-offmatrix": "Tabel met de strategieën en uitkomsten van een simultaan spel.", "Grim trigger": "Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt.", "Geloofwaardige dreiging": "Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is.", "Reputatie": "Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag.", "Herhaald spel": "Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden.", "Laagsteprijsgarantie": "Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is.", "Rivaliteit": "Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander.", "Uitsluitbaarheid": "Mensen die niet betalen kunnen van het gebruik worden uitgesloten.", "Clubgoed": "Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst.", "Gemeenschappelijke middelen": "Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan.", "Internaliseren": "Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing.", "Emissierechten": "Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten.", "Onderhandelingsruimte": "Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper.", "Relatiespecifieke investering": "Investering die alleen waarde heeft binnen één bepaalde samenwerking.", "Monopsonie": "Marktvorm met één vrager tegenover veel aanbieders.", "Verticale integratie": "Samengaan van bedrijven uit opeenvolgende schakels van de productieketen.", "Centraal akkoord": "Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid.", "Contractloonstijging": "De loonstijging uit de cao: prijscompensatie plus initiële loonstijging.", "Armoedeval": "Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen.", "Reserveringsloon": "Het laagste loon waarvoor iemand bereid is te werken."});
 LEVELS.G.begrippen = Object.assign(LEVELS.G.begrippen||{}, {"Risicoaversie": "Liever een zekere kleine uitgave (de premie) dan het risico op een grote schade.", "Polisvoorwaarden": "De regels van een verzekering: wat wel en niet gedekt is.", "Verzekeringspremie": "Het bedrag dat je betaalt om verzekerd te zijn.", "Eigen risico": "Het deel van de schade dat je zelf moet betalen.", "Moral hazard": "Minder voorzichtig gedrag nadat je verzekerd bent, omdat de schade toch wordt vergoed.", "Averechtse selectie": "Vooral mensen met een hoog risico sluiten een verzekering af, waardoor de premie stijgt.", "Asymmetrische informatie": "De ene partij weet meer dan de andere partij.", "Bonus-malusregeling": "Je premie daalt als je geen schade claimt en stijgt na een schadeclaim.", "Risicoselectie": "Een verzekeraar maakt onderscheid tussen klanten op basis van hun risico.", "Vereveningsfonds": "Fonds dat zorgverzekeraars met veel dure klanten compenseert.", "Onderverzekering": "Het verzekerde bedrag is lager dan de werkelijke waarde, waardoor maar een deel van de schade wordt vergoed.", "Inboedelverzekering": "Verzekering voor de spullen in je huis.", "Opstalverzekering": "Verzekering voor het huis zelf.", "Nominale zorgpremie": "Het vaste deel van de zorgpremie dat je aan de zorgverzekeraar betaalt.", "Volksverzekeringen": "Sociale verzekeringen die voor alle inwoners gelden, zoals de AOW.", "Werknemersverzekeringen": "Sociale verzekeringen die alleen voor werknemers gelden, zoals de WW.", "Sociale voorzieningen": "Uitkeringen uit belastinggeld voor wie te weinig inkomen heeft, zonder premiebetaling.", "Sociaal minimum": "Het minimuminkomen dat de overheid nodig vindt om van te leven.", "Welvaartsvaste uitkering": "Een uitkering die meestijgt met de lonen.", "Waardevaste uitkering": "Een uitkering die meestijgt met de prijzen, zodat de koopkracht gelijk blijft.", "Omslagstelsel": "De premies van de werkenden van nu worden direct gebruikt voor de uitkeringen van nu.", "Kostendelersnorm": "Regel waardoor de bijstand lager is als je met andere volwassenen een huis deelt.", "Participatiewet": "Wet die de bijstand regelt en mensen helpt aan het werk te komen."});
+LEVELS.I.begrippen = Object.assign(LEVELS.I.begrippen||{}, {"Output gap": "Het verschil tussen de feitelijke productie en de potentiële productie.", "Hoogconjunctuur": "Periode waarin de feitelijke productie boven de potentiële productie ligt.", "Laagconjunctuur": "Periode waarin de feitelijke productie onder de potentiële productie ligt.", "Recessie": "Periode waarin de economie krimpt.", "Consumentenvertrouwen": "Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie.", "Producentenvertrouwen": "Mate waarin ondernemers optimistisch zijn over de afzet en de economie.", "Trend": "De gemiddelde groei van het reële bbp over een lange periode.", "Effectieve vraag": "De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen.", "Marginale consumptiequote": "Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie.", "Marginale spaarquote": "Het deel van een extra euro besteedbaar inkomen dat wordt gespaard.", "Multiplier": "De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost.", "Spaarlek": "Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen.", "Belastinglek": "Het deel van een extra inkomen dat naar de overheid gaat als belasting.", "IS-curve": "Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag.", "Taylor-regel": "Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap.", "Naïeve inflatieverwachting": "De verwachting dat de inflatie gelijk blijft aan die van de vorige periode.", "Anticyclisch conjunctuurbeleid": "Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur.", "Ingebouwde stabilisatoren": "Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen.", "Inverdieneffect": "Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen.", "Uitverdieneffect": "Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt.", "Conjuncturele werkloosheid": "Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit.", "Beroepsbevolking": "Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn.", "Werkgelegenheid": "De vraag naar arbeid: het aantal bezette banen plus de vacatures.", "Verborgen werkloosheid": "Mensen die werk willen maar niet als werkzoekend staan geregistreerd.", "Bruto arbeidsparticipatie": "De beroepsbevolking als percentage van de beroepsgeschikte bevolking.", "Arbeidsjaar": "Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar.", "Ontmoedigingseffect": "Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is.", "Kwalitatieve structurele werkloosheid": "Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures.", "Kwantitatieve structurele werkloosheid": "Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn.", "Frictiewerkloosheid": "Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan.", "Seizoenswerkloosheid": "Werkloosheid door seizoensschommelingen in de bedrijvigheid.", "Natuurlijke werkloosheid": "De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie.", "Gespannen arbeidsmarkt": "Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod.", "Vacatures": "Openstaande banen waarvoor werkgevers personeel zoeken.", "Arbeidsmarkt": "De totale vraag naar en het totale aanbod van arbeid.", "Loonstarheid": "Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.", "Arbeidsaanbod": "De hoeveelheid arbeid die mensen willen en kunnen verrichten.", "Consumentenprijsindex": "Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen.", "Partiële prijsindex": "Prijsindexcijfer van één productgroep.", "Deflatie": "Een daling van het algemene prijspeil.", "Waardevast inkomen": "Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft.", "Welvaartsvast inkomen": "Een inkomen dat meestijgt met de lonen.", "Geldillusie": "Letten op het nominale bedrag in plaats van op de koopkracht.", "Bestedingsinflatie": "Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit.", "Kosteninflatie": "Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen.", "Geïmporteerde inflatie": "Inflatie doordat ingevoerde goederen, zoals energie, duurder worden.", "Maatschappelijke geldhoeveelheid": "Chartaal geld plus giraal geld in handen van het publiek.", "Secundaire liquiditeiten": "Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten.", "Geldschepping": "Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt.", "Wederzijdse schuldaanvaarding": "Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat.", "Liquiditeit": "De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen.", "Depositogarantiestelsel": "Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt.", "Monetair beleid": "Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden.", "Kasreserveregeling": "Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank.", "Quantitative easing": "De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren.", "Zero lower bound": "De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen.", "Reële rente": "De nominale rente gecorrigeerd voor inflatie.", "Betalingsbalans": "Overzicht van alle geldstromen tussen een land en het buitenland in een periode.", "Lopende rekening": "Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten.", "Financiële rekening": "Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten.", "Wederuitvoer": "Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad.", "Inkomensoverdrachten": "Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat.", "Protectie": "Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie.", "Opvoedingsargument": "Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie.", "Contingentering": "Het beperken van de invoer tot een maximale hoeveelheid.", "Offshoring": "Het verplaatsen van bedrijfsactiviteiten naar het buitenland.", "Comparatief voordeel": "Een land kan een product met relatief minder opofferingen maken dan een ander land.", "Appreciatie": "Een waardestijging van een munt door veranderingen in vraag en aanbod.", "Depreciatie": "Een waardedaling van een munt door veranderingen in vraag en aanbod.", "Devaluatie": "Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen.", "Revaluatie": "Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen.", "Trilemma": "Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben.", "Douane-unie": "Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief.", "Monetaire unie": "Samenwerking waarin de landen één munt en één centrale bank hebben.", "Convergentiecriteria": "De eisen waaraan een land moet voldoen om de euro in te voeren.", "Vrijhandelszone": "Samenwerking waarin de landen onderling geen invoerrechten heffen.", "Gemeenschappelijke markt": "Douane-unie met ook vrij verkeer van arbeid en kapitaal."});

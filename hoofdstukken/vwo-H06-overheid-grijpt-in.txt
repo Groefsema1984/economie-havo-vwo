@@ -1,0 +1,107 @@
+# HOOFDSTUK v 6 | De overheid grijpt in
+domein: D
+hoofdvraag: Waarom en hoe grijpt de overheid in het economisch proces in?
+
+## § 6.1 | Waarom grijpt de overheid in?
+onderwerp: D.falen
+deelvraag: Welke motieven heeft de overheid om in te grijpen in het economisch proces?
+leerdoelen: ECO-ALGEM-07
+ook: h 6.1
+### UITLEG Marktfalen
+De overheid grijpt in als de markt niet optimaal werkt (marktfalen):
+- Collectieve goederen: niet splitsbaar en niet-uitsluitbaar (dijken, defensie). Bij individuele goederen liggen beslissen, betalen en genieten in één hand. Quasi-collectieve goederen zijn individuele goederen die toch door de overheid worden geleverd (onderwijs, infrastructuur).
+- Externe effecten: gevolgen van productie of consumptie van de één voor de welvaart van een ander, positief of negatief.
+- Een onaanvaardbare inkomensverdeling: Participatiewet, minimumloon, progressieve inkomstenbelasting.
+- Marktmacht: misbruik door monopolies en kartels tegengaan.
+### BEGRIPPEN
+Marktfalen = Situatie waarin de markt niet tot een optimale uitkomst leidt.
+### MC
+Welke reden voor overheidsingrijpen hoort bij een progressieve inkomstenbelasting?
+* Een aanvaardbare inkomensverdeling
+- Externe effecten
+- Collectieve goederen
+- Marktmacht
+> Hogere inkomens betalen verhoudingsgewijs meer: de verschillen worden kleiner.
+
+## § 6.2 | Maximumprijzen en minimumprijzen
+onderwerp: D.falen
+deelvraag: Wat zijn de motieven voor en de gevolgen van maximum- en minimumprijzen?
+### UITLEG Maximumprijzen
+Motief: de consument beschermen (maximumhuur, maximumtarieven van de NZa, geneesmiddelen). Bij volledige mededinging ontstaat een vraagoverschot en verlies aan economisch surplus (Harberger-driehoek). Bij een monopolie (zoals het ov) kan de prijs juist dichter bij de marginale kosten komen, waardoor de productie en het totale surplus groter worden.
+### UITLEG Minimumprijzen
+Motief: de aanbieder beschermen (minimumloon). Voorbeeld: het Europese landbouwbeleid met invoerrechten op goedkope import, interventieprijzen (minimumprijzen) voor boeren en exportsubsidies om overschotten op de wereldmarkt kwijt te raken. Gevolgen: kleiner consumentensurplus, groter producentensurplus, welvaartsverlies en een structureel aanbodoverschot.
+### BEGRIPPEN
+Interventieprijs = Minimumprijs waarvoor de overheid overschotten van boeren opkoopt.
+Maximumprijs = De hoogste prijs die een aanbieder van de overheid mag vragen.
+Minimumprijs = De laagste prijs waarvoor een product van de overheid mag worden verkocht.
+### MC
+Waarom kan een maximumprijs bij een monopolist het totale surplus vergroten?
+* De monopolist kan geen hoge prijs meer vragen en produceert meer, dichter bij de hoeveelheid waar P = MK
+- Omdat de monopolist dan verlies maakt
+- Omdat er een vraagoverschot ontstaat
+- Omdat de vraaglijn naar rechts verschuift
+> Zonder ingrijpen beperkt de monopolist de productie. Een maximumprijs neemt die prikkel deels weg.
+### MC
+Welke combinatie hoorde bij het Europese landbouwbeleid?
+* Interventieprijzen, invoerrechten en exportsubsidies
+- Maximumprijzen, importsubsidies en accijnzen
+- Quota voor consumenten en lage prijzen
+- Vrije handel zonder overheidsingrijpen
+> Minimumprijzen beschermden de boeren; invoerrechten en exportsubsidies hielden dat in stand.
+### MC
+Wat ontstaat er structureel bij een minimumprijs boven de evenwichtsprijs?
+* Een aanbodoverschot
+- Een vraagoverschot
+- Een zwarte markt met hoge prijzen
+- Een groter consumentensurplus
+> Producenten willen bij de hoge prijs meer leveren dan consumenten willen kopen.
+
+## § 6.3 | Heffingen en subsidies
+onderwerp: D.heffing
+deelvraag: Wat zijn de motieven voor en de gevolgen van indirecte belastingen en subsidies?
+leerdoelen: ECO-BELAS-02, ECO-BELAS-03, ECO-BELAS-04
+ook: h 6.4
+### UITLEG Accijns en btw
+Accijns: een vast bedrag per product. De aanbodlijn verschuift evenwijdig omhoog.
+Btw: een percentage van de prijs. De aanbodlijn draait omhoog: de afstand tussen de oude en de nieuwe lijn wordt groter bij een hogere prijs.
+Het afwentelingspercentage geeft aan welk deel van de heffing de producent doorberekent aan de consument. Hoe minder prijsgevoelig de vraag, hoe hoger het afwentelingspercentage.
+Gevolgen: kleiner consumenten- en producentensurplus, een opbrengst voor de overheid en een welvaartsverlies.
+### UITLEG Subsidies
+Een kostprijsverlagende subsidie verschuift de aanbodlijn naar beneden: de evenwichtsprijs daalt en de hoeveelheid stijgt. Motieven: prijzen laag houden of duurzaamheid bevorderen (woningbouw, ov, cultuur).
+### BEGRIPPEN
+Afwentelingspercentage = Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument.
+Kostprijsverlagende subsidie = Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift.
+### MC
+Hoe verschuift de aanbodlijn door een btw-verhoging?
+* Hij draait omhoog: de verschuiving is groter bij een hogere prijs
+- Hij verschuift evenwijdig omhoog
+- Hij verschuift evenwijdig naar beneden
+- Hij blijft liggen, alleen de vraaglijn verschuift
+> Btw is een percentage van de prijs, dus het bedrag per stuk groeit met de prijs.
+### MC
+De vraag naar sigaretten is zeer prijsinelastisch. Wat verwacht je bij een hogere accijns?
+* Een hoog afwentelingspercentage: rokers betalen het grootste deel van de accijns
+- Een laag afwentelingspercentage: de producenten betalen bijna alles
+- Een sterke daling van de afzet
+- Geen opbrengst voor de overheid
+> Als de vraag nauwelijks reageert, kan de producent de heffing makkelijk in de prijs doorberekenen.
+
+## § 6.4 | Overige overheidsingrepen
+onderwerp: D.falen
+deelvraag: Welke instrumenten heeft de overheid nog meer en hoe werken ze?
+ook: h 6.5
+### UITLEG Quotering
+Een productiequotum stelt wettelijk een maximale productie vast (vangst van tong en kabeljauw, landbouw). Doel: negatieve externe effecten wegnemen en het maatschappelijk optimum bereiken.
+### UITLEG Mededingingsbeleid
+Een kartel is een verboden samenwerking tussen juridisch zelfstandige ondernemingen om de onderlinge concurrentie te beperken. Concentratie is het verschijnsel dat steeds minder bedrijven de beslissingen over de productie nemen (zoals bij de grote banken). De overheid (ACM) let op ongewenste marktmacht en kan fusies verbieden.
+### BEGRIPPEN
+Concentratie = Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen.
+Mededingingsbeleid = Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt.
+Quotering = Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid.
+### MC
+De ACM verbiedt een fusie tussen de twee grootste aanbieders. Welk doel heeft dat?
+* Voorkomen dat er te veel marktmacht ontstaat, waardoor de prijzen stijgen
+- De werkgelegenheid verlagen
+- Externe effecten internaliseren
+- Een collectief goed leveren
+> Mededingingsbeleid tegen concentratie.

@@ -1,0 +1,84 @@
+# HOOFDSTUK v 8 | Onderhandelen
+domein: F
+hoofdvraag: Hoe komen prijzen door onderhandeling tot stand en hoe worden de opbrengsten van samenwerking verdeeld?
+
+## § 8.1 | Onderhandelingsvoorwaarden
+onderwerp: F.spel
+deelvraag: Onder welke voorwaarden is onderhandeling over prijzen mogelijk?
+leerdoelen: ECO-SPELT-05
+ook: h 8.1
+### UITLEG Marktvorm en onderhandelingsruimte
+Bij volledige mededinging valt er niets te onderhandelen: iedereen is prijsnemer. Bij een oligopolie, monopolistische concurrentie of monopolie (of een monopsonie: één vrager) is er wel onderhandelingsruimte.
+De onderhandelingsruimte is het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs waarvoor de verkoper wil leveren (reserveringsprijs). De onderhandeling bepaalt hoe het totale surplus wordt verdeeld. Wie de meeste marktmacht of het beste alternatief heeft, krijgt het grootste deel.
+### UITLEG Hold-up (beroving)
+Een relatiespecifieke investering heeft alleen waarde binnen één samenwerking. Na de investering zijn de kosten verzonken. De afnemer kan dan een lagere prijs eisen; de leverancier accepteert elke prijs die minstens zijn variabele kosten dekt. Zo wordt hij 'beroofd' van zijn surplus. Gevolg: zulke investeringen worden niet gedaan. Oplossingen: langetermijncontracten, verticale integratie (fusie) of wederzijdse zelfbinding.
+Rationele beslissingen houden geen rekening met verzonken kosten, alleen met toekomstige kosten en baten.
+### BEGRIPPEN
+Onderhandelingsruimte = Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper.
+Relatiespecifieke investering = Investering die alleen waarde heeft binnen één bepaalde samenwerking.
+Monopsonie = Marktvorm met één vrager tegenover veel aanbieders.
+Verticale integratie = Samengaan van bedrijven uit opeenvolgende schakels van de productieketen.
+### MC
+Een koper wil maximaal € 50.000 betalen, de verkoper wil minimaal € 42.000 ontvangen. Ze komen uit op € 47.000. Hoe groot is het surplus van de verkoper?
+* € 5.000
+- € 3.000
+- € 8.000
+- € 47.000
+> 47.000 − 42.000 = € 5.000. Het totale surplus is € 8.000, de koper krijgt € 3.000.
+### MC
+Waarom valt er bij volledige mededinging niet te onderhandelen over de prijs?
+* Iedereen is prijsnemer: wie een hogere prijs vraagt, raakt al zijn kopers kwijt aan de vele concurrenten
+- Omdat de overheid de prijs vaststelt
+- Omdat de producten heterogeen zijn
+- Omdat er een monopsonie is
+> De marktprijs komt anoniem tot stand door vraag en aanbod.
+### MC
+Welke oplossing voor het hold-upprobleem hoort bij verticale integratie?
+* De afnemer en de toeleverancier gaan samen in één bedrijf, zodat er niemand meer te beroven valt
+- De toeleverancier zoekt meer afnemers
+- De overheid geeft subsidie op de investering
+- De afnemer betaalt alles vooruit
+> Binnen één bedrijf verdwijnt het belangenconflict.
+
+## § 8.2 | Loonvorming
+onderwerp: I.werk
+deelvraag: Hoe komen de arbeidsvoorwaarden tot stand?
+gens: werkloosheid, reeelIndex
+ook: h 8.2
+### UITLEG Arbeidsovereenkomst
+Een werknemer verplicht zich onder gezag tegen loon te werken. Lonen worden giraal betaald. Primaire voorwaarden: brutoloon, werkuren, vakantiegeld. Secundaire: pensioen, reiskosten, leaseauto, scholing. Einde: met wederzijds goedvinden, via kantonrechter of UWV, in de proeftijd, ontslag op staande voet of door faillissement.
+### UITLEG Evenwichtsloon en minimumloon
+Evenwichtsloon: vraag naar arbeid = aanbod van arbeid. Werkgeverssurplus: wat de werknemer maximaal waard is (productiviteit) min het loon. Werknemerssurplus: het loon min het reserveringsloon. Ligt het minimumloon boven het evenwichtsloon, dan ontstaat werkloosheid aan de onderkant.
+### UITLEG Overlegmodel en loonruimte
+Drie niveaus: centraal (Stichting van de Arbeid: centraal akkoord), bedrijfstak (sectorale cao, eventueel avv door de minister) en onderneming (ondernemings-cao).
+Loonruimte = verwachte inflatie + stijging van de arbeidsproductiviteit. Contractloonstijging = prijscompensatie + initiële loonstijging. Incidentele loonstijging is persoonlijk.
+Loonwig = loonkosten − nettoloon. Een hoge wig maakt arbeid duur voor werkgevers en werken minder lonend (armoedeval).
+### UITLEG Loonstarheid en reëel loon
+Nominale lonen zijn star: cao's lopen 1 à 2 jaar en werknemers accepteren geen nominale loonsverlaging. Daardoor leidt een negatieve schok op korte termijn tot minder productie en meer werkloosheid (koppeling met het IS-MB-GA-model).
+Reëel loonindexcijfer = nominaal loonindexcijfer : prijsindexcijfer × 100.
+### BEGRIPPEN
+Centraal akkoord = Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid.
+Contractloonstijging = De loonstijging uit de cao: prijscompensatie plus initiële loonstijging.
+Armoedeval = Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen.
+Reserveringsloon = Het laagste loon waarvoor iemand bereid is te werken.
+### MC
+Het nominale loonindexcijfer is 112 en het prijsindexcijfer is 105. Hoe groot is het reële loonindexcijfer?
+* 106,7
+- 107
+- 117,6
+- 93,8
+> 112 : 105 × 100 = 106,7.
+### MC
+De cao geeft 2,5% prijscompensatie en 1% initiële loonstijging. Een werknemer krijgt ook een periodiek van 2%. Hoe groot is de contractloonstijging?
+* 3,5%
+- 5,5%
+- 2,5%
+- 1%
+> Contractloon = prijscompensatie + initieel. Het periodiek is incidenteel.
+### MC
+Waarom leidt loonstarheid bij een negatieve vraagschok tot meer werkloosheid op korte termijn?
+* De lonen dalen niet mee, dus werkgevers passen zich aan door minder mensen in dienst te nemen
+- Omdat lonen dan juist stijgen
+- Omdat de productiviteit stijgt
+- Omdat de inflatie dan hoger wordt
+> Als de prijs van arbeid niet daalt, past de hoeveelheid zich aan.

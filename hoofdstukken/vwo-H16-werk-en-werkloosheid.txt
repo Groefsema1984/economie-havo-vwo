@@ -1,0 +1,102 @@
+# HOOFDSTUK v 16 | Werk en werkloosheid
+domein: I
+hoofdvraag: Waardoor wordt werkloosheid veroorzaakt en welke instrumenten zijn er om werkloosheid te bestrijden?
+
+## § 16.1 | Beroepsbevolking
+onderwerp: I.werk
+deelvraag: Wat is de relatie tussen de beroepsbevolking, werkgelegenheid en werkloosheid?
+gens: werkloosheid
+### UITLEG Vraag naar en aanbod van arbeid
+Vraag naar arbeid (werkgelegenheid) = werkenden + vacatures. Aanbod van arbeid (beroepsbevolking) = alle mensen van 15 tot 75 jaar die minstens 1 uur per week betaald werken, of die recent werk hebben gezocht en direct beschikbaar zijn.
+Opbouw (voorbeeld): bevolking 17,8 mln. Daarvan 13,3 mln tussen 15 en 75 jaar (beroepsgeschikte bevolking): 10 mln beroepsbevolking (9,7 mln werkzaam en 0,3 mln werkloos) en 3,3 mln niet-beroepsbevolking.
+Werkloosheidspercentage = werklozen : beroepsbevolking × 100%.
+### UITLEG Verborgen werkloosheid en stromen
+Verborgen werkloosheid: mensen die wel werk willen maar niet als werkzoekend staan geregistreerd (baanloze partners, ontmoedigde jongeren, arbeidsongeschikten die met voorzieningen zouden kunnen werken). Verborgen werkgelegenheid: zwart werk.
+Aanmoedigingseffect: in hoogconjunctuur gaan meer mensen werk zoeken. Ontmoedigingseffect: in laagconjunctuur trekken mensen zich terug.
+Brutoparticipatiegraad = beroepsbevolking : beroepsgeschikte bevolking. De i/a-ratio = inactieven : actieven.
+Een arbeidsjaar is een maatstaf voor het arbeidsvolume: het aantal uren van een voltijdbaan in een jaar.
+### BEGRIPPEN
+Beroepsbevolking = Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn.
+Werkgelegenheid = De vraag naar arbeid: het aantal bezette banen plus de vacatures.
+Verborgen werkloosheid = Mensen die werk willen maar niet als werkzoekend staan geregistreerd.
+Bruto arbeidsparticipatie = De beroepsbevolking als percentage van de beroepsgeschikte bevolking.
+Arbeidsjaar = Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar.
+Ontmoedigingseffect = Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is.
+### MC
+De beroepsgeschikte bevolking is 13,3 miljoen. De beroepsbevolking is 10 miljoen. Hoe groot is de brutoparticipatiegraad?
+* 75,2%
+- 133%
+- 24,8%
+- 3%
+> 10 : 13,3 × 100% = 75,2%.
+### MC
+In een laagconjunctuur stoppen veel mensen met zoeken naar werk. Wat gebeurt er met het officiële werkloosheidspercentage?
+* Het stijgt minder dan je zou verwachten, omdat deze mensen niet meer tot de beroepsbevolking worden gerekend
+- Het stijgt extra hard
+- Het daalt altijd
+- Het verandert niet, want verborgen werklozen tellen mee
+> Het ontmoedigingseffect verbergt een deel van de werkloosheid.
+### MC
+Bij welke groep hoort een student die 4 uur per week in een supermarkt werkt?
+* De werkzame beroepsbevolking
+- De niet-beroepsbevolking
+- De werkloze beroepsbevolking
+- De verborgen werklozen
+> Minstens 1 uur per week betaald werk telt mee.
+
+## § 16.2 | Oorzaken van werkloosheid
+onderwerp: I.werk
+deelvraag: Waarom is het zinvol om onderscheid te maken tussen structurele en conjuncturele werkloosheid?
+### UITLEG Structurele werkloosheid (aanbodkant)
+Kwantitatief: structureel te weinig arbeidsplaatsen. Oorzaken: te hoge arbeidskosten, concurrentie uit lagelonenlanden, fusies, overheidsmaatregelen. Beleid: loonmatiging, innovatie stimuleren, de concurrentiepositie verbeteren.
+Kwalitatief: het aanbod van arbeid past niet bij de vraag. Oorzaken: verkeerde scholing, te weinig regionale mobiliteit. Beleid: voorlichting bij studiekeuze, bedrijven in regio's met veel werklozen vestigen, loonkostensubsidies, om- en bijscholing.
+Seizoenswerkloosheid (landbouw, toerisme) en frictiewerkloosheid (zoektijd tussen twee banen) horen samen met structurele werkloosheid bij de natuurlijke werkloosheid.
+### UITLEG Conjuncturele werkloosheid (vraagkant)
+Ontstaat doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit. Oorzaken: minder consumenten- en producentenvertrouwen, bezuinigingen. Beleid: de effectieve vraag vergroten, bijvoorbeeld met extra overheidsbestedingen.
+Het onderscheid is belangrijk omdat de bestrijding anders is: meer bestedingen helpen niet tegen een tekort aan geschikte werknemers.
+### BEGRIPPEN
+Kwalitatieve structurele werkloosheid = Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures.
+Kwantitatieve structurele werkloosheid = Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn.
+Frictiewerkloosheid = Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan.
+Seizoenswerkloosheid = Werkloosheid door seizoensschommelingen in de bedrijvigheid.
+Natuurlijke werkloosheid = De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie.
+### MC
+Er zijn veel vacatures voor technici, terwijl veel werklozen een administratieve opleiding hebben. Welke werkloosheid is dit?
+* Kwalitatieve structurele werkloosheid
+- Conjuncturele werkloosheid
+- Kwantitatieve structurele werkloosheid
+- Seizoenswerkloosheid
+> Er is werk, maar het past niet bij de werkzoekenden.
+### MC
+Welk beleid past bij conjuncturele werkloosheid?
+* De effectieve vraag vergroten, bijvoorbeeld met extra overheidsinvesteringen
+- Omscholing van werklozen
+- Loonmatiging om de concurrentiepositie te verbeteren
+- Vakantiespreiding
+> Conjuncturele werkloosheid komt door te weinig bestedingen.
+### MC
+Welke werkloosheid daalt door de vakanties van scholen over het land te spreiden?
+* Seizoenswerkloosheid
+- Frictiewerkloosheid
+- Conjuncturele werkloosheid
+- Kwantitatieve structurele werkloosheid
+> Het toeristenseizoen wordt langer, zodat horeca langer werk heeft.
+
+## § 16.3 | Arbeidsmarkt en lonen
+onderwerp: I.werk
+deelvraag: Is er een verband tussen beloningsstructuur en werkloosheid?
+ook: h 8.4
+### UITLEG Deelmarkten en loonvorming
+De arbeidsmarkt bestaat uit veel deelmarkten (per beroep, opleiding en regio). Een gespannen arbeidsmarkt heeft meer vacatures dan werkzoekenden.
+Het minimumloon (Wet minimumloon en minimumvakantiebijslag) is een bodem in de beloning. Loonstarheid: lonen dalen nauwelijks door langlopende cao's en regels. Daardoor kan werkloosheid lang blijven bestaan.
+De wig (loonkosten min nettoloon) maakt arbeid duurder voor werkgevers.
+### BEGRIPPEN
+Gespannen arbeidsmarkt = Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod.
+Vacatures = Openstaande banen waarvoor werkgevers personeel zoeken.
+### MC
+Op de arbeidsmarkt voor leraren natuurkunde zijn veel meer vacatures dan sollicitanten. Hoe heet deze deelmarkt?
+* Een gespannen arbeidsmarkt
+- Een ruime arbeidsmarkt
+- Een markt met conjuncturele werkloosheid
+- Een markt in evenwicht
+> De vraag naar arbeid is groter dan het aanbod.

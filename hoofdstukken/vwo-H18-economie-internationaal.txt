@@ -1,0 +1,161 @@
+# HOOFDSTUK v 18 | Economie internationaal
+domein: I
+hoofdvraag: Welke rol spelen internationale betrekkingen in de ontwikkeling van de Nederlandse economie?
+
+## § 18.1 | De betalingsbalans
+onderwerp: I.saldi
+deelvraag: Op welke manier worden internationale geldstromen op de betalingsbalans geregistreerd?
+leerdoelen: ECO-ALGEM-02
+### UITLEG Opbouw
+De betalingsbalans is een overzicht van alle geldstromen uit transacties met het buitenland in een periode.
+Lopende rekening: goederen en diensten, primaire inkomens (lonen en rente van en naar het buitenland) en inkomensoverdrachten zonder tegenprestatie (geld naar familie in het buitenland, ontwikkelingshulp).
+Financiële rekening: directe investeringen (bedrijven in het buitenland oprichten of overnemen), effectentransacties (aandelen en obligaties), internationale kredietverlening (handelskrediet) en vermogensoverdrachten (schenkingen, schuldkwijtschelding).
+Mutatie officiële reserves: bij een overschot op de totale betalingsbalans nemen de deviezenreserves toe, bij een tekort nemen ze af.
+### UITLEG Saldi
+Y = C + I + O + E − M = C + S + B, dus (S − I) + (B − O) = E − M.
+Een overschot op de lopende rekening (E > M) betekent dat de binnenlandse sectoren samen meer sparen dan ze investeren: het land leent geld uit aan het buitenland.
+Nederland is een open economie met veel wederuitvoer (goederen die hier binnenkomen en na een kleine bewerking weer vertrekken) en doorvoer.
+### BEGRIPPEN
+Betalingsbalans = Overzicht van alle geldstromen tussen een land en het buitenland in een periode.
+Lopende rekening = Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten.
+Financiële rekening = Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten.
+Wederuitvoer = Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad.
+Inkomensoverdrachten = Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat.
+### MC
+Een Nederlands bedrijf koopt een fabriek in Polen. Waar komt deze transactie op de betalingsbalans?
+* Op de financiële rekening, als directe investering
+- Op de lopende rekening, bij goederen
+- Op de lopende rekening, bij inkomensoverdrachten
+- Bij de mutatie officiële reserves
+> Het oprichten of overnemen van bedrijven in het buitenland is een directe investering.
+### MC
+In een land is S − I = 40, B − O = −10. Hoe groot is het saldo op de lopende rekening (E − M)?
+* +30
+- +50
+- −30
+- −50
+> (S − I) + (B − O) = E − M, dus 40 − 10 = 30.
+### MC
+Een Poolse werknemer in Nederland stuurt een deel van zijn loon naar zijn familie. Waar staat dat?
+* Op de lopende rekening, bij inkomensoverdrachten
+- Op de financiële rekening
+- Bij de primaire inkomens
+- Bij de goederenrekening
+> Er staat geen tegenprestatie tegenover.
+
+## § 18.2 | Internationale handel
+onderwerp: C.intl
+deelvraag: Wat zijn de oorzaken en gevolgen van internationale handel?
+leerdoelen: ECO-PROTE-01, ECO-PROTE-02
+gens: comparatief
+### UITLEG Oorzaken van handel
+Comparatieve kostenverschillen en internationale arbeidsdeling, de wens van consumenten naar variatie in merken, geografische nabijheid en transport, een vrijhandelszone of muntunie, historische toevalligheden en verschillen in productiviteit en loonniveau.
+Globalisering wordt gestimuleerd door de WTO. Bedrijven besteden werk uit (outsourcing) of verplaatsen activiteiten naar het buitenland (offshoring).
+### UITLEG Protectie
+Protectie beschermt de eigen productie tegen buitenlandse concurrentie. Motieven: banen behouden, het opvoedingsargument (jonge industrie beschermen tot ze volwassen is), veiligheid en gezondheid, onafhankelijkheid (voedsel) en politieke redenen.
+Maatregelen: import belemmeren (invoerrechten, quota/contingenten, administratieve regels, verboden) of export stimuleren (exportsubsidies, belastingvoordelen, garanties op exportkredieten).
+Nadelen: je koopt niet meer waar het goedkoopst is (hogere prijzen), een negatief kettingeffect (minder import uit China betekent minder Chinese export, een lager Chinees bbp en minder Chinese import uit de EU) en represailles: handelsoorlogen zoals in de jaren dertig.
+### BEGRIPPEN
+Protectie = Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie.
+Opvoedingsargument = Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie.
+Contingentering = Het beperken van de invoer tot een maximale hoeveelheid.
+Offshoring = Het verplaatsen van bedrijfsactiviteiten naar het buitenland.
+Comparatief voordeel = Een land kan een product met relatief minder opofferingen maken dan een ander land.
+### MC
+De VS verhogen de invoerrechten op Europese auto's. Wat is een mogelijk kettingeffect voor de VS zelf?
+* De EU exporteert minder, het Europese inkomen daalt en de EU koopt minder Amerikaanse producten
+- De Amerikaanse export stijgt
+- Europese auto's worden goedkoper in de VS
+- Er verandert niets voor de VS
+> Minder handel de ene kant op leidt via lagere inkomens tot minder handel de andere kant op.
+### MC
+Welk argument voor protectie is het opvoedingsargument?
+* Een nieuwe bedrijfstak tijdelijk beschermen tot die kan concurreren
+- Voedsel zelf blijven produceren om onafhankelijk te zijn
+- Banen in een oude industrie behouden
+- Gevaarlijke producten weren
+> Infant industry argument.
+### MC
+Wat is het belangrijkste nadeel van protectie voor consumenten in het eigen land?
+* Ze betalen hogere prijzen, omdat goedkopere buitenlandse producten worden geweerd of duurder gemaakt
+- Ze kunnen meer kiezen
+- Hun lonen dalen direct
+- Ze betalen minder belasting
+> Protectie gaat ten koste van het consumentensurplus.
+
+## § 18.3 | Wisselkoersen
+onderwerp: C.intl
+deelvraag: Hoe komen wisselkoersen tot stand en waarom zijn ze belangrijk voor de economie?
+leerdoelen: ECO-WISSE-01
+gens: wisselkoers
+### UITLEG Vraag en aanbod van valuta
+Een wisselkoers is de prijs van de ene munt uitgedrukt in een andere. Bij zwevende koersen bepalen vraag en aanbod de koers. Appreciatie: de munt wordt meer waard; depreciatie: minder waard.
+Export van Europese producten naar de VS: vraag naar euro's, aanbod van dollars. Import uit de VS: vraag naar dollars, aanbod van euro's. Kapitaal naar de VS: vraag naar dollars. Kapitaal naar de EU: vraag naar euro's. Een hogere rente in het eurogebied trekt kapitaal aan en laat de euro stijgen.
+Een duurdere euro maakt de export duurder voor buitenlanders (slechtere concurrentiepositie) en de import goedkoper.
+### UITLEG Vaste koersen en het trilemma
+Bij een vaste koers (Denemarken ten opzichte van de euro) is er een spilkoers met een bandbreedte; de centrale bank grijpt in bij de interventiepunten. Een officiële aanpassing heet revaluatie (omhoog) of devaluatie (omlaag).
+Trilemma: een land kan maar twee van deze drie doelen tegelijk halen: een vaste wisselkoers, zelfstandig monetair beleid en vrij kapitaalverkeer.
+### BEGRIPPEN
+Appreciatie = Een waardestijging van een munt door veranderingen in vraag en aanbod.
+Depreciatie = Een waardedaling van een munt door veranderingen in vraag en aanbod.
+Devaluatie = Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen.
+Revaluatie = Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen.
+Trilemma = Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben.
+### MC
+De euro appreciëert ten opzichte van de dollar. Wat is het gevolg voor Europese exporteurs naar de VS?
+* Hun producten worden duurder in dollars, waardoor hun concurrentiepositie verslechtert
+- Hun producten worden goedkoper in dollars
+- Er verandert niets
+- Ze ontvangen meer euro's per verkocht product
+> Amerikanen moeten meer dollars betalen voor hetzelfde Europese product.
+### MC
+Amerikaanse beleggers kopen massaal Europese staatsobligaties. Wat gebeurt er met de euro?
+* De vraag naar euro's stijgt, de euro appreciëert
+- Het aanbod van euro's stijgt, de euro deprecieert
+- De euro devalueert
+- Niets, alleen de rente verandert
+> Om Europese obligaties te kopen hebben de beleggers euro's nodig.
+### MC
+Een land wil een vaste wisselkoers en vrij kapitaalverkeer. Wat moet het volgens het trilemma opgeven?
+* Een zelfstandig monetair beleid
+- De vaste wisselkoers
+- Het vrije kapitaalverkeer
+- Niets, alle drie kan
+> De rente moet dan worden ingezet om de koers vast te houden.
+
+## § 18.4 | Europese samenwerking
+onderwerp: C.intl
+deelvraag: Hoe heeft de economische samenwerking tussen Europese landen zich ontwikkeld?
+### UITLEG Vormen van integratie
+Van los naar steeds hechter: vrijhandelszone (geen onderlinge invoerrechten), douane-unie (plus een gemeenschappelijk buitentarief), gemeenschappelijke markt (plus vrij verkeer van arbeid en kapitaal), economische unie (plus afstemming van economisch beleid), monetaire unie (plus één munt) en politieke unie.
+### UITLEG De EMU
+Motieven: politiek (vrede in Europa na twee wereldoorlogen), geen wisselkosten, prijzen beter te vergelijken (meer concurrentie) en schaalvoordelen in één grote markt.
+Convergentiecriteria: (1) inflatie hoogstens 1,5 procentpunt boven het gemiddelde van de drie landen met de laagste inflatie, (2) begrotingstekort kleiner dan 3% van het bbp, (3) overheidsschuld hoogstens 60% van het bbp, (4) lange rente hoogstens 2 procentpunt boven het gemiddelde van die drie landen, (5) twee jaar een stabiele wisselkoers.
+Het Stabiliteits- en Groeipact moet de begrotingsdiscipline na toetreding bewaken. Problemen: divergentie (economieën groeien uit elkaar) en verschillen in belastingen en sociale zekerheid.
+### BEGRIPPEN
+Douane-unie = Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief.
+Monetaire unie = Samenwerking waarin de landen één munt en één centrale bank hebben.
+Convergentiecriteria = De eisen waaraan een land moet voldoen om de euro in te voeren.
+Vrijhandelszone = Samenwerking waarin de landen onderling geen invoerrechten heffen.
+Gemeenschappelijke markt = Douane-unie met ook vrij verkeer van arbeid en kapitaal.
+### MC
+Een land heeft een begrotingstekort van 4,5% van het bbp en wil de euro invoeren. Aan welk criterium voldoet het niet?
+* Het begrotingstekort moet kleiner zijn dan 3% van het bbp
+- De overheidsschuld moet onder 60% liggen
+- De inflatie moet onder 2% liggen
+- De rente moet onder 3% liggen
+> Een van de vijf convergentiecriteria.
+### MC
+Wat is het verschil tussen een vrijhandelszone en een douane-unie?
+* Een douane-unie heeft ook een gemeenschappelijk buitentarief tegenover andere landen
+- Een vrijhandelszone heeft één munt
+- In een douane-unie zijn er nog onderlinge invoerrechten
+- Er is geen verschil
+> In een vrijhandelszone bepaalt elk land zelf zijn tarieven tegenover derde landen.
+### MC
+Welk motief voor de muntunie was volgens de kader het belangrijkste?
+* Het politieke motief: oorlogen in Europa voorkomen door sterke integratie
+- Lagere wisselkosten voor toeristen
+- Hogere rente voor spaarders
+- Meer inflatie
+> De andere voordelen (transactiekosten, transparantie, schaal) zijn economisch.

@@ -1,0 +1,148 @@
+# HOOFDSTUK v 17 | Monetaire zaken
+domein: I
+hoofdvraag: Hoe kunnen veranderingen in het algemene prijspeil gemeten en verklaard worden?
+
+## § 17.1 | Inflatie en deflatie
+onderwerp: I.infl
+deelvraag: Hoe kunnen veranderingen in het algemene prijspeil gemeten worden?
+gens: inflatieCpi, reeelIndex
+### UITLEG Meten
+Inflatie: de consumentenprijsindex (CPI) stijgt. Deflatie: de CPI daalt.
+De CPI is een gewogen gemiddelde van partiële prijsindexcijfers per productgroep; elke groep krijgt een gewicht naar het aandeel in de uitgaven. De geharmoniseerde CPI (HICP) maakt vergelijken tussen EU-landen mogelijk. Je persoonlijke inflatie hangt af van je eigen uitgavenpatroon. De producentenprijsindex meet de prijzen die producenten ontvangen.
+Waardevast: een bedrag stijgt mee met de prijzen (koopkracht gelijk). Welvaartsvast: een bedrag stijgt mee met de lonen.
+### UITLEG Gevolgen
+Inflatie: koopkrachtverlies (als lonen achterblijven), slechtere concurrentiepositie (als de prijzen sneller stijgen dan in het buitenland), gunstig voor schuldenaren en ongunstig voor schuldeisers, effect op de inkomensverdeling, en aankopen naar voren halen (in extreme vorm: hyperinflatie).
+Deflatie: hogere koopkracht van een vast bedrag, mogelijk een betere concurrentiepositie, de reële waarde van schulden stijgt, en mensen stellen aankopen uit.
+### BEGRIPPEN
+Consumentenprijsindex = Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen.
+Partiële prijsindex = Prijsindexcijfer van één productgroep.
+Deflatie = Een daling van het algemene prijspeil.
+Waardevast inkomen = Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft.
+Welvaartsvast inkomen = Een inkomen dat meestijgt met de lonen.
+Geldillusie = Letten op het nominale bedrag in plaats van op de koopkracht.
+### MC
+Voeding (gewicht 20%) wordt 5% duurder, wonen (gewicht 30%) 2% duurder en de rest (gewicht 50%) 1% duurder. Hoe groot is de inflatie?
+* 2,1%
+- 2,7%
+- 8%
+- 1,5%
+> 0,2 × 5 + 0,3 × 2 + 0,5 × 1 = 1,0 + 0,6 + 0,5 = 2,1%.
+### MC
+Wie heeft voordeel van onverwacht hoge inflatie?
+* Iemand met een grote hypotheekschuld tegen een vaste rente
+- Een spaarder met geld op een spaarrekening
+- Een gepensioneerde met een vast pensioen
+- Een bank die leningen heeft verstrekt
+> De reële waarde van de schuld daalt.
+### MC
+Waarom kan deflatie de economie verder laten krimpen?
+* Mensen stellen aankopen uit omdat producten later goedkoper worden, waardoor de bestedingen dalen
+- Omdat de koopkracht daalt
+- Omdat schulden reëel minder waard worden
+- Omdat de export altijd daalt
+> Uitstel van bestedingen kan een neerwaartse spiraal geven.
+
+## § 17.2 | Oorzaken van inflatie en deflatie
+onderwerp: I.infl
+deelvraag: Wat zijn de oorzaken van inflatie dan wel deflatie?
+### UITLEG Bestedingsinflatie
+Bestedingsinflatie (demand-pull) ontstaat als de feitelijke productie boven de potentiële productie ligt: de bestedingen trekken het prijspeil omhoog.
+### UITLEG Kosteninflatie
+Kosteninflatie (cost-push): stijgende loonkosten (loonkosteninflatie), hogere winstmarges, hogere indirecte belastingen (belastinginflatie), hogere rente (rente-inflatie) en duurdere import, zoals energie (geïmporteerde inflatie).
+### BEGRIPPEN
+Bestedingsinflatie = Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit.
+Kosteninflatie = Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen.
+Geïmporteerde inflatie = Inflatie doordat ingevoerde goederen, zoals energie, duurder worden.
+### MC
+De olieprijs op de wereldmarkt verdubbelt. Welke inflatie ontstaat in Nederland?
+* Geïmporteerde inflatie, een vorm van kosteninflatie
+- Bestedingsinflatie
+- Belastinginflatie
+- Deflatie
+> Duurdere ingevoerde grondstoffen verhogen de kosten van bedrijven.
+### MC
+Bij welke situatie past bestedingsinflatie?
+* Een hoogconjunctuur met een positieve output gap
+- Een recessie met veel werkloosheid
+- Een stijging van de btw
+- Een stijging van de importprijzen
+> De vraag is groter dan wat de economie normaal kan produceren.
+
+## § 17.3 | Geld, geldschepping en banken
+onderwerp: I.infl
+deelvraag: Op welke manieren kan de geldhoeveelheid veranderen en welke gevolgen heeft dat?
+### UITLEG Geldhoeveelheid
+Geld in omloop is geld in handen van het publiek (huishoudens en bedrijven, niet de banken).
+Maatschappelijke geldhoeveelheid (M1, primaire liquiditeiten): chartaal geld (munten en biljetten) + giraal geld (direct opvraagbare tegoeden).
+Secundaire liquiditeiten (bijna-geld): internetspaarrekeningen, termijndeposito's tot 2 jaar en spaartegoeden die niet binnen 3 maanden opneembaar zijn. Je kunt er niet direct mee betalen.
+Binnenlandse liquiditeitsmassa (M3) = M1 + secundaire liquiditeiten.
+### UITLEG Geldschepping
+Geldschepping: de geldhoeveelheid neemt toe. Geldvernietiging: ze neemt af. Manieren: transformatie (bijna-geld wordt geld of andersom), substitutie (chartaal wordt giraal of andersom, dat verandert M1 niet) en wederzijdse schuldaanvaarding (een bank verstrekt een lening en zet het bedrag op de rekening van de klant: nieuw geld).
+Grenzen: banken moeten liquide blijven (kunnen voldoen aan kortlopende verplichtingen) en solvabel (genoeg eigen vermogen). Het depositogarantiestelsel beschermt spaarders tot € 100.000 per bank. De bankencrisis van 2008 liet zien hoe snel liquiditeitsproblemen kunnen ontstaan.
+### BEGRIPPEN
+Maatschappelijke geldhoeveelheid = Chartaal geld plus giraal geld in handen van het publiek.
+Secundaire liquiditeiten = Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten.
+Geldschepping = Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt.
+Wederzijdse schuldaanvaarding = Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat.
+Liquiditeit = De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen.
+Depositogarantiestelsel = Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt.
+### MC
+Je neemt € 200 contant geld op van je betaalrekening. Wat gebeurt er met de maatschappelijke geldhoeveelheid?
+* Niets: giraal geld wordt chartaal geld (substitutie)
+- Die stijgt met € 200
+- Die daalt met € 200
+- Die stijgt door transformatie
+> M1 = chartaal + giraal. Alleen de samenstelling verandert.
+### MC
+Een bank verstrekt een lening van € 20.000 en zet het bedrag op de betaalrekening van de klant. Wat is er gebeurd?
+* Geldschepping door wederzijdse schuldaanvaarding
+- Geldvernietiging
+- Substitutie
+- Er is niets met de geldhoeveelheid gebeurd
+> De klant heeft een schuld aan de bank en de bank een schuld aan de klant (het tegoed): nieuw giraal geld.
+### MC
+Je zet € 1.000 van je betaalrekening op een termijndeposito van 1 jaar. Wat gebeurt er met M1?
+* M1 daalt: geld wordt bijna-geld (transformatie, geldvernietiging)
+- M1 stijgt
+- M1 blijft gelijk
+- M3 daalt
+> Het tegoed telt nu bij de secundaire liquiditeiten. M3 blijft gelijk.
+
+## § 17.4 | Monetair beleid
+onderwerp: I.infl
+deelvraag: Welke rol speelt de Europese Centrale Bank in het eurogebied?
+gens: reeleRente
+### UITLEG Centrale banken
+De ECB (Frankfurt) en de nationale centrale banken van de eurolanden vormen samen het Eurosysteem. Met de centrale banken van de niet-eurolanden heet het geheel het Europees Stelsel van Centrale Banken. De Nederlandsche Bank houdt toezicht in Nederland.
+Taken: inflatiebestrijding (de ECB heeft een enkelvoudig mandaat: prijsstabiliteit, rond 2%; de Fed heeft een dubbel mandaat: ook werkgelegenheid), bank van de banken, zorgen voor een goed betalingsverkeer, toezicht op banken en het beheer van de goud- en deviezenvoorraad.
+### UITLEG Instrumenten
+Herfinancieringsrente: de rente die banken aan de ECB betalen. Renteverlaging: banken rekenen lagere rentes, er wordt meer geleend en besteed, productie en inflatie stijgen. Renteverhoging werkt andersom.
+Kasreserveregeling: banken moeten een deel van hun tegoeden vastzetten bij de centrale bank. Zo dalen hun liquide middelen, wordt kredietverlening moeilijker en nemen bestedingen en de druk op de prijzen af.
+Verder: kwantitatieve verruiming (de centrale bank koopt obligaties op om de rente op lange termijn te drukken), valutaswaps en het probleem van de zero lower bound (de rente kan nauwelijks onder nul).
+### BEGRIPPEN
+Monetair beleid = Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden.
+Kasreserveregeling = Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank.
+Quantitative easing = De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren.
+Zero lower bound = De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen.
+Reële rente = De nominale rente gecorrigeerd voor inflatie.
+### MC
+De inflatie in het eurogebied is 6%. Wat zal de ECB waarschijnlijk doen?
+* De herfinancieringsrente verhogen
+- De herfinancieringsrente verlagen
+- Meer obligaties opkopen
+- De kasreserveverplichting verlagen
+> Een hogere rente remt kredietverlening en bestedingen.
+### MC
+Wat is het verschil tussen het mandaat van de ECB en dat van de Fed?
+* De ECB richt zich alleen op prijsstabiliteit; de Fed ook op werkgelegenheid
+- De ECB richt zich op werkgelegenheid; de Fed op prijsstabiliteit
+- Ze hebben precies hetzelfde mandaat
+- De ECB richt zich op de wisselkoers
+> Enkelvoudig tegenover dubbel mandaat.
+### MC
+Waarom zet een centrale bank quantitative easing in als de rente al bijna 0% is?
+* Ze kan de korte rente niet verder verlagen (zero lower bound) en wil via opkoop van obligaties de lange rente drukken
+- Om de inflatie te verlagen
+- Om de banken te belasten
+- Om de geldhoeveelheid te verkleinen
+> Een extra stimuleringsmiddel als het gewone rentebeleid op zijn grens zit.

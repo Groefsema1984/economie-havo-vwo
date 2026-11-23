@@ -1,0 +1,154 @@
+# HOOFDSTUK v 15 | Conjunctuur
+domein: I
+hoofdvraag: Hoe herkennen en verklaren we de conjunctuurbeweging en hoe probeert de overheid die te beïnvloeden?
+
+## § 15.1 | Conjunctuurverschijnselen
+onderwerp: I.conj
+deelvraag: Op welke manier kan de conjunctuurbeweging in kaart worden gebracht?
+leerdoelen: ECO-ALGEM-04
+gens: reeleGroei
+### UITLEG Conjunctuur en output gap
+De conjunctuurbeweging is het schommelen van de groei van het reële bbp rond de trend. Een volledige golf van top tot top heet een conjunctuurcyclus. Crises in Nederland: de kredietcrisis (2008), de eurocrisis, de huizenmarktcrisis en de coronacrisis.
+Output gap = feitelijke productie (Y) − potentiële productie (Ypot).
+Laagconjunctuur: negatieve output gap, onderbesteding, minder werkgelegenheid, meer werkloosheid, de inflatie neemt af. Hoogconjunctuur: positieve output gap, overbesteding, meer werkgelegenheid, minder werkloosheid, kans op hogere inflatie.
+Let op: als de inflatie afneemt, stijgen de prijzen nog steeds, alleen minder snel.
+Een recessie is een periode van krimp (in de praktijk: twee kwartalen op rij negatieve groei); een depressie is een lange, diepe recessie.
+### UITLEG Bestedingen
+Y = C + I + O + E − M.
+C hangt af van het besteedbaar inkomen en het consumentenvertrouwen. I hangt af van het verwachte rendement, de verwachte groei, de bezettingsgraad en het producentenvertrouwen. E − M hangt af van de groei in het buitenland, de prijsverhouding met concurrenten en de wisselkoers. Hoe hoger het bbp, hoe meer import.
+### BEGRIPPEN
+Output gap = Het verschil tussen de feitelijke productie en de potentiële productie.
+Hoogconjunctuur = Periode waarin de feitelijke productie boven de potentiële productie ligt.
+Laagconjunctuur = Periode waarin de feitelijke productie onder de potentiële productie ligt.
+Recessie = Periode waarin de economie krimpt.
+Consumentenvertrouwen = Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie.
+Producentenvertrouwen = Mate waarin ondernemers optimistisch zijn over de afzet en de economie.
+Trend = De gemiddelde groei van het reële bbp over een lange periode.
+### MC
+De potentiële productie is € 950 miljard en de feitelijke productie € 920 miljard. Wat is er aan de hand?
+* Een negatieve output gap van € 30 miljard: laagconjunctuur
+- Een positieve output gap van € 30 miljard: hoogconjunctuur
+- Inflatie van 3%
+- Een overbesteding
+> Output gap = 920 − 950 = −30. De productie ligt onder het potentiële niveau.
+### MC
+De inflatie daalt van 4% naar 2%. Wat betekent dit voor de prijzen?
+* De prijzen stijgen nog steeds, maar minder snel
+- De prijzen dalen
+- De prijzen blijven gelijk
+- Er is deflatie
+> Afnemende inflatie is geen deflatie.
+### MC
+Welk kenmerk hoort bij hoogconjunctuur?
+* Overbesteding en kans op stijgende inflatie
+- Toenemende werkloosheid
+- Een negatieve output gap
+- Dalende werkgelegenheid
+> De bestedingen zijn groter dan wat de economie normaal kan maken.
+
+## § 15.2 | Het keynesiaanse model
+onderwerp: I.conj
+deelvraag: Hoe verklaarde John Maynard Keynes veranderingen in het bbp?
+leerdoelen: ECO-ALGEM-01
+### UITLEG Effectieve vraag
+De effectieve vraag (EV) is de vraag naar goederen en diensten zoals die blijkt uit de bestedingen. In een gesloten economie: EV = C + I + O.
+C = c(Y − B) + Cauto. c is de marginale consumptiequote: het deel van elke extra euro besteedbaar inkomen dat wordt geconsumeerd. 1 − c is de marginale spaarquote.
+I is autonoom: het hangt af van vertrouwen ('animal spirits'). O is autonoom: de regering en het parlement stellen het vast.
+### UITLEG Evenwicht en multiplier
+Volgens Keynes past de productie zich aan de vraag aan: Y = EV.
+Voorbeeld: Y = 0,8(Y − 0,25Y) + 30 + 60 + 210. Dan Y = 0,6Y + 300, dus 0,4Y = 300 en Y = 750 (evenwichtsinkomen).
+De multiplier geeft aan hoeveel het evenwichtsinkomen verandert als een autonome post met 1 verandert. Zonder belastingen: 1 : (1 − c). Met een belastingtarief t: 1 : (1 − c(1 − t)). In het voorbeeld 1 : 0,4 = 2,5.
+Lekken: sparen (spaarlek), belastingen (belastinglek) en import zorgen dat de multiplier niet oneindig is.
+Het evenwichtsinkomen kan lager zijn dan de productiecapaciteit: dan is er conjuncturele werkloosheid.
+### BEGRIPPEN
+Effectieve vraag = De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen.
+Marginale consumptiequote = Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie.
+Marginale spaarquote = Het deel van een extra euro besteedbaar inkomen dat wordt gespaard.
+Multiplier = De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost.
+Spaarlek = Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen.
+Belastinglek = Het deel van een extra inkomen dat naar de overheid gaat als belasting.
+### MC
+Y = 0,75(Y − 0,2Y) + 40 + 50 + 110. Hoe groot is het evenwichtsinkomen?
+* 500
+- 800
+- 200
+- 400
+> Y = 0,6Y + 200, dus 0,4Y = 200 en Y = 500.
+### MC
+In een model zonder belastingen is de marginale consumptiequote 0,8. De overheidsbestedingen stijgen met 10. Hoeveel stijgt Y?
+* 50
+- 10
+- 8
+- 12,5
+> Multiplier = 1 : (1 − 0,8) = 5. ΔY = 5 × 10 = 50.
+### MC
+Waarom zijn investeringen in het keynesiaanse model autonoom?
+* Ze hangen af van moeilijk te meten zaken als vertrouwen (animal spirits), niet van het inkomen in het model
+- Omdat de overheid ze vaststelt
+- Omdat ze altijd gelijk zijn aan de besparingen
+- Omdat ze negatief zijn
+> Autonoom = niet afhankelijk van andere variabelen in het model.
+
+## § 15.3 | Het IS-MB-GA-model
+onderwerp: I.conj
+deelvraag: Hoe verklaart een moderne theorie het niveau van productie en inflatie?
+### UITLEG IS-curve
+In een gesloten economie geldt in evenwicht I + O = S + B. De IS-curve geeft het verband tussen de rente en het evenwichtsinkomen waarbij die gelijkheid geldt, dus waarbij Y gelijk is aan de effectieve vraag. Een hogere rente remt de investeringen en dus het evenwichtsinkomen: de IS-curve loopt dalend.
+### UITLEG MB- en GA-curve
+De MB-curve (monetair beleid): de centrale bank verhoogt de rente als de inflatie boven haar doel ligt en verlaagt die als de inflatie eronder ligt (Taylor-regel).
+De GA-curve (geaggregeerd aanbod) geeft het verband tussen de productie en de inflatie. Bij een positieve output gap stijgt de inflatie, bij een negatieve output gap daalt ze. Met naïeve inflatieverwachtingen verwachten mensen dat de inflatie van vorig jaar ook dit jaar geldt.
+Wisselwerking: een positieve output gap geeft hogere inflatie, de centrale bank verhoogt de rente, de bestedingen dalen en Y gaat terug naar het potentiële niveau.
+### BEGRIPPEN
+IS-curve = Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag.
+Taylor-regel = Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap.
+Naïeve inflatieverwachting = De verwachting dat de inflatie gelijk blijft aan die van de vorige periode.
+### MC
+De inflatie ligt ruim boven het doel van de centrale bank. Wat doet de centrale bank volgens de MB-curve?
+* De rente verhogen, zodat de bestedingen en de inflatie dalen
+- De rente verlagen
+- De overheidsbestedingen verhogen
+- De belastingen verlagen
+> Een hogere rente remt investeringen en consumptie op krediet.
+### MC
+Waarom loopt de IS-curve dalend?
+* Bij een hogere rente investeren bedrijven minder, waardoor de effectieve vraag en het evenwichtsinkomen lager zijn
+- Omdat de inflatie stijgt bij een hogere productie
+- Omdat de overheid bij een hogere rente meer uitgeeft
+- Omdat sparen bij een hogere rente minder aantrekkelijk is
+> Rente omhoog, I omlaag, Y omlaag.
+
+## § 15.4 | Conjunctuurbeleid
+onderwerp: I.beleid
+deelvraag: Welke instrumenten heeft de overheid om de conjunctuurbeweging te beïnvloeden?
+gens: begrotingssaldo
+### UITLEG Anticyclisch beleid
+De overheid dempt de conjunctuur: in laagconjunctuur stimuleren (meer uitgeven, minder belasting), in hoogconjunctuur afremmen. Instrumenten: begrotingsbeleid (overheid) en monetair beleid (rente van de centrale bank).
+Ingebouwde stabilisatoren: uitkeringen en progressieve belastingen dempen automatisch. In laagconjunctuur stijgen de uitkeringen en dalen de belastingontvangsten, waardoor de bestedingen minder hard dalen.
+Inverdieneffecten: een deel van extra overheidsuitgaven komt terug via hogere belastingontvangsten en lagere uitkeringen. Uitverdieneffecten: een bezuiniging levert minder op dan gedacht, doordat de economie krimpt.
+### BEGRIPPEN
+Anticyclisch conjunctuurbeleid = Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur.
+Ingebouwde stabilisatoren = Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen.
+Inverdieneffect = Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen.
+Uitverdieneffect = Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt.
+Conjuncturele werkloosheid = Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit.
+### MC
+Tijdens een recessie verlaagt de overheid de belastingen en verhoogt ze haar investeringen. Welk beleid is dit?
+* Anticyclisch begrotingsbeleid
+- Procyclisch begrotingsbeleid
+- Monetair beleid
+- Structureel beleid
+> Stimuleren in een laagconjunctuur gaat tegen de cyclus in.
+### MC
+Waarom werkt de WW als ingebouwde stabilisator?
+* In laagconjunctuur stijgen de WW-uitkeringen automatisch, waardoor het besteedbaar inkomen minder daalt
+- Omdat de WW-premie in laagconjunctuur stijgt
+- Omdat de overheid de WW afschaft in hoogconjunctuur
+- Omdat werklozen meer sparen
+> Zonder nieuw besluit dempen de uitkeringen de daling van de bestedingen.
+### MC
+De overheid bezuinigt € 10 miljard. Door de krimp van de economie dalen de belastingontvangsten met € 3 miljard. Hoe heet die € 3 miljard?
+* Een uitverdieneffect
+- Een inverdieneffect
+- De multiplier
+- Een spaarlek
+> Een bezuiniging verdient zichzelf deels uit.

@@ -1,0 +1,91 @@
+# HOOFDSTUK v 5 | Economische macht
+domein: D
+hoofdvraag: Onder welke omstandigheden en op welke manier kan een aanbieder zijn verkoopprijs beïnvloeden?
+
+## § 5.1 | Economische macht en marktvormen
+onderwerp: D.vorm
+deelvraag: Welke typen economische machtsvorming kun je onderscheiden?
+ook: h 5.1
+### UITLEG Drie kernelementen
+1. Mate van volkomenheid: homogene producten (voorzien op volkomen gelijke wijze in een behoefte) of heterogene producten (zelfde behoefte, maar in de ogen van de consument verschillend).
+2. Mate van concurrentie: één aanbieder (monopolie), weinig (oligopolie), veel (volledige mededinging en monopolistische concurrentie).
+3. Mate van vrijheid: kunnen aanbieders vrij toetreden?
+Met productdifferentiatie en de marketingmix (product, prijs, plaats, promotie) maken aanbieders hun product heterogeen en krijgen ze prijsruimte.
+### BEGRIPPEN
+Heterogene producten = Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen.
+### MC
+Een markt heeft weinig aanbieders van heterogene producten en toetreding is moeilijk. Welke marktvorm is dit?
+* Heterogeen oligopolie
+- Monopolistische concurrentie
+- Volledige mededinging
+- Homogeen oligopolie
+> Weinig aanbieders + heterogene producten.
+
+## § 5.2 | Monopolie
+onderwerp: D.vorm
+deelvraag: Hoe stelt een monopolist de verkoopprijs zo vast dat hij maximale winst behaalt?
+leerdoelen: ECO-MARKT-01, ECO-MARKT-02, ECO-PRIJS-01, ECO-PRIJS-02
+gens: monopolie
+ook: h 5.2
+### UITLEG Soorten monopolies
+Wettelijk monopolie: door de wet beschermd (de centrale bank, of via patenten, octrooien en copyright). Natuurlijk monopolie: één aanbieder kan de markt het goedkoopst bedienen door hoge vaste kosten (spoor- of leidingnet). Collectief monopolie: aanbieders die samen optreden als één, zoals de OPEC.
+### UITLEG Opbrengsten van de monopolist
+De afzetlijn is de marktvraaglijn. Conclusies: (1) GO daalt bij meer afzet, (2) TO heeft een maximum waar MO = 0, (3) MO daalt sneller dan GO en wordt negatief, want een prijsverlaging geldt voor alle eenheden.
+Doelstellingen: maximale omzet (MO = 0), maximale winst (MO = MK), kostendekking/break-even (GO = GTK).
+### UITLEG Prijsdifferentiatie en prijsdiscriminatie
+Prijsdifferentiatie: verschillende prijzen door verschillende kosten (eerste klas in de trein). Prijsdiscriminatie: hetzelfde product tegen verschillende prijzen aan verschillende groepen. Voorwaarden: gescheiden deelmarkten met een verschillende prijselasticiteit en geen doorverkoop (geen arbitrage). Zo zet de monopolist consumentensurplus om in extra opbrengst.
+### BEGRIPPEN
+Natuurlijk monopolie = Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen.
+Wettelijk monopolie = Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi.
+Collectief monopolie = Aanbieders die samen optreden als één aanbieder, zoals de OPEC.
+Prijsdifferentiatie = Verschillende prijzen vragen omdat de kosten van het product verschillen.
+Harberger-driehoek = Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek.
+### MC
+Waarom is het spoornet een natuurlijk monopolie?
+* De vaste kosten zijn zo hoog dat één netwerk de markt goedkoper bedient dan meerdere concurrerende netwerken
+- Omdat de wet concurrentie verbiedt
+- Omdat er een octrooi op rails rust
+- Omdat treinreizen een inferieur goed is
+> Dubbele netwerken zouden de gemiddelde kosten sterk verhogen.
+### MC
+Een monopolist heeft TO = −2Q² + 200Q en MK = 40. Bij welke afzet is de winst maximaal?
+* 40
+- 50
+- 80
+- 100
+> MO = −4Q + 200. MO = MK: −4Q + 200 = 40, dus Q = 40.
+### MC
+Waarom ligt de MO-lijn van een monopolist onder de prijsafzetlijn?
+* Om één extra product te verkopen moet de prijs omlaag voor alle eenheden, niet alleen voor de laatste
+- Omdat de monopolist kosten moet maken
+- Omdat de overheid een maximumprijs instelt
+- Omdat de vraag prijsinelastisch is
+> Het verlies op de eerdere eenheden wordt van de prijs van de extra eenheid afgetrokken.
+
+## § 5.3 | Monopolistische concurrentie en oligopolie
+onderwerp: D.vorm
+deelvraag: Hoe komen de prijzen tot stand op markten waar geen volledige mededinging of monopolie bestaat?
+leerdoelen: ECO-SPELT-03
+ook: h 5.3
+### UITLEG Monopolistische concurrentie
+Veel aanbieders, heterogene producten, meestal vrije toetreding. Maakt een aanbieder winst, dan treden anderen toe. Omdat er dan meer substituten zijn, daalt de betalingsbereidheid voor zijn product: zijn afzetlijn schuift naar binnen tot de winst verdwijnt.
+### UITLEG Oligopolie en de geknikte afzetcurve
+Weinig spelers, vaak een marktleider, en een grote verleiding tot kartelvorming. Een homogeen oligopolie wordt door productdifferentiatie vaak een heterogeen oligopolie.
+Prijsstarheid: verhoogt een aanbieder de prijs, dan gaan concurrenten niet mee en verliest hij veel klanten (elastisch deel). Verlaagt hij de prijs, dan gaan ze wel mee en wint hij weinig klanten (inelastisch deel). De afzetcurve heeft dus een knik bij de huidige prijs. Daarom blijven prijzen in een oligopolie vaak lang gelijk.
+### BEGRIPPEN
+Geknikte afzetcurve = Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging.
+Prijsstarheid = Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen.
+### MC
+Volgens de theorie van de geknikte afzetcurve verhoogt een oligopolist zijn prijs. Wat gebeurt er?
+* Concurrenten gaan niet mee, zodat hij veel klanten verliest
+- Concurrenten verhogen ook hun prijs, zodat iedereen meer verdient
+- Zijn afzet blijft gelijk
+- Er ontstaat een prijzenoorlog
+> Het deel van de afzetcurve boven de knik is elastisch.
+### MC
+Waarom verdwijnt bij monopolistische concurrentie op lange termijn de winst?
+* Winst trekt nieuwe aanbieders aan, waardoor de vraag naar het product van elke aanbieder afneemt
+- De overheid belast de winst volledig
+- De kosten stijgen tot boven de prijs
+- De producten worden homogeen
+> Toetreding schuift de afzetlijn van de bestaande aanbieders naar binnen.

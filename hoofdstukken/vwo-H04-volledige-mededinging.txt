@@ -1,0 +1,95 @@
+# HOOFDSTUK v 4 | Volledige mededinging
+domein: D
+hoofdvraag: Hoe komt de prijs van een product tot stand wanneer de prijs niet kan worden beïnvloed door een individuele aanbieder of vrager?
+
+## § 4.1 | Markt van volledige mededinging
+onderwerp: D.vorm
+deelvraag: Op welk type markten hebben individuele vragers en aanbieders geen invloed op de prijs?
+leerdoelen: ECO-MARKT-03
+ook: h 4.1
+### UITLEG Marktvormen
+Een marktvorm is het geheel van prijsbepalende factoren op een markt.
+Perfecte markten: individuele vragers en aanbieders hebben geen invloed op de prijs (volledige mededinging).
+Niet-perfecte markten: ze hebben wel invloed (monopolie, oligopolie, monopolistische concurrentie).
+### UITLEG Volledige mededinging
+Veel concurrentie en een volkomen markt: (1) homogene producten en een homogene aanbieding, (2) een transparante markt, (3) vrije toe- en uittreding. Andere namen: volkomen concurrentie of volkomen vrije mededinging. Voorbeelden die erop lijken: valutamarkten, de aandelenmarkt, grondstoffenmarkten.
+### BEGRIPPEN
+Perfecte markt = Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs.
+Niet-perfecte markt = Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs.
+Marktvorm = Het geheel van prijsbepalende factoren op een markt.
+### MC
+Welke markt is een niet-perfecte markt?
+* Een markt met drie grote aanbieders van spelcomputers
+- De wereldmarkt voor aandelen van een groot bedrijf
+- De valutamarkt voor euro's
+- Een markt met duizenden tarweboeren
+> Bij weinig aanbieders heeft elke aanbieder invloed op de prijs.
+
+## § 4.2 | Marktevenwicht en prijsontwikkeling
+onderwerp: D.vraag
+deelvraag: Hoe komt door vraag en aanbod een prijs tot stand?
+gens: evenwicht
+ook: h 4.2
+### UITLEG Vraag, aanbod en evenwicht
+De vraag omvat alle hoeveelheden die bij verschillende prijzen worden gevraagd (vraagvergelijking, Qv). Het aanbod omvat alle hoeveelheden die bij verschillende prijzen worden aangeboden (aanbodvergelijking, Qa). Evenwicht: Qv = Qa.
+Prijsmechanisme: bij een aanbodoverschot daalt de prijs, bij een vraagoverschot stijgt de prijs, tot het evenwicht hersteld is.
+De balansmethode: je zet vraag en aanbod bij verschillende prijzen naast elkaar en zoekt de prijs waarbij ze in balans zijn.
+### BEGRIPPEN
+Marktevenwicht = Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.
+Prijsmechanisme = Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn.
+### MC
+Qv = −2P + 120 en Qa = 4P − 30. Er komt een extra aanbod bij, waardoor Qa = 4P. Wat is de nieuwe evenwichtsprijs?
+* € 20
+- € 25
+- € 30
+- € 15
+> Oud: −2P + 120 = 4P − 30 geeft P = 25. Nieuw: −2P + 120 = 4P geeft P = 20.
+
+## § 4.3 | Marktevenwicht en bedrijfsevenwicht
+onderwerp: D.vorm
+deelvraag: Wat betekent de marktprijs voor de winst van een individuele onderneming?
+ook: h 4.3
+### UITLEG Korte en lange termijn
+Korte termijn: de aanbieder streeft naar maximale winst. Lopen de variabele kosten proportioneel, dan biedt hij zoveel aan als zijn productiecapaciteit toelaat.
+Lange termijn: winst lokt uitbreiding en nieuwe aanbieders (toetreders). Het marktaanbod stijgt, de aanbodlijn schuift naar rechts en de prijs daalt.
+De marginale producent is de producent met de hoogste kosten die nog nét kan overleven. Nieuwkomers hebben vaak hogere constante kosten dan de gevestigde bedrijven.
+### BEGRIPPEN
+Marginale producent = De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven.
+Bedrijfsevenwicht = Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen.
+### MC
+De marktprijs daalt. Welke producent stapt als eerste uit de markt?
+* De marginale producent, met de hoogste kosten
+- De producent met de laagste kosten
+- De grootste producent
+- Alle producenten tegelijk
+> Bij een lagere prijs kan de aanbieder met de hoogste kosten zijn kosten niet meer dekken.
+
+## § 4.4 | Het economisch surplus en volledige mededinging
+onderwerp: D.falen
+deelvraag: Hoe beïnvloeden de prijzen de verdeling van het economisch surplus?
+leerdoelen: ECO-ALGEM-07
+ook: h 4.4
+### UITLEG Pareto-optimum
+Economisch surplus = consumentensurplus + producentensurplus. In een Pareto-optimum is dat maximaal: niemand kan erop vooruitgaan zonder dat een ander erop achteruitgaat.
+Kenmerken van optimale allocatie: (1) het totale surplus is maximaal, (2) de productie is zo groot mogelijk, (3) de prijzen zijn zo laag mogelijk, (4) productiefactoren worden ingezet volgens de vraag naar eindproducten, (5) de marktprijs is gelijk aan de marginale kosten van de marginale aanbieder.
+### UITLEG Marktmacht en tekortkomingen
+Heeft een partij marktmacht, dan kan ze de prijs boven de marginale kosten zetten en consumentensurplus afromen. Er gaat economisch surplus verloren.
+Tekortkomingen van volledige mededinging: de verdeling van het surplus kan ongewenst zijn, collectieve goederen worden niet geleverd, de marktvorm komt weinig voor, en overheidsingrijpen (verboden, belastingen, subsidies) maakt de uitkomst niet meer Pareto-optimaal.
+### BEGRIPPEN
+Pareto-optimum = Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.
+Economisch surplus = De som van het consumentensurplus en het producentensurplus.
+Allocatie = De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden.
+### MC
+Wat betekent het dat een markt in een Pareto-optimum is?
+* Niemand kan zijn positie verbeteren zonder dat een ander erop achteruitgaat
+- Iedereen heeft evenveel surplus
+- Alle producenten maken winst
+- De overheid heeft de prijs vastgesteld
+> Het gaat om efficiëntie, niet om een gelijke verdeling.
+### MC
+Bij volledige mededinging is de marktprijs gelijk aan:
+* De marginale kosten van de marginale aanbieder
+- De gemiddelde kosten van de goedkoopste aanbieder
+- De maximale betalingsbereidheid
+- Nul
+> Kenmerk 5 van optimale allocatie.

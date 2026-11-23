@@ -1,0 +1,89 @@
+# HOOFDSTUK v 3 | Producentengedrag
+domein: D
+hoofdvraag: Hoe is het gedrag van producenten te verklaren met behulp van de verkoop en kosten?
+
+## § 3.1 | Kosten en omzet
+onderwerp: D.kosten
+deelvraag: Wat is het verband tussen de omvang van productie en afzet en de kosten en opbrengsten van de onderneming?
+gens: winst
+ook: h 3.1
+### UITLEG Kosten
+Constante kosten (capaciteitskosten) zijn in een periode onafhankelijk van de productieomvang. Variabele kosten hangen op korte termijn af van de productie en kunnen proportioneel, progressief of degressief verlopen.
+TK = TCK + TVK. GTK = TK : Q = GCK + GVK. De GTK-lijn daalt eerst (vaste kosten over meer producten) en stijgt later (progressieve variabele kosten).
+Marginale kosten: de extra kosten van één extra product, MK = ΔTK : ΔQ.
+### UITLEG Opbrengsten bij volkomen concurrentie
+Bij volkomen concurrentie (vrije toegang, homogene producten) is een aanbieder prijsnemer: zijn aanbod heeft geen invloed op de prijs. Dan geldt GO = MO = P, en is de TO-lijn een rechte lijn door de oorsprong.
+### MC
+Een producent is prijsnemer en verkoopt tegen € 15 per stuk. Wat is zijn marginale opbrengst bij de 200e eenheid?
+* € 15
+- € 3.000
+- € 0
+- € 7,50
+> Bij een vaste prijs levert elk extra product precies de prijs op: MO = GO = P.
+### MC
+Waarom daalt de GTK-lijn bij kleine productieaantallen?
+* De constante kosten worden over steeds meer producten verdeeld
+- De marginale kosten zijn negatief
+- De prijs daalt
+- De variabele kosten per stuk stijgen
+> GCK = TCK : Q daalt sterk als Q groter wordt.
+
+## § 3.2 | Break-evenanalyse
+onderwerp: D.kosten
+deelvraag: Vanaf welke afzet wordt de productie winstgevend?
+gens: breakEven
+ook: h 3.2
+### UITLEG Break-even en uittreden
+Break-evenproductie: TO = TK, of GO = GTK. Daarboven winst, daaronder verlies.
+De break-evenanalyse is voor een producent een eenvoudig instrument om te zien of productie winstgevend is. Is break-even niet haalbaar, dan kan hij overwegen uit de markt te treden.
+### MC
+TO = 20Q en TK = 8Q + 6.000. Bij welke afzet is er break-even?
+* 500
+- 300
+- 750
+- 214
+> 20Q = 8Q + 6.000 geeft 12Q = 6.000, dus Q = 500.
+
+## § 3.3 | Maximale winst en sluitingspunt
+onderwerp: D.kosten
+deelvraag: Hoe kun je bepalen bij welke productie en verkoop een onderneming de maximale winst haalt?
+gens: winst
+ook: h 3.3
+### UITLEG Besluitvorming in de marge
+Maximale winst bij MO = MK. Stappenplan: (1) stel MO = MK, (2) bepaal Q, (3) bepaal P via de GO-lijn, (4) TO = P × Q, (5) TK = GTK × Q, (6) TW = TO − TK.
+### UITLEG Sluitingspunt
+Zolang P boven de GTK ligt, maakt de ondernemer winst. Ligt P tussen de GVK en de GTK, dan maakt hij verlies, maar dekt hij nog wel zijn variabele kosten plus een deel van de constante kosten. Op korte termijn gaat hij dan door, want de constante kosten moet hij hoe dan ook betalen.
+Ligt P onder de minimale GVK, dan kan hij beter stoppen. Het sluitingspunt ligt waar MK = MO = GVK (het minimum van de GVK).
+### BEGRIPPEN
+Sluitingspunt = Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren.
+Capaciteitskosten = Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten).
+### MC
+De prijs is € 9. De GTK is € 11 en de GVK is € 7. Wat doet de ondernemer op korte termijn?
+* Doorproduceren, want hij dekt zijn variabele kosten en een deel van zijn constante kosten
+- Direct stoppen, want hij maakt verlies
+- De prijs verhogen tot € 11
+- Meer produceren tot de GTK gelijk is aan € 9
+> P > GVK: elke verkochte eenheid draagt € 2 bij aan de vaste kosten. Stoppen geeft een groter verlies.
+### MC
+Waar ligt het sluitingspunt?
+* Bij het minimum van de GVK-lijn, waar MK = GVK
+- Bij het minimum van de GTK-lijn
+- Waar MO = 0
+- Waar TO = TK
+> Onder de minimale GVK dekt de opbrengst zelfs de variabele kosten niet.
+
+## § 3.4 | Prijs, aanbod en producentensurplus
+onderwerp: D.vraag
+deelvraag: Wat is het verband tussen de prijs van een product en het producentensurplus?
+gens: evenwicht
+ook: h 3.4
+### UITLEG Aanbodbepalende factoren
+Naast de prijs bepalen deze factoren het aanbod: technologie (AI en robots verlagen kosten), factorprijzen (lonen en kosten van kapitaal), het aantal aanbieders, verwachtingen en overige factoren zoals het weer.
+Verandert de prijs van het product zelf, dan is er een beweging langs de aanbodlijn. Verandert een andere factor, dan verschuift de hele aanbodlijn: bij álle prijzen wordt meer of minder aangeboden.
+### MC
+De lonen in de bouw stijgen sterk. Wat gebeurt er met de aanbodlijn van nieuwbouwwoningen?
+* Die verschuift naar links (omhoog)
+- Die verschuift naar rechts
+- Er is een beweging langs de aanbodlijn
+- De vraaglijn verschuift
+> Hogere factorprijzen verhogen de kosten: bij elke prijs wordt minder aangeboden.

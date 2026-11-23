@@ -89,6 +89,8 @@ def main():
     hst = [lees(f) for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith('LEESMIJ')]
     index = {(h['niv'], p['nr']): p for h in hst for p in h['par']}
     bibv = bibliotheek_vragen()
+    core = open(os.path.join(ROOT, 'src', 'core.js'), encoding='utf-8').read()
+    gens_ok = set(re.findall(r'^\s+(\w+)\(\)\s*\{', core, re.M))
     levels, begrippen, fouten = {}, {}, []
     for h in sorted(hst, key=lambda x: (x['niv'], x['nr'])):
         d = h['domein']; niv = h['niv']
@@ -138,6 +140,8 @@ def main():
                    'vragen': vr, 'gens': [g.strip() for g in p.get('gens', '').split(',') if g.strip()]}
             if p.get('deelvraag'): lvl['doel'] = p['deelvraag']; lvl['kort'] = p['deelvraag']
             if p['uitleg']: lvl['uitleg'] = p['uitleg']
+            for g in lvl['gens']:
+                if g not in gens_ok: fouten.append(f'{niv}{h["nr"]} §{p["nr"]}: generator {g} bestaat niet')
             if len(vr) < 4: fouten.append(f'{niv}{h["nr"]} §{p["nr"]}: maar {len(vr)} vragen')
             levels.setdefault(d, []).append(lvl)
     out = ['// AUTOMATISCH GEMAAKT door tools/hoofdstukken.py uit hoofdstukken/*.txt. Niet met de hand wijzigen.',

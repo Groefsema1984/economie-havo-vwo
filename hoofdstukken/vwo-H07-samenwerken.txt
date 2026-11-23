@@ -1,0 +1,131 @@
+# HOOFDSTUK v 7 | Samenwerken
+domein: F
+hoofdvraag: In welke situaties leidt het nastreven van eigenbelang tot een slechter resultaat en hoe kan samenwerking worden bereikt?
+
+## § 7.1 | Het gevangenendilemma
+onderwerp: F.spel
+deelvraag: Hoe herken je een conflict tussen eigenbelang en gemeenschappelijk belang?
+leerdoelen: ECO-SPELT-03, ECO-SPELT-01, ECO-SPELT-04
+ook: h 7.1
+### UITLEG Eigenbelang tegenover gemeenschappelijk belang
+Als iedereen rationeel zijn eigenbelang volgt, kan dat leiden tot een uitkomst die voor iedereen slechter is dan samenwerken. Voorbeeld: belastingontduiking. Wie ontduikt, houdt meer over en profiteert toch van de voorzieningen (free riding). Doet iedereen dat, dan stort het stelsel in.
+### UITLEG Het klassieke gevangenendilemma
+Twee verdachten kiezen in aparte cellen tussen bekennen en zwijgen (strafjaren als negatieve getallen):
+beide bekennen (−5 ; −5), 1 bekent en 2 zwijgt (0 ; −10), 1 zwijgt en 2 bekent (−10 ; 0), beide zwijgen (−1 ; −1).
+Voor beiden is bekennen dominant (−5 > −10 en 0 > −1). Het Nash-evenwicht is (−5 ; −5). Het Pareto-optimum is (−1 ; −1): daar kan niemand vooruit zonder dat de ander achteruitgaat. Omdat ze niet kunnen overleggen en elkaar niet vertrouwen, komen ze niet bij het Pareto-optimum uit.
+### UITLEG Spelboom en coördinatiespel
+Bij een sequentieel spel gebruik je een spelboom en achterwaartse inductie (rollback): bepaal eerst de beste keuze van de laatste speler, redeneer dan terug.
+Niet elk spel heeft een dominante strategie. In een coördinatiespel (links of rechts rijden) hangt jouw beste keuze af van die van de ander. Er zijn dan twee Nash-evenwichten, die allebei Pareto-optimaal zijn. Afspraken of wetten (verkeersregels) lossen het coördinatieprobleem op.
+### BEGRIPPEN
+Pareto-optimum = Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.
+Coördinatiespel = Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken.
+Achterwaartse inductie = Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren.
+Pay-offmatrix = Tabel met de strategieën en uitkomsten van een simultaan spel.
+### MC
+In het gevangenendilemma hierboven: waarom is (−1 ; −1) geen Nash-evenwicht?
+* Elke verdachte kan zich verbeteren door te bekennen als de ander zwijgt (0 in plaats van −1)
+- Omdat het de slechtste uitkomst is
+- Omdat (−1 ; −1) geen Pareto-optimum is
+- Omdat er geen dominante strategie is
+> Bij een Nash-evenwicht kan niemand zich eenzijdig verbeteren. Hier wel.
+### MC
+Twee automobilisten kunnen links of rechts rijden. Beide rechts (100 ; 100), beide links (100 ; 100), verschillend (−100 ; −100). Hoeveel Nash-evenwichten zijn er?
+* Twee: beide links en beide rechts
+- Eén: beide rechts
+- Geen, want er is geen dominante strategie
+- Vier
+> Een coördinatiespel: elke situatie waarin beiden hetzelfde kiezen is een evenwicht.
+
+## § 7.2 | Langetermijnrelaties
+onderwerp: F.spel
+deelvraag: Wat is de invloed van de duur van de relatie op economische beslissingen?
+leerdoelen: ECO-SPELT-06
+### UITLEG Eindig en oneindig herhaald
+Eindig herhaald spel met een bekende laatste ronde: in de laatste ronde is er geen toekomst, dus kiest iedereen zijn dominante strategie. Dan heeft samenwerken in de ronde daarvoor ook geen zin. Via achterwaartse inductie valt de samenwerking al in ronde 1 weg.
+Oneindig herhaald spel of onbekende laatste ronde: er is altijd een kans op een volgende ronde, dus de dreiging met vergelding is geloofwaardig. Samenwerking kan blijven bestaan met voorwaardelijke strategieën:
+- Tit-for-tat: begin met samenwerken en doe daarna steeds wat de ander de vorige ronde deed.
+- Grim trigger: werk samen tot de ander één keer valsspeelt en werk daarna nooit meer samen.
+### UITLEG Zelfbinding, reputatie en sociale normen
+Zelfbinding (commitment): je eigen keuzeruimte vrijwillig beperken om een dreiging of belofte geloofwaardig te maken. Onvoorwaardelijk (een contract dat je niet kunt opzeggen) of voorwaardelijk (je vastleggen op een automatische tegenreactie).
+Reputatie: het korte voordeel van bedrog weegt niet op tegen het verlies van toekomstige deals.
+Sociale normen: morele plicht en angst voor uitsluiting zorgen dat afspraken worden nagekomen zonder rechter.
+### BEGRIPPEN
+Grim trigger = Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt.
+Geloofwaardige dreiging = Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is.
+Reputatie = Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag.
+Herhaald spel = Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden.
+### MC
+Twee bedrijven spelen precies tien keer een gevangenendilemma en weten dat. Wat voorspelt achterwaartse inductie?
+* Ze werken in geen enkele ronde samen
+- Ze werken in alle rondes samen
+- Ze werken samen tot en met ronde 9
+- Ze wisselen elke ronde af
+> In ronde 10 kiest ieder zijn dominante strategie. Dan is samenwerken in ronde 9 zinloos, enzovoort terug.
+### MC
+Waarom werkt de dreiging 'als je mij één keer bedriegt, werk ik nooit meer met je samen' bij een oneindig herhaald spel wel?
+* Er is altijd een volgende ronde, dus het toekomstige verlies weegt zwaar en de dreiging is geloofwaardig
+- Omdat de uitkomsten in de matrix veranderen
+- Omdat bedriegen dan verboden is
+- Omdat er geen dominante strategie meer is
+> 'Schaduw van de toekomst': het verlies van alle toekomstige samenwerking is groter dan de winst van één keer bedriegen.
+
+## § 7.3 | Prijzenoorlog
+onderwerp: F.spel
+deelvraag: Beconcurreren supermarkten elkaar via het prijsniveau?
+ook: h 7.2
+### UITLEG Prijzenoorlog als gevangenendilemma
+Twee supermarkten: beide een hoge prijs geeft de hoogste gezamenlijke winst (Pareto-optimum). Verlaagt er één de prijs, dan pakt die marktaandeel en maakt die extra winst. Verlagen ze allebei, dan blijven de marktaandelen gelijk tegen lagere marges: een slechter Nash-evenwicht. Prijsverlaging is voor beide dominant.
+### UITLEG De laagsteprijsgarantie
+'Elders goedkoper? Wij betalen het verschil terug.' Dat lijkt gunstig voor de consument, maar werkt als stilzwijgende samenspanning: de concurrent weet dat elke prijsverlaging automatisch wordt gevolgd, dus met een lagere prijs wint hij geen klanten. De prikkel om prijzen te verlagen verdwijnt en de prijzen blijven hoog.
+### BEGRIPPEN
+Laagsteprijsgarantie = Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is.
+### MC
+Waarom kan een laagsteprijsgarantie leiden tot hogere prijzen voor consumenten?
+* Concurrenten weten dat elke prijsverlaging automatisch wordt gevolgd, waardoor niemand meer een prikkel heeft om de prijs te verlagen
+- Omdat de winkel de kosten van de garantie doorberekent
+- Omdat consumenten dan minder vergelijken
+- Omdat de ACM de garantie verbiedt
+> Het is een geloofwaardige, automatische vergelding (zelfbinding).
+
+## § 7.4 | Wanneer is overheidsregulering nodig?
+onderwerp: F.coll
+deelvraag: Wanneer is regulering door de overheid wenselijk?
+leerdoelen: ECO-ALGEM-07
+ook: h 7.3
+### UITLEG Typologie van goederen
+Rivaliteit: vermindert gebruik door de één het gebruik door een ander? Uitsluitbaarheid: kun je niet-betalers weren?
+- Rivaliserend en uitsluitbaar: individuele (private) goederen (brood, kleding).
+- Niet-rivaliserend en uitsluitbaar: clubgoederen of quasi-collectieve goederen (tolweg, streamingdienst).
+- Rivaliserend en niet-uitsluitbaar: gemeenschappelijke middelen (vis op volle zee): gevaar van uitputting (tragedy of the commons).
+- Niet-rivaliserend en niet-uitsluitbaar: zuiver collectieve goederen (dijken, defensie, straatverlichting).
+### UITLEG Externe effecten en oplossingen
+Een extern effect is een onbedoeld gevolg voor derden dat niet in de prijs zit. Bij een negatief extern effect zijn de maatschappelijke kosten hoger dan de private kosten: er wordt te veel geproduceerd tegen een te lage prijs. Bij een positief extern effect (onderwijs, vaccinaties) wordt er te weinig geproduceerd.
+Oplossingen: een heffing ter grootte van de externe schade (de vervuiler betaalt, internaliseren), subsidies, quota en verboden, of verhandelbare eigendomsrechten zoals CO2-emissierechten.
+### BEGRIPPEN
+Rivaliteit = Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander.
+Uitsluitbaarheid = Mensen die niet betalen kunnen van het gebruik worden uitgesloten.
+Clubgoed = Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst.
+Gemeenschappelijke middelen = Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan.
+Internaliseren = Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing.
+Emissierechten = Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten.
+### MC
+Vis in internationale wateren wordt overbevist. Welk soort goed is dit?
+* Een gemeenschappelijk middel: rivaliserend maar niet uitsluitbaar
+- Een zuiver collectief goed
+- Een clubgoed
+- Een individueel goed
+> Elke gevangen vis is weg voor een ander, maar niemand kan vissers weren: tragedy of the commons.
+### MC
+Hoe internaliseren emissierechten een negatief extern effect?
+* Uitstoot krijgt een prijs, zodat de vervuiler de kosten in zijn eigen afweging meeneemt
+- De overheid verbiedt alle uitstoot
+- Vervuilers krijgen subsidie
+- Consumenten betalen de schade rechtstreeks aan de slachtoffers
+> Wie uitstoot, moet rechten kopen: de externe kosten worden bedrijfskosten.
+### MC
+Een streamingdienst is uitsluitbaar maar niet rivaliserend. Hoe heet zo'n goed?
+* Een clubgoed (quasi-collectief goed)
+- Een zuiver collectief goed
+- Een gemeenschappelijk middel
+- Een inferieur goed
+> Je kunt niet-betalers weren, maar kijken door de één hindert de ander niet.
