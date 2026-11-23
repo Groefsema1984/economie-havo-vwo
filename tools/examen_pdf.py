@@ -15,20 +15,22 @@ TV = {1: 'I', 2: 'II', 3: 'III'}
 
 # grove indeling naar syllabusdomein op trefwoorden (eerste treffer wint, volgorde telt)
 DOMEIN_WOORDEN = [
-    ('F', ['spel', 'speler', 'strategie', 'nash', 'gevangenendilemma', 'beslisboom', 'onderhandel', 'meelift', 'cao', 'vakbond', 'collectief goed', 'collectieve goederen']),
+    ('F', ['spel', 'speler', 'strategie', 'nash', 'gevangenendilemma', 'beslisboom', 'onderhandel', 'meelift', 'cao', 'vakbond', 'collectief goed', 'collectieve goederen', 'ultimatum', 'sociale norm', 'verdelingsvoorstel', 'kartel', 'prijsafspra', 'herhaald', 'samenwerk']),
     ('G', ['verzeker', 'risico', 'premie', 'moral hazard', 'averechtse', 'asymmetrische', 'aandelen', 'obligatie', 'beleggen']),
-    ('E', ['pensioen', 'dekkingsgraad', 'omslagstelsel', 'kapitaaldekking', 'contante waarde', 'sparen', 'lenen', 'hypothe', 'generatie', 'staatsschuld', 'overheidsschuld']),
-    ('I', ['inflatie', 'conjunctuur', 'werkloos', 'ecb', 'centrale bank', 'bestedingen', 'begrotingstekort', 'begrotingssaldo', 'koopkracht', 'rente', 'beroepsbevolking']),
+    ('E', ['pensioen', 'dekkingsgraad', 'omslagstelsel', 'kapitaaldekking', 'contante waarde', 'sparen', 'lenen', 'hypothe', 'generatie', 'staatsschuld', 'overheidsschuld', 'houdbaarheid', 'grijze druk', 'vergrijzing', 'ruilen over de tijd', 'ruilt over de tijd']),
+    ('I', ['inflatie', 'conjunctuur', 'werkloos', 'ecb', 'centrale bank', 'bestedingen', 'begrotingstekort', 'begrotingssaldo', 'koopkracht', 'rente', 'beroepsbevolking', 'deflatie', 'laagconjunctuur', 'hoogconjunctuur', 'prijspeil', 'werkgelegenheid', 'arbeidsaanbod']),
     ('H', ['bbp', 'toegevoegde waarde', 'welvaart', 'groei', 'inkomensverdeling', 'lorenz', 'nivell', 'belasting', 'arbeidsproductiviteit', 'arbeidsjaren']),
     ('C', ['export', 'import', 'wisselkoers', 'handel', 'comparatie', 'protectie', 'invoerrecht']),
-    ('D', ['markt', 'prijs', 'elasticiteit', 'omzet', 'winst', 'kosten', 'surplus', 'monopol', 'oligopol', 'concurrentie', 'accijns', 'extern', 'substitut', 'complementair']),
+    ('D', ['markt', 'prijs', 'elasticiteit', 'omzet', 'winst', 'kosten', 'surplus', 'monopol', 'oligopol', 'concurrentie', 'accijns', 'extern', 'substitut', 'complementair', 'marktvorm', 'mededinging', 'minimumprijs', 'maximumprijs', 'consumentensurplus', 'producentensurplus', 'aanbodlijn', 'vraaglijn', 'emissie', 'co2', 'vervuil', 'milieu']),
 ]
 
-def domein(tekst):
-    t = tekst.lower()
-    for d, woorden in DOMEIN_WOORDEN:
-        if any(w in t for w in woorden): return d
-    return 'D'
+def domein(vraag, context=''):
+    """domein met de meeste trefwoorden; de vraag zelf telt drie keer zo zwaar als de context"""
+    q, c = vraag.lower(), context.lower()
+    score = {d: 3 * sum(q.count(w) for w in ws) + sum(c.count(w) for w in ws) for d, ws in DOMEIN_WOORDEN}
+    beste = max(score.values())
+    if not beste: return 'D'
+    return next(d for d, _ in DOMEIN_WOORDEN if score[d] == beste)
 
 def schoon(s):
     s = re.sub(r'\\([-\[\]_*#])', r'\1', s)
@@ -54,6 +56,14 @@ def opgaven(tekst):
             pnt, nr, body = int(delen[i]), int(delen[i + 1]), delen[i + 2]
             # de vraag loopt tot de eerste lege regel; wat daarna komt is context voor de volgende vraag
             stukken = re.split(r'\n\s*\n', body.strip(), maxsplit=1)
+            # pdf-tekst zet soms een lege regel midden in de vraag: plak door zolang de zin niet af is
+            while len(stukken) > 1 and not re.search(r'[.?!:)]\s*$', stukken[0]):
+                verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
+                stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
+            # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
+            if len(stukken) > 1 and re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe het als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noteer)', stukken[1].strip()):
+                verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
+                stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
             vraag = stukken[0]
             if 'Kies uit' in body and 'Kies uit' not in vraag:   # invulvraag: tekst + 'Kies uit' horen erbij
                 km = re.search(r'Kies uit:.*?(?=\n\s*\n|$)', body, re.S)
@@ -77,7 +87,7 @@ def antwoorden(tekst):
     t = t[t.find('4 Beoordelingsmodel'):] if '4 Beoordelingsmodel' in t else t
     t = re.split(r'\n5 Aanleveren scores', t)[0]
     uit = {}
-    for m in re.finditer(r'(?:^|\n)[ \t]*(\d{1,2}) maximumscore (\d)\s*(.*?)(?=\n[ \t]*\d{1,2} maximumscore \d|\n[ \t]*Opgave \d+ |\Z)', t, re.S):
+    for m in re.finditer(r'(?:^|\s)(\d{1,2}) maximumscore (\d)\s*(.*?)(?=\s\d{1,2} maximumscore \d|\n[ \t]*Opgave \d+ |\Z)', t, re.S):
         a = m.group(3)
         a = re.sub(r'Vraag Antwoord Scores', ' ', a)
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
@@ -106,7 +116,7 @@ def splits_invul(v, antw):
         if idx is None: idx = next((i for i, x in enumerate(o) if j and (j.lower().startswith(x.lower()) or x.lower().startswith(j.lower()))), None)
         if idx is None: return []   # niet eenduidig: dan alleen de open vraag
         zin = next((z for z in zinnen if f'({k})' in z), '')
-        zin = re.sub(r'…\s*\(%d\)\s*…|\.\.\.\s*\(%d\)\s*\.\.\.' % (k, k), '…', zin).strip(' -')
+        zin = re.sub(r'(?:…|\.\.\.)\s*\(%d\)\s*(?:…|\.\.\.)' % k, '…', zin).strip(' -')
         zin = re.sub(r'…\s*\((\d)\)\s*…', r'…(\1)…', zin)
         zin = re.sub(r'^Maak [^:]*:\s*', '', zin)
         uit.append({'k': k, 'zin': zin, 'o': o, 'a': idx})
@@ -132,10 +142,11 @@ def main():
             if not a: rapport.append(f'{ex} vraag {v["nr"]}: geen antwoord gevonden'); continue
             if 'altijd worden toegekend' in a: continue
             eid = f'ex.{ex}.{v["nr"]}'
-            d = bib.get(eid) or domein(v['opgave'] + ' ' + v['ctx'] + ' ' + v['q'])
+            d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
             basis = {'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': v['opgave'], 'd': d, 'e': 'EX.' + d}
             q = v['q']
             if re.search(r'Gebruik[^.]*\bbron', q): q += '\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)'
+            elif re.search(r'Gebruik[^.]*\b(figuur|tabel|grafiek)', q): q += '\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)'
             vragen.append(dict(basis, id=eid, t='open', nr=v['nr'], ctx=v['ctx'], q=q, model=a, pnt=v['pnt'])); n_open += 1
             for s in splits_invul(v, a):
                 vragen.append(dict(basis, id=f'{eid}.{s["k"]}', t='ex', nr=v['nr'] + s['k'] / 10, ctx=v['ctx'],
