@@ -48,7 +48,14 @@ def opgaven(tekst):
     t = re.sub(r'(?<=[a-zà-ü,])[ \t]*\n\s*\n(?=[a-zà-ü])(?!uit )', ' ', t)   # zin loopt door over een witregel
     t = schoon(t)
     t = re.sub(r'(?m)^[ \t]*(Opgave \d+)[ \t]*\n\s*', r'\1 ', t)   # oude examens: titel op de regel na 'Opgave 1'
-    t = t[t.find('Opgave 1'):] if 'Opgave 1' in t else t
+    if 'Opgave 1' in t:
+        voor, t = t[:t.find('Opgave 1')], t[t.find('Opgave 1'):]
+        # paginaopmaak: soms staan de eerste vragen vóór de kop 'Opgave 1' -> achter de inleiding van opgave 1 zetten
+        vm = re.search(r'(?:^|\s)\dp \d{1,2} ', voor)
+        if vm:
+            losse = voor[vm.start():].strip()
+            em = re.search(r'(?:^|\s)\dp \d{1,2} ', t)
+            t = t[:em.start()] + '\n\n' + losse + '\n\n' + t[em.start():] if em else t + '\n\n' + losse
     uit = []
     for blok in re.split(r'(?=Opgave \d+ )', t):
         m = re.match(r'Opgave (\d+) (.+?)(?:\n|$)', blok)
@@ -219,7 +226,8 @@ def main():
             if not a: rapport.append(f'{ex} vraag {v["nr"]}: geen antwoord gevonden'); continue
             if 'altijd worden toegekend' in a or v['nr'] in altijd: continue
             if re.search(r':\s*$', a) and len(a) < 80: rapport.append(f'{ex} vraag {v["nr"]}: antwoord is een tekening, overgeslagen'); continue
-            if re.search(r':\s*$', a): a += ' (zie de tekening in het correctievoorschrift)'
+            a = re.sub(r'((?:arcering|tekening|schets|grafiek)(?: is)?:)[ \t]*(?=\n|$)', r'\1 (zie de tekening in het correctievoorschrift)', a)
+            if re.search(r':\s*$', a): a += ' (zie het correctievoorschrift)'
             eid = f'ex.{ex}.{v["nr"]}'
             d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
             basis = {'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': v['opgave'], 'd': d, 'e': 'EX.' + d}
