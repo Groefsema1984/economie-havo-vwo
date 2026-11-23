@@ -36,6 +36,7 @@ def schoon(s):
     s = re.sub(r'\\([-\[\]_*#])', r'\1', s)
     s = re.sub(r'[A-Z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
+    s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\n(?=[a-zà-ü(€0-9])', ' ', s)   # afgebroken regels aan elkaar
     return re.sub(r'[ \t]+', ' ', s).strip()
 
@@ -104,6 +105,7 @@ def splits_invul(v, antw):
     for m in re.finditer(r'bij \((\d)\)\s*(.*?)(?=bij \(\d\)|$)', kies, re.S):
         o = [re.sub(r'\s+', ' ', x).strip(' .') for x in re.split(r'\s/\s', m.group(2).strip()) if x.strip(' .\n')]
         if len(o) >= 2: opties[int(m.group(1))] = o
+    antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)', antw)[0]   # alleen het modelantwoord, niet de puntentelling
     juist = {int(m.group(1)): m.group(2).strip(' .') for m in re.finditer(r'\((\d)\)\s*([^()\n•]+?)(?=\s*\(\dp\)|\s*\(\d\)|\s+\d\s*$|\s+\d\n|\n|$|\s+indien|\s+of\s)', antw)}
     dubbel = {k for k in range(1, 10) if len(re.findall(r'\(%d\)' % k, antw)) > 1}   # meerdere goede antwoordsets
     tekst = re.sub(r'\s+', ' ', v['q'][:km.start()])
@@ -115,9 +117,11 @@ def splits_invul(v, antw):
         idx = next((i for i, x in enumerate(o) if x.lower() == j.lower()), None)
         if idx is None: idx = next((i for i, x in enumerate(o) if j and (j.lower().startswith(x.lower()) or x.lower().startswith(j.lower()))), None)
         if idx is None: return []   # niet eenduidig: dan alleen de open vraag
-        zin = next((z for z in zinnen if f'({k})' in z), '')
+        zi = next((i for i, z in enumerate(zinnen) if f'({k})' in z), None)
+        zin = zinnen[zi] if zi is not None else ''
+        if zi and len(zin) < 50: zin = zinnen[zi - 1] + ' ' + zin   # korte zin: vorige zin erbij voor de context
         zin = re.sub(r'(?:…|\.\.\.)\s*\(%d\)\s*(?:…|\.\.\.)' % k, '…', zin).strip(' -')
-        zin = re.sub(r'…\s*\((\d)\)\s*…', r'…(\1)…', zin)
+        zin = re.sub(r'(?:…|\.\.\.)\s*\((\d)\)\s*(?:…|\.\.\.)', r'…(\1)…', zin)
         zin = re.sub(r'^Maak [^:]*:\s*', '', zin)
         uit.append({'k': k, 'zin': zin, 'o': o, 'a': idx})
     return uit
@@ -141,6 +145,7 @@ def main():
             a = cv.get(v['nr'])
             if not a: rapport.append(f'{ex} vraag {v["nr"]}: geen antwoord gevonden'); continue
             if 'altijd worden toegekend' in a: continue
+            if re.search(r':\s*$', a) and len(a) < 80: rapport.append(f'{ex} vraag {v["nr"]}: antwoord is een tekening, overgeslagen'); continue
             eid = f'ex.{ex}.{v["nr"]}'
             d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
             basis = {'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': v['opgave'], 'd': d, 'e': 'EX.' + d}
