@@ -98,6 +98,9 @@ def opgaven(tekst):
                 naloop = body[km.end():] if km else ''
             else:
                 naloop = stukken[1] if len(stukken) > 1 else ''
+            # pdf zonder witregel: '… juist is. De DNB-econoom simuleert …' -> context van de volgende vraag
+            zm = None if 'Kies uit' in vraag else re.search(r'(?<=[.?]) (?=(?:De|Het|Daarnaast|Volgens) [^\n:“(]{80,}$)', vraag, re.S)
+            if zm: vraag, naloop = vraag[:zm.start()], vraag[zm.end():] + '\n\n' + naloop
             if 'Kies uit' in vraag:   # keuzelijst loopt door na een witregel: '… / primaire\n\ninkomens bij (2) …'
                 while True:
                     d = re.split(r'\n\s*\n', naloop.lstrip('\n'), maxsplit=1)
