@@ -33,7 +33,13 @@ def domein(vraag, context=''):
     return next(d for d, _ in DOMEIN_WOORDEN if score[d] == beste)
 
 # formules die in het pdf onleesbaar zijn: (examen, vraag, kapot, goed)
-CORRECTIES = [('v21-2', 23, 'koersstijging= , ×100%', 'koersstijging = (41,71 − 35) / 35 × 100%')]
+CORRECTIES = [('v21-2', 23, 'koersstijging= , ×100%', 'koersstijging = (41,71 − 35) / 35 × 100%'),
+              ('v19-2', 9, '(44% van 12 300) + 173\n= € 25,42.', '((44% van € 300) + € 173) / 12 = € 25,42 per maand.'),
+              ('v19-2', 16, '602 + 252 + 82 + 72 = 4.338', '60² + 25² + 8² + 7² = 4.338'),
+              ('v19-2', 16, 'HHI > 602 > 2.000', 'HHI > 60² > 2.000'),
+              ('v19-2', 17, 'PNetshop = 347,50\n75 = € 4,63 2', 'PNetshop = 347,50 / 75 = € 4,63 (2p)'),
+              ('v19-2', 17, '• 4,63 − 6,95\n6,95x 100%', '• (4,63 − 6,95) / 6,95 × 100%'),
+              ('v19-2', 23, '1,01885 = 1,0976 1,0976 1,0562 = 1,039', '1,0188⁵ = 1,0976; 1,0976 / 1,0562 = 1,039')]
 
 def schoon(s):
     s = re.sub(r'\\([-\[\]_*#!<>=+.&])', r'\1', s)
