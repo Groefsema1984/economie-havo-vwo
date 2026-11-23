@@ -39,6 +39,9 @@ CORRECTIES = [('v21-2', 23, 'koersstijging= , ×100%', 'koersstijging = (41,71 �
               ('v19-2', 16, 'HHI > 602 > 2.000', 'HHI > 60² > 2.000'),
               ('v19-2', 17, 'PNetshop = 347,50\n75 = € 4,63 2', 'PNetshop = 347,50 / 75 = € 4,63 (2p)'),
               ('v19-2', 17, '• 4,63 − 6,95\n6,95x 100%', '• (4,63 − 6,95) / 6,95 × 100%'),
+              ('v18-1', 15, '564,3 667,7\n− 491,1\nx 100%', '(564,3 − 491,1) / 667,7 × 100%'),
+              ('v18-1', 18, '66,67\n200 × 100%', '66,67 / 200 × 100%'),
+              ('v18-1', 22, '480 200.000 × 100%', '480 / 200.000 × 100%'),
               ('v19-2', 23, '1,01885 = 1,0976 1,0976 1,0562 = 1,039', '1,0188⁵ = 1,0976; 1,0976 / 1,0562 = 1,039')]
 
 def schoon(s):
@@ -138,6 +141,7 @@ def antwoorden(tekst):
         a = re.sub(r'(?m)Vraag Antwoord Scores|^[ \t]*(?:Vraag|Antwoord|Scores|Scores Vraag)[ \t]*$', ' ', a)   # kopregels van de pagina
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
         a = re.sub(r'\n(\d)(?=\n(?:•|of\b)|$)', r' \1', a)   # score op een eigen regel
+        a = re.sub(r'•\n', '• ', a)   # opsommingsteken los op een regel
         a = deelscores(a)
         uit[int(m.group(1))] = a
     for m in re.finditer(r'(?:^|\n)\s*(\d{1,2}) ([A-F])\s*(?=\n)', t):   # meerkeuzevraag: '23 C'
