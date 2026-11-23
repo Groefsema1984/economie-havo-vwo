@@ -34,7 +34,8 @@ def domein(vraag, context=''):
 
 def schoon(s):
     s = re.sub(r'\\([-\[\]_*#!>.&])', r'\1', s)
-    s = re.sub(r'[A-Z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
+    s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
+    s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', ' ', s)   # voetregel van aanvulling/erratum
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
@@ -74,7 +75,8 @@ def opgaven(tekst):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
                 while len(stukken) > 1 and 'Kies uit' not in stukken[0] and (not re.search(r'[.?!:)]\s*$', stukken[0]) and (re.match(r'\s*[a-zà-ü(]', stukken[1]) or re.search(r'\b(en|of|de|het|een|van)\s*$', stukken[0]))
-                        or re.search(r'\)\s*$', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1])):   # zin loopt nog door
+                        or re.search(r'\)\s*$', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1])
+                        or re.search(r':\s*$', stukken[0]) and re.match(r'\s*\\?-\s', stukken[1])):   # zin of opsomming loopt nog door
                     verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                     stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             vraag = stukken[0]
@@ -114,6 +116,7 @@ def antwoorden(tekst):
         a = m.group(3)
         a = re.sub(r'Vraag Antwoord Scores', ' ', a)
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
+        a = re.sub(r'\n(\d)(?=\n(?:•|of\b)|$)', r' \1', a)   # score op een eigen regel
         a = deelscores(a)
         uit[int(m.group(1))] = a
     for m in re.finditer(r'(?:^|\n)\s*(\d{1,2}) ([A-F])\s*(?=\n)', t):   # meerkeuzevraag: '23 C'
@@ -179,9 +182,11 @@ def main():
             else: cvtekst += '\n\n' + xt
         ops = opgaven(optekst); cv = antwoorden(cvtekst)
         # erratum: 'in de inleiding voor vraag 21 moet ... het woord X vervangen worden door: Y'
-        for m in re.finditer(r'vraag (\d+)[^\n]*?het woord\s+(\S+)\s+vervangen worden door:\s+(\S+)', optekst):
+        # of: 'moet de laatste zin voorafgaand aan vraag 27 <oude zin> vervangen worden door: <nieuwe zin>'
+        for m in re.finditer(r'vraag (\d+)[^\n]*\n\s*\n(.+?)\n\s*\n\s*vervangen worden door:\s*\n\s*\n(.+?)\n', optekst):
+            oud, nieuw = (re.sub(r'\s+', ' ', schoon(x)).strip() for x in m.group(2, 3))
             for v in ops:
-                if v['nr'] == int(m.group(1)): v['ctx'] = v['ctx'].replace(m.group(2), m.group(3)); v['q'] = v['q'].replace(m.group(2), m.group(3))
+                if v['nr'] == int(m.group(1)): v['ctx'] = v['ctx'].replace(oud, nieuw); v['q'] = v['q'].replace(oud, nieuw)
         # erratum: 'bij vraag 25 moeten de woorden boven de vraag vervangen worden door: Gebruik ...'
         for m in re.finditer(r'bij vraag (\d+) moeten de woorden boven de vraag vervangen worden door:\s*(.+)', schoon(optekst)):
             for v in ops:
@@ -190,9 +195,14 @@ def main():
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
         vervangen = set()
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
-        for m in re.finditer(r'bij vraag (\d+) moet:?\s*(?:Een voorbeeld|Voorbeelden)[^\n]*?(?:\n(?!\s*Op pagina)[^\n]*)*?\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Op pagina|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
-            a = re.sub(r'\s*\n\s*', '\n', m.group(2)).strip(); vervangen.add(int(m.group(1)))
-            cv[int(m.group(1))] = deelscores(a)
+        for m in re.finditer(r'bij vraag (\d+) moet:?\s*((?:Een |Voorbeelden|Uit het)[^\n]*?(?:\n(?!\s*Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+            n = int(m.group(1))
+            oud, a = (deelscores(re.sub(r'\s*\n\s*', '\n', x).strip()) for x in m.group(2, 3))
+            pat = r'\s+'.join(map(re.escape, oud.split()))
+            if n in cv and re.search(pat, cv[n]):   # alleen het genoemde stuk vervangen
+                cv[n] = re.sub(pat, lambda _: a, cv[n], count=1); vervangen.add(n)
+            elif re.match(r'(Een voorbeeld|Voorbeelden)', oud):
+                cv[n] = a; vervangen.add(n)
         # overige aanvullingen ('bij vraag 20 moet naast ... ook ... goed gerekend worden') -> achter het antwoordmodel
         ai = cvtekst.find('aanvulling op het correctievoorschrift 20')
         if ai >= 0:
