@@ -37,6 +37,7 @@ def schoon(s):
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', ' ', s)   # voetregel van aanvulling/erratum
     s = re.sub(r"(?:(?<=[a-zà-ü]{3})|(?<=[A-Z]))- (?!en\b|of\b|tot\b|t/m\b)(?=[a-zà-ü]{3})", "-", s)   # afbreekstreepje aan regeleinde: 'principaal- agent'
+    s = s.replace('ð¥', '×')
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
@@ -186,7 +187,7 @@ def main():
         for x in sorted(glob.glob(f.replace('_OPGAVEN.pdf.md', '_*.pdf.md'))):
             if x in (f, cvp) or not re.search(r'AANVUL|ERRAT', os.path.basename(x).upper()): continue
             xt = open(x, encoding='utf-8').read()
-            if re.sub(r'\s+', ' ', xt).strip()[-150:] in re.sub(r'\s+', ' ', cvtekst + optekst): continue   # staat al in het pdf
+            if any(c in cvtekst + optekst for c in re.findall(r'[A-Z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', xt)): continue   # staat al in het pdf
             if 'OPGAVEN' in os.path.basename(x).upper(): optekst += '\n\n' + xt
             else: cvtekst += '\n\n' + xt
         ops = opgaven(optekst); cv = antwoorden(cvtekst)
@@ -204,7 +205,7 @@ def main():
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
         vervangen = set()
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
-        for m in re.finditer(r'vraag (\d+),?(?: bij de \w+ deelscore,?)? moet:?(?: bij de Opmerkingen?,?(?: bij het \w+ opsommingsstreepje)?)?\s*(?!worden toegevoegd)([^\n]*?(?:\n(?!\s*(?:en )?Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+        for m in re.finditer(r'vraag (\d+),?(?: bij de \w+ deelscore,?)? moet:?(?:\s*,?\s*bij (?:de|het) (?:\w+ )?(?:Opmerkingen?|deelscore|voorbeeldantwoord|opsommingsstreepje),?)*\s*(?!worden toegevoegd)([^\n]*?(?:\n(?!\s*(?:en )?Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
             n = int(m.group(1))
             oud, a = (deelscores(re.sub(r'\s*\n\s*', '\n', x).strip()) for x in m.group(2, 3))
             pat = r'\s+'.join(map(re.escape, oud.split()))
