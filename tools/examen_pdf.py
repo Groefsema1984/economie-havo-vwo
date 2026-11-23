@@ -37,7 +37,8 @@ def schoon(s):
     s = re.sub(r'[A-Z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
-    s = re.sub(r'\n(?=[a-zà-ü(€0-9])', ' ', s)   # afgebroken regels aan elkaar
+    s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
+    s = re.sub(r'(?<!\n)\n(?=[a-zà-ü(€0-9])', ' ', s)   # afgebroken regels aan elkaar (niet over een witregel)
     return re.sub(r'[ \t]+', ' ', s).strip()
 
 def opgaven(tekst):
@@ -72,6 +73,11 @@ def opgaven(tekst):
                 naloop = body[km.end():] if km else ''
             else:
                 naloop = stukken[1] if len(stukken) > 1 else ''
+            if 'Kies uit' in vraag:   # keuzelijst loopt door na een witregel: '… / primaire\n\ninkomens bij (2) …'
+                while True:
+                    d = re.split(r'\n\s*\n', naloop.lstrip('\n'), maxsplit=1)
+                    if not d[0].strip() or not (re.match(r'\s*[a-zà-ü/]', d[0]) and (len(d[0].strip()) < 60 or re.search(r'\bbij \(\d\)', d[0]))): break
+                    vraag = vraag.rstrip() + ' ' + d[0].strip(); naloop = d[1] if len(d) > 1 else ''
             # 'Gebruik bron 1.' staat vlak vóór de vraagkop: haal het uit de context naar de vraag
             gm = re.search(r'(Gebruik [^\n]*?\.)\s*$', ctx.strip())
             gebruik = gm.group(1) if gm else ''
@@ -147,10 +153,21 @@ def main():
         ops = opgaven(open(f, encoding='utf-8').read()); cv = antwoorden(cvtekst)
         # aanvulling op het correctievoorschrift: 'bij vraag 13 moeten altijd 2 scorepunten worden toegekend' -> vraag overslaan
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
+        vervangen = set()
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
-        for m in re.finditer(r'bij vraag (\d+) moet:.*?worden vervangen door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
-            a = re.sub(r'\s*\n\s*', '\n', m.group(2)).strip()
+        for m in re.finditer(r'bij vraag (\d+) moet:?\s*(?:(?:Een voorbeeld|Voorbeelden)[^\n]*?)?(?:\n(?!\s*Op pagina)[^\n]*)*?\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Op pagina|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+            a = re.sub(r'\s*\n\s*', '\n', m.group(2)).strip(); vervangen.add(int(m.group(1)))
             cv[int(m.group(1))] = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()
+        # overige aanvullingen ('bij vraag 20 moet naast ... ook ... goed gerekend worden') -> achter het antwoordmodel
+        ai = cvtekst.find('aanvulling op het correctievoorschrift 20')
+        if ai >= 0:
+            av = schoon(cvtekst[ai:])
+            for m in re.finditer(r'bij vraag (\d+)\b(.*?)(?=Op pagina \d+|\n\s*Ik verzoek|\Z)', av, re.S):
+                n, x = int(m.group(1)), m.group(2)
+                if 'altijd' in x or n in vervangen or n not in cv: continue
+                x = re.split(r'\n\s*Toelichting', x)[0]
+                x = re.sub(r'\s+', ' ', x).strip(' :,.').removesuffix(' en')
+                cv[n] += '\nAanvulling: bij vraag %d %s.' % (n, x)
         n_open = n_mc = 0
         for v in ops:
             a = cv.get(v['nr'])
