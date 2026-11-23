@@ -1,6 +1,6 @@
 # Handleiding docent · Economie havo/vwo oefenapp
 
-## Wat zit erin (versie 0.1, raamwerk)
+## Wat zit erin
 
 - Eén app voor havo 4, havo 5, vwo 4, vwo 5 en vwo 6. De leerling kiest bij de start zijn klas (H4, H5, V4, V5, V6).
   De eerste letter bepaalt het niveau: H = havo, V = vwo. De app toont dan alleen de levels en examenvragen van dat niveau.
@@ -10,13 +10,18 @@
 - Per domein nu een **startset** met basisbegrippen (8 tot 11 vragen) en een **rekenlab** met sommen die steeds nieuwe getallen
   krijgen (elasticiteit, evenwicht, break-even, MO = MK, contante waarde, reële groei, werkloosheid, enzovoort).
   Domein J is nog leeg en staat op "Komt binnenkort".
-- Op elke domeinpagina is plek voor de **hoofdstukken van Economie Integraal**. Die worden apart gegroepeerd zodra ze erin staan.
+- Per domein staan de **hoofdstukken van Economie Integraal** als aparte groep: havo H2 t/m H9 en vwo H2 t/m H8 en H15 t/m H18.
+  Elke paragraaf is een level met eerst uitleg en daarna vragen. Welke hoofdstukken nog ontbreken staat in het overzicht in Claude Docs.
 - Alles van de mavo-app werkt hier ook: medailles (brons 6/8, zilver 7/8, goud 8/8), domeintoets met diploma, herhaalronde,
   vaardigheden per onderwerp (0-100), begrippenkaarten, badges, munten, thema's en het docentendashboard met oefentijd,
   scores per domein, moeilijkste vragen, eindtermentabel, examentrainer en CSV.
 - **Eindexamentrainer**: klaar voor havo- en vwo-examens, per examen, per domein, als sprint en om te printen. Nieuw is de
   vraagvorm **open vraag**: de leerling schrijft een antwoord, ziet daarna het antwoordmodel (correctievoorschrift) en kijkt zelf na.
-  Er staan nog geen examenvragen in; de trainer verschijnt in het menu zodra ze zijn toegevoegd.
+  Er staan **alle centrale examens van 2018 t/m 2026** in, voor havo (tijdvak 1 en 2) en vwo (tijdvak 1, 2 en in 2021 en 2022
+  ook tijdvak 3). 2020 ontbreekt omdat er toen geen centraal examen was. Samen zijn dat ruim 1.200 examenvragen.
+  Aanvullingen en errata van het CvTE zijn verwerkt. Invulvragen ("Kies uit ...") zijn daarnaast opgeknipt in losse
+  meerkeuzevragen per open plek, zodat leerlingen die ook automatisch nagekeken kunnen oefenen.
+  Figuren, grafieken en bronnen uit de bijlage zitten nog niet in de app: bij zo'n vraag staat de hint om het examen erbij te pakken.
 
 Let op: de onderwerpen per domein (bijvoorbeeld "D.elas Elasticiteit") zijn werktitels, geen officiële syllabuscodes.
 Ze staan in `src/data-basis.js` en zijn makkelijk aan te passen of uit te breiden.
@@ -38,7 +43,16 @@ LEVELS.D.push(
 - `niv:'v'` op een level of vraag = alleen vwo, `niv:'h'` = alleen havo. Zonder `niv` is het voor beide.
 - Vraagvormen: `mc` (meerkeuze), `wo` (waar/niet waar), `koppel` (paren), `reken` (via een generator) en `open` (met `model` en `pnt`).
 
-Het makkelijkst: stuur Claude de lesstof van een hoofdstuk en vraag om de levels te maken.
+Het makkelijkst: stuur Claude de lesstof van een hoofdstuk en vraag om de levels te maken. De hoofdstukken staan als
+tekstbestand in `hoofdstukken/` (uitleg in `hoofdstukken/LEESMIJ.txt`) en worden met `python3 tools/hoofdstukken.py` omgezet.
+
+## Examens toevoegen
+
+De examens komen uit de pdf's van examenblad.nl (opgaven, correctievoorschrift en eventueel aanvulling of erratum).
+De tekst daarvan staat in `bron-ruw/`. `python3 tools/examen_pdf.py` leest alles in en schrijft `src/data-examen.js`
+opnieuw; daarna `python3 tools/bibliotheek.py && python3 src/build.py`. Een nieuw examen (bijvoorbeeld 2027) toevoegen
+is dus: de drie pdf-teksten in `bron-ruw/` zetten en deze drie commando's draaien. Formules die in het pdf onleesbaar
+zijn, worden met de hand verbeterd in de lijst `CORRECTIES` bovenin `tools/examen_pdf.py`.
 
 ## Server installeren (eenmalig, ongeveer 10 minuten, gratis)
 
