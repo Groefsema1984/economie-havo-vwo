@@ -85,7 +85,9 @@ def main():
         lv = sorted(levels[d], key=lambda l: (l['hfd'], l['bron']))
         out.append(f'LEVELS.{d}.push(...{json.dumps(lv, ensure_ascii=False, indent=0)});')
     ex = sorted(examen.values(), key=lambda v: (v['ex'], v['nr']))
-    out.append(f'EXAMEN.vragen.push(...{json.dumps(ex, ensure_ascii=False, indent=0)});')
+    # vragen die al uit een compleet examen komen (data-examen.js) niet dubbel opnemen; wel een figuur overnemen
+    out.append(f'for (const v of {json.dumps(ex, ensure_ascii=False, indent=0)}) {{ const al = EXAMEN.vragen.find(x => x.id === v.id); '
+               f'if (!al) EXAMEN.vragen.push(v); else if (v.img && !al.img) al.img = v.img; }}')
     open(os.path.join(ROOT, 'src', 'data-bibliotheek.js'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
     n = sum(len(l['vragen']) for v in levels.values() for l in v)
     print(f'{sum(len(v) for v in levels.values())} leerdoelen, {n} oefenvragen, {len(ex)} examenvragen')

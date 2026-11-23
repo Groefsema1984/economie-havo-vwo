@@ -3068,7 +3068,7 @@ LEVELS.I.push(...[
 "gens": []
 }
 ]);
-EXAMEN.vragen.push(...[
+for (const v of [
 {
 "id": "ex.h18-1.1",
 "t": "open",
@@ -8064,4 +8064,4 @@ EXAMEN.vragen.push(...[
 "model": "Tegengestelde belangen: de VN wil klimaatbeleid, landen willen goedkoper produceren (1). Asymmetrische informatie: landen meten zelf en kunnen andere data aanleveren (1). Maatregel: contract met boetes die klimaatbeleid rendabeler maken (1).",
 "pnt": 3
 }
-]);
+]) { const al = EXAMEN.vragen.find(x => x.id === v.id); if (!al) EXAMEN.vragen.push(v); else if (v.img && !al.img) al.img = v.img; }
