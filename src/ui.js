@@ -149,6 +149,12 @@ wereld(w){
      ${tOpen?`<button class="knop" onclick="startToets('${w}')">${t.klaar?'Opnieuw':'Start'}</button>`:''}</div>
    </div>${VOET()}`;
 },
+uitleg(a){ const l=lvsVoor(a.w).find(x=>x.id===a.lid); const W=WERELDEN.find(x=>x.id===a.w);
+  return `<div class="wrap" style="max-width:860px;--k:${W.kleur}"><div class="top" style="display:flex;gap:12px;align-items:center;margin-bottom:12px"><button class="terug" onclick="go('wereld','${a.w}')">‹ Terug</button><span class="zacht" style="font-size:14px">${esc(l.hfd||'Domein '+W.nr)}</span></div>
+   <div class="kaart"><span class="eyebrow" style="color:var(--acc)">Uitleg</span><h2 style="margin:4px 0 6px">${esc(l.naam)}</h2>${l.doel?`<p class="zacht" style="margin:0 0 10px"><i>${esc(l.doel)}</i></p>`:''}
+   ${l.uitleg.map(u=>`<div style="border-top:1px solid var(--lijn);padding:12px 0"><b>${esc(u.t)}</b><div style="white-space:pre-line;margin-top:4px">${esc(u.x)}</div></div>`).join('')}
+   <div class="voet"><button class="knop" onclick="startLevel('${a.w}','${a.lid}',1)">Start met oefenen (${Math.min(l.vragen.length,VRAGEN_PER_LEVEL)} opgaven)</button></div></div></div>`;
+},
 quiz(){ return `<div class="wrap" style="max-width:860px;--k:${Q.kleur||'var(--acc)'}" id="qz"></div>` },
 quiz_na(){ tekenVraag() },
 resultaat(r){ return r },
@@ -255,7 +261,8 @@ function vragenVoorLevel(l){
   else { const nGen=Math.min(gens.length?2:0,VRAGEN_PER_LEVEL); set=vaste.slice(0,VRAGEN_PER_LEVEL-nGen).concat(Array.from({length:nGen},()=>maakGen(pick(gens)))); }
   return shuffle(set);
 }
-function startLevel(w,lid){ const l=lvsVoor(w).find(x=>x.id===lid); if(!l||!speelbaar(l)){ melding('Dit level heeft nog geen vragen'); return } const W=WERELDEN.find(x=>x.id===w);
+function startLevel(w,lid,direct){ const l=lvsVoor(w).find(x=>x.id===lid); if(!l||!speelbaar(l)){ melding('Dit level heeft nog geen vragen'); return }
+  if(l.uitleg&&l.uitleg.length&&!direct){ go('uitleg',{w,lid}); return } const W=WERELDEN.find(x=>x.id===w);
   Q={modus:'level',titel:l.naam,w,lid,kleur:W.kleur,vragen:vragenVoorLevel(l),i:0,res:[],terug:`go('wereld','${w}')`}; go('quiz') }
 function startToets(w){ const W=WERELDEN.find(x=>x.id===w); const lvs=lvsVoor(w).filter(l=>l.vragen.length);
   const per=Math.max(3,Math.ceil((TOETS_VRAGEN-2)/Math.max(1,lvs.length))); let pool=[]; lvs.forEach(l=>pool.push(...shuffle(l.vragen.filter(v=>v.t!=='open')).slice(0,per).map(v=>Object.assign({l:l.id},v)))); pool=shuffle(pool).slice(0,TOETS_VRAGEN-2);
@@ -329,10 +336,11 @@ function volgende(){ if(Q.i<Q.vragen.length-1){ Q.i++; tekenVraag() } else klaar
 function klaar(){
   oefenActief=false; const n=Q.res.filter(Boolean).length, tot=Q.vragen.length; let extra='', titel='', icoon='🎉';
   if(Q.modus==='level'){
-    const oud=(S.lv[Q.lid]||{}).best; const r=S.lv[Q.lid]||{best:0,n:0}; r.n++; r.best=Math.max(r.best||0,n); r.laatst=n; S.lv[Q.lid]=r;
-    const m=medaille(n), mOud=oud!=null?medaille(oud):null;
+    const n8=Math.round(n/tot*VRAGEN_PER_LEVEL); // score omgerekend naar 8, zodat levels met meer of minder vragen eerlijk tellen
+    const oud=(S.lv[Q.lid]||{}).best; const r=S.lv[Q.lid]||{best:0,n:0}; r.n++; r.best=Math.max(r.best||0,n8); r.laatst=n8; S.lv[Q.lid]=r;
+    const m=medaille(n8), mOud=oud!=null?medaille(oud):null;
     if(m&&(!mOud||m.min>mOud.min)){ const bon=m.m-(mOud?mOud.m:0); S.mVerd+=bon; extra+=`<p>${m.e} Nieuwe medaille: <b>${m.n}</b>! +${bon} munten</p>` }
-    icoon=m?m.e:'💪'; titel=m?`${n} van ${tot} goed`:`${n} van ${tot} goed. Voor brons heb je ${MEDAIL[0].min} nodig.`;
+    icoon=m?m.e:'💪'; titel=m?`${n} van ${tot} goed`:`${n} van ${tot} goed. Voor brons heb je ${Math.ceil(MEDAIL[0].min/VRAGEN_PER_LEVEL*tot)} goed nodig.`;
   } else if(Q.modus==='toets'){
     return toetsUitslag();
   } else if(Q.modus==='herhaal'){ if(!S.herhaal.length) { S.badges.includes('herhaal')||S.badges.push('herhaal') } titel=`${n} van ${tot} goed`; extra=`<p class="zacht">Nog ${S.herhaal.length} vragen in je herhaalronde.</p>` }
