@@ -32,12 +32,15 @@ def domein(vraag, context=''):
     if not beste: return 'D'
     return next(d for d, _ in DOMEIN_WOORDEN if score[d] == beste)
 
+# formules die in het pdf onleesbaar zijn: (examen, vraag, kapot, goed)
+CORRECTIES = [('v21-2', 23, 'koersstijging= , ×100%', 'koersstijging = (41,71 − 35) / 35 × 100%')]
+
 def schoon(s):
     s = re.sub(r'\\([-\[\]_*#!<>=+.&])', r'\1', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', ' ', s)   # voetregel van aanvulling/erratum
     s = re.sub(r"(?:(?<=[a-zà-ü]{3})|(?<=[A-Z]))- (?!en\b|of\b|tot\b|t/m\b)(?=[a-zà-ü]{3})", "-", s)   # afbreekstreepje aan regeleinde: 'principaal- agent'
-    s = s.replace('ð¥', '×')
+    s = re.sub(r'ð[\x80-\xbf]*¥', '×', s)   # kapotte wiskunde-x uit het pdf
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
@@ -234,6 +237,8 @@ def main():
             if re.search(r':\s*$', a) and len(a) < 80: rapport.append(f'{ex} vraag {v["nr"]}: antwoord is een tekening, overgeslagen'); continue
             a = re.sub(r'((?:arcering|tekening|schets|grafiek)(?: is)?:)[ \t]*(?=\n|$)', r'\1 (zie de tekening in het correctievoorschrift)', a)
             if re.search(r':\s*$', a): a += ' (zie het correctievoorschrift)'
+            for e_, n_, oud_, nieuw_ in CORRECTIES:
+                if e_ == ex and n_ == v['nr']: a = a.replace(oud_, nieuw_)
             eid = f'ex.{ex}.{v["nr"]}'
             d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
             basis = {'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': v['opgave'], 'd': d, 'e': 'EX.' + d}
