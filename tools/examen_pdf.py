@@ -33,7 +33,7 @@ def domein(vraag, context=''):
     return next(d for d, _ in DOMEIN_WOORDEN if score[d] == beste)
 
 def schoon(s):
-    s = re.sub(r'\\([-\[\]_*#!>.])', r'\1', s)
+    s = re.sub(r'\\([-\[\]_*#!>.&])', r'\1', s)
     s = re.sub(r'[A-Z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
@@ -43,7 +43,10 @@ def schoon(s):
 
 def opgaven(tekst):
     """-> lijst van (opgavetitel, context, nr, punten, vraagtekst)"""
-    t = schoon(re.split(r'\n\s*erratumblad', tekst)[0])
+    t = re.split(r'\n\s*erratumblad', tekst)[0]
+    t = re.sub(r'(?<=[a-zà-ü,])[ \t]*\n\s*\n(?=[a-zà-ü])(?!uit )', ' ', t)   # zin loopt door over een witregel
+    t = schoon(t)
+    t = re.sub(r'(?m)^[ \t]*(Opgave \d+)[ \t]*\n\s*', r'\1 ', t)   # oude examens: titel op de regel na 'Opgave 1'
     t = t[t.find('Opgave 1'):] if 'Opgave 1' in t else t
     uit = []
     for blok in re.split(r'(?=Opgave \d+ )', t):
@@ -51,6 +54,9 @@ def opgaven(tekst):
         if not m: continue
         titel = m.group(2).strip()
         rest = blok[m.end():]
+        if len(titel) > 70:   # titel en eerste zin op één regel: 'Zekerheidszoekers in de zorg Sinds 2006 is ...'
+            mm = re.match(r'(.{3,60}?[?!])\s+(.*)$', titel) or re.match(r'(\S+(?:\s+[a-zà-ü0-9][^\s]*)+)\s+([A-Z].*)$', titel)
+            if mm and len(mm.group(1)) <= 60: titel, rest = mm.group(1), mm.group(2) + '\n' + rest
         # vraagkop: '2p 5 Leg uit ...'
         delen = re.split(r'(?:^|\s)(\d)p (\d{1,2}) ', rest)
         ctx = delen[0]
@@ -59,11 +65,12 @@ def opgaven(tekst):
             # de vraag loopt tot de eerste lege regel; wat daarna komt is context voor de volgende vraag
             stukken = re.split(r'\n\s*\n', body.strip(), maxsplit=1)
             # pdf-tekst zet soms een lege regel midden in de vraag: plak door zolang de zin niet af is
-            while len(stukken) > 1 and not re.search(r'[.?!:)]\s*$', stukken[0]) and 'Kies uit' not in stukken[0]:
+            while len(stukken) > 1 and 'Kies uit' not in stukken[0] and (not re.search(r'[.?!:)]\s*$', stukken[0])
+                    or re.search(r'\)\s*$', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1])):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
-            if len(stukken) > 1 and (re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Betrek|Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
+            if len(stukken) > 1 and (re.search(r'onderstaande (tabel|zinnen|tekst)|als volgt', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1]) or re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Betrek|Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
             vraag = stukken[0]
@@ -91,7 +98,7 @@ def opgaven(tekst):
 
 def deelscores(a):
     """'… lager is 1' aan het eind van een regel -> '… lager is (1p)'; niet bij 'grafiek 3' of 'indien … juist 2'"""
-    return '\n'.join(re.sub(r' (\d)$', r' (\1p)', r) if len(r) > 25 and 'indien' not in r and not r.endswith(' 0') else r for r in a.split('\n')).strip()
+    return '\n'.join(re.sub(r' (\d)$', r' (\1p)', r) if (len(r) > 25 or r.startswith('•')) and 'indien' not in r and not r.endswith(' 0') else r for r in a.split('\n')).strip()
 
 def antwoorden(tekst):
     t = schoon(tekst)
@@ -112,6 +119,7 @@ def splits_invul(v, antw):
     """Invulvraag -> meerkeuzevragen per open plek. Geeft [] als het niet eenduidig lukt."""
     km = re.search(r'Kies uit:(.*)$', v['q'], re.S)
     if not km: return []
+    if 'één of meer' in km.group(1): return []   # meerdere letters goed: geen meerkeuzevraag
     kies = km.group(1)
     opties = {}
     for m in re.finditer(r'(?:[Bb]ij )?\((\d)\)\s*(.*?)(?=(?:[Bb]ij )?\(\d\)|$)', kies, re.S):
