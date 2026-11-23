@@ -55,7 +55,7 @@ def opgaven(tekst):
         titel = m.group(2).strip()
         rest = blok[m.end():]
         if len(titel) > 70:   # titel en eerste zin op één regel: 'Zekerheidszoekers in de zorg Sinds 2006 is ...'
-            mm = re.match(r'(.{3,60}?[?!])\s+(.*)$', titel) or re.match(r'(\S+(?:\s+[a-zà-ü0-9][^\s]*)+)\s+([A-Z].*)$', titel)
+            mm = re.match(r'(.{3,60}?[?!])\s+(.*)$', titel) or re.match(r'(\S+(?:\s+[a-zà-ü0-9…][^\s]*)+)\s+([A-Z].*)$', titel)
             if mm and len(mm.group(1)) <= 60: titel, rest = mm.group(1), mm.group(2) + '\n' + rest
         # vraagkop: '2p 5 Leg uit ...'
         delen = re.split(r'(?:^|\s)(\d)p (\d{1,2}) ', rest)
@@ -70,9 +70,12 @@ def opgaven(tekst):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
-            if len(stukken) > 1 and (re.search(r'onderstaande (tabel|zinnen|tekst)|als volgt', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1]) or re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Betrek|Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
+            if len(stukken) > 1 and (re.search(r':\s*$', stukken[0]) and re.match(r'\s*\\?-\s', stukken[1]) or re.search(r'onderstaande (tabel|zinnen|tekst)|als volgt', stukken[0]) and re.match(r'\s*[a-zà-ü]', stukken[1]) and not re.match(r'\s*uit ', stukken[1]) or re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Betrek|Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
+                while len(stukken) > 1 and 'Kies uit' not in stukken[0] and not re.search(r'[.?!:)]\s*$', stukken[0]) and re.match(r'\s*[a-zà-ü(]', stukken[1]):   # zin loopt nog door
+                    verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
+                    stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             vraag = stukken[0]
             if 'Kies uit' in body and 'Kies uit' not in vraag:   # invulvraag: tekst + 'Kies uit' horen erbij
                 km = re.search(r'Kies uit:.*?(?=\n\s*\n|$)', body, re.S)
@@ -136,7 +139,8 @@ def splits_invul(v, antw):
     for k, o in sorted(opties.items()):
         if k in dubbel: continue
         j = juist.get(k, '')
-        idx = next((i for i, x in enumerate(o) if x.lower() == j.lower()), None)
+        nm = lambda x: re.sub(r'\s+', ' ', x.replace('−', '-').replace('–', '-')).lower().strip(' -')
+        idx = next((i for i, x in enumerate(o) if nm(x) == nm(j)), None)
         if idx is None: idx = next((i for i, x in enumerate(o) if j and (j.lower().startswith(x.lower()) or x.lower().startswith(j.lower()))), None)
         if idx is None: return []   # niet eenduidig: dan alleen de open vraag
         zi = next((i for i, z in enumerate(zinnen) if f'({k})' in z), None)
@@ -179,7 +183,7 @@ def main():
         ai = cvtekst.find('aanvulling op het correctievoorschrift 20')
         if ai >= 0:
             av = schoon(cvtekst[ai:])
-            for m in re.finditer(r'bij vraag (\d+)\b(.*?)(?=Op pagina \d+|\n\s*Ik verzoek|\Z)', av, re.S):
+            for m in re.finditer(r'(?:bij )?vraag (\d+)\b(.*?)(?=Op pagina \d+|\n\s*Ik verzoek|\Z)', av, re.S):
                 n, x = int(m.group(1)), m.group(2)
                 if 'altijd' in x or n in vervangen or n not in cv: continue
                 x = re.split(r'\n\s*Toelichting', x)[0]
