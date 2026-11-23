@@ -34,7 +34,7 @@ def domein(vraag, context=''):
 
 def schoon(s):
     s = re.sub(r'\\([-\[\]_*#!>.])', r'\1', s)
-    s = re.sub(r'[A-Z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
+    s = re.sub(r'[A-Z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
@@ -43,7 +43,7 @@ def schoon(s):
 
 def opgaven(tekst):
     """-> lijst van (opgavetitel, context, nr, punten, vraagtekst)"""
-    t = schoon(tekst)
+    t = schoon(re.split(r'\n\s*erratumblad', tekst)[0])
     t = t[t.find('Opgave 1'):] if 'Opgave 1' in t else t
     uit = []
     for blok in re.split(r'(?=Opgave \d+ )', t):
@@ -63,7 +63,7 @@ def opgaven(tekst):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
-            if len(stukken) > 1 and (re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
+            if len(stukken) > 1 and (re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Betrek|Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
             vraag = stukken[0]
@@ -151,11 +151,15 @@ def main():
         ex = f'{niv}{jaar % 100:02d}-{tv}'
         cvtekst = open(cvp, encoding='utf-8').read()
         ops = opgaven(open(f, encoding='utf-8').read()); cv = antwoorden(cvtekst)
+        # erratum: 'bij vraag 25 moeten de woorden boven de vraag vervangen worden door: Gebruik ...'
+        for m in re.finditer(r'bij vraag (\d+) moeten de woorden boven de vraag vervangen worden door:\s*(.+)', schoon(open(f, encoding='utf-8').read())):
+            for v in ops:
+                if v['nr'] == int(m.group(1)): v['q'] = re.sub(r'^Gebruik[^\n]*', m.group(2).strip().rstrip(':') + '.', v['q'])
         # aanvulling op het correctievoorschrift: 'bij vraag 13 moeten altijd 2 scorepunten worden toegekend' -> vraag overslaan
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
         vervangen = set()
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
-        for m in re.finditer(r'bij vraag (\d+) moet:?\s*(?:(?:Een voorbeeld|Voorbeelden)[^\n]*?)?(?:\n(?!\s*Op pagina)[^\n]*)*?\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Op pagina|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+        for m in re.finditer(r'bij vraag (\d+) moet:?\s*(?:Een voorbeeld|Voorbeelden)[^\n]*?(?:\n(?!\s*Op pagina)[^\n]*)*?\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Op pagina|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
             a = re.sub(r'\s*\n\s*', '\n', m.group(2)).strip(); vervangen.add(int(m.group(1)))
             cv[int(m.group(1))] = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()
         # overige aanvullingen ('bij vraag 20 moet naast ... ook ... goed gerekend worden') -> achter het antwoordmodel
