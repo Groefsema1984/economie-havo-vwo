@@ -33,7 +33,7 @@ def domein(vraag, context=''):
     return next(d for d, _ in DOMEIN_WOORDEN if score[d] == beste)
 
 def schoon(s):
-    s = re.sub(r'\\([-\[\]_*#])', r'\1', s)
+    s = re.sub(r'\\([-\[\]_*#!>.])', r'\1', s)
     s = re.sub(r'[A-Z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
@@ -86,7 +86,7 @@ def opgaven(tekst):
 def antwoorden(tekst):
     t = schoon(tekst)
     t = t[t.find('4 Beoordelingsmodel'):] if '4 Beoordelingsmodel' in t else t
-    t = re.split(r'\n5 Aanleveren scores', t)[0]
+    t = re.split(r'\n\s*5 Aanleveren scores', t)[0]
     uit = {}
     for m in re.finditer(r'(?:^|\s)(\d{1,2}) maximumscore (\d)\s*(.*?)(?=\s\d{1,2} maximumscore \d|\n[ \t]*Opgave \d+ |\Z)', t, re.S):
         a = m.group(3)
@@ -104,7 +104,7 @@ def splits_invul(v, antw):
     if not km: return []
     kies = km.group(1)
     opties = {}
-    for m in re.finditer(r'bij \((\d)\)\s*(.*?)(?=bij \(\d\)|$)', kies, re.S):
+    for m in re.finditer(r'(?:[Bb]ij )?\((\d)\)\s*(.*?)(?=(?:[Bb]ij )?\(\d\)|$)', kies, re.S):
         o = [re.sub(r'\s+', ' ', x).strip(' .') for x in re.split(r'\s/\s|(?<=[a-zà-ü])/(?=[a-zà-ü])', m.group(2).strip()) if x.strip(' .\n')]
         if len(o) >= 2: opties[int(m.group(1))] = o
     antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)|•\s*\(\d\) en \(\d\)|•\s*\(\d\) juist', antw)[0]   # alleen het modelantwoord, niet de puntentelling
@@ -112,6 +112,7 @@ def splits_invul(v, antw):
     dubbel = {k for k in range(1, 10) if len(re.findall(r'\(%d\)' % k, antw)) > 1}   # meerdere goede antwoordsets
     tekst = re.sub(r'\s+', ' ', v['q'][:km.start()])
     if '(1)' not in tekst: tekst = re.sub(r'\s+', ' ', v['ctx']) + ' ' + tekst   # de zinnen staan soms boven de vraag
+    tekst = re.sub(r'(?:…|\.\.\.)\s*\((\d)\)\s*(?:…|\.\.\.)', r'…(\1)…', tekst)   # '...(1)…' geen zinseinde
     zinnen = re.split(r'(?<=[.!?])\s+|\s-\s|^-\s', tekst)
     uit = []
     for k, o in sorted(opties.items()):
@@ -146,6 +147,10 @@ def main():
         ops = opgaven(open(f, encoding='utf-8').read()); cv = antwoorden(cvtekst)
         # aanvulling op het correctievoorschrift: 'bij vraag 13 moeten altijd 2 scorepunten worden toegekend' -> vraag overslaan
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
+        # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
+        for m in re.finditer(r'bij vraag (\d+) moet:.*?worden vervangen door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+            a = re.sub(r'\s*\n\s*', '\n', m.group(2)).strip()
+            cv[int(m.group(1))] = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()
         n_open = n_mc = 0
         for v in ops:
             a = cv.get(v['nr'])
