@@ -18,7 +18,7 @@ DOMEIN_WOORDEN = [
     ('F', ['spel', 'speler', 'strategie', 'nash', 'gevangenendilemma', 'beslisboom', 'onderhandel', 'meelift', 'cao', 'vakbond', 'collectief goed', 'collectieve goederen', 'ultimatum', 'sociale norm', 'verdelingsvoorstel', 'kartel', 'prijsafspra', 'herhaald', 'samenwerk']),
     ('G', ['verzeker', 'risico', 'premie', 'moral hazard', 'averechtse', 'asymmetrische', 'aandelen', 'obligatie', 'beleggen']),
     ('E', ['pensioen', 'dekkingsgraad', 'omslagstelsel', 'kapitaaldekking', 'contante waarde', 'sparen', 'lenen', 'hypothe', 'generatie', 'staatsschuld', 'overheidsschuld', 'houdbaarheid', 'grijze druk', 'vergrijzing', 'ruilen over de tijd', 'ruilt over de tijd']),
-    ('I', ['inflatie', 'conjunctuur', 'werkloos', 'ecb', 'centrale bank', 'bestedingen', 'begrotingstekort', 'begrotingssaldo', 'koopkracht', 'rente', 'beroepsbevolking', 'deflatie', 'laagconjunctuur', 'hoogconjunctuur', 'prijspeil', 'werkgelegenheid', 'arbeidsaanbod']),
+    ('I', ['inflatie', 'conjunctuur', 'werkloos', 'ecb', 'centrale bank', 'bestedingen', 'begrotingstekort', 'begrotingssaldo', 'koopkracht', 'rente', 'beroepsbevolking', 'deflatie', 'laagconjunctuur', 'hoogconjunctuur', 'prijspeil', 'werkgelegenheid', 'arbeidsaanbod', 'procyclisch', 'anticyclisch', 'conjunctu']),
     ('H', ['bbp', 'toegevoegde waarde', 'welvaart', 'groei', 'inkomensverdeling', 'lorenz', 'nivell', 'belasting', 'arbeidsproductiviteit', 'arbeidsjaren']),
     ('C', ['export', 'import', 'wisselkoers', 'handel', 'comparatie', 'protectie', 'invoerrecht']),
     ('D', ['markt', 'prijs', 'elasticiteit', 'omzet', 'winst', 'kosten', 'surplus', 'monopol', 'oligopol', 'concurrentie', 'accijns', 'extern', 'substitut', 'complementair', 'marktvorm', 'mededinging', 'minimumprijs', 'maximumprijs', 'consumentensurplus', 'producentensurplus', 'aanbodlijn', 'vraaglijn', 'emissie', 'co2', 'vervuil', 'milieu']),
@@ -62,7 +62,7 @@ def opgaven(tekst):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
-            if len(stukken) > 1 and (re.search(r'\sA\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noteer)', stukken[1].strip())):
+            if len(stukken) > 1 and (re.search(r'\sA\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
             vraag = stukken[0]
@@ -141,12 +141,15 @@ def main():
         cvp = f.replace('_OPGAVEN.pdf.md', '_CORRECTIEVOORSCHRIFT.pdf.md')
         if not os.path.exists(cvp): rapport.append(f'{os.path.basename(f)}: correctievoorschrift ontbreekt'); continue
         ex = f'{niv}{jaar % 100:02d}-{tv}'
-        ops = opgaven(open(f, encoding='utf-8').read()); cv = antwoorden(open(cvp, encoding='utf-8').read())
+        cvtekst = open(cvp, encoding='utf-8').read()
+        ops = opgaven(open(f, encoding='utf-8').read()); cv = antwoorden(cvtekst)
+        # aanvulling op het correctievoorschrift: 'bij vraag 13 moeten altijd 2 scorepunten worden toegekend' -> vraag overslaan
+        altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
         n_open = n_mc = 0
         for v in ops:
             a = cv.get(v['nr'])
             if not a: rapport.append(f'{ex} vraag {v["nr"]}: geen antwoord gevonden'); continue
-            if 'altijd worden toegekend' in a: continue
+            if 'altijd worden toegekend' in a or v['nr'] in altijd: continue
             if re.search(r':\s*$', a) and len(a) < 80: rapport.append(f'{ex} vraag {v["nr"]}: antwoord is een tekening, overgeslagen'); continue
             eid = f'ex.{ex}.{v["nr"]}'
             d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
