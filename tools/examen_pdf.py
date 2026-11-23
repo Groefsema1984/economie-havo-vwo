@@ -108,7 +108,7 @@ def splits_invul(v, antw):
         o = [re.sub(r'\s+', ' ', x).strip(' .') for x in re.split(r'\s/\s|(?<=[a-zà-ü])/(?=[a-zà-ü])', m.group(2).strip()) if x.strip(' .\n')]
         if len(o) >= 2: opties[int(m.group(1))] = o
     antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)|•\s*\(\d\) en \(\d\)|•\s*\(\d\) juist', antw)[0]   # alleen het modelantwoord, niet de puntentelling
-    juist = {int(m.group(1)): m.group(2).strip(' .') for m in re.finditer(r'\((\d)\)\s*([^()\n•]+?)(?=\s*\(\dp\)|\s*\(\d\)|\s+\d\s*$|\s+\d\n|\n|$|\s+indien|\s+of\s)', antw)}
+    juist = {int(m.group(1)): re.sub(r'\s+bij$', '', m.group(2).strip(' .')) for m in re.finditer(r'\((\d)\):?\s*([^()\n•]+?)(?=\s*\(\dp\)|\s*\(\d\)|\s+\d\s*$|\s+\d\n|\n|$|\s+indien|\s+of\s)', antw)}
     dubbel = {k for k in range(1, 10) if len(re.findall(r'\(%d\)' % k, antw)) > 1}   # meerdere goede antwoordsets
     tekst = re.sub(r'\s+', ' ', v['q'][:km.start()])
     if '(1)' not in tekst: tekst = re.sub(r'\s+', ' ', v['ctx']) + ' ' + tekst   # de zinnen staan soms boven de vraag
