@@ -62,7 +62,7 @@ def opgaven(tekst):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
-            if len(stukken) > 1 and re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe het als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noteer)', stukken[1].strip()):
+            if len(stukken) > 1 and (re.search(r'\sA\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
             vraag = stukken[0]
@@ -94,6 +94,8 @@ def antwoorden(tekst):
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
         a = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()   # deelscore achter een bullet
         uit[int(m.group(1))] = a
+    for m in re.finditer(r'(?:^|\n)\s*(\d{1,2}) ([A-F])\s*(?=\n)', t):   # meerkeuzevraag: '23 C'
+        uit.setdefault(int(m.group(1)), 'MC:' + m.group(2))
     return uit
 
 def splits_invul(v, antw):
@@ -105,7 +107,7 @@ def splits_invul(v, antw):
     for m in re.finditer(r'bij \((\d)\)\s*(.*?)(?=bij \(\d\)|$)', kies, re.S):
         o = [re.sub(r'\s+', ' ', x).strip(' .') for x in re.split(r'\s/\s', m.group(2).strip()) if x.strip(' .\n')]
         if len(o) >= 2: opties[int(m.group(1))] = o
-    antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)', antw)[0]   # alleen het modelantwoord, niet de puntentelling
+    antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)|•\s*\(\d\) en \(\d\)|•\s*\(\d\) juist', antw)[0]   # alleen het modelantwoord, niet de puntentelling
     juist = {int(m.group(1)): m.group(2).strip(' .') for m in re.finditer(r'\((\d)\)\s*([^()\n•]+?)(?=\s*\(\dp\)|\s*\(\d\)|\s+\d\s*$|\s+\d\n|\n|$|\s+indien|\s+of\s)', antw)}
     dubbel = {k for k in range(1, 10) if len(re.findall(r'\(%d\)' % k, antw)) > 1}   # meerdere goede antwoordsets
     tekst = re.sub(r'\s+', ' ', v['q'][:km.start()])
@@ -152,6 +154,13 @@ def main():
             q = v['q']
             if re.search(r'Gebruik[^.]*\bbron', q): q += '\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)'
             elif re.search(r'Gebruik[^.]*\b(figuur|tabel|grafiek)', q): q += '\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)'
+            if a.startswith('MC:'):   # echte meerkeuzevraag uit het examen
+                mm = re.search(r'^(.*?)\s+A\s+(.+?)\s+B\s+(.+?)(?:\s+C\s+(.+?))?(?:\s+D\s+(.+?))?(?:\s+E\s+(.+?))?\s*$', v['q'], re.S)
+                if not mm: rapport.append(f'{ex} vraag {v["nr"]}: meerkeuzevraag niet te lezen'); continue
+                o = [re.sub(r'\s+', ' ', x).strip(' .') for x in mm.groups()[1:] if x]
+                vragen.append(dict(basis, id=eid, t='ex', nr=v['nr'], ctx=v['ctx'], q=re.sub(r'[ \t]*\n\s*', '\n', mm.group(1)).strip(), o=o,
+                                   a='ABCDEF'.index(a[3]), u=f'Juist is {a[3]}: {o["ABCDEF".index(a[3])]}.')); n_mc += 1
+                continue
             vragen.append(dict(basis, id=eid, t='open', nr=v['nr'], ctx=v['ctx'], q=q, model=a, pnt=v['pnt'])); n_open += 1
             for s in splits_invul(v, a):
                 vragen.append(dict(basis, id=f'{eid}.{s["k"]}', t='ex', nr=v['nr'] + s['k'] / 10, ctx=v['ctx'],
