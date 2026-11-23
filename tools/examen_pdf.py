@@ -36,6 +36,7 @@ def schoon(s):
     s = re.sub(r'\\([-\[\]_*#!>.&])', r'\1', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', ' ', s)   # voetregel van aanvulling/erratum
+    s = re.sub(r"(?<=[a-zà-ü]{3})- (?!en\b|of\b|tot\b|t/m\b)(?=[a-zà-ü]{3})", "-", s)   # afbreekstreepje aan regeleinde: 'principaal- agent'
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
@@ -202,7 +203,7 @@ def main():
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
         vervangen = set()
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
-        for m in re.finditer(r'bij vraag (\d+) moet:?\s*((?:Een |Voorbeelden|Uit het)[^\n]*?(?:\n(?!\s*Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+        for m in re.finditer(r'vraag (\d+),?(?: bij de \w+ deelscore,?)? moet:?\s*(?!worden toegevoegd)([^\n]*?(?:\n(?!\s*(?:en )?Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
             n = int(m.group(1))
             oud, a = (deelscores(re.sub(r'\s*\n\s*', '\n', x).strip()) for x in m.group(2, 3))
             pat = r'\s+'.join(map(re.escape, oud.split()))
