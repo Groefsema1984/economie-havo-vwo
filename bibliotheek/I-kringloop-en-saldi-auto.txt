@@ -1,0 +1,245 @@
+# LEERDOEL ECO-ALGEM-01
+domein: I
+onderwerp: I.saldi
+thema: Kringloop en saldi
+naam: Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)
+doel: Ik kan met de kringloop de investeringen en besparingen uitrekenen.
+
+## UITLEG Betalingsbalans en macro-evenwicht
+De betalingsbalans omvat de lopende rekening en de kapitaalrekening; winstuitkering hoort bij de lopende rekening. Noem rekening én richting. Macro-evenwicht: (S − I) + (B − O) = (E − M); let op de tekens, een negatief saldo is een tekort.
+
+## UITLEG Macro-identiteiten en sectorsaldi
+Y = C + I + O + E − M (bestedingen) en Y = C + B + S (inkomen). Daaruit volgt (S − I) + (B − O) = (E − M); het saldo lopende rekening is het nationale spaarsaldo. Vragen laten ontbrekende waarden in een kringloopschema invullen en richtingen van geldstromen aangeven. Een tekort is negatief; alleen een getal zonder conclusie (tekort of overschot) is onvoldoende.
+
+## UITLEG Betalingsbalans en macro-identiteiten
+De betalingsbalans bevat alle geldstromen met het buitenland: de lopende rekening en de kapitaalrekening. Een overschot betekent meer vraag naar de munt en dus appreciatie. Zet kapitaalstromen niet op de lopende rekening. De identiteiten zijn Y = C + I + O + E - M en Y = C + B + S, met (S - I) + (B - O) = (E - M). Houd tekens in de gaten en schrijf een tekort met minteken of als tekort.
+
+## OPGAVE IT-00492 2p | De kringloop van Brandvik
+Brandvik is een klein land. In 2025 is het nationaal inkomen (Y) 800, de consumptie (C) 470, de overheidsbestedingen (O) 140, de uitvoer (E) 310 en de invoer (M) 280. Alle bedragen zijn in miljoen euro.
+Tekst: Via de bestedingen geldt Y = C + ...(1)... + O + E − M. De investeringen in Brandvik zijn dan ...(2)... . Via het inkomen geldt Y = C + B + S. De letter B staat voor ...(3)... en de letter S voor ...(4)... .
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit: bij (1) I / S / B
+bij (2) € 160 miljoen / € 400 miljoen / € 100 miljoen
+bij (3) belastingen en premies / bestedingen van de overheid / besparingen
+bij (4) besparingen / bedrijfsinvesteringen / buitenlandse bestedingen
+### ANTWOORD
+(1) I; (2) € 160 miljoen, want I = Y − C − O − E + M = 800 − 470 − 140 − 310 + 280 = 160; (3) belastingen en premies; (4) besparingen.
+Puntenverdeling:
+• Per juiste keuze geen aparte score; ken de punten toe per paar. bij (1) I en bij (2) € 160 miljoen (1)
+• bij (3) belastingen en premies en bij (4) besparingen (1)
+
+## OPGAVE IT-00493 3p | De economie van Tarvik
+Tarvik is een eilandstaat met een kleine, open economie. De tabel geeft de gegevens van de kringloop in 2025. Het bedrag voor de investeringen (I) en de besparingen (S) ontbreekt nog.
+Tabel Kringloop Tarvik 2025 (in miljoen euro):
+Post | Bedrag
+Nationaal inkomen (Y) | 1.200
+Consumptie (C) | 700
+Belastingen en premies (B) | 300
+Overheidsbestedingen (O) | 280
+Uitvoer (E) | 420
+Invoer (M) | 380
+Bereken de investeringen (I) en de besparingen (S) van Tarvik in 2025.
+Doe het als volgt:
+- Herschik eerst de formule Y = C + I + O + E − M naar I.
+- Herschik daarna Y = C + B + S naar S.
+### ANTWOORD
+I = Y − C − O − E + M = 1.200 − 700 − 280 − 420 + 380 = € 180 miljoen. S = Y − B − C = 1.200 − 300 − 700 = € 200 miljoen.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 punten op. Herschikken van de formule: I = Y − C − O − E + M (1)
+• I = 1.200 − 700 − 280 − 420 + 380 = 180 (miljoen euro) (1)
+• S = Y − B − C = 1.200 − 300 − 700 = 200 (miljoen euro) (1)
+
+## OPGAVE IT-00495 2p | Kringloop van Dorsmark
+Dorsmark is een land met een open economie. Bron 1 toont de kringloop van Dorsmark in 2025. Alle bedragen staan in miljoen euro.
+De investeringen (I) en de besparingen (S) zijn nog niet ingevuld. Het nationaal inkomen (Y) is gelijk aan de totale bestedingen.
+Kringloop (in miljarden): nationaal inkomen (Y) = 1.500, consumptie (C) = 860, belastingen (B) = 400, overheidsbestedingen (O) = 450, export (E) = 520, import (M) = 560
+Bereken de investeringen (I) en de besparingen (S) van Dorsmark in 2025.
+Gebruik bron 1.
+### ANTWOORD
+I = Y − C − O − E + M = 1.500 − 860 − 450 − 520 + 560 = € 230 miljoen. S = Y − B − C = 1.500 − 400 − 860 = € 240 miljoen.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 punten op. Rekenfout: maximaal 1 scorepunt aftrek. Investeringen: I = Y − C − O − E + M = 1.500 − 860 − 450 − 520 + 560 = € 230 miljoen (1)
+• Besparingen: S = Y − B − C = 1.500 − 400 − 860 = € 240 miljoen (1)
+
+## EXAMEN havo 2018-I 9 3p
+Een geldkringloop in een bron heeft vier ontbrekende waarden (a) tot en met (d). Bepaal met de bronnen welke getallen er moeten staan.
+### ANTWOORD
+(a) 533,2; (b) 466,8; (c) 214,2; (d) 139,1. Punten: (a) en (b) juist 1; (c) juist 1; (d) juist 1.
+
+## EXAMEN vwo 2018-I 15 2p
+Tabel met consumptie, investeringen, overheidsbestedingen, invoer en bbp voor 2015 (uitvoer ontbreekt); 2014: 10,73%. Toon met een berekening aan dat het uitvoersaldo in 2015 een hoger percentage van het bbp is.
+### ANTWOORD
+667,7 = 298,9 + 101,5 + 194,1 + uitvoer − 491,1, dus uitvoer = 564,3. Saldo (564,3 − 491,1) : 667,7 × 100% = 10,96%, hoger dan 10,73%.
+
+## EXAMEN vwo 2021-I 23 2p
+Gegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.
+### ANTWOORD
+S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.
+
+## EXAMEN vwo 2023-II 1 1p
+Laat met een berekening zien dat het nationaal inkomen in 2000 € 350 miljard bedraagt, aan de hand van de bedragen in het kringloopmodel.
+### ANTWOORD
+Y = C + I + O + E − M = 199 + 28 + 106 + 197 − 180 = 350 (miljard euro).
+
+## EXAMEN vwo 2023-II 2 2p
+Presteerde het land in 2000-2019 beter of slechter dan de handelspartners, die gemiddeld 1% per jaar groeiden? Motiveer je keuze met een berekening.
+### ANTWOORD
+Y 2019 = 260 + 46 + 135 + 211 − 202 = 450. Trendgroei: 1,01^19 geeft +20,81%; werkelijke groei (450 − 350) : 350 = 28,57%. Dat is hoger, dus bovengemiddeld. Rekenen met 20 jaar of 19 × 1%: maximaal 1 punt.
+
+## EXAMEN vwo 2026-I 23 3p
+Bereken de vier ontbrekende waarden in het kringloopmodel van Australië (2023) en geef de richting van de pijlen bij 1 en 3 (buitenland, banken, overheid).
+### ANTWOORD
+E − M = 671 − 527 = 144. I = 2.385 − 1.237 − 885 − 671 + 527 = 119. B − O = 923 − 885 = 38. S = 2.385 − 923 − 1.237 = 225. Pijl 1: banken naar buitenland. Pijl 3: overheid naar banken.
+
+
+# LEERDOEL ECO-ALGEM-02
+domein: I
+onderwerp: I.saldi
+thema: Kringloop en saldi
+naam: Saldo van overheid en buitenland, richting van de geldstroom
+doel: Ik kan het saldo van overheid en buitenland uitrekenen en de richting van de geldstroom aangeven.
+
+## UITLEG Bbp, toegevoegde waarde en macro-identiteiten
+Het bbp is de som van de toegevoegde waarden (omzet min inkoopwaarde), of de beloning van productiefactoren plus afschrijvingen, of de finale bestedingen. Voor sparen, investeren, overheid en buitenland geldt (S − I) + (B − O) = (E − M). Als maat voor welvaart schiet het bbp tekort bij verdeling, informele economie, externe effecten en bevolkingsgroei. Bij een rekenvraag hoort een conclusie.
+
+## UITLEG Betalingsbalans en macro-evenwicht
+De betalingsbalans omvat de lopende rekening en de kapitaalrekening; winstuitkering hoort bij de lopende rekening. Noem rekening én richting. Macro-evenwicht: (S − I) + (B − O) = (E − M); let op de tekens, een negatief saldo is een tekort.
+
+## UITLEG Wisselkoers, valutamarkt en betalingsbalans
+De koers verandert via vraag naar of aanbod van de munt; die stap moet erin. Renteverhoging, kapitaalinvoer, appreciatie, export duurder, export daalt, bbp daalt. Een negatief saldo lopende rekening geeft meer aanbod van de munt en depreciatie. Interventie is Qv min Qa bij de doelkoers. Kapitaalstromen horen niet op de lopende rekening; de stap 'vraag naar de munt' overslaan kost punten.
+
+## OPGAVE IT-00508 2p | Sarland: wat blijft er over bij overheid en buitenland?
+Het statistiekbureau van Sarland publiceert de geldstromen van het land over 2026. Alle bedragen staan in miljarden euro. In de tabel staan meer posten dan je nodig hebt.
+Tabel Geldstromen Sarland, 2026:
+Post | Bedrag (miljarden euro)
+Bbp (Y) | 900
+Consumptie (C) | 500
+Investeringen (I) | 130
+Besparingen (S) | 190
+Belastingen (B) | 210
+Overheidsuitgaven (O) | 230
+Export (E) | 400
+Import (M) | 360
+Bereken het saldo van de overheid en het saldo van het buitenland van Sarland in 2026, met bij beide saldo's het teken (+ of −).
+### ANTWOORD
+Saldo overheid = B − O = 210 − 230 = −20 miljard euro. De overheid geeft meer uit dan zij ontvangt: een tekort. Saldo buitenland = E − M = 400 − 360 = +40 miljard euro: een overschot.
+Puntenverdeling:
+• Het saldo van de overheid is B − O en het saldo van het buitenland is E − M. Saldo overheid: 210 − 230 = −20 (miljard euro), dus een tekort (1)
+• Saldo buitenland: 400 − 360 = +40 (miljard euro), dus een overschot (1)
+
+## OPGAVE IT-00509 4p | Tolland: klopt het bij de banken?
+Het Tollandse ministerie van Financiën wil weten waar het geld in 2026 naartoe stroomt. Alle bedragen staan in miljarden euro.
+De banken ontvangen geld van de sectoren met een overschot en geven geld aan de sectoren met een tekort.
+Tabel Geldstromen Tolland, 2026:
+Post | Bedrag (miljarden euro)
+Bbp (Y) | 1.200
+Consumptie (C) | 700
+Investeringen (I) | 110
+Besparingen (S) | 200
+Belastingen (B) | 300
+Overheidsuitgaven (O) | 330
+Export (E) | 480
+Import (M) | 420
+Toon met een berekening aan dat bij de banken het bedrag dat binnenkomt gelijk is aan het bedrag dat eruit gaat.
+Doe het als volgt:
+- bereken het saldo van de overheid en het saldo van het buitenland en bepaal de richting van elke geldstroom;
+- vergelijk wat de banken ontvangen met wat zij uitgeven.
+### ANTWOORD
+Overheid: 300 − 330 = −30 miljard euro, dus geld van de banken naar de overheid. Buitenland: 480 − 420 = +60 miljard euro, dus geld van de banken naar het buitenland. Banken geven uit: 110 + 30 + 60 = 200 miljard euro. Zij ontvangen 200 miljard euro aan besparingen. Het is gelijk.
+Puntenverdeling:
+• Saldo overheid is B − O en saldo buitenland is E − M. Een negatief saldo betekent een geldstroom van de banken naar die sector, een positief saldo een geldstroom naar de banken. Saldo overheid: 300 − 330 = −30 (miljard euro), dus geld van de banken naar de overheid (1)
+• Saldo buitenland: 480 − 420 = +60 (miljard euro), dus geld van de banken naar het buitenland (1)
+• Wat de banken uitgeven: 110 + 30 + 60 = 200 (miljard euro) (1)
+• Conclusie: de banken ontvangen 200 miljard euro (besparingen) en geven 200 miljard euro uit, dus gelijk (1)
+
+## OPGAVE IT-00510 4p | Brantia: de geldstromen in 2026
+Een economisch bureau zet de geldstromen van Brantia in 2026 in een tabel. Alle bedragen staan in miljarden euro. Het bureau wil weten hoe de overheid en het buitenland zich tot de banken verhouden.
+Tabel Geldstromen Brantia, 2026:
+Post | Bedrag (miljarden euro)
+Bbp (Y) | 640
+Consumptie (C) | 350
+Investeringen (I) | 170
+Besparingen (S) | 120
+Belastingen (B) | 170
+Overheidsuitgaven (O) | 150
+Export (E) | 210
+Import (M) | 240
+Bereken het saldo van de overheid en het saldo van het buitenland van Brantia in 2026, met bij elk saldo de richting van de geldstroom tussen die sector en de banken.
+### ANTWOORD
+Saldo overheid = B − O = 170 − 150 = +20 miljard euro. Een overschot: de overheid brengt geld naar de banken. Saldo buitenland = E − M = 210 − 240 = −30 miljard euro. Een tekort: de banken lenen geld uit aan het buitenland.
+Puntenverdeling:
+• Saldo overheid is B − O en saldo buitenland is E − M. Bij een positief saldo stroomt het geld naar de banken, bij een negatief saldo van de banken naar die sector. Saldo overheid: B − O = 170 − 150 = +20 (miljard euro), een overschot (1)
+• Richting overheid: van de overheid naar de banken (1)
+• Saldo buitenland: E − M = 210 − 240 = −30 (miljard euro), een tekort (1)
+• Richting buitenland: van de banken naar het buitenland (1)
+
+## EXAMEN havo 2018-I 10 2p
+Bereken met de bron het nationaal spaaroverschot van Nederland in 2013.
+### ANTWOORD
+E − M = 533,2 − 466,8 = 66,4 miljard euro. Ook goed: (B − O) + (S − I) = (139,1 − 192,6) + (214,2 − 94,3) = 66,4. Uitkomst als tekort: 0 punten.
+
+## EXAMEN havo 2021-II 8 2p
+Leg uit hoe innovatie het tekort op de lopende rekening van de VS wel structureel kan oplossen.
+### ANTWOORD
+Innovatie verhoogt de arbeidsproductiviteit, waardoor de concurrentiepositie van de VS verbetert (1). Dit geeft meer export met hogere ontvangsten of minder import met lagere uitgaven, dus een kleiner tekort (1).
+
+## EXAMEN havo 2022-I 25 2p
+Gebruik bron 1. Toon met een berekening aan dat het begrote overheidstekort van Italië in 2019 hoger is dan de afgesproken 1,6% van het bbp.
+### ANTWOORD
+Tekort = uitgaven − belastingontvangsten = 820 − 770 = € 50 miljard (1p). Als percentage van het bbp: 50 : 1.730 × 100% = 2,89%, dat is meer dan 1,6% (1p).
+
+## EXAMEN havo 2023-II 1 2p
+Leg uit waarom extra overheidsuitgaven nu de ruimte voor uitgaven later kunnen beperken.
+### ANTWOORD
+Bij een tekort moet de overheid meer lenen (1). Daardoor beperken de huidige bestedingen toekomstige bestedingen, omdat er extra moet worden afgelost (1).
+
+## EXAMEN havo 2026-II 19 2p
+Een land heeft een negatief overheidssaldo en particulier spaarsaldo. Maak een juiste redenering over het saldo lopende rekening, rentebetalingen, de rente op nieuwe staatsobligaties en het effect van een onderpand.
+### ANTWOORD
+(1) negatief, (2) verslechteren, (3) stijgen, (4) dalen. Eén punt voor (1) en (2) juist, één punt voor (3) en (4) juist.
+
+## EXAMEN vwo 2021-I 23 2p
+Gegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.
+### ANTWOORD
+S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.
+
+## EXAMEN vwo 2021-III 7 2p
+Een politicus wil de pensioenleeftijd verlagen. Geef twee oorzaken waarom dit het overheidssaldo kan verslechteren.
+### ANTWOORD
+Ouderen betalen minder jaren premie, dus de inkomsten van de overheid dalen. Ze ontvangen langer AOW, dus de uitgaven stijgen.
+
+## EXAMEN vwo 2023-II 3 2p
+Leg met het kringloopmodel uit of de overheid in 2019 positief of negatief heeft bijgedragen aan het totaal van de bestedingen.
+### ANTWOORD
+Overheidssaldo B − O = 160 − 135 = 25 miljard. Belastingen onttrekken vraag, overheidsbestedingen scheppen vraag. De belastingen zijn groter, dus de bijdrage aan de bestedingen is negatief.
+
+## EXAMEN vwo 2023-II 4 2p
+Onderzoekers stellen dat de overheid via begrotingsbeleid het handelsoverschot kan beperken, met gevolgen voor de conjunctuur van het eigen land en de buurlanden. Leg die bewering uit.
+### ANTWOORD
+1) Saldi positief, dus de overheid kan meer uitgeven zonder tekort. De bestedingen en het inkomen stijgen, dus de conjunctuur verbetert. 2) Hoger inkomen geeft meer consumptie en import. Dat is export voor het buitenland en stimuleert daar de conjunctuur.
+
+## EXAMEN vwo 2024-II 6 2p
+Figuur 1 toont de kringloop van Anderland in 2018. Het overheidstekort mag maximaal 3% van het bbp zijn. Bereken of het overheidssaldo aan deze eis voldoet.
+### ANTWOORD
+Saldo B − O = 100 − 40 − 80 = −20. Bbp = C + B + S = 110 + 100 + 110 = 320. Tekort = 20 : 320 × 100% = 6,25%. Dat is meer dan 3%, dus het voldoet niet.
+
+## EXAMEN vwo 2025-I 18 2p
+De overheid ontbreekt in het model van Curaçao. Bereken het overheidssaldo uit de gegevens en geef aan of het een tekort of een overschot is.
+### ANTWOORD
+(S − I) + (B − O) = E − M: (664 − 1.200) + (B − O) = 250 − 860 (1). B − O = −74: een tekort van 74 miljoen XCG (1). Alternatief via O = 900 en B = 826.
+
+## EXAMEN vwo 2025-II 15 1p
+Uit een tabel met saldo lopende rekening en begrotingssaldo (% van bbp) in 2021: is het particuliere spaarsaldo positief of negatief? Motiveer.
+### ANTWOORD
+(S − I) = (E − M) − (B − O) = −3,4 − (−3,7) = +0,3. Het particuliere spaarsaldo is positief, want het begrotingssaldo is negatiever dan het saldo lopende rekening.
+
+## EXAMEN vwo 2026-I 23 3p
+Bereken de vier ontbrekende waarden in het kringloopmodel van Australië (2023) en geef de richting van de pijlen bij 1 en 3 (buitenland, banken, overheid).
+### ANTWOORD
+E − M = 671 − 527 = 144. I = 2.385 − 1.237 − 885 − 671 + 527 = 119. B − O = 923 − 885 = 38. S = 2.385 − 923 − 1.237 = 225. Pijl 1: banken naar buitenland. Pijl 3: overheid naar banken.
+
+## EXAMEN vwo 2026-II 23 2p
+Neem aan dat de handel met de rest van de wereld in evenwicht is. Leg met figuur 3 uit of het nationaal spaarsaldo in 2023 positief of negatief is.
+### ANTWOORD
+In 2023 is export 22% van Y en import 20,5% van Y (1). Saldo lopende rekening is positief, dus ook het nationaal spaarsaldo (1).
+

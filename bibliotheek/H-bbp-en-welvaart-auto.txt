@@ -1,0 +1,288 @@
+# LEERDOEL ECO-ALGEM-03
+domein: H
+onderwerp: H.bbp
+thema: Bbp en welvaart
+naam: Bbp als som van toegevoegde waarden, bruto en netto, informele sector
+doel: Ik kan uitleggen wat het bbp is, het verschil tussen bruto en netto, en de informele sector.
+
+## UITLEG Bbp, toegevoegde waarde en macro-identiteiten
+Het bbp is de som van de toegevoegde waarden (omzet min inkoopwaarde), of de beloning van productiefactoren plus afschrijvingen, of de finale bestedingen. Voor sparen, investeren, overheid en buitenland geldt (S − I) + (B − O) = (E − M). Als maat voor welvaart schiet het bbp tekort bij verdeling, informele economie, externe effecten en bevolkingsgroei. Bij een rekenvraag hoort een conclusie.
+
+## UITLEG Bbp, toegevoegde waarde en welvaartsmaat
+Toegevoegde waarde = omzet − inkoopwaarde; omzet is niet gelijk aan toegevoegde waarde. Het bbp meet de welvaart onvolledig: noem een concreet meetprobleem, zoals verdeling, informele economie, bevolkingsgroei of milieu. Groen bbp: noem beide kanten, de productie én de milieuschade, want groen bbp kan stijgen terwijl het bbp daalt.
+
+## OPGAVE IT-00551 3p | Productie in Lindora
+Lindora is een eilandstaat. Het statistiekbureau wil het bbp van vorig jaar berekenen via de productie. In de tabel staan de gegevens van drie sectoren. De overheid verkoopt vrijwel niets aan bedrijven of consumenten en betaalde in totaal € 90 miljoen aan loon aan haar ambtenaren.
+Tabel Gegevens per sector, in miljoenen euro's:
+Sector | Omzet | Inkoop bij andere bedrijven
+Landbouw | 120 | 30
+Industrie | 400 | 250
+Commerciële diensten | 500 | 180
+Bereken het bbp van Lindora via de productie. Geef het antwoord in miljoenen euro's.
+Doe het als volgt:
+- Bereken de toegevoegde waarde van elke sector.
+- Houd rekening met de overheid.
+- Tel alles op.
+### ANTWOORD
+Toegevoegde waarde = omzet min inkoop. Landbouw: 120 - 30 = 90. Industrie: 400 - 250 = 150. Diensten: 500 - 180 = 320. De overheid telt mee met de loonsom: 90. Bbp = 90 + 150 + 320 + 90 = € 650 miljoen.
+Puntenverdeling:
+• Toegevoegde waarde per sector = omzet min inkoop: landbouw 120 - 30 = 90, industrie 400 - 250 = 150, diensten 500 - 180 = 320 (miljoen euro) (1)
+• De loonsom van de overheid (90 miljoen euro) telt mee als toegevoegde waarde van de overheid (1)
+• Optellen: 90 + 150 + 320 + 90 = 650 miljoen euro (1)
+
+## OPGAVE IT-00552 3p | Meten in Karvonia
+In Karvonia is het bbp vorig jaar € 200 miljard. Daarin zijn alle productiemiddelen die in de loop van het jaar slijtage hebben opgelopen, voor € 30 miljard afgeschreven.
+Veel huishoudens laten klussen, schoonmaak en reparaties contant en zonder aangifte uitvoeren. Het statistiekbureau schat dat deze informele sector een productie van € 12 miljard heeft. Die productie staat niet in de officiële cijfers.
+Beredeneer of de werkelijke nieuwe productie van Karvonia hoger of lager is dan het bbp van € 200 miljard. Gebruik de afschrijvingen en de informele sector.
+### ANTWOORD
+Het bbp is bruto: afschrijvingen zijn slijtage en geen nieuwe productie. Netto is 200 - 30 = 170 miljard. De informele sector produceert wel, maar telt niet mee in het bbp. Dat is 12 miljard erbij: 182 miljard. Dat is lager dan 200 miljard.
+Puntenverdeling:
+• Afschrijvingen zijn geen nieuwe productie maar vervanging van versleten kapitaal. Het bbp is een bruto-maat, dus het netto binnenlands product is lager: 200 - 30 = 170 miljard euro (1)
+• De informele sector is wel productie, maar wordt niet geregistreerd en zit dus niet in het bbp. Dit moet erbij: 170 + 12 = 182 miljard euro (1)
+• Conclusie: de werkelijke nieuwe productie (182 miljard euro) is lager dan het bbp (200 miljard euro) (1)
+
+## OPGAVE IT-00553 2p | Fietsen uit Ostria
+Fietsenfabriek Velora in Ostria heeft vorig jaar voor € 5 miljoen aan fietsen verkocht. Voor de productie kocht Velora voor € 3 miljoen onderdelen bij andere bedrijven. De machines van Velora zijn in dat jaar voor € 0,5 miljoen afgeschreven.
+Maak van onderstaande tekst een economisch juiste tekst.
+De toegevoegde waarde van Velora is ...(1)... .
+Het bbp van Ostria is de som van alle ...(2)... .
+De netto toegevoegde waarde van Velora, na aftrek van de afschrijvingen, is ...(3)... .
+Kies uit: bij (1) € 2 miljoen / € 3 miljoen / € 5 miljoen
+bij (2) toegevoegde waarden / omzetten / inkopen
+bij (3) € 1,5 miljoen / € 2,0 miljoen / € 2,5 miljoen
+### ANTWOORD
+(1) € 2 miljoen, want 5 - 3 = 2. (2) toegevoegde waarden. (3) € 1,5 miljoen, want 2 - 0,5 = 1,5.
+Puntenverdeling:
+• Ten minste twee van de drie keuzes juist: (1) € 2 miljoen, (2) toegevoegde waarden, (3) € 1,5 miljoen (1)
+• Alle drie de keuzes juist (1)
+
+## EXAMEN havo 2018-I 6 2p
+Geef bij negatieve externe effecten, productie in het zwarte circuit en vrijwilligerswerk aan of de welvaart, gemeten met het bbp, wordt onderschat of overschat.
+### ANTWOORD
+Negatieve externe effecten: overschatting. Zwarte circuit: onderschatting. Vrijwilligerswerk: onderschatting. Drie juist is 2 punten, twee juist 1 punt, minder dan twee juist 0 punten.
+
+## EXAMEN havo 2018-I 7 3p
+Maak een economisch juiste tekst over het bbp van Nederland in 2013. Kies bij (1) tussen nominale waarde en totaal surplus, bij (2) tussen koopkracht en totale bruto toegevoegde waarde, bij (3) tussen groter en kleiner.
+### ANTWOORD
+(1) de nominale waarde, (2) totale bruto toegevoegde waarde, (3) groter. Elke juiste keuze levert 1 punt op.
+
+## EXAMEN havo 2019-I 25 1p
+Een Amerikaans bedrijf heeft een vestiging in de Rotterdamse haven. Telt de productiewaarde van die vestiging mee in het Nederlandse of het Amerikaanse bbp? Kies.
+### ANTWOORD
+In het Nederlandse bbp. Bij het bbp gaat het om de locatie van de productie, niet om de nationaliteit van het bedrijf.
+
+## EXAMEN havo 2022-II 2 2p
+Leg uit dat de markt voor schadeverzekeringen bijdraagt aan het bruto binnenlands product.
+### ANTWOORD
+Het bbp is de totale toegevoegde waarde van alle geproduceerde goederen en diensten, en verzekeraars leveren een dienst met omzet. Andere goede route: via inkomens (loon, winst) of via finale bestedingen van consumenten aan polissen.
+
+## EXAMEN havo 2023-II 28 1p
+Leg uit waarom de dienst van Deel-Kar.nl het bbp kan laten toenemen.
+### ANTWOORD
+Is de omzet hoger dan de inkoopkosten, dan ontstaat toegevoegde waarde en neemt het bbp toe. Deel-Kar.nl levert een dienst met weinig of geen inkoopkosten.
+
+## EXAMEN havo 2024-I 27 2p
+Maak een redenering economisch juist met drie keuzes: waarvan de bruto toegevoegde waarde het verschil is met de omzet, welke sector naast bedrijven het bbp vormt en waaraan die toegevoegde waarde gelijk is.
+### ANTWOORD
+(1) ingekochte hulp- en grondstoffen. (2) de overheid en (3) de ambtenarensalarissen. Eén punt voor (1), één punt voor (2) en (3) samen.
+
+
+# LEERDOEL ECO-ALGEM-06
+domein: H
+onderwerp: H.bbp
+thema: Bbp en welvaart
+naam: Eng en breed welvaartsbegrip, HDI, WHI, groen bbp
+doel: Ik kan het enge en brede welvaartsbegrip, HDI, WHI en groen bbp benoemen.
+
+## UITLEG Bbp, toegevoegde waarde en macro-identiteiten
+Het bbp is de som van de toegevoegde waarden (omzet min inkoopwaarde), of de beloning van productiefactoren plus afschrijvingen, of de finale bestedingen. Voor sparen, investeren, overheid en buitenland geldt (S − I) + (B − O) = (E − M). Als maat voor welvaart schiet het bbp tekort bij verdeling, informele economie, externe effecten en bevolkingsgroei. Bij een rekenvraag hoort een conclusie.
+
+## UITLEG Concurrentiepositie, loonkosten per product en structurele groei
+Stijgen de lonen sneller dan de arbeidsproductiviteit, dan stijgen de loonkosten per product, worden ze doorberekend in de prijs en verslechtert de concurrentiepositie. Loonkosten per product = loonindex : productiviteitsindex, met conclusie. Innovatie en onderwijs verhogen de productiviteit en de export. Structurele groei is meer of betere productiefactoren; bij groen bbp bespreek je zowel bbp als milieuschade.
+
+## UITLEG Bbp, toegevoegde waarde en welvaartsmaat
+Toegevoegde waarde = omzet − inkoopwaarde; omzet is niet gelijk aan toegevoegde waarde. Het bbp meet de welvaart onvolledig: noem een concreet meetprobleem, zoals verdeling, informele economie, bevolkingsgroei of milieu. Groen bbp: noem beide kanten, de productie én de milieuschade, want groen bbp kan stijgen terwijl het bbp daalt.
+
+## OPGAVE IT-00554 2p | Welvaart in Zuidmark
+Het land Zuidmark meet zijn welvaart op twee manieren. Het bureau voor de statistiek publiceert elk jaar het bbp per hoofd, de Human Development Index (HDI) en de World Happiness Index (WHI).
+De HDI combineert het inkomen per hoofd, de levensverwachting en het opleidingsniveau. De WHI is gebaseerd op een enquête. Daarin geven inwoners zelf een cijfer voor hoe gelukkig zij zich voelen.
+In 2025 steeg het bbp per hoofd in Zuidmark sterk. De WHI daalde in dat jaar.
+Leg uit welke van de twee maatstaven, de HDI of de WHI, een subjectieve maatstaf voor welvaart is.
+### ANTWOORD
+De WHI is subjectief, omdat inwoners zelf aangeven hoe gelukkig zij zich voelen. Dat is hun eigen mening. De HDI is niet subjectief, omdat die berekend wordt met meetbare gegevens: inkomen, levensverwachting en opleiding.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: De WHI is subjectief, want de uitkomst is gebaseerd op de mening of beleving van de inwoners zelf (zij geven zelf een cijfer voor hun geluk). (1)
+• De HDI is niet subjectief (objectief), want die is gebaseerd op meetbare gegevens: inkomen, levensverwachting en opleidingsniveau. (1)
+
+## OPGAVE IT-00555 3p | Groen bbp in Noordvaart
+Noordvaart is een eilandstaat met veel industrie en toerisme. De regering is trots op de groei van het bbp. Milieuorganisaties wijzen op meer vervuiling van kust en lucht.
+Een onderzoeksbureau schat de milieuschade en de milieuverbetering in geld. Verbetering komt bijvoorbeeld door nieuwe zuiveringsinstallaties. Alle bedragen staan in miljarden euro's.
+Tabel Gegevens Noordvaart (in miljarden euro's):
+| 2024 | 2025
+Bbp | 480 | 500
+Geschatte milieuschade | 40 | 70
+Geschatte milieuverbetering | 5 | 6
+Toon met een berekening aan dat het groen bbp van Noordvaart in 2025 lager is dan in 2024, terwijl het bbp is gestegen, en geef aan welk welvaartsbegrip (eng of breed) daardoor een beter beeld geeft van de welvaart.
+Doe het als volgt:
+- bereken het groen bbp in 2024 en in 2025;
+- vergelijk beide uitkomsten en trek een conclusie.
+### ANTWOORD
+Groen bbp 2024 = 480 − 40 + 5 = 445 miljard euro. Groen bbp 2025 = 500 − 70 + 6 = 436 miljard euro. Het bbp stijgt van 480 naar 500, maar de milieuschade stijgt veel harder. Daardoor daalt het groen bbp. Het brede welvaartsbegrip past beter, want het eng welvaartsbegrip (bbp) laat de schade buiten beschouwing.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord (groen bbp = bbp − milieuschade + milieuverbetering): Groen bbp 2024 = 480 − 40 + 5 = 445 miljard euro (1)
+• Groen bbp 2025 = 500 − 70 + 6 = 436 miljard euro (1)
+• Conclusie: het groen bbp daalt (445 → 436) terwijl het bbp stijgt (480 → 500), doordat de milieuschade meer toeneemt dan het bbp. Het brede welvaartsbegrip (groen bbp) geeft een beter beeld, want het bbp alleen (eng welvaartsbegrip) laat de milieuschade buiten beschouwing. (1)
+
+## OPGAVE IT-00556 2p | Oliestaat Karvia
+Karvia is een klein land dat veel olie exporteert. Het bbp per hoofd is er hoog, het hoogste van de regio. Toch staat Karvia in de regio pas op de zesde plaats op de ranglijst van de Human Development Index (HDI).
+Een econoom zegt dat het bbp per hoofd de welvaart in Karvia te rooskleurig weergeeft, omdat het bbp een eng welvaartsbegrip is.
+Noem twee onderdelen van de HDI die geen deel uitmaken van het bbp per hoofd.
+### ANTWOORD
+Levensverwachting en opleidingsniveau.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: Levensverwachting (gezondheid) (1)
+• Opleidingsniveau (onderwijs) (1)
+
+## EXAMEN havo 2018-I 6 2p
+Geef bij negatieve externe effecten, productie in het zwarte circuit en vrijwilligerswerk aan of de welvaart, gemeten met het bbp, wordt onderschat of overschat.
+### ANTWOORD
+Negatieve externe effecten: overschatting. Zwarte circuit: onderschatting. Vrijwilligerswerk: onderschatting. Drie juist is 2 punten, twee juist 1 punt, minder dan twee juist 0 punten.
+
+## EXAMEN havo 2019-I 26 1p
+Er zijn drie argumenten genoemd waarom het nominale bbp een beperkte welvaartsmaatstaf is. Noem een ander argument.
+### ANTWOORD
+Bijvoorbeeld: het nominale bbp is niet gecorrigeerd voor bevolkingsgroei. Of: het bbp geeft geen informatie over de bijdrage van de informele economie aan de welvaart.
+
+## EXAMEN havo 2021-I 6 1p
+Noem één argument waarom het nominale bbp per hoofd een gebrekkige maatstaf is voor de welvaart in een land.
+### ANTWOORD
+Bijvoorbeeld: zegt niets over de verdeling van het inkomen, de koopkracht, de welvaart in ruime zin of de informele economie.
+
+## EXAMEN havo 2022-II 31 1p
+Laat met een voorbeeld zien hoe belastingen tot hogere welvaart in ruime zin kunnen leiden.
+### ANTWOORD
+De overheid besteedt belastinggeld aan bijvoorbeeld beter onderwijs, betere zorg, een beter milieu of herverdeling van inkomen. Zo stijgt de welvaart in ruime zin.
+
+## EXAMEN havo 2024-I 30 2p
+Leg uit dat prijsdiscriminatie in het openbaar vervoer ervoor kan zorgen dat het groen bbp stijgt.
+### ANTWOORD
+Een lagere prijs voor buitenlandse toeristen leidt tot meer gebruik van het openbaar vervoer (hogere afzet). Dan is er minder overbelasting van wegen, vervuiling of drukte, de milieuschade daalt en dus kan het groen bbp stijgen.
+
+## EXAMEN havo 2025-I 19 2p
+De EU verlaagt het aantal emissierechten. Dit heeft twee gevolgen voor het groen bbp. Leg beide gevolgen uit.
+### ANTWOORD
+Minder rechten verlagen de productie, dus het bbp en daarmee het groen bbp dalen (1). Lagere productie of verduurzaming verlaagt de milieuschade, dus het groen bbp stijgt (1).
+
+## EXAMEN havo 2026-II 8 2p
+Meer import en transport van fruit verlaagt het groen bbp van de EU. Leg de twee negatieve effecten van fruitimport op het groen bbp uit.
+### ANTWOORD
+Eén: hogere import leidt tot een lager bbp, dus een lager groen bbp. Twee: transport en import schaden het milieu, en de milieuschade wordt van het groen bbp afgetrokken.
+
+## EXAMEN vwo 2023-I 25 2p
+Milieueconomen stellen dat een circulaire economie het groen bbp kan verhogen. Leg uit dat dit klopt.
+### ANTWOORD
+Meer productie met gerecyclede grondstoffen is minder milieuvervuilend (1). De monetaire milieuschade daalt bij gelijkblijvende productie, waardoor het groen bbp kan stijgen (1).
+
+## EXAMEN vwo 2023-II 10 2p
+Het Plan Bureau stelt dat subsidie op hoger onderwijs een positief extern effect heeft en de brede welvaart verhoogt. Leg deze stelling uit.
+### ANTWOORD
+Meer opgeleiden geven hogere productiviteit of betere producten, of beter inzicht in milieu en gezondheid (1). Die opbrengsten zitten niet in de prijs van onderwijs en zijn niet voor de student zelf, maar voor de samenleving, dus de brede welvaart stijgt (1).
+
+## EXAMEN vwo 2025-I 22 2p
+Om een negatieve output gap te bestrijden verhoogt de overheid de bestedingen. Leg uit dat het groen bbp hierdoor zowel kan dalen als stijgen.
+### ANTWOORD
+De bestedingen verhogen het bbp. Is het saldo van milieuverbetering en milieuschade (in geld) positief, nul of negatief maar kleiner dan de bbp-stijging, dan stijgt het groen bbp (1). Is de netto milieuschade groter dan de bbp-stijging, dan daalt het (1).
+
+## EXAMEN vwo 2026-II 26 2p
+Leg uit dat klimaatbeleid, zoals een belasting op CO2-uitstoot, per saldo het groen bbp kan laten toenemen.
+### ANTWOORD
+Minder uitstoot verlaagt de monetaire milieuschade; hogere prijzen verlagen vraag en productie; is de milieuwinst groter dan de productiedaling, dan stijgt het groen bbp. Drie elementen: 2 punten; twee: 1 punt.
+
+
+# LEERDOEL ECO-ALGEM-07
+domein: H
+onderwerp: H.bbp
+thema: Bbp en welvaart
+naam: Bbp stijgt, welvaart daalt (extern effect)
+doel: Ik kan uitleggen waarom het bbp stijgt en de welvaart daalt door externe effecten.
+
+## UITLEG Externe effecten en collectieve goederen
+Een extern effect heeft twee elementen: het raakt anderen dan koper en verkoper, en het zit niet in de prijs. Noem je maar één element, dan maximaal 1 punt. Internaliseren kan met een heffing of emissierecht ter hoogte van de maatschappelijke kosten. Een collectief goed is niet-rivaliserend én niet-uitsluitbaar; 'de overheid levert het' is geen argument.
+
+## UITLEG Externe effecten en maatschappelijke kosten
+Een antwoord heeft altijd twee elementen: kosten of baten bij anderen dan producent en consument, én niet verrekend in de prijs of niet betaald door de veroorzaker. Internaliseren gebeurt met een heffing (negatief effect) of subsidie (positief effect). Een subsidie is te verdedigen als de daling van maatschappelijke kosten groter is dan het subsidiebedrag. Weglekeffect: productie verhuist, dus mondiaal geen daling. Alleen 'milieuvervuiling' noemen geeft maximaal 1 punt.
+
+## OPGAVE IT-00339 3p | Kippenslachterij in Veldwijk
+In Veldwijk opent Kipperij Dalhoef een nieuwe slachterij. Het bedrijf koopt levende kippen, verpakkingen en energie in bij andere bedrijven en verkoopt kippenvlees aan supermarkten. Het CBS berekent het bbp van de regio.
+Het afvalwater van de slachterij stroomt via een beek een natuurgebied in en de slachterij geeft sterke geurhinder. Omwonenden en de beheerder van het natuurgebied hebben daardoor schade. Dalhoef betaalt hier niet voor.
+Gebruik de tabel.
+Tabel Kipperij Dalhoef (per jaar, in miljoenen euro's):
+Gegeven | Bedrag
+Omzet | 48
+Inkoop van kippen, verpakking en energie | 36
+Geschatte schade aan natuur en woningwaarde, niet betaald door Dalhoef | 14
+Verklaar met behulp van de tabel dat het bbp van Veldwijk stijgt terwijl de welvaart in Veldwijk daalt.
+### ANTWOORD
+Dalhoef maakt een toegevoegde waarde van 48 - 36 = € 12 miljoen, dus het bbp stijgt. De schade van € 14 miljoen voor natuur en woningen ligt bij anderen en zit niet in de prijs van het vlees: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 12 miljoen, dus de welvaart daalt.
+Puntenverdeling:
+• Het bbp stijgt door de toegevoegde waarde van Dalhoef: omzet min inkoop is 48 - 36 = € 12 miljoen. (1)
+• De schade aan natuur en woningwaarde en de geurhinder komen terecht bij anderen en worden niet door Dalhoef betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)
+• De schade (€ 14 miljoen) is groter dan de toegevoegde waarde (€ 12 miljoen), dus de welvaart daalt, terwijl het bbp stijgt. (1)
+
+## OPGAVE IT-00505 2p | Evenementenhal in Beukenrode
+In Beukenrode opent Arena Beukenrode, een evenementenhal voor concerten. De hal koopt techniek, catering en beveiliging in bij andere bedrijven. Het CBS berekent het bbp van de gemeente.
+Bij elk concert hebben omwonenden last van geluid en parkeeroverlast. De exploitant betaalt hun niets en de kaartprijs is er niet hoger door.
+Tabel Arena Beukenrode (per jaar, in miljoenen euro's):
+Gegeven | Bedrag
+Omzet uit kaartverkoop en consumpties | 30
+Inkoop van techniek, catering en beveiliging | 18
+Leg uit dat het bbp van Beukenrode stijgt door de komst van de hal, terwijl de overlast voor omwonenden niet in het bbp terechtkomt.
+Gebruik de tabel.
+### ANTWOORD
+De hal maakt een toegevoegde waarde van 30 - 18 = € 12 miljoen, dus het bbp stijgt. De overlast raakt omwonenden, die geen koper of verkoper zijn, en zit niet in de kaartprijs. Het is een negatief extern effect. Het wordt niet betaald en daarom niet in het bbp geteld.
+Puntenverdeling:
+• Het bbp stijgt door de toegevoegde waarde van de hal: omzet min inkoop is 30 - 18 = € 12 miljoen. (1)
+• De overlast raakt omwonenden (anderen dan de hal en het publiek) en zit niet in de kaartprijs: een negatief extern effect. Daarom telt de overlast niet mee in het bbp. (1)
+
+## OPGAVE IT-00506 3p | Biomassacentrale in Roodveen
+In Roodveen opent Energie Roodveen een biomassacentrale die stroom en warmte levert aan bedrijven en huishoudens. De centrale koopt houtpellets, onderhoud en transport in bij andere bedrijven. Het CBS berekent het bbp van de regio.
+De schoorsteen geeft fijnstof en de vrachtwagens veroorzaken lawaai. Omwonenden worden hierdoor vaker ziek en de woningen in de buurt verliezen waarde. De centrale betaalt hier niet voor.
+Tabel Energie Roodveen (per jaar, in miljoenen euro's):
+Gegeven | Bedrag
+Omzet uit stroom en warmte | 60
+Inkoop van houtpellets, onderhoud en transport | 45
+Geschatte schade door fijnstof en lawaai, niet betaald door de centrale | 18
+Verklaar met behulp van de tabel dat het bbp van Roodveen stijgt terwijl de welvaart in Roodveen daalt.
+Gebruik de tabel.
+### ANTWOORD
+De centrale maakt een toegevoegde waarde van 60 - 45 = € 15 miljoen, dus het bbp stijgt. De schade van € 18 miljoen ligt bij omwonenden en zit niet in de prijs van stroom: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 15 miljoen, dus de welvaart daalt.
+Puntenverdeling:
+• Het bbp stijgt door de toegevoegde waarde van de centrale: omzet min inkoop is 60 - 45 = € 15 miljoen. (1)
+• De schade door fijnstof en lawaai komt terecht bij omwonenden en wordt niet door de centrale betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)
+• De schade (€ 18 miljoen) is groter dan de toegevoegde waarde (€ 15 miljoen), dus de welvaart daalt (met € 3 miljoen), terwijl het bbp stijgt. (1)
+
+## OPGAVE IT-00507 2p | Houtkachels in Ravenhorst
+In de gemeente Ravenhorst kopen veel huishoudens een houtkachel. Winkels verkopen meer kachels en haardhout, en installateurs hebben veel werk. Het bbp van Ravenhorst steeg daardoor met 2,1%.
+Buren klagen over rook en een stank die in hun tuin en huis komt. Sommige kinderen hebben vaker last van hun luchtwegen. De kachelgebruikers betalen hier niets voor.
+Leg uit dat het bbp van Ravenhorst stijgt door de houtkachels, terwijl de welvaart in Ravenhorst kan dalen.
+### ANTWOORD
+Er worden meer kachels en meer haardhout verkocht en geïnstalleerd, dus de productie en het bbp stijgen. De rook raakt buren die geen koper of verkoper zijn en zit niet in de prijs. Dit is een negatief extern effect. Het staat niet in het bbp, maar verlaagt wel de welvaart.
+Puntenverdeling:
+• Het bbp stijgt doordat de productie en de toegevoegde waarde van winkels, haardhoutverkopers en installateurs toenemen. (1)
+• De rook, stank en luchtwegklachten raken buren (anderen dan koper en verkoper) en worden niet betaald door de kachelgebruikers: een negatief extern effect. Dit zit niet in de prijs en dus niet in het bbp, terwijl het de welvaart verlaagt. (1)
+
+## EXAMEN havo 2021-I 26 2p
+Leg met het begrip externe effecten uit hoe rijden op fossiele brandstof de welvaart beïnvloedt. Gebruik bron 1.
+### ANTWOORD
+Rijden op fossiele brandstof veroorzaakt vervuiling of uitputting van natuurlijke hulpbronnen en dus extra kosten. Die effecten zijn extern: ze raken anderen of de samenleving en zitten niet in de prijs.
+
+## EXAMEN havo 2024-I 29 2p
+Leg uit dat een concentratie van toerisme op bepaalde plekken in Nederland kan leiden tot negatieve externe effecten.
+### ANTWOORD
+De leefbaarheid daalt door bijvoorbeeld afval, geluidsoverlast of overbelaste wegen. Dit zijn maatschappelijke kosten voor anderen dan de aanbieders aan toeristen en ze zitten niet in de prijs, dus het zijn externe effecten.
+
+## EXAMEN vwo 2022-II 26 2p
+Verklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.
+### ANTWOORD
+Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).
+

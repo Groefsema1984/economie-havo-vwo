@@ -1,0 +1,301 @@
+# LEERDOEL ECO-PROTE-01
+domein: C
+onderwerp: C.intl
+thema: Internationale handel
+naam: Uitleggen wat een importheffing betekent voor producenten en consumenten
+doel: Ik kan uitleggen wat een importheffing betekent voor producenten en consumenten.
+
+## UITLEG Internationale handel en protectie
+Een importheffing maakt het importproduct duurder dan binnenlandse substituten, dus de vraag naar import daalt. Bescherming van een jonge industrie geeft ruimte voor schaalvoordelen en innovatie. Een tegenmaatregel maakt er een sequentieel spel van: prijzen stijgen, bestedingen en bbp dalen. Directe investeringen omzeilen de heffing. Houd korte en lange termijn uit elkaar; bij een stelling over afhankelijkheid beide kanten (import én export) noemen.
+
+## UITLEG Protectie met een importheffing
+Een importheffing beschermt binnenlandse bedrijven: het importproduct wordt duurder dan het binnenlandse, dus de import daalt. Een tegenmaatregel van het andere land maakt er een sequentieel spel van dat kan uitlopen op een handelsoorlog en de export en groei drukt. Bij een stelling over afhankelijkheid noem je zowel import als export.
+
+## OPGAVE IT-00535 2p | Fietsaccu's uit Tarnia
+Het land Valmeer koopt veel fietsaccu's uit het buitenland. Een accu uit Tarnia kost in Valmeer € 200. Een vergelijkbare accu van het Valmeerse bedrijf Accuwerk kost € 230.
+De overheid van Valmeer wil Accuwerk beschermen en voert een importheffing in op accu's uit Tarnia.
+Geef aan wat een importheffing is en wat er door deze heffing gebeurt met de prijs van een accu uit Tarnia in Valmeer.
+### ANTWOORD
+Een importheffing is een belasting die de overheid heft op producten die uit het buitenland worden ingevoerd. De accu uit Tarnia wordt daardoor duurder in Valmeer.
+Puntenverdeling:
+• Een importheffing is een belasting die de overheid heft op producten die uit het buitenland komen. Een importheffing is een belasting op ingevoerde (geïmporteerde) producten (1)
+• De prijs van de accu uit Tarnia in Valmeer stijgt (het importproduct wordt duurder) (1)
+
+## OPGAVE IT-00536 3p | Elektrische fietsen uit Brenau
+In het land Noordmark maakt het bedrijf Dorrevaart elektrische fietsen. Fietsen uit het buitenland zijn goedkoper. Een fiets uit Brenau kost in Noordmark € 1.000, een fiets van Dorrevaart € 1.150.
+Om Dorrevaart te beschermen voert Noordmark een importheffing van 20% in op elektrische fietsen uit Brenau.
+Leg uit wat de importheffing betekent voor Dorrevaart en voor de consumenten in Noordmark.
+Doe het als volgt:
+- Bereken de nieuwe prijs van een fiets uit Brenau.
+- Leg uit wat dit betekent voor de afzet van Dorrevaart.
+- Leg uit wat dit betekent voor de consumenten.
+### ANTWOORD
+De fiets uit Brenau kost door de heffing € 1.200 en is nu duurder dan die van Dorrevaart (€ 1.150). Consumenten kopen daarom meer bij Dorrevaart, dus Dorrevaart verkoopt en produceert meer. Consumenten betalen wel meer dan zonder heffing (€ 1.150 in plaats van € 1.000).
+Puntenverdeling:
+• Een juist antwoord bevat de volgende drie stappen. De fiets uit Brenau wordt duurder: € 1.000 + 20% = € 1.200, dus duurder dan de fiets van Dorrevaart (€ 1.150) (1)
+• Consumenten kopen daardoor meer bij Dorrevaart, dus de afzet (en productie) van Dorrevaart stijgt (1)
+• Consumenten betalen een hogere prijs (of hebben minder keuze) dan zonder heffing (1)
+
+## OPGAVE IT-00537 3p | Wandelschoenen in Estavia
+Het land Estavia heft sinds dit jaar een importheffing van 25% op wandelschoenen uit het buitenland. De regering wil de Estaviase schoenmakers beschermen. De tabel toont de prijs van een paar wandelschoenen in Estavia.
+De heffing wordt betaald door de importeur en volledig doorberekend in de verkoopprijs.
+Tabel Prijs per paar wandelschoenen in Estavia (in euro's):
+Product | Prijs zonder heffing | Prijs met heffing
+Geïmporteerd | € 80 | € 100
+Estaviaas product | € 92 | € 92
+Leg uit wat de importheffing betekent voor de afzet van de Estaviase schoenmakers en voor de prijs die consumenten minimaal betalen voor wandelschoenen.
+Gebruik de tabel.
+### ANTWOORD
+Door de heffing kosten geïmporteerde schoenen € 100 en zijn ze duurder dan de Estaviase schoenen van € 92. Consumenten kopen daarom meer Estaviase schoenen, dus de schoenmakers verkopen meer. De goedkoopste schoenen kosten nu € 92 in plaats van € 80, dus consumenten betalen meer.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende drie stappen. Door de heffing stijgt de prijs van geïmporteerde schoenen van € 80 naar € 100 (80 + 25% = 100), dus de import is duurder dan het Estaviase product (€ 92) (1)
+• Consumenten stappen over op het Estaviase product, dus de afzet van de Estaviase schoenmakers stijgt (1)
+• De laagste prijs voor consumenten stijgt van € 80 naar € 92 (1)
+
+## EXAMEN havo 2021-I 9 1p
+Europese auto's krijgen in India 120% invoerrechten. Bereken met hoeveel procent ze goedkoper worden als deze rechten worden afgeschaft.
+### ANTWOORD
+De huidige prijs is 220% van de nieuwe prijs. Verandering = (100 − 220) : 220 × 100% = −54,5%, dus 54,5% goedkoper.
+
+## EXAMEN havo 2021-II 7 2p
+Leg uit hoe de VS met importheffingen op staal een tekort op de lopende rekening kunnen verkleinen.
+### ANTWOORD
+De heffing maakt buitenlands staal duurder, dus de VS importeren minder (1). De uitgaven op de lopende rekening dalen, dus het tekort wordt kleiner bij gelijkblijvende export (1).
+
+## EXAMEN vwo 2018-I 2 1p
+Noem de letter(s) van het vlak of de vlakken die het welvaartsverlies weergeven dat ontstaat door het importverbod.
+### ANTWOORD
+F. Alleen de juiste letter mag genoemd zijn.
+
+## EXAMEN vwo 2018-I 3 2p
+Qv = −2P + 100 en Qa = 4P − 80 (in duizenden tonnen); wereldprijs 25 UR. De prijs mag door een importquotum 10% stijgen. Bereken hoeveel import dan nog is toegestaan.
+### ANTWOORD
+Prijs 1,1 × 25 = 27,50. Qa = 4 × 27,50 − 80 = 30. Qv = −2 × 27,50 + 100 = 45. Import 45 − 30 = 15 (duizend ton).
+
+## EXAMEN vwo 2019-I 15 1p
+Leg uit dat verhoging van importheffingen de vraag naar importen kan beperken.
+### ANTWOORD
+Door de heffing worden geïmporteerde goederen duurder dan binnenlandse substituten. Daardoor daalt de vraag naar importen.
+
+## EXAMEN vwo 2022-I 11 2p
+Toon met een berekening aan dat de VU na een importheffing van VU$ 60 per batterij geen batterijen meer uit Cinai importeert. Gebruik het model van tabel 2.
+### ANTWOORD
+Binnenlands evenwicht: Qv = Qa geeft 4P = 800, dus P = 200. Importprijs met heffing = 150 + 60 = 210. Die is hoger dan de binnenlandse prijs van 200, dus er is geen import uit Cinai meer.
+
+## EXAMEN vwo 2022-I 12 2p
+Bereken met hoeveel miljard VU$ het saldo op de lopende rekening van de VU met Cinai verbetert door de importheffing.
+### ANTWOORD
+Bij P = 150 is Qv = 225 en Qa = 25 miljoen, dus een vraagoverschot van 200 miljoen. 90% komt uit Cinai: 180 miljoen × 150 = VU$ 27 miljard minder import. Het saldo verbetert met VU$ 27 miljard.
+
+
+# LEERDOEL ECO-PROTE-02
+domein: C
+onderwerp: C.intl
+thema: Internationale handel
+naam: Uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden
+doel: Ik kan uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden.
+
+## UITLEG Internationale handel en protectie
+Een importheffing maakt het importproduct duurder dan binnenlandse substituten, dus de vraag naar import daalt. Bescherming van een jonge industrie geeft ruimte voor schaalvoordelen en innovatie. Een tegenmaatregel maakt er een sequentieel spel van: prijzen stijgen, bestedingen en bbp dalen. Directe investeringen omzeilen de heffing. Houd korte en lange termijn uit elkaar; bij een stelling over afhankelijkheid beide kanten (import én export) noemen.
+
+## UITLEG Protectie met een importheffing
+Een importheffing beschermt binnenlandse bedrijven: het importproduct wordt duurder dan het binnenlandse, dus de import daalt. Een tegenmaatregel van het andere land maakt er een sequentieel spel van dat kan uitlopen op een handelsoorlog en de export en groei drukt. Bij een stelling over afhankelijkheid noem je zowel import als export.
+
+## OPGAVE IT-00304 2p | Schoenen uit Oosterwijk
+Het land Brenland voert een importheffing in op schoenen uit Oosterwijk. Brenlandse schoenenfabrikanten juichen dit toe. Zij hopen dat consumenten meer Brenlandse schoenen kopen.
+Leg uit hoe de importheffing kan leiden tot meer productie en werkgelegenheid bij Brenlandse schoenenfabrikanten.
+Maak de keten af:
+importheffing → prijs van Oosterwijkse schoenen stijgt → (1) ... → (2) ... → productie en werkgelegenheid in Brenland stijgen
+### ANTWOORD
+(1) De vraag naar Oosterwijkse schoenen daalt en consumenten kiezen vaker Brenlandse schoenen. (2) Brenlandse fabrikanten verkopen meer, produceren meer en hebben meer personeel nodig. Dus stijgen productie en werkgelegenheid.
+Puntenverdeling:
+• Een juiste uitleg bevat de volgende schakels: Door de hogere prijs daalt de vraag naar geïmporteerde schoenen en verschuift de vraag naar (goedkopere) Brenlandse schoenen (1)
+• Brenlandse fabrikanten verkopen meer en produceren daardoor meer, waardoor er meer werknemers nodig zijn (werkgelegenheid stijgt) (1)
+
+## OPGAVE IT-00305 3p | Tegenmaatregel op landbouwmachines
+Maldor heft een importheffing op meubels uit Kerrin. Kerrin reageert met een eigen importheffing op landbouwmachines uit Maldor. Maldorse machinefabrieken verkopen veel aan Kerrinse boeren.
+Leg uit hoe de tegenmaatregel van Kerrin ervoor zorgt dat het bbp van Maldor minder groeit.
+Maak de keten af:
+Kerrin heft importheffing op machines → Maldorse machines worden duurder in Kerrin → (1) ... → (2) ... → (3) ... → het bbp van Maldor groeit minder
+### ANTWOORD
+(1) Kerrinse boeren kopen minder Maldorse machines, dus de export van Maldor daalt. (2) Maldorse machinefabrieken verkopen minder en produceren minder. (3) Omdat de productie lager is, groeit het bbp van Maldor minder.
+Puntenverdeling:
+• Een juiste uitleg bevat de volgende schakels: Kerrinse boeren kopen minder Maldorse machines (vraag daalt), dus de export van Maldor daalt (1)
+• Maldorse machinefabrieken produceren daardoor minder (1)
+• Minder productie in Maldor betekent dat het bbp minder groeit (1)
+
+## OPGAVE IT-00306 4p | Elektrische bussen en zuivel
+Valdoria heft een importheffing op elektrische bussen uit Kestaland. Zo wil de regering de kleine, jonge busindustrie van Valdoria beschermen.
+Kestaland neemt een tegenmaatregel: het heft een importheffing op Valdorese zuivel. Kestaland is de grootste afnemer van zuivel uit Valdoria. De zuivelsector is veel groter dan de busindustrie.
+Beredeneer dat de importheffing en de tegenmaatregel samen kunnen leiden tot een lagere groei van het bbp van Valdoria.
+Doe het als volgt:
+- beschrijf het effect van de eigen importheffing van Valdoria;
+- beschrijf het effect van de tegenmaatregel van Kestaland;
+- vergelijk beide effecten en trek een conclusie over het bbp.
+### ANTWOORD
+De heffing maakt Kestalandse bussen duurder, dus kopen mensen meer Valdorese bussen en stijgt de productie daar. Kestaland maakt zuivel duurder, dus de export daalt en zuivelbedrijven produceren minder. Die sector is groter, dus het verlies weegt zwaarder en het bbp groeit minder.
+Puntenverdeling:
+• Een juiste beredenering bevat de volgende elementen: Door de importheffing worden Kestalandse bussen duurder, de vraag verschuift naar Valdorese bussen en de productie van de busindustrie stijgt (1)
+• Door de tegenmaatregel wordt Valdorese zuivel duurder in Kestaland, dus de export van zuivel daalt (1)
+• Zuivelbedrijven produceren daardoor minder (1)
+• Conclusie: de productiedaling in de grote zuivelsector is groter dan de productiestijging in de kleine busindustrie, dus het bbp groeit minder (1)
+
+## OPGAVE IT-00307 4p | Zonnepanelen en medische apparatuur
+Terravia voert een importheffing in op zonnepanelen uit Solmark. Zo wil de overheid de eigen paneelproducenten ondersteunen. De heffing maakt panelen in Terravia duurder.
+Solmark reageert met een importheffing op medische apparatuur uit Terravia. Deze apparatuur is een belangrijk exportproduct van Terravia. Producenten van de apparatuur hebben veel werknemers.
+Beredeneer dat de importheffing van Terravia en de tegenmaatregel van Solmark samen het bbp van Terravia minder kunnen laten groeien.
+Doe het als volgt:
+- beschrijf de gevolgen van de importheffing voor de vraag naar zonnepanelen;
+- beschrijf de gevolgen van de tegenmaatregel voor export en productie;
+- sluit af met een conclusie over het bbp.
+### ANTWOORD
+De heffing maakt Solmarkse panelen duurder, dus de vraag verschuift naar Terravische panelen. Solmark maakt Terravische medische apparatuur duurder, dus de export daalt en de producenten maken minder. Die sector is groot, dus de productiedaling weegt zwaarder en het bbp groeit minder.
+Puntenverdeling:
+• Een juiste beredenering bevat de volgende elementen: Door de importheffing worden zonnepanelen in Terravia duurder, de vraag naar geïmporteerde panelen daalt en de vraag naar Terravische panelen stijgt (of: de afname van panelen daalt door de hogere prijs) (1)
+• Door de tegenmaatregel van Solmark wordt medische apparatuur uit Terravia duurder en daalt de export van deze apparatuur (1)
+• Producenten van medische apparatuur produceren daardoor minder (1)
+• Conclusie: de productiedaling door lagere export is groter dan de winst voor de paneelproducenten, dus het bbp groeit minder (1)
+
+## OPGAVE IT-00538 2p | Tegels en koelkasten
+Het land Aldoria heft een importheffing op keramische tegels uit Brevin. De regering wil de eigen tegelfabrieken beschermen.
+Brevin overweegt een tegenmaatregel. Aldorese fabrikanten van koelkasten verkopen een groot deel van hun productie aan Brevin.
+Leg uit welke tegenmaatregel Brevin kan nemen en wat die maatregel doet met de export en de productie van Aldoria.
+### ANTWOORD
+Brevin kan een importheffing instellen op Aldorese koelkasten. Daardoor worden die koelkasten duurder in Brevin en kopen Brevinners er minder van, dus de export van Aldoria daalt. De Aldorese fabrikanten verkopen minder en produceren daarom minder.
+Puntenverdeling:
+• Een juiste uitleg bevat de volgende elementen: Brevin kan een importheffing instellen op Aldorese koelkasten, waardoor deze koelkasten duurder worden in Brevin, dus de vraag daalt en de export van Aldoria daalt (1)
+• Aldorese koelkastfabrikanten verkopen minder en produceren daardoor minder (de productie in Aldoria daalt) (1)
+
+## OPGAVE IT-00539 3p | E-bikes en wijn
+Norvik heft een importheffing op e-bikes uit Pelmar. De regering wil de kleine, jonge e-bikeindustrie van Norvik beschermen.
+Pelmar reageert met een importheffing op wijn uit Norvik. Pelmar is de grootste afnemer van Norvikse wijn. De wijnsector is veel groter dan de e-bikeindustrie en levert veel werk op in landelijke gebieden.
+Beredeneer dat de importheffing van Norvik en de tegenmaatregel van Pelmar samen kunnen leiden tot een lagere groei van het bbp van Norvik.
+### ANTWOORD
+Pelmar maakt Norvikse wijn duurder, dus Pelmarse klanten kopen minder wijn en de export van Norvik daalt. Wijnbedrijven verkopen minder en produceren minder. De wijnsector is veel groter dan de e-bikeindustrie, dus de productiedaling is groter dan de stijging bij de e-bikes. Het bbp groeit daardoor minder.
+Puntenverdeling:
+• Een juiste beredenering bevat de volgende elementen: Door de tegenmaatregel wordt Norvikse wijn duurder in Pelmar, dus de vraag naar Norvikse wijn daalt en de export van wijn daalt (1)
+• Norvikse wijnbedrijven verkopen minder en produceren daardoor minder (de productie in de wijnsector daalt) (1)
+• Conclusie: de productiedaling in de grote wijnsector is groter dan de productiestijging in de kleine e-bikeindustrie (door de bescherming), dus het bbp van Norvik groeit minder (1)
+
+## EXAMEN vwo 2019-I 16 2p
+Leg uit dat beperking van importen binnenlandse bedrijven de kans geeft om na verloop van tijd beter te concurreren op de wereldmarkt.
+### ANTWOORD
+Minder import verhoogt de binnenlandse prijzen en de afzet van eigen bedrijven. Zij kunnen schaalvoordelen behalen (lagere gemiddelde kosten) of middelen vrijmaken voor innovatie. Dat versterkt hun concurrentiepositie op de wereldmarkt. Een van beide redeneringen volstaat.
+
+## EXAMEN vwo 2021-III 29 2p
+Overheden voeren importheffingen in om het tekort op de lopende rekening snel te verkleinen. Leg uit hoe dit op korte termijn werkt en op langere termijn juist kan verslechteren.
+### ANTWOORD
+Kort: duurdere import verlaagt de consumptie en de import, dus het tekort daalt. Lang: hogere prijzen geven loon- en grondstofkosten, waardoor exportprijzen stijgen en de export daalt. Of het buitenland neemt tegenmaatregelen, zodat export en saldo dalen.
+
+## EXAMEN vwo 2022-I 14 3p
+Economen denken dat het financieringstekort van de VU kan oplopen als protectie tussen landen als een sequentieel spel wordt gezien. Geef een verklaring voor die mening.
+### ANTWOORD
+Cinai reageert op de heffing met eigen protectie (sequentieel spel). Producten worden duurder, bestedingen en export dalen en het bbp daalt. Belastinginkomsten dalen, de werkloosheid en de uitgaven aan uitkeringen stijgen, dus het financieringstekort loopt op.
+
+
+# LEERDOEL ECO-WISSE-01
+domein: C
+onderwerp: C.intl
+thema: Internationale handel
+naam: Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt
+doel: Ik kan uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt.
+
+## UITLEG Wisselkoers, valutamarkt en betalingsbalans
+De koers volgt uit vraag naar en aanbod van de munt: vertrekt kapitaal, dan stijgt het aanbod en daalt de koers. Koersdaling maakt export goedkoper en import duurder. De omgekeerde koers is 1 gedeeld door de koers. De betalingsbalans heeft een lopende rekening (goederen, diensten, primaire inkomens) en een kapitaalrekening; bij invulvragen moeten rekening én richting kloppen. Toerisme is dienstenexport.
+
+## UITLEG Wisselkoers, export en concurrentiepositie
+Rekent men € 1 = X vreemde munt, dan is 1 vreemde munt = 1 : X euro. Koersdaling maakt onze producten goedkoper voor het buitenland (export stijgt) en import duurder. Een vaste koers voorkomt duurdere import, maar ook goedkopere export. Hogere kosten worden doorberekend in de prijs en verslechteren de concurrentiepositie.
+
+## UITLEG Appreciatie, depreciatie en export
+Appreciatie en depreciatie volgen uit de vraag naar of het aanbod van een munt; een hogere rente trekt buitenlandse beleggers, vergroot de vraag en laat de koers stijgen. Spring niet direct van rente naar koers. Een duurdere munt maakt export in vreemde valuta duurder, dus de export en de productie dalen. Buitenlandse kopers kijken naar de prijs in hun eigen valuta.
+
+## EXAMEN havo 2018-I 16 2p
+Suiker wordt op de wereldmarkt in US dollar geprijsd. Leg met de bron uit dat de export van het staatsbedrijf naar de EU zal toenemen.
+### ANTWOORD
+Uit bron 2 blijkt dat de euro ten opzichte van de US dollar is gestegen. Daardoor is suiker relatief goedkoper geworden voor afnemers in de EU.
+
+## EXAMEN havo 2018-II 10 2p
+Volgens het artikel verslechtert de concurrentiepositie van Nederlandse agrariërs door de koersdaling van het pond. Leg uit op welke twee manieren dat gebeurt.
+### ANTWOORD
+1) Nederlandse agrarische producten worden duurder op de Britse markt. 2) Britse agrarische producten worden goedkoper op de EU-markt, Nederlandse markt of wereldmarkt.
+
+## EXAMEN havo 2019-I 16 2p
+Aruba heeft een tekort op de betalingsbalans en een vaste koers van de florin ten opzichte van de dollar. Vul het schema van bron 1 in door bij elke letter het juiste schuin gedrukte begrip te kiezen.
+### ANTWOORD
+a daalt, b kopen, c daalt. Voor elke fout 1 punt aftrek. Aanvulling op het voorschrift: bij deze vraag altijd 2 punten toekennen, omdat bron 1 'belastingsbalans' noemt.
+
+## EXAMEN havo 2019-I 17 2p
+Leg uit dat bij een tekort op de betalingsbalans de vaste wisselkoers inflatie tegengaat.
+### ANTWOORD
+Door het tekort is het aanbod van florins groter dan de vraag. Bij een flexibele koers zou de florin dalen en import duurder worden (1 punt). Door de vaste koers is er geen geïmporteerde inflatie (1 punt).
+
+## EXAMEN havo 2019-I 18 2p
+Leg uit dat Amerikaanse toeristen door de vaste wisselkoers bij een tekort op de betalingsbalans niet kunnen profiteren van een koersvoordeel.
+### ANTWOORD
+Door het tekort is het florinaanbod groter dan de vraag. Bij een flexibele koers daalt de florin en wordt Aruba goedkoper voor Amerikaanse toeristen (1 punt). Door de vaste koers worden ze niet goedkoper uit (1 punt).
+
+## EXAMEN havo 2021-I 24 2p
+De Zwitserse centrale bank verlaagt de rente. Maak een juiste tekst over het aantal beleggers uit eurolanden dat in Zwitserland belegt en over de gevolgen voor de vraag naar frank en de koers.
+### ANTWOORD
+(1) minder; (2) dalen; (3) dalen. Eén punt voor (1) en één punt voor (2) en (3) samen.
+
+## EXAMEN havo 2022-I 24 2p
+Leg uit dat de koersdaling van de euro bijdraagt aan de economische groei in de eurozone.
+### ANTWOORD
+Import wordt duurder, dus er worden meer Europese producten gevraagd (1p), waardoor de productie en de groei toenemen (1p). Of: export neemt toe doordat Europese producten goedkoper worden (1p), met meer productie en groei (1p).
+
+## EXAMEN havo 2023-I 18 2p
+Leg uit dat een renteverlaging door de ECB de internationale concurrentiepositie van de VS verslechtert.
+### ANTWOORD
+Route 1: lagere rente verlaagt kosten van Europese producenten, dus Europese prijzen dalen ten opzichte van Amerikaanse. Route 2: relatief hoge rente in de VS trekt kapitaal aan, de dollar apprecieert en Amerikaanse producten worden in euro's duurder.
+
+## EXAMEN vwo 2018-II 19 2p
+Verklaar dat vóór de muntunie een verslechterde concurrentiepositie in het Zuiden via de wisselkoers in zekere mate kon worden tegengegaan.
+### ANTWOORD
+Door de slechtere concurrentiepositie daalt de export, dus de vraag naar de eigen valuta en de wisselkoers. Export wordt in vreemde valuta goedkoper en import in eigen valuta duurder, waardoor de concurrentiepositie kan verbeteren.
+
+## EXAMEN vwo 2019-I 3 4p
+Leg uit dat een hogere rente in de VS via de kapitaalrekening de dollarkoers beïnvloedt en daarmee via de lopende rekening de bbp-groei kan afremmen.
+### ANTWOORD
+Hogere rente maakt beleggen in de VS aantrekkelijk, dus er is meer vraag naar dollars en de koers stijgt. Amerikaanse producten worden voor het buitenland duurder, de export daalt en de bbp-groei kan afnemen. Twee punten per deel.
+
+## EXAMEN vwo 2019-I 18 2p
+Leg uitsluitend met informatie uit tabel 1 uit dat de stijging van de exportwaarde 1995-2015 door een waardeverandering van de pesto kan komen.
+### ANTWOORD
+De importwaarde is groter dan de exportwaarde, dus het saldo op de lopende rekening is negatief. Er worden meer pesto's aangeboden dan gevraagd, dus de pesto daalt in waarde. Producten uit Pesthan worden goedkoper voor het buitenland en de export stijgt.
+
+## EXAMEN vwo 2021-I 20 3p
+Een land devalueert 20%. De prijselasticiteit van de export is −0,5 en die van de import −0,4. Toon met een berekening aan dat de importwaarde in eigen valuta sterker toeneemt dan de exportwaarde.
+### ANTWOORD
+Exportprijs in vreemde valuta −20%, dus exportvolume +10% (1). Importprijs in eigen valuta 1 : 0,8 = 1,25, dus +25%, importvolume −10% (1). Exportwaarde: 100 × 1,1 = 110. Importwaarde: 100 × 0,9 × 1,25 = 112,5. Importwaarde stijgt dus meer (1).
+
+## EXAMEN vwo 2021-I 22 2p
+Verklaar de door de econoom genoemde verbanden tussen devaluatie, binnenlands loonniveau en werkloosheid.
+### ANTWOORD
+Devaluatie maakt importen duurder, dus er komt inflatie. Werknemers eisen daarna hogere lonen om hun koopkracht te behouden (1). Hogere loonkosten worden doorberekend in de prijzen. De concurrentiepositie verslechtert, de export daalt en de werkloosheid kan op lange termijn juist verder oplopen (1).
+
+## EXAMEN vwo 2021-I 28 2p
+Stel dat een hoger saldo op de lopende rekening het nationaal inkomen heeft verhoogd door een wisselkoersverandering. Is de valuta van het land tegenover de dollar dan gestegen of gedaald? Licht toe.
+### ANTWOORD
+Gedaald. Bij een daling van de eigen valuta worden exportprijzen in dollars lager en kan het exportvolume toenemen. Of: importprijzen in eigen valuta worden hoger en het importvolume kan afnemen. Daardoor kunnen de binnenlandse productie en het nationaal inkomen toenemen.
+
+## EXAMEN vwo 2022-III 6 2p
+Volgens een beleggingsexpert veroorzaakte de jarenlange gasexport via de koers van de gulden werkloosheid. Leg uit hoe dat kan.
+### ANTWOORD
+Gasexport verhoogde de vraag naar de gulden, de koers steeg en de concurrentiepositie verslechterde (1p). De export van andere goederen en diensten daalde, waardoor de productie daalde en de werkloosheid steeg (1p).
+
+## EXAMEN vwo 2022-III 14 2p
+De regering verlaagt de inkomstenbelasting en de koers van de droste daalt. Leg uit dat dit conjunctuurbeleid tot die koersdaling heeft geleid.
+### ANTWOORD
+Lagere belasting geeft hogere besteedbare inkomens en meer import uit de muntunie (1p). Daardoor stijgt het aanbod van drosten (de vraag naar parto's) en daalt de koers van de droste (1p).
+
+## EXAMEN vwo 2025-I 20 2p
+De centrale bank van Curaçao voert ruimer monetair beleid. Leg uit welk effect dit via de valutamarkt heeft op de conjunctuur van Aruba.
+### ANTWOORD
+Renteverlaging verlaagt de vraag naar de Caribische gulden en dus de koers van de XCG (1). Aruba importeert meer en exporteert minder, productie daalt, dus de conjunctuur van Aruba verslechtert (1).
+
+## EXAMEN vwo 2026-I 24 2p
+Australië heeft een positief saldo op de betalingsbalans. Leg uit welk effect dit via de valutamarkt heeft op de internationale concurrentiepositie.
+### ANTWOORD
+Veel vraag naar of weinig aanbod van Australische dollars laat de wisselkoers stijgen. Australische producten worden daardoor duurder voor het buitenland, dus de concurrentiepositie verslechtert.
+

@@ -1,0 +1,325 @@
+# LEERDOEL ECO-ALGEM-08
+domein: H
+onderwerp: H.verdeling
+thema: Inkomensverdeling
+naam: Inkomensaandeel aflezen uit de Lorenzcurve
+doel: Ik kan een inkomensaandeel van een groep aflezen uit een Lorenzcurve.
+
+## UITLEG Inkomensverdeling, nivellering en solidariteit
+Een Lorenzcurve dichter bij de diagonaal betekent gelijkere verdeling. Verhoudingen bereken je in procenten, niet in procentpunten. Nivellering betekent dat relatieve verschillen kleiner worden; verwoord de relatieve stijging. Groepsgemiddelden moeten gewogen zijn. Solidariteit: de ene groep draagt lasten van de andere; collectieve dwang is verplicht meedoen; meeliften is profiteren zonder bij te dragen.
+
+## UITLEG Lorenzcurve, inkomensverhouding en nivellering
+Een curve dichter bij de diagonaal betekent een gelijkere verdeling. Inkomensverhouding = aandeel hoogste groep : aandeel laagste groep, als aantal keren; procentpunten gebruiken kost punten. Nivellering betekent kleinere relatieve verschillen: lage inkomens stijgen procentueel meer. Vergelijk percentages, niet alleen bedragen.
+
+## UITLEG Inkomensverdeling en belastingstelsel
+Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout.
+
+## OPGAVE IT-00514 3p | Inkomensverdeling in Kalvandia
+In Kalvandia heeft een onderzoeksbureau de inkomens van alle huishoudens geordend van laag naar hoog. Het bureau heeft de Lorenzcurve van de verdeling van het besteedbare inkomen getekend. De waarden staan ook in de tabel.
+De middengroep bestaat uit de huishoudens tussen 20% en 60% van de bevolking.
+Tabel Lorenzcurve Kalvandia (fictieve cijfers):
+Cumulatief % van de bevolking | Cumulatief % van het inkomen
+20 | 7
+40 | 19
+60 | 38
+80 | 64
+Lorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):
+Kalvandia: 20% → 7% | 40% → 19% | 60% → 38% | 80% → 64%
+Bereken hoeveel keer zo groot het inkomensaandeel van de rijkste 20% is als dat van de middengroep. Rond af op één decimaal.
+Gebruik de figuur en de tabel.
+### ANTWOORD
+Middengroep: 38% − 7% = 31% van het inkomen. Rijkste 20%: 100% − 64% = 36%. Verhouding: 36 : 31 ≈ 1,2. De rijkste 20% heeft dus 1,2 keer zoveel inkomen als de middengroep.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende stappen: Aandeel middengroep: 38% − 7% = 31% (1)
+• Aandeel rijkste 20%: 100% − 64% = 36% (1)
+• Verhouding 36 : 31 ≈ 1,2 keer zo groot (1)
+
+## OPGAVE IT-00515 2p | Herverdeling in Ostvaria
+In Ostvaria verdienen huishoudens vooral met arbeid en vermogen. De overheid heft belasting en betaalt uitkeringen en toeslagen. Een onderzoeksbureau vergelijkt twee Lorenzcurves: die van het primaire inkomen en die van het secundaire inkomen. De waarden staan ook in de tabel.
+Tabel Lorenzcurves Ostvaria (fictieve cijfers):
+Cumulatief % van de bevolking | Cumulatief % van het primaire inkomen | Cumulatief % van het secundaire inkomen
+20 | 4 | 10
+40 | 13 | 25
+60 | 30 | 44
+80 | 58 | 68
+Lorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):
+Primair inkomen: 20% → 4% | 40% → 13% | 60% → 30% | 80% → 58%
+Secundair inkomen: 20% → 10% | 40% → 25% | 60% → 44% | 80% → 68%
+Bereken hoeveel procent meer de rijkste 20% van de huishoudens verdient dan de armste 20% na herverdeling.
+Gebruik de figuur en de tabel.
+### ANTWOORD
+Na herverdeling gebruik ik de secundaire curve. Armste 20%: 10%. Rijkste 20%: 100% − 68% = 32%. Verschil: (32 − 10) : 10 × 100% = 220%. De rijkste 20% verdient dus 220% meer.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende stappen: Armste 20% heeft 10% van het secundaire inkomen; rijkste 20% heeft 100% − 68% = 32% (1)
+• (32 − 10) : 10 × 100% = 220% meer (1)
+
+## OPGAVE IT-00522 2p | Inkomensverdeling in Merrowin
+Een instituut in het land Merrowin onderzoekt hoe het inkomen over de bevolking is verdeeld. De uitkomst is weergegeven in een Lorenzcurve (fictieve cijfers).
+Gebruik de figuur. De curve gaat door de punten (20% bevolking, 6% inkomen), (40%, 18%), (60%, 36%) en (80%, 62%).
+Lorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):
+Merrowin: 20% → 6% | 40% → 18% | 60% → 36% | 80% → 62%
+Maak van onderstaande tekst een economisch juiste tekst.
+Op de horizontale as van een Lorenzcurve staat het cumulatieve percentage van de ...(1)... . Op de verticale as staat het cumulatieve percentage van het ...(2)... . Het aandeel van de groep tussen 40% en 60% van de bevolking is de afgelezen waarde bij 60% ...(3)... de afgelezen waarde bij 40%. Dit aandeel is ...(4)... % van het totale inkomen.
+Kies uit: bij (1) bevolking / inkomen / belasting
+Kies uit: bij (2) inkomen / aantal huishoudens / aantal uren werk
+Kies uit: bij (3) min / plus / gedeeld door
+Kies uit: bij (4) 18 / 36 / 54
+### ANTWOORD
+Op de horizontale as staat het cumulatieve percentage van de bevolking en op de verticale as het cumulatieve percentage van het inkomen. Het aandeel van de groep tussen 40% en 60% is de waarde bij 60% min de waarde bij 40%: 36 min 18 is 18%.
+Puntenverdeling:
+• bij (1) bevolking, bij (2) inkomen en bij (3) min (1)
+• bij (4) 18 (36 min 18) (1)
+
+## EXAMEN havo 2018-II 19 2p
+Toon met een berekening aan dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is. Gebruik de tabel met de verdeling van het secundaire inkomen.
+### ANTWOORD
+Het 4e kwartiel heeft 100% − 44,8% = 55,2%. Het 1e kwartiel heeft 5,1%. 55,2 : 5,1 geeft een verhouding van 1 : 10,8.
+
+## EXAMEN havo 2018-II 20 2p
+Bereken het coördinaat van punt A in de Lorenzcurve van Saba. Gebruik de verhoudingstabel en de Lorenzcurve.
+### ANTWOORD
+Secundair inkomen van het 4e kwartiel: 5,5 × 9,8 = 53,9%. Dus punt A heeft coördinaat (75 ; 46,1).
+
+## EXAMEN havo 2019-I 28 1p
+In 2014 kwam 25% van het Amerikaanse bbp ten goede aan 1% van de bevolking. Welke grafiek in bron 2 geeft de Amerikaanse Lorenzcurve van 2014 juist weer?
+### ANTWOORD
+Grafiek 3.
+
+## EXAMEN havo 2022-II 28 2p
+Gebruik de grafiek van bron 1. Toon met een berekening aan dat de rijkste 20% in 2008 2,8 keer zoveel verdiende als de armste 20%.
+### ANTWOORD
+Armste 20% heeft 12% van het inkomen; rijkste 20% heeft 100% − 66% = 34%. Verhouding 34% : 12% ≈ 2,8.
+
+## EXAMEN havo 2026-I 10 2p
+Met een figuur over de inkomensverdeling na herverdeling bereken je hoeveel procent de 10% hoogste inkomens meer verdient dan de 10% laagste inkomens.
+### ANTWOORD
+Hoogste 10% verdient 100% − 75% = 25%, laagste 10% verdient 3%, 1p. (25 − 3) : 3 × 100% ≈ 733,33% meer, 1p. Een verschil in procentpunten geeft maximaal 1p.
+
+## EXAMEN vwo 2022-II 1 2p
+Een deel van de zzp'ers heeft een te laag uurtarief om de kosten te dekken. Leg uit hoe de Lorenzcurve van de primaire inkomens daarop moet worden aangepast.
+### ANTWOORD
+Verlieslijdende zzp'ers hebben een negatief primair inkomen (1). De curve begint daardoor onder de horizontale as en komt pas bij 20% van de personen weer boven die as (1).
+
+
+# LEERDOEL ECO-ALGEM-09
+domein: H
+onderwerp: H.verdeling
+thema: Inkomensverdeling
+naam: Primair en besteedbaar inkomen, Gini, nivelleren
+doel: Ik kan uitleggen wat primair en besteedbaar inkomen, Gini-coëfficiënt en nivelleren zijn.
+
+## UITLEG Inkomensverdeling, nivellering en solidariteit
+Een Lorenzcurve dichter bij de diagonaal betekent gelijkere verdeling. Verhoudingen bereken je in procenten, niet in procentpunten. Nivellering betekent dat relatieve verschillen kleiner worden; verwoord de relatieve stijging. Groepsgemiddelden moeten gewogen zijn. Solidariteit: de ene groep draagt lasten van de andere; collectieve dwang is verplicht meedoen; meeliften is profiteren zonder bij te dragen.
+
+## UITLEG Gemiddelde belastingdruk en progressief, proportioneel, degressief
+Gemiddelde belastingdruk = te betalen belasting : inkomen × 100%. Progressief: hoger inkomen, hoger percentage; proportioneel: zelfde percentage; degressief: lager percentage. Noem altijd het effect op de inkomensverschillen na belasting; bij progressief worden die kleiner.
+
+## UITLEG Lorenzcurve, inkomensverhouding en nivellering
+Een curve dichter bij de diagonaal betekent een gelijkere verdeling. Inkomensverhouding = aandeel hoogste groep : aandeel laagste groep, als aantal keren; procentpunten gebruiken kost punten. Nivellering betekent kleinere relatieve verschillen: lage inkomens stijgen procentueel meer. Vergelijk percentages, niet alleen bedragen.
+
+## OPGAVE IT-00313 2p | Het inkomen van een huishouden
+Anouk en Rik Verbrugge hebben samen een loon van € 30.000 per jaar. Zij ontvangen € 3.000 aan toeslagen. Zij betalen € 8.000 aan belastingen en sociale premies.
+Maak van onderstaande tekst een economisch juiste tekst.
+Het loon van € 30.000 is het ...(1)... inkomen van dit huishouden. Na het bijtellen van de toeslagen en het aftrekken van de belastingen en premies houdt het huishouden zijn ...(2)... inkomen over. Dat is € ...(3)... .
+Kies uit: bij (1) primaire / besteedbare / nominale
+bij (2) besteedbare / primaire / reële
+bij (3) 22.000 / 25.000 / 33.000
+### ANTWOORD
+(1) primaire, (2) besteedbare, (3) 25.000. Het loon is het primaire inkomen. Besteedbaar inkomen = 30.000 + 3.000 - 8.000 = € 25.000.
+Puntenverdeling:
+• bij (1) primaire en bij (2) besteedbare (beide juist) (1)
+• bij (3) 25.000 (30.000 + 3.000 - 8.000) (1)
+
+## OPGAVE IT-00314 2p | Twee soorten inkomen
+Een econoom van het fictieve onderzoeksbureau Statico bespreekt in een lezing de inkomens van huishoudens in Nederland. Hij maakt onderscheid tussen het primair inkomen en het besteedbaar inkomen. Vier toehoorders geven daarna elk een uitspraak over deze begrippen.
+Welke uitspraak is onjuist? Verklaar je keuze.
+Geef de hoofdletter van je keuze en leg in een of twee zinnen uit waarom deze uitspraak niet klopt.
+### OPTIES C
+A A. Het primair inkomen is wat een huishouden zelf verdient met arbeid, kapitaal of ondernemen, vóór belastingen en uitkeringen.
+B B. Het besteedbaar inkomen is het inkomen dat een huishouden na herverdeling door de overheid kan uitgeven of sparen.
+C C. Het besteedbaar inkomen is het primair inkomen plus uitkeringen en toeslagen, zonder dat belastingen en premies eraf gaan.
+D D. Is de Gini-coëfficiënt van het besteedbaar inkomen lager dan die van het primair inkomen, dan nivelleert de overheid.
+### ANTWOORD
+Uitspraak C is onjuist. Bij het besteedbaar inkomen worden de belastingen en sociale premies ook afgetrokken. Het is dus primair inkomen plus uitkeringen en toeslagen min belastingen en premies.
+Puntenverdeling:
+• Antwoord C is gekozen (1)
+• Verklaring: bij het besteedbaar inkomen gaan ook de belastingen en premies eraf (besteedbaar = primair + uitkeringen en toeslagen - belastingen en premies) (1)
+
+## OPGAVE IT-00315 3p | Inkomensverdeling in Zuidmark
+In het fictieve land Zuidmark is de inkomensverdeling van huishoudens in 2025 op twee manieren weergegeven. De figuur toont twee Lorenzcurves: één voor het primair inkomen en één voor het besteedbaar inkomen. Welke curve bij welk inkomen hoort, staat er niet bij.
+De cijfers zijn fictief en benaderen de werkelijkheid.
+Lorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):
+Curve 1: 20% → 4% | 40% → 12% | 60% → 27% | 80% → 50%
+Curve 2: 20% → 10% | 40% → 24% | 60% → 42% | 80% → 64%
+Leid met behulp van de figuur af of het belasting- en uitkeringsstelsel in Zuidmark heeft genivelleerd. Onderbouw je antwoord met getallen uit de figuur.
+### ANTWOORD
+Curve 2 ligt dichter bij de diagonaal, dus is gelijker: dat is het besteedbaar inkomen. De armste 20% krijgt 10% in plaats van 4%. De rijkste 20% krijgt 36% in plaats van 50%. De verschillen worden kleiner: er is genivelleerd.
+Puntenverdeling:
+• Curve 2 ligt dichter bij de diagonaal, dus is gelijker verdeeld en hoort bij het besteedbaar inkomen; curve 1 is het primair inkomen (1)
+• Aflezing: armste 20% heeft 4% (primair) tegenover 10% (besteedbaar); rijkste 20% heeft 100 - 50 = 50% tegenover 100 - 64 = 36% (1)
+• Conclusie: de verschillen zijn kleiner geworden (rijkste : armste daalt van 12,5 naar 3,6 keer), dus er is genivelleerd (1)
+
+## OPGAVE IT-00360 2p | Het stelsel van Weststrand
+In het fictieve land Weststrand willen onderzoekers weten of het belasting- en uitkeringsstelsel de inkomensverschillen verkleint. Zij vergelijken een huishouden met een laag inkomen en een huishouden met een hoog inkomen. Alle bedragen zijn per jaar.
+De cijfers zijn fictief en benaderen de werkelijkheid.
+Tabel Inkomensgegevens van twee huishoudens in Weststrand (in euro's):
+Huishouden | Primair inkomen | Belastingen en premies | Uitkeringen en toeslagen
+Laag inkomen | 18.000 | 3.500 | 4.600
+Hoog inkomen | 90.000 | 33.000 | 600
+Toon met een berekening aan dat de verhouding tussen het inkomen van het huishouden met een hoog inkomen en dat van het huishouden met een laag inkomen kleiner wordt door het stelsel in Weststrand.
+### ANTWOORD
+Besteedbaar inkomen laag: 18.000 + 4.600 - 3.500 = 19.100. Hoog: 90.000 + 600 - 33.000 = 57.600. Primair verdient hoog 90.000 : 18.000 = 5,0 keer zoveel als laag. Besteedbaar is dat 57.600 : 19.100 = 3,0 keer zoveel. De verhouding wordt kleiner, dus het stelsel nivelleert.
+Puntenverdeling:
+• Berekening van het besteedbaar inkomen van beide huishoudens: laag 18.000 + 4.600 - 3.500 = 19.100 en hoog 90.000 + 600 - 33.000 = 57.600 (1)
+• Berekening van de verhouding hoog : laag voor het primaire inkomen (90.000 : 18.000 = 5,0) en voor het besteedbaar inkomen (57.600 : 19.100 = 3,0), en de conclusie dat de verhouding kleiner wordt, dus het stelsel nivelleert (1)
+
+## OPGAVE IT-00516 2p | Inkomens in Lindmark
+Het fictieve onderzoeksbureau Cijferdal beschrijft de inkomens van huishoudens in het land Lindmark. Het gebruikt daarvoor twee inkomensbegrippen: het primair inkomen en het secundair inkomen. Om de verdeling van die inkomens samen te vatten, berekent het bureau ook een Gini-coëfficiënt.
+Geef de omschrijving van het primair inkomen en van het secundair inkomen van een huishouden en geef aan wat een Gini-coëfficiënt van 0 en van 1 betekent.
+### ANTWOORD
+Primair inkomen is wat een huishouden zelf verdient met arbeid, kapitaal of ondernemen, vóór belastingen en uitkeringen. Secundair inkomen is primair inkomen plus uitkeringen en toeslagen min belastingen en premies. Gini 0 is volkomen gelijk, Gini 1 is volkomen ongelijk.
+Puntenverdeling:
+• Primair inkomen is het inkomen dat een huishouden zelf verdient (loon, winst, rente), vóór belastingen en uitkeringen; secundair inkomen is het primair inkomen plus uitkeringen en toeslagen min belastingen en premies (beide juist) (1)
+• Gini 0 betekent een volkomen gelijke verdeling en Gini 1 betekent volkomen ongelijk (één persoon heeft al het inkomen) (beide juist) (1)
+
+## OPGAVE IT-00517 2p | Herverdeling in Kustmark
+In het fictieve land Kustmark vergelijkt een onderzoeksbureau twee huishoudens. Huishouden L heeft een laag inkomen en huishouden H een hoog inkomen. De tabel toont wat elk huishouden in 2025 verdiende, kreeg en betaalde.
+De cijfers zijn fictief en benaderen de werkelijkheid.
+Tabel Inkomensgegevens per jaar (in euro's):
+| Huishouden L | Huishouden H
+Primair inkomen | 18.000 | 90.000
+Uitkeringen en toeslagen | 6.000 | 1.000
+Belastingen en premies | 3.000 | 33.000
+Toon met een berekening aan dat het belasting- en uitkeringsstelsel in Kustmark de inkomensverschillen tussen deze huishoudens verkleint (nivelleert).
+Gebruik de tabel.
+### ANTWOORD
+Besteedbaar inkomen L: 18.000 + 6.000 - 3.000 = 21.000. Besteedbaar inkomen H: 90.000 + 1.000 - 33.000 = 58.000. Primair is H 90.000 : 18.000 = 5,0 keer zoveel als L. Besteedbaar is dat 58.000 : 21.000 = 2,8 keer. De verhouding wordt kleiner, dus er is genivelleerd.
+Puntenverdeling:
+• Besteedbaar inkomen L = 18.000 + 6.000 - 3.000 = 21.000 en besteedbaar inkomen H = 90.000 + 1.000 - 33.000 = 58.000 (1)
+• Verhouding H : L primair = 90.000 : 18.000 = 5,0 en besteedbaar = 58.000 : 21.000 = 2,8; de verhouding wordt kleiner, dus het stelsel nivelleert (1)
+
+## EXAMEN havo 2018-II 18 2p
+Maak een economisch juiste tekst over inkomens uit het ter beschikking stellen van productiefactoren, een voorbeeld daarvan en de methode waarmee het bbp wordt berekend uit de optelsom van deze inkomens.
+### ANTWOORD
+(1) primaire inkomens, (2) rente, (3) subjectieve. Drie juist: 2 punten; twee juist: 1; minder: 0.
+
+## EXAMEN havo 2018-II 21 2p
+Ligt de Lorenzcurve van Bonaire links of rechts van die van Saba? Licht je keuze toe met de gegeven verhoudingen.
+### ANTWOORD
+Links. Volgens de aanvulling is de verhouding van Saba 1 : 9,8 en van Bonaire 1 : 9,1. Het inkomen op Bonaire is gelijker verdeeld, dus de curve ligt links van die van Saba.
+
+## EXAMEN havo 2018-II 22 2p
+Bereken de secundaire-inkomensverhouding van de drie BES-eilanden samen. Ga ervan uit dat het inkomen per hoofd gelijk is en de huishoudens even groot zijn. Gebruik de bronnen met de verhoudingen en de verdeling van huishoudens.
+### ANTWOORD
+Gewogen gemiddelde: (80 × 9,1 + 13 × 10,8 + 7 × 9,8) : 100 = 9,4. De verhouding is 1 : 9,4. Een ongewogen gemiddelde levert geen punten op.
+
+## EXAMEN havo 2018-II 23 2p
+Twee leerlingen stellen dat de BES-eilanden een schevere verdeling van het secundaire inkomen hebben door een proportioneel stelsel, tegenover het progressieve stelsel van Europees Nederland. Leg deze conclusie uit en betrek beide stelsels.
+### ANTWOORD
+Bij een progressief stelsel geldt voor hogere inkomens een hoger tarief, dus de secundaire verschillen worden kleiner. Bij een proportioneel stelsel geldt voor elk inkomen hetzelfde tarief, dus de verschillen blijven even groot.
+
+## EXAMEN havo 2019-I 8 2p
+Zijn de inkomens van Nederlandse huishoudens na de kredietcrisis genivelleerd of gedenivelleerd? Kies en licht toe met getallen uit bron 1.
+### ANTWOORD
+Genivelleerd. De rijkste 20% verdiende ongeveer 2,5 keer zoveel als de armste 20%; in 2008 was dat 2,8 keer. Aanvulling: een vergelijking van 2012 met 2009 (2,6 keer) is ook goed.
+
+## EXAMEN havo 2019-I 9 2p
+Zijn de verhoudingsgetallen in bron 1 gebaseerd op het primaire of het secundaire huishoudinkomen? Leg eerst uit welke staven in bron 2 primair en welke secundair zijn. Beredeneer daarna op welk inkomen bron 1 is gebaseerd.
+### ANTWOORD
+Secundair. De donkere staven zijn secundair, want bij de laagste 20% is het primaire inkomen lager door progressieve belasting en uitkeringen (1 punt). In 2012 is de verhouding in bron 1 gelijk aan die van de donkere staven, 2,5 (1 punt).
+
+## EXAMEN havo 2021-III 24 3p
+Gebruik figuur 2 in bron 1. Beredeneer met een berekening of maatregel 4 in 2013-2017 nivellerend of denivellerend werkte. Bereken eerst de gemiddelde belastingdruk voor beide jaren en beide bruto-inkomens en trek dan een conclusie.
+### ANTWOORD
+Gemiddelde belastingdruk = te betalen belasting : bruto-inkomen × 100%. € 35.000: 31,9% (2013) naar 32,0% (2017). € 100.000: 42,9% naar 45,1%. De druk steeg bij het hoge inkomen meer, dus nivellerend.
+
+## EXAMEN havo 2022-II 29 2p
+De rijkste 20% bevat relatief veel zelfstandigen. Beredeneer dat dit bijdroeg aan nivellering van inkomens tijdens de crisis.
+### ANTWOORD
+Het inkomen van zelfstandigen daalde sterker, dus het inkomensverschil tussen de rijkste en armste groep werd kleiner. Daardoor werd de verdeling gelijker: de inkomens werden genivelleerd.
+
+## EXAMEN havo 2022-II 30 2p
+Leg uit hoe een progressief belastingstelsel ervoor zorgt dat secundaire inkomens gelijker verdeeld zijn dan primaire inkomens.
+### ANTWOORD
+Bij progressieve belasting betaalt iemand met hoger inkomen procentueel meer belasting. Daardoor zijn de inkomensverschillen na belasting kleiner dan ervoor.
+
+## EXAMEN havo 2022-III 1 3p
+Maak een economisch juiste redenering met zeven open plekken over de inkomstenbelasting. Het gaat om primaire of secundaire inkomens, het stijgen of dalen van marginale tarieven per inkomensgroep, het effect op de inkomensverdeling van tariefaanpassing en van de beperkte hypotheekrenteaftrek, en de ontwikkeling van indirecte belastingen.
+### ANTWOORD
+(1) primaire, (2) stijgt, (3) daalt, (4) daalt, (5) denivellerend, (6) nivellerend, (7) stijgen. Score: 7 juist = 3p, 5-6 juist = 2p, 3-4 juist = 1p, minder dan 3 = 0p.
+
+## EXAMEN havo 2023-I 3 2p
+Leg met de bron uit dat arbeidsongeschiktheid kan leiden tot denivellering van secundaire inkomens tussen zzp'ers onderling.
+### ANTWOORD
+Lage inkomensgroepen hebben vaker geen aov en zien hun inkomen sterk dalen. Hoge inkomensgroepen hebben vaker wel een aov en houden hun inkomen grotendeels. De verschillen worden groter, dus denivellering.
+
+## EXAMEN havo 2023-I 4 2p
+Een vakbondslid zegt dat arbeidsongeschiktheid denivellering kan geven tussen arbeidsongeschikte zzp'ers en werknemers uit dezelfde inkomensklasse. Leg deze stelling uit.
+### ANTWOORD
+Werknemers zijn verplicht verzekerd en krijgen een uitkering. Een deel van de zzp'ers is niet verzekerd en heeft daardoor een groter secundair inkomensverlies. Het verschil wordt groter: denivellering.
+
+## EXAMEN havo 2023-II 15 2p
+Toon met een berekening aan dat het stelsel in 2014 meer nivelleert dan in het jaar ervoor, door het netto-inkomen van hoog en laag te vergelijken.
+### ANTWOORD
+Netto-inkomen laag: 20.000 − 7.270 + 2.093 + 2.097 = 16.920; hoog: 120.000 − 55.616 + 1.362 + 367 = 66.113 (1). Verhouding 66.113 : 16.920 = 3,9, kleiner dan 4,1 dus meer nivellering (1).
+
+## EXAMEN havo 2024-I 1 2p
+De vakbond eist 3,5% meer loon, met minimaal € 1.000 erbij. Leg uit dat het inwilligen van deze eis nivellerend werkt.
+### ANTWOORD
+Door het minimum stijgen lage inkomens procentueel meer dan 3,5% (grens ongeveer € 28.571). Hoge inkomens krijgen 3,5%. De relatieve inkomensverschillen worden kleiner, dus nivellerend. De relatieve stijging moet genoemd zijn.
+
+## EXAMEN havo 2024-I 17 2p
+Het maximale aftrektarief voor hypotheekrente gaat naar 37,05%. Leg uit dat de secundaire inkomensverdeling binnen de groep woningbezitters daardoor gelijker wordt.
+### ANTWOORD
+Hoge inkomens verliezen belastingvoordeel (tarief 49,50% wordt 37,05%) en betalen meer belasting. Voor lage inkomens verandert niets. Zo worden de verschillen tussen lage en hoge inkomens na belasting kleiner.
+
+## EXAMEN havo 2024-II 24 2p
+Van de twee beleidsopties (hogere belastingtarieven of lagere uitkeringen) leidt één tot denivellering. Leg uit welke dat is.
+### ANTWOORD
+Optie 2. Lagere uitkeringen verlagen het besteedbaar inkomen van uitkeringsgerechtigden, terwijl dat van werkenden gelijk blijft. Het verschil tussen lage en hoge secundaire inkomens wordt groter, dus denivellering. Optie 1 nivelleert.
+
+## EXAMEN havo 2026-I 7 3p
+Invulvraag met vijf open plekken over een progressief stelsel (gemiddeld tarief, nivelleren), lage inkomens en indirecte belastingen, en een premie die tot € 38.000 over het inkomen wordt geheven (soort premiestelsel).
+### ANTWOORD
+(1) stijging; (2) nivelleren; (3) groter; (4) indirecte; (5) degressief. Deelscores: (1)+(2) 1p, (3)+(4) 1p, (5) 1p.
+
+## EXAMEN havo 2026-I 9 1p
+De overheid gebruikt belastingopbrengsten om inkomen te herverdelen. Geef een voorbeeld van een overheidsuitgave waarmee dat gebeurt.
+### ANTWOORD
+Bijvoorbeeld zorg- of huurtoeslag, sociale uitkeringen, bijstand, subsidies of persoonsgebonden overdrachten. Eén voorbeeld volstaat.
+
+## EXAMEN vwo 2018-II 5 1p
+Een journaliste zegt dat een systeem met een eigen risico de beschikbare inkomens na zorgbijdragen kan denivelleren. Leg deze stelling uit.
+### ANTWOORD
+Het eigen risico is een groter percentage van een laag inkomen dan van een hoog inkomen, dus lage inkomens gaan procentueel meer achteruit. Of: lage inkomens zijn vaker ongezond, doen vaker een beroep op zorg en betalen vaker het eigen risico.
+
+## EXAMEN vwo 2021-I 25 2p
+In een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.
+### ANTWOORD
+Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.
+
+## EXAMEN vwo 2021-II 25 4p
+Schrijf namens de minister van Sociale Zaken een reactie waarin je twee beweringen toelicht. De eerste: buitenlandse beleggers komen sowieso al, blijkens de arbeidsinkomensquote. De tweede: het effect op de secundaire inkomensverdeling is ongewenst.
+### ANTWOORD
+De AIQ in het eigen land daalt en in de buurlanden niet, dus de winstquote stijgt en beleggen is al aantrekkelijker (2p). Hoge inkomens beleggen meer, dus ze profiteren meer en er komt denivellering (1p). De Gini steeg al, dus de kloof groeit verder (1p).
+
+## EXAMEN vwo 2022-II 2 2p
+De heffingskorting voor zelfstandigen gaat € 2.000 omlaag in een progressief stelsel. Beargumenteer hoe de Lorenzcurve van de secundaire inkomens van zzp'ers verschuift.
+### ANTWOORD
+Lage inkomens betalen relatief meer belasting dan hoge, dus de inkomensverschillen worden groter (1). Door deze denivellering schuift de Lorenzcurve van de secundaire inkomens naar buiten (1).
+
+## EXAMEN vwo 2022-II 14 2p
+AOW'ers betalen alleen belasting. Leidt fiscalisering van de AOW tot nivellering of denivellering binnen de groep gepensioneerden? Beargumenteer je keuze.
+### ANTWOORD
+Denivellering. Het belastingtarief in de eerste schijf stijgt, dus gepensioneerden met een laag pensioeninkomen gaan gemiddeld relatief meer belasting betalen dan die met een hoog inkomen. De inkomensverschillen worden groter.
+
+## EXAMEN vwo 2023-I 10 2p
+Een recessie raakt vooral het toerisme, waar veel huishoudens met lage inkomens werken. Leg uit dat de Gini-coëfficiënt van de primaire inkomens kan stijgen.
+### ANTWOORD
+Lagere inkomens hebben minder werk en dus minder inkomen uit arbeid, ondernemerschap, kapitaal of natuur (1). De relatieve verschillen tussen arm en rijk worden groter, dus de Gini van de primaire inkomens stijgt (1).
+
+## EXAMEN vwo 2026-I 11 2p
+Een land vervangt het progressieve stelsel door een vlaktaks zonder heffingskortingen, met het gemiddelde tarief van 2025. Leg uit dat dit de secundaire inkomens denivelleert.
+### ANTWOORD
+Huishoudens die in 2025 meer dan gemiddeld werden belast, betalen nu procentueel minder en hun secundair inkomen stijgt. Of: wie minder werd belast, betaalt meer en het secundair inkomen daalt. Dit is denivellering.
+

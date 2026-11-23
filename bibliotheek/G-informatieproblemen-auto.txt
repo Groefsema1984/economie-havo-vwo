@@ -1,0 +1,95 @@
+# LEERDOEL ECO-INFOR-01
+domein: G
+onderwerp: G.info
+thema: Informatieproblemen
+naam: Een principaal-agentprobleem uitleggen en een maatregel noemen
+doel: Ik kan een principaal-agentprobleem uitleggen en een maatregel ertegen noemen.
+
+## UITLEG Principaal-agentprobleem
+Vaak drie elementen van elk 1 punt: principaal en agent met tegengestelde belangen en hun concrete doel, asymmetrische informatie (principaal kan gedrag of kosten niet controleren) en een maatregel uit de bron die het probleem verkleint, zoals toezicht, informatieplicht, boete of aansprakelijkheid. Rollen omdraaien, alleen 'informatie' noemen of een maatregel waarbij kosten niet bij de agent liggen levert geen punt op.
+
+## UITLEG Principaal-agentprobleem en asymmetrische informatie
+Een principaal laat een agent iets doen en kan niet zien of de agent dat goed doet. Voor de punten: benoem principaal en agent juist, noem het tegenstrijdige belang van beide, en de asymmetrische informatie (wie weet wat niet). Noem een maatregel zoals toezicht of een boete, waarbij de agent zelf de gevolgen draagt. Blijf concreet; algemeen zeggen dat er te weinig informatie is volstaat niet.
+
+## EXAMEN vwo 2019-II 12 3p
+Trains is wettelijk monopolist en moet prijsstijgingen vooraf onderbouwen tegenover de overheid. Leg uit dat er een principaal-agentprobleem kan zijn en hoe de overeenkomst dit vermindert.
+### ANTWOORD
+Overheid (principaal) en Trains (agent) hebben andere doelen: reizigersbelang tegenover winst (1). De overheid kent de kosten en opbrengsten van Trains slecht: informatie-asymmetrie (1). De overeenkomst geeft de overheid deels dezelfde informatie (1).
+
+## EXAMEN vwo 2021-I 9 4p
+Een gemeente verleent een concessie voor elektrische bussen met vijf voorwaarden over reistijd, vertraging, inzet van dieselbussen, gps-tracking en maximumprijs. Leg uit dat een principaal-agentprobleem kan optreden en welke twee voorwaarden dit probleem verminderen.
+### ANTWOORD
+Principaal (gemeente) en agent (busbedrijf) hebben verschillende doelen: winst tegenover reizigersbelang (1). De gemeente ziet de ritten en kosten beperkt: informatie-asymmetrie (1). Voorwaarde iv (gps) geeft direct inzicht in vertraging en uitval (1). Voorwaarde v (maximumprijs) beperkt winstmaximalisatie ten koste van reizigers (1).
+
+## EXAMEN vwo 2022-I 20 3p
+Leg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.
+### ANTWOORD
+Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.
+
+## EXAMEN vwo 2022-II 9 3p
+Verklaar het principaal-agentprobleem tussen Leport en de deelnemende bedrijven en noem een contractclausule die het probleem kan oplossen.
+### ANTWOORD
+Leport is agent, de bedrijven zijn principaal (1). Asymmetrische informatie: de bedrijven weten niet of Leport efficiënt werkt of tarieven verhoogt (1). Clausule: Leport betaalt een boete of is aansprakelijk voor extra kosten bij te weinig capaciteit (1).
+
+## EXAMEN vwo 2023-I 12 3p
+Bij een kredietverzekering neemt de verzekeraar de rol van principaal over en is het inkopende bedrijf de agent. Leg dit principaal-agentprobleem uit en geef aan welke verzekeringsvoorwaarde het kan verminderen.
+### ANTWOORD
+Tegengestelde belangen: de verzekeraar wil dat er betaald wordt, het inkopende bedrijf kan of wil niet meer betalen (1). Asymmetrische informatie: de verzekeraar weet onvoldoende of het bedrijf kan betalen (1). De derde voorwaarde: doorberekening van de incassokosten (1).
+
+## EXAMEN vwo 2023-II 16 3p
+Beschrijf het principaal-agentprobleem tussen PostNV en de overheid en leg uit hoe toezicht door de mededingingsautoriteit dit probleem kan verminderen.
+### ANTWOORD
+Overheid is principaal en PostNV agent; de overheid wil betaalbare bezorging, PostNV maximale winst of kruissubsidie (1). De overheid heeft te weinig informatie om dat te controleren (1). Toezicht verkleint de informatieachterstand en daarmee de tegenstelling van belangen (1).
+
+## EXAMEN vwo 2024-II 23 3p
+Een expert zegt dat bij overige ondernemingen sprake is van een principaal-agentprobleem en bij zzp'ers niet. Leg dat uit.
+### ANTWOORD
+Bij overige ondernemingen zijn de belangen tegengesteld: bij een hack loopt de werknemer geen inkomensrisico, de werkgever wel. Er is asymmetrische informatie: de werkgever kan niet controleren of voorschriften worden gevolgd. Een zzp'er is zelf principaal en agent.
+
+## EXAMEN vwo 2025-I 6 2p
+Een vergelijkingssite krijgt een vaste vergoeding per afgesloten verzekering. Volgens een econoom ontstaat een principaal-agentprobleem tussen consument (principaal) en site (agent). Leg uit dat dit kan.
+### ANTWOORD
+Tegengestelde belangen: de consument wil de beste of goedkoopste polis, de site kan polissen adviseren waar zij zelf het meest aan verdient (1). Asymmetrische informatie: de consument weet niet of het advies in zijn belang is (1).
+
+## EXAMEN vwo 2025-II 18 2p
+De inspectie let alleen op onderwijskwaliteit, scholen steken veel van hun lumpsum in marketing. Leg uit of er sprake is van een principaal-agentprobleem.
+### ANTWOORD
+Inspectie is principaal, school agent. Asymmetrische informatie: de inspectie ziet niet hoe de lumpsum wordt besteed. Tegengestelde belangen: kwaliteit tegenover leerlingen werven. Dus ja.
+
+## EXAMEN vwo 2026-II 29 3p
+Bij de vergadering gelden verplichte deelname, geen terugtrekking en zelfmeting door landen. Leg het principaal-agentprobleem uit (VN als principaal) en noem een maatregel die het risico vermindert.
+### ANTWOORD
+Tegengestelde belangen: de VN wil klimaatbeleid, landen willen goedkoper produceren (1). Asymmetrische informatie: landen meten zelf en kunnen andere data aanleveren (1). Maatregel: contract met boetes die klimaatbeleid rendabeler maken (1).
+
+
+# LEERDOEL ECO-INFOR-02
+domein: G
+onderwerp: G.info
+thema: Informatieproblemen
+naam: Beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft
+doel: Ik kan beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft.
+
+## UITLEG Asymmetrische informatie
+Benoem wie meer weet en wie minder, en het gevolg (risico of kosten) voor de partij met minder informatie. Bij een tweezijdig probleem verwoord je beide vormen. Oplossingen zijn informatie opvragen, de boekhouding controleren of een keurmerk, al kunnen te veel keurmerken het probleem weer vergroten. Een overheidsvangnet kan juist een prikkel tot meer risico geven.
+
+## UITLEG Zoek- en transactiekosten
+Zoek- en transactiekosten zijn de tijd en moeite om informatie te vinden of een koop te sluiten. Bij onvolledige informatie kost uitzoeken meer tijd, dus de zoekkosten stijgen. Verwar ze niet met de prijs van het product. Bij toezicht nemen de transactiekosten juist toe door controle en contracten, waardoor het een afweging is.
+
+## UITLEG Zelden getoetste begrippen
+Het CV toetst de definitie letterlijk. Maximale omzet: MO = 0, met een lagere prijs dan bij maximale winst. Zoek- en transactiekosten: onvolledige informatie kost tijd, dus hogere kosten; vergelijkingssites geven meer concurrentie. Collectief goed: niet-rivaliserend én niet-uitsluitbaar. Voorraad op een tijdstip, stroom over een periode. Verkeersvergelijking M × V = P × T. Kruissubsidie: winst op het ene product betaalt de lage prijs van het andere.
+
+## EXAMEN vwo 2022-I 20 3p
+Leg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.
+### ANTWOORD
+Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.
+
+## EXAMEN vwo 2023-II 16 3p
+Beschrijf het principaal-agentprobleem tussen PostNV en de overheid en leg uit hoe toezicht door de mededingingsautoriteit dit probleem kan verminderen.
+### ANTWOORD
+Overheid is principaal en PostNV agent; de overheid wil betaalbare bezorging, PostNV maximale winst of kruissubsidie (1). De overheid heeft te weinig informatie om dat te controleren (1). Toezicht verkleint de informatieachterstand en daarmee de tegenstelling van belangen (1).
+
+## EXAMEN vwo 2026-II 6 2p
+Een bureau voert kredietonderzoek uit voor aangesloten kredietverleners. Leg uit dat de inzet van dit bureau de transactiekosten van kredietverleners per saldo kan verminderen.
+### ANTWOORD
+Het bureau kan zich specialiseren, schaalvoordelen halen of door ervaring efficiënter werken (1). Daardoor onderzoekt het tegen lagere kosten dan de kredietverleners zelf (1).
+

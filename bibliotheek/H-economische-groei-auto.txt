@@ -1,0 +1,217 @@
+# LEERDOEL ECO-ALGEM-04
+domein: H
+onderwerp: H.groei
+thema: Economische groei
+naam: Reële groei berekenen met indexcijfers
+doel: Ik kan met indexcijfers de reële groei uitrekenen.
+gens: reeleGroei
+
+## UITLEG Rekenfouten, afronden, eenheden, doorwerkfouten en benaderingen
+Rekenfouten kosten geen punten. Wie kennelijk niet controleert of de uitkomst kan kloppen, verliest 1 punt, hoogstens 3 per examen. Elke juiste afronding is goed. Doorwerken met een fout getal uit een vorige vraag kost meestal niets extra. Duizendtallen vergeten of procentpunten als procenten geven kost hoogstens 1 punt. Benaderingen zoals koopkracht ≈ nominale stijging − inflatie worden goed gerekend.
+
+## UITLEG Inflatie, koopkracht en indexcijfers
+Koopkrachtverandering is ongeveer de nominale stijging min de inflatie, of exact RIC = NIC : PIC × 100. Bij deflatie verwachten consumenten verdere prijsdaling en stellen aankopen uit, waardoor bestedingen en productie dalen; die woorden zijn cursief. Geïmporteerde inflatie ontstaat via koersdaling. Koopkracht gelijkstellen aan de nominale stijging is fout.
+
+## UITLEG Hoogte van de rente, reële rente en koopkracht
+Rente is hoger bij meer risico (geen onderpand), compensatie voor inflatie en door vraag en aanbod van vermogen. Reële rente is nominale rente min inflatie; is die negatief, dan is lenen gunstig. Koopkracht: RIC = NIC : PIC × 100, of grofweg nominale stijging min inflatie. Verwissel nominaal en reëel niet.
+
+## OPGAVE IT-00499 2p | De formules voor reële groei
+Het nominale bbp van Brevoria steeg van € 500 miljard in 2024 naar € 530 miljard in 2025. Het prijsindexcijfer van 2025 is 104,0 (2024 = 100).
+Het nominale indexcijfer van 2025 is ...(1)... . De reële groei bereken je met de formule Ric = ...(2)... . De reële groei van het bbp in 2025 is ...(3)... .
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit: bij (1) 94,3 / 106,0 / 530,0
+bij (2) Nic − Pic / Pic : Nic × 100 / Nic : Pic × 100
+bij (3) 1,9% / 2,0% / 6,0%
+### ANTWOORD
+(1) 106,0, want 530 : 500 × 100. (2) Nic : Pic × 100. (3) 106,0 : 104,0 × 100 = 101,9, dus de reële groei is 1,9%.
+Puntenverdeling:
+• Bij (1) 106,0 en bij (2) Nic : Pic × 100 juist (1)
+• Bij (3) 1,9% (106,0 : 104,0 × 100 = 101,9) (1)
+
+## OPGAVE IT-00500 2p | Reële groei in Selmora
+Selmora is een land met een open economie. De overheid wil weten hoe sterk de productie echt is gegroeid. Het prijsindexcijfer van 2025 is gegeven met 2024 als basisjaar (2024 = 100).
+Gebruik de gegevens in de tabel.
+Tabel Bbp en prijzen van Selmora:
+Jaar | Nominaal bbp (€ miljard) | Prijsindexcijfer (2024 = 100)
+2024 | 820 | 100,0
+2025 | 861 | 102,5
+Bereken de reële groei van het bbp van Selmora in 2025 ten opzichte van 2024. Geef het antwoord in procenten, afgerond op één decimaal.
+### ANTWOORD
+Nominaal indexcijfer: 861 : 820 × 100 = 105,0. Reëel: 105,0 : 102,5 × 100 = 102,4. De reële groei is dus 2,4%.
+Puntenverdeling:
+• Nominaal indexcijfer: 861 : 820 × 100 = 105,0 (nominale groei 5,0%) (1)
+• Reëel indexcijfer: 105,0 : 102,5 × 100 = 102,4, dus de reële groei is 2,4% (1)
+
+## OPGAVE IT-00501 3p | Lomara: groei zonder inflatie
+Lomara is een land dat veel exporteert. Het statistiekbureau van Lomara publiceert elk jaar het nominale bbp. In de tabel staat ook het prijsindexcijfer, met 2023 als basisjaar (2023 = 100).
+Een journalist schrijft dat het bbp in 2025 met 5,0% is gegroeid. Een econoom zegt dat de productie in werkelijkheid minder is toegenomen.
+Tabel Bbp en prijzen van Lomara:
+Jaar | Nominaal bbp (€ miljard) | Prijsindexcijfer (2023 = 100)
+2023 | 418 | 100,0
+2024 | 440 | 103,0
+2025 | 462 | 106,0
+Bereken de reële groei van het bbp van Lomara in 2025 ten opzichte van 2024. Geef het antwoord in procenten, afgerond op één decimaal.
+Doe het als volgt:
+- Bereken de prijsstijging in 2025 ten opzichte van 2024.
+- Bereken de nominale groei als indexcijfer.
+- Bereken de reële groei.
+### ANTWOORD
+Prijsindex 2025 t.o.v. 2024: 106,0 : 103,0 × 100 = 102,9. Nominaal: 462 : 440 × 100 = 105,0. Reëel: 105,0 : 102,9 × 100 = 102,0. De reële groei is 2,0%.
+Puntenverdeling:
+• Prijsindexcijfer 2025 ten opzichte van 2024: 106,0 : 103,0 × 100 = 102,9 (1)
+• Nominaal indexcijfer: 462 : 440 × 100 = 105,0 (1)
+• Reëel indexcijfer: 105,0 : 102,9 × 100 = 102,0, dus de reële groei is 2,0% (1)
+
+## EXAMEN havo 2018-I 8 2p
+Bereken met de gegeven bronnen de procentuele verandering van de consumentenprijsindex in 2013 in Nederland. Rond af op twee decimalen.
+### ANTWOORD
+Nominale verandering bbp: (642,9 − 640,6) : 640,6 × 100% = 0,36%. Daarna 100,36 : 99,3 × 100 = 101,07, dus mutatie CPI 1,07%.
+
+## EXAMEN havo 2019-I 27 2p
+Het nominale Amerikaanse bbp steeg in 2014 met 2,8%. Bereken met bron 1 de reële groei van het bbp in 2014 ten opzichte van 2013.
+### ANTWOORD
+Nominaal 2,8%, inflatie via de prijsindex 2,6% (1 punt). Reëel: 102,8 : 102,6 × 100 = 100,19, dus reële groei is 0,2% (1 punt). Aftrekken 102,8 − 102,6 mag ook voor het tweede punt.
+
+## EXAMEN havo 2021-I 8 3p
+Toon met een berekening aan dat het nominale bbp per hoofd in India tussen 2012 en 2017 bijna is verdubbeld. Gebruik de gegevens over reële groei, inflatie en bevolking uit bron 1.
+### ANTWOORD
+Nominaal bbp: 148,2 × 140,8 : 100 = 208,7. Bevolking: 1.342 : 1.264 × 100 = 106,2. Per hoofd: 208,7 : 106,2 × 100 = 196,5, dus +96,5%: bijna verdubbeld. De benadering met optellen mag ook.
+
+## EXAMEN havo 2022-I 14 1p
+Maak de redenering economisch juist: het bedrijfspensioen was niet waardevast, omdat de ... waarde niet meestijgt met de ... . Kies per open plek uit twee mogelijkheden.
+### ANTWOORD
+(1) nominale (2) inflatie. Beide goed voor 1p.
+
+## EXAMEN havo 2022-I 15 2p
+Gebruik de tekst en bron 1. Toon met een berekening aan dat de koopkracht van de bedrijfspensioenuitkeringen tussen 2014 en 2018 met 4% is gedaald (afgerond op hele procenten).
+### ANTWOORD
+Exact: prijsindex 113,0 : 108,6 = 104,1 (1p). Reëel indexcijfer = 100 : 104,1 × 100 = 96,1, dus koopkracht −3,9%, afgerond 4% (1p). Benadering: 0% − 4,4% mag ook.
+
+## EXAMEN vwo 2026-I 27 3p
+Bereken met tabel 1 (hypotheekschuld in euro's en als % van het bbp, reële groei 2021 en 2022) de inflatie van begin 2021 tot eind 2022.
+### ANTWOORD
+Bbp oud = 740,1 : 0,93 = 795,81 mld; bbp nieuw = 797,6 : 0,83 = 960,96 mld, dus nominaal +20,8%. Reëel: 1,049 × 1,045 → +9,6%. Inflatie = 120,8 : 109,6 × 100 = 110,2, dus 10,2%.
+
+## EXAMEN vwo 2026-II 2 3p
+Een tabel geeft de rijstprijsindex (gewicht 20%), het nominaal bbp per hoofd en de stijging van de overige prijzen met 15%. Bereken de verandering van de koopkracht over 2019-2022 en beargumenteer of de voedselzekerheid is gestegen of gedaald.
+### ANTWOORD
+Prijsindex: 151 × 0,20 + 115 × 0,80 = 122,2. Nominale groei: (2288 − 2050) : 2050 = 11,6%, index 111,6. Reëel: 111,6 : 122,2 × 100 = 91,3. Koopkracht gedaald, dus voedselzekerheid afgenomen. Drie scorepunten bij vier juiste elementen.
+
+
+# LEERDOEL ECO-ALGEM-05
+domein: H
+onderwerp: H.groei
+thema: Economische groei
+naam: Groeistrategieën vergelijken met Y = A × f(K, L)
+doel: Ik kan met Y = A × f(K, L) twee groeiplannen vergelijken.
+
+## UITLEG Concurrentiepositie, loonkosten per product en structurele groei
+Stijgen de lonen sneller dan de arbeidsproductiviteit, dan stijgen de loonkosten per product, worden ze doorberekend in de prijs en verslechtert de concurrentiepositie. Loonkosten per product = loonindex : productiviteitsindex, met conclusie. Innovatie en onderwijs verhogen de productiviteit en de export. Structurele groei is meer of betere productiefactoren; bij groen bbp bespreek je zowel bbp als milieuschade.
+
+## UITLEG Structurele groei, productiecapaciteit en groen bbp
+Structurele groei is groei van de productiecapaciteit. R&D verhoogt de totale factorproductiviteit, dus meer productie bij gelijke inzet en een productiefunctie die omhoog schuift. Publiek kapitaal verhoogt de productiviteit. Groen bbp is bbp min monetaire milieuschade; het CV wil een afweging van beide kanten. Bestedingsgroei (conjunctuur) verwarren met capaciteitsgroei, of bij groen bbp één kant noemen, is fout.
+
+## UITLEG Structurele groei en totale factorproductiviteit
+Structurele groei is groei van de productiecapaciteit, dus van de potentiële productie, door investeringen, onderwijs, infrastructuur of R&D. Verwar dit niet met conjunctuur: meer bestedingen is geen structurele groei. Totale factorproductiviteit geeft aan hoe efficiënt arbeid en kapitaal samen worden ingezet; door R&D stijgt ze en verschuift de productiefunctie omhoog, zodat bij dezelfde inzet meer wordt geproduceerd.
+
+## OPGAVE IT-00502 3p | De drie delen van de productiefunctie
+Het planbureau van Vennemark beschrijft de productie van het land met de productiefunctie Y = A × f(K, L). Een medewerker legt aan nieuwe collega's uit dat de productie van drie dingen afhangt.
+De regering wil de productie per persoon blijvend verhogen en wil weten welke factor daarvoor het belangrijkst is.
+Noem wat A, K en L in de productiefunctie voorstellen en noem welke van deze factoren de productie per persoon structureel verhoogt.
+### ANTWOORD
+K is kapitaal, zoals machines en wegen. L is arbeid, dus de werkenden. A is de factorproductiviteit: hoe slim en efficiënt K en L samen worden ingezet, bijvoorbeeld door technologie. Een hogere A verhoogt de productie per persoon structureel.
+Puntenverdeling:
+• Een juist antwoord bevat: K is kapitaal (machines, gebouwen, infrastructuur) en L is arbeid (aantal werkenden of gewerkte uren) (1)
+• A is de (totale) factorproductiviteit: de technologie of efficiëntie waarmee K en L worden ingezet (1)
+• A (factorproductiviteit) verhoogt de productie per persoon structureel (1)
+
+## OPGAVE IT-00511 3p | Meer inwoners of slimmer produceren in Haldrup
+Haldrup wil de productie laten groeien. Nu wonen er 10 miljoen mensen, van wie 4 miljoen werken. Plan 1: de overheid haalt 1 miljoen arbeidsmigranten naar het land. Zij gaan allemaal in Haldrup wonen en werken. Plan 2: de overheid investeert in onderwijs en onderzoek, zodat bedrijven efficiënter produceren.
+Het ministerie schat de gevolgen. Bij beide plannen blijft de hoeveelheid kapitaal (K) gelijk.
+Tabel Verwachte situatie in Haldrup:
+| Nu | Plan 1 | Plan 2
+Bbp (miljard euro) | 200 | 215 | 208
+Aantal inwoners (miljoen) | 10 | 11 | 10
+Aantal werkenden (miljoen) | 4 | 5 | 4
+Beredeneer met behulp van Y = A × f(K, L) welk plan het bbp per hoofd structureel verhoogt.
+Doe het als volgt:
+- Geef per plan aan welke factor uit de productiefunctie verandert.
+- Bereken per plan het bbp per hoofd en vergelijk dit met nu.
+### ANTWOORD
+Bij plan 1 stijgt L, bij plan 2 stijgt A. K blijft gelijk. Nu is het bbp per hoofd 200 miljard : 10 miljoen = € 20.000. Bij plan 1 is het 215 miljard : 11 miljoen = € 19.545,45, dus lager. Bij plan 2 is het 208 miljard : 10 miljoen = € 20.800. Een hogere A geeft structureel meer productie met dezelfde K en L. Plan 2 verhoogt het bbp per hoofd structureel.
+Puntenverdeling:
+• Een juist antwoord bevat: Plan 1: L stijgt (van 4 naar 5 miljoen werkenden, +25%); plan 2: A stijgt; K blijft bij beide gelijk (1)
+• Bbp per hoofd nu € 20.000 (200 miljard : 10 miljoen); plan 1 € 19.545,45 (215 miljard : 11 miljoen), dus lager dan nu; plan 2 € 20.800 (208 miljard : 10 miljoen), dus hoger dan nu (1)
+• Conclusie: plan 2 verhoogt het bbp per hoofd structureel, want een hogere A geeft meer productie met dezelfde inzet van K en L. Plan 1 niet: bij gelijke K stijgt Y minder dan evenredig met L (afnemende meeropbrengst), terwijl het aantal inwoners relatief meer stijgt (+10% tegenover +7,5% bbp) (1)
+
+## OPGAVE IT-00512 3p | Krimpende beroepsbevolking in Veldrijk
+In Veldrijk gaan veel mensen met pensioen. Zonder maatregelen daalt het aantal werkenden met 4%, terwijl het aantal inwoners gelijk blijft op 12 miljoen. Twee economen doen een voorstel. Econoom P wil de pensioenleeftijd verhogen. Econoom Q wil subsidie geven voor onderzoek en scholing.
+Het ministerie schat de gevolgen van beide voorstellen. De hoeveelheid kapitaal (K) blijft bij beide gelijk.
+Tabel Verwachte situatie in Veldrijk:
+| Nu | Voorstel P | Voorstel Q
+Bbp (miljard euro) | 300 | 300 | 312
+Aantal inwoners (miljoen) | 12 | 12 | 12
+Aantal werkenden (miljoen) | 6,00 | 6,00 | 5,76
+Beredeneer met Y = A × f(K, L) welk voorstel het bbp per inwoner ten opzichte van nu structureel verhoogt.
+### ANTWOORD
+Bij P blijft L gelijk, en A en K ook. Het bbp blijft 300 miljard, dus per inwoner 300 miljard : 12 miljoen = € 25.000, net als nu. P voorkomt alleen een daling. Bij Q daalt L, maar het bbp stijgt naar 312 miljard. Dat kan alleen door een hogere A. Per inwoner is dat 312 miljard : 12 miljoen = € 26.000. Q verhoogt het bbp per inwoner structureel.
+Puntenverdeling:
+• Een juist antwoord bevat: Voorstel P: L blijft gelijk aan nu, A en K veranderen niet, dus Y blijft 300 miljard en het bbp per inwoner blijft € 25.000 (300 miljard : 12 miljoen): geen stijging ten opzichte van nu (1)
+• Voorstel Q: L daalt (5,76 miljoen werkenden), toch stijgt Y naar 312 miljard. Dat kan alleen doordat A stijgt; het bbp per inwoner wordt € 26.000 (312 miljard : 12 miljoen), hoger dan nu (1)
+• Conclusie: voorstel Q verhoogt het bbp per inwoner structureel, omdat een hogere A blijvend meer productie geeft met dezelfde of minder inzet van K en L (1)
+
+## EXAMEN havo 2021-II 8 2p
+Leg uit hoe innovatie het tekort op de lopende rekening van de VS wel structureel kan oplossen.
+### ANTWOORD
+Innovatie verhoogt de arbeidsproductiviteit, waardoor de concurrentiepositie van de VS verbetert (1). Dit geeft meer export met hogere ontvangsten of minder import met lagere uitgaven, dus een kleiner tekort (1).
+
+## EXAMEN havo 2022-I 1 2p
+Verklaar dat economische groei in Nederland wordt bevorderd als meer jongeren een studie volgen.
+### ANTWOORD
+Studeren verhoogt het opleidingsniveau en de arbeidsproductiviteit (1p). Daardoor stijgt de productie, dus het bbp (1p). Aanvulling: groei moet aan productie gekoppeld zijn.
+
+## EXAMEN havo 2023-I 14 2p
+Leg uit dat de nieuwe regeling voor fiscale bijtelling gunstig kan werken op innovatie en daarmee op structurele economische groei.
+### ANTWOORD
+Werknemers kiezen een auto met lage uitstoot, dus autofabrikanten ontwikkelen schonere technieken. Nieuwe technieken verhogen kwaliteit of kwantiteit van de productiefactoren en geven structurele groei.
+
+## EXAMEN havo 2026-II 15 2p
+Econoom B wil geld overhouden voor innovatieprojecten, omdat de beroepsbevolking krimpt. Leg uit hoe dat een groter personeelstekort kan voorkomen.
+### ANTWOORD
+Innovatie verhoogt de arbeidsproductiviteit of leidt tot automatisering. Dan is voor dezelfde productie minder personeel nodig, dus een groter tekort wordt voorkomen.
+
+## EXAMEN vwo 2021-I 27 2p
+Een overheid voert een leerplicht in en ondersteunt scholing financieel. Leg uit hoe de leerplicht heeft geleid tot meer economische groei.
+### ANTWOORD
+Jongeren gaan langer naar school en bouwen meer kennis op, dus de arbeidsproductiviteit stijgt. Dit geeft meer productie, eventueel hogere lonen. Of: lagere loonkosten per product, betere concurrentiepositie, meer export en meer productie. Zo neemt de groei toe. Volgens de aanvulling is het woord arbeidsproductiviteit niet verplicht.
+
+## EXAMEN vwo 2023-II 5 2p
+Onderzoekers stellen dat extra investeringen in R&D bij dezelfde inzet van productiefactoren de structurele groei verhogen. Leg dit uit en betrek de totale factorproductiviteit.
+### ANTWOORD
+R&D verhoogt de productiviteit van kapitaal en arbeid, dus de totale factorproductiviteit stijgt (1). Bij gelijke inzet groeit daardoor de productiecapaciteit en dus de structurele groei (1).
+
+## EXAMEN vwo 2024-I 29 2p
+Leg uit dat stimulering van R&D-investeringen de totale factorproductiviteit op lange termijn kan verhogen en de productiefunctie van Y1 naar Y2 verschuift.
+### ANTWOORD
+R&D versnelt productieprocessen, dus de totale factorproductiviteit stijgt (1). Bij elke inzet van arbeid is de productie hoger, dus de productiefunctie verschuift van Y1 naar Y2 (1).
+
+
+# LEERDOEL ECO-GROEI-01
+domein: H
+onderwerp: H.groei
+thema: Economische groei
+naam: Uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten
+doel: Ik kan uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten.
+gens: productiviteit
+
+## UITLEG Kostenbegrippen TCK, TVK, GVK, GTK, MK
+TK = TCK + TVK, GTK = TK : q, MK = TK'. Progressief variabele kosten laten MK en GVK stijgen. Schaalvoordeel: constante kosten verdelen over meer eenheden, dus lagere gemiddelde kosten; de constante kosten moeten verwoord worden. Break-even bij TO = TK. Op korte termijn doorproduceren zolang P groter is dan GVK. Een sluitingsbeslissing op GTK baseren is fout.
+
+## UITLEG Afnemende meeropbrengsten
+Elke extra arbeider levert minder extra productie op dan de vorige: de productiecurve vlakt af. Daardoor stijgen de kosten per extra product. Noem de daling van de extra productie per arbeider en het gevolg voor de kosten. Het betekent niet dat de totale productie daalt; dat is de veelgemaakte fout.
+
+## EXAMEN vwo 2024-I 28 2p
+Leg met productiefunctie Y1 uit dat de marginale winst van extra productie afneemt als de inzet van arbeid toeneemt.
+### ANTWOORD
+Afnemende meeropbrengsten: de curve vlakt af, dus de extra productie per extra arbeider neemt af (1). De arbeidskosten per extra product stijgen bij gelijk loon, dus de marginale winst daalt (1).
+

@@ -1,5 +1,263 @@
 // AUTOMATISCH GEMAAKT door tools/bibliotheek.py uit bibliotheek/*.txt. Niet met de hand wijzigen.
 // Bron: Oefentool_Bibliotheek "Economie havo-vwo" (Google Drive): uitleg, goedgekeurde oefenopgaven en examenvragen per leerdoel.
+LEVELS.C.push(...[
+{
+"id": "C.PROTE01",
+"hfd": "Thema Internationale handel",
+"naam": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"kort": "Ik kan uitleggen wat een importheffing betekent voor producenten en consumenten.",
+"doel": "Ik kan uitleggen wat een importheffing betekent voor producenten en consumenten.",
+"bron": "ECO-PROTE-01",
+"uitleg": [
+{
+"t": "Internationale handel en protectie",
+"x": "Een importheffing maakt het importproduct duurder dan binnenlandse substituten, dus de vraag naar import daalt. Bescherming van een jonge industrie geeft ruimte voor schaalvoordelen en innovatie. Een tegenmaatregel maakt er een sequentieel spel van: prijzen stijgen, bestedingen en bbp dalen. Directe investeringen omzeilen de heffing. Houd korte en lange termijn uit elkaar; bij een stelling over afhankelijkheid beide kanten (import én export) noemen."
+},
+{
+"t": "Protectie met een importheffing",
+"x": "Een importheffing beschermt binnenlandse bedrijven: het importproduct wordt duurder dan het binnenlandse, dus de import daalt. Een tegenmaatregel van het andere land maakt er een sequentieel spel van dat kan uitlopen op een handelsoorlog en de export en groei drukt. Bij een stelling over afhankelijkheid noem je zowel import als export."
+}
+],
+"vragen": [
+{
+"id": "C.PROTE01.IT00535",
+"t": "open",
+"e": "C.intl",
+"titel": "Fietsaccu's uit Tarnia",
+"q": "Het land Valmeer koopt veel fietsaccu's uit het buitenland. Een accu uit Tarnia kost in Valmeer € 200. Een vergelijkbare accu van het Valmeerse bedrijf Accuwerk kost € 230.\nDe overheid van Valmeer wil Accuwerk beschermen en voert een importheffing in op accu's uit Tarnia.\nGeef aan wat een importheffing is en wat er door deze heffing gebeurt met de prijs van een accu uit Tarnia in Valmeer.",
+"model": "Een importheffing is een belasting die de overheid heft op producten die uit het buitenland worden ingevoerd. De accu uit Tarnia wordt daardoor duurder in Valmeer.\nPuntenverdeling:\n• Een importheffing is een belasting die de overheid heft op producten die uit het buitenland komen. Een importheffing is een belasting op ingevoerde (geïmporteerde) producten (1)\n• De prijs van de accu uit Tarnia in Valmeer stijgt (het importproduct wordt duurder) (1)",
+"pnt": 2
+},
+{
+"id": "C.PROTE01.IT00536",
+"t": "open",
+"e": "C.intl",
+"titel": "Elektrische fietsen uit Brenau",
+"q": "In het land Noordmark maakt het bedrijf Dorrevaart elektrische fietsen. Fietsen uit het buitenland zijn goedkoper. Een fiets uit Brenau kost in Noordmark € 1.000, een fiets van Dorrevaart € 1.150.\nOm Dorrevaart te beschermen voert Noordmark een importheffing van 20% in op elektrische fietsen uit Brenau.\nLeg uit wat de importheffing betekent voor Dorrevaart en voor de consumenten in Noordmark.\nDoe het als volgt:\n- Bereken de nieuwe prijs van een fiets uit Brenau.\n- Leg uit wat dit betekent voor de afzet van Dorrevaart.\n- Leg uit wat dit betekent voor de consumenten.",
+"model": "De fiets uit Brenau kost door de heffing € 1.200 en is nu duurder dan die van Dorrevaart (€ 1.150). Consumenten kopen daarom meer bij Dorrevaart, dus Dorrevaart verkoopt en produceert meer. Consumenten betalen wel meer dan zonder heffing (€ 1.150 in plaats van € 1.000).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen. De fiets uit Brenau wordt duurder: € 1.000 + 20% = € 1.200, dus duurder dan de fiets van Dorrevaart (€ 1.150) (1)\n• Consumenten kopen daardoor meer bij Dorrevaart, dus de afzet (en productie) van Dorrevaart stijgt (1)\n• Consumenten betalen een hogere prijs (of hebben minder keuze) dan zonder heffing (1)",
+"pnt": 3
+},
+{
+"id": "C.PROTE01.IT00537",
+"t": "open",
+"e": "C.intl",
+"titel": "Wandelschoenen in Estavia",
+"q": "Het land Estavia heft sinds dit jaar een importheffing van 25% op wandelschoenen uit het buitenland. De regering wil de Estaviase schoenmakers beschermen. De tabel toont de prijs van een paar wandelschoenen in Estavia.\nDe heffing wordt betaald door de importeur en volledig doorberekend in de verkoopprijs.\nTabel Prijs per paar wandelschoenen in Estavia (in euro's):\nProduct | Prijs zonder heffing | Prijs met heffing\nGeïmporteerd | € 80 | € 100\nEstaviaas product | € 92 | € 92\nLeg uit wat de importheffing betekent voor de afzet van de Estaviase schoenmakers en voor de prijs die consumenten minimaal betalen voor wandelschoenen.\nGebruik de tabel.",
+"model": "Door de heffing kosten geïmporteerde schoenen € 100 en zijn ze duurder dan de Estaviase schoenen van € 92. Consumenten kopen daarom meer Estaviase schoenen, dus de schoenmakers verkopen meer. De goedkoopste schoenen kosten nu € 92 in plaats van € 80, dus consumenten betalen meer.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen. Door de heffing stijgt de prijs van geïmporteerde schoenen van € 80 naar € 100 (80 + 25% = 100), dus de import is duurder dan het Estaviase product (€ 92) (1)\n• Consumenten stappen over op het Estaviase product, dus de afzet van de Estaviase schoenmakers stijgt (1)\n• De laagste prijs voor consumenten stijgt van € 80 naar € 92 (1)",
+"pnt": 3
+}
+],
+"gens": []
+},
+{
+"id": "C.PROTE02",
+"hfd": "Thema Internationale handel",
+"naam": "Uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden",
+"kort": "Ik kan uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden.",
+"doel": "Ik kan uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden.",
+"bron": "ECO-PROTE-02",
+"uitleg": [
+{
+"t": "Internationale handel en protectie",
+"x": "Een importheffing maakt het importproduct duurder dan binnenlandse substituten, dus de vraag naar import daalt. Bescherming van een jonge industrie geeft ruimte voor schaalvoordelen en innovatie. Een tegenmaatregel maakt er een sequentieel spel van: prijzen stijgen, bestedingen en bbp dalen. Directe investeringen omzeilen de heffing. Houd korte en lange termijn uit elkaar; bij een stelling over afhankelijkheid beide kanten (import én export) noemen."
+},
+{
+"t": "Protectie met een importheffing",
+"x": "Een importheffing beschermt binnenlandse bedrijven: het importproduct wordt duurder dan het binnenlandse, dus de import daalt. Een tegenmaatregel van het andere land maakt er een sequentieel spel van dat kan uitlopen op een handelsoorlog en de export en groei drukt. Bij een stelling over afhankelijkheid noem je zowel import als export."
+}
+],
+"vragen": [
+{
+"id": "C.PROTE02.IT00304",
+"t": "open",
+"e": "C.intl",
+"titel": "Schoenen uit Oosterwijk",
+"q": "Het land Brenland voert een importheffing in op schoenen uit Oosterwijk. Brenlandse schoenenfabrikanten juichen dit toe. Zij hopen dat consumenten meer Brenlandse schoenen kopen.\nLeg uit hoe de importheffing kan leiden tot meer productie en werkgelegenheid bij Brenlandse schoenenfabrikanten.\nMaak de keten af:\nimportheffing → prijs van Oosterwijkse schoenen stijgt → (1) ... → (2) ... → productie en werkgelegenheid in Brenland stijgen",
+"model": "(1) De vraag naar Oosterwijkse schoenen daalt en consumenten kiezen vaker Brenlandse schoenen. (2) Brenlandse fabrikanten verkopen meer, produceren meer en hebben meer personeel nodig. Dus stijgen productie en werkgelegenheid.\nPuntenverdeling:\n• Een juiste uitleg bevat de volgende schakels: Door de hogere prijs daalt de vraag naar geïmporteerde schoenen en verschuift de vraag naar (goedkopere) Brenlandse schoenen (1)\n• Brenlandse fabrikanten verkopen meer en produceren daardoor meer, waardoor er meer werknemers nodig zijn (werkgelegenheid stijgt) (1)",
+"pnt": 2
+},
+{
+"id": "C.PROTE02.IT00305",
+"t": "open",
+"e": "C.intl",
+"titel": "Tegenmaatregel op landbouwmachines",
+"q": "Maldor heft een importheffing op meubels uit Kerrin. Kerrin reageert met een eigen importheffing op landbouwmachines uit Maldor. Maldorse machinefabrieken verkopen veel aan Kerrinse boeren.\nLeg uit hoe de tegenmaatregel van Kerrin ervoor zorgt dat het bbp van Maldor minder groeit.\nMaak de keten af:\nKerrin heft importheffing op machines → Maldorse machines worden duurder in Kerrin → (1) ... → (2) ... → (3) ... → het bbp van Maldor groeit minder",
+"model": "(1) Kerrinse boeren kopen minder Maldorse machines, dus de export van Maldor daalt. (2) Maldorse machinefabrieken verkopen minder en produceren minder. (3) Omdat de productie lager is, groeit het bbp van Maldor minder.\nPuntenverdeling:\n• Een juiste uitleg bevat de volgende schakels: Kerrinse boeren kopen minder Maldorse machines (vraag daalt), dus de export van Maldor daalt (1)\n• Maldorse machinefabrieken produceren daardoor minder (1)\n• Minder productie in Maldor betekent dat het bbp minder groeit (1)",
+"pnt": 3
+},
+{
+"id": "C.PROTE02.IT00306",
+"t": "open",
+"e": "C.intl",
+"titel": "Elektrische bussen en zuivel",
+"q": "Valdoria heft een importheffing op elektrische bussen uit Kestaland. Zo wil de regering de kleine, jonge busindustrie van Valdoria beschermen.\nKestaland neemt een tegenmaatregel: het heft een importheffing op Valdorese zuivel. Kestaland is de grootste afnemer van zuivel uit Valdoria. De zuivelsector is veel groter dan de busindustrie.\nBeredeneer dat de importheffing en de tegenmaatregel samen kunnen leiden tot een lagere groei van het bbp van Valdoria.\nDoe het als volgt:\n- beschrijf het effect van de eigen importheffing van Valdoria;\n- beschrijf het effect van de tegenmaatregel van Kestaland;\n- vergelijk beide effecten en trek een conclusie over het bbp.",
+"model": "De heffing maakt Kestalandse bussen duurder, dus kopen mensen meer Valdorese bussen en stijgt de productie daar. Kestaland maakt zuivel duurder, dus de export daalt en zuivelbedrijven produceren minder. Die sector is groter, dus het verlies weegt zwaarder en het bbp groeit minder.\nPuntenverdeling:\n• Een juiste beredenering bevat de volgende elementen: Door de importheffing worden Kestalandse bussen duurder, de vraag verschuift naar Valdorese bussen en de productie van de busindustrie stijgt (1)\n• Door de tegenmaatregel wordt Valdorese zuivel duurder in Kestaland, dus de export van zuivel daalt (1)\n• Zuivelbedrijven produceren daardoor minder (1)\n• Conclusie: de productiedaling in de grote zuivelsector is groter dan de productiestijging in de kleine busindustrie, dus het bbp groeit minder (1)",
+"pnt": 4
+},
+{
+"id": "C.PROTE02.IT00307",
+"t": "open",
+"e": "C.intl",
+"titel": "Zonnepanelen en medische apparatuur",
+"q": "Terravia voert een importheffing in op zonnepanelen uit Solmark. Zo wil de overheid de eigen paneelproducenten ondersteunen. De heffing maakt panelen in Terravia duurder.\nSolmark reageert met een importheffing op medische apparatuur uit Terravia. Deze apparatuur is een belangrijk exportproduct van Terravia. Producenten van de apparatuur hebben veel werknemers.\nBeredeneer dat de importheffing van Terravia en de tegenmaatregel van Solmark samen het bbp van Terravia minder kunnen laten groeien.\nDoe het als volgt:\n- beschrijf de gevolgen van de importheffing voor de vraag naar zonnepanelen;\n- beschrijf de gevolgen van de tegenmaatregel voor export en productie;\n- sluit af met een conclusie over het bbp.",
+"model": "De heffing maakt Solmarkse panelen duurder, dus de vraag verschuift naar Terravische panelen. Solmark maakt Terravische medische apparatuur duurder, dus de export daalt en de producenten maken minder. Die sector is groot, dus de productiedaling weegt zwaarder en het bbp groeit minder.\nPuntenverdeling:\n• Een juiste beredenering bevat de volgende elementen: Door de importheffing worden zonnepanelen in Terravia duurder, de vraag naar geïmporteerde panelen daalt en de vraag naar Terravische panelen stijgt (of: de afname van panelen daalt door de hogere prijs) (1)\n• Door de tegenmaatregel van Solmark wordt medische apparatuur uit Terravia duurder en daalt de export van deze apparatuur (1)\n• Producenten van medische apparatuur produceren daardoor minder (1)\n• Conclusie: de productiedaling door lagere export is groter dan de winst voor de paneelproducenten, dus het bbp groeit minder (1)",
+"pnt": 4
+},
+{
+"id": "C.PROTE02.IT00538",
+"t": "open",
+"e": "C.intl",
+"titel": "Tegels en koelkasten",
+"q": "Het land Aldoria heft een importheffing op keramische tegels uit Brevin. De regering wil de eigen tegelfabrieken beschermen.\nBrevin overweegt een tegenmaatregel. Aldorese fabrikanten van koelkasten verkopen een groot deel van hun productie aan Brevin.\nLeg uit welke tegenmaatregel Brevin kan nemen en wat die maatregel doet met de export en de productie van Aldoria.",
+"model": "Brevin kan een importheffing instellen op Aldorese koelkasten. Daardoor worden die koelkasten duurder in Brevin en kopen Brevinners er minder van, dus de export van Aldoria daalt. De Aldorese fabrikanten verkopen minder en produceren daarom minder.\nPuntenverdeling:\n• Een juiste uitleg bevat de volgende elementen: Brevin kan een importheffing instellen op Aldorese koelkasten, waardoor deze koelkasten duurder worden in Brevin, dus de vraag daalt en de export van Aldoria daalt (1)\n• Aldorese koelkastfabrikanten verkopen minder en produceren daardoor minder (de productie in Aldoria daalt) (1)",
+"pnt": 2
+},
+{
+"id": "C.PROTE02.IT00539",
+"t": "open",
+"e": "C.intl",
+"titel": "E-bikes en wijn",
+"q": "Norvik heft een importheffing op e-bikes uit Pelmar. De regering wil de kleine, jonge e-bikeindustrie van Norvik beschermen.\nPelmar reageert met een importheffing op wijn uit Norvik. Pelmar is de grootste afnemer van Norvikse wijn. De wijnsector is veel groter dan de e-bikeindustrie en levert veel werk op in landelijke gebieden.\nBeredeneer dat de importheffing van Norvik en de tegenmaatregel van Pelmar samen kunnen leiden tot een lagere groei van het bbp van Norvik.",
+"model": "Pelmar maakt Norvikse wijn duurder, dus Pelmarse klanten kopen minder wijn en de export van Norvik daalt. Wijnbedrijven verkopen minder en produceren minder. De wijnsector is veel groter dan de e-bikeindustrie, dus de productiedaling is groter dan de stijging bij de e-bikes. Het bbp groeit daardoor minder.\nPuntenverdeling:\n• Een juiste beredenering bevat de volgende elementen: Door de tegenmaatregel wordt Norvikse wijn duurder in Pelmar, dus de vraag naar Norvikse wijn daalt en de export van wijn daalt (1)\n• Norvikse wijnbedrijven verkopen minder en produceren daardoor minder (de productie in de wijnsector daalt) (1)\n• Conclusie: de productiedaling in de grote wijnsector is groter dan de productiestijging in de kleine e-bikeindustrie (door de bescherming), dus het bbp van Norvik groeit minder (1)",
+"pnt": 3
+}
+],
+"gens": []
+},
+{
+"id": "C.WISSE01",
+"hfd": "Thema Internationale handel",
+"naam": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"kort": "Ik kan uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt.",
+"doel": "Ik kan uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt.",
+"bron": "ECO-WISSE-01",
+"uitleg": [
+{
+"t": "Wisselkoers, valutamarkt en betalingsbalans",
+"x": "De koers volgt uit vraag naar en aanbod van de munt: vertrekt kapitaal, dan stijgt het aanbod en daalt de koers. Koersdaling maakt export goedkoper en import duurder. De omgekeerde koers is 1 gedeeld door de koers. De betalingsbalans heeft een lopende rekening (goederen, diensten, primaire inkomens) en een kapitaalrekening; bij invulvragen moeten rekening én richting kloppen. Toerisme is dienstenexport."
+},
+{
+"t": "Wisselkoers, export en concurrentiepositie",
+"x": "Rekent men € 1 = X vreemde munt, dan is 1 vreemde munt = 1 : X euro. Koersdaling maakt onze producten goedkoper voor het buitenland (export stijgt) en import duurder. Een vaste koers voorkomt duurdere import, maar ook goedkopere export. Hogere kosten worden doorberekend in de prijs en verslechteren de concurrentiepositie."
+},
+{
+"t": "Appreciatie, depreciatie en export",
+"x": "Appreciatie en depreciatie volgen uit de vraag naar of het aanbod van een munt; een hogere rente trekt buitenlandse beleggers, vergroot de vraag en laat de koers stijgen. Spring niet direct van rente naar koers. Een duurdere munt maakt export in vreemde valuta duurder, dus de export en de productie dalen. Buitenlandse kopers kijken naar de prijs in hun eigen valuta."
+}
+],
+"vragen": [
+{
+"id": "C.WISSE01.h18116",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2018-I, vraag 16)\nSuiker wordt op de wereldmarkt in US dollar geprijsd. Leg met de bron uit dat de export van het staatsbedrijf naar de EU zal toenemen.",
+"model": "Uit bron 2 blijkt dat de euro ten opzichte van de US dollar is gestegen. Daardoor is suiker relatief goedkoper geworden voor afnemers in de EU.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h18210",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2018-II, vraag 10)\nVolgens het artikel verslechtert de concurrentiepositie van Nederlandse agrariërs door de koersdaling van het pond. Leg uit op welke twee manieren dat gebeurt.",
+"model": "1) Nederlandse agrarische producten worden duurder op de Britse markt. 2) Britse agrarische producten worden goedkoper op de EU-markt, Nederlandse markt of wereldmarkt.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h19116",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2019-I, vraag 16)\nAruba heeft een tekort op de betalingsbalans en een vaste koers van de florin ten opzichte van de dollar. Vul het schema van bron 1 in door bij elke letter het juiste schuin gedrukte begrip te kiezen.",
+"model": "a daalt, b kopen, c daalt. Voor elke fout 1 punt aftrek. Aanvulling op het voorschrift: bij deze vraag altijd 2 punten toekennen, omdat bron 1 'belastingsbalans' noemt.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h19117",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2019-I, vraag 17)\nLeg uit dat bij een tekort op de betalingsbalans de vaste wisselkoers inflatie tegengaat.",
+"model": "Door het tekort is het aanbod van florins groter dan de vraag. Bij een flexibele koers zou de florin dalen en import duurder worden (1 punt). Door de vaste koers is er geen geïmporteerde inflatie (1 punt).",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h19118",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2019-I, vraag 18)\nLeg uit dat Amerikaanse toeristen door de vaste wisselkoers bij een tekort op de betalingsbalans niet kunnen profiteren van een koersvoordeel.",
+"model": "Door het tekort is het florinaanbod groter dan de vraag. Bij een flexibele koers daalt de florin en wordt Aruba goedkoper voor Amerikaanse toeristen (1 punt). Door de vaste koers worden ze niet goedkoper uit (1 punt).",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h21124",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2021-I, vraag 24)\nDe Zwitserse centrale bank verlaagt de rente. Maak een juiste tekst over het aantal beleggers uit eurolanden dat in Zwitserland belegt en over de gevolgen voor de vraag naar frank en de koers.",
+"model": "(1) minder; (2) dalen; (3) dalen. Eén punt voor (1) en één punt voor (2) en (3) samen.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h22124",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2022-I, vraag 24)\nLeg uit dat de koersdaling van de euro bijdraagt aan de economische groei in de eurozone.",
+"model": "Import wordt duurder, dus er worden meer Europese producten gevraagd (1p), waardoor de productie en de groei toenemen (1p). Of: export neemt toe doordat Europese producten goedkoper worden (1p), met meer productie en groei (1p).",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.h23118",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen havo 2023-I, vraag 18)\nLeg uit dat een renteverlaging door de ECB de internationale concurrentiepositie van de VS verslechtert.",
+"model": "Route 1: lagere rente verlaagt kosten van Europese producenten, dus Europese prijzen dalen ten opzichte van Amerikaanse. Route 2: relatief hoge rente in de VS trekt kapitaal aan, de dollar apprecieert en Amerikaanse producten worden in euro's duurder.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.v18219",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen vwo 2018-II, vraag 19)\nVerklaar dat vóór de muntunie een verslechterde concurrentiepositie in het Zuiden via de wisselkoers in zekere mate kon worden tegengegaan.",
+"model": "Door de slechtere concurrentiepositie daalt de export, dus de vraag naar de eigen valuta en de wisselkoers. Export wordt in vreemde valuta goedkoper en import in eigen valuta duurder, waardoor de concurrentiepositie kan verbeteren.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.v1913",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen vwo 2019-I, vraag 3)\nLeg uit dat een hogere rente in de VS via de kapitaalrekening de dollarkoers beïnvloedt en daarmee via de lopende rekening de bbp-groei kan afremmen.",
+"model": "Hogere rente maakt beleggen in de VS aantrekkelijk, dus er is meer vraag naar dollars en de koers stijgt. Amerikaanse producten worden voor het buitenland duurder, de export daalt en de bbp-groei kan afnemen. Twee punten per deel.",
+"pnt": 4
+},
+{
+"id": "C.WISSE01.v19118",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen vwo 2019-I, vraag 18)\nLeg uitsluitend met informatie uit tabel 1 uit dat de stijging van de exportwaarde 1995-2015 door een waardeverandering van de pesto kan komen.",
+"model": "De importwaarde is groter dan de exportwaarde, dus het saldo op de lopende rekening is negatief. Er worden meer pesto's aangeboden dan gevraagd, dus de pesto daalt in waarde. Producten uit Pesthan worden goedkoper voor het buitenland en de export stijgt.",
+"pnt": 2
+},
+{
+"id": "C.WISSE01.v21120",
+"t": "open",
+"e": "C.intl",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "(Examen vwo 2021-I, vraag 20)\nEen land devalueert 20%. De prijselasticiteit van de export is −0,5 en die van de import −0,4. Toon met een berekening aan dat de importwaarde in eigen valuta sterker toeneemt dan de exportwaarde.",
+"model": "Exportprijs in vreemde valuta −20%, dus exportvolume +10% (1). Importprijs in eigen valuta 1 : 0,8 = 1,25, dus +25%, importvolume −10% (1). Exportwaarde: 100 × 1,1 = 110. Importwaarde: 100 × 0,9 × 1,25 = 112,5. Importwaarde stijgt dus meer (1).",
+"pnt": 3
+}
+],
+"gens": []
+}
+]);
 LEVELS.D.push(...[
 {
 "id": "D.BELAS02",
@@ -90,7 +348,7 @@ LEVELS.D.push(...[
 "t": "mc",
 "e": "D.heffing",
 "titel": "Accijns op frisdrank in Marenia",
-"q": "In het land Marenia heft de overheid sinds kort een accijns van € 1,60 per fles frisdrank. De aanbieders dragen de accijns af aan de overheid.\nDe figuur is een schets van de markt voor frisdrank. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns. Het evenwicht voor en na invoering van de accijns is aangegeven.\nFiguur (markt, schets zonder getallen): vraag P = 10 − 0.5Q, aanbod P = 2 + 0.3Q, heffing 1.6 per stuk\nWelke combinatie geeft in de figuur juist aan hoe je de accijnsopbrengst en het welvaartsverlies arceert?",
+"q": "In het land Marenia heft de overheid sinds kort een accijns van € 1,60 per fles frisdrank. De aanbieders dragen de accijns af aan de overheid.\nDe figuur is een schets van de markt voor frisdrank. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns. Het evenwicht voor en na invoering van de accijns is aangegeven.\nDe figuur is een schets van deze markt: vraag P = 10 − 0,5Q, aanbod P = 2 + 0,3Q, heffing 1.6 per stuk\nWelke combinatie geeft in de figuur juist aan hoe je de accijnsopbrengst en het welvaartsverlies arceert?",
 "pnt": 1,
 "o": [
 "Accijnsopbrengst: de rechthoek tussen de prijs die de consument betaalt en de prijs die de aanbieder overhoudt, tot de nieuwe afzet. Welvaartsverlies: de driehoek tussen de vraaglijn en de aanbodlijn inclusief accijns, rechts van de nieuwe afzet.",
@@ -106,7 +364,7 @@ LEVELS.D.push(...[
 "t": "open",
 "e": "D.heffing",
 "titel": "Accijns op ontbijtgranen in Drevia",
-"q": "In het land Drevia voert de overheid een accijns in van € 3,00 per doos ontbijtgranen met veel suiker. De groothandels dragen de accijns af aan de overheid.\nDe figuur is een schets van de markt voor deze ontbijtgranen. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns.\nEen raadslid wil de opbrengst van de accijns gebruiken voor gezondheidsprogramma's. Zij vraagt zich af of de overheid ook iets overhoudt aan de dozen die door de accijns niet meer worden verkocht.\nFiguur (markt, schets zonder getallen): vraag P = 14 − 1Q, aanbod P = 2 + 0.5Q, heffing 3 per stuk\nLeg uit, met behulp van de figuur, dat het welvaartsverlies door de accijns de overheid niets oplevert.",
+"q": "In het land Drevia voert de overheid een accijns in van € 3,00 per doos ontbijtgranen met veel suiker. De groothandels dragen de accijns af aan de overheid.\nDe figuur is een schets van de markt voor deze ontbijtgranen. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns.\nEen raadslid wil de opbrengst van de accijns gebruiken voor gezondheidsprogramma's. Zij vraagt zich af of de overheid ook iets overhoudt aan de dozen die door de accijns niet meer worden verkocht.\nDe figuur is een schets van deze markt: vraag P = 14 − 1Q, aanbod P = 2 + 0,5Q, heffing 3 per stuk\nLeg uit, met behulp van de figuur, dat het welvaartsverlies door de accijns de overheid niets oplevert.",
 "model": "Het welvaartsverlies is de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet. Dat zijn de dozen die door de accijns niet meer worden verkocht. De overheid krijgt de accijns alleen over dozen die wel worden verkocht: de opbrengst is de rechthoek tot de nieuwe afzet. Over de dozen in de driehoek wordt dus geen accijns betaald. Het surplus van deze transacties verdwijnt, en niemand ontvangt het, ook de overheid niet.\nPuntenverdeling:\n• Het welvaartsverlies bestaat uit de transacties die door de accijns niet meer plaatsvinden: de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet (tot de oude afzet). (1)\n• De accijns wordt alleen betaald over de dozen die nog worden verkocht (de opbrengst is de rechthoek tot de nieuwe afzet). Over de dozen die niet meer worden verkocht wordt geen accijns betaald, dus de overheid ontvangt hierover niets. (1)",
 "pnt": 2
 },
@@ -115,7 +373,7 @@ LEVELS.D.push(...[
 "t": "open",
 "e": "D.heffing",
 "titel": "Heffing op afhaalkoffie in Orvelde",
-"q": "De gemeente Orvelde wil het afval van wegwerpbekers verminderen. Daarom voert zij een heffing van € 0,90 per kop afhaalkoffie in. De koffiebars dragen de heffing af aan de gemeente. Ze rekenen een deel van de heffing door in de prijs.\nDe figuur is een schets van de markt voor afhaalkoffie. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief heffing. Een wethouder zegt: 'Wat consumenten en koffiebars aan surplus verliezen, ontvangen wij als opbrengst.'\nFiguur (markt, schets zonder getallen): vraag P = 9 − 0.04Q, aanbod P = 3 + 0.02Q, heffing 0.9 per stuk\nBeredeneer met behulp van de figuur dat de uitspraak van de wethouder onjuist is, en leid af wat dit betekent voor de doelmatigheid van de markt.",
+"q": "De gemeente Orvelde wil het afval van wegwerpbekers verminderen. Daarom voert zij een heffing van € 0,90 per kop afhaalkoffie in. De koffiebars dragen de heffing af aan de gemeente. Ze rekenen een deel van de heffing door in de prijs.\nDe figuur is een schets van de markt voor afhaalkoffie. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief heffing. Een wethouder zegt: 'Wat consumenten en koffiebars aan surplus verliezen, ontvangen wij als opbrengst.'\nDe figuur is een schets van deze markt: vraag P = 9 − 0,04Q, aanbod P = 3 + 0,02Q, heffing 0,9 per stuk\nBeredeneer met behulp van de figuur dat de uitspraak van de wethouder onjuist is, en leid af wat dit betekent voor de doelmatigheid van de markt.",
 "model": "De heffing verhoogt de prijs, dus de afzet daalt. Consumenten en koffiebars verliezen samen een rechthoek (heffing × nieuwe afzet, tussen de twee aanbodlijnen) en een driehoek (tussen vraaglijn en oorspronkelijke aanbodlijn, over de afname van de afzet). Alleen de rechthoek is opbrengst voor de gemeente. De driehoek ontvangt niemand, dus de wethouder heeft ongelijk. Die driehoek is het welvaartsverlies: kopjes koffie die meer waard zijn dan ze kosten, worden niet meer verkocht. De markt is minder doelmatig.\nPuntenverdeling:\n• Een juiste redenering bevat de volgende elementen: Het verlies aan consumenten- en producentensurplus is de rechthoek tussen de twee aanbodlijnen (hoogte = heffing, breedte = nieuwe afzet) plus de driehoek tussen vraaglijn en oorspronkelijke aanbodlijn over de afname van de afzet. (1)\n• De rechthoek is de heffingsopbrengst en wordt ontvangen door de gemeente. De driehoek komt bij niemand terecht (ook niet bij de gemeente). Dus ontvangt de gemeente minder dan het surplusverlies van consumenten en koffiebars. (1)\n• De driehoek is het welvaartsverlies: koppen koffie die voor de kopers meer waard zijn dan de kosten, worden door de heffing niet meer verkocht. De markt is dus minder doelmatig. (1)",
 "pnt": 3
 }
@@ -906,7 +1164,789 @@ LEVELS.D.push(...[
 "gens": []
 }
 ]);
+LEVELS.F.push(...[
+{
+"id": "F.SPELT01",
+"hfd": "Thema Speltheorie",
+"naam": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"kort": "Ik kan met TO en TK narekenen of een cel van de pay-offmatrix klopt.",
+"doel": "Ik kan met TO en TK narekenen of een cel van de pay-offmatrix klopt.",
+"bron": "ECO-SPELT-01",
+"vragen": [
+{
+"id": "F.SPELT01.v19112",
+"t": "open",
+"e": "F.spel",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "(Examen vwo 2019-I, vraag 12)\nGeef met de twee afzetfuncties de berekening van de waarde 0,57% linksonder in de pay-offmatrix (BSA verhoogt het collegegeld met 10%, BSB houdt het gelijk).",
+"model": "Qva bij € 15.000 = 3.500, omzet 52,5 mln. Bij € 16.500 is Qva 3.200, omzet 52,8 mln. De omzet stijgt 0,57%. Let op: volgens de aanvulling op het correctievoorschrift krijgt iedere kandidaat voor deze vraag altijd 2 punten.",
+"pnt": 2
+},
+{
+"id": "F.SPELT01.v2422",
+"t": "open",
+"e": "F.spel",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "(Examen vwo 2024-II, vraag 2)\nLucrum biedt 6.000 pakketten aan en Civitas 12.000. Toon met een berekening aan dat de winst van Lucrum in de cel linksboven van matrix 1 € 440.000 is.",
+"model": "Q = 18.000, dus P = € 120. TO = 120 × 6.000 = € 720.000. TK = 30 × 6.000 + 100.000 = € 280.000. TW = € 440.000.",
+"pnt": 2
+},
+{
+"id": "F.SPELT01.v25127",
+"t": "open",
+"e": "F.spel",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "(Examen vwo 2025-I, vraag 27)\nBoer B investeert in biologische teelt, boer A blijft traditioneel; de constante kosten van de investering zijn € 14.250. Bereken met tabel 1 en 2 de procentuele stijging van de totale constante kosten van B.",
+"model": "TCK = TO − TVK − TW = 46.050 × (3 − 1) − 75.000 = € 17.100 (1). Stijging: (17.100 − 14.250)/14.250 × 100 = 20% (1).",
+"pnt": 2
+},
+{
+"id": "F.SPELT01.v25219",
+"t": "open",
+"e": "F.spel",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "(Examen vwo 2025-II, vraag 19)\nToon met een berekening aan dat de reserve van het Rij-college in de cel met 100% marketing tegenover 0% met € 10.000 stijgt, met afzetfunctie en kostenfunctie uit de bron.",
+"model": "qv = 800 + 200 − 0 = 1.000; TO = € 6.000.000. Marketing = 800 × 6.000 × 0,1 = € 480.000. TK = 3.000.000 + 2.510.000 + 480.000 = € 5.990.000. Reserve stijgt € 10.000.",
+"pnt": 3
+}
+],
+"gens": [],
+"niv": "v"
+},
+{
+"id": "F.SPELT02",
+"hfd": "Thema Speltheorie",
+"naam": "Simultaan en sequentieel spel onderscheiden",
+"kort": "Ik kan een simultaan spel van een sequentieel spel onderscheiden en mijn keuze motiveren.",
+"doel": "Ik kan een simultaan spel van een sequentieel spel onderscheiden en mijn keuze motiveren.",
+"bron": "ECO-SPELT-02",
+"uitleg": [
+{
+"t": "Speltheorie: dominante strategie, gevangenendilemma en zelfbinding",
+"x": "Bewijs een dominante strategie voor beide spelers, met getallen per keuze van de ander; één speler geeft geen volle score. Een gevangenendilemma bestaat alleen als het evenwicht suboptimaal is, dus als een uitkomst voor beide beter is. Bij zelfbinding maakt een publieke belofte afwijken duur; noem de negatieve gevolgen. Ook de ultimatumspel-logica, herhaalde spelen en geloofwaardige dreigingen komen terug."
+},
+{
+"t": "Sequentieel spel en ultimatumspel",
+"x": "Bij een sequentieel spel kiezen spelers na elkaar; redeneer terug vanaf de laatste keuze. Bij het ultimatumspel accepteert de respondent elk bod boven zijn minimum. De aanbieder weet dat en biedt precies dat minimum. Vergeet niet wat de respondent minimaal moet terugverdienen."
+},
+{
+"t": "Speltheorie",
+"x": "Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten."
+}
+],
+"vragen": [
+{
+"id": "F.SPELT02.IT00145",
+"t": "open",
+"e": "F.spel",
+"titel": "Standplaatsen op de zomermarkt",
+"q": "Pizzatruck Vuurvlam en wokkraam Sizzle willen in de zomer allebei op de markt in Stadsdorp staan. Er zijn twee standplaatsen: bij de ingang en aan de achterkant van het marktplein. Elke ondernemer kiest één standplaats.\nVuurvlam heeft haar standplaats in januari vastgelegd. De marktorganisatie heeft die keuze dezelfde dag op haar website gezet. In maart kiest Sizzle haar standplaats, nadat zij de website heeft bekeken. Staan beide kramen bij elkaar, dan delen zij hun klanten en daalt de winst van beide.\nEen adviseur geeft de situatie weer in onderstaande tabel. In elke cel staat eerst de winst van Vuurvlam en daarna die van Sizzle.\nTabel Verwachte winst per maand (× € 100) (Vuurvlam ; Sizzle):\n| Sizzle: ingang | Sizzle: achterkant\nVuurvlam: ingang | (40 ; 40) | (90 ; 60)\nVuurvlam: achterkant | (60 ; 90) | (35 ; 35)\nBeredeneer dat een spelboom een passender weergave van deze situatie is dan de tabel.\nDoe het als volgt:\n- Beschrijf in welke volgorde de ondernemers kiezen en wat Sizzle op dat moment weet.\n- Leg uit waarom de tabel daar niet bij past.\n- Leg uit wat een spelboom wel laat zien.",
+"model": "Vuurvlam kiest haar standplaats in januari en de organisatie zet die keuze meteen op de website. Sizzle kiest pas in maart en kijkt dan eerst op de website. Sizzle kent dus de keuze van Vuurvlam als zij kiest, en de ondernemers kiezen na elkaar: het is een sequentieel spel. Een tabel met rijen en kolommen hoort bij een simultaan spel, waarin spelers kiezen zonder de keuze van de ander te kennen. In de tabel zie je niet wie eerst kiest en wat de tweede speler al weet. In een spelboom zie je de volgorde en heeft Sizzle bij elke keuze van Vuurvlam een eigen keuzemoment, zodat je ziet dat Sizzle haar keuze aanpast aan die van Vuurvlam.\nPuntenverdeling:\n• Vuurvlam kiest eerst en de keuze staat op de website voordat Sizzle kiest, dus Sizzle kent de keuze van Vuurvlam op het moment dat zij kiest: het is een sequentieel spel (1)\n• Een tabel met rijen en kolommen past bij een simultaan spel, waarin spelers kiezen zonder de keuze van de ander te kennen; de tabel laat niet zien wie eerst kiest en wat de tweede speler al weet (1)\n• Een spelboom laat de volgorde zien en geeft Sizzle bij elke keuze van Vuurvlam een eigen keuzemoment, zodat te zien is dat Sizzle haar keuze aanpast aan die van Vuurvlam (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT02.IT00203",
+"t": "open",
+"e": "F.spel",
+"titel": "Kerstbomen in Lindeveld",
+"q": "De tuincentra Groenhoek en Tuinplezier in Lindeveld verkopen in december allebei kerstbomen. Groenhoek geeft op 4 november de prijs van een kerstboom door aan de organisatie van de kerstmarktfolder, Tuinplezier doet dat op 8 november.\nDe organisatie geeft de doorgegeven prijs niet aan het andere tuincentrum door. Op 15 november drukt zij de prijzen van beide tuincentra in de folder. De winst per week van elk tuincentrum hangt af van beide prijzen.\nLeg uit dat er tussen Groenhoek en Tuinplezier sprake is van een simultaan spel en niet van een sequentieel spel, ook al geven zij hun prijs op verschillende dagen door.",
+"model": "Tuinplezier geeft zijn prijs later door dan Groenhoek, maar de organisatie vertelt niet welke prijs Groenhoek koos. Tuinplezier kent die prijs dus niet op het moment van kiezen. Geen van beide kent de keuze van de ander. Daarom is het een simultaan spel, ondanks het verschil in dagen.\nPuntenverdeling:\n• Een voorbeeld van een juiste uitleg: Het tuincentrum dat zijn prijs later doorgeeft, kent de prijs van het andere tuincentrum niet, want de organisatie geeft die niet door (1)\n• Ze kiezen dus zonder de keuze van de ander te kennen (ook al is er een verschil in tijd), dus het is een simultaan spel (1)",
+"pnt": 2
+},
+{
+"id": "F.SPELT02.IT00204",
+"t": "open",
+"e": "F.spel",
+"titel": "Black Friday-acties bij twee webwinkels",
+"q": "Kleurrijk en Plantenpret zijn webwinkels in kamerplanten en tuinspullen. Elke webwinkel kiest voor de Black Friday-week één actie: 20% korting op alle potten of gratis verzending. De winst van elke webwinkel hangt af van de combinatie van beide acties.\nKleurrijk start haar actie op woensdag om 00.00 uur. Prijsvergelijker Plantplein toont alle lopende acties en wordt elke ochtend automatisch bijgewerkt. Plantenpret legt haar actie pas op donderdag vast en bekijkt dan eerst Plantplein.\nLeg uit of het spel tussen Kleurrijk en Plantenpret een simultaan of een sequentieel spel is.",
+"model": "Het is een sequentieel spel. Plantenpret kijkt op donderdagochtend op Plantplein, waar de actie van Kleurrijk al zichtbaar is. Plantenpret kent de keuze van Kleurrijk dus als zij zelf kiest. De webwinkels kiezen na elkaar en de tweede speler weet wat de eerste deed.\nPuntenverdeling:\n• Een voorbeeld van een juiste uitleg is: Plantenpret bekijkt op donderdagochtend Plantplein, waar de actie van Kleurrijk al staat, en kent die actie dus op het moment dat zij zelf kiest. (1)\n• De webwinkels kiezen dus na elkaar en de tweede speler kent de keuze van de eerste: het is een sequentieel spel. (1)",
+"pnt": 2
+},
+{
+"id": "F.SPELT02.IT00254",
+"t": "open",
+"e": "F.spel",
+"titel": "Deelscooters in Lindeburg",
+"q": "De deelscooterbedrijven Rolly en Voltra willen allebei de stad Lindeburg in. Eerst kiest Rolly de ligging van haar hoofdlocatie: centrum of station. Rolly maakt die keuze in een persbericht openbaar. Voltra leest het bericht en kiest daarna zelf centrum of station.\nDaarna geven beide bedrijven hun ritprijs door in een verzegelde opgave aan de gemeente. De gemeente maakt de prijzen pas bekend nadat beide opgaven binnen zijn. De winst van elk bedrijf hangt af van de keuzes van beide bedrijven.\nBeredeneer voor elk van de twee keuzes (de ligging van de hoofdlocatie en de ritprijs) of Rolly en Voltra daarbij een simultaan spel of een sequentieel spel spelen.",
+"model": "Bij de ligging is het een sequentieel spel: Rolly maakt haar keuze openbaar en Voltra kiest daarna, dus Voltra kent de keuze van Rolly. Bij de ritprijs is het een simultaan spel: de opgaven zijn verzegeld en de gemeente publiceert ze pas als beide binnen zijn, dus geen bedrijf kent de prijs van de ander. Het verschil is wat de speler weet op het moment van kiezen.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord: Ligging van de hoofdlocatie: sequentieel spel, want Voltra kent de keuze van Rolly (persbericht) voordat zij zelf kiest (1)\n• Ritprijs: simultaan spel, want de opgaven zijn verzegeld en worden pas bekendgemaakt als beide bedrijven hebben gekozen, dus geen van beide kent de prijs van de ander bij het kiezen (1)\n• Conclusie: het verschil zit in de informatie op het moment van kiezen: bij de ligging kan Voltra haar keuze afstemmen op die van Rolly, bij de ritprijs kan geen van beide dat (1)",
+"pnt": 3
+}
+],
+"gens": []
+},
+{
+"id": "F.SPELT03",
+"hfd": "Thema Speltheorie",
+"naam": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"kort": "Ik kan met dominante strategieën en het Nash-evenwicht een gevangenendilemma uitleggen.",
+"doel": "Ik kan met dominante strategieën en het Nash-evenwicht een gevangenendilemma uitleggen.",
+"bron": "ECO-SPELT-03",
+"uitleg": [
+{
+"t": "Speltheorie: dominante strategie, gevangenendilemma en zelfbinding",
+"x": "Bewijs een dominante strategie voor beide spelers, met getallen per keuze van de ander; één speler geeft geen volle score. Een gevangenendilemma bestaat alleen als het evenwicht suboptimaal is, dus als een uitkomst voor beide beter is. Bij zelfbinding maakt een publieke belofte afwijken duur; noem de negatieve gevolgen. Ook de ultimatumspel-logica, herhaalde spelen en geloofwaardige dreigingen komen terug."
+},
+{
+"t": "Dominante strategie, evenwicht en gevangenendilemma",
+"x": "Een dominante strategie is altijd het beste, wat de ander ook kiest. Bewijs dit voor beide spelers, per keuze van de ander, met getallen. Het evenwicht noem je met de uitkomst (x ; y). Gevangenendilemma: het evenwicht is suboptimaal, want een andere uitkomst is voor beiden beter. Is het evenwicht ook het beste, dan is er geen dilemma."
+},
+{
+"t": "Speltheorie",
+"x": "Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten."
+}
+],
+"vragen": [
+{
+"id": "F.SPELT03.h18228",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2018-II, vraag 28)\nTwee aanbieders staan voor de eenmalige, gelijktijdige keuze om het tarief wel of niet te verlagen. Heeft de interviewer gelijk dat het een gevangenendilemma is? Gebruik het schema en licht je keuze toe.",
+"model": "Nee. Tarief verlagen is voor beide partijen de dominante strategie en tevens de optimale uitkomst. Beide krijgen een hogere winst dan bij handhaven, dus geen gevangenendilemma.",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h19124",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2019-I, vraag 24)\nBeide energieleveranciers overwegen een callcenter in te huren om klanten van elkaar over te halen (pay-offmatrix in bron 2). Leg uit hoe de dominante strategie van elk bedrijf ontstaat en beredeneer of er een gevangenendilemma is.",
+"model": "Ja. Voor beide bedrijven is 'wel inhuren' dominant: −2 > −4 als de ander inhuurt, en +2 > 0 als de ander niet inhuurt (2 punten, bewijs voor beide bedrijven nodig). Het evenwicht −2;−2 is suboptimaal, want 0;0 is beter voor beiden (1 punt).",
+"pnt": 3
+},
+{
+"id": "F.SPELT03.h19228",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2019-II, vraag 28)\nGebruik de pay-offmatrix in bron 1. Leg uit hoe de dominante strategie van elke verzekeraar ontstaat en beredeneer dan of er sprake is van een gevangenendilemma.",
+"model": "Beide verzekeraars hebben als dominante strategie 'eigen risico verlagen': Anderzorg 1 > 0,6 en 0,5 > 0,2; Beterzorg 1,1 > 1,0 en 0,8 > 0,2 (2, bewijs voor beide nodig). Evenwicht (0,5; 0,8) is slechter dan handhaven (0,6; 1,0): dus gevangenendilemma (1).",
+"pnt": 3
+},
+{
+"id": "F.SPELT03.h21110",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2021-I, vraag 10)\nLeg uit waarom de pay-offmatrix van India en de EU geen gevangenendilemma laat zien. Leg eerst uit hoe elke partij aan een dominante strategie komt en redeneer dan naar de conclusie.",
+"model": "Voor beide partijen is afschaffen dominant: bij elke keuze van de ander levert het meer groei op dan handhaven (India 2% > 0,5% en 1% > 0%; EU 1,5% > 0,5% en 1% > 0%). Die dominante strategie geeft ook de beste uitkomst voor beiden, dus geen dilemma.",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h21210",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2021-II, vraag 10)\nGebruik bron 1 en 2. Neem de matrix over, vul de letters A tot en met D in met bron 1, leg uit hoe de dominante strategie van beide partijen ontstaat en beredeneer of de dominante strategieën de handelsoorlog verklaren.",
+"model": "Waarden A −4,7%, B −4,9%, C −1,4%, D −0,5% (1). Volgens de aanvulling hoort bij de tweede deelscore: de dominante strategie van de VS én van de handelspartners is 'geen importheffing' (1). Beide kiezen dan geen heffing, dus er is geen handelsoorlog: die is niet te verklaren met de dominante strategieën (1).",
+"pnt": 3
+},
+{
+"id": "F.SPELT03.h2217",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2022-I, vraag 7)\nTwee supermarktketens kiezen tussen akkoord gaan met een prijsverhoging en onderhandelen. Toon met de getallen uit de opbrengstenmatrix (bron 1) aan dat een gevangenendilemma ontstaat: leg de dominante strategieën uit en beredeneer het dilemma.",
+"model": "Voor elke keten is akkoord gaan dominant: de winstdaling is € 6.000 tegenover € 10.000 en € 2.000 tegenover € 3.000, wat de ander ook kiest (1p). Beide kiezen akkoord, maar samen zouden ze minder verliezen als beide onderhandelden: suboptimaal, dus gevangenendilemma (1p).",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h22323",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2022-III, vraag 23)\nTwee producenten kiezen tussen prijsverhoging en inhoudsverlaging; de uitkomsten staan in een pay-offmatrix (bron 3). Celine zegt dat er geen gevangenendilemma is en dat zij de inhoud moet verlagen. Bepaal of dit juist is: verklaar de dominante strategieën en beredeneer of er een dilemma is.",
+"model": "Voor beide partijen is inhoud verminderen dominant: 6% > 2% als de ander de prijs verhoogt, en 4% > 1% als de ander de inhoud verlaagt (1p). Er is geen uitkomst waarin beiden meer winst hebben, dus geen gevangenendilemma: de uitspraak is juist (1p).",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h23122",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2023-I, vraag 22)\nLeg uit dat beide landen in een gevangenendilemma zitten. Leg eerst uit of beide landen een dominante strategie hebben en beredeneer daarna het dilemma. Gebruik de matrix in de bron.",
+"model": "Voor beide landen is hoger aanbod handhaven dominant, want ongeacht de keuze van de ander is de omzetverandering dan het gunstigst. De uitkomst (handhaven, handhaven) is suboptimaal: beide waren beter af bij verlagen. Dat is een gevangenendilemma.",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h23223",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2023-II, vraag 23)\nBepaal met de pay-offmatrix de dominante strategie van beide bedrijven en beoordeel het evenwicht.",
+"model": "Beide bedrijven hebben als dominante strategie wel losgeld betalen: de eigen uitkomst is steeds hoger (ABC −5 > −6 en −2 > −4; XYZ −4 > −5 en −2 > −3) (1). Evenwicht (−5; −4) is suboptimaal, want geen van beide betalen geeft −4; −3 (1).",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h25116",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2025-I, vraag 16)\nTwee bedrijven kiezen tussen rechten kopen en investeren in duurzame productie; de winstveranderingen staan in een pay-offmatrix. Leg uit of ze in een gevangenendilemma zitten: eerst de dominante strategieën met getallen, dan de conclusie.",
+"model": "Voor beide bedrijven is investeren dominant, want de uitkomsten bij investeren zijn bij elke keuze van de ander beter (met de getallen uit het voorschrift) (1). Het evenwicht (35 ; 45) is voor beide spelers de beste uitkomst, dus geen gevangenendilemma (1).",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h25218",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2025-II, vraag 18)\nLeg met getallen uit bron 2 uit of er sprake is van een gevangenendilemma. Leg eerst uit of beide verzekeraars een dominante strategie hebben en beredeneer dan het dilemma.",
+"model": "Voor A en C is campagne voeren dominant (+10% > 0% en -1% > -5%; +9% > 0% en -1% > -6%). Het evenwicht is dat beiden campagne voeren (-1%; -1%), slechter dan geen campagne (0%; 0%): dus een gevangenendilemma.",
+"pnt": 2
+},
+{
+"id": "F.SPELT03.h26115",
+"t": "open",
+"e": "F.spel",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "(Examen havo 2026-I, vraag 15)\nMet een matrix van financiële veranderingen voor club en verhuurder leg je uit of de dreiging van de club om het huurcontract op te zeggen geloofwaardig is.",
+"model": "Verlengen is altijd beter voor de club dan opzeggen (−3%, −2% en 15% zijn hoger dan −100%), dus verlengen is de dominante strategie, 1p. De dreiging is dus niet geloofwaardig, 1p.",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "F.SPELT04",
+"hfd": "Thema Speltheorie",
+"naam": "De uitkomst van een spelboom bepalen door terugredeneren",
+"kort": "Ik kan door terugredeneren de uitkomst van een spelboom bepalen.",
+"doel": "Ik kan door terugredeneren de uitkomst van een spelboom bepalen.",
+"bron": "ECO-SPELT-04",
+"uitleg": [
+{
+"t": "Sequentieel spel en ultimatumspel",
+"x": "Bij een sequentieel spel kiezen spelers na elkaar; redeneer terug vanaf de laatste keuze. Bij het ultimatumspel accepteert de respondent elk bod boven zijn minimum. De aanbieder weet dat en biedt precies dat minimum. Vergeet niet wat de respondent minimaal moet terugverdienen."
+},
+{
+"t": "Speltheorie",
+"x": "Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten."
+},
+{
+"t": "Sequentieel spel en spelboom",
+"x": "Bij een sequentieel spel kiezen spelers na elkaar en ziet de latere speler wat de ander deed. Los de spelboom op door terug te redeneren: begin bij de laatste keuze en werk naar de eerste. Noem per stap de keuze en de reden met getallen, en sluit af met de uitkomst (speler 1 ; speler 2). Beginnen vooraan in de boom is fout."
+}
+],
+"vragen": [
+{
+"id": "F.SPELT04.h24112",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen havo 2024-I, vraag 12)\nGebruik bron 2. Welke bedragen horen op plaats (1) en (2) in de beslisboom? Leg je keuze uit. Het budget is € 6.000 per fiets en de marginale kosten zijn € 3.500.",
+"model": "Bij (1) € 1.500: Snel houdt over € 6.000 − € 4.500. Bij (2) € 1.000: Sprinter houdt over € 4.500 − € 3.500 (marginale kosten), als Sprinter het voorstel accepteert.",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.h24113",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen havo 2024-I, vraag 13)\nGebruik bron 2. Leg uit welke van de drie verdelingen ontstaat als Sprinter en Snel allebei zo veel mogelijk euro's voor zichzelf willen.",
+"model": "Sprinter accepteert elk voorstel met een opbrengst boven € 0 (dus boven de minimale leveringsbereidheid). Snel kent dat en doet het voorstel dat de eigen opbrengst maximaal maakt, € 3.501. De verdeling wordt € 2.499 voor Snel en € 1 voor Sprinter. Best-responsmethode is ook goed.",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.h24225",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen havo 2024-II, vraag 25)\nBouwrijk doet Schot in de Zaak een eenmalig voorstel voor de verdeling van een aanneemsom van € 485.000; bij weigering vervalt de opdracht. Startkosten: € 12.500 en € 25.000. Leg uit welk bedrag Schot in de Zaak minimaal accepteert bij puur eigenbelang op korte termijn.",
+"model": "Schot in de Zaak accepteert elke verdeling waarmee hij zijn eigen startkosten terugverdient. Het minimale voorstel is € 25.000 (of € 25.001).",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.h26225",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen havo 2026-II, vraag 25)\nRond en Kruis kiezen tussen zwijgen, toegeven met inzage en klikken (spelboom met kortingen). Verklaar met getallen uit de spelboom welk kortingspercentage Kruis krijgt.",
+"model": "Rond kiest steeds de beste reactie: bij zwijgen of toegeven kiest Rond klikken (100 > 60 en 100 > 0), bij klikken kiest Rond toegeven (60 > 0). Rond kiest dus klikken, en Kruis krijgt 60% korting.",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.v19123",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen vwo 2019-I, vraag 23)\nVerklaar de uitkomst in de spelboom waarbij beide bedrijven ervoor kiezen het kartel niet te melden.",
+"model": "Bij ontdekking krijgt elk bedrijf een boete van vier keer de extra omzet (400%). De kans op ontdekking is 75%, dus de verwachte boete is 0,75 × 400% = 300% van de extra omzet. Let op: volgens de aanvulling op het correctievoorschrift krijgt iedere kandidaat voor deze vraag altijd 2 punten.",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.v19124",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen vwo 2019-I, vraag 24)\nDe directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.",
+"model": "OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.v21116",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen vwo 2021-I, vraag 16)\nDe directie overweegt de prijs gelijk te laten, 10% te verhogen of 10% te verlagen, en verwacht dat de concurrent reageert. Verklaar met de spelboom dat het gezien de doelstelling niet zinvol is de prijs aan te passen.",
+"model": "Bij € 12,10 kiest de concurrent € 12,00 en is de winst € 560.000. Bij € 11,00 kiest de concurrent € 12,00 en is de winst € 800.000. Bij € 9,90 kiest de concurrent € 10,80 en is de winst € 100.000 (1). De hoogste winst staat bij € 11,00: de prijs blijft gelijk (1).",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.v24125",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen vwo 2024-I, vraag 25)\nTwee visserijen vormen een kartel. Toetreder Syrap kiest tussen toetreden met de kartelprijs of met een lagere prijs (spelboom 1). Leg uit welke keuze Syrap maakt (getallen niet nodig).",
+"model": "Dirdam verlaagt altijd de prijs (dominante strategie, hogere winst), daarna ook Nednol (1). Uitkomst: iedereen verlaagt de prijs (14, 7, 28), dus Syrap treedt toe met een lagere prijs (1).",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.v2425",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen vwo 2024-II, vraag 5)\nCivitas kiest uit drie prijsvoorstellen en de gemeente kiest daarna: een deal sluiten of de voedselvoorziening zelf regelen. Spelboom 1 geeft de winsten en kosten. Leg uit welke uitkomst ontstaat en noem getallen uit de boom.",
+"model": "Bij de marktprijs regelt de gemeente het zelf (€ 150.000 < € 180.000), dus winst 0. Bij een kleine marge sluit de gemeente een deal (135.000 < 150.000), winst € 45.000. Bij kostprijs is de winst 0. Uitkomst: kleine marge, deal; 45.000 ; 135.000.",
+"pnt": 2
+},
+{
+"id": "F.SPELT04.v2615",
+"t": "open",
+"e": "F.spel",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "(Examen vwo 2026-I, vraag 5)\nGeef de speluitkomst van spelboom 1 in 2026. Geef ook aan dat de winst van Solo in 2027 daalt doordat de sociale norm wordt overtreden.",
+"model": "Uitkomst: (snellere boot ; diesel), oftewel (120 ; 160). Afwijken van de sociale norm geeft reputatieschade en lagere afzet voor Solo, waardoor de winst in 2027 daalt.",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "F.SPELT05",
+"hfd": "Thema Speltheorie",
+"naam": "Het berovingsprobleem uitleggen met verzonken kosten",
+"kort": "Ik kan het berovingsprobleem uitleggen met behulp van verzonken kosten.",
+"doel": "Ik kan het berovingsprobleem uitleggen met behulp van verzonken kosten.",
+"bron": "ECO-SPELT-05",
+"uitleg": [
+{
+"t": "Specifieke investeringen en verzonken kosten",
+"x": "Twee elementen zijn nodig: het is een specifieke investering en die kan op geen enkele andere manier worden terugverdiend. Voorbeeld: een werkgever investeert in scholing en de werknemer vertrekt voordat dit is terugverdiend. Een clausule voor een minimale diensttijd kan dat oplossen. Verzonken kosten zetten bedrijven ook aan tot meer afzet."
+},
+{
+"t": "Specifieke investering en verzonken kosten",
+"x": "Een specifieke investering verdien je alleen in deze ene relatie terug. Noem beide: het is een specifieke investering én die kosten zijn op geen enkele andere manier terug te verdienen. Dit zijn verzonken kosten. Laat je 'niet terug te verdienen' weg, dan vervalt het punt."
+},
+{
+"t": "Berovingsprobleem en specifieke investeringen",
+"x": "Een specifieke investering is alleen binnen deze relatie terug te verdienen (verzonken kosten). Daarna kan de andere partij betere voorwaarden afdwingen: het berovingsprobleem. Oplossing: een meerjarig contract of een vergoeding bij vroegtijdig vertrek. Een dreiging is niet geloofwaardig als de ander ook verzonken kosten heeft. Verzonken kosten aanwijzen bij een investering die anders bruikbaar is (grond verhuren of verkopen) geeft 0 punten."
+}
+],
+"vragen": [
+{
+"id": "F.SPELT05.IT00165",
+"t": "open",
+"e": "F.spel",
+"titel": "Een vrachtterminal voor Cargolijn",
+"q": "Luchthaven Veenland wil een vrachtterminal bouwen voor vrachtmaatschappij Cargolijn, die snijbloemen en groenten per vliegtuig vervoert. De terminal krijgt koelcellen en een laadsysteem dat precies past bij de vliegtuigen van Cargolijn. De terminal kost € 24 miljoen. Andere maatschappijen kunnen er met hun vliegtuigen niets mee. Daarnaast verlengt Veenland de taxibaan voor € 6 miljoen; die baan kunnen alle maatschappijen gebruiken.\nCargolijn heeft een alternatief: een regionale luchthaven op 60 kilometer afstand met vrije capaciteit, waar Cargolijn zonder noemenswaardige kosten naartoe kan verhuizen.\nVeenland overweegt om vooraf met Cargolijn af te spreken dat Cargolijn bij vertrek binnen tien jaar een vergoeding betaalt voor het deel van de terminalkosten dat dan nog niet is terugverdiend.\nLeg uit dat Luchthaven Veenland zonder de afspraak een berovingsprobleem kan krijgen en dat de afspraak over de vergoeding dit probleem beperkt.",
+"model": "De vrachtterminal is een specifieke investering: andere maatschappijen kunnen er niets mee, dus Veenland kan de € 24 miljoen niet anders terugverdienen. Dat zijn verzonken kosten. De taxibaan is voor alle maatschappijen bruikbaar en levert geen verzonken kosten op. Zonder afspraak is Veenland afhankelijk van Cargolijn. Cargolijn kan gemakkelijk naar de regionale luchthaven en daarmee dreigen om lagere havengelden af te dwingen. Veenland gaat daarmee akkoord, want een lage opbrengst is beter dan geen opbrengst. Dat is het berovingsprobleem. Met de vergoeding bij vertrek binnen tien jaar wordt vertrekken voor Cargolijn duur. De dreiging is dan minder sterk en Veenland kan minder worden beroofd.\nPuntenverdeling:\n• De terminal is een specifieke investering die alleen voor Cargolijn bruikbaar is (de taxibaan kunnen alle maatschappijen gebruiken), dus Veenland kan de kosten van de terminal op geen andere manier terugverdienen: verzonken kosten (1)\n• Zonder afspraak is Veenland afhankelijk van Cargolijn: Cargolijn kan dreigen naar de regionale luchthaven te verhuizen en lagere havengelden of betere voorwaarden eisen, en Veenland stemt daarmee in omdat een lagere opbrengst beter is dan geen opbrengst (berovingsprobleem) (1)\n• Met de vergoeding wordt vertrek binnen tien jaar duur voor Cargolijn, waardoor de dreiging minder geloofwaardig is, Cargolijn minder kan afdwingen en Veenland het risico van de investering kleiner is (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT05.IT00193",
+"t": "open",
+"e": "F.spel",
+"titel": "Stoelen voor Nachtegaal",
+"q": "Meubelmaker Eikenhout levert stoelen aan hotelketen Nachtegaal, die een collectie met een afwijkende rugleuning wil. Eikenhout kan die alleen maken met een freesmachine en mal van samen € 150.000. Die specifieke investering is onbruikbaar voor andere klanten: de kosten zijn verzonken kosten.\nNachtegaal kan ook standaardstoelen bij een andere maker bestellen en vindt dat acceptabel. Er is nog geen contract; de prijs ligt niet vast. Eikenhout verdient zolang de prijs boven de variabele kosten per stoel ligt.\nLeg uit dat het berovingsprobleem ervoor zorgt dat Eikenhout twijfelt over de investering in de freesmachine en de mal.",
+"model": "Bij het berovingsprobleem maakt Eikenhout een specifieke investering: de machine en mal werken alleen voor Nachtegaal, dus de € 150.000 zijn verzonken kosten en Eikenhout wordt afhankelijk. Nachtegaal kan dan met een standaardstoel dreigen en een lagere prijs eisen. Eikenhout stemt toe, want een prijs boven de variabele kosten is beter dan niets terugverdienen. Eikenhout voorziet dit vooraf, verwacht dat de opbrengst lager uitvalt dan de investering en twijfelt daarom.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Door de specifieke investering zijn de € 150.000 verzonken kosten: de machine en mal zijn niet elders te gebruiken, dus Eikenhout wordt na de investering afhankelijk van Nachtegaal (1)\n• Nachtegaal kan na de investering een lagere prijs eisen (bijvoorbeeld door te dreigen met een standaardstoel van een andere maker) en Eikenhout stemt toe, omdat een prijs boven de variabele kosten beter is dan niets terugverdienen (1)\n• Eikenhout voorziet dit vooraf, verwacht dat de opbrengst lager is dan de investering en twijfelt daarom (of investeert pas met zekerheid, zoals een meerjarig contract) (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT05.IT00194",
+"t": "open",
+"e": "F.spel",
+"titel": "Kaas voor Bergfris",
+"q": "Kaasmakerij Weidelust wil kaas leveren aan supermarktketen Bergfris. Daarvoor is een rijpingsinstallatie van € 120.000 nodig die voor geen enkele andere kaas geschikt is.\nWeidelust levert vijf jaar lang 50.000 kazen per jaar. Bij de huidige prijsafspraak houdt Weidelust € 0,60 per kaas over na aftrek van de variabele kosten. Er is niets schriftelijk vastgelegd.\nBergfris kan zonder kosten overstappen op een andere kaasmaker. Weidelust verwacht dat Bergfris na de eerste leveringen een prijs eist waarbij € 0,40 per kaas overblijft.\nLeg uit dat Weidelust te maken heeft met een berovingsprobleem en daarom twijfelt over de investering in de rijpingsinstallatie, ook al wordt de installatie bij de huidige prijsafspraak binnen vijf jaar terugverdiend.\nDoe het als volgt:\n- Leg uit waarom de kosten van de installatie verzonken kosten zijn en wat dat betekent voor de positie van Weidelust.\n- Leg uit waarom Bergfris na de investering een lagere prijs kan eisen.\n- Toon met een berekening aan dat Weidelust de installatie bij die lagere prijs niet terugverdient.",
+"model": "De installatie past alleen bij de kaas van Bergfris. De € 120.000 zijn dus verzonken kosten en Weidelust is afhankelijk van Bergfris. Bergfris kan daarom een lagere prijs eisen, want het kan zonder kosten overstappen. Weidelust stemt toe, want een kleine marge is beter dan niets. Bij € 0,40 is de opbrengst 50.000 × 0,40 × 5 = € 100.000, minder dan € 120.000. Weidelust twijfelt dus.\nPuntenverdeling:\n• De installatie is alleen bruikbaar voor de kaas van Bergfris, dus de kosten zijn verzonken kosten en Weidelust is na de investering afhankelijk van Bergfris. (1)\n• Bergfris kan na de investering een lagere prijs eisen, omdat het gemakkelijk kan overstappen, en Weidelust stemt toe, omdat elke marge boven nul beter is dan een ongebruikte installatie (Weidelust wordt als het ware 'beroofd' van een deel van de opbrengst). (1)\n• Bij € 0,40 per kaas is de opbrengst 50.000 × € 0,40 × 5 = € 100.000, minder dan € 120.000 (bij € 0,60 was dit € 150.000); Weidelust verwacht dit en twijfelt dus. (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT05.IT00247",
+"t": "open",
+"e": "F.spel",
+"titel": "Accubehuizingen voor Transvia",
+"q": "Metaalbedrijf Brinkhof levert onderdelen aan verschillende fabrikanten. Vervoerbedrijf Transvia wil dat Brinkhof een speciale pers van € 400.000 aanschaft om accubehuizingen te maken voor de nieuwe elektrische bussen van Transvia.\nDe pers is voor geen enkel ander product bruikbaar. Alleen Transvia koopt deze behuizingen, maar Transvia kan ook bij andere metaalbedrijven terecht. Er komt geen vast contract: over de prijs wordt elk jaar opnieuw onderhandeld.\nVerklaar met behulp van de begrippen verzonken kosten en berovingsprobleem dat Brinkhof kan besluiten de pers niet aan te schaffen, hoewel de behuizingen voor beide bedrijven voordeel opleveren.",
+"model": "De pers is alleen bruikbaar voor Transvia, dus de € 400.000 zijn verzonken kosten en Brinkhof is na aanschaf afhankelijk van Transvia. Omdat de prijs jaarlijks opnieuw wordt onderhandeld, kan Transvia dan een lagere prijs eisen, en Brinkhof stemt toe want anders verliest het de investering. Brinkhof voorziet dit berovingsprobleem en schaft de pers daarom niet aan.\nPuntenverdeling:\n• Een juiste verklaring bevat de volgende elementen: De pers is alleen bruikbaar voor de behuizingen van Transvia, dus de € 400.000 zijn verzonken kosten (niet terug te verdienen via een ander product of andere afnemer) en Brinkhof wordt na de aanschaf afhankelijk van Transvia (1)\n• Omdat de prijs elk jaar opnieuw wordt onderhandeld, kan Transvia na de investering een lagere prijs eisen (een groter deel van de opbrengst opeisen), want Brinkhof heeft geen alternatief meer en stemt toe om niet alles te verliezen (1)\n• Brinkhof voorziet dit gevolg vooraf, verwacht de investering niet terug te verdienen en schaft de pers daarom niet aan (terwijl samenwerking voor beide partijen voordelig zou zijn) (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT05.IT00248",
+"t": "open",
+"e": "F.spel",
+"titel": "Een persmachine voor Rijwiel Nova",
+"q": "Kettingwerk maakt fittingen. Fietsmerk Rijwiel Nova koopt die nu bij drie leveranciers en kan zonder noemenswaardige kosten overstappen.\nVoor het nieuwe Nova-frame koopt Kettingwerk een persmachine van € 900.000. Die kan alleen deze fittingen maken en is niet door te verkopen. Daarnaast koopt Kettingwerk een bestelbus van € 150.000 die ook andere klanten bedient.\nDe prijs wordt pas vastgesteld nadat de machine draait. Kettingwerk rekende op € 9 per fitting, de variabele kosten zijn € 4 per fitting. Nova biedt € 6.\nBeredeneer met behulp van de begrippen specifieke investering en verzonken kosten dat Kettingwerk door de aankoop van de persmachine met een berovingsprobleem te maken krijgt en daarom het bod van € 6 accepteert, terwijl de aankoop van de bestelbus dit probleem niet veroorzaakt.",
+"model": "De persmachine is een specifieke investering: ze maakt alleen fittingen voor Nova en is niet door te verkopen, dus de kosten zijn verzonken. De bestelbus rijdt ook voor andere klanten, dus die maakt Kettingwerk niet afhankelijk van Nova. Nova kan makkelijk overstappen, dus Nova kan de prijs drukken. Kettingwerk accepteert € 6, want dat ligt boven de variabele kosten van € 4 en weigeren levert niets op.\nPuntenverdeling:\n• De persmachine is een specifieke investering: ze is alleen bruikbaar voor het Nova-frame en niet door te verkopen, dus de kosten zijn verzonken. De bestelbus is ook voor andere klanten bruikbaar, dus die investering is niet specifiek en geeft geen afhankelijkheid van Nova. (1)\n• Na de aankoop is Kettingwerk afhankelijk van Nova, terwijl Nova gemakkelijk naar een andere leverancier kan overstappen. Nova heeft dus een sterke onderhandelingspositie en kan een lagere prijs eisen (het berovingsprobleem). (1)\n• Kettingwerk accepteert € 6, omdat de aanschafkosten verzonken zijn en alleen de variabele kosten (€ 4) nog meetellen: elke prijs boven € 4 levert nog iets op, en weigeren levert niets op, dus € 6 is beter dan geen levering. (1)",
+"pnt": 3
+}
+],
+"gens": []
+},
+{
+"id": "F.SPELT06",
+"hfd": "Thema Speltheorie",
+"naam": "Uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert",
+"kort": "Ik kan uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert.",
+"doel": "Ik kan uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert.",
+"bron": "ECO-SPELT-06",
+"uitleg": [
+{
+"t": "Speltheorie: dominante strategie, gevangenendilemma en zelfbinding",
+"x": "Bewijs een dominante strategie voor beide spelers, met getallen per keuze van de ander; één speler geeft geen volle score. Een gevangenendilemma bestaat alleen als het evenwicht suboptimaal is, dus als een uitkomst voor beide beter is. Bij zelfbinding maakt een publieke belofte afwijken duur; noem de negatieve gevolgen. Ook de ultimatumspel-logica, herhaalde spelen en geloofwaardige dreigingen komen terug."
+},
+{
+"t": "Geloofwaardige dreiging, zelfbinding en sociale norm",
+"x": "Een dreiging is alleen geloofwaardig als uitvoeren voor de dreiger zelf het beste is; onderbouw dit met de getallen. Zelfbinding legt je vooraf vast, zodat afwijken duur wordt: noem het negatieve gevolg bij afwijken (bijv. reputatieschade). Sociale normen en herhaling veranderen het gedrag van beide spelers."
+},
+{
+"t": "Speltheorie",
+"x": "Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten."
+}
+],
+"vragen": [
+{
+"id": "F.SPELT06.IT00167",
+"t": "open",
+"e": "F.spel",
+"titel": "Fietsenmaker Pedaal",
+"q": "In het stadje Lindeveld is fietsenmaker Pedaal al jaren de enige aanbieder. Winkelketen Wielwerk overweegt een filiaal te openen. Wielwerk beslist eerst; daarna bepaalt Pedaal zijn prijzen. Pedaal dreigt bij toetreding de prijzen fors te verlagen, maar Wielwerk gelooft die dreiging niet.\nPedaal legt zich daarom vooraf vast. Het tekent publiek een overeenkomst met de ondernemersvereniging: verlaagt Pedaal na de komst van Wielwerk de prijzen niet, dan betaalt Pedaal een boete van € 45.000 per jaar.\nDe tabel toont de jaarwinsten in duizenden euro's. De boete is in de tabel nog niet verwerkt.\nTabel Jaarwinst in duizenden euro's, vóór aftrek van een eventuele boete:\nSituatie | Winst Pedaal | Winst Wielwerk\nWielwerk opent niet | 100 | 0\nWielwerk opent, Pedaal laat de prijzen hoog | 60 | 40\nWielwerk opent, Pedaal verlaagt de prijzen (prijzenoorlog) | 30 | -10\nLeg uit dat de overeenkomst de uitkomst van het spel verandert. Gebruik de getallen uit de tabel.\nDoe het als volgt:\n- Kijk eerst wat Pedaal kiest als Wielwerk opent, nu met de boete.\n- Kijk daarna wat Wielwerk daarop kiest en vergelijk de uitkomst met die zonder overeenkomst.",
+"model": "Als Wielwerk opent en Pedaal de prijzen hoog laat, houdt Pedaal door de boete van 45 (duizend euro) nog 60 - 45 = 15 over. Bij een prijzenoorlog is dat 30. Pedaal doet het dus zelf beter door de prijzen te verlagen, en de dreiging is geloofwaardig. Wielwerk weet dit en verwacht bij openen -10, terwijl niet openen 0 oplevert. Wielwerk opent dus niet en de uitkomst is (100 ; 0). Zonder overeenkomst laat Pedaal de prijzen hoog, want 60 is meer dan 30. Dan opent Wielwerk, want 40 is meer dan 0, en is de uitkomst (60 ; 40). De overeenkomst verandert de uitkomst dus van (60 ; 40) in (100 ; 0).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Met de boete levert 'prijzen hoog laten' Pedaal 60 - 45 = 15 (duizend euro) op; dat is minder dan de 30 bij de prijzenoorlog, dus Pedaal verlaagt de prijzen en de dreiging is geloofwaardig (1)\n• Wielwerk verwacht bij openen een winst van -10 tegenover 0 bij niet openen, dus Wielwerk opent niet en de uitkomst is (100 ; 0) (1)\n• Zonder overeenkomst laat Pedaal de prijzen hoog (60 is meer dan 30), dus Wielwerk opent (40 is meer dan 0) en de uitkomst is (60 ; 40); de overeenkomst verandert de uitkomst dus van (60 ; 40) in (100 ; 0) (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT06.IT00168",
+"t": "open",
+"e": "F.spel",
+"titel": "Glasvezel in Kerkwijk",
+"q": "In de nieuwe wijk Kerkwijk bieden twee providers glasvezel aan: Vezelnet en Glasline. Ze beslissen na elkaar. Eerst kiest Vezelnet of het een tariefgarantie in de abonnementsvoorwaarden opneemt. Daarna kiest Glasline of het zijn tarief handhaaft of verlaagt.\nMet de garantie belooft Vezelnet publiek nooit duurder te zijn dan Glasline. Is het tarief van Vezelnet toch hoger, dan krijgen alle klanten het verschil terug, zodat Vezelnet elke verlaging van Glasline in feite volgt. Zonder garantie verlaagt Vezelnet zijn tarief dit jaar niet, omdat de abonnementen voor een jaar vastliggen.\nDe spelboom toont de winsten in duizenden euro's per maand als (winst Vezelnet ; winst Glasline).\nSpelboom: eerst kiest Vezelnet, daarna Glasline. Uitkomsten als (Vezelnet ; Glasline):\nGarantie → Tarief handhaven: (50 ; 50)\nGarantie → Tarief verlagen: (35 ; 35)\nGeen garantie → Tarief handhaven: (50 ; 50)\nGeen garantie → Tarief verlagen: (20 ; 70)\nLeg uit dat de tariefgarantie de uitkomst van het spel verandert. Gebruik de getallen uit de spelboom.\nDoe het als volgt:\n- Bepaal eerst wat Glasline kiest na de garantie en wat Glasline kiest zonder garantie.\n- Kijk daarna wat Vezelnet daardoor kiest.",
+"model": "Na de garantie volgt Vezelnet elke verlaging van Glasline. Verlagen levert Glasline dan 35 op en handhaven 50, dus Glasline handhaaft zijn tarief en de uitkomst is (50 ; 50). Zonder garantie levert verlagen Glasline 70 op en handhaven 50, dus Glasline verlaagt en de uitkomst is (20 ; 70). Vezelnet kijkt vooruit: met garantie krijgt het 50, zonder garantie 20. Vezelnet kiest dus de garantie. Door de garantie verandert de uitkomst van (20 ; 70) in (50 ; 50).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Na de garantie volgt Vezelnet de verlaging, dus verlagen levert Glasline 35 op en handhaven 50; Glasline handhaaft dus het tarief en de uitkomst is (50 ; 50) (1)\n• Zonder garantie levert verlagen Glasline 70 op en handhaven 50; Glasline verlaagt dus en de uitkomst is (20 ; 70) (1)\n• Vezelnet kijkt vooruit: met garantie krijgt het 50, zonder garantie 20, dus het kiest de garantie; de garantie verandert de uitkomst van (20 ; 70) in (50 ; 50) (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT06.IT00170",
+"t": "open",
+"e": "F.spel",
+"titel": "Kaas voor Marktfris",
+"q": "Kaasmakerij Dorpsdijk wil een machine kopen om haar biologische kaas te verpakken, speciaal voor de supermarktketen Marktfris. De machine kan nergens anders worden ingezet. Eerst beslist Dorpsdijk of het investeert. Investeert Dorpsdijk, dan kiest Marktfris of het de inkoopprijs handhaaft of drukt. Dorpsdijk twijfelt over de investering.\nMarktfris sluit zich daarom aan bij het onafhankelijke keurmerk Eerlijke Keten. Het keurmerk controleert de inkoopprijzen en maakt elke prijsdruk openbaar. Drukt Marktfris na de investering van Dorpsdijk de inkoopprijs, dan betaalt Marktfris een boete van € 30.000 per jaar aan het keurmerk.\nDe tabel toont de jaarwinsten in duizenden euro's, nog zonder die boete.\nTabel Jaarwinst in duizenden euro's, (Dorpsdijk ; Marktfris), zonder boete:\nSituatie | Winst Dorpsdijk | Winst Marktfris\nDorpsdijk investeert niet | 0 | 20\nDorpsdijk investeert, Marktfris handhaaft de inkoopprijs | 30 | 50\nDorpsdijk investeert, Marktfris drukt de inkoopprijs | -15 | 70\nLeg uit dat de aansluiting van Marktfris bij het keurmerk de uitkomst van het spel verandert. Gebruik de getallen uit de tabel.",
+"model": "Met het keurmerk betaalt Marktfris 30 (duizend euro) boete als het de inkoopprijs drukt. Drukken levert dan 70 - 30 = 40 op. Handhaven levert 50 op. Marktfris handhaaft dus de inkoopprijs en zijn belofte is geloofwaardig. Dorpsdijk weet dit en kiest tussen 30 bij investeren en 0 bij niet investeren. Dorpsdijk investeert dus en de uitkomst is (30 ; 50). Zonder keurmerk zou Marktfris drukken, want 70 is meer dan 50. Dorpsdijk zou dan -15 verwachten en niet investeren, met als uitkomst (0 ; 20). Het keurmerk verandert de uitkomst dus van (0 ; 20) in (30 ; 50).\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Met het keurmerk levert drukken Marktfris 70 - 30 = 40 op (€ 30.000 is 30 duizend euro) en handhaven 50; 40 is minder dan 50, dus Marktfris handhaaft de inkoopprijs en de belofte is geloofwaardig (1)\n• Dorpsdijk weet dit, kiest tussen investeren (30) en niet investeren (0) en investeert dus; de uitkomst is (30 ; 50) (1)\n• Zonder keurmerk zou Marktfris drukken (70 is meer dan 50), zou Dorpsdijk -15 verwachten en niet investeren; de uitkomst was dan (0 ; 20), dus het keurmerk verandert de uitkomst van (0 ; 20) in (30 ; 50) (1)",
+"pnt": 3
+},
+{
+"id": "F.SPELT06.IT00171",
+"t": "open",
+"e": "F.spel",
+"titel": "Standplaats bij festival Brandemeer",
+"q": "Bij het nieuwe festivalterrein Brandemeer is plaats voor één eetkraam per seizoen. De bedrijven Frietfeest en Wokwagen kiezen tegelijk, zonder overleg, of ze met hun truck naar het terrein gaan. Komen beide, dan is het publiek te klein om beide trucks te laten verdienen en lijden ze verlies. Elk bedrijf heeft een eigen standplaats gereserveerd, de ene bij de hoofdingang en de andere bij de camping.\nVoordat de keuze wordt gemaakt, tekent Frietfeest een seizoenscontract voor stroom en water. Dit contract staat in de nieuwsbrief van de festivalorganisatie, dus Wokwagen kent het voordat het zijn keuze maakt. Frietfeest betaalt € 5.000 voor dit contract en kan het bedrag niet terugkrijgen.\nDe tabel geeft de winst per seizoen zonder het contract. Komt Frietfeest wel, dan verandert het contract niets aan de winst in de tabel, want de kosten vervangen dan de standplaatskosten die al in de tabel zitten. Komt Frietfeest niet, dan betaalt het € 5.000 voor niets. Het bedrag wordt in de tabel in duizenden euro's weergegeven.\nTabel Winst per seizoen in duizenden euro's, zonder contract, (Frietfeest ; Wokwagen):\nKeuzes | Winst (Frietfeest ; Wokwagen)\nBeide bedrijven komen | (-3 ; -3)\nAlleen Frietfeest komt | (8 ; 0)\nAlleen Wokwagen komt | (0 ; 8)\nGeen van beide komt | (0 ; 0)\nLeg uit hoe het seizoenscontract de uitkomst van het spel verandert ten opzichte van de situatie zonder contract. Gebruik de getallen uit de tabel.",
+"model": "Zonder contract zijn er twee evenwichten: (8 ; 0) en (0 ; 8). Bij allebei kiest niemand beter door af te wijken, dus je kunt niet voorspellen welk bedrijf komt. Met het contract betaalt Frietfeest € 5.000, dat is 5 in de tabel, ook als het niet komt. Niet komen levert dan 0 - 5 = -5 op. Komen levert -3 of 8 op, en beide zijn meer dan -5. Komen is dus een dominante strategie voor Frietfeest. Wokwagen weet dit, want het contract staat in de nieuwsbrief. Het kiest tussen -3 bij komen en 0 bij niet komen en blijft dus thuis. De uitkomst is (8 ; 0). Het contract maakt de keuze van Frietfeest geloofwaardig en de uitkomst eenduidig.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Zonder contract zijn er twee evenwichten, (8 ; 0) en (0 ; 8). Bij beide evenwichten is niet te voorspellen welk bedrijf komt. (1)\n• Met contract levert niet komen Frietfeest 0 - 5 = -5 op. Komen levert -3 of 8 op, beide meer dan -5, dus komen is voor Frietfeest een dominante strategie. (1)\n• Wokwagen weet dit, want het contract is openbaar. Het kiest tussen komen (-3) en niet komen (0) en kiest niet komen. De uitkomst is (8 ; 0): het contract maakt de keuze van Frietfeest geloofwaardig en de uitkomst eenduidig. (1)",
+"pnt": 3
+}
+],
+"gens": []
+}
+]);
 LEVELS.G.push(...[
+{
+"id": "G.INFOR01",
+"hfd": "Thema Informatieproblemen",
+"naam": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"kort": "Ik kan een principaal-agentprobleem uitleggen en een maatregel ertegen noemen.",
+"doel": "Ik kan een principaal-agentprobleem uitleggen en een maatregel ertegen noemen.",
+"bron": "ECO-INFOR-01",
+"uitleg": [
+{
+"t": "Principaal-agentprobleem",
+"x": "Vaak drie elementen van elk 1 punt: principaal en agent met tegengestelde belangen en hun concrete doel, asymmetrische informatie (principaal kan gedrag of kosten niet controleren) en een maatregel uit de bron die het probleem verkleint, zoals toezicht, informatieplicht, boete of aansprakelijkheid. Rollen omdraaien, alleen 'informatie' noemen of een maatregel waarbij kosten niet bij de agent liggen levert geen punt op."
+},
+{
+"t": "Principaal-agentprobleem en asymmetrische informatie",
+"x": "Een principaal laat een agent iets doen en kan niet zien of de agent dat goed doet. Voor de punten: benoem principaal en agent juist, noem het tegenstrijdige belang van beide, en de asymmetrische informatie (wie weet wat niet). Noem een maatregel zoals toezicht of een boete, waarbij de agent zelf de gevolgen draagt. Blijf concreet; algemeen zeggen dat er te weinig informatie is volstaat niet."
+}
+],
+"vragen": [
+{
+"id": "G.INFOR01.v19212",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2019-II, vraag 12)\nTrains is wettelijk monopolist en moet prijsstijgingen vooraf onderbouwen tegenover de overheid. Leg uit dat er een principaal-agentprobleem kan zijn en hoe de overeenkomst dit vermindert.",
+"model": "Overheid (principaal) en Trains (agent) hebben andere doelen: reizigersbelang tegenover winst (1). De overheid kent de kosten en opbrengsten van Trains slecht: informatie-asymmetrie (1). De overeenkomst geeft de overheid deels dezelfde informatie (1).",
+"pnt": 3
+},
+{
+"id": "G.INFOR01.v2119",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2021-I, vraag 9)\nEen gemeente verleent een concessie voor elektrische bussen met vijf voorwaarden over reistijd, vertraging, inzet van dieselbussen, gps-tracking en maximumprijs. Leg uit dat een principaal-agentprobleem kan optreden en welke twee voorwaarden dit probleem verminderen.",
+"model": "Principaal (gemeente) en agent (busbedrijf) hebben verschillende doelen: winst tegenover reizigersbelang (1). De gemeente ziet de ritten en kosten beperkt: informatie-asymmetrie (1). Voorwaarde iv (gps) geeft direct inzicht in vertraging en uitval (1). Voorwaarde v (maximumprijs) beperkt winstmaximalisatie ten koste van reizigers (1).",
+"pnt": 4
+},
+{
+"id": "G.INFOR01.v22120",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2022-I, vraag 20)\nLeg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.",
+"model": "Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.",
+"pnt": 3
+},
+{
+"id": "G.INFOR01.v2229",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2022-II, vraag 9)\nVerklaar het principaal-agentprobleem tussen Leport en de deelnemende bedrijven en noem een contractclausule die het probleem kan oplossen.",
+"model": "Leport is agent, de bedrijven zijn principaal (1). Asymmetrische informatie: de bedrijven weten niet of Leport efficiënt werkt of tarieven verhoogt (1). Clausule: Leport betaalt een boete of is aansprakelijk voor extra kosten bij te weinig capaciteit (1).",
+"pnt": 3
+},
+{
+"id": "G.INFOR01.v23112",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2023-I, vraag 12)\nBij een kredietverzekering neemt de verzekeraar de rol van principaal over en is het inkopende bedrijf de agent. Leg dit principaal-agentprobleem uit en geef aan welke verzekeringsvoorwaarde het kan verminderen.",
+"model": "Tegengestelde belangen: de verzekeraar wil dat er betaald wordt, het inkopende bedrijf kan of wil niet meer betalen (1). Asymmetrische informatie: de verzekeraar weet onvoldoende of het bedrijf kan betalen (1). De derde voorwaarde: doorberekening van de incassokosten (1).",
+"pnt": 3
+},
+{
+"id": "G.INFOR01.v23216",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2023-II, vraag 16)\nBeschrijf het principaal-agentprobleem tussen PostNV en de overheid en leg uit hoe toezicht door de mededingingsautoriteit dit probleem kan verminderen.",
+"model": "Overheid is principaal en PostNV agent; de overheid wil betaalbare bezorging, PostNV maximale winst of kruissubsidie (1). De overheid heeft te weinig informatie om dat te controleren (1). Toezicht verkleint de informatieachterstand en daarmee de tegenstelling van belangen (1).",
+"pnt": 3
+},
+{
+"id": "G.INFOR01.v24223",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2024-II, vraag 23)\nEen expert zegt dat bij overige ondernemingen sprake is van een principaal-agentprobleem en bij zzp'ers niet. Leg dat uit.",
+"model": "Bij overige ondernemingen zijn de belangen tegengesteld: bij een hack loopt de werknemer geen inkomensrisico, de werkgever wel. Er is asymmetrische informatie: de werkgever kan niet controleren of voorschriften worden gevolgd. Een zzp'er is zelf principaal en agent.",
+"pnt": 3
+},
+{
+"id": "G.INFOR01.v2516",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2025-I, vraag 6)\nEen vergelijkingssite krijgt een vaste vergoeding per afgesloten verzekering. Volgens een econoom ontstaat een principaal-agentprobleem tussen consument (principaal) en site (agent). Leg uit dat dit kan.",
+"model": "Tegengestelde belangen: de consument wil de beste of goedkoopste polis, de site kan polissen adviseren waar zij zelf het meest aan verdient (1). Asymmetrische informatie: de consument weet niet of het advies in zijn belang is (1).",
+"pnt": 2
+},
+{
+"id": "G.INFOR01.v25218",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2025-II, vraag 18)\nDe inspectie let alleen op onderwijskwaliteit, scholen steken veel van hun lumpsum in marketing. Leg uit of er sprake is van een principaal-agentprobleem.",
+"model": "Inspectie is principaal, school agent. Asymmetrische informatie: de inspectie ziet niet hoe de lumpsum wordt besteed. Tegengestelde belangen: kwaliteit tegenover leerlingen werven. Dus ja.",
+"pnt": 2
+},
+{
+"id": "G.INFOR01.v26229",
+"t": "open",
+"e": "G.info",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "(Examen vwo 2026-II, vraag 29)\nBij de vergadering gelden verplichte deelname, geen terugtrekking en zelfmeting door landen. Leg het principaal-agentprobleem uit (VN als principaal) en noem een maatregel die het risico vermindert.",
+"model": "Tegengestelde belangen: de VN wil klimaatbeleid, landen willen goedkoper produceren (1). Asymmetrische informatie: landen meten zelf en kunnen andere data aanleveren (1). Maatregel: contract met boetes die klimaatbeleid rendabeler maken (1).",
+"pnt": 3
+}
+],
+"gens": [],
+"niv": "v"
+},
+{
+"id": "G.INFOR02",
+"hfd": "Thema Informatieproblemen",
+"naam": "Beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft",
+"kort": "Ik kan beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft.",
+"doel": "Ik kan beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft.",
+"bron": "ECO-INFOR-02",
+"uitleg": [
+{
+"t": "Asymmetrische informatie",
+"x": "Benoem wie meer weet en wie minder, en het gevolg (risico of kosten) voor de partij met minder informatie. Bij een tweezijdig probleem verwoord je beide vormen. Oplossingen zijn informatie opvragen, de boekhouding controleren of een keurmerk, al kunnen te veel keurmerken het probleem weer vergroten. Een overheidsvangnet kan juist een prikkel tot meer risico geven."
+},
+{
+"t": "Zoek- en transactiekosten",
+"x": "Zoek- en transactiekosten zijn de tijd en moeite om informatie te vinden of een koop te sluiten. Bij onvolledige informatie kost uitzoeken meer tijd, dus de zoekkosten stijgen. Verwar ze niet met de prijs van het product. Bij toezicht nemen de transactiekosten juist toe door controle en contracten, waardoor het een afweging is."
+},
+{
+"t": "Zelden getoetste begrippen",
+"x": "Het CV toetst de definitie letterlijk. Maximale omzet: MO = 0, met een lagere prijs dan bij maximale winst. Zoek- en transactiekosten: onvolledige informatie kost tijd, dus hogere kosten; vergelijkingssites geven meer concurrentie. Collectief goed: niet-rivaliserend én niet-uitsluitbaar. Voorraad op een tijdstip, stroom over een periode. Verkeersvergelijking M × V = P × T. Kruissubsidie: winst op het ene product betaalt de lage prijs van het andere."
+}
+],
+"vragen": [
+{
+"id": "G.INFOR02.v22120",
+"t": "open",
+"e": "G.info",
+"titel": "Beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft",
+"q": "(Examen vwo 2022-I, vraag 20)\nLeg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.",
+"model": "Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.",
+"pnt": 3
+},
+{
+"id": "G.INFOR02.v23216",
+"t": "open",
+"e": "G.info",
+"titel": "Beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft",
+"q": "(Examen vwo 2023-II, vraag 16)\nBeschrijf het principaal-agentprobleem tussen PostNV en de overheid en leg uit hoe toezicht door de mededingingsautoriteit dit probleem kan verminderen.",
+"model": "Overheid is principaal en PostNV agent; de overheid wil betaalbare bezorging, PostNV maximale winst of kruissubsidie (1). De overheid heeft te weinig informatie om dat te controleren (1). Toezicht verkleint de informatieachterstand en daarmee de tegenstelling van belangen (1).",
+"pnt": 3
+},
+{
+"id": "G.INFOR02.v2626",
+"t": "open",
+"e": "G.info",
+"titel": "Beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft",
+"q": "(Examen vwo 2026-II, vraag 6)\nEen bureau voert kredietonderzoek uit voor aangesloten kredietverleners. Leg uit dat de inzet van dit bureau de transactiekosten van kredietverleners per saldo kan verminderen.",
+"model": "Het bureau kan zich specialiseren, schaalvoordelen halen of door ervaring efficiënter werken (1). Daardoor onderzoekt het tegen lagere kosten dan de kredietverleners zelf (1).",
+"pnt": 2
+}
+],
+"gens": [],
+"niv": "v"
+},
+{
+"id": "G.FINAN01",
+"hfd": "Thema Lenen en beleggen",
+"naam": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"kort": "Ik kan uitleggen waarom een lening zonder onderpand een hogere rente heeft.",
+"doel": "Ik kan uitleggen waarom een lening zonder onderpand een hogere rente heeft.",
+"bron": "ECO-FINAN-01",
+"uitleg": [
+{
+"t": "Rente, monetair beleid en vermogensmarkt",
+"x": "Renteverlaging maakt lenen aantrekkelijker en sparen minder, waardoor consumptie en investeringen stijgen en de inflatie oploopt; renteverhoging werkt andersom. Verlaging laat ook kapitaal wegstromen, zodat het aanbod van de munt stijgt en de koers daalt. Rentehoogte hangt af van risico (onderpand), inflatiecompensatie en vraag en aanbod van vermogen. Reële rente is nominaal min inflatie."
+},
+{
+"t": "Risico en verwachte waarde",
+"x": "Verwachte waarde = kans × bedrag. Een risiconeutraal persoon kiest de optie met de laagste verwachte kosten. Wie een premie boven de verwachte schade betaalt, is risicomijdend. Vergelijk een eigen risico met de premiebesparing. Een risicovollere lening heeft een hogere rente, onderpand verlaagt het risico. Vergeet de kans of het jaar niet in de berekening."
+},
+{
+"t": "Hoogte van de rente, reële rente en koopkracht",
+"x": "Rente is hoger bij meer risico (geen onderpand), compensatie voor inflatie en door vraag en aanbod van vermogen. Reële rente is nominale rente min inflatie; is die negatief, dan is lenen gunstig. Koopkracht: RIC = NIC : PIC × 100, of grofweg nominale stijging min inflatie. Verwissel nominaal en reëel niet."
+}
+],
+"vragen": [
+{
+"id": "G.FINAN01.h19220",
+"t": "open",
+"e": "G.finan",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "(Examen havo 2019-II, vraag 20)\nLeg uit waarom banken op hypothecaire leningen een lager rentepercentage rekenen dan op consumptieve leningen.",
+"model": "Bij een hypotheek is er onderpand, bij een consumptieve lening niet (1). Daardoor is het risico voor de bank lager en kan zij een lagere rente rekenen (1).",
+"pnt": 2
+},
+{
+"id": "G.FINAN01.h21316",
+"t": "open",
+"e": "G.finan",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "(Examen havo 2021-III, vraag 16)\nBanken geven rentekorting op een hypotheek bij energielabel A. Leg uit waarom dat kan. Gebruik het begrip risico.",
+"model": "Een woning met label A is beter verkoopbaar, dus de bank loopt minder risico op een te lage opbrengst van het onderpand bij gedwongen verkoop. Daarom kan zij een lagere rente vragen, passend bij de lagere risicokosten.",
+"pnt": 2
+},
+{
+"id": "G.FINAN01.h26219",
+"t": "open",
+"e": "G.finan",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "(Examen havo 2026-II, vraag 19)\nEen land heeft een negatief overheidssaldo en particulier spaarsaldo. Maak een juiste redenering over het saldo lopende rekening, rentebetalingen, de rente op nieuwe staatsobligaties en het effect van een onderpand.",
+"model": "(1) negatief, (2) verslechteren, (3) stijgen, (4) dalen. Eén punt voor (1) en (2) juist, één punt voor (3) en (4) juist.",
+"pnt": 2
+},
+{
+"id": "G.FINAN01.v2217",
+"t": "open",
+"e": "G.finan",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "(Examen vwo 2022-I, vraag 7)\nUit de tabellen blijkt dat de hypotheekrente stijgt als de H/A-verhouding stijgt. Leg uit waarom.",
+"model": "Bij een hogere H/A-verhouding loopt de bank meer risico op een restschuld, want de schuld kan groter worden dan de woningwaarde als de huizenprijzen dalen. De bank vraagt daarom een hogere rente als compensatie voor dat risico.",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "G.FINAN02",
+"hfd": "Thema Lenen en beleggen",
+"naam": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"kort": "Ik kan aandelen en obligaties vergelijken op risico en verwacht rendement.",
+"doel": "Ik kan aandelen en obligaties vergelijken op risico en verwacht rendement.",
+"bron": "ECO-FINAN-02",
+"uitleg": [
+{
+"t": "Vermogensmarkt: aandelen, obligaties, hypotheken",
+"x": "De rente volgt uit vraag naar en aanbod van vermogen. Banken met te weinig buffers lenen minder uit, het aanbod daalt, de rente stijgt, investeringen en consumptie dalen. Het aandelenrendement hangt af van bedrijfsresultaten en is conjunctuurgevoelig; obligaties geven een vaste rente. Bij een vergelijking tussen beide moet het risico genoemd worden, anders maximaal 1 punt. Nominale en reële waarde van schulden niet verwarren."
+},
+{
+"t": "Aandelen en obligaties vergelijken",
+"x": "Aandelen geven een hoger verwacht rendement maar meer risico, en komen bij faillissement als laatste aan de beurt. Obligaties hebben een vaste rente en minder risico. Noem rendement én risico en de beleggingstermijn: jongeren kiezen aandelen omdat er tijd is om koersdalingen in te halen, ouderen kiezen veiliger obligaties. Zonder het risico krijg je hooguit een deel van de punten."
+}
+],
+"vragen": [
+{
+"id": "G.FINAN02.h22129",
+"t": "open",
+"e": "G.finan",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "(Examen havo 2022-I, vraag 29)\nGebruik bron 2. Leg uit welk effect een lagere rating van de kredietbeoordelaars heeft op de staatsschuld van Italië.",
+"model": "Lagere rating: beleggers eisen hogere rente, dus de rente-uitgaven stijgen (1p) en de overheid moet meer lenen, dus de schuld groeit (1p). Of: koersen van staatsobligaties dalen, banken lijden verlies en vragen staatssteun, dus de schuld stijgt.",
+"pnt": 2
+},
+{
+"id": "G.FINAN02.v19129",
+"t": "open",
+"e": "G.finan",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "(Examen vwo 2019-I, vraag 29)\nEen adviseur raadt jongeren aandelen aan en ouderen geleidelijk obligaties of een betaalrekening. Verklaar dit verschil in advies.",
+"model": "Jongeren beleggen nog lang, kunnen koersdalingen opvangen en profiteren van het hogere verwachte rendement van aandelen (2 punten). Ouderen hebben een korte horizon waarin dalingen niet te herstellen zijn, dus kiezen ze veiliger beleggingen zoals obligaties (1 punt).",
+"pnt": 3
+},
+{
+"id": "G.FINAN02.v2114",
+"t": "open",
+"e": "G.finan",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "(Examen vwo 2021-I, vraag 4)\nLeg uit dat een te sterke loonsverhoging het succes van de uitgifte van nieuwe aandelen van het concern in gevaar kan brengen.",
+"model": "Een te hoge loonsverhoging kan de verwachte winst te laag maken (1). Beleggers verwachten dan te weinig dividend, een dalende koers of een lager rendement op het aandeel. Ze tonen daardoor te weinig interesse in de aandelenuitgifte (1).",
+"pnt": 2
+},
+{
+"id": "G.FINAN02.v21112",
+"t": "open",
+"e": "G.finan",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "(Examen vwo 2021-I, vraag 12)\nEen pensioenfonds belegt de eerste twintig jaar vooral in aandelen, daarna vooral in staatsobligaties. De financieel directeur zegt dat dit over de hele periode een relatief hoog rendement bij laag risico geeft. Leg haar argumentatie uit.",
+"model": "Aandelen geven een hoog rendement en hoog risico, maar over twintig jaar is er tijd om een negatieve schok goed te maken (2). Obligaties geven laag rendement en laag risico. Over de hele periode is het rendement dus relatief hoog bij laag risico (1).",
+"pnt": 3
+},
+{
+"id": "G.FINAN02.v22310",
+"t": "open",
+"e": "G.finan",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "(Examen vwo 2022-III, vraag 10)\nHet fonds belegt voortaan 70% in aandelen ten koste van obligaties. Schrijf het vervolg van de uitspraak: verklaar waarom de portefeuille conjunctuurgevoeliger is en wat het gewijzigde risico betekent bij een omslag naar laagconjunctuur voor de betaalbaarheid van de vergrijzing.",
+"model": "Aandelenrendement hangt af van schommelende bedrijfsresultaten, obligaties geven een vaste rente (1p). Bij lagere groei of winstverwachtingen daalt het rendement van het fonds door het grotere risico, waardoor de betaalbaarheid van de vergrijzing in gevaar komt (2p; maximaal 1 zonder toegenomen risico).",
+"pnt": 3
+}
+],
+"gens": []
+},
 {
 "id": "G.ALGEM13",
 "hfd": "Thema Verzekeren",
@@ -1226,6 +2266,355 @@ LEVELS.G.push(...[
 ]);
 LEVELS.H.push(...[
 {
+"id": "H.ALGEM03",
+"hfd": "Thema Bbp en welvaart",
+"naam": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"kort": "Ik kan uitleggen wat het bbp is, het verschil tussen bruto en netto, en de informele sector.",
+"doel": "Ik kan uitleggen wat het bbp is, het verschil tussen bruto en netto, en de informele sector.",
+"bron": "ECO-ALGEM-03",
+"uitleg": [
+{
+"t": "Bbp, toegevoegde waarde en macro-identiteiten",
+"x": "Het bbp is de som van de toegevoegde waarden (omzet min inkoopwaarde), of de beloning van productiefactoren plus afschrijvingen, of de finale bestedingen. Voor sparen, investeren, overheid en buitenland geldt (S − I) + (B − O) = (E − M). Als maat voor welvaart schiet het bbp tekort bij verdeling, informele economie, externe effecten en bevolkingsgroei. Bij een rekenvraag hoort een conclusie."
+},
+{
+"t": "Bbp, toegevoegde waarde en welvaartsmaat",
+"x": "Toegevoegde waarde = omzet − inkoopwaarde; omzet is niet gelijk aan toegevoegde waarde. Het bbp meet de welvaart onvolledig: noem een concreet meetprobleem, zoals verdeling, informele economie, bevolkingsgroei of milieu. Groen bbp: noem beide kanten, de productie én de milieuschade, want groen bbp kan stijgen terwijl het bbp daalt."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM03.IT00551",
+"t": "open",
+"e": "H.bbp",
+"titel": "Productie in Lindora",
+"q": "Lindora is een eilandstaat. Het statistiekbureau wil het bbp van vorig jaar berekenen via de productie. In de tabel staan de gegevens van drie sectoren. De overheid verkoopt vrijwel niets aan bedrijven of consumenten en betaalde in totaal € 90 miljoen aan loon aan haar ambtenaren.\nTabel Gegevens per sector, in miljoenen euro's:\nSector | Omzet | Inkoop bij andere bedrijven\nLandbouw | 120 | 30\nIndustrie | 400 | 250\nCommerciële diensten | 500 | 180\nBereken het bbp van Lindora via de productie. Geef het antwoord in miljoenen euro's.\nDoe het als volgt:\n- Bereken de toegevoegde waarde van elke sector.\n- Houd rekening met de overheid.\n- Tel alles op.",
+"model": "Toegevoegde waarde = omzet min inkoop. Landbouw: 120 - 30 = 90. Industrie: 400 - 250 = 150. Diensten: 500 - 180 = 320. De overheid telt mee met de loonsom: 90. Bbp = 90 + 150 + 320 + 90 = € 650 miljoen.\nPuntenverdeling:\n• Toegevoegde waarde per sector = omzet min inkoop: landbouw 120 - 30 = 90, industrie 400 - 250 = 150, diensten 500 - 180 = 320 (miljoen euro) (1)\n• De loonsom van de overheid (90 miljoen euro) telt mee als toegevoegde waarde van de overheid (1)\n• Optellen: 90 + 150 + 320 + 90 = 650 miljoen euro (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM03.IT00552",
+"t": "open",
+"e": "H.bbp",
+"titel": "Meten in Karvonia",
+"q": "In Karvonia is het bbp vorig jaar € 200 miljard. Daarin zijn alle productiemiddelen die in de loop van het jaar slijtage hebben opgelopen, voor € 30 miljard afgeschreven.\nVeel huishoudens laten klussen, schoonmaak en reparaties contant en zonder aangifte uitvoeren. Het statistiekbureau schat dat deze informele sector een productie van € 12 miljard heeft. Die productie staat niet in de officiële cijfers.\nBeredeneer of de werkelijke nieuwe productie van Karvonia hoger of lager is dan het bbp van € 200 miljard. Gebruik de afschrijvingen en de informele sector.",
+"model": "Het bbp is bruto: afschrijvingen zijn slijtage en geen nieuwe productie. Netto is 200 - 30 = 170 miljard. De informele sector produceert wel, maar telt niet mee in het bbp. Dat is 12 miljard erbij: 182 miljard. Dat is lager dan 200 miljard.\nPuntenverdeling:\n• Afschrijvingen zijn geen nieuwe productie maar vervanging van versleten kapitaal. Het bbp is een bruto-maat, dus het netto binnenlands product is lager: 200 - 30 = 170 miljard euro (1)\n• De informele sector is wel productie, maar wordt niet geregistreerd en zit dus niet in het bbp. Dit moet erbij: 170 + 12 = 182 miljard euro (1)\n• Conclusie: de werkelijke nieuwe productie (182 miljard euro) is lager dan het bbp (200 miljard euro) (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM03.IT00553",
+"t": "open",
+"e": "H.bbp",
+"titel": "Fietsen uit Ostria",
+"q": "Fietsenfabriek Velora in Ostria heeft vorig jaar voor € 5 miljoen aan fietsen verkocht. Voor de productie kocht Velora voor € 3 miljoen onderdelen bij andere bedrijven. De machines van Velora zijn in dat jaar voor € 0,5 miljoen afgeschreven.\nMaak van onderstaande tekst een economisch juiste tekst.\nDe toegevoegde waarde van Velora is ...(1)... .\nHet bbp van Ostria is de som van alle ...(2)... .\nDe netto toegevoegde waarde van Velora, na aftrek van de afschrijvingen, is ...(3)... .\nKies uit: bij (1) € 2 miljoen / € 3 miljoen / € 5 miljoen\nbij (2) toegevoegde waarden / omzetten / inkopen\nbij (3) € 1,5 miljoen / € 2,0 miljoen / € 2,5 miljoen",
+"model": "(1) € 2 miljoen, want 5 - 3 = 2. (2) toegevoegde waarden. (3) € 1,5 miljoen, want 2 - 0,5 = 1,5.\nPuntenverdeling:\n• Ten minste twee van de drie keuzes juist: (1) € 2 miljoen, (2) toegevoegde waarden, (3) € 1,5 miljoen (1)\n• Alle drie de keuzes juist (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "H.ALGEM06",
+"hfd": "Thema Bbp en welvaart",
+"naam": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"kort": "Ik kan het enge en brede welvaartsbegrip, HDI, WHI en groen bbp benoemen.",
+"doel": "Ik kan het enge en brede welvaartsbegrip, HDI, WHI en groen bbp benoemen.",
+"bron": "ECO-ALGEM-06",
+"uitleg": [
+{
+"t": "Bbp, toegevoegde waarde en macro-identiteiten",
+"x": "Het bbp is de som van de toegevoegde waarden (omzet min inkoopwaarde), of de beloning van productiefactoren plus afschrijvingen, of de finale bestedingen. Voor sparen, investeren, overheid en buitenland geldt (S − I) + (B − O) = (E − M). Als maat voor welvaart schiet het bbp tekort bij verdeling, informele economie, externe effecten en bevolkingsgroei. Bij een rekenvraag hoort een conclusie."
+},
+{
+"t": "Concurrentiepositie, loonkosten per product en structurele groei",
+"x": "Stijgen de lonen sneller dan de arbeidsproductiviteit, dan stijgen de loonkosten per product, worden ze doorberekend in de prijs en verslechtert de concurrentiepositie. Loonkosten per product = loonindex : productiviteitsindex, met conclusie. Innovatie en onderwijs verhogen de productiviteit en de export. Structurele groei is meer of betere productiefactoren; bij groen bbp bespreek je zowel bbp als milieuschade."
+},
+{
+"t": "Bbp, toegevoegde waarde en welvaartsmaat",
+"x": "Toegevoegde waarde = omzet − inkoopwaarde; omzet is niet gelijk aan toegevoegde waarde. Het bbp meet de welvaart onvolledig: noem een concreet meetprobleem, zoals verdeling, informele economie, bevolkingsgroei of milieu. Groen bbp: noem beide kanten, de productie én de milieuschade, want groen bbp kan stijgen terwijl het bbp daalt."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM06.IT00554",
+"t": "open",
+"e": "H.bbp",
+"titel": "Welvaart in Zuidmark",
+"q": "Het land Zuidmark meet zijn welvaart op twee manieren. Het bureau voor de statistiek publiceert elk jaar het bbp per hoofd, de Human Development Index (HDI) en de World Happiness Index (WHI).\nDe HDI combineert het inkomen per hoofd, de levensverwachting en het opleidingsniveau. De WHI is gebaseerd op een enquête. Daarin geven inwoners zelf een cijfer voor hoe gelukkig zij zich voelen.\nIn 2025 steeg het bbp per hoofd in Zuidmark sterk. De WHI daalde in dat jaar.\nLeg uit welke van de twee maatstaven, de HDI of de WHI, een subjectieve maatstaf voor welvaart is.",
+"model": "De WHI is subjectief, omdat inwoners zelf aangeven hoe gelukkig zij zich voelen. Dat is hun eigen mening. De HDI is niet subjectief, omdat die berekend wordt met meetbare gegevens: inkomen, levensverwachting en opleiding.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord: De WHI is subjectief, want de uitkomst is gebaseerd op de mening of beleving van de inwoners zelf (zij geven zelf een cijfer voor hun geluk). (1)\n• De HDI is niet subjectief (objectief), want die is gebaseerd op meetbare gegevens: inkomen, levensverwachting en opleidingsniveau. (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM06.IT00555",
+"t": "open",
+"e": "H.bbp",
+"titel": "Groen bbp in Noordvaart",
+"q": "Noordvaart is een eilandstaat met veel industrie en toerisme. De regering is trots op de groei van het bbp. Milieuorganisaties wijzen op meer vervuiling van kust en lucht.\nEen onderzoeksbureau schat de milieuschade en de milieuverbetering in geld. Verbetering komt bijvoorbeeld door nieuwe zuiveringsinstallaties. Alle bedragen staan in miljarden euro's.\nTabel Gegevens Noordvaart (in miljarden euro's):\n| 2024 | 2025\nBbp | 480 | 500\nGeschatte milieuschade | 40 | 70\nGeschatte milieuverbetering | 5 | 6\nToon met een berekening aan dat het groen bbp van Noordvaart in 2025 lager is dan in 2024, terwijl het bbp is gestegen, en geef aan welk welvaartsbegrip (eng of breed) daardoor een beter beeld geeft van de welvaart.\nDoe het als volgt:\n- bereken het groen bbp in 2024 en in 2025;\n- vergelijk beide uitkomsten en trek een conclusie.",
+"model": "Groen bbp 2024 = 480 − 40 + 5 = 445 miljard euro. Groen bbp 2025 = 500 − 70 + 6 = 436 miljard euro. Het bbp stijgt van 480 naar 500, maar de milieuschade stijgt veel harder. Daardoor daalt het groen bbp. Het brede welvaartsbegrip past beter, want het eng welvaartsbegrip (bbp) laat de schade buiten beschouwing.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord (groen bbp = bbp − milieuschade + milieuverbetering): Groen bbp 2024 = 480 − 40 + 5 = 445 miljard euro (1)\n• Groen bbp 2025 = 500 − 70 + 6 = 436 miljard euro (1)\n• Conclusie: het groen bbp daalt (445 → 436) terwijl het bbp stijgt (480 → 500), doordat de milieuschade meer toeneemt dan het bbp. Het brede welvaartsbegrip (groen bbp) geeft een beter beeld, want het bbp alleen (eng welvaartsbegrip) laat de milieuschade buiten beschouwing. (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM06.IT00556",
+"t": "open",
+"e": "H.bbp",
+"titel": "Oliestaat Karvia",
+"q": "Karvia is een klein land dat veel olie exporteert. Het bbp per hoofd is er hoog, het hoogste van de regio. Toch staat Karvia in de regio pas op de zesde plaats op de ranglijst van de Human Development Index (HDI).\nEen econoom zegt dat het bbp per hoofd de welvaart in Karvia te rooskleurig weergeeft, omdat het bbp een eng welvaartsbegrip is.\nNoem twee onderdelen van de HDI die geen deel uitmaken van het bbp per hoofd.",
+"model": "Levensverwachting en opleidingsniveau.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord: Levensverwachting (gezondheid) (1)\n• Opleidingsniveau (onderwijs) (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "H.ALGEM07",
+"hfd": "Thema Bbp en welvaart",
+"naam": "Bbp stijgt, welvaart daalt (extern effect)",
+"kort": "Ik kan uitleggen waarom het bbp stijgt en de welvaart daalt door externe effecten.",
+"doel": "Ik kan uitleggen waarom het bbp stijgt en de welvaart daalt door externe effecten.",
+"bron": "ECO-ALGEM-07",
+"uitleg": [
+{
+"t": "Externe effecten en collectieve goederen",
+"x": "Een extern effect heeft twee elementen: het raakt anderen dan koper en verkoper, en het zit niet in de prijs. Noem je maar één element, dan maximaal 1 punt. Internaliseren kan met een heffing of emissierecht ter hoogte van de maatschappelijke kosten. Een collectief goed is niet-rivaliserend én niet-uitsluitbaar; 'de overheid levert het' is geen argument."
+},
+{
+"t": "Externe effecten en maatschappelijke kosten",
+"x": "Een antwoord heeft altijd twee elementen: kosten of baten bij anderen dan producent en consument, én niet verrekend in de prijs of niet betaald door de veroorzaker. Internaliseren gebeurt met een heffing (negatief effect) of subsidie (positief effect). Een subsidie is te verdedigen als de daling van maatschappelijke kosten groter is dan het subsidiebedrag. Weglekeffect: productie verhuist, dus mondiaal geen daling. Alleen 'milieuvervuiling' noemen geeft maximaal 1 punt."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM07.IT00339",
+"t": "open",
+"e": "H.bbp",
+"titel": "Kippenslachterij in Veldwijk",
+"q": "In Veldwijk opent Kipperij Dalhoef een nieuwe slachterij. Het bedrijf koopt levende kippen, verpakkingen en energie in bij andere bedrijven en verkoopt kippenvlees aan supermarkten. Het CBS berekent het bbp van de regio.\nHet afvalwater van de slachterij stroomt via een beek een natuurgebied in en de slachterij geeft sterke geurhinder. Omwonenden en de beheerder van het natuurgebied hebben daardoor schade. Dalhoef betaalt hier niet voor.\nGebruik de tabel.\nTabel Kipperij Dalhoef (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet | 48\nInkoop van kippen, verpakking en energie | 36\nGeschatte schade aan natuur en woningwaarde, niet betaald door Dalhoef | 14\nVerklaar met behulp van de tabel dat het bbp van Veldwijk stijgt terwijl de welvaart in Veldwijk daalt.",
+"model": "Dalhoef maakt een toegevoegde waarde van 48 - 36 = € 12 miljoen, dus het bbp stijgt. De schade van € 14 miljoen voor natuur en woningen ligt bij anderen en zit niet in de prijs van het vlees: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 12 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van Dalhoef: omzet min inkoop is 48 - 36 = € 12 miljoen. (1)\n• De schade aan natuur en woningwaarde en de geurhinder komen terecht bij anderen en worden niet door Dalhoef betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 14 miljoen) is groter dan de toegevoegde waarde (€ 12 miljoen), dus de welvaart daalt, terwijl het bbp stijgt. (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM07.IT00505",
+"t": "open",
+"e": "H.bbp",
+"titel": "Evenementenhal in Beukenrode",
+"q": "In Beukenrode opent Arena Beukenrode, een evenementenhal voor concerten. De hal koopt techniek, catering en beveiliging in bij andere bedrijven. Het CBS berekent het bbp van de gemeente.\nBij elk concert hebben omwonenden last van geluid en parkeeroverlast. De exploitant betaalt hun niets en de kaartprijs is er niet hoger door.\nTabel Arena Beukenrode (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit kaartverkoop en consumpties | 30\nInkoop van techniek, catering en beveiliging | 18\nLeg uit dat het bbp van Beukenrode stijgt door de komst van de hal, terwijl de overlast voor omwonenden niet in het bbp terechtkomt.\nGebruik de tabel.",
+"model": "De hal maakt een toegevoegde waarde van 30 - 18 = € 12 miljoen, dus het bbp stijgt. De overlast raakt omwonenden, die geen koper of verkoper zijn, en zit niet in de kaartprijs. Het is een negatief extern effect. Het wordt niet betaald en daarom niet in het bbp geteld.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de hal: omzet min inkoop is 30 - 18 = € 12 miljoen. (1)\n• De overlast raakt omwonenden (anderen dan de hal en het publiek) en zit niet in de kaartprijs: een negatief extern effect. Daarom telt de overlast niet mee in het bbp. (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM07.IT00506",
+"t": "open",
+"e": "H.bbp",
+"titel": "Biomassacentrale in Roodveen",
+"q": "In Roodveen opent Energie Roodveen een biomassacentrale die stroom en warmte levert aan bedrijven en huishoudens. De centrale koopt houtpellets, onderhoud en transport in bij andere bedrijven. Het CBS berekent het bbp van de regio.\nDe schoorsteen geeft fijnstof en de vrachtwagens veroorzaken lawaai. Omwonenden worden hierdoor vaker ziek en de woningen in de buurt verliezen waarde. De centrale betaalt hier niet voor.\nTabel Energie Roodveen (per jaar, in miljoenen euro's):\nGegeven | Bedrag\nOmzet uit stroom en warmte | 60\nInkoop van houtpellets, onderhoud en transport | 45\nGeschatte schade door fijnstof en lawaai, niet betaald door de centrale | 18\nVerklaar met behulp van de tabel dat het bbp van Roodveen stijgt terwijl de welvaart in Roodveen daalt.\nGebruik de tabel.",
+"model": "De centrale maakt een toegevoegde waarde van 60 - 45 = € 15 miljoen, dus het bbp stijgt. De schade van € 18 miljoen ligt bij omwonenden en zit niet in de prijs van stroom: een negatief extern effect. Zij telt niet mee in het bbp. De schade is groter dan € 15 miljoen, dus de welvaart daalt.\nPuntenverdeling:\n• Het bbp stijgt door de toegevoegde waarde van de centrale: omzet min inkoop is 60 - 45 = € 15 miljoen. (1)\n• De schade door fijnstof en lawaai komt terecht bij omwonenden en wordt niet door de centrale betaald: een negatief extern effect. Deze schade zit niet in de prijs en dus niet in het bbp. (1)\n• De schade (€ 18 miljoen) is groter dan de toegevoegde waarde (€ 15 miljoen), dus de welvaart daalt (met € 3 miljoen), terwijl het bbp stijgt. (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM07.IT00507",
+"t": "open",
+"e": "H.bbp",
+"titel": "Houtkachels in Ravenhorst",
+"q": "In de gemeente Ravenhorst kopen veel huishoudens een houtkachel. Winkels verkopen meer kachels en haardhout, en installateurs hebben veel werk. Het bbp van Ravenhorst steeg daardoor met 2,1%.\nBuren klagen over rook en een stank die in hun tuin en huis komt. Sommige kinderen hebben vaker last van hun luchtwegen. De kachelgebruikers betalen hier niets voor.\nLeg uit dat het bbp van Ravenhorst stijgt door de houtkachels, terwijl de welvaart in Ravenhorst kan dalen.",
+"model": "Er worden meer kachels en meer haardhout verkocht en geïnstalleerd, dus de productie en het bbp stijgen. De rook raakt buren die geen koper of verkoper zijn en zit niet in de prijs. Dit is een negatief extern effect. Het staat niet in het bbp, maar verlaagt wel de welvaart.\nPuntenverdeling:\n• Het bbp stijgt doordat de productie en de toegevoegde waarde van winkels, haardhoutverkopers en installateurs toenemen. (1)\n• De rook, stank en luchtwegklachten raken buren (anderen dan koper en verkoper) en worden niet betaald door de kachelgebruikers: een negatief extern effect. Dit zit niet in de prijs en dus niet in het bbp, terwijl het de welvaart verlaagt. (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "H.ALGEM10",
+"hfd": "Thema Belastingen",
+"naam": "Inkomstenbelasting box 1 berekenen",
+"kort": "Ik kan uitrekenen hoeveel inkomstenbelasting iemand in box 1 betaalt.",
+"doel": "Ik kan uitrekenen hoeveel inkomstenbelasting iemand in box 1 betaalt.",
+"bron": "ECO-ALGEM-10",
+"uitleg": [
+{
+"t": "Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk",
+"x": "Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen."
+},
+{
+"t": "Belasting berekenen met schijven, aftrekpost en heffingskorting",
+"x": "Per schijf bereken je tarief × bedrag, tel op en trek daarna de heffingskortingen af. Rekenen alles tegen het hoogste tarief of de heffingskorting vergeten kost punten. Een aftrekpost verlaagt het belastbaar inkomen: voordeel = bedrag × marginaal tarief, dus hogere inkomens profiteren procentueel meer."
+},
+{
+"t": "Aftrekpost en heffingskorting",
+"x": "Een aftrekpost verlaagt het belastbaar inkomen; het voordeel is het bedrag maal het marginale tarief. Een heffingskorting gaat in zijn geheel van de belasting af en is dus voordeliger. Denken dat een aftrekpost het volle bedrag oplevert is de veelgemaakte fout."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM10.IT00518",
+"t": "open",
+"e": "H.belasting",
+"titel": "Volgorde in box 1",
+"q": "Tirza heeft in 2026 een bruto-inkomen van € 60.000. Zij betaalt € 8.000 hypotheekrente. Dat is haar enige aftrekpost. Hieronder staat hoe haar inkomstenbelasting in box 1 wordt berekend.\nMaak van onderstaande tekst een economisch juiste tekst.\nTirza trekt eerst de ...(1)... van haar bruto-inkomen af. Haar belastbaar inkomen is dan ...(2).... Over dit bedrag berekent zij de belasting ...(3).... Daarna gaat de ...(4)... van de berekende belasting af.\nKies uit: bij (1) aftrekpost / heffingskorting / inkomstenbelasting\nKies uit: bij (2) € 52.000 / € 60.000 / € 68.000\nKies uit: bij (3) per schijf / over het hele bedrag tegen het hoogste tarief / over het hele bedrag tegen het laagste tarief\nKies uit: bij (4) heffingskorting / aftrekpost / schijf",
+"model": "(1) aftrekpost, (2) € 52.000, (3) per schijf, (4) heffingskorting. Eerst 60.000 - 8.000 = 52.000. Dan reken je per schijf. Daarna trek je de heffingskorting van de belasting af.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende vier keuzes: bij (1) aftrekpost en bij (2) € 52.000 (1)\n• bij (3) per schijf en bij (4) heffingskorting (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM10.IT00519",
+"t": "open",
+"e": "H.belasting",
+"titel": "Belasting van een adviseur",
+"q": "Wessel heeft in 2026 een bruto-inkomen van € 56.000. Hij betaalt € 6.000 hypotheekrente. Dat is zijn enige aftrekpost. Zijn algemene heffingskorting is € 1.819 en zijn arbeidskorting is € 5.007.\nDe tarieven van box 1 staan in de tabel. Bron: Belastingdienst, tarieven 2026 (regels vereenvoudigd).\nTabel Tarieven box 1, 2026:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883 | 35,75%\n2 | meer dan € 38.883 tot en met € 78.426 | 37,56%\n3 | meer dan € 78.426 | 49,50%\nBereken hoeveel inkomstenbelasting Wessel in 2026 moet betalen.\nRond je eindantwoord af op twee decimalen.",
+"model": "Belastbaar inkomen: 56.000 - 6.000 = € 50.000. Schijf 1: 38.883 x 0,3575 = € 13.900,67. Schijf 2: 11.117 x 0,3756 = € 4.175,55. Samen € 18.076,22. Min heffingskortingen 1.819 + 5.007 = 6.826. Te betalen: € 11.250,22.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen: Belastbaar inkomen = 56.000 - 6.000 = € 50.000 (1)\n• Belasting per schijf: 38.883 x 0,3575 = € 13.900,67 en (50.000 - 38.883) x 0,3756 = € 4.175,55; samen € 18.076,22 (1)\n• Heffingskortingen eraf: 18.076,22 - 1.819 - 5.007 = € 11.250,22 (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM10.IT00520",
+"t": "open",
+"e": "H.belasting",
+"titel": "Gemiddeld tarief van een hogere inkomen",
+"q": "Hanneke werkt als juridisch adviseur. Zij heeft in 2026 een bruto-inkomen van € 96.000 en betaalt € 6.000 hypotheekrente. Dat is haar enige aftrekpost.\nHaar algemene heffingskorting is € 0 en haar arbeidskorting is € 2.403. De tarieven van box 1 staan in de tabel. Bron: Belastingdienst, tarieven 2026 (regels vereenvoudigd).\nTabel Tarieven box 1, 2026:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883 | 35,75%\n2 | meer dan € 38.883 tot en met € 78.426 | 37,56%\n3 | meer dan € 78.426 | 49,50%\nBereken het gemiddelde belastingtarief van Hanneke over haar belastbaar inkomen in 2026.\nSchat eerst: is het gemiddelde tarief hoger of lager dan 49,50%? Controleer daarmee je antwoord.\nGeef je antwoord in procenten met één decimaal.",
+"model": "Belastbaar inkomen: 96.000 - 6.000 = 90.000. Belasting: 13.900,67 + 39.543 x 0,3756 = 14.852,35 + 11.574 x 0,495 = 5.729,13, samen € 34.482,15. Min 2.403 = € 32.079,15. Gemiddeld tarief: 32.079,15 : 90.000 x 100% = 35,6%.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen: Belastbaar inkomen = 96.000 - 6.000 = € 90.000 en belasting per schijf: 38.883 x 0,3575 + (78.426 - 38.883) x 0,3756 + (90.000 - 78.426) x 0,495 = € 34.482,15 (1)\n• Te betalen belasting = 34.482,15 - 2.403 = € 32.079,15 (1)\n• Gemiddeld tarief = 32.079,15 : 90.000 x 100% = 35,6% (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM10.IT00521",
+"t": "open",
+"e": "H.belasting",
+"titel": "Hypotheekrente bij een hoog inkomen",
+"q": "Lars heeft in 2026 een inkomen van € 85.000, voordat de hypotheekrente is afgetrokken. Hij betaalt € 12.000 hypotheekrente.\nVoor aftrekposten geldt bij een inkomen boven € 78.426 een beperking: een aftrekpost levert dan maximaal 37,56% minder belasting op. Het eigenwoningforfait en de heffingskortingen blijven buiten beschouwing; de regels zijn vereenvoudigd.\nBron: Belastingdienst, Tariefsaanpassing aftrekposten als u hoog inkomen hebt (2026).\nBereken hoeveel minder inkomstenbelasting Lars in 2026 betaalt door de aftrek van de hypotheekrente.",
+"model": "Het inkomen van Lars is hoger dan € 78.426. Een aftrekpost levert dan maximaal 37,56% op. Het voordeel is 12.000 x 0,3756 = € 4.507,20. Hij betaalt dus € 4.507,20 minder belasting.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende twee stappen: Het inkomen is hoger dan € 78.426, dus de aftrekpost levert maximaal 37,56% op (1)\n• 12.000 x 0,3756 = € 4.507,20 minder belasting (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "H.ALGEM11",
+"hfd": "Thema Belastingen",
+"naam": "Heffingskorting werkt nivellerend",
+"kort": "Ik kan uitleggen waarom heffingskorting de inkomensverschillen kleiner maakt.",
+"doel": "Ik kan uitleggen waarom heffingskorting de inkomensverschillen kleiner maakt.",
+"bron": "ECO-ALGEM-11",
+"uitleg": [
+{
+"t": "Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk",
+"x": "Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen."
+},
+{
+"t": "Inkomensverdeling en belastingstelsel",
+"x": "Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout."
+},
+{
+"t": "Aftrekpost en heffingskorting",
+"x": "Een aftrekpost verlaagt het belastbaar inkomen; het voordeel is het bedrag maal het marginale tarief. Een heffingskorting gaat in zijn geheel van de belasting af en is dus voordeliger. Denken dat een aftrekpost het volle bedrag oplevert is de veelgemaakte fout."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM11.IT00523",
+"t": "open",
+"e": "H.belasting",
+"titel": "Een vaste korting voor iedereen",
+"q": "In het land Zuidmark krijgt iedere belastingbetaler dezelfde heffingskorting van € 3.000. Die korting gaat af van de belasting die je moet betalen. Lotte heeft een laag inkomen, Bram een hoog inkomen.\nNetto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.\nTabel Inkomen en belasting per jaar (in euro's):\n| Lotte | Bram\nBruto-inkomen | 20.000 | 80.000\nBelasting vóór korting | 7.000 | 28.000\nHeffingskorting | 3.000 | 3.000\nLeg uit dat deze heffingskorting nivellerend werkt.\nMaak de redenering af.\nSchakel 1 (gegeven): iedereen krijgt hetzelfde vaste bedrag aan heffingskorting.\nSchakel 2: Vergelijk dit vaste bedrag met het inkomen en de belasting van Lotte en van Bram. ......\nSchakel 3: Noem het effect op het verschil tussen de netto-inkomens van Lotte en Bram. ......",
+"model": "Elke belastingbetaler krijgt € 3.000. Voor Lotte is dat een groot deel van haar inkomen en haar belasting, voor Bram maar een klein deel. Lotte gaat er daardoor in verhouding meer op vooruit. De netto-inkomens komen dichter bij elkaar (verhouding van 4,0 naar 3,4). Dat is nivellering.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Het vaste bedrag is voor Lotte (laag inkomen) een veel groter deel van haar inkomen en belasting dan voor Bram (hoog inkomen). (1)\n• Daardoor stijgt het netto-inkomen van Lotte in verhouding meer dan dat van Bram, dus de netto-inkomens komen dichter bij elkaar (het verschil wordt kleiner): nivellering. (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM11.IT00524",
+"t": "open",
+"e": "H.belasting",
+"titel": "Een korting die afneemt",
+"q": "In het land Westerhaven krijgen mensen met een laag inkomen een hoge heffingskorting. Bij een hoger inkomen wordt de korting kleiner. Noor heeft een laag inkomen, Pieter een hoog inkomen.\nNetto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.\nTabel Inkomen en belasting per jaar (in euro's):\n| Noor | Pieter\nBruto-inkomen | 24.000 | 96.000\nBelasting vóór korting | 7.200 | 36.000\nHeffingskorting | 2.800 | 400\nBeredeneer waarom de heffingskorting in Westerhaven nivellerend werkt.\nVergelijk in je antwoord Noor en Pieter en noem het effect op het verschil tussen hun netto-inkomens.",
+"model": "De korting is bij Noor € 2.800 en bij Pieter € 400: ze daalt bij een hoger inkomen. Noor gaat netto in verhouding veel meer vooruit dan Pieter. Zonder korting is de verhouding 60.000 : 16.800 = 3,6, met korting 60.400 : 19.600 = 3,1. De netto-inkomens komen dichter bij elkaar: nivellering.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: De heffingskorting daalt bij een hoger inkomen: Noor (laag inkomen) krijgt € 2.800, Pieter (hoog inkomen) maar € 400. (1)\n• Daardoor stijgt het netto-inkomen van Noor in verhouding veel meer dan dat van Pieter (Noor betaalt in verhouding minder belasting). (1)\n• Het verschil tussen de netto-inkomens wordt kleiner (de verhouding daalt van 3,6 naar 3,1): de inkomens komen dichter bij elkaar, dus nivellering. (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM11.IT00525",
+"t": "open",
+"e": "H.belasting",
+"titel": "Hogere heffingskorting in Brevonia",
+"q": "De regering van Brevonia verhoogt de heffingskorting voor inkomens tot € 40.000 van € 1.200 naar € 2.000 per jaar. Mensen met een hoger inkomen hebben geen heffingskorting en merken niets van de maatregel.\nAnouk heeft een laag inkomen, Dirk een hoog inkomen. Netto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.\nTabel Inkomen en belasting per jaar (in euro's):\n| Anouk | Dirk\nBruto-inkomen | 18.000 | 72.000\nBelasting vóór korting | 5.400 | 25.200\nToon met een berekening aan dat deze verhoging van de heffingskorting leidt tot meer nivellering.\nVergelijk het netto-inkomen van Dirk met dat van Anouk vóór en na de verhoging.",
+"model": "Vóór de verhoging: Anouk 18.000 − 5.400 + 1.200 = 13.800, Dirk 72.000 − 25.200 = 46.800. Verhouding 46.800 : 13.800 = 3,4. Daarna: Anouk 14.600, verhouding 46.800 : 14.600 = 3,2. De verhouding wordt kleiner, dus het netto-verschil neemt af: meer nivellering.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Netto-inkomens vóór de verhoging: Anouk 18.000 − 5.400 + 1.200 = 13.800 en Dirk 72.000 − 25.200 = 46.800; verhouding 46.800 : 13.800 = 3,4. Na de verhoging: Anouk 18.000 − 5.400 + 2.000 = 14.600; verhouding 46.800 : 14.600 = 3,2. (1)\n• Conclusie: de verhouding (het verschil) tussen de netto-inkomens wordt kleiner (3,4 wordt 3,2), dus er is meer nivellering. (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "H.ALGEM12",
+"hfd": "Thema Belastingen",
+"naam": "Grens aan aftrektarief werkt nivellerend",
+"kort": "Ik kan uitleggen waarom een grens aan het aftrektarief de inkomensverschillen kleiner maakt.",
+"doel": "Ik kan uitleggen waarom een grens aan het aftrektarief de inkomensverschillen kleiner maakt.",
+"bron": "ECO-ALGEM-12",
+"uitleg": [
+{
+"t": "Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk",
+"x": "Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen."
+},
+{
+"t": "Belasting berekenen met schijven, aftrekpost en heffingskorting",
+"x": "Per schijf bereken je tarief × bedrag, tel op en trek daarna de heffingskortingen af. Rekenen alles tegen het hoogste tarief of de heffingskorting vergeten kost punten. Een aftrekpost verlaagt het belastbaar inkomen: voordeel = bedrag × marginaal tarief, dus hogere inkomens profiteren procentueel meer."
+},
+{
+"t": "Inkomensverdeling en belastingstelsel",
+"x": "Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM12.IT00301",
+"t": "open",
+"e": "H.belasting",
+"titel": "Dezelfde aftrekpost, ander voordeel",
+"q": "Ravi en Elin betalen allebei € 8.000 hypotheekrente per jaar. Het belastbaar inkomen van Ravi is € 32.000 en dat van Elin € 95.000. Dit zijn bedragen vóór aftrek van de hypotheekrente.\nDe rente is een aftrekpost: zij verlaagt het belastbaar inkomen. Boven een belastbaar inkomen van € 78.426 geldt voor aftrekposten maximaal 37,56%. Bron: Belastingdienst, tarieven 2026.\nTabel Schijventarief box 1, 2026:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883 | 35,75%\n2 | € 38.883 tot en met € 78.426 | 37,56%\n3 | meer dan € 78.426 | 49,50%\nBereken hoeveel euro meer belastingvoordeel Elin van de hypotheekrente heeft dan Ravi in 2026.\nDoe het als volgt:\n- bereken het voordeel van Ravi;\n- bereken het voordeel van Elin;\n- bereken het verschil.",
+"model": "Ravi: 8.000 x 35,75% = € 2.860,00. Elin zit boven € 78.426, dus maximaal 37,56%: 8.000 x 37,56% = € 3.004,80. Verschil: 3.004,80 - 2.860,00 = € 144,80. Elin heeft € 144,80 meer voordeel.\nPuntenverdeling:\n• Rond bedragen af op twee decimalen. Voordeel Ravi: 8.000 x 0,3575 = € 2.860,00 (1)\n• Voordeel Elin: 8.000 x 0,3756 = € 3.004,80 (grens) (1)\n• Verschil: 3.004,80 - 2.860,00 = € 144,80 (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM12.IT00303",
+"t": "open",
+"e": "H.belasting",
+"titel": "Onderhoud van een monument",
+"q": "Sofie en Joost zijn eigenaar van een verzonnen rijksmonument in Oudebrug. Zij hebben beiden dit jaar € 10.000 onderhoudskosten aan hun pand, die in 2026 volledig aftrekbaar zijn. Het belastbaar inkomen van Sofie is € 62.000 en dat van Joost € 118.000, beide vóór aftrek.\nBoven een belastbaar inkomen van € 78.426 geldt voor aftrekposten maximaal 37,56%.\nTabel Schijventarief box 1, 2026:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883 | 35,75%\n2 | € 38.883 tot en met € 78.426 | 37,56%\n3 | meer dan € 78.426 | 49,50%\nBeredeneer met een berekening dat de grens aan het aftrektarief het verschil in netto-inkomen tussen Sofie en Joost kleiner maakt.",
+"model": "Zonder grens krijgt Joost 10.000 x 49,50% = € 4.950,00 terug, Sofie 10.000 x 37,56% = € 3.756,00. Met grens krijgt Joost ook € 3.756,00: € 1.194,00 minder. Sofie houdt hetzelfde. Het netto-inkomensverschil wordt kleiner.\nPuntenverdeling:\n• Rond bedragen af op twee decimalen. Zonder grens: Joost 10.000 x 0,495 = € 4.950,00 voordeel; Sofie 10.000 x 0,3756 = € 3.756,00 (1)\n• Met grens krijgt Joost 3.756,00, dus € 1.194,00 minder (4.950,00 - 3.756,00); Sofie verandert niet (1)\n• Joost houdt € 1.194,00 minder over en Sofie even veel, dus het verschil in netto-inkomen wordt kleiner (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM12.IT00356",
+"t": "open",
+"e": "H.belasting",
+"titel": "Grens aan het aftrektarief bij hypotheekrente",
+"q": "In 2026 betalen Bas Verhoeven (bruto-inkomen € 60.000) en Mila Terpstra (bruto-inkomen € 120.000) allebei € 8.000 hypotheekrente. Die rente is een aftrekpost in box 1. Na aftrek is het belastbaar inkomen van Bas € 52.000 en dat van Mila € 112.000.\nBoven een belastbaar inkomen van € 78.426 levert een aftrekpost maximaal 37,56% belasting op. Zonder die grens zou Mila 49,50% besparen. Bron: Belastingdienst, Tariefsaanpassing aftrekposten als u hoog inkomen hebt (2026), https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/afbouw-tarief-aftrekposten-bij-hoog-inkomen\nLeg uit dat de grens van 37,56% voor aftrekposten nivellerend werkt.\nVergelijk in je antwoord Bas en Mila.",
+"model": "Zonder grens bespaart Mila 49,5% over haar rente en Bas 37,56%. Met de grens bespaart ook Mila maximaal 37,56%. Zij houdt dus minder voordeel over dan zonder grens. Daardoor wordt het verschil tussen het netto-inkomen van Mila en Bas kleiner. Dat is nivellerend.\nPuntenverdeling:\n• Een juiste uitleg bevat de volgende twee punten (oorzaak, tussenstap, gevolg): Zonder de grens zou de aftrek bij Mila 49,50% opleveren en bij Bas 37,56%. Met de grens levert de aftrek bij beiden maximaal 37,56% op, dus Mila besparen minder dan zonder grens (€ 3.004,80 in plaats van € 3.960,00 over € 8.000 rente). (1)\n• Het belastingvoordeel van de hoge inkomens wordt daardoor kleiner, waardoor het verschil tussen de netto-inkomens van hoge en lage inkomens kleiner wordt (nivellerend). (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM12.IT00359",
+"t": "open",
+"e": "H.belasting",
+"titel": "Een grens aan de aftrek",
+"q": "Kerstin en Dirk wonen in Kleinwerd. Kerstin heeft een belastbaar inkomen van € 45.000,00 en Dirk van € 110.000,00, beide vóór aftrek van hypotheekrente. Zij betalen allebei € 5.000,00 hypotheekrente per jaar. Deze rente is aftrekbaar. Na de aftrek blijft ieders inkomen in dezelfde schijf.\nNu geldt voor een belastbaar inkomen boven € 78.426,00 (vóór aftrek) een maximaal aftrektarief van 37,56%. Een politieke partij wil deze grens afschaffen. Dirk zou zijn rente dan tegen het hoogste schijftarief aftrekken.\nGebruik bron 1.\nTabel Bron 1 Schijventarief box 1, 2026 (Belastingdienst, https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen):\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883,00 | 35,75%\n2 | meer dan € 38.883,00 tot en met € 78.426,00 | 37,56%\n3 | meer dan € 78.426,00 | 49,50%\nLeg met een berekening uit dat de grens aan het aftrektarief nivellerend werkt. Vergelijk in je antwoord Kerstin en Dirk.",
+"model": "Zonder grens krijgt Dirk 5.000,00 × 0,495 = € 2.475,00 voordeel en Kerstin 5.000,00 × 0,3756 = € 1.878,00. Met de grens krijgt Dirk ook 5.000,00 × 0,3756 = € 1.878,00. Hij betaalt dus € 597,00 meer belasting. Kerstin merkt niets. Het verschil in netto-inkomen tussen hoog en laag inkomen wordt kleiner: nivellerend.\nPuntenverdeling:\n• . Een volledig antwoord heeft drie schakels (berekening voor beide personen, effect van de grens, conclusie nivellerend). Zonder de grens is het voordeel van de rente voor Dirk 5.000,00 × 0,495 = € 2.475,00 en voor Kerstin 5.000,00 × 0,3756 = € 1.878,00. Dirk heeft dus meer voordeel dan Kerstin. (1)\n• Met de grens is het voordeel van Dirk 5.000,00 × 0,3756 = € 1.878,00. Dirk betaalt daardoor € 597,00 meer belasting (2.475,00 − 1.878,00). Voor Kerstin verandert er niets. (1)\n• Het verschil in voordeel tussen hoog en laag inkomen verdwijnt, dus het verschil in netto-inkomen tussen Dirk en Kerstin wordt kleiner: de grens werkt nivellerend. (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM12.IT00526",
+"t": "open",
+"e": "H.belasting",
+"titel": "Zorgkosten en de grens aan de aftrek",
+"q": "Mirte en Joris wonen in Zandmeer. Mirte heeft een belastbaar inkomen van € 52.000,00 en Joris van € 95.000,00, beide vóór aftrek. Zij hebben allebei € 4.000,00 aan aftrekbare zorgkosten. Na de aftrek blijft ieders inkomen in dezelfde schijf.\nVoor een belastbaar inkomen boven € 78.426,00 (vóór aftrek) geldt nu een maximaal aftrektarief van 37,56%. De regering overweegt deze grens af te schaffen. Joris zou zijn zorgkosten dan tegen het tarief van zijn hoogste schijf aftrekken.\nTabel Bron 1 Schijventarief box 1, 2026 (vereenvoudigd). Bron: Belastingdienst, https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883,00 | 35,75%\n2 | meer dan € 38.883,00 tot en met € 78.426,00 | 37,56%\n3 | meer dan € 78.426,00 | 49,50%\nBeredeneer met een berekening dat de grens aan het aftrektarief nivellerend werkt. Vergelijk in je antwoord Mirte en Joris.\nGebruik bron 1.\nDoe het als volgt:\n- bereken het belastingvoordeel van beiden zonder de grens;\n- bereken wat de grens verandert voor Joris en voor Mirte;\n- trek een conclusie over het verschil in netto-inkomen.",
+"model": "Zonder grens krijgt Joris 4.000,00 × 0,495 = € 1.980,00 terug en Mirte 4.000,00 × 0,3756 = € 1.502,40. Met grens krijgt Joris ook € 1.502,40: € 477,60 minder. Mirte merkt niets. Het verschil in netto-inkomen wordt kleiner: nivellerend.\nPuntenverdeling:\n• Een volledig antwoord heeft drie schakels: voordeel zonder grens, effect van de grens, conclusie. Rond bedragen af op twee decimalen. Zonder grens is het voordeel van Joris 4.000,00 × 0,495 = € 1.980,00 (marginaal tarief 49,50%) en van Mirte 4.000,00 × 0,3756 = € 1.502,40. Joris heeft dus meer voordeel dan Mirte. (1)\n• Met de grens is het voordeel van Joris 4.000,00 × 0,3756 = € 1.502,40. Hij krijgt € 477,60 minder terug (1.980,00 − 1.502,40), dus hij betaalt meer belasting. Voor Mirte verandert er niets. (1)\n• Het extra voordeel voor het hoge inkomen verdwijnt, dus het verschil in netto-inkomen tussen Joris en Mirte wordt kleiner: de grens werkt nivellerend. (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM12.IT00534",
+"t": "open",
+"e": "H.belasting",
+"titel": "Hypotheekrente en de grens aan het aftrektarief",
+"q": "Anika en Bart wonen in Rivierstad. Zij betalen allebei € 10.000,00 hypotheekrente. Anika heeft een primair inkomen van € 60.000,00 en Bart van € 120.000,00. Na de aftrek blijft ieders inkomen in dezelfde schijf.\nHet besteedbare inkomen vóór het voordeel van de aftrek is € 46.000,00 voor Anika en € 84.000,00 voor Bart. Het voordeel van de aftrek komt daar nog bij. Boven € 78.426,00 mag een aftrekpost maximaal 37,56% opleveren (de grens).\nGebruik de tabel.\nTabel Schijventarief box 1, 2026 (vereenvoudigd). Bron: Belastingdienst, https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883,00 | 35,75%\n2 | meer dan € 38.883,00 tot en met € 78.426,00 | 37,56%\n3 | meer dan € 78.426,00 | 49,50%\nToon met een berekening aan dat de grens aan het aftrektarief het verschil tussen het besteedbare inkomen van Bart en dat van Anika kleiner maakt. Bereken daarvoor de verhouding tussen het inkomen van Bart en dat van Anika voor het primaire inkomen en voor het besteedbare inkomen, zonder en met de grens. Rond de verhoudingen af op twee decimalen.",
+"model": "Primair: 120.000 : 60.000 = 2,00. Zonder grens: voordeel Anika 10.000 × 0,3756 = € 3.756,00, Bart 10.000 × 0,495 = € 4.950,00. Besteedbaar: Anika € 49.756,00, Bart € 88.950,00, verhouding 1,79. Met grens krijgt Bart € 3.756,00: € 87.756,00, verhouding 1,76. De verhouding wordt kleiner, dus de grens werkt nivellerend.\nPuntenverdeling:\n• . Rond bedragen af op twee decimalen en verhoudingen op twee decimalen. Zonder grens trekt Bart af tegen 49,50% en Anika tegen 37,56%: voordeel Anika 10.000,00 × 0,3756 = € 3.756,00 en voordeel Bart 10.000,00 × 0,495 = € 4.950,00. Met grens is het voordeel van Bart 10.000,00 × 0,3756 = € 3.756,00. (1)\n• Besteedbaar zonder grens: Anika 46.000,00 + 3.756,00 = € 49.756,00 en Bart 84.000,00 + 4.950,00 = € 88.950,00, verhouding 88.950,00 : 49.756,00 = 1,79. Met grens: Bart 84.000,00 + 3.756,00 = € 87.756,00, verhouding 87.756,00 : 49.756,00 = 1,76. Primair: 120.000,00 : 60.000,00 = 2,00. (1)\n• Conclusie: de verhouding wordt kleiner (van 1,79 naar 1,76, en beide zijn kleiner dan de primaire 2,00), dus het verschil tussen de besteedbare inkomens wordt kleiner: de grens werkt nivellerend. (1)",
+"pnt": 3
+}
+],
+"gens": []
+},
+{
 "id": "H.BELAS01",
 "hfd": "Thema Belastingen",
 "naam": "Met gemiddelde tarieven aantonen dat een belastingstelsel progressief is",
@@ -1294,6 +2683,389 @@ LEVELS.H.push(...[
 }
 ],
 "gens": []
+},
+{
+"id": "H.ALGEM04",
+"hfd": "Thema Economische groei",
+"naam": "Reële groei berekenen met indexcijfers",
+"kort": "Ik kan met indexcijfers de reële groei uitrekenen.",
+"doel": "Ik kan met indexcijfers de reële groei uitrekenen.",
+"bron": "ECO-ALGEM-04",
+"uitleg": [
+{
+"t": "Rekenfouten, afronden, eenheden, doorwerkfouten en benaderingen",
+"x": "Rekenfouten kosten geen punten. Wie kennelijk niet controleert of de uitkomst kan kloppen, verliest 1 punt, hoogstens 3 per examen. Elke juiste afronding is goed. Doorwerken met een fout getal uit een vorige vraag kost meestal niets extra. Duizendtallen vergeten of procentpunten als procenten geven kost hoogstens 1 punt. Benaderingen zoals koopkracht ≈ nominale stijging − inflatie worden goed gerekend."
+},
+{
+"t": "Inflatie, koopkracht en indexcijfers",
+"x": "Koopkrachtverandering is ongeveer de nominale stijging min de inflatie, of exact RIC = NIC : PIC × 100. Bij deflatie verwachten consumenten verdere prijsdaling en stellen aankopen uit, waardoor bestedingen en productie dalen; die woorden zijn cursief. Geïmporteerde inflatie ontstaat via koersdaling. Koopkracht gelijkstellen aan de nominale stijging is fout."
+},
+{
+"t": "Hoogte van de rente, reële rente en koopkracht",
+"x": "Rente is hoger bij meer risico (geen onderpand), compensatie voor inflatie en door vraag en aanbod van vermogen. Reële rente is nominale rente min inflatie; is die negatief, dan is lenen gunstig. Koopkracht: RIC = NIC : PIC × 100, of grofweg nominale stijging min inflatie. Verwissel nominaal en reëel niet."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM04.IT00499",
+"t": "open",
+"e": "H.groei",
+"titel": "De formules voor reële groei",
+"q": "Het nominale bbp van Brevoria steeg van € 500 miljard in 2024 naar € 530 miljard in 2025. Het prijsindexcijfer van 2025 is 104,0 (2024 = 100).\nHet nominale indexcijfer van 2025 is ...(1)... . De reële groei bereken je met de formule Ric = ...(2)... . De reële groei van het bbp in 2025 is ...(3)... .\nMaak van onderstaande tekst een economisch juiste tekst.\nKies uit: bij (1) 94,3 / 106,0 / 530,0\nbij (2) Nic − Pic / Pic : Nic × 100 / Nic : Pic × 100\nbij (3) 1,9% / 2,0% / 6,0%",
+"model": "(1) 106,0, want 530 : 500 × 100. (2) Nic : Pic × 100. (3) 106,0 : 104,0 × 100 = 101,9, dus de reële groei is 1,9%.\nPuntenverdeling:\n• Bij (1) 106,0 en bij (2) Nic : Pic × 100 juist (1)\n• Bij (3) 1,9% (106,0 : 104,0 × 100 = 101,9) (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM04.IT00500",
+"t": "open",
+"e": "H.groei",
+"titel": "Reële groei in Selmora",
+"q": "Selmora is een land met een open economie. De overheid wil weten hoe sterk de productie echt is gegroeid. Het prijsindexcijfer van 2025 is gegeven met 2024 als basisjaar (2024 = 100).\nGebruik de gegevens in de tabel.\nTabel Bbp en prijzen van Selmora:\nJaar | Nominaal bbp (€ miljard) | Prijsindexcijfer (2024 = 100)\n2024 | 820 | 100,0\n2025 | 861 | 102,5\nBereken de reële groei van het bbp van Selmora in 2025 ten opzichte van 2024. Geef het antwoord in procenten, afgerond op één decimaal.",
+"model": "Nominaal indexcijfer: 861 : 820 × 100 = 105,0. Reëel: 105,0 : 102,5 × 100 = 102,4. De reële groei is dus 2,4%.\nPuntenverdeling:\n• Nominaal indexcijfer: 861 : 820 × 100 = 105,0 (nominale groei 5,0%) (1)\n• Reëel indexcijfer: 105,0 : 102,5 × 100 = 102,4, dus de reële groei is 2,4% (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM04.IT00501",
+"t": "open",
+"e": "H.groei",
+"titel": "Lomara: groei zonder inflatie",
+"q": "Lomara is een land dat veel exporteert. Het statistiekbureau van Lomara publiceert elk jaar het nominale bbp. In de tabel staat ook het prijsindexcijfer, met 2023 als basisjaar (2023 = 100).\nEen journalist schrijft dat het bbp in 2025 met 5,0% is gegroeid. Een econoom zegt dat de productie in werkelijkheid minder is toegenomen.\nTabel Bbp en prijzen van Lomara:\nJaar | Nominaal bbp (€ miljard) | Prijsindexcijfer (2023 = 100)\n2023 | 418 | 100,0\n2024 | 440 | 103,0\n2025 | 462 | 106,0\nBereken de reële groei van het bbp van Lomara in 2025 ten opzichte van 2024. Geef het antwoord in procenten, afgerond op één decimaal.\nDoe het als volgt:\n- Bereken de prijsstijging in 2025 ten opzichte van 2024.\n- Bereken de nominale groei als indexcijfer.\n- Bereken de reële groei.",
+"model": "Prijsindex 2025 t.o.v. 2024: 106,0 : 103,0 × 100 = 102,9. Nominaal: 462 : 440 × 100 = 105,0. Reëel: 105,0 : 102,9 × 100 = 102,0. De reële groei is 2,0%.\nPuntenverdeling:\n• Prijsindexcijfer 2025 ten opzichte van 2024: 106,0 : 103,0 × 100 = 102,9 (1)\n• Nominaal indexcijfer: 462 : 440 × 100 = 105,0 (1)\n• Reëel indexcijfer: 105,0 : 102,9 × 100 = 102,0, dus de reële groei is 2,0% (1)",
+"pnt": 3
+}
+],
+"gens": [
+"reeleGroei"
+]
+},
+{
+"id": "H.ALGEM05",
+"hfd": "Thema Economische groei",
+"naam": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"kort": "Ik kan met Y = A × f(K, L) twee groeiplannen vergelijken.",
+"doel": "Ik kan met Y = A × f(K, L) twee groeiplannen vergelijken.",
+"bron": "ECO-ALGEM-05",
+"uitleg": [
+{
+"t": "Concurrentiepositie, loonkosten per product en structurele groei",
+"x": "Stijgen de lonen sneller dan de arbeidsproductiviteit, dan stijgen de loonkosten per product, worden ze doorberekend in de prijs en verslechtert de concurrentiepositie. Loonkosten per product = loonindex : productiviteitsindex, met conclusie. Innovatie en onderwijs verhogen de productiviteit en de export. Structurele groei is meer of betere productiefactoren; bij groen bbp bespreek je zowel bbp als milieuschade."
+},
+{
+"t": "Structurele groei, productiecapaciteit en groen bbp",
+"x": "Structurele groei is groei van de productiecapaciteit. R&D verhoogt de totale factorproductiviteit, dus meer productie bij gelijke inzet en een productiefunctie die omhoog schuift. Publiek kapitaal verhoogt de productiviteit. Groen bbp is bbp min monetaire milieuschade; het CV wil een afweging van beide kanten. Bestedingsgroei (conjunctuur) verwarren met capaciteitsgroei, of bij groen bbp één kant noemen, is fout."
+},
+{
+"t": "Structurele groei en totale factorproductiviteit",
+"x": "Structurele groei is groei van de productiecapaciteit, dus van de potentiële productie, door investeringen, onderwijs, infrastructuur of R&D. Verwar dit niet met conjunctuur: meer bestedingen is geen structurele groei. Totale factorproductiviteit geeft aan hoe efficiënt arbeid en kapitaal samen worden ingezet; door R&D stijgt ze en verschuift de productiefunctie omhoog, zodat bij dezelfde inzet meer wordt geproduceerd."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM05.IT00502",
+"t": "open",
+"e": "H.groei",
+"titel": "De drie delen van de productiefunctie",
+"q": "Het planbureau van Vennemark beschrijft de productie van het land met de productiefunctie Y = A × f(K, L). Een medewerker legt aan nieuwe collega's uit dat de productie van drie dingen afhangt.\nDe regering wil de productie per persoon blijvend verhogen en wil weten welke factor daarvoor het belangrijkst is.\nNoem wat A, K en L in de productiefunctie voorstellen en noem welke van deze factoren de productie per persoon structureel verhoogt.",
+"model": "K is kapitaal, zoals machines en wegen. L is arbeid, dus de werkenden. A is de factorproductiviteit: hoe slim en efficiënt K en L samen worden ingezet, bijvoorbeeld door technologie. Een hogere A verhoogt de productie per persoon structureel.\nPuntenverdeling:\n• Een juist antwoord bevat: K is kapitaal (machines, gebouwen, infrastructuur) en L is arbeid (aantal werkenden of gewerkte uren) (1)\n• A is de (totale) factorproductiviteit: de technologie of efficiëntie waarmee K en L worden ingezet (1)\n• A (factorproductiviteit) verhoogt de productie per persoon structureel (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM05.IT00511",
+"t": "open",
+"e": "H.groei",
+"titel": "Meer inwoners of slimmer produceren in Haldrup",
+"q": "Haldrup wil de productie laten groeien. Nu wonen er 10 miljoen mensen, van wie 4 miljoen werken. Plan 1: de overheid haalt 1 miljoen arbeidsmigranten naar het land. Zij gaan allemaal in Haldrup wonen en werken. Plan 2: de overheid investeert in onderwijs en onderzoek, zodat bedrijven efficiënter produceren.\nHet ministerie schat de gevolgen. Bij beide plannen blijft de hoeveelheid kapitaal (K) gelijk.\nTabel Verwachte situatie in Haldrup:\n| Nu | Plan 1 | Plan 2\nBbp (miljard euro) | 200 | 215 | 208\nAantal inwoners (miljoen) | 10 | 11 | 10\nAantal werkenden (miljoen) | 4 | 5 | 4\nBeredeneer met behulp van Y = A × f(K, L) welk plan het bbp per hoofd structureel verhoogt.\nDoe het als volgt:\n- Geef per plan aan welke factor uit de productiefunctie verandert.\n- Bereken per plan het bbp per hoofd en vergelijk dit met nu.",
+"model": "Bij plan 1 stijgt L, bij plan 2 stijgt A. K blijft gelijk. Nu is het bbp per hoofd 200 miljard : 10 miljoen = € 20.000. Bij plan 1 is het 215 miljard : 11 miljoen = € 19.545,45, dus lager. Bij plan 2 is het 208 miljard : 10 miljoen = € 20.800. Een hogere A geeft structureel meer productie met dezelfde K en L. Plan 2 verhoogt het bbp per hoofd structureel.\nPuntenverdeling:\n• Een juist antwoord bevat: Plan 1: L stijgt (van 4 naar 5 miljoen werkenden, +25%); plan 2: A stijgt; K blijft bij beide gelijk (1)\n• Bbp per hoofd nu € 20.000 (200 miljard : 10 miljoen); plan 1 € 19.545,45 (215 miljard : 11 miljoen), dus lager dan nu; plan 2 € 20.800 (208 miljard : 10 miljoen), dus hoger dan nu (1)\n• Conclusie: plan 2 verhoogt het bbp per hoofd structureel, want een hogere A geeft meer productie met dezelfde inzet van K en L. Plan 1 niet: bij gelijke K stijgt Y minder dan evenredig met L (afnemende meeropbrengst), terwijl het aantal inwoners relatief meer stijgt (+10% tegenover +7,5% bbp) (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM05.IT00512",
+"t": "open",
+"e": "H.groei",
+"titel": "Krimpende beroepsbevolking in Veldrijk",
+"q": "In Veldrijk gaan veel mensen met pensioen. Zonder maatregelen daalt het aantal werkenden met 4%, terwijl het aantal inwoners gelijk blijft op 12 miljoen. Twee economen doen een voorstel. Econoom P wil de pensioenleeftijd verhogen. Econoom Q wil subsidie geven voor onderzoek en scholing.\nHet ministerie schat de gevolgen van beide voorstellen. De hoeveelheid kapitaal (K) blijft bij beide gelijk.\nTabel Verwachte situatie in Veldrijk:\n| Nu | Voorstel P | Voorstel Q\nBbp (miljard euro) | 300 | 300 | 312\nAantal inwoners (miljoen) | 12 | 12 | 12\nAantal werkenden (miljoen) | 6,00 | 6,00 | 5,76\nBeredeneer met Y = A × f(K, L) welk voorstel het bbp per inwoner ten opzichte van nu structureel verhoogt.",
+"model": "Bij P blijft L gelijk, en A en K ook. Het bbp blijft 300 miljard, dus per inwoner 300 miljard : 12 miljoen = € 25.000, net als nu. P voorkomt alleen een daling. Bij Q daalt L, maar het bbp stijgt naar 312 miljard. Dat kan alleen door een hogere A. Per inwoner is dat 312 miljard : 12 miljoen = € 26.000. Q verhoogt het bbp per inwoner structureel.\nPuntenverdeling:\n• Een juist antwoord bevat: Voorstel P: L blijft gelijk aan nu, A en K veranderen niet, dus Y blijft 300 miljard en het bbp per inwoner blijft € 25.000 (300 miljard : 12 miljoen): geen stijging ten opzichte van nu (1)\n• Voorstel Q: L daalt (5,76 miljoen werkenden), toch stijgt Y naar 312 miljard. Dat kan alleen doordat A stijgt; het bbp per inwoner wordt € 26.000 (312 miljard : 12 miljoen), hoger dan nu (1)\n• Conclusie: voorstel Q verhoogt het bbp per inwoner structureel, omdat een hogere A blijvend meer productie geeft met dezelfde of minder inzet van K en L (1)",
+"pnt": 3
+}
+],
+"gens": []
+},
+{
+"id": "H.GROEI01",
+"hfd": "Thema Economische groei",
+"naam": "Uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten",
+"kort": "Ik kan uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten.",
+"doel": "Ik kan uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten.",
+"bron": "ECO-GROEI-01",
+"uitleg": [
+{
+"t": "Kostenbegrippen TCK, TVK, GVK, GTK, MK",
+"x": "TK = TCK + TVK, GTK = TK : q, MK = TK'. Progressief variabele kosten laten MK en GVK stijgen. Schaalvoordeel: constante kosten verdelen over meer eenheden, dus lagere gemiddelde kosten; de constante kosten moeten verwoord worden. Break-even bij TO = TK. Op korte termijn doorproduceren zolang P groter is dan GVK. Een sluitingsbeslissing op GTK baseren is fout."
+},
+{
+"t": "Afnemende meeropbrengsten",
+"x": "Elke extra arbeider levert minder extra productie op dan de vorige: de productiecurve vlakt af. Daardoor stijgen de kosten per extra product. Noem de daling van de extra productie per arbeider en het gevolg voor de kosten. Het betekent niet dat de totale productie daalt; dat is de veelgemaakte fout."
+}
+],
+"vragen": [
+{
+"id": "H.GROEI01.v24128",
+"t": "open",
+"e": "H.groei",
+"titel": "Uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten",
+"q": "(Examen vwo 2024-I, vraag 28)\nLeg met productiefunctie Y1 uit dat de marginale winst van extra productie afneemt als de inzet van arbeid toeneemt.",
+"model": "Afnemende meeropbrengsten: de curve vlakt af, dus de extra productie per extra arbeider neemt af (1). De arbeidskosten per extra product stijgen bij gelijk loon, dus de marginale winst daalt (1).",
+"pnt": 2
+}
+],
+"gens": [
+"productiviteit"
+],
+"niv": "v"
+},
+{
+"id": "H.ALGEM08",
+"hfd": "Thema Inkomensverdeling",
+"naam": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"kort": "Ik kan een inkomensaandeel van een groep aflezen uit een Lorenzcurve.",
+"doel": "Ik kan een inkomensaandeel van een groep aflezen uit een Lorenzcurve.",
+"bron": "ECO-ALGEM-08",
+"uitleg": [
+{
+"t": "Inkomensverdeling, nivellering en solidariteit",
+"x": "Een Lorenzcurve dichter bij de diagonaal betekent gelijkere verdeling. Verhoudingen bereken je in procenten, niet in procentpunten. Nivellering betekent dat relatieve verschillen kleiner worden; verwoord de relatieve stijging. Groepsgemiddelden moeten gewogen zijn. Solidariteit: de ene groep draagt lasten van de andere; collectieve dwang is verplicht meedoen; meeliften is profiteren zonder bij te dragen."
+},
+{
+"t": "Lorenzcurve, inkomensverhouding en nivellering",
+"x": "Een curve dichter bij de diagonaal betekent een gelijkere verdeling. Inkomensverhouding = aandeel hoogste groep : aandeel laagste groep, als aantal keren; procentpunten gebruiken kost punten. Nivellering betekent kleinere relatieve verschillen: lage inkomens stijgen procentueel meer. Vergelijk percentages, niet alleen bedragen."
+},
+{
+"t": "Inkomensverdeling en belastingstelsel",
+"x": "Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM08.IT00514",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Inkomensverdeling in Kalvandia",
+"q": "In Kalvandia heeft een onderzoeksbureau de inkomens van alle huishoudens geordend van laag naar hoog. Het bureau heeft de Lorenzcurve van de verdeling van het besteedbare inkomen getekend. De waarden staan ook in de tabel.\nDe middengroep bestaat uit de huishoudens tussen 20% en 60% van de bevolking.\nTabel Lorenzcurve Kalvandia (fictieve cijfers):\nCumulatief % van de bevolking | Cumulatief % van het inkomen\n20 | 7\n40 | 19\n60 | 38\n80 | 64\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nKalvandia: 20% → 7% | 40% → 19% | 60% → 38% | 80% → 64%\nBereken hoeveel keer zo groot het inkomensaandeel van de rijkste 20% is als dat van de middengroep. Rond af op één decimaal.\nGebruik de figuur en de tabel.",
+"model": "Middengroep: 38% − 7% = 31% van het inkomen. Rijkste 20%: 100% − 64% = 36%. Verhouding: 36 : 31 ≈ 1,2. De rijkste 20% heeft dus 1,2 keer zoveel inkomen als de middengroep.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende stappen: Aandeel middengroep: 38% − 7% = 31% (1)\n• Aandeel rijkste 20%: 100% − 64% = 36% (1)\n• Verhouding 36 : 31 ≈ 1,2 keer zo groot (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM08.IT00515",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Herverdeling in Ostvaria",
+"q": "In Ostvaria verdienen huishoudens vooral met arbeid en vermogen. De overheid heft belasting en betaalt uitkeringen en toeslagen. Een onderzoeksbureau vergelijkt twee Lorenzcurves: die van het primaire inkomen en die van het secundaire inkomen. De waarden staan ook in de tabel.\nTabel Lorenzcurves Ostvaria (fictieve cijfers):\nCumulatief % van de bevolking | Cumulatief % van het primaire inkomen | Cumulatief % van het secundaire inkomen\n20 | 4 | 10\n40 | 13 | 25\n60 | 30 | 44\n80 | 58 | 68\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nPrimair inkomen: 20% → 4% | 40% → 13% | 60% → 30% | 80% → 58%\nSecundair inkomen: 20% → 10% | 40% → 25% | 60% → 44% | 80% → 68%\nBereken hoeveel procent meer de rijkste 20% van de huishoudens verdient dan de armste 20% na herverdeling.\nGebruik de figuur en de tabel.",
+"model": "Na herverdeling gebruik ik de secundaire curve. Armste 20%: 10%. Rijkste 20%: 100% − 68% = 32%. Verschil: (32 − 10) : 10 × 100% = 220%. De rijkste 20% verdient dus 220% meer.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende stappen: Armste 20% heeft 10% van het secundaire inkomen; rijkste 20% heeft 100% − 68% = 32% (1)\n• (32 − 10) : 10 × 100% = 220% meer (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM08.IT00522",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Inkomensverdeling in Merrowin",
+"q": "Een instituut in het land Merrowin onderzoekt hoe het inkomen over de bevolking is verdeeld. De uitkomst is weergegeven in een Lorenzcurve (fictieve cijfers).\nGebruik de figuur. De curve gaat door de punten (20% bevolking, 6% inkomen), (40%, 18%), (60%, 36%) en (80%, 62%).\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nMerrowin: 20% → 6% | 40% → 18% | 60% → 36% | 80% → 62%\nMaak van onderstaande tekst een economisch juiste tekst.\nOp de horizontale as van een Lorenzcurve staat het cumulatieve percentage van de ...(1)... . Op de verticale as staat het cumulatieve percentage van het ...(2)... . Het aandeel van de groep tussen 40% en 60% van de bevolking is de afgelezen waarde bij 60% ...(3)... de afgelezen waarde bij 40%. Dit aandeel is ...(4)... % van het totale inkomen.\nKies uit: bij (1) bevolking / inkomen / belasting\nKies uit: bij (2) inkomen / aantal huishoudens / aantal uren werk\nKies uit: bij (3) min / plus / gedeeld door\nKies uit: bij (4) 18 / 36 / 54",
+"model": "Op de horizontale as staat het cumulatieve percentage van de bevolking en op de verticale as het cumulatieve percentage van het inkomen. Het aandeel van de groep tussen 40% en 60% is de waarde bij 60% min de waarde bij 40%: 36 min 18 is 18%.\nPuntenverdeling:\n• bij (1) bevolking, bij (2) inkomen en bij (3) min (1)\n• bij (4) 18 (36 min 18) (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "H.ALGEM09",
+"hfd": "Thema Inkomensverdeling",
+"naam": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"kort": "Ik kan uitleggen wat primair en besteedbaar inkomen, Gini-coëfficiënt en nivelleren zijn.",
+"doel": "Ik kan uitleggen wat primair en besteedbaar inkomen, Gini-coëfficiënt en nivelleren zijn.",
+"bron": "ECO-ALGEM-09",
+"uitleg": [
+{
+"t": "Inkomensverdeling, nivellering en solidariteit",
+"x": "Een Lorenzcurve dichter bij de diagonaal betekent gelijkere verdeling. Verhoudingen bereken je in procenten, niet in procentpunten. Nivellering betekent dat relatieve verschillen kleiner worden; verwoord de relatieve stijging. Groepsgemiddelden moeten gewogen zijn. Solidariteit: de ene groep draagt lasten van de andere; collectieve dwang is verplicht meedoen; meeliften is profiteren zonder bij te dragen."
+},
+{
+"t": "Gemiddelde belastingdruk en progressief, proportioneel, degressief",
+"x": "Gemiddelde belastingdruk = te betalen belasting : inkomen × 100%. Progressief: hoger inkomen, hoger percentage; proportioneel: zelfde percentage; degressief: lager percentage. Noem altijd het effect op de inkomensverschillen na belasting; bij progressief worden die kleiner."
+},
+{
+"t": "Lorenzcurve, inkomensverhouding en nivellering",
+"x": "Een curve dichter bij de diagonaal betekent een gelijkere verdeling. Inkomensverhouding = aandeel hoogste groep : aandeel laagste groep, als aantal keren; procentpunten gebruiken kost punten. Nivellering betekent kleinere relatieve verschillen: lage inkomens stijgen procentueel meer. Vergelijk percentages, niet alleen bedragen."
+}
+],
+"vragen": [
+{
+"id": "H.ALGEM09.IT00313",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Het inkomen van een huishouden",
+"q": "Anouk en Rik Verbrugge hebben samen een loon van € 30.000 per jaar. Zij ontvangen € 3.000 aan toeslagen. Zij betalen € 8.000 aan belastingen en sociale premies.\nMaak van onderstaande tekst een economisch juiste tekst.\nHet loon van € 30.000 is het ...(1)... inkomen van dit huishouden. Na het bijtellen van de toeslagen en het aftrekken van de belastingen en premies houdt het huishouden zijn ...(2)... inkomen over. Dat is € ...(3)... .\nKies uit: bij (1) primaire / besteedbare / nominale\nbij (2) besteedbare / primaire / reële\nbij (3) 22.000 / 25.000 / 33.000",
+"model": "(1) primaire, (2) besteedbare, (3) 25.000. Het loon is het primaire inkomen. Besteedbaar inkomen = 30.000 + 3.000 - 8.000 = € 25.000.\nPuntenverdeling:\n• bij (1) primaire en bij (2) besteedbare (beide juist) (1)\n• bij (3) 25.000 (30.000 + 3.000 - 8.000) (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM09.IT00314",
+"t": "mc",
+"e": "H.verdeling",
+"titel": "Twee soorten inkomen",
+"q": "Een econoom van het fictieve onderzoeksbureau Statico bespreekt in een lezing de inkomens van huishoudens in Nederland. Hij maakt onderscheid tussen het primair inkomen en het besteedbaar inkomen. Vier toehoorders geven daarna elk een uitspraak over deze begrippen.\nWelke uitspraak is onjuist? Verklaar je keuze.\nGeef de hoofdletter van je keuze en leg in een of twee zinnen uit waarom deze uitspraak niet klopt.",
+"pnt": 2,
+"o": [
+"A. Het primair inkomen is wat een huishouden zelf verdient met arbeid, kapitaal of ondernemen, vóór belastingen en uitkeringen.",
+"B. Het besteedbaar inkomen is het inkomen dat een huishouden na herverdeling door de overheid kan uitgeven of sparen.",
+"C. Het besteedbaar inkomen is het primair inkomen plus uitkeringen en toeslagen, zonder dat belastingen en premies eraf gaan.",
+"D. Is de Gini-coëfficiënt van het besteedbaar inkomen lager dan die van het primair inkomen, dan nivelleert de overheid."
+],
+"a": 2,
+"u": "Uitspraak C is onjuist. Bij het besteedbaar inkomen worden de belastingen en sociale premies ook afgetrokken. Het is dus primair inkomen plus uitkeringen en toeslagen min belastingen en premies.\nPuntenverdeling:\n• Antwoord C is gekozen (1)\n• Verklaring: bij het besteedbaar inkomen gaan ook de belastingen en premies eraf (besteedbaar = primair + uitkeringen en toeslagen - belastingen en premies) (1)"
+},
+{
+"id": "H.ALGEM09.IT00315",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Inkomensverdeling in Zuidmark",
+"q": "In het fictieve land Zuidmark is de inkomensverdeling van huishoudens in 2025 op twee manieren weergegeven. De figuur toont twee Lorenzcurves: één voor het primair inkomen en één voor het besteedbaar inkomen. Welke curve bij welk inkomen hoort, staat er niet bij.\nDe cijfers zijn fictief en benaderen de werkelijkheid.\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nCurve 1: 20% → 4% | 40% → 12% | 60% → 27% | 80% → 50%\nCurve 2: 20% → 10% | 40% → 24% | 60% → 42% | 80% → 64%\nLeid met behulp van de figuur af of het belasting- en uitkeringsstelsel in Zuidmark heeft genivelleerd. Onderbouw je antwoord met getallen uit de figuur.",
+"model": "Curve 2 ligt dichter bij de diagonaal, dus is gelijker: dat is het besteedbaar inkomen. De armste 20% krijgt 10% in plaats van 4%. De rijkste 20% krijgt 36% in plaats van 50%. De verschillen worden kleiner: er is genivelleerd.\nPuntenverdeling:\n• Curve 2 ligt dichter bij de diagonaal, dus is gelijker verdeeld en hoort bij het besteedbaar inkomen; curve 1 is het primair inkomen (1)\n• Aflezing: armste 20% heeft 4% (primair) tegenover 10% (besteedbaar); rijkste 20% heeft 100 - 50 = 50% tegenover 100 - 64 = 36% (1)\n• Conclusie: de verschillen zijn kleiner geworden (rijkste : armste daalt van 12,5 naar 3,6 keer), dus er is genivelleerd (1)",
+"pnt": 3
+},
+{
+"id": "H.ALGEM09.IT00360",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Het stelsel van Weststrand",
+"q": "In het fictieve land Weststrand willen onderzoekers weten of het belasting- en uitkeringsstelsel de inkomensverschillen verkleint. Zij vergelijken een huishouden met een laag inkomen en een huishouden met een hoog inkomen. Alle bedragen zijn per jaar.\nDe cijfers zijn fictief en benaderen de werkelijkheid.\nTabel Inkomensgegevens van twee huishoudens in Weststrand (in euro's):\nHuishouden | Primair inkomen | Belastingen en premies | Uitkeringen en toeslagen\nLaag inkomen | 18.000 | 3.500 | 4.600\nHoog inkomen | 90.000 | 33.000 | 600\nToon met een berekening aan dat de verhouding tussen het inkomen van het huishouden met een hoog inkomen en dat van het huishouden met een laag inkomen kleiner wordt door het stelsel in Weststrand.",
+"model": "Besteedbaar inkomen laag: 18.000 + 4.600 - 3.500 = 19.100. Hoog: 90.000 + 600 - 33.000 = 57.600. Primair verdient hoog 90.000 : 18.000 = 5,0 keer zoveel als laag. Besteedbaar is dat 57.600 : 19.100 = 3,0 keer zoveel. De verhouding wordt kleiner, dus het stelsel nivelleert.\nPuntenverdeling:\n• Berekening van het besteedbaar inkomen van beide huishoudens: laag 18.000 + 4.600 - 3.500 = 19.100 en hoog 90.000 + 600 - 33.000 = 57.600 (1)\n• Berekening van de verhouding hoog : laag voor het primaire inkomen (90.000 : 18.000 = 5,0) en voor het besteedbaar inkomen (57.600 : 19.100 = 3,0), en de conclusie dat de verhouding kleiner wordt, dus het stelsel nivelleert (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM09.IT00516",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Inkomens in Lindmark",
+"q": "Het fictieve onderzoeksbureau Cijferdal beschrijft de inkomens van huishoudens in het land Lindmark. Het gebruikt daarvoor twee inkomensbegrippen: het primair inkomen en het secundair inkomen. Om de verdeling van die inkomens samen te vatten, berekent het bureau ook een Gini-coëfficiënt.\nGeef de omschrijving van het primair inkomen en van het secundair inkomen van een huishouden en geef aan wat een Gini-coëfficiënt van 0 en van 1 betekent.",
+"model": "Primair inkomen is wat een huishouden zelf verdient met arbeid, kapitaal of ondernemen, vóór belastingen en uitkeringen. Secundair inkomen is primair inkomen plus uitkeringen en toeslagen min belastingen en premies. Gini 0 is volkomen gelijk, Gini 1 is volkomen ongelijk.\nPuntenverdeling:\n• Primair inkomen is het inkomen dat een huishouden zelf verdient (loon, winst, rente), vóór belastingen en uitkeringen; secundair inkomen is het primair inkomen plus uitkeringen en toeslagen min belastingen en premies (beide juist) (1)\n• Gini 0 betekent een volkomen gelijke verdeling en Gini 1 betekent volkomen ongelijk (één persoon heeft al het inkomen) (beide juist) (1)",
+"pnt": 2
+},
+{
+"id": "H.ALGEM09.IT00517",
+"t": "open",
+"e": "H.verdeling",
+"titel": "Herverdeling in Kustmark",
+"q": "In het fictieve land Kustmark vergelijkt een onderzoeksbureau twee huishoudens. Huishouden L heeft een laag inkomen en huishouden H een hoog inkomen. De tabel toont wat elk huishouden in 2025 verdiende, kreeg en betaalde.\nDe cijfers zijn fictief en benaderen de werkelijkheid.\nTabel Inkomensgegevens per jaar (in euro's):\n| Huishouden L | Huishouden H\nPrimair inkomen | 18.000 | 90.000\nUitkeringen en toeslagen | 6.000 | 1.000\nBelastingen en premies | 3.000 | 33.000\nToon met een berekening aan dat het belasting- en uitkeringsstelsel in Kustmark de inkomensverschillen tussen deze huishoudens verkleint (nivelleert).\nGebruik de tabel.",
+"model": "Besteedbaar inkomen L: 18.000 + 6.000 - 3.000 = 21.000. Besteedbaar inkomen H: 90.000 + 1.000 - 33.000 = 58.000. Primair is H 90.000 : 18.000 = 5,0 keer zoveel als L. Besteedbaar is dat 58.000 : 21.000 = 2,8 keer. De verhouding wordt kleiner, dus er is genivelleerd.\nPuntenverdeling:\n• Besteedbaar inkomen L = 18.000 + 6.000 - 3.000 = 21.000 en besteedbaar inkomen H = 90.000 + 1.000 - 33.000 = 58.000 (1)\n• Verhouding H : L primair = 90.000 : 18.000 = 5,0 en besteedbaar = 58.000 : 21.000 = 2,8; de verhouding wordt kleiner, dus het stelsel nivelleert (1)",
+"pnt": 2
+}
+],
+"gens": []
+}
+]);
+LEVELS.I.push(...[
+{
+"id": "I.ALGEM01",
+"hfd": "Thema Kringloop en saldi",
+"naam": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"kort": "Ik kan met de kringloop de investeringen en besparingen uitrekenen.",
+"doel": "Ik kan met de kringloop de investeringen en besparingen uitrekenen.",
+"bron": "ECO-ALGEM-01",
+"uitleg": [
+{
+"t": "Betalingsbalans en macro-evenwicht",
+"x": "De betalingsbalans omvat de lopende rekening en de kapitaalrekening; winstuitkering hoort bij de lopende rekening. Noem rekening én richting. Macro-evenwicht: (S − I) + (B − O) = (E − M); let op de tekens, een negatief saldo is een tekort."
+},
+{
+"t": "Macro-identiteiten en sectorsaldi",
+"x": "Y = C + I + O + E − M (bestedingen) en Y = C + B + S (inkomen). Daaruit volgt (S − I) + (B − O) = (E − M); het saldo lopende rekening is het nationale spaarsaldo. Vragen laten ontbrekende waarden in een kringloopschema invullen en richtingen van geldstromen aangeven. Een tekort is negatief; alleen een getal zonder conclusie (tekort of overschot) is onvoldoende."
+},
+{
+"t": "Betalingsbalans en macro-identiteiten",
+"x": "De betalingsbalans bevat alle geldstromen met het buitenland: de lopende rekening en de kapitaalrekening. Een overschot betekent meer vraag naar de munt en dus appreciatie. Zet kapitaalstromen niet op de lopende rekening. De identiteiten zijn Y = C + I + O + E - M en Y = C + B + S, met (S - I) + (B - O) = (E - M). Houd tekens in de gaten en schrijf een tekort met minteken of als tekort."
+}
+],
+"vragen": [
+{
+"id": "I.ALGEM01.IT00492",
+"t": "open",
+"e": "I.saldi",
+"titel": "De kringloop van Brandvik",
+"q": "Brandvik is een klein land. In 2025 is het nationaal inkomen (Y) 800, de consumptie (C) 470, de overheidsbestedingen (O) 140, de uitvoer (E) 310 en de invoer (M) 280. Alle bedragen zijn in miljoen euro.\nTekst: Via de bestedingen geldt Y = C + ...(1)... + O + E − M. De investeringen in Brandvik zijn dan ...(2)... . Via het inkomen geldt Y = C + B + S. De letter B staat voor ...(3)... en de letter S voor ...(4)... .\nMaak van onderstaande tekst een economisch juiste tekst.\nKies uit: bij (1) I / S / B\nbij (2) € 160 miljoen / € 400 miljoen / € 100 miljoen\nbij (3) belastingen en premies / bestedingen van de overheid / besparingen\nbij (4) besparingen / bedrijfsinvesteringen / buitenlandse bestedingen",
+"model": "(1) I; (2) € 160 miljoen, want I = Y − C − O − E + M = 800 − 470 − 140 − 310 + 280 = 160; (3) belastingen en premies; (4) besparingen.\nPuntenverdeling:\n• Per juiste keuze geen aparte score; ken de punten toe per paar. bij (1) I en bij (2) € 160 miljoen (1)\n• bij (3) belastingen en premies en bij (4) besparingen (1)",
+"pnt": 2
+},
+{
+"id": "I.ALGEM01.IT00493",
+"t": "open",
+"e": "I.saldi",
+"titel": "De economie van Tarvik",
+"q": "Tarvik is een eilandstaat met een kleine, open economie. De tabel geeft de gegevens van de kringloop in 2025. Het bedrag voor de investeringen (I) en de besparingen (S) ontbreekt nog.\nTabel Kringloop Tarvik 2025 (in miljoen euro):\nPost | Bedrag\nNationaal inkomen (Y) | 1.200\nConsumptie (C) | 700\nBelastingen en premies (B) | 300\nOverheidsbestedingen (O) | 280\nUitvoer (E) | 420\nInvoer (M) | 380\nBereken de investeringen (I) en de besparingen (S) van Tarvik in 2025.\nDoe het als volgt:\n- Herschik eerst de formule Y = C + I + O + E − M naar I.\n- Herschik daarna Y = C + B + S naar S.",
+"model": "I = Y − C − O − E + M = 1.200 − 700 − 280 − 420 + 380 = € 180 miljoen. S = Y − B − C = 1.200 − 300 − 700 = € 200 miljoen.\nPuntenverdeling:\n• Een los eindantwoord zonder berekening levert 0 punten op. Herschikken van de formule: I = Y − C − O − E + M (1)\n• I = 1.200 − 700 − 280 − 420 + 380 = 180 (miljoen euro) (1)\n• S = Y − B − C = 1.200 − 300 − 700 = 200 (miljoen euro) (1)",
+"pnt": 3
+},
+{
+"id": "I.ALGEM01.IT00495",
+"t": "open",
+"e": "I.saldi",
+"titel": "Kringloop van Dorsmark",
+"q": "Dorsmark is een land met een open economie. Bron 1 toont de kringloop van Dorsmark in 2025. Alle bedragen staan in miljoen euro.\nDe investeringen (I) en de besparingen (S) zijn nog niet ingevuld. Het nationaal inkomen (Y) is gelijk aan de totale bestedingen.\nKringloop (in miljarden): nationaal inkomen (Y) = 1.500, consumptie (C) = 860, belastingen (B) = 400, overheidsbestedingen (O) = 450, export (E) = 520, import (M) = 560\nBereken de investeringen (I) en de besparingen (S) van Dorsmark in 2025.\nGebruik bron 1.",
+"model": "I = Y − C − O − E + M = 1.500 − 860 − 450 − 520 + 560 = € 230 miljoen. S = Y − B − C = 1.500 − 400 − 860 = € 240 miljoen.\nPuntenverdeling:\n• Een los eindantwoord zonder berekening levert 0 punten op. Rekenfout: maximaal 1 scorepunt aftrek. Investeringen: I = Y − C − O − E + M = 1.500 − 860 − 450 − 520 + 560 = € 230 miljoen (1)\n• Besparingen: S = Y − B − C = 1.500 − 400 − 860 = € 240 miljoen (1)",
+"pnt": 2
+}
+],
+"gens": []
+},
+{
+"id": "I.ALGEM02",
+"hfd": "Thema Kringloop en saldi",
+"naam": "Saldo van overheid en buitenland, richting van de geldstroom",
+"kort": "Ik kan het saldo van overheid en buitenland uitrekenen en de richting van de geldstroom aangeven.",
+"doel": "Ik kan het saldo van overheid en buitenland uitrekenen en de richting van de geldstroom aangeven.",
+"bron": "ECO-ALGEM-02",
+"uitleg": [
+{
+"t": "Bbp, toegevoegde waarde en macro-identiteiten",
+"x": "Het bbp is de som van de toegevoegde waarden (omzet min inkoopwaarde), of de beloning van productiefactoren plus afschrijvingen, of de finale bestedingen. Voor sparen, investeren, overheid en buitenland geldt (S − I) + (B − O) = (E − M). Als maat voor welvaart schiet het bbp tekort bij verdeling, informele economie, externe effecten en bevolkingsgroei. Bij een rekenvraag hoort een conclusie."
+},
+{
+"t": "Betalingsbalans en macro-evenwicht",
+"x": "De betalingsbalans omvat de lopende rekening en de kapitaalrekening; winstuitkering hoort bij de lopende rekening. Noem rekening én richting. Macro-evenwicht: (S − I) + (B − O) = (E − M); let op de tekens, een negatief saldo is een tekort."
+},
+{
+"t": "Wisselkoers, valutamarkt en betalingsbalans",
+"x": "De koers verandert via vraag naar of aanbod van de munt; die stap moet erin. Renteverhoging, kapitaalinvoer, appreciatie, export duurder, export daalt, bbp daalt. Een negatief saldo lopende rekening geeft meer aanbod van de munt en depreciatie. Interventie is Qv min Qa bij de doelkoers. Kapitaalstromen horen niet op de lopende rekening; de stap 'vraag naar de munt' overslaan kost punten."
+}
+],
+"vragen": [
+{
+"id": "I.ALGEM02.IT00508",
+"t": "open",
+"e": "I.saldi",
+"titel": "Sarland: wat blijft er over bij overheid en buitenland?",
+"q": "Het statistiekbureau van Sarland publiceert de geldstromen van het land over 2026. Alle bedragen staan in miljarden euro. In de tabel staan meer posten dan je nodig hebt.\nTabel Geldstromen Sarland, 2026:\nPost | Bedrag (miljarden euro)\nBbp (Y) | 900\nConsumptie (C) | 500\nInvesteringen (I) | 130\nBesparingen (S) | 190\nBelastingen (B) | 210\nOverheidsuitgaven (O) | 230\nExport (E) | 400\nImport (M) | 360\nBereken het saldo van de overheid en het saldo van het buitenland van Sarland in 2026, met bij beide saldo's het teken (+ of −).",
+"model": "Saldo overheid = B − O = 210 − 230 = −20 miljard euro. De overheid geeft meer uit dan zij ontvangt: een tekort. Saldo buitenland = E − M = 400 − 360 = +40 miljard euro: een overschot.\nPuntenverdeling:\n• Het saldo van de overheid is B − O en het saldo van het buitenland is E − M. Saldo overheid: 210 − 230 = −20 (miljard euro), dus een tekort (1)\n• Saldo buitenland: 400 − 360 = +40 (miljard euro), dus een overschot (1)",
+"pnt": 2
+},
+{
+"id": "I.ALGEM02.IT00509",
+"t": "open",
+"e": "I.saldi",
+"titel": "Tolland: klopt het bij de banken?",
+"q": "Het Tollandse ministerie van Financiën wil weten waar het geld in 2026 naartoe stroomt. Alle bedragen staan in miljarden euro.\nDe banken ontvangen geld van de sectoren met een overschot en geven geld aan de sectoren met een tekort.\nTabel Geldstromen Tolland, 2026:\nPost | Bedrag (miljarden euro)\nBbp (Y) | 1.200\nConsumptie (C) | 700\nInvesteringen (I) | 110\nBesparingen (S) | 200\nBelastingen (B) | 300\nOverheidsuitgaven (O) | 330\nExport (E) | 480\nImport (M) | 420\nToon met een berekening aan dat bij de banken het bedrag dat binnenkomt gelijk is aan het bedrag dat eruit gaat.\nDoe het als volgt:\n- bereken het saldo van de overheid en het saldo van het buitenland en bepaal de richting van elke geldstroom;\n- vergelijk wat de banken ontvangen met wat zij uitgeven.",
+"model": "Overheid: 300 − 330 = −30 miljard euro, dus geld van de banken naar de overheid. Buitenland: 480 − 420 = +60 miljard euro, dus geld van de banken naar het buitenland. Banken geven uit: 110 + 30 + 60 = 200 miljard euro. Zij ontvangen 200 miljard euro aan besparingen. Het is gelijk.\nPuntenverdeling:\n• Saldo overheid is B − O en saldo buitenland is E − M. Een negatief saldo betekent een geldstroom van de banken naar die sector, een positief saldo een geldstroom naar de banken. Saldo overheid: 300 − 330 = −30 (miljard euro), dus geld van de banken naar de overheid (1)\n• Saldo buitenland: 480 − 420 = +60 (miljard euro), dus geld van de banken naar het buitenland (1)\n• Wat de banken uitgeven: 110 + 30 + 60 = 200 (miljard euro) (1)\n• Conclusie: de banken ontvangen 200 miljard euro (besparingen) en geven 200 miljard euro uit, dus gelijk (1)",
+"pnt": 4
+},
+{
+"id": "I.ALGEM02.IT00510",
+"t": "open",
+"e": "I.saldi",
+"titel": "Brantia: de geldstromen in 2026",
+"q": "Een economisch bureau zet de geldstromen van Brantia in 2026 in een tabel. Alle bedragen staan in miljarden euro. Het bureau wil weten hoe de overheid en het buitenland zich tot de banken verhouden.\nTabel Geldstromen Brantia, 2026:\nPost | Bedrag (miljarden euro)\nBbp (Y) | 640\nConsumptie (C) | 350\nInvesteringen (I) | 170\nBesparingen (S) | 120\nBelastingen (B) | 170\nOverheidsuitgaven (O) | 150\nExport (E) | 210\nImport (M) | 240\nBereken het saldo van de overheid en het saldo van het buitenland van Brantia in 2026, met bij elk saldo de richting van de geldstroom tussen die sector en de banken.",
+"model": "Saldo overheid = B − O = 170 − 150 = +20 miljard euro. Een overschot: de overheid brengt geld naar de banken. Saldo buitenland = E − M = 210 − 240 = −30 miljard euro. Een tekort: de banken lenen geld uit aan het buitenland.\nPuntenverdeling:\n• Saldo overheid is B − O en saldo buitenland is E − M. Bij een positief saldo stroomt het geld naar de banken, bij een negatief saldo van de banken naar die sector. Saldo overheid: B − O = 170 − 150 = +20 (miljard euro), een overschot (1)\n• Richting overheid: van de overheid naar de banken (1)\n• Saldo buitenland: E − M = 210 − 240 = −30 (miljard euro), een tekort (1)\n• Richting buitenland: van de banken naar het buitenland (1)",
+"pnt": 4
+}
+],
+"gens": []
 }
 ]);
 EXAMEN.vragen.push(...[
@@ -1341,6 +3113,96 @@ EXAMEN.vragen.push(...[
 "q": "De directeur vraagt zich af of prijsdiscriminatie mogelijk is. Noem één voorwaarde waaraan moet zijn voldaan om op een markt prijsdiscriminatie te kunnen toepassen.",
 "model": "Eén van beide: er zijn gescheiden deelmarkten, of het product kan niet worden doorverkocht.",
 "pnt": 1
+},
+{
+"id": "ex.h18-1.6",
+"t": "open",
+"niv": "h",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 6,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"q": "Geef bij negatieve externe effecten, productie in het zwarte circuit en vrijwilligerswerk aan of de welvaart, gemeten met het bbp, wordt onderschat of overschat.",
+"model": "Negatieve externe effecten: overschatting. Zwarte circuit: onderschatting. Vrijwilligerswerk: onderschatting. Drie juist is 2 punten, twee juist 1 punt, minder dan twee juist 0 punten.",
+"pnt": 2
+},
+{
+"id": "ex.h18-1.7",
+"t": "open",
+"niv": "h",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 7,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"q": "Maak een economisch juiste tekst over het bbp van Nederland in 2013. Kies bij (1) tussen nominale waarde en totaal surplus, bij (2) tussen koopkracht en totale bruto toegevoegde waarde, bij (3) tussen groter en kleiner.",
+"model": "(1) de nominale waarde, (2) totale bruto toegevoegde waarde, (3) groter. Elke juiste keuze levert 1 punt op.",
+"pnt": 3
+},
+{
+"id": "ex.h18-1.8",
+"t": "open",
+"niv": "h",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 8,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Bereken met de gegeven bronnen de procentuele verandering van de consumentenprijsindex in 2013 in Nederland. Rond af op twee decimalen.",
+"model": "Nominale verandering bbp: (642,9 − 640,6) : 640,6 × 100% = 0,36%. Daarna 100,36 : 99,3 × 100 = 101,07, dus mutatie CPI 1,07%.",
+"pnt": 2
+},
+{
+"id": "ex.h18-1.9",
+"t": "open",
+"niv": "h",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 9,
+"d": "I",
+"e": "EX.I",
+"titel": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"q": "Een geldkringloop in een bron heeft vier ontbrekende waarden (a) tot en met (d). Bepaal met de bronnen welke getallen er moeten staan.",
+"model": "(a) 533,2; (b) 466,8; (c) 214,2; (d) 139,1. Punten: (a) en (b) juist 1; (c) juist 1; (d) juist 1.",
+"pnt": 3
+},
+{
+"id": "ex.h18-1.10",
+"t": "open",
+"niv": "h",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 10,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Bereken met de bron het nationaal spaaroverschot van Nederland in 2013.",
+"model": "E − M = 533,2 − 466,8 = 66,4 miljard euro. Ook goed: (B − O) + (S − I) = (139,1 − 192,6) + (214,2 − 94,3) = 66,4. Uitkomst als tekort: 0 punten.",
+"pnt": 2
+},
+{
+"id": "ex.h18-1.16",
+"t": "open",
+"niv": "h",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 16,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Suiker wordt op de wereldmarkt in US dollar geprijsd. Leg met de bron uit dat de export van het staatsbedrijf naar de EU zal toenemen.",
+"model": "Uit bron 2 blijkt dat de euro ten opzichte van de US dollar is gestegen. Daardoor is suiker relatief goedkoper geworden voor afnemers in de EU.",
+"pnt": 2
 },
 {
 "id": "ex.h18-1.18",
@@ -1403,6 +3265,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h18-2.10",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 10,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Volgens het artikel verslechtert de concurrentiepositie van Nederlandse agrariërs door de koersdaling van het pond. Leg uit op welke twee manieren dat gebeurt.",
+"model": "1) Nederlandse agrarische producten worden duurder op de Britse markt. 2) Britse agrarische producten worden goedkoper op de EU-markt, Nederlandse markt of wereldmarkt.",
+"pnt": 2
+},
+{
 "id": "ex.h18-2.13",
 "t": "open",
 "niv": "h",
@@ -1448,6 +3325,96 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h18-2.18",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 18,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Maak een economisch juiste tekst over inkomens uit het ter beschikking stellen van productiefactoren, een voorbeeld daarvan en de methode waarmee het bbp wordt berekend uit de optelsom van deze inkomens.",
+"model": "(1) primaire inkomens, (2) rente, (3) subjectieve. Drie juist: 2 punten; twee juist: 1; minder: 0.",
+"pnt": 2
+},
+{
+"id": "ex.h18-2.19",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 19,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"q": "Toon met een berekening aan dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is. Gebruik de tabel met de verdeling van het secundaire inkomen.",
+"model": "Het 4e kwartiel heeft 100% − 44,8% = 55,2%. Het 1e kwartiel heeft 5,1%. 55,2 : 5,1 geeft een verhouding van 1 : 10,8.",
+"pnt": 2
+},
+{
+"id": "ex.h18-2.20",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 20,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"q": "Bereken het coördinaat van punt A in de Lorenzcurve van Saba. Gebruik de verhoudingstabel en de Lorenzcurve.",
+"model": "Secundair inkomen van het 4e kwartiel: 5,5 × 9,8 = 53,9%. Dus punt A heeft coördinaat (75 ; 46,1).",
+"pnt": 2
+},
+{
+"id": "ex.h18-2.21",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 21,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Ligt de Lorenzcurve van Bonaire links of rechts van die van Saba? Licht je keuze toe met de gegeven verhoudingen.",
+"model": "Links. Volgens de aanvulling is de verhouding van Saba 1 : 9,8 en van Bonaire 1 : 9,1. Het inkomen op Bonaire is gelijker verdeeld, dus de curve ligt links van die van Saba.",
+"pnt": 2
+},
+{
+"id": "ex.h18-2.22",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 22,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Bereken de secundaire-inkomensverhouding van de drie BES-eilanden samen. Ga ervan uit dat het inkomen per hoofd gelijk is en de huishoudens even groot zijn. Gebruik de bronnen met de verhoudingen en de verdeling van huishoudens.",
+"model": "Gewogen gemiddelde: (80 × 9,1 + 13 × 10,8 + 7 × 9,8) : 100 = 9,4. De verhouding is 1 : 9,4. Een ongewogen gemiddelde levert geen punten op.",
+"pnt": 2
+},
+{
+"id": "ex.h18-2.23",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 23,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Twee leerlingen stellen dat de BES-eilanden een schevere verdeling van het secundaire inkomen hebben door een proportioneel stelsel, tegenover het progressieve stelsel van Europees Nederland. Leg deze conclusie uit en betrek beide stelsels.",
+"model": "Bij een progressief stelsel geldt voor hogere inkomens een hoger tarief, dus de secundaire verschillen worden kleiner. Bij een proportioneel stelsel geldt voor elk inkomen hetzelfde tarief, dus de verschillen blijven even groot.",
+"pnt": 2
+},
+{
 "id": "ex.h18-2.26",
 "t": "open",
 "niv": "h",
@@ -1460,6 +3427,21 @@ EXAMEN.vragen.push(...[
 "titel": "Prijselasticiteit van de vraag berekenen en typeren",
 "q": "De eigenaar zegt dat een prijsverlaging bij zijn parkeergelegenheid tot meer omzet leidt. Gaat hij uit van een prijselastische of prijsinelastische vraag? Licht je keuze toe.",
 "model": "Prijselastisch. Een prijsverlaging geeft meer omzet. Hij gaat er dus van uit dat de afzet meer dan evenredig stijgt.",
+"pnt": 2
+},
+{
+"id": "ex.h18-2.28",
+"t": "open",
+"niv": "h",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 28,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Twee aanbieders staan voor de eenmalige, gelijktijdige keuze om het tarief wel of niet te verlagen. Heeft de interviewer gelijk dat het een gevangenendilemma is? Gebruik het schema en licht je keuze toe.",
+"model": "Nee. Tarief verlagen is voor beide partijen de dominante strategie en tevens de optimale uitkomst. Beide krijgen een hogere winst dan bij handhaven, dus geen gevangenendilemma.",
 "pnt": 2
 },
 {
@@ -1476,6 +3458,36 @@ EXAMEN.vragen.push(...[
 "q": "De prijs van het papierplus-abonnement van de Krant van Vandaag steeg tussen 2013 en 2014. Bereken met bron 2 het aantal papierplus-abonnementen in 2014.",
 "model": "Prijsstijging 2013-2014 = 2,8% (1 punt). Afzetverandering = −1,1 × 2,8 = −3,1% (1 punt). Afzet 2014 = 696.600 × 0,969 = 675.005 (1 punt). Een andere afronding is ook goed.",
 "pnt": 3
+},
+{
+"id": "ex.h19-1.8",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 8,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Zijn de inkomens van Nederlandse huishoudens na de kredietcrisis genivelleerd of gedenivelleerd? Kies en licht toe met getallen uit bron 1.",
+"model": "Genivelleerd. De rijkste 20% verdiende ongeveer 2,5 keer zoveel als de armste 20%; in 2008 was dat 2,8 keer. Aanvulling: een vergelijking van 2012 met 2009 (2,6 keer) is ook goed.",
+"pnt": 2
+},
+{
+"id": "ex.h19-1.9",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 9,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Zijn de verhoudingsgetallen in bron 1 gebaseerd op het primaire of het secundaire huishoudinkomen? Leg eerst uit welke staven in bron 2 primair en welke secundair zijn. Beredeneer daarna op welk inkomen bron 1 is gebaseerd.",
+"model": "Secundair. De donkere staven zijn secundair, want bij de laagste 20% is het primaire inkomen lager door progressieve belasting en uitkeringen (1 punt). In 2012 is de verhouding in bron 1 gelijk aan die van de donkere staven, 2,5 (1 punt).",
+"pnt": 2
 },
 {
 "id": "ex.h19-1.12",
@@ -1508,6 +3520,126 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h19-1.16",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 16,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Aruba heeft een tekort op de betalingsbalans en een vaste koers van de florin ten opzichte van de dollar. Vul het schema van bron 1 in door bij elke letter het juiste schuin gedrukte begrip te kiezen.",
+"model": "a daalt, b kopen, c daalt. Voor elke fout 1 punt aftrek. Aanvulling op het voorschrift: bij deze vraag altijd 2 punten toekennen, omdat bron 1 'belastingsbalans' noemt.",
+"pnt": 2
+},
+{
+"id": "ex.h19-1.17",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 17,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Leg uit dat bij een tekort op de betalingsbalans de vaste wisselkoers inflatie tegengaat.",
+"model": "Door het tekort is het aanbod van florins groter dan de vraag. Bij een flexibele koers zou de florin dalen en import duurder worden (1 punt). Door de vaste koers is er geen geïmporteerde inflatie (1 punt).",
+"pnt": 2
+},
+{
+"id": "ex.h19-1.18",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 18,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Leg uit dat Amerikaanse toeristen door de vaste wisselkoers bij een tekort op de betalingsbalans niet kunnen profiteren van een koersvoordeel.",
+"model": "Door het tekort is het florinaanbod groter dan de vraag. Bij een flexibele koers daalt de florin en wordt Aruba goedkoper voor Amerikaanse toeristen (1 punt). Door de vaste koers worden ze niet goedkoper uit (1 punt).",
+"pnt": 2
+},
+{
+"id": "ex.h19-1.24",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 24,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Beide energieleveranciers overwegen een callcenter in te huren om klanten van elkaar over te halen (pay-offmatrix in bron 2). Leg uit hoe de dominante strategie van elk bedrijf ontstaat en beredeneer of er een gevangenendilemma is.",
+"model": "Ja. Voor beide bedrijven is 'wel inhuren' dominant: −2 > −4 als de ander inhuurt, en +2 > 0 als de ander niet inhuurt (2 punten, bewijs voor beide bedrijven nodig). Het evenwicht −2;−2 is suboptimaal, want 0;0 is beter voor beiden (1 punt).",
+"pnt": 3
+},
+{
+"id": "ex.h19-1.25",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"q": "Een Amerikaans bedrijf heeft een vestiging in de Rotterdamse haven. Telt de productiewaarde van die vestiging mee in het Nederlandse of het Amerikaanse bbp? Kies.",
+"model": "In het Nederlandse bbp. Bij het bbp gaat het om de locatie van de productie, niet om de nationaliteit van het bedrijf.",
+"pnt": 1
+},
+{
+"id": "ex.h19-1.26",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 26,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Er zijn drie argumenten genoemd waarom het nominale bbp een beperkte welvaartsmaatstaf is. Noem een ander argument.",
+"model": "Bijvoorbeeld: het nominale bbp is niet gecorrigeerd voor bevolkingsgroei. Of: het bbp geeft geen informatie over de bijdrage van de informele economie aan de welvaart.",
+"pnt": 1
+},
+{
+"id": "ex.h19-1.27",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 27,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Het nominale Amerikaanse bbp steeg in 2014 met 2,8%. Bereken met bron 1 de reële groei van het bbp in 2014 ten opzichte van 2013.",
+"model": "Nominaal 2,8%, inflatie via de prijsindex 2,6% (1 punt). Reëel: 102,8 : 102,6 × 100 = 100,19, dus reële groei is 0,2% (1 punt). Aftrekken 102,8 − 102,6 mag ook voor het tweede punt.",
+"pnt": 2
+},
+{
+"id": "ex.h19-1.28",
+"t": "open",
+"niv": "h",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 28,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"q": "In 2014 kwam 25% van het Amerikaanse bbp ten goede aan 1% van de bevolking. Welke grafiek in bron 2 geeft de Amerikaanse Lorenzcurve van 2014 juist weer?",
+"model": "Grafiek 3.",
+"pnt": 1
+},
+{
 "id": "ex.h19-2.4",
 "t": "open",
 "niv": "h",
@@ -1538,6 +3670,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h19-2.20",
+"t": "open",
+"niv": "h",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 20,
+"d": "G",
+"e": "EX.G",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "Leg uit waarom banken op hypothecaire leningen een lager rentepercentage rekenen dan op consumptieve leningen.",
+"model": "Bij een hypotheek is er onderpand, bij een consumptieve lening niet (1). Daardoor is het risico voor de bank lager en kan zij een lagere rente rekenen (1).",
+"pnt": 2
+},
+{
 "id": "ex.h19-2.26",
 "t": "open",
 "niv": "h",
@@ -1553,6 +3700,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h19-2.28",
+"t": "open",
+"niv": "h",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 28,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Gebruik de pay-offmatrix in bron 1. Leg uit hoe de dominante strategie van elke verzekeraar ontstaat en beredeneer dan of er sprake is van een gevangenendilemma.",
+"model": "Beide verzekeraars hebben als dominante strategie 'eigen risico verlagen': Anderzorg 1 > 0,6 en 0,5 > 0,2; Beterzorg 1,1 > 1,0 en 0,8 > 0,2 (2, bewijs voor beide nodig). Evenwicht (0,5; 0,8) is slechter dan handhaven (0,6; 1,0): dus gevangenendilemma (1).",
+"pnt": 3
+},
+{
 "id": "ex.h21-1.1",
 "t": "open",
 "niv": "h",
@@ -1565,6 +3727,66 @@ EXAMEN.vragen.push(...[
 "titel": "Volledige mededinging herkennen aan twee kenmerken",
 "q": "Invulvraag over de garnalenveiling: is het product homogeen of heterogeen, welke marktvorm hoort bij veel aanbieders zonder toetredingsbarrières, en kunnen individuele vissers de prijs beïnvloeden? Drie open plekken met keuzes.",
 "model": "(1) homogene, (2) volkomen concurrentie, (3) niet. Drie goed = 2 punten, twee goed = 1 punt, anders 0.",
+"pnt": 2
+},
+{
+"id": "ex.h21-1.6",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 6,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Noem één argument waarom het nominale bbp per hoofd een gebrekkige maatstaf is voor de welvaart in een land.",
+"model": "Bijvoorbeeld: zegt niets over de verdeling van het inkomen, de koopkracht, de welvaart in ruime zin of de informele economie.",
+"pnt": 1
+},
+{
+"id": "ex.h21-1.8",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 8,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Toon met een berekening aan dat het nominale bbp per hoofd in India tussen 2012 en 2017 bijna is verdubbeld. Gebruik de gegevens over reële groei, inflatie en bevolking uit bron 1.",
+"model": "Nominaal bbp: 148,2 × 140,8 : 100 = 208,7. Bevolking: 1.342 : 1.264 × 100 = 106,2. Per hoofd: 208,7 : 106,2 × 100 = 196,5, dus +96,5%: bijna verdubbeld. De benadering met optellen mag ook.",
+"pnt": 3
+},
+{
+"id": "ex.h21-1.9",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 9,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Europese auto's krijgen in India 120% invoerrechten. Bereken met hoeveel procent ze goedkoper worden als deze rechten worden afgeschaft.",
+"model": "De huidige prijs is 220% van de nieuwe prijs. Verandering = (100 − 220) : 220 × 100% = −54,5%, dus 54,5% goedkoper.",
+"pnt": 1
+},
+{
+"id": "ex.h21-1.10",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 10,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Leg uit waarom de pay-offmatrix van India en de EU geen gevangenendilemma laat zien. Leg eerst uit hoe elke partij aan een dominante strategie komt en redeneer dan naar de conclusie.",
+"model": "Voor beide partijen is afschaffen dominant: bij elke keuze van de ander levert het meer groei op dan handhaven (India 2% > 0,5% en 1% > 0%; EU 1,5% > 0,5% en 1% > 0%). Die dominante strategie geeft ook de beste uitkomst voor beiden, dus geen dilemma.",
 "pnt": 2
 },
 {
@@ -1598,6 +3820,66 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.h21-1.24",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 24,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "De Zwitserse centrale bank verlaagt de rente. Maak een juiste tekst over het aantal beleggers uit eurolanden dat in Zwitserland belegt en over de gevolgen voor de vraag naar frank en de koers.",
+"model": "(1) minder; (2) dalen; (3) dalen. Eén punt voor (1) en één punt voor (2) en (3) samen.",
+"pnt": 2
+},
+{
+"id": "ex.h21-1.26",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 26,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp stijgt, welvaart daalt (extern effect)",
+"q": "Leg met het begrip externe effecten uit hoe rijden op fossiele brandstof de welvaart beïnvloedt. Gebruik bron 1.",
+"model": "Rijden op fossiele brandstof veroorzaakt vervuiling of uitputting van natuurlijke hulpbronnen en dus extra kosten. Die effecten zijn extern: ze raken anderen of de samenleving en zitten niet in de prijs.",
+"pnt": 2
+},
+{
+"id": "ex.h21-1.28",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 28,
+"d": "F",
+"e": "EX.F",
+"titel": "Uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert",
+"q": "Werknemers spreken af meer elektrisch te rijden en houden hun brandstofverbruik bij op een lijstje bij de koffieautomaat. Is hier sprake van zelfbinding? Leg je antwoord uit.",
+"model": "Ja: ze veranderen vrijwillig hun gedrag en zijn gebonden door de afspraak, doordat ze elkaar via het lijstje kunnen controleren. Volgens de aanvulling mag ook 'nee' punten opleveren bij een juiste duiding van zelfbinding en een consistente onderbouwing met de casus.",
+"pnt": 2
+},
+{
+"id": "ex.h21-1.29",
+"t": "open",
+"niv": "h",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 29,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Een werkneemster met een hybride leaseauto van € 45.000 overweegt private lease. Toon met een berekening van de maandelijkse kosten aan welke keuze voor 2018 het best is. Gebruik de bronnen over bijtelling, tarieven en de advertentie.",
+"model": "Private lease. Zakelijk: 51,95% van 22% van € 45.000 = € 5.143 extra belasting per jaar, dus € 428 per maand. Private lease kost € 415 per maand en is dus goedkoper.",
+"pnt": 2
+},
+{
 "id": "ex.h21-2.1",
 "t": "open",
 "niv": "h",
@@ -1626,6 +3908,66 @@ EXAMEN.vragen.push(...[
 "q": "Bron 2: steeds meer verzekerden kiezen vrijwillig een hoger eigen risico. Bron 3: er worden minder aanvullende verzekeringen afgesloten. Leg voor elk van de twee bronnen uit hoe je eruit kunt afleiden dat de risico-aversie van verzekerden toeneemt of afneemt.",
 "model": "Bron 2: steeds meer verzekerden kiezen vrijwillig een hoger eigen risico, dus ze zijn minder risico-avers. Bron 3: er worden minder aanvullende verzekeringen afgesloten, dus mensen dragen vaker zelf het risico. Per bron 1 punt.",
 "pnt": 2
+},
+{
+"id": "ex.h21-2.7",
+"t": "open",
+"niv": "h",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 7,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Leg uit hoe de VS met importheffingen op staal een tekort op de lopende rekening kunnen verkleinen.",
+"model": "De heffing maakt buitenlands staal duurder, dus de VS importeren minder (1). De uitgaven op de lopende rekening dalen, dus het tekort wordt kleiner bij gelijkblijvende export (1).",
+"pnt": 2
+},
+{
+"id": "ex.h21-2.8",
+"t": "open",
+"niv": "h",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 8,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Leg uit hoe innovatie het tekort op de lopende rekening van de VS wel structureel kan oplossen.",
+"model": "Innovatie verhoogt de arbeidsproductiviteit, waardoor de concurrentiepositie van de VS verbetert (1). Dit geeft meer export met hogere ontvangsten of minder import met lagere uitgaven, dus een kleiner tekort (1).",
+"pnt": 2
+},
+{
+"id": "ex.h21-2.10",
+"t": "open",
+"niv": "h",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 10,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Gebruik bron 1 en 2. Neem de matrix over, vul de letters A tot en met D in met bron 1, leg uit hoe de dominante strategie van beide partijen ontstaat en beredeneer of de dominante strategieën de handelsoorlog verklaren.",
+"model": "Waarden A −4,7%, B −4,9%, C −1,4%, D −0,5% (1). Volgens de aanvulling hoort bij de tweede deelscore: de dominante strategie van de VS én van de handelspartners is 'geen importheffing' (1). Beide kiezen dan geen heffing, dus er is geen handelsoorlog: die is niet te verklaren met de dominante strategieën (1).",
+"pnt": 3
+},
+{
+"id": "ex.h21-2.21",
+"t": "open",
+"niv": "h",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 21,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Bereken met bron 2 hoeveel minder inkomensheffing Zacharia als startende zelfstandige betaalt dan Willem, bij een inkomen van € 33.333 voor beiden. Alleen de aftrekposten uit de bron tellen.",
+"model": "Aftrek 7.280 + 2.123 + 0,14 × (33.333 − 7.280 − 2.123) = € 12.753,20 (1). Beiden vallen in de tweede schijf van 40,85% (1). Voordeel = 40,85% × 12.753,20 = € 5.209,68 (1).",
+"pnt": 3
 },
 {
 "id": "ex.h21-2.23",
@@ -1673,6 +4015,21 @@ EXAMEN.vragen.push(...[
 "pnt": 1
 },
 {
+"id": "ex.h21-3.16",
+"t": "open",
+"niv": "h",
+"ex": "h21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 16,
+"d": "G",
+"e": "EX.G",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "Banken geven rentekorting op een hypotheek bij energielabel A. Leg uit waarom dat kan. Gebruik het begrip risico.",
+"model": "Een woning met label A is beter verkoopbaar, dus de bank loopt minder risico op een te lage opbrengst van het onderpand bij gedwongen verkoop. Daarom kan zij een lagere rente vragen, passend bij de lagere risicokosten.",
+"pnt": 2
+},
+{
 "id": "ex.h21-3.24",
 "t": "open",
 "niv": "h",
@@ -1686,6 +4043,21 @@ EXAMEN.vragen.push(...[
 "q": "Gebruik figuur 2 in bron 1. Beredeneer met een berekening of maatregel 4 in 2013-2017 nivellerend of denivellerend werkte. Bereken eerst de gemiddelde belastingdruk voor beide jaren en beide bruto-inkomens en trek dan een conclusie.",
 "model": "Gemiddelde belastingdruk = te betalen belasting : bruto-inkomen × 100%. € 35.000: 31,9% (2013) naar 32,0% (2017). € 100.000: 42,9% naar 45,1%. De druk steeg bij het hoge inkomen meer, dus nivellerend.",
 "pnt": 3
+},
+{
+"id": "ex.h22-1.1",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 1,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Verklaar dat economische groei in Nederland wordt bevorderd als meer jongeren een studie volgen.",
+"model": "Studeren verhoogt het opleidingsniveau en de arbeidsproductiviteit (1p). Daardoor stijgt de productie, dus het bbp (1p). Aanvulling: groei moet aan productie gekoppeld zijn.",
+"pnt": 2
 },
 {
 "id": "ex.h22-1.2",
@@ -1715,6 +4087,21 @@ EXAMEN.vragen.push(...[
 "titel": "Moral hazard en maatregelen",
 "q": "Er zijn twee stelsels voor studiefinanciering: vaste beurzen en een lening. Leg uit dat de kans op moral hazard bij het stelsel met vaste beurzen het grootst is. Betrek beide stelsels in je antwoord.",
 "model": "Bij de beurs loopt de student geen financieel risico en krijgt hij het geld toch, dus hij kan minder zijn best doen of het anders besteden; de samenleving draagt de kosten (1). Bij de lening moet de student terugbetalen, dus hij wordt geprikkeld tot gewenst gedrag (1).",
+"pnt": 2
+},
+{
+"id": "ex.h22-1.7",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 7,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Twee supermarktketens kiezen tussen akkoord gaan met een prijsverhoging en onderhandelen. Toon met de getallen uit de opbrengstenmatrix (bron 1) aan dat een gevangenendilemma ontstaat: leg de dominante strategieën uit en beredeneer het dilemma.",
+"model": "Voor elke keten is akkoord gaan dominant: de winstdaling is € 6.000 tegenover € 10.000 en € 2.000 tegenover € 3.000, wat de ander ook kiest (1p). Beide kiezen akkoord, maar samen zouden ze minder verliezen als beide onderhandelden: suboptimaal, dus gevangenendilemma (1p).",
 "pnt": 2
 },
 {
@@ -1763,6 +4150,96 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h22-1.14",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 14,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Maak de redenering economisch juist: het bedrijfspensioen was niet waardevast, omdat de ... waarde niet meestijgt met de ... . Kies per open plek uit twee mogelijkheden.",
+"model": "(1) nominale (2) inflatie. Beide goed voor 1p.",
+"pnt": 1
+},
+{
+"id": "ex.h22-1.15",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 15,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Gebruik de tekst en bron 1. Toon met een berekening aan dat de koopkracht van de bedrijfspensioenuitkeringen tussen 2014 en 2018 met 4% is gedaald (afgerond op hele procenten).",
+"model": "Exact: prijsindex 113,0 : 108,6 = 104,1 (1p). Reëel indexcijfer = 100 : 104,1 × 100 = 96,1, dus koopkracht −3,9%, afgerond 4% (1p). Benadering: 0% − 4,4% mag ook.",
+"pnt": 2
+},
+{
+"id": "ex.h22-1.24",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 24,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Leg uit dat de koersdaling van de euro bijdraagt aan de economische groei in de eurozone.",
+"model": "Import wordt duurder, dus er worden meer Europese producten gevraagd (1p), waardoor de productie en de groei toenemen (1p). Of: export neemt toe doordat Europese producten goedkoper worden (1p), met meer productie en groei (1p).",
+"pnt": 2
+},
+{
+"id": "ex.h22-1.25",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 25,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Gebruik bron 1. Toon met een berekening aan dat het begrote overheidstekort van Italië in 2019 hoger is dan de afgesproken 1,6% van het bbp.",
+"model": "Tekort = uitgaven − belastingontvangsten = 820 − 770 = € 50 miljard (1p). Als percentage van het bbp: 50 : 1.730 × 100% = 2,89%, dat is meer dan 1,6% (1p).",
+"pnt": 2
+},
+{
+"id": "ex.h22-1.29",
+"t": "open",
+"niv": "h",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 29,
+"d": "G",
+"e": "EX.G",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "Gebruik bron 2. Leg uit welk effect een lagere rating van de kredietbeoordelaars heeft op de staatsschuld van Italië.",
+"model": "Lagere rating: beleggers eisen hogere rente, dus de rente-uitgaven stijgen (1p) en de overheid moet meer lenen, dus de schuld groeit (1p). Of: koersen van staatsobligaties dalen, banken lijden verlies en vragen staatssteun, dus de schuld stijgt.",
+"pnt": 2
+},
+{
+"id": "ex.h22-2.2",
+"t": "open",
+"niv": "h",
+"ex": "h22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 2,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"q": "Leg uit dat de markt voor schadeverzekeringen bijdraagt aan het bruto binnenlands product.",
+"model": "Het bbp is de totale toegevoegde waarde van alle geproduceerde goederen en diensten, en verzekeraars leveren een dienst met omzet. Andere goede route: via inkomens (loon, winst) of via finale bestedingen van consumenten aan polissen.",
+"pnt": 2
+},
+{
 "id": "ex.h22-2.3",
 "t": "open",
 "niv": "h",
@@ -1808,6 +4285,96 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.h22-2.28",
+"t": "open",
+"niv": "h",
+"ex": "h22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 28,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"q": "Gebruik de grafiek van bron 1. Toon met een berekening aan dat de rijkste 20% in 2008 2,8 keer zoveel verdiende als de armste 20%.",
+"model": "Armste 20% heeft 12% van het inkomen; rijkste 20% heeft 100% − 66% = 34%. Verhouding 34% : 12% ≈ 2,8.",
+"pnt": 2
+},
+{
+"id": "ex.h22-2.29",
+"t": "open",
+"niv": "h",
+"ex": "h22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 29,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "De rijkste 20% bevat relatief veel zelfstandigen. Beredeneer dat dit bijdroeg aan nivellering van inkomens tijdens de crisis.",
+"model": "Het inkomen van zelfstandigen daalde sterker, dus het inkomensverschil tussen de rijkste en armste groep werd kleiner. Daardoor werd de verdeling gelijker: de inkomens werden genivelleerd.",
+"pnt": 2
+},
+{
+"id": "ex.h22-2.30",
+"t": "open",
+"niv": "h",
+"ex": "h22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 30,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Leg uit hoe een progressief belastingstelsel ervoor zorgt dat secundaire inkomens gelijker verdeeld zijn dan primaire inkomens.",
+"model": "Bij progressieve belasting betaalt iemand met hoger inkomen procentueel meer belasting. Daardoor zijn de inkomensverschillen na belasting kleiner dan ervoor.",
+"pnt": 2
+},
+{
+"id": "ex.h22-2.31",
+"t": "open",
+"niv": "h",
+"ex": "h22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 31,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Laat met een voorbeeld zien hoe belastingen tot hogere welvaart in ruime zin kunnen leiden.",
+"model": "De overheid besteedt belastinggeld aan bijvoorbeeld beter onderwijs, betere zorg, een beter milieu of herverdeling van inkomen. Zo stijgt de welvaart in ruime zin.",
+"pnt": 1
+},
+{
+"id": "ex.h22-3.1",
+"t": "open",
+"niv": "h",
+"ex": "h22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 1,
+"d": "H",
+"e": "EX.H",
+"titel": "Grens aan aftrektarief werkt nivellerend",
+"q": "Maak een economisch juiste redenering met zeven open plekken over de inkomstenbelasting. Het gaat om primaire of secundaire inkomens, het stijgen of dalen van marginale tarieven per inkomensgroep, het effect op de inkomensverdeling van tariefaanpassing en van de beperkte hypotheekrenteaftrek, en de ontwikkeling van indirecte belastingen.",
+"model": "(1) primaire, (2) stijgt, (3) daalt, (4) daalt, (5) denivellerend, (6) nivellerend, (7) stijgen. Score: 7 juist = 3p, 5-6 juist = 2p, 3-4 juist = 1p, minder dan 3 = 0p.",
+"pnt": 3
+},
+{
+"id": "ex.h22-3.2",
+"t": "open",
+"niv": "h",
+"ex": "h22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 2,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Een werknemer heeft een belastbaar arbeidsinkomen van € 40.000 en geen aftrekposten. Onder het oude stelsel was de gemiddelde belastingdruk 27,9%. Toon met een berekening aan of de gemiddelde belastingdruk onder het nieuwe stelsel is gedaald (gebruik bron 1 en 2).",
+"model": "Tarief 36,93% geeft € 14.772 belasting. Min heffingskortingen € 1.406 en € 2.857 geeft € 10.509 te betalen. Gemiddelde druk: 10.509 : 40.000 × 100% = 26,3%. Dat is lager dan 27,9%, dus de druk is gedaald.",
+"pnt": 2
+},
+{
 "id": "ex.h22-3.13",
 "t": "open",
 "niv": "h",
@@ -1823,6 +4390,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h22-3.23",
+"t": "open",
+"niv": "h",
+"ex": "h22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 23,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Twee producenten kiezen tussen prijsverhoging en inhoudsverlaging; de uitkomsten staan in een pay-offmatrix (bron 3). Celine zegt dat er geen gevangenendilemma is en dat zij de inhoud moet verlagen. Bepaal of dit juist is: verklaar de dominante strategieën en beredeneer of er een dilemma is.",
+"model": "Voor beide partijen is inhoud verminderen dominant: 6% > 2% als de ander de prijs verhoogt, en 4% > 1% als de ander de inhoud verlaagt (1p). Er is geen uitkomst waarin beiden meer winst hebben, dus geen gevangenendilemma: de uitspraak is juist (1p).",
+"pnt": 2
+},
+{
 "id": "ex.h23-1.1",
 "t": "open",
 "niv": "h",
@@ -1835,6 +4417,36 @@ EXAMEN.vragen.push(...[
 "titel": "Averechtse selectie",
 "q": "Vul een tekst over de verplichte verzekering van werknemers en de individuele arbeidsongeschiktheidsverzekering (aov) voor zzp'ers aan met vier keuzes: (1) soort verzekering, (2) financieringsstelsel, (3) oorzaak van de hoge premie en (4) het bijbehorende probleem.",
 "model": "(1) sociale, (2) omslagstelsel, (3) collectieve dwang, (4) averechtse selectie. Eén punt voor (1) en (2) goed, één punt voor (3) en (4) goed.",
+"pnt": 2
+},
+{
+"id": "ex.h23-1.3",
+"t": "open",
+"niv": "h",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 3,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Leg met de bron uit dat arbeidsongeschiktheid kan leiden tot denivellering van secundaire inkomens tussen zzp'ers onderling.",
+"model": "Lage inkomensgroepen hebben vaker geen aov en zien hun inkomen sterk dalen. Hoge inkomensgroepen hebben vaker wel een aov en houden hun inkomen grotendeels. De verschillen worden groter, dus denivellering.",
+"pnt": 2
+},
+{
+"id": "ex.h23-1.4",
+"t": "open",
+"niv": "h",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 4,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Een vakbondslid zegt dat arbeidsongeschiktheid denivellering kan geven tussen arbeidsongeschikte zzp'ers en werknemers uit dezelfde inkomensklasse. Leg deze stelling uit.",
+"model": "Werknemers zijn verplicht verzekerd en krijgen een uitkering. Een deel van de zzp'ers is niet verzekerd en heeft daardoor een groter secundair inkomensverlies. Het verschil wordt groter: denivellering.",
 "pnt": 2
 },
 {
@@ -1868,6 +4480,66 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h23-1.14",
+"t": "open",
+"niv": "h",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 14,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Leg uit dat de nieuwe regeling voor fiscale bijtelling gunstig kan werken op innovatie en daarmee op structurele economische groei.",
+"model": "Werknemers kiezen een auto met lage uitstoot, dus autofabrikanten ontwikkelen schonere technieken. Nieuwe technieken verhogen kwaliteit of kwantiteit van de productiefactoren en geven structurele groei.",
+"pnt": 2
+},
+{
+"id": "ex.h23-1.15",
+"t": "open",
+"niv": "h",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 15,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Meryem kiest de auto met de laagste bijtelling. Bereken hoeveel extra belasting zij in 2023 betaalt bij een bruto-inkomen van € 35.000. Gebruik de drie bronnen.",
+"model": "Ze kiest de Hyundai: bijtelling 14% van € 14.065 = € 1.969,10. Haar inkomen blijft in schijf 1: 37,1% van € 1.969,10 = € 730,54. Een andere auto geeft maximaal 1 punt.",
+"pnt": 2
+},
+{
+"id": "ex.h23-1.18",
+"t": "open",
+"niv": "h",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 18,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Leg uit dat een renteverlaging door de ECB de internationale concurrentiepositie van de VS verslechtert.",
+"model": "Route 1: lagere rente verlaagt kosten van Europese producenten, dus Europese prijzen dalen ten opzichte van Amerikaanse. Route 2: relatief hoge rente in de VS trekt kapitaal aan, de dollar apprecieert en Amerikaanse producten worden in euro's duurder.",
+"pnt": 2
+},
+{
+"id": "ex.h23-1.22",
+"t": "open",
+"niv": "h",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 22,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Leg uit dat beide landen in een gevangenendilemma zitten. Leg eerst uit of beide landen een dominante strategie hebben en beredeneer daarna het dilemma. Gebruik de matrix in de bron.",
+"model": "Voor beide landen is hoger aanbod handhaven dominant, want ongeacht de keuze van de ander is de omzetverandering dan het gunstigst. De uitkomst (handhaven, handhaven) is suboptimaal: beide waren beter af bij verlagen. Dat is een gevangenendilemma.",
+"pnt": 2
+},
+{
 "id": "ex.h23-1.23",
 "t": "open",
 "niv": "h",
@@ -1895,6 +4567,21 @@ EXAMEN.vragen.push(...[
 "titel": "MO en MK opstellen en maximale winst van een monopolist berekenen",
 "q": "Leg met de bron uit bij welke prijs sprake is van een minimaal totaal verlies.",
 "model": "Het verlies is minimaal bij de hoeveelheid waarbij MO = MK (Q = 2.000 miljoen km, mag tussen haakjes). Bij die hoeveelheid lees je op de GO-lijn de prijs af: € 0,40 per km.",
+"pnt": 2
+},
+{
+"id": "ex.h23-2.1",
+"t": "open",
+"niv": "h",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 1,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Leg uit waarom extra overheidsuitgaven nu de ruimte voor uitgaven later kunnen beperken.",
+"model": "Bij een tekort moet de overheid meer lenen (1). Daardoor beperken de huidige bestedingen toekomstige bestedingen, omdat er extra moet worden afgelost (1).",
 "pnt": 2
 },
 {
@@ -1958,6 +4645,21 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.h23-2.15",
+"t": "open",
+"niv": "h",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 15,
+"d": "H",
+"e": "EX.H",
+"titel": "Heffingskorting werkt nivellerend",
+"q": "Toon met een berekening aan dat het stelsel in 2014 meer nivelleert dan in het jaar ervoor, door het netto-inkomen van hoog en laag te vergelijken.",
+"model": "Netto-inkomen laag: 20.000 − 7.270 + 2.093 + 2.097 = 16.920; hoog: 120.000 − 55.616 + 1.362 + 367 = 66.113 (1). Verhouding 66.113 : 16.920 = 3,9, kleiner dan 4,1 dus meer nivellering (1).",
+"pnt": 2
+},
+{
 "id": "ex.h23-2.17",
 "t": "open",
 "niv": "h",
@@ -1988,6 +4690,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h23-2.19",
+"t": "open",
+"niv": "h",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 19,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Leg uit dat de kosten van medicijnontwikkeling verzonken kosten zijn.",
+"model": "Fabrikanten doen specifieke investeringen om een medicijn te ontwikkelen (1). Die kosten zijn verzonken, want ze zijn alleen terug te verdienen via verkoop, ook niet als de FDA geen toestemming geeft (1).",
+"pnt": 2
+},
+{
 "id": "ex.h23-2.20",
 "t": "open",
 "niv": "h",
@@ -2000,6 +4717,36 @@ EXAMEN.vragen.push(...[
 "titel": "Prijselasticiteit van de vraag berekenen en typeren",
 "q": "Kies in een invulvraag de juiste termen voor de prijselasticiteit en het soort goed van het medicijn.",
 "model": "(1) prijsinelastisch; (2) noodzakelijk (1).",
+"pnt": 1
+},
+{
+"id": "ex.h23-2.23",
+"t": "open",
+"niv": "h",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 23,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Bepaal met de pay-offmatrix de dominante strategie van beide bedrijven en beoordeel het evenwicht.",
+"model": "Beide bedrijven hebben als dominante strategie wel losgeld betalen: de eigen uitkomst is steeds hoger (ABC −5 > −6 en −2 > −4; XYZ −4 > −5 en −2 > −3) (1). Evenwicht (−5; −4) is suboptimaal, want geen van beide betalen geeft −4; −3 (1).",
+"pnt": 2
+},
+{
+"id": "ex.h23-2.24",
+"t": "open",
+"niv": "h",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 24,
+"d": "F",
+"e": "EX.F",
+"titel": "Uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert",
+"q": "Geef een maatregel waarmee ABC geloofwaardig kan beloven nooit losgeld te betalen.",
+"model": "ABC maakt publiek bekend nooit te betalen, zodat betalen reputatieschade geeft. Of ABC sluit vooraf een controleerbaar servicecontract af, zodat betalen die kosten nutteloos maakt. De negatieve gevolgen van betalen moeten blijken.",
 "pnt": 1
 },
 {
@@ -2033,6 +4780,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h23-2.28",
+"t": "open",
+"niv": "h",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 28,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"q": "Leg uit waarom de dienst van Deel-Kar.nl het bbp kan laten toenemen.",
+"model": "Is de omzet hoger dan de inkoopkosten, dan ontstaat toegevoegde waarde en neemt het bbp toe. Deel-Kar.nl levert een dienst met weinig of geen inkoopkosten.",
+"pnt": 1
+},
+{
 "id": "ex.h23-2.30",
 "t": "open",
 "niv": "h",
@@ -2045,6 +4807,21 @@ EXAMEN.vragen.push(...[
 "titel": "Moral hazard en maatregelen",
 "q": "Verklaar de stelling dat huurders van verzekerde auto's moral hazard kunnen vertonen, terwijl verhuurders zich daar geen zorgen over hoeven te maken.",
 "model": "De huurder kan zich roekeloos gedragen, omdat de verzekeraar de schade dekt (1). De verhuurders weten dat de auto goed verzekerd is en krijgen de schade vergoed (1).",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.1",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 1,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "De vakbond eist 3,5% meer loon, met minimaal € 1.000 erbij. Leg uit dat het inwilligen van deze eis nivellerend werkt.",
+"model": "Door het minimum stijgen lage inkomens procentueel meer dan 3,5% (grens ongeveer € 28.571). Hoge inkomens krijgen 3,5%. De relatieve inkomensverschillen worden kleiner, dus nivellerend. De relatieve stijging moet genoemd zijn.",
 "pnt": 2
 },
 {
@@ -2078,6 +4855,111 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h24-1.11",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 11,
+"d": "F",
+"e": "EX.F",
+"titel": "Simultaan en sequentieel spel onderscheiden",
+"q": "Maak een economisch juiste tekst over de kenmerken van het ultimatumspel, met vijf keuzes: soort spel, aantal spelers, wie het voorstel doet, wie kiest en wat er gebeurt bij accepteren.",
+"model": "(1) sequentieel, (2) twee, (3) aanbieder, (4) respondent, (5) accepteert. Ook goed: (3) respondent en (4) aanbieder, mits (5) accepteert. Eerste deelscore voor (1) en (2), tweede voor (3) tot en met (5).",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.12",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 12,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Gebruik bron 2. Welke bedragen horen op plaats (1) en (2) in de beslisboom? Leg je keuze uit. Het budget is € 6.000 per fiets en de marginale kosten zijn € 3.500.",
+"model": "Bij (1) € 1.500: Snel houdt over € 6.000 − € 4.500. Bij (2) € 1.000: Sprinter houdt over € 4.500 − € 3.500 (marginale kosten), als Sprinter het voorstel accepteert.",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.13",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 13,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Gebruik bron 2. Leg uit welke van de drie verdelingen ontstaat als Sprinter en Snel allebei zo veel mogelijk euro's voor zichzelf willen.",
+"model": "Sprinter accepteert elk voorstel met een opbrengst boven € 0 (dus boven de minimale leveringsbereidheid). Snel kent dat en doet het voorstel dat de eigen opbrengst maximaal maakt, € 3.501. De verdeling wordt € 2.499 voor Snel en € 1 voor Sprinter. Best-responsmethode is ook goed.",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.17",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 17,
+"d": "H",
+"e": "EX.H",
+"titel": "Grens aan aftrektarief werkt nivellerend",
+"q": "Het maximale aftrektarief voor hypotheekrente gaat naar 37,05%. Leg uit dat de secundaire inkomensverdeling binnen de groep woningbezitters daardoor gelijker wordt.",
+"model": "Hoge inkomens verliezen belastingvoordeel (tarief 49,50% wordt 37,05%) en betalen meer belasting. Voor lage inkomens verandert niets. Zo worden de verschillen tussen lage en hoge inkomens na belasting kleiner.",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.27",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 27,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp als som van toegevoegde waarden, bruto en netto, informele sector",
+"q": "Maak een redenering economisch juist met drie keuzes: waarvan de bruto toegevoegde waarde het verschil is met de omzet, welke sector naast bedrijven het bbp vormt en waaraan die toegevoegde waarde gelijk is.",
+"model": "(1) ingekochte hulp- en grondstoffen. (2) de overheid en (3) de ambtenarensalarissen. Eén punt voor (1), één punt voor (2) en (3) samen.",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.29",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 29,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp stijgt, welvaart daalt (extern effect)",
+"q": "Leg uit dat een concentratie van toerisme op bepaalde plekken in Nederland kan leiden tot negatieve externe effecten.",
+"model": "De leefbaarheid daalt door bijvoorbeeld afval, geluidsoverlast of overbelaste wegen. Dit zijn maatschappelijke kosten voor anderen dan de aanbieders aan toeristen en ze zitten niet in de prijs, dus het zijn externe effecten.",
+"pnt": 2
+},
+{
+"id": "ex.h24-1.30",
+"t": "open",
+"niv": "h",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 30,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Leg uit dat prijsdiscriminatie in het openbaar vervoer ervoor kan zorgen dat het groen bbp stijgt.",
+"model": "Een lagere prijs voor buitenlandse toeristen leidt tot meer gebruik van het openbaar vervoer (hogere afzet). Dan is er minder overbelasting van wegen, vervuiling of drukte, de milieuschade daalt en dus kan het groen bbp stijgen.",
+"pnt": 2
+},
+{
 "id": "ex.h24-2.1",
 "t": "open",
 "niv": "h",
@@ -2106,6 +4988,51 @@ EXAMEN.vragen.push(...[
 "q": "Denzel is risiconeutraal en niet verzekerd. Hij overweegt een andere tandarts of een tandzorgverzekering met eigen risico, en heeft de tarieven op een rij gezet (2 controles per jaar en 25% kans op een behandeling). Toon met een berekening aan welke keuze het best bij hem past.",
 "model": "Per jaar: Mondmedisch Centrum 2 × 28 + 0,25 × 60 = € 71. De Concurrent 2 × 26 + 0,25 × 70 = € 69,50. Verzekering 69 + 0,25 × 5 = € 70,25. Laagste verwachte kosten: overstappen naar De Concurrent zonder verzekering.",
 "pnt": 3
+},
+{
+"id": "ex.h24-2.16",
+"t": "open",
+"niv": "h",
+"ex": "h24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 16,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Denise volgt een jaar een masteropleiding: collegegeld € 2.300 en materialen € 400. Kosten boven een drempel van € 300 zijn aftrekbaar. Haar bruto-inkomen is € 36.000 en ze heeft geen andere aftrekposten. Gebruik bron 1. Bereken haar netto-studiekosten.",
+"model": "Kosten € 2.700; aftrekbaar 2.700 − 300 = € 2.400. Inkomen valt in schijf 1: voordeel 2.400 x 0,1903 = € 456,72. Netto-studiekosten 2.700 − 456,72 = € 2.243,28.",
+"pnt": 2
+},
+{
+"id": "ex.h24-2.24",
+"t": "open",
+"niv": "h",
+"ex": "h24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 24,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Van de twee beleidsopties (hogere belastingtarieven of lagere uitkeringen) leidt één tot denivellering. Leg uit welke dat is.",
+"model": "Optie 2. Lagere uitkeringen verlagen het besteedbaar inkomen van uitkeringsgerechtigden, terwijl dat van werkenden gelijk blijft. Het verschil tussen lage en hoge secundaire inkomens wordt groter, dus denivellering. Optie 1 nivelleert.",
+"pnt": 2
+},
+{
+"id": "ex.h24-2.25",
+"t": "open",
+"niv": "h",
+"ex": "h24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 25,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Bouwrijk doet Schot in de Zaak een eenmalig voorstel voor de verdeling van een aanneemsom van € 485.000; bij weigering vervalt de opdracht. Startkosten: € 12.500 en € 25.000. Leg uit welk bedrag Schot in de Zaak minimaal accepteert bij puur eigenbelang op korte termijn.",
+"model": "Schot in de Zaak accepteert elke verdeling waarmee hij zijn eigen startkosten terugverdient. Het minimale voorstel is € 25.000 (of € 25.001).",
+"pnt": 2
 },
 {
 "id": "ex.h24-2.28",
@@ -2183,6 +5110,66 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h25-1.16",
+"t": "open",
+"niv": "h",
+"ex": "h25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 16,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Twee bedrijven kiezen tussen rechten kopen en investeren in duurzame productie; de winstveranderingen staan in een pay-offmatrix. Leg uit of ze in een gevangenendilemma zitten: eerst de dominante strategieën met getallen, dan de conclusie.",
+"model": "Voor beide bedrijven is investeren dominant, want de uitkomsten bij investeren zijn bij elke keuze van de ander beter (met de getallen uit het voorschrift) (1). Het evenwicht (35 ; 45) is voor beide spelers de beste uitkomst, dus geen gevangenendilemma (1).",
+"pnt": 2
+},
+{
+"id": "ex.h25-1.17",
+"t": "open",
+"niv": "h",
+"ex": "h25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 17,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Duurzame investeringen geven hoge verzonken kosten, waardoor bedrijven nieuwe markten zoeken. Leg uit dat de totale CO2-uitstoot daardoor niet hoeft te dalen.",
+"model": "Bedrijven investeren alleen als ze verzonken kosten kunnen terugverdienen, dus ze zoeken meer afzet en nieuwe markten (1). De productie stijgt zo sterk dat de uitstoot ondanks schonere productie gelijk kan blijven of toenemen (1).",
+"pnt": 2
+},
+{
+"id": "ex.h25-1.19",
+"t": "open",
+"niv": "h",
+"ex": "h25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 19,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "De EU verlaagt het aantal emissierechten. Dit heeft twee gevolgen voor het groen bbp. Leg beide gevolgen uit.",
+"model": "Minder rechten verlagen de productie, dus het bbp en daarmee het groen bbp dalen (1). Lagere productie of verduurzaming verlaagt de milieuschade, dus het groen bbp stijgt (1).",
+"pnt": 2
+},
+{
+"id": "ex.h25-1.25",
+"t": "open",
+"niv": "h",
+"ex": "h25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Gebruik bron 1, 2 en 3. Bereken hoeveel euro een alleenstaande oudere door maatregel 3 extra aan belasting in box 1 betaalt.",
+"model": "Jaarinkomen € 1.330,76 × 12 = € 15.969,12 (1). Belasting met maatregel: × 0,3693 = € 5.897; zonder: × 0,1903 = € 3.038; verschil ongeveer € 2.859 (1). Direct × (0,3693 − 0,1903) = € 2.858 geeft ook 2 punten.",
+"pnt": 2
+},
+{
 "id": "ex.h25-1.27",
 "t": "open",
 "niv": "h",
@@ -2241,6 +5228,66 @@ EXAMEN.vragen.push(...[
 "q": "Geef met letters in bron 2 de oppervlakken aan voor consumentensurplus, producentensurplus en accijnsopbrengst na het heffen van de accijns. Vul de tabel aan op het antwoordblad.",
 "model": "Consumentensurplus: ABC. Producentensurplus: HIJ (of BCD). Accijnsopbrengst: BCIH (of DCIJ). Eén punt per juist onderdeel.",
 "pnt": 3
+},
+{
+"id": "ex.h25-2.18",
+"t": "open",
+"niv": "h",
+"ex": "h25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 18,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Leg met getallen uit bron 2 uit of er sprake is van een gevangenendilemma. Leg eerst uit of beide verzekeraars een dominante strategie hebben en beredeneer dan het dilemma.",
+"model": "Voor A en C is campagne voeren dominant (+10% > 0% en -1% > -5%; +9% > 0% en -1% > -6%). Het evenwicht is dat beiden campagne voeren (-1%; -1%), slechter dan geen campagne (0%; 0%): dus een gevangenendilemma.",
+"pnt": 2
+},
+{
+"id": "ex.h25-2.24",
+"t": "open",
+"niv": "h",
+"ex": "h25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 24,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Bereken met de tabel met nieuwe tarieven en heffingskortingen hoeveel belasting iemand met een belastbaar inkomen van $ 50.000 betaalt na de maatregelen.",
+"model": "Schijf 1: 44.725 x 0,20 = $ 8.945. Schijf 2: (50.000 - 44.725) x 0,24 = $ 1.266. Samen $ 10.211. Min heffingskorting $ 1.350 geeft $ 8.861.",
+"pnt": 2
+},
+{
+"id": "ex.h25-2.25",
+"t": "open",
+"niv": "h",
+"ex": "h25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Bereken de verandering van het gemiddelde belastingtarief in procentpunten voor iemand met een belastbaar inkomen van $ 40.000, door de nieuwe tarieven en heffingskorting.",
+"model": "Oud: 40.000 x 0,32 - 1.250 = $ 11.550, dus 28,9%. Nieuw: 40.000 x 0,20 - 2.375 = $ 5.625, dus 14,1%. Verschil: 14,8 procentpunten daling.",
+"pnt": 3
+},
+{
+"id": "ex.h25-2.26",
+"t": "open",
+"niv": "h",
+"ex": "h25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 26,
+"d": "H",
+"e": "EX.H",
+"titel": "Heffingskorting werkt nivellerend",
+"q": "Leg uit of de verhoging van de heffingskorting een nivellerend of denivellerend effect heeft op de secundaire inkomensverdeling.",
+"model": "Nivellerend: lagere inkomens betalen door de hogere heffingskorting in verhouding minder belasting dan hogere inkomens, dus de inkomensverschillen worden kleiner. Het tweede punt hangt af van een juiste uitleg.",
+"pnt": 2
 },
 {
 "id": "ex.h26-1.3",
@@ -2312,9 +5359,54 @@ EXAMEN.vragen.push(...[
 "nr": 8,
 "d": "H",
 "e": "EX.H",
-"titel": "Met gemiddelde tarieven aantonen dat een belastingstelsel progressief is",
+"titel": "Inkomstenbelasting box 1 berekenen",
 "q": "Met een tabel met twee schijven (tot € 76.817 tegen 37,5%, daarboven 49,5%) bereken je het gemiddeld belastingtarief bij een belastbaar inkomen van € 142.854.",
 "model": "Totale belasting: € 76.817 × 0,375 + (€ 142.854 − € 76.817) × 0,495 = € 61.494, 1p. Gemiddeld tarief: € 61.494 : € 142.854 × 100% = 43%, 1p. Rekenen met niet-afgeronde bedragen mag.",
+"pnt": 2
+},
+{
+"id": "ex.h26-1.9",
+"t": "open",
+"niv": "h",
+"ex": "h26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 9,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "De overheid gebruikt belastingopbrengsten om inkomen te herverdelen. Geef een voorbeeld van een overheidsuitgave waarmee dat gebeurt.",
+"model": "Bijvoorbeeld zorg- of huurtoeslag, sociale uitkeringen, bijstand, subsidies of persoonsgebonden overdrachten. Eén voorbeeld volstaat.",
+"pnt": 1
+},
+{
+"id": "ex.h26-1.10",
+"t": "open",
+"niv": "h",
+"ex": "h26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 10,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"q": "Met een figuur over de inkomensverdeling na herverdeling bereken je hoeveel procent de 10% hoogste inkomens meer verdient dan de 10% laagste inkomens.",
+"model": "Hoogste 10% verdient 100% − 75% = 25%, laagste 10% verdient 3%, 1p. (25 − 3) : 3 × 100% ≈ 733,33% meer, 1p. Een verschil in procentpunten geeft maximaal 1p.",
+"pnt": 2
+},
+{
+"id": "ex.h26-1.15",
+"t": "open",
+"niv": "h",
+"ex": "h26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 15,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Met een matrix van financiële veranderingen voor club en verhuurder leg je uit of de dreiging van de club om het huurcontract op te zeggen geloofwaardig is.",
+"model": "Verlengen is altijd beter voor de club dan opzeggen (−3%, −2% en 15% zijn hoger dan −100%), dus verlengen is de dominante strategie, 1p. De dreiging is dus niet geloofwaardig, 1p.",
 "pnt": 2
 },
 {
@@ -2378,6 +5470,51 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.h26-2.8",
+"t": "open",
+"niv": "h",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 8,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Meer import en transport van fruit verlaagt het groen bbp van de EU. Leg de twee negatieve effecten van fruitimport op het groen bbp uit.",
+"model": "Eén: hogere import leidt tot een lager bbp, dus een lager groen bbp. Twee: transport en import schaden het milieu, en de milieuschade wordt van het groen bbp afgetrokken.",
+"pnt": 2
+},
+{
+"id": "ex.h26-2.15",
+"t": "open",
+"niv": "h",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 15,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Econoom B wil geld overhouden voor innovatieprojecten, omdat de beroepsbevolking krimpt. Leg uit hoe dat een groter personeelstekort kan voorkomen.",
+"model": "Innovatie verhoogt de arbeidsproductiviteit of leidt tot automatisering. Dan is voor dezelfde productie minder personeel nodig, dus een groter tekort wordt voorkomen.",
+"pnt": 2
+},
+{
+"id": "ex.h26-2.19",
+"t": "open",
+"niv": "h",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 19,
+"d": "G",
+"e": "EX.G",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "Een land heeft een negatief overheidssaldo en particulier spaarsaldo. Maak een juiste redenering over het saldo lopende rekening, rentebetalingen, de rente op nieuwe staatsobligaties en het effect van een onderpand.",
+"model": "(1) negatief, (2) verslechteren, (3) stijgen, (4) dalen. Eén punt voor (1) en (2) juist, één punt voor (3) en (4) juist.",
+"pnt": 2
+},
+{
 "id": "ex.h26-2.20",
 "t": "open",
 "niv": "h",
@@ -2393,6 +5530,171 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.h26-2.25",
+"t": "open",
+"niv": "h",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 25,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Rond en Kruis kiezen tussen zwijgen, toegeven met inzage en klikken (spelboom met kortingen). Verklaar met getallen uit de spelboom welk kortingspercentage Kruis krijgt.",
+"model": "Rond kiest steeds de beste reactie: bij zwijgen of toegeven kiest Rond klikken (100 > 60 en 100 > 0), bij klikken kiest Rond toegeven (60 > 0). Rond kiest dus klikken, en Kruis krijgt 60% korting.",
+"pnt": 2
+},
+{
+"id": "ex.h26-2.30",
+"t": "open",
+"niv": "h",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 30,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Een werkgever investeert in de opleiding van werknemers en kan daardoor verzonken kosten hebben. Leg uit hoe hij verzonken kosten kan voorkomen.",
+"model": "De werkgever neemt een clausule in het contract op dat de werknemer een minimale periode in dienst blijft. Zo verdient hij de investering terug, dus er zijn geen verzonken kosten.",
+"pnt": 2
+},
+{
+"id": "ex.v18-1.2",
+"t": "open",
+"niv": "v",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 2,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Noem de letter(s) van het vlak of de vlakken die het welvaartsverlies weergeven dat ontstaat door het importverbod.",
+"model": "F. Alleen de juiste letter mag genoemd zijn.",
+"pnt": 1
+},
+{
+"id": "ex.v18-1.3",
+"t": "open",
+"niv": "v",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 3,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Qv = −2P + 100 en Qa = 4P − 80 (in duizenden tonnen); wereldprijs 25 UR. De prijs mag door een importquotum 10% stijgen. Bereken hoeveel import dan nog is toegestaan.",
+"model": "Prijs 1,1 × 25 = 27,50. Qa = 4 × 27,50 − 80 = 30. Qv = −2 × 27,50 + 100 = 45. Import 45 − 30 = 15 (duizend ton).",
+"pnt": 2
+},
+{
+"id": "ex.v18-1.15",
+"t": "open",
+"niv": "v",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 15,
+"d": "I",
+"e": "EX.I",
+"titel": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"q": "Tabel met consumptie, investeringen, overheidsbestedingen, invoer en bbp voor 2015 (uitvoer ontbreekt); 2014: 10,73%. Toon met een berekening aan dat het uitvoersaldo in 2015 een hoger percentage van het bbp is.",
+"model": "667,7 = 298,9 + 101,5 + 194,1 + uitvoer − 491,1, dus uitvoer = 564,3. Saldo (564,3 − 491,1) : 667,7 × 100% = 10,96%, hoger dan 10,73%.",
+"pnt": 2
+},
+{
+"id": "ex.v18-1.20",
+"t": "open",
+"niv": "v",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 20,
+"d": "H",
+"e": "EX.H",
+"titel": "Grens aan aftrektarief werkt nivellerend",
+"q": "Het voorstel verlaagt de maximale teruggave van 50% naar 40%, beperkt de aftrek tot een schuld van € 400.000 en verlaagt het middentarief van 42% naar 40%. Verklaar dat dit nivellerend kan werken.",
+"model": "Hoge inkomens kunnen minder rente aftrekken en krijgen een lager percentage terug (1). Middeninkomens profiteren vooral van het lagere tarief in de middelste schijf (1). Let op: de tweede deelscore altijd toekennen (aanvulling).",
+"pnt": 2
+},
+{
+"id": "ex.v18-2.5",
+"t": "open",
+"niv": "v",
+"ex": "v18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 5,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Een journaliste zegt dat een systeem met een eigen risico de beschikbare inkomens na zorgbijdragen kan denivelleren. Leg deze stelling uit.",
+"model": "Het eigen risico is een groter percentage van een laag inkomen dan van een hoog inkomen, dus lage inkomens gaan procentueel meer achteruit. Of: lage inkomens zijn vaker ongezond, doen vaker een beroep op zorg en betalen vaker het eigen risico.",
+"pnt": 1
+},
+{
+"id": "ex.v18-2.19",
+"t": "open",
+"niv": "v",
+"ex": "v18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 19,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Verklaar dat vóór de muntunie een verslechterde concurrentiepositie in het Zuiden via de wisselkoers in zekere mate kon worden tegengegaan.",
+"model": "Door de slechtere concurrentiepositie daalt de export, dus de vraag naar de eigen valuta en de wisselkoers. Export wordt in vreemde valuta goedkoper en import in eigen valuta duurder, waardoor de concurrentiepositie kan verbeteren.",
+"pnt": 2
+},
+{
+"id": "ex.v19-1.3",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 3,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Leg uit dat een hogere rente in de VS via de kapitaalrekening de dollarkoers beïnvloedt en daarmee via de lopende rekening de bbp-groei kan afremmen.",
+"model": "Hogere rente maakt beleggen in de VS aantrekkelijk, dus er is meer vraag naar dollars en de koers stijgt. Amerikaanse producten worden voor het buitenland duurder, de export daalt en de bbp-groei kan afnemen. Twee punten per deel.",
+"pnt": 4
+},
+{
+"id": "ex.v19-1.12",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 12,
+"d": "F",
+"e": "EX.F",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "Geef met de twee afzetfuncties de berekening van de waarde 0,57% linksonder in de pay-offmatrix (BSA verhoogt het collegegeld met 10%, BSB houdt het gelijk).",
+"model": "Qva bij € 15.000 = 3.500, omzet 52,5 mln. Bij € 16.500 is Qva 3.200, omzet 52,8 mln. De omzet stijgt 0,57%. Let op: volgens de aanvulling op het correctievoorschrift krijgt iedere kandidaat voor deze vraag altijd 2 punten.",
+"pnt": 2
+},
+{
+"id": "ex.v19-1.13",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 13,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Beargumenteer met de pay-offmatrix wat er gebeurt met het verschil in collegegeld tussen BSA en BSB.",
+"model": "Voor BSA is verhogen dominant (0,57 > 0 en 6,86 > 5,71). Voor BSB is gelijk houden dominant (0 > −1,48 en 6,52 > 5,70). BSA startte met het laagste collegegeld (€ 15.000), dus het verschil wordt kleiner.",
+"pnt": 3
+},
+{
 "id": "ex.v19-1.14",
 "t": "open",
 "niv": "v",
@@ -2405,6 +5707,96 @@ EXAMEN.vragen.push(...[
 "titel": "Moral hazard en maatregelen",
 "q": "De minister zegt dat gratis publiek onderwijs verplichte solidariteit is, dat daarbij moral hazard kan optreden en dat dit het draagvlak aantast. Verklaar de drie onderdelen.",
 "model": "Publiek onderwijs wordt uit belastingen betaald, dus de bijdrage is verplicht. Studenten merken bij weinig inzet zelf nauwelijks de kosten (moral hazard). Ziet de belastingbetaler dat hij betaalt voor slecht presterende studenten, dan daalt het draagvlak.",
+"pnt": 3
+},
+{
+"id": "ex.v19-1.15",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 15,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Leg uit dat verhoging van importheffingen de vraag naar importen kan beperken.",
+"model": "Door de heffing worden geïmporteerde goederen duurder dan binnenlandse substituten. Daardoor daalt de vraag naar importen.",
+"pnt": 1
+},
+{
+"id": "ex.v19-1.16",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 16,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden",
+"q": "Leg uit dat beperking van importen binnenlandse bedrijven de kans geeft om na verloop van tijd beter te concurreren op de wereldmarkt.",
+"model": "Minder import verhoogt de binnenlandse prijzen en de afzet van eigen bedrijven. Zij kunnen schaalvoordelen behalen (lagere gemiddelde kosten) of middelen vrijmaken voor innovatie. Dat versterkt hun concurrentiepositie op de wereldmarkt. Een van beide redeneringen volstaat.",
+"pnt": 2
+},
+{
+"id": "ex.v19-1.18",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 18,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Leg uitsluitend met informatie uit tabel 1 uit dat de stijging van de exportwaarde 1995-2015 door een waardeverandering van de pesto kan komen.",
+"model": "De importwaarde is groter dan de exportwaarde, dus het saldo op de lopende rekening is negatief. Er worden meer pesto's aangeboden dan gevraagd, dus de pesto daalt in waarde. Producten uit Pesthan worden goedkoper voor het buitenland en de export stijgt.",
+"pnt": 2
+},
+{
+"id": "ex.v19-1.23",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 23,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Verklaar de uitkomst in de spelboom waarbij beide bedrijven ervoor kiezen het kartel niet te melden.",
+"model": "Bij ontdekking krijgt elk bedrijf een boete van vier keer de extra omzet (400%). De kans op ontdekking is 75%, dus de verwachte boete is 0,75 × 400% = 300% van de extra omzet. Let op: volgens de aanvulling op het correctievoorschrift krijgt iedere kandidaat voor deze vraag altijd 2 punten.",
+"pnt": 2
+},
+{
+"id": "ex.v19-1.24",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 24,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "De directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.",
+"model": "OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.",
+"pnt": 2
+},
+{
+"id": "ex.v19-1.29",
+"t": "open",
+"niv": "v",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 29,
+"d": "G",
+"e": "EX.G",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "Een adviseur raadt jongeren aandelen aan en ouderen geleidelijk obligaties of een betaalrekening. Verklaar dit verschil in advies.",
+"model": "Jongeren beleggen nog lang, kunnen koersdalingen opvangen en profiteren van het hogere verwachte rendement van aandelen (2 punten). Ouderen hebben een korte horizon waarin dalingen niet te herstellen zijn, dus kiezen ze veiliger beleggingen zoals obligaties (1 punt).",
 "pnt": 3
 },
 {
@@ -2513,6 +5905,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v19-2.12",
+"t": "open",
+"niv": "v",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 12,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Trains is wettelijk monopolist en moet prijsstijgingen vooraf onderbouwen tegenover de overheid. Leg uit dat er een principaal-agentprobleem kan zijn en hoe de overeenkomst dit vermindert.",
+"model": "Overheid (principaal) en Trains (agent) hebben andere doelen: reizigersbelang tegenover winst (1). De overheid kent de kosten en opbrengsten van Trains slecht: informatie-asymmetrie (1). De overeenkomst geeft de overheid deels dezelfde informatie (1).",
+"pnt": 3
+},
+{
 "id": "ex.v19-2.13",
 "t": "open",
 "niv": "v",
@@ -2525,6 +5932,66 @@ EXAMEN.vragen.push(...[
 "titel": "Prijselasticiteit van de vraag berekenen en typeren",
 "q": "De spitsprijs stijgt 10% en de dalprijs daalt 10%. De prijselasticiteit in de spits is −0,2 en de kruislingse elasticiteit +0,3. De huidige bezetting is 109%. Bereken de bezettingsgraad in de spits.",
 "model": "Eigen prijs: −0,2 × 10% = −2% (1). Kruislings: +0,3 × −10% = −3% (1). Bezetting 109 × 0,98 × 0,97 ≈ 103,62 of 109 × 0,95 = 103,55 (1).",
+"pnt": 3
+},
+{
+"id": "ex.v21-1.4",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 4,
+"d": "G",
+"e": "EX.G",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "Leg uit dat een te sterke loonsverhoging het succes van de uitgifte van nieuwe aandelen van het concern in gevaar kan brengen.",
+"model": "Een te hoge loonsverhoging kan de verwachte winst te laag maken (1). Beleggers verwachten dan te weinig dividend, een dalende koers of een lager rendement op het aandeel. Ze tonen daardoor te weinig interesse in de aandelenuitgifte (1).",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.5",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 5,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Een voorstel van de directie bevat voorwaarden: tweemaal akkoord geeft 20% werk bij de dochter, één weigering geeft die vakbond 30% en de ander maximaal 10%, tweemaal weigeren geeft faillissement. Gaan beide vakbonden akkoord? Licht toe door hun strategieën te vergelijken.",
+"model": "Ja. Gaat de ander niet akkoord, dan is akkoord beter, want 10% bij de dochter is beter dan faillissement. Gaat de ander wel akkoord, dan is akkoord beter, want 20% is beter dan 30%. Akkoord is dominante strategie voor beide. Een toelichting met matrix mag ook. Alleen 0 of 2 punten.",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.9",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 9,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Een gemeente verleent een concessie voor elektrische bussen met vijf voorwaarden over reistijd, vertraging, inzet van dieselbussen, gps-tracking en maximumprijs. Leg uit dat een principaal-agentprobleem kan optreden en welke twee voorwaarden dit probleem verminderen.",
+"model": "Principaal (gemeente) en agent (busbedrijf) hebben verschillende doelen: winst tegenover reizigersbelang (1). De gemeente ziet de ritten en kosten beperkt: informatie-asymmetrie (1). Voorwaarde iv (gps) geeft direct inzicht in vertraging en uitval (1). Voorwaarde v (maximumprijs) beperkt winstmaximalisatie ten koste van reizigers (1).",
+"pnt": 4
+},
+{
+"id": "ex.v21-1.12",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 12,
+"d": "G",
+"e": "EX.G",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "Een pensioenfonds belegt de eerste twintig jaar vooral in aandelen, daarna vooral in staatsobligaties. De financieel directeur zegt dat dit over de hele periode een relatief hoog rendement bij laag risico geeft. Leg haar argumentatie uit.",
+"model": "Aandelen geven een hoog rendement en hoog risico, maar over twintig jaar is er tijd om een negatieve schok goed te maken (2). Obligaties geven laag rendement en laag risico. Over de hele periode is het rendement dus relatief hoog bij laag risico (1).",
 "pnt": 3
 },
 {
@@ -2541,6 +6008,36 @@ EXAMEN.vragen.push(...[
 "q": "Een verfbedrijf heeft een prijsafzetfunctie met de eigen prijs en de prijs van de concurrent (€ 12). MK is € 8. Toon met een berekening aan dat het bedrijf bij maximale winst € 11 per liter vraagt.",
 "model": "Invullen pfb = 12 geeft q = −2p + 28, dus p = −0,5q + 14 (1). TO = −0,5q² + 14q, dus MO = −q + 14 (1). MO = MK: −q + 14 = 8, q = 6, p = −0,5 × 6 + 14 = 11 (1).",
 "pnt": 3
+},
+{
+"id": "ex.v21-1.16",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 16,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "De directie overweegt de prijs gelijk te laten, 10% te verhogen of 10% te verlagen, en verwacht dat de concurrent reageert. Verklaar met de spelboom dat het gezien de doelstelling niet zinvol is de prijs aan te passen.",
+"model": "Bij € 12,10 kiest de concurrent € 12,00 en is de winst € 560.000. Bij € 11,00 kiest de concurrent € 12,00 en is de winst € 800.000. Bij € 9,90 kiest de concurrent € 10,80 en is de winst € 100.000 (1). De hoogste winst staat bij € 11,00: de prijs blijft gelijk (1).",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.17",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 17,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Een matrix toont de winsten bij gelijktijdige prijszetting door twee bedrijven en bevat twee Nash-evenwichten. Beargumenteer of het spel voor beide spelers een optimaal resultaat kan opleveren. Benoem beide Nash-evenwichten.",
+"model": "Nash-evenwichten: beiden houden de prijs gelijk (€ 11,00; € 12,00) of beiden verlagen (€ 9,90; € 10,80) (1). Gezamenlijk verhogen (€ 12,10; € 13,20) geeft beide een hogere winst. Zonder onderlinge afspraak komt die uitkomst niet tot stand (1).",
+"pnt": 2
 },
 {
 "id": "ex.v21-1.19",
@@ -2565,9 +6062,9 @@ EXAMEN.vragen.push(...[
 "jaar": 2021,
 "tv": 1,
 "nr": 20,
-"d": "D",
-"e": "EX.D",
-"titel": "Prijselasticiteit van de vraag berekenen en typeren",
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
 "q": "Een land devalueert 20%. De prijselasticiteit van de export is −0,5 en die van de import −0,4. Toon met een berekening aan dat de importwaarde in eigen valuta sterker toeneemt dan de exportwaarde.",
 "model": "Exportprijs in vreemde valuta −20%, dus exportvolume +10% (1). Importprijs in eigen valuta 1 : 0,8 = 1,25, dus +25%, importvolume −10% (1). Exportwaarde: 100 × 1,1 = 110. Importwaarde: 100 × 0,9 × 1,25 = 112,5. Importwaarde stijgt dus meer (1).",
 "pnt": 3
@@ -2588,6 +6085,96 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v21-1.22",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 22,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Verklaar de door de econoom genoemde verbanden tussen devaluatie, binnenlands loonniveau en werkloosheid.",
+"model": "Devaluatie maakt importen duurder, dus er komt inflatie. Werknemers eisen daarna hogere lonen om hun koopkracht te behouden (1). Hogere loonkosten worden doorberekend in de prijzen. De concurrentiepositie verslechtert, de export daalt en de werkloosheid kan op lange termijn juist verder oplopen (1).",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.23",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 23,
+"d": "I",
+"e": "EX.I",
+"titel": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"q": "Gegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.",
+"model": "S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.25",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Heffingskorting werkt nivellerend",
+"q": "In een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.26",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 26,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Tarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
+"model": "Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.27",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 27,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Een overheid voert een leerplicht in en ondersteunt scholing financieel. Leg uit hoe de leerplicht heeft geleid tot meer economische groei.",
+"model": "Jongeren gaan langer naar school en bouwen meer kennis op, dus de arbeidsproductiviteit stijgt. Dit geeft meer productie, eventueel hogere lonen. Of: lagere loonkosten per product, betere concurrentiepositie, meer export en meer productie. Zo neemt de groei toe. Volgens de aanvulling is het woord arbeidsproductiviteit niet verplicht.",
+"pnt": 2
+},
+{
+"id": "ex.v21-1.28",
+"t": "open",
+"niv": "v",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 28,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Stel dat een hoger saldo op de lopende rekening het nationaal inkomen heeft verhoogd door een wisselkoersverandering. Is de valuta van het land tegenover de dollar dan gestegen of gedaald? Licht toe.",
+"model": "Gedaald. Bij een daling van de eigen valuta worden exportprijzen in dollars lager en kan het exportvolume toenemen. Of: importprijzen in eigen valuta worden hoger en het importvolume kan afnemen. Daardoor kunnen de binnenlandse productie en het nationaal inkomen toenemen.",
+"pnt": 2
+},
+{
 "id": "ex.v21-2.2",
 "t": "open",
 "niv": "v",
@@ -2601,6 +6188,21 @@ EXAMEN.vragen.push(...[
 "q": "Toon met een berekening van de prijselasticiteit aan dat de vraag naar friet bij Willem prijselastisch is. De matrix geeft omzet en prijs voor en na het doorberekenen van de heffing van 20%.",
 "model": "Netto prijs zonder doorberekening is 2/1,20 = 1,67, afzet 9.000/1,67 ≈ 5.390. Met doorberekening is de afzet 8.000/2 = 4.000. Afzetdaling 25,8%, prijsstijging 20%, Ev = −1,29. Dit is kleiner dan −1, dus elastisch.",
 "pnt": 3
+},
+{
+"id": "ex.v21-2.3",
+"t": "open",
+"niv": "v",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 3,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Neemt volgens de matrix de frietconsumptie af door de heffing? Onderbouw dit met de totale omzetten uit de matrix.",
+"model": "Nee. Voor Jan en voor Willem is de prijs gelijk houden de dominante strategie, want de totale omzet is dan hoger (bijvoorbeeld 15.000 tegenover 13.500). Beide houden dus de prijs gelijk en de consumptie daalt niet.",
+"pnt": 2
 },
 {
 "id": "ex.v21-2.6",
@@ -2693,6 +6295,36 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v21-2.25",
+"t": "open",
+"niv": "v",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Schrijf namens de minister van Sociale Zaken een reactie waarin je twee beweringen toelicht. De eerste: buitenlandse beleggers komen sowieso al, blijkens de arbeidsinkomensquote. De tweede: het effect op de secundaire inkomensverdeling is ongewenst.",
+"model": "De AIQ in het eigen land daalt en in de buurlanden niet, dus de winstquote stijgt en beleggen is al aantrekkelijker (2p). Hoge inkomens beleggen meer, dus ze profiteren meer en er komt denivellering (1p). De Gini steeg al, dus de kloof groeit verder (1p).",
+"pnt": 4
+},
+{
+"id": "ex.v21-2.27",
+"t": "open",
+"niv": "v",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 27,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Verklaar dat het zuiveringsbedrijf bij de onderhandelingen met de vier grote bedrijven met een berovingsprobleem te maken heeft.",
+"model": "Het zuiveringsbedrijf heeft specifieke investeringen gedaan (verzonken kosten) die het alleen terugverdient met voldoende afvalwater. Daardoor kunnen de vier bedrijven het dwingen akkoord te gaan met een korting op de heffing.",
+"pnt": 2
+},
+{
 "id": "ex.v21-3.2",
 "t": "open",
 "niv": "v",
@@ -2720,6 +6352,36 @@ EXAMEN.vragen.push(...[
 "titel": "Moral hazard en maatregelen",
 "q": "Variant 1 is een vast salaris, variant 2 een laag vast salaris plus een bedrag per gespeelde wedstrijd. Welke beloningsvariant kiest de directeur om moral hazard te verminderen? Leg uit.",
 "model": "Variant 2. Moral hazard is het gebrek aan prikkel om na het contract fit te blijven. Bij een minder fitte speelster volgt minder inzet en dus minder loon, wat de prikkel herstelt.",
+"pnt": 2
+},
+{
+"id": "ex.v21-3.5",
+"t": "open",
+"niv": "v",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 5,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Een club investeert in jeugdspeelsters, maar die kunnen vroeg vertrekken. De maatregel is dat vroege vertrekkers een vergoeding aan de club betalen. Leg uit hoe dit het berovingsprobleem deels beperkt.",
+"model": "De investering is specifiek en niet terug te verdienen bij vroeg vertrek, wat een berovingsprobleem geeft. De vergoeding dekt de kosten deels, dus het probleem wordt deels voorkomen.",
+"pnt": 2
+},
+{
+"id": "ex.v21-3.7",
+"t": "open",
+"niv": "v",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 7,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Een politicus wil de pensioenleeftijd verlagen. Geef twee oorzaken waarom dit het overheidssaldo kan verslechteren.",
+"model": "Ouderen betalen minder jaren premie, dus de inkomsten van de overheid dalen. Ze ontvangen langer AOW, dus de uitgaven stijgen.",
 "pnt": 2
 },
 {
@@ -2753,6 +6415,51 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v21-3.19",
+"t": "open",
+"niv": "v",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 19,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "De redactrice verwacht dat verzekeraars na 2021 een lagere prijs afdwingen. Leg uit dat het ziekenhuis daarom een meerjarig contract moet eisen om een berovingsprobleem te vermijden.",
+"model": "De investering is specifiek: bij overstap naar een ander ziekenhuis blijven vaste kosten onterugverdiend. Een meerjarig contract geeft zekerheid over opbrengsten en voorkomt het berovingsprobleem.",
+"pnt": 2
+},
+{
+"id": "ex.v21-3.29",
+"t": "open",
+"niv": "v",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 29,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden",
+"q": "Overheden voeren importheffingen in om het tekort op de lopende rekening snel te verkleinen. Leg uit hoe dit op korte termijn werkt en op langere termijn juist kan verslechteren.",
+"model": "Kort: duurdere import verlaagt de consumptie en de import, dus het tekort daalt. Lang: hogere prijzen geven loon- en grondstofkosten, waardoor exportprijzen stijgen en de export daalt. Of het buitenland neemt tegenmaatregelen, zodat export en saldo dalen.",
+"pnt": 2
+},
+{
+"id": "ex.v22-1.4",
+"t": "open",
+"niv": "v",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 4,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "De analist zegt dat de dreiging van Badlands geloofwaardig is en dat Amador hoe dan ook een lagere omzet krijgt dan in de uitgangssituatie. Leg die stelling uit met getallen uit figuur 1.",
+"model": "Badlands heeft een dominante strategie om de prijs te verlagen (104,6 > 100 en 97,9 > 92,5), dus de dreiging is geloofwaardig. Amador verlaagt dan ook (96,3 > 91,7). Beide omzetten liggen lager dan in de uitgangssituatie: een suboptimaal evenwicht.",
+"pnt": 2
+},
+{
 "id": "ex.v22-1.5",
 "t": "open",
 "niv": "v",
@@ -2766,6 +6473,81 @@ EXAMEN.vragen.push(...[
 "q": "De analist adviseert de startprijs 10% te verlagen en die verlaging na een jaar spelen af te schaffen. Leg uit dat de prijselasticiteiten in tabel 1 dit advies ondersteunen.",
 "model": "De eerste twaalf maanden is de vraag bij € 12 prijselastisch (Ev < −1): prijsverlaging verhoogt de omzet. Na een jaar is de vraag inelastisch (Ev > −1): de verlaging afschaffen (prijs omhoog) verhoogt dan de omzet.",
 "pnt": 2
+},
+{
+"id": "ex.v22-1.7",
+"t": "open",
+"niv": "v",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 7,
+"d": "G",
+"e": "EX.G",
+"titel": "Uitleggen waarom een lening zonder onderpand een hogere rente heeft",
+"q": "Uit de tabellen blijkt dat de hypotheekrente stijgt als de H/A-verhouding stijgt. Leg uit waarom.",
+"model": "Bij een hogere H/A-verhouding loopt de bank meer risico op een restschuld, want de schuld kan groter worden dan de woningwaarde als de huizenprijzen dalen. De bank vraagt daarom een hogere rente als compensatie voor dat risico.",
+"pnt": 2
+},
+{
+"id": "ex.v22-1.11",
+"t": "open",
+"niv": "v",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 11,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Toon met een berekening aan dat de VU na een importheffing van VU$ 60 per batterij geen batterijen meer uit Cinai importeert. Gebruik het model van tabel 2.",
+"model": "Binnenlands evenwicht: Qv = Qa geeft 4P = 800, dus P = 200. Importprijs met heffing = 150 + 60 = 210. Die is hoger dan de binnenlandse prijs van 200, dus er is geen import uit Cinai meer.",
+"pnt": 2
+},
+{
+"id": "ex.v22-1.12",
+"t": "open",
+"niv": "v",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 12,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen wat een importheffing betekent voor producenten en consumenten",
+"q": "Bereken met hoeveel miljard VU$ het saldo op de lopende rekening van de VU met Cinai verbetert door de importheffing.",
+"model": "Bij P = 150 is Qv = 225 en Qa = 25 miljoen, dus een vraagoverschot van 200 miljoen. 90% komt uit Cinai: 180 miljoen × 150 = VU$ 27 miljard minder import. Het saldo verbetert met VU$ 27 miljard.",
+"pnt": 2
+},
+{
+"id": "ex.v22-1.14",
+"t": "open",
+"niv": "v",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 14,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe protectie en tegenmaatregelen de economische groei beïnvloeden",
+"q": "Economen denken dat het financieringstekort van de VU kan oplopen als protectie tussen landen als een sequentieel spel wordt gezien. Geef een verklaring voor die mening.",
+"model": "Cinai reageert op de heffing met eigen protectie (sequentieel spel). Producten worden duurder, bestedingen en export dalen en het bbp daalt. Belastinginkomsten dalen, de werkloosheid en de uitgaven aan uitkeringen stijgen, dus het financieringstekort loopt op.",
+"pnt": 3
+},
+{
+"id": "ex.v22-1.20",
+"t": "open",
+"niv": "v",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 20,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Leg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.",
+"model": "Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.",
+"pnt": 3
 },
 {
 "id": "ex.v22-1.23",
@@ -2828,6 +6610,36 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.v22-2.1",
+"t": "open",
+"niv": "v",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 1,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomensaandeel aflezen uit de Lorenzcurve",
+"q": "Een deel van de zzp'ers heeft een te laag uurtarief om de kosten te dekken. Leg uit hoe de Lorenzcurve van de primaire inkomens daarop moet worden aangepast.",
+"model": "Verlieslijdende zzp'ers hebben een negatief primair inkomen (1). De curve begint daardoor onder de horizontale as en komt pas bij 20% van de personen weer boven die as (1).",
+"pnt": 2
+},
+{
+"id": "ex.v22-2.2",
+"t": "open",
+"niv": "v",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 2,
+"d": "H",
+"e": "EX.H",
+"titel": "Heffingskorting werkt nivellerend",
+"q": "De heffingskorting voor zelfstandigen gaat € 2.000 omlaag in een progressief stelsel. Beargumenteer hoe de Lorenzcurve van de secundaire inkomens van zzp'ers verschuift.",
+"model": "Lage inkomens betalen relatief meer belasting dan hoge, dus de inkomensverschillen worden groter (1). Door deze denivellering schuift de Lorenzcurve van de secundaire inkomens naar buiten (1).",
+"pnt": 2
+},
+{
 "id": "ex.v22-2.4",
 "t": "open",
 "niv": "v",
@@ -2840,6 +6652,51 @@ EXAMEN.vragen.push(...[
 "titel": "Volledige mededinging herkennen aan twee kenmerken",
 "q": "Een model met volledige mededinging zou volgens de onderzoekers alleen gelden voor laaggeschoolde arbeid. Verklaar deze stelling.",
 "model": "Laaggeschoolde arbeid is vrij homogeen, dus het uurtarief volgt uit vraag en aanbod van alle zzp'ers samen. Hooggeschoolde diensten zijn heterogeen, dus daar is geen volledige mededinging.",
+"pnt": 2
+},
+{
+"id": "ex.v22-2.8",
+"t": "open",
+"niv": "v",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 8,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Leport legt een pijpleiding aan en de bedrijven bouwen afvanginstallaties. Verklaar dat Leport een berovingsprobleem kan krijgen en dat de dreiging van de bedrijven om op te zeggen niet geloofwaardig is.",
+"model": "De pijpleiding is een specifieke investering die Leport niet anders kan terugverdienen, dus Leport kan worden beroofd (2). De bedrijven hebben zelf verzonken kosten van € 39 miljoen, dus hun dreiging met opzeggen is niet geloofwaardig (1).",
+"pnt": 3
+},
+{
+"id": "ex.v22-2.9",
+"t": "open",
+"niv": "v",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 9,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Verklaar het principaal-agentprobleem tussen Leport en de deelnemende bedrijven en noem een contractclausule die het probleem kan oplossen.",
+"model": "Leport is agent, de bedrijven zijn principaal (1). Asymmetrische informatie: de bedrijven weten niet of Leport efficiënt werkt of tarieven verhoogt (1). Clausule: Leport betaalt een boete of is aansprakelijk voor extra kosten bij te weinig capaciteit (1).",
+"pnt": 3
+},
+{
+"id": "ex.v22-2.14",
+"t": "open",
+"niv": "v",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 14,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "AOW'ers betalen alleen belasting. Leidt fiscalisering van de AOW tot nivellering of denivellering binnen de groep gepensioneerden? Beargumenteer je keuze.",
+"model": "Denivellering. Het belastingtarief in de eerste schijf stijgt, dus gepensioneerden met een laag pensioeninkomen gaan gemiddeld relatief meer belasting betalen dan die met een hoog inkomen. De inkomensverschillen worden groter.",
 "pnt": 2
 },
 {
@@ -2873,6 +6730,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v22-2.26",
+"t": "open",
+"niv": "v",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 26,
+"d": "H",
+"e": "EX.H",
+"titel": "Bbp stijgt, welvaart daalt (extern effect)",
+"q": "Verklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
+"pnt": 2
+},
+{
 "id": "ex.v22-2.29",
 "t": "open",
 "niv": "v",
@@ -2900,6 +6772,66 @@ EXAMEN.vragen.push(...[
 "titel": "MO en MK opstellen en maximale winst van een monopolist berekenen",
 "q": "Gegeven zijn een lineaire vraagfunctie (Qv = −5.000P + 100.000), variabele kosten van 2,5 per kilo en constante kosten. Bereken bij welke prijs het verlies in het eerste jaar minimaal is.",
 "model": "P = −Q/5.000 + 20; TO = −Q²/5.000 + 20Q; MO = −Q/2.500 + 20; MK = 2,5 (1p). MO = MK geeft Q = 43.750 (1p). Invullen in de vraagfunctie geeft P = € 11,25 per kilo (1p).",
+"pnt": 3
+},
+{
+"id": "ex.v22-3.6",
+"t": "open",
+"niv": "v",
+"ex": "v22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 6,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Volgens een beleggingsexpert veroorzaakte de jarenlange gasexport via de koers van de gulden werkloosheid. Leg uit hoe dat kan.",
+"model": "Gasexport verhoogde de vraag naar de gulden, de koers steeg en de concurrentiepositie verslechterde (1p). De export van andere goederen en diensten daalde, waardoor de productie daalde en de werkloosheid steeg (1p).",
+"pnt": 2
+},
+{
+"id": "ex.v22-3.10",
+"t": "open",
+"niv": "v",
+"ex": "v22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 10,
+"d": "G",
+"e": "EX.G",
+"titel": "Aandelen en obligaties vergelijken op risico en verwacht rendement",
+"q": "Het fonds belegt voortaan 70% in aandelen ten koste van obligaties. Schrijf het vervolg van de uitspraak: verklaar waarom de portefeuille conjunctuurgevoeliger is en wat het gewijzigde risico betekent bij een omslag naar laagconjunctuur voor de betaalbaarheid van de vergrijzing.",
+"model": "Aandelenrendement hangt af van schommelende bedrijfsresultaten, obligaties geven een vaste rente (1p). Bij lagere groei of winstverwachtingen daalt het rendement van het fonds door het grotere risico, waardoor de betaalbaarheid van de vergrijzing in gevaar komt (2p; maximaal 1 zonder toegenomen risico).",
+"pnt": 3
+},
+{
+"id": "ex.v22-3.14",
+"t": "open",
+"niv": "v",
+"ex": "v22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 14,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "De regering verlaagt de inkomstenbelasting en de koers van de droste daalt. Leg uit dat dit conjunctuurbeleid tot die koersdaling heeft geleid.",
+"model": "Lagere belasting geeft hogere besteedbare inkomens en meer import uit de muntunie (1p). Daardoor stijgt het aanbod van drosten (de vraag naar parto's) en daalt de koers van de droste (1p).",
+"pnt": 2
+},
+{
+"id": "ex.v22-3.25",
+"t": "open",
+"niv": "v",
+"ex": "v22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Inkomstenbelasting box 1 berekenen",
+"q": "Bereken het belastingvoordeel voor een modale werknemer (€ 38.500) door het nieuwe stelsel, met drie schijven en een afbouwende arbeidskorting ten opzichte van het oude stelsel met vier schijven en een vaste korting.",
+"model": "Oud: 12.000 × 0,37 + 25.000 × 0,41 + 1.500 × 0,42 − 1.000 = € 14.320. Nieuw: 20.000 × 0,35 + 18.500 × 0,40 = € 14.400 (1p). Arbeidskorting 1.500 − 23,5 × 40 = € 560 (1p). Nieuw € 13.840; voordeel € 480 (1p). Het voorschrift noemt de korting foutief 940; 560 klopt met 13.840.",
 "pnt": 3
 },
 {
@@ -2931,6 +6863,36 @@ EXAMEN.vragen.push(...[
 "q": "Een monopolist heeft GO = 200 − 10Q en MK = 2 (Q in miljoenen). Bereken de prijs bij maximale winst.",
 "model": "MO = MK. TO = 200Q − 10Q², dus MO = 200 − 20Q (1). 200 − 20Q = 2 geeft Q = 9,9 miljoen; de prijs is 200 − 10 × 9,9 = € 101 (1). Q aflezen uit de figuur levert het eerste punt niet op.",
 "pnt": 2
+},
+{
+"id": "ex.v23-1.10",
+"t": "open",
+"niv": "v",
+"ex": "v23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 10,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Een recessie raakt vooral het toerisme, waar veel huishoudens met lage inkomens werken. Leg uit dat de Gini-coëfficiënt van de primaire inkomens kan stijgen.",
+"model": "Lagere inkomens hebben minder werk en dus minder inkomen uit arbeid, ondernemerschap, kapitaal of natuur (1). De relatieve verschillen tussen arm en rijk worden groter, dus de Gini van de primaire inkomens stijgt (1).",
+"pnt": 2
+},
+{
+"id": "ex.v23-1.12",
+"t": "open",
+"niv": "v",
+"ex": "v23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 12,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Bij een kredietverzekering neemt de verzekeraar de rol van principaal over en is het inkopende bedrijf de agent. Leg dit principaal-agentprobleem uit en geef aan welke verzekeringsvoorwaarde het kan verminderen.",
+"model": "Tegengestelde belangen: de verzekeraar wil dat er betaald wordt, het inkopende bedrijf kan of wil niet meer betalen (1). Asymmetrische informatie: de verzekeraar weet onvoldoende of het bedrijf kan betalen (1). De derde voorwaarde: doorberekening van de incassokosten (1).",
+"pnt": 3
 },
 {
 "id": "ex.v23-1.13",
@@ -2978,6 +6940,126 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v23-1.25",
+"t": "open",
+"niv": "v",
+"ex": "v23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 25,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Milieueconomen stellen dat een circulaire economie het groen bbp kan verhogen. Leg uit dat dit klopt.",
+"model": "Meer productie met gerecyclede grondstoffen is minder milieuvervuilend (1). De monetaire milieuschade daalt bij gelijkblijvende productie, waardoor het groen bbp kan stijgen (1).",
+"pnt": 2
+},
+{
+"id": "ex.v23-1.29",
+"t": "open",
+"niv": "v",
+"ex": "v23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 29,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Een bedrijf investeert in een installatie die alleen het afval van één klant kan verwerken. Bij de contractonderhandeling eist die klant een hogere prijs dan het bedrijf wil betalen. Leg uit dat er sprake is van een berovingsprobleem.",
+"model": "Het bedrijf deed een specifieke investering met verzonken kosten in een installatie voor het afval van die klant (1). Eist de klant een hogere prijs, dan kan de kostprijs boven de verkoopprijs uitkomen; de investering is niet meer terug te verdienen (1).",
+"pnt": 2
+},
+{
+"id": "ex.v23-2.1",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 1,
+"d": "I",
+"e": "EX.I",
+"titel": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"q": "Laat met een berekening zien dat het nationaal inkomen in 2000 € 350 miljard bedraagt, aan de hand van de bedragen in het kringloopmodel.",
+"model": "Y = C + I + O + E − M = 199 + 28 + 106 + 197 − 180 = 350 (miljard euro).",
+"pnt": 1
+},
+{
+"id": "ex.v23-2.2",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 2,
+"d": "I",
+"e": "EX.I",
+"titel": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"q": "Presteerde het land in 2000-2019 beter of slechter dan de handelspartners, die gemiddeld 1% per jaar groeiden? Motiveer je keuze met een berekening.",
+"model": "Y 2019 = 260 + 46 + 135 + 211 − 202 = 450. Trendgroei: 1,01^19 geeft +20,81%; werkelijke groei (450 − 350) : 350 = 28,57%. Dat is hoger, dus bovengemiddeld. Rekenen met 20 jaar of 19 × 1%: maximaal 1 punt.",
+"pnt": 2
+},
+{
+"id": "ex.v23-2.3",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 3,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Leg met het kringloopmodel uit of de overheid in 2019 positief of negatief heeft bijgedragen aan het totaal van de bestedingen.",
+"model": "Overheidssaldo B − O = 160 − 135 = 25 miljard. Belastingen onttrekken vraag, overheidsbestedingen scheppen vraag. De belastingen zijn groter, dus de bijdrage aan de bestedingen is negatief.",
+"pnt": 2
+},
+{
+"id": "ex.v23-2.4",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 4,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Onderzoekers stellen dat de overheid via begrotingsbeleid het handelsoverschot kan beperken, met gevolgen voor de conjunctuur van het eigen land en de buurlanden. Leg die bewering uit.",
+"model": "1) Saldi positief, dus de overheid kan meer uitgeven zonder tekort. De bestedingen en het inkomen stijgen, dus de conjunctuur verbetert. 2) Hoger inkomen geeft meer consumptie en import. Dat is export voor het buitenland en stimuleert daar de conjunctuur.",
+"pnt": 2
+},
+{
+"id": "ex.v23-2.5",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 5,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Onderzoekers stellen dat extra investeringen in R&D bij dezelfde inzet van productiefactoren de structurele groei verhogen. Leg dit uit en betrek de totale factorproductiviteit.",
+"model": "R&D verhoogt de productiviteit van kapitaal en arbeid, dus de totale factorproductiviteit stijgt (1). Bij gelijke inzet groeit daardoor de productiecapaciteit en dus de structurele groei (1).",
+"pnt": 2
+},
+{
+"id": "ex.v23-2.10",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 10,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Het Plan Bureau stelt dat subsidie op hoger onderwijs een positief extern effect heeft en de brede welvaart verhoogt. Leg deze stelling uit.",
+"model": "Meer opgeleiden geven hogere productiviteit of betere producten, of beter inzicht in milieu en gezondheid (1). Die opbrengsten zitten niet in de prijs van onderwijs en zijn niet voor de student zelf, maar voor de samenleving, dus de brede welvaart stijgt (1).",
+"pnt": 2
+},
+{
 "id": "ex.v23-2.12",
 "t": "open",
 "niv": "v",
@@ -3021,6 +7103,36 @@ EXAMEN.vragen.push(...[
 "q": "Consumenten reageren prijselastisch op een tariefverhoging en prijsinelastisch op een verlaging. Leg uit of aanpassing van het posttarief de omzet kan verhogen.",
 "model": "Bij een verhoging daalt de vraag procentueel sterker dan de prijs stijgt, dus de omzet daalt (1). Bij een verlaging stijgt de vraag procentueel minder dan de prijs daalt, dus de omzet daalt ook (1). Aanpassing verhoogt de omzet dus niet.",
 "pnt": 2
+},
+{
+"id": "ex.v23-2.16",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 16,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Beschrijf het principaal-agentprobleem tussen PostNV en de overheid en leg uit hoe toezicht door de mededingingsautoriteit dit probleem kan verminderen.",
+"model": "Overheid is principaal en PostNV agent; de overheid wil betaalbare bezorging, PostNV maximale winst of kruissubsidie (1). De overheid heeft te weinig informatie om dat te controleren (1). Toezicht verkleint de informatieachterstand en daarmee de tegenstelling van belangen (1).",
+"pnt": 3
+},
+{
+"id": "ex.v23-2.20",
+"t": "open",
+"niv": "v",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 20,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Twee conclusies: het model heeft een Nash-evenwicht, en dat evenwicht verslechtert via het binnenlands prijspeil de concurrentiepositie. Leg beide uit en gebruik getallen uit de spelboom om het Nash-evenwicht aan te tonen.",
+"model": "FED kiest bij elke keuze van JCB ruim beleid (104 > 100; 100 > 62,5); JCB kiest dan ook ruim (100 > 75). Nash: (100, 100) (1). Beide verlagen de rente, bestedingen en inflatie stijgen bij hoogconjunctuur (1). Prijspeil stijgt, dus concurrentiepositie verslechtert (1).",
+"pnt": 3
 },
 {
 "id": "ex.v23-2.27",
@@ -3098,6 +7210,21 @@ EXAMEN.vragen.push(...[
 "pnt": 1
 },
 {
+"id": "ex.v24-1.16",
+"t": "open",
+"niv": "v",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 16,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Arco onderhandelt al maanden met de verzekeraar over voorwaarden. Beargumenteer of die onderhandelingskosten verzonken kosten zijn.",
+"model": "Ja. Als er na de onderhandelingen geen verzekering of exportcontract komt, zijn de gemaakte kosten niet op een andere manier terug te verdienen.",
+"pnt": 1
+},
+{
 "id": "ex.v24-1.22",
 "t": "open",
 "niv": "v",
@@ -3113,6 +7240,96 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.v24-1.24",
+"t": "open",
+"niv": "v",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 24,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Matrix 1 toont de winsten van twee visserijen bij handhaven of verlagen van de prijs. Leg met getallen uit of er sprake is van een gevangenendilemma.",
+"model": "Voor Dirdam geldt 33 > 30 en 19 > 14, voor Nednol 20 > 10 en 6 > −2: prijs verlagen is voor beide de dominante strategie (Nash-evenwicht) (1). Dat evenwicht is suboptimaal: totale winst 25 < 40, dus een gevangenendilemma (1).",
+"pnt": 2
+},
+{
+"id": "ex.v24-1.25",
+"t": "open",
+"niv": "v",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 25,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Twee visserijen vormen een kartel. Toetreder Syrap kiest tussen toetreden met de kartelprijs of met een lagere prijs (spelboom 1). Leg uit welke keuze Syrap maakt (getallen niet nodig).",
+"model": "Dirdam verlaagt altijd de prijs (dominante strategie, hogere winst), daarna ook Nednol (1). Uitkomst: iedereen verlaagt de prijs (14, 7, 28), dus Syrap treedt toe met een lagere prijs (1).",
+"pnt": 2
+},
+{
+"id": "ex.v24-1.28",
+"t": "open",
+"niv": "v",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 28,
+"d": "H",
+"e": "EX.H",
+"titel": "Uitleggen dat extra kapitaal leidt tot afnemende meeropbrengsten",
+"q": "Leg met productiefunctie Y1 uit dat de marginale winst van extra productie afneemt als de inzet van arbeid toeneemt.",
+"model": "Afnemende meeropbrengsten: de curve vlakt af, dus de extra productie per extra arbeider neemt af (1). De arbeidskosten per extra product stijgen bij gelijk loon, dus de marginale winst daalt (1).",
+"pnt": 2
+},
+{
+"id": "ex.v24-1.29",
+"t": "open",
+"niv": "v",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 29,
+"d": "H",
+"e": "EX.H",
+"titel": "Groeistrategieën vergelijken met Y = A × f(K, L)",
+"q": "Leg uit dat stimulering van R&D-investeringen de totale factorproductiviteit op lange termijn kan verhogen en de productiefunctie van Y1 naar Y2 verschuift.",
+"model": "R&D versnelt productieprocessen, dus de totale factorproductiviteit stijgt (1). Bij elke inzet van arbeid is de productie hoger, dus de productiefunctie verschuift van Y1 naar Y2 (1).",
+"pnt": 2
+},
+{
+"id": "ex.v24-2.2",
+"t": "open",
+"niv": "v",
+"ex": "v24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 2,
+"d": "F",
+"e": "EX.F",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "Lucrum biedt 6.000 pakketten aan en Civitas 12.000. Toon met een berekening aan dat de winst van Lucrum in de cel linksboven van matrix 1 € 440.000 is.",
+"model": "Q = 18.000, dus P = € 120. TO = 120 × 6.000 = € 720.000. TK = 30 × 6.000 + 100.000 = € 280.000. TW = € 440.000.",
+"pnt": 2
+},
+{
+"id": "ex.v24-2.3",
+"t": "open",
+"niv": "v",
+"ex": "v24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 3,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "In de uitgangssituatie bieden beide supermarkten 12.000 pakketten aan. Lucrum zegt dat het door zijn dominante strategie te volgen, vanwege de sociale norm van Civitas, uiteindelijk slechter af is. Leg deze conclusie uit.",
+"model": "Dominante strategie van Lucrum: verlagen naar 6.000 (440 > 400 > 260 enzovoort). Civitas wil minstens 24.000 pakketten en verhoogt daarom naar 18.000. Lucrum haalt dan € 80.000 winst in plaats van € 260.000.",
+"pnt": 3
+},
+{
 "id": "ex.v24-2.4",
 "t": "open",
 "niv": "v",
@@ -3125,6 +7342,36 @@ EXAMEN.vragen.push(...[
 "titel": "Een plan toetsen aan de twee voorwaarden voor prijsdiscriminatie",
 "q": "Civitas wil prijsdiscriminatie toepassen. De armste van vijf even grote inkomensgroepen krijgt per week een kortingscode op naam. Beargumenteer of het plan aan de twee voorwaarden voldoet.",
 "model": "De code op naam scheidt de deelmarkten. Doorverkoop van een pakket is mogelijk, dus dan is niet voldaan. Ook goed: doorverkoop treedt niet op, omdat huishoudens afhankelijk zijn en elders moeilijk aan boodschappen komen.",
+"pnt": 2
+},
+{
+"id": "ex.v24-2.5",
+"t": "open",
+"niv": "v",
+"ex": "v24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 5,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Civitas kiest uit drie prijsvoorstellen en de gemeente kiest daarna: een deal sluiten of de voedselvoorziening zelf regelen. Spelboom 1 geeft de winsten en kosten. Leg uit welke uitkomst ontstaat en noem getallen uit de boom.",
+"model": "Bij de marktprijs regelt de gemeente het zelf (€ 150.000 < € 180.000), dus winst 0. Bij een kleine marge sluit de gemeente een deal (135.000 < 150.000), winst € 45.000. Bij kostprijs is de winst 0. Uitkomst: kleine marge, deal; 45.000 ; 135.000.",
+"pnt": 2
+},
+{
+"id": "ex.v24-2.6",
+"t": "open",
+"niv": "v",
+"ex": "v24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 6,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Figuur 1 toont de kringloop van Anderland in 2018. Het overheidstekort mag maximaal 3% van het bbp zijn. Bereken of het overheidssaldo aan deze eis voldoet.",
+"model": "Saldo B − O = 100 − 40 − 80 = −20. Bbp = C + B + S = 110 + 100 + 110 = 320. Tekort = 20 : 320 × 100% = 6,25%. Dat is meer dan 3%, dus het voldoet niet.",
 "pnt": 2
 },
 {
@@ -3156,6 +7403,21 @@ EXAMEN.vragen.push(...[
 "q": "Een cyberverzekeraar heeft twee klantengroepen. Zzp'ers: schade bij een hack € 250.000, kans 5%. Overige ondernemingen: schade € 1.250.000, kans 2%. Bij welke groep is het risico voor de verzekeraar het hoogst? Verklaar je antwoord.",
 "model": "Zzp'ers: 250.000 × 0,05 = € 12.500. Overige ondernemingen: 1.250.000 × 0,02 = € 25.000. Het risico (de verwachte schade) is het hoogst bij de overige ondernemingen.",
 "pnt": 1
+},
+{
+"id": "ex.v24-2.23",
+"t": "open",
+"niv": "v",
+"ex": "v24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 23,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Een expert zegt dat bij overige ondernemingen sprake is van een principaal-agentprobleem en bij zzp'ers niet. Leg dat uit.",
+"model": "Bij overige ondernemingen zijn de belangen tegengesteld: bij een hack loopt de werknemer geen inkomensrisico, de werkgever wel. Er is asymmetrische informatie: de werkgever kan niet controleren of voorschriften worden gevolgd. Een zzp'er is zelf principaal en agent.",
+"pnt": 3
 },
 {
 "id": "ex.v24-2.24",
@@ -3218,6 +7480,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v25-1.6",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 6,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Een vergelijkingssite krijgt een vaste vergoeding per afgesloten verzekering. Volgens een econoom ontstaat een principaal-agentprobleem tussen consument (principaal) en site (agent). Leg uit dat dit kan.",
+"model": "Tegengestelde belangen: de consument wil de beste of goedkoopste polis, de site kan polissen adviseren waar zij zelf het meest aan verdient (1). Asymmetrische informatie: de consument weet niet of het advies in zijn belang is (1).",
+"pnt": 2
+},
+{
 "id": "ex.v25-1.12",
 "t": "open",
 "niv": "v",
@@ -3248,6 +7525,141 @@ EXAMEN.vragen.push(...[
 "pnt": 4
 },
 {
+"id": "ex.v25-1.15",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 15,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Een tweede ijssalon treedt toe en consumenten zien de ijsjes als perfecte substituten. Leg uit dat beide salons via een prijzenoorlog in een gevangenendilemma kunnen belanden.",
+"model": "Consumenten letten alleen op de prijs, dus ieder wil iets onder de ander zitten: prijs verlagen is voor beiden de dominante strategie (1). Beide hebben daardoor lagere omzet of winst dan eerst: een suboptimale uitkomst (1).",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.16",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 16,
+"d": "F",
+"e": "EX.F",
+"titel": "Uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert",
+"q": "Guarda adverteert met een vaste prijs voor 2025 plus een laagsteprijsgarantie: bij een lagere prijs bij de concurrent krijgt de klant 25% korting op die lagere prijs. Leg uit dat dit het risico op een prijzenoorlog beperkt.",
+"model": "Guarda is gebonden aan het volgen van de prijsverlaging van de concurrent (1). De concurrent weet dat zijn omzet of winst bij een prijsverlaging daalt en heeft dus geen prikkel om de prijs te verlagen (1).",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.18",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 18,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "De overheid ontbreekt in het model van Curaçao. Bereken het overheidssaldo uit de gegevens en geef aan of het een tekort of een overschot is.",
+"model": "(S − I) + (B − O) = E − M: (664 − 1.200) + (B − O) = 250 − 860 (1). B − O = −74: een tekort van 74 miljoen XCG (1). Alternatief via O = 900 en B = 826.",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.20",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 20,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "De centrale bank van Curaçao voert ruimer monetair beleid. Leg uit welk effect dit via de valutamarkt heeft op de conjunctuur van Aruba.",
+"model": "Renteverlaging verlaagt de vraag naar de Caribische gulden en dus de koers van de XCG (1). Aruba importeert meer en exporteert minder, productie daalt, dus de conjunctuur van Aruba verslechtert (1).",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.22",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 22,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Om een negatieve output gap te bestrijden verhoogt de overheid de bestedingen. Leg uit dat het groen bbp hierdoor zowel kan dalen als stijgen.",
+"model": "De bestedingen verhogen het bbp. Is het saldo van milieuverbetering en milieuschade (in geld) positief, nul of negatief maar kleiner dan de bbp-stijging, dan stijgt het groen bbp (1). Is de netto milieuschade groter dan de bbp-stijging, dan daalt het (1).",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.26",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 26,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Overstappen op biologische teelt vraagt extra grond omdat stukken land langer braak liggen. Leg uit of de investering verzonken kosten met zich meebrengt.",
+"model": "Nee: de extra grond kan bij het stoppen van biologische teelt anders worden benut, zoals voor andere teelt, verhuur, verkoop of woningbouw. De kosten zijn dus niet verzonken.",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.27",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 27,
+"d": "F",
+"e": "EX.F",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "Boer B investeert in biologische teelt, boer A blijft traditioneel; de constante kosten van de investering zijn € 14.250. Bereken met tabel 1 en 2 de procentuele stijging van de totale constante kosten van B.",
+"model": "TCK = TO − TVK − TW = 46.050 × (3 − 1) − 75.000 = € 17.100 (1). Stijging: (17.100 − 14.250)/14.250 × 100 = 20% (1).",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.28",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 28,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Noem met behulp van de pay-offmatrix (winsten en afzetten) de Nash-evenwichten bij winstmaximalisatie.",
+"model": "Twee evenwichten: beide boeren traditioneel (€ 80.000 ; € 80.000) (1) en beide boeren biologisch (€ 92.900 ; € 92.900) (1).",
+"pnt": 2
+},
+{
+"id": "ex.v25-1.29",
+"t": "open",
+"niv": "v",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 29,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Leg met getallen uit tabel 2 uit of de negatieve externe effecten dalen als de boeren kiezen voor afzetmaximalisatie.",
+"model": "Bij afzetmaximalisatie is traditioneel teelt dominant voor beide boeren (65.000 > 46.050 en 70.000 > 55.000) (1). Er wordt dus niet biologisch geteeld, dus de negatieve externe effecten dalen niet (1).",
+"pnt": 2
+},
+{
 "id": "ex.v25-2.2",
 "t": "open",
 "niv": "v",
@@ -3275,6 +7687,81 @@ EXAMEN.vragen.push(...[
 "titel": "Een plan toetsen aan de twee voorwaarden voor prijsdiscriminatie",
 "q": "De overheid wil een subsidie per deurbel geven aan de laagste inkomens. Leg uit of daardoor prijsdiscriminatie ontstaat.",
 "model": "Deelmarkten zijn te onderscheiden (alleen lage inkomens krijgen subsidie), maar doorverkoop blijft mogelijk. Eén voorwaarde is niet vervuld, dus geen prijsdiscriminatie. Drie elementen: 2 punten; twee: 1; minder: 0.",
+"pnt": 2
+},
+{
+"id": "ex.v25-2.15",
+"t": "open",
+"niv": "v",
+"ex": "v25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 15,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Uit een tabel met saldo lopende rekening en begrotingssaldo (% van bbp) in 2021: is het particuliere spaarsaldo positief of negatief? Motiveer.",
+"model": "(S − I) = (E − M) − (B − O) = −3,4 − (−3,7) = +0,3. Het particuliere spaarsaldo is positief, want het begrotingssaldo is negatiever dan het saldo lopende rekening.",
+"pnt": 1
+},
+{
+"id": "ex.v25-2.18",
+"t": "open",
+"niv": "v",
+"ex": "v25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 18,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "De inspectie let alleen op onderwijskwaliteit, scholen steken veel van hun lumpsum in marketing. Leg uit of er sprake is van een principaal-agentprobleem.",
+"model": "Inspectie is principaal, school agent. Asymmetrische informatie: de inspectie ziet niet hoe de lumpsum wordt besteed. Tegengestelde belangen: kwaliteit tegenover leerlingen werven. Dus ja.",
+"pnt": 2
+},
+{
+"id": "ex.v25-2.19",
+"t": "open",
+"niv": "v",
+"ex": "v25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 19,
+"d": "F",
+"e": "EX.F",
+"titel": "Een cel van de pay-offmatrix narekenen met TO en TK",
+"q": "Toon met een berekening aan dat de reserve van het Rij-college in de cel met 100% marketing tegenover 0% met € 10.000 stijgt, met afzetfunctie en kostenfunctie uit de bron.",
+"model": "qv = 800 + 200 − 0 = 1.000; TO = € 6.000.000. Marketing = 800 × 6.000 × 0,1 = € 480.000. TK = 3.000.000 + 2.510.000 + 480.000 = € 5.990.000. Reserve stijgt € 10.000.",
+"pnt": 3
+},
+{
+"id": "ex.v25-2.20",
+"t": "open",
+"niv": "v",
+"ex": "v25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 20,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Leg met getallen uit de matrix uit of er sprake is van een Nash-evenwicht.",
+"model": "Voor beide scholen is 100% marketing dominant (10 > −50 > −110 en −65 > −125 > −185 en −140 > −200 > −260). Dus Nash-evenwicht bij (100%; 100%), cel I. Of: niemand kan zijn reserve vergroten gegeven de keuze van de ander.",
+"pnt": 2
+},
+{
+"id": "ex.v25-2.23",
+"t": "open",
+"niv": "v",
+"ex": "v25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 23,
+"d": "F",
+"e": "EX.F",
+"titel": "Het berovingsprobleem uitleggen met verzonken kosten",
+"q": "Leg uit dat een kortere opzegtermijn via het berovingsprobleem kan leiden tot hogere loonkosten per product.",
+"model": "Werknemers kunnen makkelijker vertrekken, dus de kans op beroving (verzonken kosten) is groter en er wordt minder in werknemers geïnvesteerd. De productiviteit blijft laag en de loonkosten per product stijgen.",
 "pnt": 2
 },
 {
@@ -3323,6 +7810,36 @@ EXAMEN.vragen.push(...[
 "pnt": 3
 },
 {
+"id": "ex.v26-1.5",
+"t": "open",
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 5,
+"d": "F",
+"e": "EX.F",
+"titel": "De uitkomst van een spelboom bepalen door terugredeneren",
+"q": "Geef de speluitkomst van spelboom 1 in 2026. Geef ook aan dat de winst van Solo in 2027 daalt doordat de sociale norm wordt overtreden.",
+"model": "Uitkomst: (snellere boot ; diesel), oftewel (120 ; 160). Afwijken van de sociale norm geeft reputatieschade en lagere afzet voor Solo, waardoor de winst in 2027 daalt.",
+"pnt": 2
+},
+{
+"id": "ex.v26-1.11",
+"t": "open",
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 11,
+"d": "H",
+"e": "EX.H",
+"titel": "Primair en besteedbaar inkomen, Gini, nivelleren",
+"q": "Een land vervangt het progressieve stelsel door een vlaktaks zonder heffingskortingen, met het gemiddelde tarief van 2025. Leg uit dat dit de secundaire inkomens denivelleert.",
+"model": "Huishoudens die in 2025 meer dan gemiddeld werden belast, betalen nu procentueel minder en hun secundair inkomen stijgt. Of: wie minder werd belast, betaalt meer en het secundair inkomen daalt. Dit is denivellering.",
+"pnt": 2
+},
+{
 "id": "ex.v26-1.16",
 "t": "open",
 "niv": "v",
@@ -3336,6 +7853,66 @@ EXAMEN.vragen.push(...[
 "q": "Een houthandelsmarkt heeft homogeen hout en geen eigendomsrechten. Leg met twee kenmerken uit van welke marktvorm sprake is.",
 "model": "Twee kenmerken, bijvoorbeeld homogeen product, vrije toetreding of veel aanbieders. Conclusie: volledige mededinging (volkomen concurrentie).",
 "pnt": 2
+},
+{
+"id": "ex.v26-1.17",
+"t": "open",
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 17,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Leg uit dat elke houthakker een dominante strategie heeft die op termijn leidt tot een suboptimaal Nash-evenwicht.",
+"model": "De prijs ligt boven de variabele kosten, dus meer kappen is voor elke aanbieder dominant. Het totale aanbod stijgt, de prijs daalt en de winsten dalen. Of de bossen verdwijnen en er is geen omzet meer. Milieuschade telt niet mee.",
+"pnt": 2
+},
+{
+"id": "ex.v26-1.23",
+"t": "open",
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 23,
+"d": "I",
+"e": "EX.I",
+"titel": "Investeringen en besparingen berekenen in de kringloop (Y = C + I + O + E − M)",
+"q": "Bereken de vier ontbrekende waarden in het kringloopmodel van Australië (2023) en geef de richting van de pijlen bij 1 en 3 (buitenland, banken, overheid).",
+"model": "E − M = 671 − 527 = 144. I = 2.385 − 1.237 − 885 − 671 + 527 = 119. B − O = 923 − 885 = 38. S = 2.385 − 923 − 1.237 = 225. Pijl 1: banken naar buitenland. Pijl 3: overheid naar banken.",
+"pnt": 3
+},
+{
+"id": "ex.v26-1.24",
+"t": "open",
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 24,
+"d": "C",
+"e": "EX.C",
+"titel": "Uitleggen hoe een saldo via de wisselkoers de concurrentiepositie beïnvloedt",
+"q": "Australië heeft een positief saldo op de betalingsbalans. Leg uit welk effect dit via de valutamarkt heeft op de internationale concurrentiepositie.",
+"model": "Veel vraag naar of weinig aanbod van Australische dollars laat de wisselkoers stijgen. Australische producten worden daardoor duurder voor het buitenland, dus de concurrentiepositie verslechtert.",
+"pnt": 2
+},
+{
+"id": "ex.v26-1.27",
+"t": "open",
+"niv": "v",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 27,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Bereken met tabel 1 (hypotheekschuld in euro's en als % van het bbp, reële groei 2021 en 2022) de inflatie van begin 2021 tot eind 2022.",
+"model": "Bbp oud = 740,1 : 0,93 = 795,81 mld; bbp nieuw = 797,6 : 0,83 = 960,96 mld, dus nominaal +20,8%. Reëel: 1,049 × 1,045 → +9,6%. Inflatie = 120,8 : 109,6 × 100 = 110,2, dus 10,2%.",
+"pnt": 3
 },
 {
 "id": "ex.v26-1.28",
@@ -3368,6 +7945,21 @@ EXAMEN.vragen.push(...[
 "pnt": 2
 },
 {
+"id": "ex.v26-2.2",
+"t": "open",
+"niv": "v",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 2,
+"d": "H",
+"e": "EX.H",
+"titel": "Reële groei berekenen met indexcijfers",
+"q": "Een tabel geeft de rijstprijsindex (gewicht 20%), het nominaal bbp per hoofd en de stijging van de overige prijzen met 15%. Bereken de verandering van de koopkracht over 2019-2022 en beargumenteer of de voedselzekerheid is gestegen of gedaald.",
+"model": "Prijsindex: 151 × 0,20 + 115 × 0,80 = 122,2. Nominale groei: (2288 − 2050) : 2050 = 11,6%, index 111,6. Reëel: 111,6 : 122,2 × 100 = 91,3. Koopkracht gedaald, dus voedselzekerheid afgenomen. Drie scorepunten bij vier juiste elementen.",
+"pnt": 3
+},
+{
 "id": "ex.v26-2.3",
 "t": "open",
 "niv": "v",
@@ -3383,6 +7975,21 @@ EXAMEN.vragen.push(...[
 "pnt": 1
 },
 {
+"id": "ex.v26-2.6",
+"t": "open",
+"niv": "v",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 6,
+"d": "G",
+"e": "EX.G",
+"titel": "Beredeneren hoe toezicht het informatieprobleem verkleint en welke transactiekosten het geeft",
+"q": "Een bureau voert kredietonderzoek uit voor aangesloten kredietverleners. Leg uit dat de inzet van dit bureau de transactiekosten van kredietverleners per saldo kan verminderen.",
+"model": "Het bureau kan zich specialiseren, schaalvoordelen halen of door ervaring efficiënter werken (1). Daardoor onderzoekt het tegen lagere kosten dan de kredietverleners zelf (1).",
+"pnt": 2
+},
+{
 "id": "ex.v26-2.9",
 "t": "open",
 "niv": "v",
@@ -3396,5 +8003,65 @@ EXAMEN.vragen.push(...[
 "q": "Kredietverleners rekenen lagere premies voor kredietnemers met minder wanbetalingsrisico (premiedifferentiatie). Leg uit of dit averechtse selectie vermindert.",
 "model": "Goede risico's betalen minder dan slechte risico's (1). Daardoor hebben zij een prikkel om toch krediet te nemen, en averechtse selectie neemt af (1).",
 "pnt": 2
+},
+{
+"id": "ex.v26-2.23",
+"t": "open",
+"niv": "v",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 23,
+"d": "I",
+"e": "EX.I",
+"titel": "Saldo van overheid en buitenland, richting van de geldstroom",
+"q": "Neem aan dat de handel met de rest van de wereld in evenwicht is. Leg met figuur 3 uit of het nationaal spaarsaldo in 2023 positief of negatief is.",
+"model": "In 2023 is export 22% van Y en import 20,5% van Y (1). Saldo lopende rekening is positief, dus ook het nationaal spaarsaldo (1).",
+"pnt": 2
+},
+{
+"id": "ex.v26-2.26",
+"t": "open",
+"niv": "v",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 26,
+"d": "H",
+"e": "EX.H",
+"titel": "Eng en breed welvaartsbegrip, HDI, WHI, groen bbp",
+"q": "Leg uit dat klimaatbeleid, zoals een belasting op CO2-uitstoot, per saldo het groen bbp kan laten toenemen.",
+"model": "Minder uitstoot verlaagt de monetaire milieuschade; hogere prijzen verlagen vraag en productie; is de milieuwinst groter dan de productiedaling, dan stijgt het groen bbp. Drie elementen: 2 punten; twee: 1 punt.",
+"pnt": 2
+},
+{
+"id": "ex.v26-2.27",
+"t": "open",
+"niv": "v",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 27,
+"d": "F",
+"e": "EX.F",
+"titel": "Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht",
+"q": "Figuur 4 toont de netto baten van een land afhankelijk van het aantal landen met klimaatbeleid. Noem de twee Nash-evenwichten als landen alleen naar hun eigen netto baten kijken.",
+"model": "Nul landen voeren klimaatbeleid (1). Alle 195 landen voeren klimaatbeleid (1).",
+"pnt": 2
+},
+{
+"id": "ex.v26-2.29",
+"t": "open",
+"niv": "v",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 29,
+"d": "G",
+"e": "EX.G",
+"titel": "Een principaal-agentprobleem uitleggen en een maatregel noemen",
+"q": "Bij de vergadering gelden verplichte deelname, geen terugtrekking en zelfmeting door landen. Leg het principaal-agentprobleem uit (VN als principaal) en noem een maatregel die het risico vermindert.",
+"model": "Tegengestelde belangen: de VN wil klimaatbeleid, landen willen goedkoper produceren (1). Asymmetrische informatie: landen meten zelf en kunnen andere data aanleveren (1). Maatregel: contract met boetes die klimaatbeleid rendabeler maken (1).",
+"pnt": 3
 }
 ]);

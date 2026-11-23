@@ -1,0 +1,570 @@
+# LEERDOEL ECO-SPELT-01
+domein: F
+onderwerp: F.spel
+thema: Speltheorie
+naam: Een cel van de pay-offmatrix narekenen met TO en TK
+doel: Ik kan met TO en TK narekenen of een cel van de pay-offmatrix klopt.
+
+## EXAMEN vwo 2019-I 12 2p
+Geef met de twee afzetfuncties de berekening van de waarde 0,57% linksonder in de pay-offmatrix (BSA verhoogt het collegegeld met 10%, BSB houdt het gelijk).
+### ANTWOORD
+Qva bij € 15.000 = 3.500, omzet 52,5 mln. Bij € 16.500 is Qva 3.200, omzet 52,8 mln. De omzet stijgt 0,57%. Let op: volgens de aanvulling op het correctievoorschrift krijgt iedere kandidaat voor deze vraag altijd 2 punten.
+
+## EXAMEN vwo 2024-II 2 2p
+Lucrum biedt 6.000 pakketten aan en Civitas 12.000. Toon met een berekening aan dat de winst van Lucrum in de cel linksboven van matrix 1 € 440.000 is.
+### ANTWOORD
+Q = 18.000, dus P = € 120. TO = 120 × 6.000 = € 720.000. TK = 30 × 6.000 + 100.000 = € 280.000. TW = € 440.000.
+
+## EXAMEN vwo 2025-I 27 2p
+Boer B investeert in biologische teelt, boer A blijft traditioneel; de constante kosten van de investering zijn € 14.250. Bereken met tabel 1 en 2 de procentuele stijging van de totale constante kosten van B.
+### ANTWOORD
+TCK = TO − TVK − TW = 46.050 × (3 − 1) − 75.000 = € 17.100 (1). Stijging: (17.100 − 14.250)/14.250 × 100 = 20% (1).
+
+## EXAMEN vwo 2025-II 19 3p
+Toon met een berekening aan dat de reserve van het Rij-college in de cel met 100% marketing tegenover 0% met € 10.000 stijgt, met afzetfunctie en kostenfunctie uit de bron.
+### ANTWOORD
+qv = 800 + 200 − 0 = 1.000; TO = € 6.000.000. Marketing = 800 × 6.000 × 0,1 = € 480.000. TK = 3.000.000 + 2.510.000 + 480.000 = € 5.990.000. Reserve stijgt € 10.000.
+
+
+# LEERDOEL ECO-SPELT-02
+domein: F
+onderwerp: F.spel
+thema: Speltheorie
+naam: Simultaan en sequentieel spel onderscheiden
+doel: Ik kan een simultaan spel van een sequentieel spel onderscheiden en mijn keuze motiveren.
+
+## UITLEG Speltheorie: dominante strategie, gevangenendilemma en zelfbinding
+Bewijs een dominante strategie voor beide spelers, met getallen per keuze van de ander; één speler geeft geen volle score. Een gevangenendilemma bestaat alleen als het evenwicht suboptimaal is, dus als een uitkomst voor beide beter is. Bij zelfbinding maakt een publieke belofte afwijken duur; noem de negatieve gevolgen. Ook de ultimatumspel-logica, herhaalde spelen en geloofwaardige dreigingen komen terug.
+
+## UITLEG Sequentieel spel en ultimatumspel
+Bij een sequentieel spel kiezen spelers na elkaar; redeneer terug vanaf de laatste keuze. Bij het ultimatumspel accepteert de respondent elk bod boven zijn minimum. De aanbieder weet dat en biedt precies dat minimum. Vergeet niet wat de respondent minimaal moet terugverdienen.
+
+## UITLEG Speltheorie
+Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten.
+
+## OPGAVE IT-00145 3p | Standplaatsen op de zomermarkt
+Pizzatruck Vuurvlam en wokkraam Sizzle willen in de zomer allebei op de markt in Stadsdorp staan. Er zijn twee standplaatsen: bij de ingang en aan de achterkant van het marktplein. Elke ondernemer kiest één standplaats.
+Vuurvlam heeft haar standplaats in januari vastgelegd. De marktorganisatie heeft die keuze dezelfde dag op haar website gezet. In maart kiest Sizzle haar standplaats, nadat zij de website heeft bekeken. Staan beide kramen bij elkaar, dan delen zij hun klanten en daalt de winst van beide.
+Een adviseur geeft de situatie weer in onderstaande tabel. In elke cel staat eerst de winst van Vuurvlam en daarna die van Sizzle.
+Tabel Verwachte winst per maand (× € 100) (Vuurvlam ; Sizzle):
+| Sizzle: ingang | Sizzle: achterkant
+Vuurvlam: ingang | (40 ; 40) | (90 ; 60)
+Vuurvlam: achterkant | (60 ; 90) | (35 ; 35)
+Beredeneer dat een spelboom een passender weergave van deze situatie is dan de tabel.
+Doe het als volgt:
+- Beschrijf in welke volgorde de ondernemers kiezen en wat Sizzle op dat moment weet.
+- Leg uit waarom de tabel daar niet bij past.
+- Leg uit wat een spelboom wel laat zien.
+### ANTWOORD
+Vuurvlam kiest haar standplaats in januari en de organisatie zet die keuze meteen op de website. Sizzle kiest pas in maart en kijkt dan eerst op de website. Sizzle kent dus de keuze van Vuurvlam als zij kiest, en de ondernemers kiezen na elkaar: het is een sequentieel spel. Een tabel met rijen en kolommen hoort bij een simultaan spel, waarin spelers kiezen zonder de keuze van de ander te kennen. In de tabel zie je niet wie eerst kiest en wat de tweede speler al weet. In een spelboom zie je de volgorde en heeft Sizzle bij elke keuze van Vuurvlam een eigen keuzemoment, zodat je ziet dat Sizzle haar keuze aanpast aan die van Vuurvlam.
+Puntenverdeling:
+• Vuurvlam kiest eerst en de keuze staat op de website voordat Sizzle kiest, dus Sizzle kent de keuze van Vuurvlam op het moment dat zij kiest: het is een sequentieel spel (1)
+• Een tabel met rijen en kolommen past bij een simultaan spel, waarin spelers kiezen zonder de keuze van de ander te kennen; de tabel laat niet zien wie eerst kiest en wat de tweede speler al weet (1)
+• Een spelboom laat de volgorde zien en geeft Sizzle bij elke keuze van Vuurvlam een eigen keuzemoment, zodat te zien is dat Sizzle haar keuze aanpast aan die van Vuurvlam (1)
+
+## OPGAVE IT-00203 2p | Kerstbomen in Lindeveld
+De tuincentra Groenhoek en Tuinplezier in Lindeveld verkopen in december allebei kerstbomen. Groenhoek geeft op 4 november de prijs van een kerstboom door aan de organisatie van de kerstmarktfolder, Tuinplezier doet dat op 8 november.
+De organisatie geeft de doorgegeven prijs niet aan het andere tuincentrum door. Op 15 november drukt zij de prijzen van beide tuincentra in de folder. De winst per week van elk tuincentrum hangt af van beide prijzen.
+Leg uit dat er tussen Groenhoek en Tuinplezier sprake is van een simultaan spel en niet van een sequentieel spel, ook al geven zij hun prijs op verschillende dagen door.
+### ANTWOORD
+Tuinplezier geeft zijn prijs later door dan Groenhoek, maar de organisatie vertelt niet welke prijs Groenhoek koos. Tuinplezier kent die prijs dus niet op het moment van kiezen. Geen van beide kent de keuze van de ander. Daarom is het een simultaan spel, ondanks het verschil in dagen.
+Puntenverdeling:
+• Een voorbeeld van een juiste uitleg: Het tuincentrum dat zijn prijs later doorgeeft, kent de prijs van het andere tuincentrum niet, want de organisatie geeft die niet door (1)
+• Ze kiezen dus zonder de keuze van de ander te kennen (ook al is er een verschil in tijd), dus het is een simultaan spel (1)
+
+## OPGAVE IT-00204 2p | Black Friday-acties bij twee webwinkels
+Kleurrijk en Plantenpret zijn webwinkels in kamerplanten en tuinspullen. Elke webwinkel kiest voor de Black Friday-week één actie: 20% korting op alle potten of gratis verzending. De winst van elke webwinkel hangt af van de combinatie van beide acties.
+Kleurrijk start haar actie op woensdag om 00.00 uur. Prijsvergelijker Plantplein toont alle lopende acties en wordt elke ochtend automatisch bijgewerkt. Plantenpret legt haar actie pas op donderdag vast en bekijkt dan eerst Plantplein.
+Leg uit of het spel tussen Kleurrijk en Plantenpret een simultaan of een sequentieel spel is.
+### ANTWOORD
+Het is een sequentieel spel. Plantenpret kijkt op donderdagochtend op Plantplein, waar de actie van Kleurrijk al zichtbaar is. Plantenpret kent de keuze van Kleurrijk dus als zij zelf kiest. De webwinkels kiezen na elkaar en de tweede speler weet wat de eerste deed.
+Puntenverdeling:
+• Een voorbeeld van een juiste uitleg is: Plantenpret bekijkt op donderdagochtend Plantplein, waar de actie van Kleurrijk al staat, en kent die actie dus op het moment dat zij zelf kiest. (1)
+• De webwinkels kiezen dus na elkaar en de tweede speler kent de keuze van de eerste: het is een sequentieel spel. (1)
+
+## OPGAVE IT-00254 3p | Deelscooters in Lindeburg
+De deelscooterbedrijven Rolly en Voltra willen allebei de stad Lindeburg in. Eerst kiest Rolly de ligging van haar hoofdlocatie: centrum of station. Rolly maakt die keuze in een persbericht openbaar. Voltra leest het bericht en kiest daarna zelf centrum of station.
+Daarna geven beide bedrijven hun ritprijs door in een verzegelde opgave aan de gemeente. De gemeente maakt de prijzen pas bekend nadat beide opgaven binnen zijn. De winst van elk bedrijf hangt af van de keuzes van beide bedrijven.
+Beredeneer voor elk van de twee keuzes (de ligging van de hoofdlocatie en de ritprijs) of Rolly en Voltra daarbij een simultaan spel of een sequentieel spel spelen.
+### ANTWOORD
+Bij de ligging is het een sequentieel spel: Rolly maakt haar keuze openbaar en Voltra kiest daarna, dus Voltra kent de keuze van Rolly. Bij de ritprijs is het een simultaan spel: de opgaven zijn verzegeld en de gemeente publiceert ze pas als beide binnen zijn, dus geen bedrijf kent de prijs van de ander. Het verschil is wat de speler weet op het moment van kiezen.
+Puntenverdeling:
+• Voorbeeld van een juist antwoord: Ligging van de hoofdlocatie: sequentieel spel, want Voltra kent de keuze van Rolly (persbericht) voordat zij zelf kiest (1)
+• Ritprijs: simultaan spel, want de opgaven zijn verzegeld en worden pas bekendgemaakt als beide bedrijven hebben gekozen, dus geen van beide kent de prijs van de ander bij het kiezen (1)
+• Conclusie: het verschil zit in de informatie op het moment van kiezen: bij de ligging kan Voltra haar keuze afstemmen op die van Rolly, bij de ritprijs kan geen van beide dat (1)
+
+## EXAMEN havo 2024-I 11 2p
+Maak een economisch juiste tekst over de kenmerken van het ultimatumspel, met vijf keuzes: soort spel, aantal spelers, wie het voorstel doet, wie kiest en wat er gebeurt bij accepteren.
+### ANTWOORD
+(1) sequentieel, (2) twee, (3) aanbieder, (4) respondent, (5) accepteert. Ook goed: (3) respondent en (4) aanbieder, mits (5) accepteert. Eerste deelscore voor (1) en (2), tweede voor (3) tot en met (5).
+
+## EXAMEN vwo 2022-I 14 3p
+Economen denken dat het financieringstekort van de VU kan oplopen als protectie tussen landen als een sequentieel spel wordt gezien. Geef een verklaring voor die mening.
+### ANTWOORD
+Cinai reageert op de heffing met eigen protectie (sequentieel spel). Producten worden duurder, bestedingen en export dalen en het bbp daalt. Belastinginkomsten dalen, de werkloosheid en de uitgaven aan uitkeringen stijgen, dus het financieringstekort loopt op.
+
+
+# LEERDOEL ECO-SPELT-03
+domein: F
+onderwerp: F.spel
+thema: Speltheorie
+naam: Gevangenendilemma uitleggen met dominante strategieën en Nash-evenwicht
+doel: Ik kan met dominante strategieën en het Nash-evenwicht een gevangenendilemma uitleggen.
+
+## UITLEG Speltheorie: dominante strategie, gevangenendilemma en zelfbinding
+Bewijs een dominante strategie voor beide spelers, met getallen per keuze van de ander; één speler geeft geen volle score. Een gevangenendilemma bestaat alleen als het evenwicht suboptimaal is, dus als een uitkomst voor beide beter is. Bij zelfbinding maakt een publieke belofte afwijken duur; noem de negatieve gevolgen. Ook de ultimatumspel-logica, herhaalde spelen en geloofwaardige dreigingen komen terug.
+
+## UITLEG Dominante strategie, evenwicht en gevangenendilemma
+Een dominante strategie is altijd het beste, wat de ander ook kiest. Bewijs dit voor beide spelers, per keuze van de ander, met getallen. Het evenwicht noem je met de uitkomst (x ; y). Gevangenendilemma: het evenwicht is suboptimaal, want een andere uitkomst is voor beiden beter. Is het evenwicht ook het beste, dan is er geen dilemma.
+
+## UITLEG Speltheorie
+Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten.
+
+## EXAMEN havo 2018-II 28 2p
+Twee aanbieders staan voor de eenmalige, gelijktijdige keuze om het tarief wel of niet te verlagen. Heeft de interviewer gelijk dat het een gevangenendilemma is? Gebruik het schema en licht je keuze toe.
+### ANTWOORD
+Nee. Tarief verlagen is voor beide partijen de dominante strategie en tevens de optimale uitkomst. Beide krijgen een hogere winst dan bij handhaven, dus geen gevangenendilemma.
+
+## EXAMEN havo 2019-I 24 3p
+Beide energieleveranciers overwegen een callcenter in te huren om klanten van elkaar over te halen (pay-offmatrix in bron 2). Leg uit hoe de dominante strategie van elk bedrijf ontstaat en beredeneer of er een gevangenendilemma is.
+### ANTWOORD
+Ja. Voor beide bedrijven is 'wel inhuren' dominant: −2 > −4 als de ander inhuurt, en +2 > 0 als de ander niet inhuurt (2 punten, bewijs voor beide bedrijven nodig). Het evenwicht −2;−2 is suboptimaal, want 0;0 is beter voor beiden (1 punt).
+
+## EXAMEN havo 2019-II 28 3p
+Gebruik de pay-offmatrix in bron 1. Leg uit hoe de dominante strategie van elke verzekeraar ontstaat en beredeneer dan of er sprake is van een gevangenendilemma.
+### ANTWOORD
+Beide verzekeraars hebben als dominante strategie 'eigen risico verlagen': Anderzorg 1 > 0,6 en 0,5 > 0,2; Beterzorg 1,1 > 1,0 en 0,8 > 0,2 (2, bewijs voor beide nodig). Evenwicht (0,5; 0,8) is slechter dan handhaven (0,6; 1,0): dus gevangenendilemma (1).
+
+## EXAMEN havo 2021-I 10 2p
+Leg uit waarom de pay-offmatrix van India en de EU geen gevangenendilemma laat zien. Leg eerst uit hoe elke partij aan een dominante strategie komt en redeneer dan naar de conclusie.
+### ANTWOORD
+Voor beide partijen is afschaffen dominant: bij elke keuze van de ander levert het meer groei op dan handhaven (India 2% > 0,5% en 1% > 0%; EU 1,5% > 0,5% en 1% > 0%). Die dominante strategie geeft ook de beste uitkomst voor beiden, dus geen dilemma.
+
+## EXAMEN havo 2021-II 10 3p
+Gebruik bron 1 en 2. Neem de matrix over, vul de letters A tot en met D in met bron 1, leg uit hoe de dominante strategie van beide partijen ontstaat en beredeneer of de dominante strategieën de handelsoorlog verklaren.
+### ANTWOORD
+Waarden A −4,7%, B −4,9%, C −1,4%, D −0,5% (1). Volgens de aanvulling hoort bij de tweede deelscore: de dominante strategie van de VS én van de handelspartners is 'geen importheffing' (1). Beide kiezen dan geen heffing, dus er is geen handelsoorlog: die is niet te verklaren met de dominante strategieën (1).
+
+## EXAMEN havo 2022-I 7 2p
+Twee supermarktketens kiezen tussen akkoord gaan met een prijsverhoging en onderhandelen. Toon met de getallen uit de opbrengstenmatrix (bron 1) aan dat een gevangenendilemma ontstaat: leg de dominante strategieën uit en beredeneer het dilemma.
+### ANTWOORD
+Voor elke keten is akkoord gaan dominant: de winstdaling is € 6.000 tegenover € 10.000 en € 2.000 tegenover € 3.000, wat de ander ook kiest (1p). Beide kiezen akkoord, maar samen zouden ze minder verliezen als beide onderhandelden: suboptimaal, dus gevangenendilemma (1p).
+
+## EXAMEN havo 2022-III 23 2p
+Twee producenten kiezen tussen prijsverhoging en inhoudsverlaging; de uitkomsten staan in een pay-offmatrix (bron 3). Celine zegt dat er geen gevangenendilemma is en dat zij de inhoud moet verlagen. Bepaal of dit juist is: verklaar de dominante strategieën en beredeneer of er een dilemma is.
+### ANTWOORD
+Voor beide partijen is inhoud verminderen dominant: 6% > 2% als de ander de prijs verhoogt, en 4% > 1% als de ander de inhoud verlaagt (1p). Er is geen uitkomst waarin beiden meer winst hebben, dus geen gevangenendilemma: de uitspraak is juist (1p).
+
+## EXAMEN havo 2023-I 22 2p
+Leg uit dat beide landen in een gevangenendilemma zitten. Leg eerst uit of beide landen een dominante strategie hebben en beredeneer daarna het dilemma. Gebruik de matrix in de bron.
+### ANTWOORD
+Voor beide landen is hoger aanbod handhaven dominant, want ongeacht de keuze van de ander is de omzetverandering dan het gunstigst. De uitkomst (handhaven, handhaven) is suboptimaal: beide waren beter af bij verlagen. Dat is een gevangenendilemma.
+
+## EXAMEN havo 2023-II 23 2p
+Bepaal met de pay-offmatrix de dominante strategie van beide bedrijven en beoordeel het evenwicht.
+### ANTWOORD
+Beide bedrijven hebben als dominante strategie wel losgeld betalen: de eigen uitkomst is steeds hoger (ABC −5 > −6 en −2 > −4; XYZ −4 > −5 en −2 > −3) (1). Evenwicht (−5; −4) is suboptimaal, want geen van beide betalen geeft −4; −3 (1).
+
+## EXAMEN havo 2025-I 16 2p
+Twee bedrijven kiezen tussen rechten kopen en investeren in duurzame productie; de winstveranderingen staan in een pay-offmatrix. Leg uit of ze in een gevangenendilemma zitten: eerst de dominante strategieën met getallen, dan de conclusie.
+### ANTWOORD
+Voor beide bedrijven is investeren dominant, want de uitkomsten bij investeren zijn bij elke keuze van de ander beter (met de getallen uit het voorschrift) (1). Het evenwicht (35 ; 45) is voor beide spelers de beste uitkomst, dus geen gevangenendilemma (1).
+
+## EXAMEN havo 2025-II 18 2p
+Leg met getallen uit bron 2 uit of er sprake is van een gevangenendilemma. Leg eerst uit of beide verzekeraars een dominante strategie hebben en beredeneer dan het dilemma.
+### ANTWOORD
+Voor A en C is campagne voeren dominant (+10% > 0% en -1% > -5%; +9% > 0% en -1% > -6%). Het evenwicht is dat beiden campagne voeren (-1%; -1%), slechter dan geen campagne (0%; 0%): dus een gevangenendilemma.
+
+## EXAMEN havo 2026-I 15 2p
+Met een matrix van financiële veranderingen voor club en verhuurder leg je uit of de dreiging van de club om het huurcontract op te zeggen geloofwaardig is.
+### ANTWOORD
+Verlengen is altijd beter voor de club dan opzeggen (−3%, −2% en 15% zijn hoger dan −100%), dus verlengen is de dominante strategie, 1p. De dreiging is dus niet geloofwaardig, 1p.
+
+## EXAMEN vwo 2019-I 13 3p
+Beargumenteer met de pay-offmatrix wat er gebeurt met het verschil in collegegeld tussen BSA en BSB.
+### ANTWOORD
+Voor BSA is verhogen dominant (0,57 > 0 en 6,86 > 5,71). Voor BSB is gelijk houden dominant (0 > −1,48 en 6,52 > 5,70). BSA startte met het laagste collegegeld (€ 15.000), dus het verschil wordt kleiner.
+
+## EXAMEN vwo 2019-I 24 2p
+De directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.
+### ANTWOORD
+OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.
+
+## EXAMEN vwo 2021-I 5 2p
+Een voorstel van de directie bevat voorwaarden: tweemaal akkoord geeft 20% werk bij de dochter, één weigering geeft die vakbond 30% en de ander maximaal 10%, tweemaal weigeren geeft faillissement. Gaan beide vakbonden akkoord? Licht toe door hun strategieën te vergelijken.
+### ANTWOORD
+Ja. Gaat de ander niet akkoord, dan is akkoord beter, want 10% bij de dochter is beter dan faillissement. Gaat de ander wel akkoord, dan is akkoord beter, want 20% is beter dan 30%. Akkoord is dominante strategie voor beide. Een toelichting met matrix mag ook. Alleen 0 of 2 punten.
+
+## EXAMEN vwo 2021-I 17 2p
+Een matrix toont de winsten bij gelijktijdige prijszetting door twee bedrijven en bevat twee Nash-evenwichten. Beargumenteer of het spel voor beide spelers een optimaal resultaat kan opleveren. Benoem beide Nash-evenwichten.
+### ANTWOORD
+Nash-evenwichten: beiden houden de prijs gelijk (€ 11,00; € 12,00) of beiden verlagen (€ 9,90; € 10,80) (1). Gezamenlijk verhogen (€ 12,10; € 13,20) geeft beide een hogere winst. Zonder onderlinge afspraak komt die uitkomst niet tot stand (1).
+
+## EXAMEN vwo 2021-II 3 2p
+Neemt volgens de matrix de frietconsumptie af door de heffing? Onderbouw dit met de totale omzetten uit de matrix.
+### ANTWOORD
+Nee. Voor Jan en voor Willem is de prijs gelijk houden de dominante strategie, want de totale omzet is dan hoger (bijvoorbeeld 15.000 tegenover 13.500). Beide houden dus de prijs gelijk en de consumptie daalt niet.
+
+## EXAMEN vwo 2022-I 4 2p
+De analist zegt dat de dreiging van Badlands geloofwaardig is en dat Amador hoe dan ook een lagere omzet krijgt dan in de uitgangssituatie. Leg die stelling uit met getallen uit figuur 1.
+### ANTWOORD
+Badlands heeft een dominante strategie om de prijs te verlagen (104,6 > 100 en 97,9 > 92,5), dus de dreiging is geloofwaardig. Amador verlaagt dan ook (96,3 > 91,7). Beide omzetten liggen lager dan in de uitgangssituatie: een suboptimaal evenwicht.
+
+## EXAMEN vwo 2023-II 20 3p
+Twee conclusies: het model heeft een Nash-evenwicht, en dat evenwicht verslechtert via het binnenlands prijspeil de concurrentiepositie. Leg beide uit en gebruik getallen uit de spelboom om het Nash-evenwicht aan te tonen.
+### ANTWOORD
+FED kiest bij elke keuze van JCB ruim beleid (104 > 100; 100 > 62,5); JCB kiest dan ook ruim (100 > 75). Nash: (100, 100) (1). Beide verlagen de rente, bestedingen en inflatie stijgen bij hoogconjunctuur (1). Prijspeil stijgt, dus concurrentiepositie verslechtert (1).
+
+## EXAMEN vwo 2024-I 24 2p
+Matrix 1 toont de winsten van twee visserijen bij handhaven of verlagen van de prijs. Leg met getallen uit of er sprake is van een gevangenendilemma.
+### ANTWOORD
+Voor Dirdam geldt 33 > 30 en 19 > 14, voor Nednol 20 > 10 en 6 > −2: prijs verlagen is voor beide de dominante strategie (Nash-evenwicht) (1). Dat evenwicht is suboptimaal: totale winst 25 < 40, dus een gevangenendilemma (1).
+
+## EXAMEN vwo 2024-II 3 3p
+In de uitgangssituatie bieden beide supermarkten 12.000 pakketten aan. Lucrum zegt dat het door zijn dominante strategie te volgen, vanwege de sociale norm van Civitas, uiteindelijk slechter af is. Leg deze conclusie uit.
+### ANTWOORD
+Dominante strategie van Lucrum: verlagen naar 6.000 (440 > 400 > 260 enzovoort). Civitas wil minstens 24.000 pakketten en verhoogt daarom naar 18.000. Lucrum haalt dan € 80.000 winst in plaats van € 260.000.
+
+## EXAMEN vwo 2025-I 15 2p
+Een tweede ijssalon treedt toe en consumenten zien de ijsjes als perfecte substituten. Leg uit dat beide salons via een prijzenoorlog in een gevangenendilemma kunnen belanden.
+### ANTWOORD
+Consumenten letten alleen op de prijs, dus ieder wil iets onder de ander zitten: prijs verlagen is voor beiden de dominante strategie (1). Beide hebben daardoor lagere omzet of winst dan eerst: een suboptimale uitkomst (1).
+
+## EXAMEN vwo 2025-I 28 2p
+Noem met behulp van de pay-offmatrix (winsten en afzetten) de Nash-evenwichten bij winstmaximalisatie.
+### ANTWOORD
+Twee evenwichten: beide boeren traditioneel (€ 80.000 ; € 80.000) (1) en beide boeren biologisch (€ 92.900 ; € 92.900) (1).
+
+## EXAMEN vwo 2025-I 29 2p
+Leg met getallen uit tabel 2 uit of de negatieve externe effecten dalen als de boeren kiezen voor afzetmaximalisatie.
+### ANTWOORD
+Bij afzetmaximalisatie is traditioneel teelt dominant voor beide boeren (65.000 > 46.050 en 70.000 > 55.000) (1). Er wordt dus niet biologisch geteeld, dus de negatieve externe effecten dalen niet (1).
+
+## EXAMEN vwo 2025-II 20 2p
+Leg met getallen uit de matrix uit of er sprake is van een Nash-evenwicht.
+### ANTWOORD
+Voor beide scholen is 100% marketing dominant (10 > −50 > −110 en −65 > −125 > −185 en −140 > −200 > −260). Dus Nash-evenwicht bij (100%; 100%), cel I. Of: niemand kan zijn reserve vergroten gegeven de keuze van de ander.
+
+## EXAMEN vwo 2026-I 17 2p
+Leg uit dat elke houthakker een dominante strategie heeft die op termijn leidt tot een suboptimaal Nash-evenwicht.
+### ANTWOORD
+De prijs ligt boven de variabele kosten, dus meer kappen is voor elke aanbieder dominant. Het totale aanbod stijgt, de prijs daalt en de winsten dalen. Of de bossen verdwijnen en er is geen omzet meer. Milieuschade telt niet mee.
+
+## EXAMEN vwo 2026-II 27 2p
+Figuur 4 toont de netto baten van een land afhankelijk van het aantal landen met klimaatbeleid. Noem de twee Nash-evenwichten als landen alleen naar hun eigen netto baten kijken.
+### ANTWOORD
+Nul landen voeren klimaatbeleid (1). Alle 195 landen voeren klimaatbeleid (1).
+
+
+# LEERDOEL ECO-SPELT-04
+domein: F
+onderwerp: F.spel
+thema: Speltheorie
+naam: De uitkomst van een spelboom bepalen door terugredeneren
+doel: Ik kan door terugredeneren de uitkomst van een spelboom bepalen.
+
+## UITLEG Sequentieel spel en ultimatumspel
+Bij een sequentieel spel kiezen spelers na elkaar; redeneer terug vanaf de laatste keuze. Bij het ultimatumspel accepteert de respondent elk bod boven zijn minimum. De aanbieder weet dat en biedt precies dat minimum. Vergeet niet wat de respondent minimaal moet terugverdienen.
+
+## UITLEG Speltheorie
+Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten.
+
+## UITLEG Sequentieel spel en spelboom
+Bij een sequentieel spel kiezen spelers na elkaar en ziet de latere speler wat de ander deed. Los de spelboom op door terug te redeneren: begin bij de laatste keuze en werk naar de eerste. Noem per stap de keuze en de reden met getallen, en sluit af met de uitkomst (speler 1 ; speler 2). Beginnen vooraan in de boom is fout.
+
+## EXAMEN havo 2024-I 12 2p
+Gebruik bron 2. Welke bedragen horen op plaats (1) en (2) in de beslisboom? Leg je keuze uit. Het budget is € 6.000 per fiets en de marginale kosten zijn € 3.500.
+### ANTWOORD
+Bij (1) € 1.500: Snel houdt over € 6.000 − € 4.500. Bij (2) € 1.000: Sprinter houdt over € 4.500 − € 3.500 (marginale kosten), als Sprinter het voorstel accepteert.
+
+## EXAMEN havo 2024-I 13 2p
+Gebruik bron 2. Leg uit welke van de drie verdelingen ontstaat als Sprinter en Snel allebei zo veel mogelijk euro's voor zichzelf willen.
+### ANTWOORD
+Sprinter accepteert elk voorstel met een opbrengst boven € 0 (dus boven de minimale leveringsbereidheid). Snel kent dat en doet het voorstel dat de eigen opbrengst maximaal maakt, € 3.501. De verdeling wordt € 2.499 voor Snel en € 1 voor Sprinter. Best-responsmethode is ook goed.
+
+## EXAMEN havo 2024-II 25 2p
+Bouwrijk doet Schot in de Zaak een eenmalig voorstel voor de verdeling van een aanneemsom van € 485.000; bij weigering vervalt de opdracht. Startkosten: € 12.500 en € 25.000. Leg uit welk bedrag Schot in de Zaak minimaal accepteert bij puur eigenbelang op korte termijn.
+### ANTWOORD
+Schot in de Zaak accepteert elke verdeling waarmee hij zijn eigen startkosten terugverdient. Het minimale voorstel is € 25.000 (of € 25.001).
+
+## EXAMEN havo 2026-II 25 2p
+Rond en Kruis kiezen tussen zwijgen, toegeven met inzage en klikken (spelboom met kortingen). Verklaar met getallen uit de spelboom welk kortingspercentage Kruis krijgt.
+### ANTWOORD
+Rond kiest steeds de beste reactie: bij zwijgen of toegeven kiest Rond klikken (100 > 60 en 100 > 0), bij klikken kiest Rond toegeven (60 > 0). Rond kiest dus klikken, en Kruis krijgt 60% korting.
+
+## EXAMEN vwo 2019-I 23 2p
+Verklaar de uitkomst in de spelboom waarbij beide bedrijven ervoor kiezen het kartel niet te melden.
+### ANTWOORD
+Bij ontdekking krijgt elk bedrijf een boete van vier keer de extra omzet (400%). De kans op ontdekking is 75%, dus de verwachte boete is 0,75 × 400% = 300% van de extra omzet. Let op: volgens de aanvulling op het correctievoorschrift krijgt iedere kandidaat voor deze vraag altijd 2 punten.
+
+## EXAMEN vwo 2019-I 24 2p
+De directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.
+### ANTWOORD
+OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.
+
+## EXAMEN vwo 2021-I 16 2p
+De directie overweegt de prijs gelijk te laten, 10% te verhogen of 10% te verlagen, en verwacht dat de concurrent reageert. Verklaar met de spelboom dat het gezien de doelstelling niet zinvol is de prijs aan te passen.
+### ANTWOORD
+Bij € 12,10 kiest de concurrent € 12,00 en is de winst € 560.000. Bij € 11,00 kiest de concurrent € 12,00 en is de winst € 800.000. Bij € 9,90 kiest de concurrent € 10,80 en is de winst € 100.000 (1). De hoogste winst staat bij € 11,00: de prijs blijft gelijk (1).
+
+## EXAMEN vwo 2024-I 25 2p
+Twee visserijen vormen een kartel. Toetreder Syrap kiest tussen toetreden met de kartelprijs of met een lagere prijs (spelboom 1). Leg uit welke keuze Syrap maakt (getallen niet nodig).
+### ANTWOORD
+Dirdam verlaagt altijd de prijs (dominante strategie, hogere winst), daarna ook Nednol (1). Uitkomst: iedereen verlaagt de prijs (14, 7, 28), dus Syrap treedt toe met een lagere prijs (1).
+
+## EXAMEN vwo 2024-II 5 2p
+Civitas kiest uit drie prijsvoorstellen en de gemeente kiest daarna: een deal sluiten of de voedselvoorziening zelf regelen. Spelboom 1 geeft de winsten en kosten. Leg uit welke uitkomst ontstaat en noem getallen uit de boom.
+### ANTWOORD
+Bij de marktprijs regelt de gemeente het zelf (€ 150.000 < € 180.000), dus winst 0. Bij een kleine marge sluit de gemeente een deal (135.000 < 150.000), winst € 45.000. Bij kostprijs is de winst 0. Uitkomst: kleine marge, deal; 45.000 ; 135.000.
+
+## EXAMEN vwo 2026-I 5 2p
+Geef de speluitkomst van spelboom 1 in 2026. Geef ook aan dat de winst van Solo in 2027 daalt doordat de sociale norm wordt overtreden.
+### ANTWOORD
+Uitkomst: (snellere boot ; diesel), oftewel (120 ; 160). Afwijken van de sociale norm geeft reputatieschade en lagere afzet voor Solo, waardoor de winst in 2027 daalt.
+
+
+# LEERDOEL ECO-SPELT-05
+domein: F
+onderwerp: F.spel
+thema: Speltheorie
+naam: Het berovingsprobleem uitleggen met verzonken kosten
+doel: Ik kan het berovingsprobleem uitleggen met behulp van verzonken kosten.
+
+## UITLEG Specifieke investeringen en verzonken kosten
+Twee elementen zijn nodig: het is een specifieke investering en die kan op geen enkele andere manier worden terugverdiend. Voorbeeld: een werkgever investeert in scholing en de werknemer vertrekt voordat dit is terugverdiend. Een clausule voor een minimale diensttijd kan dat oplossen. Verzonken kosten zetten bedrijven ook aan tot meer afzet.
+
+## UITLEG Specifieke investering en verzonken kosten
+Een specifieke investering verdien je alleen in deze ene relatie terug. Noem beide: het is een specifieke investering én die kosten zijn op geen enkele andere manier terug te verdienen. Dit zijn verzonken kosten. Laat je 'niet terug te verdienen' weg, dan vervalt het punt.
+
+## UITLEG Berovingsprobleem en specifieke investeringen
+Een specifieke investering is alleen binnen deze relatie terug te verdienen (verzonken kosten). Daarna kan de andere partij betere voorwaarden afdwingen: het berovingsprobleem. Oplossing: een meerjarig contract of een vergoeding bij vroegtijdig vertrek. Een dreiging is niet geloofwaardig als de ander ook verzonken kosten heeft. Verzonken kosten aanwijzen bij een investering die anders bruikbaar is (grond verhuren of verkopen) geeft 0 punten.
+
+## OPGAVE IT-00165 3p | Een vrachtterminal voor Cargolijn
+Luchthaven Veenland wil een vrachtterminal bouwen voor vrachtmaatschappij Cargolijn, die snijbloemen en groenten per vliegtuig vervoert. De terminal krijgt koelcellen en een laadsysteem dat precies past bij de vliegtuigen van Cargolijn. De terminal kost € 24 miljoen. Andere maatschappijen kunnen er met hun vliegtuigen niets mee. Daarnaast verlengt Veenland de taxibaan voor € 6 miljoen; die baan kunnen alle maatschappijen gebruiken.
+Cargolijn heeft een alternatief: een regionale luchthaven op 60 kilometer afstand met vrije capaciteit, waar Cargolijn zonder noemenswaardige kosten naartoe kan verhuizen.
+Veenland overweegt om vooraf met Cargolijn af te spreken dat Cargolijn bij vertrek binnen tien jaar een vergoeding betaalt voor het deel van de terminalkosten dat dan nog niet is terugverdiend.
+Leg uit dat Luchthaven Veenland zonder de afspraak een berovingsprobleem kan krijgen en dat de afspraak over de vergoeding dit probleem beperkt.
+### ANTWOORD
+De vrachtterminal is een specifieke investering: andere maatschappijen kunnen er niets mee, dus Veenland kan de € 24 miljoen niet anders terugverdienen. Dat zijn verzonken kosten. De taxibaan is voor alle maatschappijen bruikbaar en levert geen verzonken kosten op. Zonder afspraak is Veenland afhankelijk van Cargolijn. Cargolijn kan gemakkelijk naar de regionale luchthaven en daarmee dreigen om lagere havengelden af te dwingen. Veenland gaat daarmee akkoord, want een lage opbrengst is beter dan geen opbrengst. Dat is het berovingsprobleem. Met de vergoeding bij vertrek binnen tien jaar wordt vertrekken voor Cargolijn duur. De dreiging is dan minder sterk en Veenland kan minder worden beroofd.
+Puntenverdeling:
+• De terminal is een specifieke investering die alleen voor Cargolijn bruikbaar is (de taxibaan kunnen alle maatschappijen gebruiken), dus Veenland kan de kosten van de terminal op geen andere manier terugverdienen: verzonken kosten (1)
+• Zonder afspraak is Veenland afhankelijk van Cargolijn: Cargolijn kan dreigen naar de regionale luchthaven te verhuizen en lagere havengelden of betere voorwaarden eisen, en Veenland stemt daarmee in omdat een lagere opbrengst beter is dan geen opbrengst (berovingsprobleem) (1)
+• Met de vergoeding wordt vertrek binnen tien jaar duur voor Cargolijn, waardoor de dreiging minder geloofwaardig is, Cargolijn minder kan afdwingen en Veenland het risico van de investering kleiner is (1)
+
+## OPGAVE IT-00193 3p | Stoelen voor Nachtegaal
+Meubelmaker Eikenhout levert stoelen aan hotelketen Nachtegaal, die een collectie met een afwijkende rugleuning wil. Eikenhout kan die alleen maken met een freesmachine en mal van samen € 150.000. Die specifieke investering is onbruikbaar voor andere klanten: de kosten zijn verzonken kosten.
+Nachtegaal kan ook standaardstoelen bij een andere maker bestellen en vindt dat acceptabel. Er is nog geen contract; de prijs ligt niet vast. Eikenhout verdient zolang de prijs boven de variabele kosten per stoel ligt.
+Leg uit dat het berovingsprobleem ervoor zorgt dat Eikenhout twijfelt over de investering in de freesmachine en de mal.
+### ANTWOORD
+Bij het berovingsprobleem maakt Eikenhout een specifieke investering: de machine en mal werken alleen voor Nachtegaal, dus de € 150.000 zijn verzonken kosten en Eikenhout wordt afhankelijk. Nachtegaal kan dan met een standaardstoel dreigen en een lagere prijs eisen. Eikenhout stemt toe, want een prijs boven de variabele kosten is beter dan niets terugverdienen. Eikenhout voorziet dit vooraf, verwacht dat de opbrengst lager uitvalt dan de investering en twijfelt daarom.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Door de specifieke investering zijn de € 150.000 verzonken kosten: de machine en mal zijn niet elders te gebruiken, dus Eikenhout wordt na de investering afhankelijk van Nachtegaal (1)
+• Nachtegaal kan na de investering een lagere prijs eisen (bijvoorbeeld door te dreigen met een standaardstoel van een andere maker) en Eikenhout stemt toe, omdat een prijs boven de variabele kosten beter is dan niets terugverdienen (1)
+• Eikenhout voorziet dit vooraf, verwacht dat de opbrengst lager is dan de investering en twijfelt daarom (of investeert pas met zekerheid, zoals een meerjarig contract) (1)
+
+## OPGAVE IT-00194 3p | Kaas voor Bergfris
+Kaasmakerij Weidelust wil kaas leveren aan supermarktketen Bergfris. Daarvoor is een rijpingsinstallatie van € 120.000 nodig die voor geen enkele andere kaas geschikt is.
+Weidelust levert vijf jaar lang 50.000 kazen per jaar. Bij de huidige prijsafspraak houdt Weidelust € 0,60 per kaas over na aftrek van de variabele kosten. Er is niets schriftelijk vastgelegd.
+Bergfris kan zonder kosten overstappen op een andere kaasmaker. Weidelust verwacht dat Bergfris na de eerste leveringen een prijs eist waarbij € 0,40 per kaas overblijft.
+Leg uit dat Weidelust te maken heeft met een berovingsprobleem en daarom twijfelt over de investering in de rijpingsinstallatie, ook al wordt de installatie bij de huidige prijsafspraak binnen vijf jaar terugverdiend.
+Doe het als volgt:
+- Leg uit waarom de kosten van de installatie verzonken kosten zijn en wat dat betekent voor de positie van Weidelust.
+- Leg uit waarom Bergfris na de investering een lagere prijs kan eisen.
+- Toon met een berekening aan dat Weidelust de installatie bij die lagere prijs niet terugverdient.
+### ANTWOORD
+De installatie past alleen bij de kaas van Bergfris. De € 120.000 zijn dus verzonken kosten en Weidelust is afhankelijk van Bergfris. Bergfris kan daarom een lagere prijs eisen, want het kan zonder kosten overstappen. Weidelust stemt toe, want een kleine marge is beter dan niets. Bij € 0,40 is de opbrengst 50.000 × 0,40 × 5 = € 100.000, minder dan € 120.000. Weidelust twijfelt dus.
+Puntenverdeling:
+• De installatie is alleen bruikbaar voor de kaas van Bergfris, dus de kosten zijn verzonken kosten en Weidelust is na de investering afhankelijk van Bergfris. (1)
+• Bergfris kan na de investering een lagere prijs eisen, omdat het gemakkelijk kan overstappen, en Weidelust stemt toe, omdat elke marge boven nul beter is dan een ongebruikte installatie (Weidelust wordt als het ware 'beroofd' van een deel van de opbrengst). (1)
+• Bij € 0,40 per kaas is de opbrengst 50.000 × € 0,40 × 5 = € 100.000, minder dan € 120.000 (bij € 0,60 was dit € 150.000); Weidelust verwacht dit en twijfelt dus. (1)
+
+## OPGAVE IT-00247 3p | Accubehuizingen voor Transvia
+Metaalbedrijf Brinkhof levert onderdelen aan verschillende fabrikanten. Vervoerbedrijf Transvia wil dat Brinkhof een speciale pers van € 400.000 aanschaft om accubehuizingen te maken voor de nieuwe elektrische bussen van Transvia.
+De pers is voor geen enkel ander product bruikbaar. Alleen Transvia koopt deze behuizingen, maar Transvia kan ook bij andere metaalbedrijven terecht. Er komt geen vast contract: over de prijs wordt elk jaar opnieuw onderhandeld.
+Verklaar met behulp van de begrippen verzonken kosten en berovingsprobleem dat Brinkhof kan besluiten de pers niet aan te schaffen, hoewel de behuizingen voor beide bedrijven voordeel opleveren.
+### ANTWOORD
+De pers is alleen bruikbaar voor Transvia, dus de € 400.000 zijn verzonken kosten en Brinkhof is na aanschaf afhankelijk van Transvia. Omdat de prijs jaarlijks opnieuw wordt onderhandeld, kan Transvia dan een lagere prijs eisen, en Brinkhof stemt toe want anders verliest het de investering. Brinkhof voorziet dit berovingsprobleem en schaft de pers daarom niet aan.
+Puntenverdeling:
+• Een juiste verklaring bevat de volgende elementen: De pers is alleen bruikbaar voor de behuizingen van Transvia, dus de € 400.000 zijn verzonken kosten (niet terug te verdienen via een ander product of andere afnemer) en Brinkhof wordt na de aanschaf afhankelijk van Transvia (1)
+• Omdat de prijs elk jaar opnieuw wordt onderhandeld, kan Transvia na de investering een lagere prijs eisen (een groter deel van de opbrengst opeisen), want Brinkhof heeft geen alternatief meer en stemt toe om niet alles te verliezen (1)
+• Brinkhof voorziet dit gevolg vooraf, verwacht de investering niet terug te verdienen en schaft de pers daarom niet aan (terwijl samenwerking voor beide partijen voordelig zou zijn) (1)
+
+## OPGAVE IT-00248 3p | Een persmachine voor Rijwiel Nova
+Kettingwerk maakt fittingen. Fietsmerk Rijwiel Nova koopt die nu bij drie leveranciers en kan zonder noemenswaardige kosten overstappen.
+Voor het nieuwe Nova-frame koopt Kettingwerk een persmachine van € 900.000. Die kan alleen deze fittingen maken en is niet door te verkopen. Daarnaast koopt Kettingwerk een bestelbus van € 150.000 die ook andere klanten bedient.
+De prijs wordt pas vastgesteld nadat de machine draait. Kettingwerk rekende op € 9 per fitting, de variabele kosten zijn € 4 per fitting. Nova biedt € 6.
+Beredeneer met behulp van de begrippen specifieke investering en verzonken kosten dat Kettingwerk door de aankoop van de persmachine met een berovingsprobleem te maken krijgt en daarom het bod van € 6 accepteert, terwijl de aankoop van de bestelbus dit probleem niet veroorzaakt.
+### ANTWOORD
+De persmachine is een specifieke investering: ze maakt alleen fittingen voor Nova en is niet door te verkopen, dus de kosten zijn verzonken. De bestelbus rijdt ook voor andere klanten, dus die maakt Kettingwerk niet afhankelijk van Nova. Nova kan makkelijk overstappen, dus Nova kan de prijs drukken. Kettingwerk accepteert € 6, want dat ligt boven de variabele kosten van € 4 en weigeren levert niets op.
+Puntenverdeling:
+• De persmachine is een specifieke investering: ze is alleen bruikbaar voor het Nova-frame en niet door te verkopen, dus de kosten zijn verzonken. De bestelbus is ook voor andere klanten bruikbaar, dus die investering is niet specifiek en geeft geen afhankelijkheid van Nova. (1)
+• Na de aankoop is Kettingwerk afhankelijk van Nova, terwijl Nova gemakkelijk naar een andere leverancier kan overstappen. Nova heeft dus een sterke onderhandelingspositie en kan een lagere prijs eisen (het berovingsprobleem). (1)
+• Kettingwerk accepteert € 6, omdat de aanschafkosten verzonken zijn en alleen de variabele kosten (€ 4) nog meetellen: elke prijs boven € 4 levert nog iets op, en weigeren levert niets op, dus € 6 is beter dan geen levering. (1)
+
+## EXAMEN havo 2023-II 19 2p
+Leg uit dat de kosten van medicijnontwikkeling verzonken kosten zijn.
+### ANTWOORD
+Fabrikanten doen specifieke investeringen om een medicijn te ontwikkelen (1). Die kosten zijn verzonken, want ze zijn alleen terug te verdienen via verkoop, ook niet als de FDA geen toestemming geeft (1).
+
+## EXAMEN havo 2025-I 17 2p
+Duurzame investeringen geven hoge verzonken kosten, waardoor bedrijven nieuwe markten zoeken. Leg uit dat de totale CO2-uitstoot daardoor niet hoeft te dalen.
+### ANTWOORD
+Bedrijven investeren alleen als ze verzonken kosten kunnen terugverdienen, dus ze zoeken meer afzet en nieuwe markten (1). De productie stijgt zo sterk dat de uitstoot ondanks schonere productie gelijk kan blijven of toenemen (1).
+
+## EXAMEN havo 2026-II 30 2p
+Een werkgever investeert in de opleiding van werknemers en kan daardoor verzonken kosten hebben. Leg uit hoe hij verzonken kosten kan voorkomen.
+### ANTWOORD
+De werkgever neemt een clausule in het contract op dat de werknemer een minimale periode in dienst blijft. Zo verdient hij de investering terug, dus er zijn geen verzonken kosten.
+
+## EXAMEN vwo 2021-II 27 2p
+Verklaar dat het zuiveringsbedrijf bij de onderhandelingen met de vier grote bedrijven met een berovingsprobleem te maken heeft.
+### ANTWOORD
+Het zuiveringsbedrijf heeft specifieke investeringen gedaan (verzonken kosten) die het alleen terugverdient met voldoende afvalwater. Daardoor kunnen de vier bedrijven het dwingen akkoord te gaan met een korting op de heffing.
+
+## EXAMEN vwo 2021-III 5 2p
+Een club investeert in jeugdspeelsters, maar die kunnen vroeg vertrekken. De maatregel is dat vroege vertrekkers een vergoeding aan de club betalen. Leg uit hoe dit het berovingsprobleem deels beperkt.
+### ANTWOORD
+De investering is specifiek en niet terug te verdienen bij vroeg vertrek, wat een berovingsprobleem geeft. De vergoeding dekt de kosten deels, dus het probleem wordt deels voorkomen.
+
+## EXAMEN vwo 2021-III 19 2p
+De redactrice verwacht dat verzekeraars na 2021 een lagere prijs afdwingen. Leg uit dat het ziekenhuis daarom een meerjarig contract moet eisen om een berovingsprobleem te vermijden.
+### ANTWOORD
+De investering is specifiek: bij overstap naar een ander ziekenhuis blijven vaste kosten onterugverdiend. Een meerjarig contract geeft zekerheid over opbrengsten en voorkomt het berovingsprobleem.
+
+## EXAMEN vwo 2022-II 8 3p
+Leport legt een pijpleiding aan en de bedrijven bouwen afvanginstallaties. Verklaar dat Leport een berovingsprobleem kan krijgen en dat de dreiging van de bedrijven om op te zeggen niet geloofwaardig is.
+### ANTWOORD
+De pijpleiding is een specifieke investering die Leport niet anders kan terugverdienen, dus Leport kan worden beroofd (2). De bedrijven hebben zelf verzonken kosten van € 39 miljoen, dus hun dreiging met opzeggen is niet geloofwaardig (1).
+
+## EXAMEN vwo 2023-I 29 2p
+Een bedrijf investeert in een installatie die alleen het afval van één klant kan verwerken. Bij de contractonderhandeling eist die klant een hogere prijs dan het bedrijf wil betalen. Leg uit dat er sprake is van een berovingsprobleem.
+### ANTWOORD
+Het bedrijf deed een specifieke investering met verzonken kosten in een installatie voor het afval van die klant (1). Eist de klant een hogere prijs, dan kan de kostprijs boven de verkoopprijs uitkomen; de investering is niet meer terug te verdienen (1).
+
+## EXAMEN vwo 2024-I 16 1p
+Arco onderhandelt al maanden met de verzekeraar over voorwaarden. Beargumenteer of die onderhandelingskosten verzonken kosten zijn.
+### ANTWOORD
+Ja. Als er na de onderhandelingen geen verzekering of exportcontract komt, zijn de gemaakte kosten niet op een andere manier terug te verdienen.
+
+## EXAMEN vwo 2025-I 26 2p
+Overstappen op biologische teelt vraagt extra grond omdat stukken land langer braak liggen. Leg uit of de investering verzonken kosten met zich meebrengt.
+### ANTWOORD
+Nee: de extra grond kan bij het stoppen van biologische teelt anders worden benut, zoals voor andere teelt, verhuur, verkoop of woningbouw. De kosten zijn dus niet verzonken.
+
+## EXAMEN vwo 2025-II 23 2p
+Leg uit dat een kortere opzegtermijn via het berovingsprobleem kan leiden tot hogere loonkosten per product.
+### ANTWOORD
+Werknemers kunnen makkelijker vertrekken, dus de kans op beroving (verzonken kosten) is groter en er wordt minder in werknemers geïnvesteerd. De productiviteit blijft laag en de loonkosten per product stijgen.
+
+
+# LEERDOEL ECO-SPELT-06
+domein: F
+onderwerp: F.spel
+thema: Speltheorie
+naam: Uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert
+doel: Ik kan uitleggen hoe geloofwaardige zelfbinding de uitkomst van een spel verandert.
+
+## UITLEG Speltheorie: dominante strategie, gevangenendilemma en zelfbinding
+Bewijs een dominante strategie voor beide spelers, met getallen per keuze van de ander; één speler geeft geen volle score. Een gevangenendilemma bestaat alleen als het evenwicht suboptimaal is, dus als een uitkomst voor beide beter is. Bij zelfbinding maakt een publieke belofte afwijken duur; noem de negatieve gevolgen. Ook de ultimatumspel-logica, herhaalde spelen en geloofwaardige dreigingen komen terug.
+
+## UITLEG Geloofwaardige dreiging, zelfbinding en sociale norm
+Een dreiging is alleen geloofwaardig als uitvoeren voor de dreiger zelf het beste is; onderbouw dit met de getallen. Zelfbinding legt je vooraf vast, zodat afwijken duur wordt: noem het negatieve gevolg bij afwijken (bijv. reputatieschade). Sociale normen en herhaling veranderen het gedrag van beide spelers.
+
+## UITLEG Speltheorie
+Dominante strategie: voor elke keuze van de ander de beste optie, met vergelijkende getallen uit de matrix. Nash-evenwicht: niemand kan zich verbeteren gegeven de keuze van de ander. Gevangenendilemma: Nash-evenwicht is slechter dan samenwerking. Sequentieel spel los je op door terug te redeneren. Een dreiging is geloofwaardig bij een dominante strategie. Effecten op niet-spelers tellen niet; onvolledige redeneringen krijgen vaak 0 of 2 punten.
+
+## OPGAVE IT-00167 3p | Fietsenmaker Pedaal
+In het stadje Lindeveld is fietsenmaker Pedaal al jaren de enige aanbieder. Winkelketen Wielwerk overweegt een filiaal te openen. Wielwerk beslist eerst; daarna bepaalt Pedaal zijn prijzen. Pedaal dreigt bij toetreding de prijzen fors te verlagen, maar Wielwerk gelooft die dreiging niet.
+Pedaal legt zich daarom vooraf vast. Het tekent publiek een overeenkomst met de ondernemersvereniging: verlaagt Pedaal na de komst van Wielwerk de prijzen niet, dan betaalt Pedaal een boete van € 45.000 per jaar.
+De tabel toont de jaarwinsten in duizenden euro's. De boete is in de tabel nog niet verwerkt.
+Tabel Jaarwinst in duizenden euro's, vóór aftrek van een eventuele boete:
+Situatie | Winst Pedaal | Winst Wielwerk
+Wielwerk opent niet | 100 | 0
+Wielwerk opent, Pedaal laat de prijzen hoog | 60 | 40
+Wielwerk opent, Pedaal verlaagt de prijzen (prijzenoorlog) | 30 | -10
+Leg uit dat de overeenkomst de uitkomst van het spel verandert. Gebruik de getallen uit de tabel.
+Doe het als volgt:
+- Kijk eerst wat Pedaal kiest als Wielwerk opent, nu met de boete.
+- Kijk daarna wat Wielwerk daarop kiest en vergelijk de uitkomst met die zonder overeenkomst.
+### ANTWOORD
+Als Wielwerk opent en Pedaal de prijzen hoog laat, houdt Pedaal door de boete van 45 (duizend euro) nog 60 - 45 = 15 over. Bij een prijzenoorlog is dat 30. Pedaal doet het dus zelf beter door de prijzen te verlagen, en de dreiging is geloofwaardig. Wielwerk weet dit en verwacht bij openen -10, terwijl niet openen 0 oplevert. Wielwerk opent dus niet en de uitkomst is (100 ; 0). Zonder overeenkomst laat Pedaal de prijzen hoog, want 60 is meer dan 30. Dan opent Wielwerk, want 40 is meer dan 0, en is de uitkomst (60 ; 40). De overeenkomst verandert de uitkomst dus van (60 ; 40) in (100 ; 0).
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Met de boete levert 'prijzen hoog laten' Pedaal 60 - 45 = 15 (duizend euro) op; dat is minder dan de 30 bij de prijzenoorlog, dus Pedaal verlaagt de prijzen en de dreiging is geloofwaardig (1)
+• Wielwerk verwacht bij openen een winst van -10 tegenover 0 bij niet openen, dus Wielwerk opent niet en de uitkomst is (100 ; 0) (1)
+• Zonder overeenkomst laat Pedaal de prijzen hoog (60 is meer dan 30), dus Wielwerk opent (40 is meer dan 0) en de uitkomst is (60 ; 40); de overeenkomst verandert de uitkomst dus van (60 ; 40) in (100 ; 0) (1)
+
+## OPGAVE IT-00168 3p | Glasvezel in Kerkwijk
+In de nieuwe wijk Kerkwijk bieden twee providers glasvezel aan: Vezelnet en Glasline. Ze beslissen na elkaar. Eerst kiest Vezelnet of het een tariefgarantie in de abonnementsvoorwaarden opneemt. Daarna kiest Glasline of het zijn tarief handhaaft of verlaagt.
+Met de garantie belooft Vezelnet publiek nooit duurder te zijn dan Glasline. Is het tarief van Vezelnet toch hoger, dan krijgen alle klanten het verschil terug, zodat Vezelnet elke verlaging van Glasline in feite volgt. Zonder garantie verlaagt Vezelnet zijn tarief dit jaar niet, omdat de abonnementen voor een jaar vastliggen.
+De spelboom toont de winsten in duizenden euro's per maand als (winst Vezelnet ; winst Glasline).
+Spelboom: eerst kiest Vezelnet, daarna Glasline. Uitkomsten als (Vezelnet ; Glasline):
+Garantie → Tarief handhaven: (50 ; 50)
+Garantie → Tarief verlagen: (35 ; 35)
+Geen garantie → Tarief handhaven: (50 ; 50)
+Geen garantie → Tarief verlagen: (20 ; 70)
+Leg uit dat de tariefgarantie de uitkomst van het spel verandert. Gebruik de getallen uit de spelboom.
+Doe het als volgt:
+- Bepaal eerst wat Glasline kiest na de garantie en wat Glasline kiest zonder garantie.
+- Kijk daarna wat Vezelnet daardoor kiest.
+### ANTWOORD
+Na de garantie volgt Vezelnet elke verlaging van Glasline. Verlagen levert Glasline dan 35 op en handhaven 50, dus Glasline handhaaft zijn tarief en de uitkomst is (50 ; 50). Zonder garantie levert verlagen Glasline 70 op en handhaven 50, dus Glasline verlaagt en de uitkomst is (20 ; 70). Vezelnet kijkt vooruit: met garantie krijgt het 50, zonder garantie 20. Vezelnet kiest dus de garantie. Door de garantie verandert de uitkomst van (20 ; 70) in (50 ; 50).
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Na de garantie volgt Vezelnet de verlaging, dus verlagen levert Glasline 35 op en handhaven 50; Glasline handhaaft dus het tarief en de uitkomst is (50 ; 50) (1)
+• Zonder garantie levert verlagen Glasline 70 op en handhaven 50; Glasline verlaagt dus en de uitkomst is (20 ; 70) (1)
+• Vezelnet kijkt vooruit: met garantie krijgt het 50, zonder garantie 20, dus het kiest de garantie; de garantie verandert de uitkomst van (20 ; 70) in (50 ; 50) (1)
+
+## OPGAVE IT-00170 3p | Kaas voor Marktfris
+Kaasmakerij Dorpsdijk wil een machine kopen om haar biologische kaas te verpakken, speciaal voor de supermarktketen Marktfris. De machine kan nergens anders worden ingezet. Eerst beslist Dorpsdijk of het investeert. Investeert Dorpsdijk, dan kiest Marktfris of het de inkoopprijs handhaaft of drukt. Dorpsdijk twijfelt over de investering.
+Marktfris sluit zich daarom aan bij het onafhankelijke keurmerk Eerlijke Keten. Het keurmerk controleert de inkoopprijzen en maakt elke prijsdruk openbaar. Drukt Marktfris na de investering van Dorpsdijk de inkoopprijs, dan betaalt Marktfris een boete van € 30.000 per jaar aan het keurmerk.
+De tabel toont de jaarwinsten in duizenden euro's, nog zonder die boete.
+Tabel Jaarwinst in duizenden euro's, (Dorpsdijk ; Marktfris), zonder boete:
+Situatie | Winst Dorpsdijk | Winst Marktfris
+Dorpsdijk investeert niet | 0 | 20
+Dorpsdijk investeert, Marktfris handhaaft de inkoopprijs | 30 | 50
+Dorpsdijk investeert, Marktfris drukt de inkoopprijs | -15 | 70
+Leg uit dat de aansluiting van Marktfris bij het keurmerk de uitkomst van het spel verandert. Gebruik de getallen uit de tabel.
+### ANTWOORD
+Met het keurmerk betaalt Marktfris 30 (duizend euro) boete als het de inkoopprijs drukt. Drukken levert dan 70 - 30 = 40 op. Handhaven levert 50 op. Marktfris handhaaft dus de inkoopprijs en zijn belofte is geloofwaardig. Dorpsdijk weet dit en kiest tussen 30 bij investeren en 0 bij niet investeren. Dorpsdijk investeert dus en de uitkomst is (30 ; 50). Zonder keurmerk zou Marktfris drukken, want 70 is meer dan 50. Dorpsdijk zou dan -15 verwachten en niet investeren, met als uitkomst (0 ; 20). Het keurmerk verandert de uitkomst dus van (0 ; 20) in (30 ; 50).
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Met het keurmerk levert drukken Marktfris 70 - 30 = 40 op (€ 30.000 is 30 duizend euro) en handhaven 50; 40 is minder dan 50, dus Marktfris handhaaft de inkoopprijs en de belofte is geloofwaardig (1)
+• Dorpsdijk weet dit, kiest tussen investeren (30) en niet investeren (0) en investeert dus; de uitkomst is (30 ; 50) (1)
+• Zonder keurmerk zou Marktfris drukken (70 is meer dan 50), zou Dorpsdijk -15 verwachten en niet investeren; de uitkomst was dan (0 ; 20), dus het keurmerk verandert de uitkomst van (0 ; 20) in (30 ; 50) (1)
+
+## OPGAVE IT-00171 3p | Standplaats bij festival Brandemeer
+Bij het nieuwe festivalterrein Brandemeer is plaats voor één eetkraam per seizoen. De bedrijven Frietfeest en Wokwagen kiezen tegelijk, zonder overleg, of ze met hun truck naar het terrein gaan. Komen beide, dan is het publiek te klein om beide trucks te laten verdienen en lijden ze verlies. Elk bedrijf heeft een eigen standplaats gereserveerd, de ene bij de hoofdingang en de andere bij de camping.
+Voordat de keuze wordt gemaakt, tekent Frietfeest een seizoenscontract voor stroom en water. Dit contract staat in de nieuwsbrief van de festivalorganisatie, dus Wokwagen kent het voordat het zijn keuze maakt. Frietfeest betaalt € 5.000 voor dit contract en kan het bedrag niet terugkrijgen.
+De tabel geeft de winst per seizoen zonder het contract. Komt Frietfeest wel, dan verandert het contract niets aan de winst in de tabel, want de kosten vervangen dan de standplaatskosten die al in de tabel zitten. Komt Frietfeest niet, dan betaalt het € 5.000 voor niets. Het bedrag wordt in de tabel in duizenden euro's weergegeven.
+Tabel Winst per seizoen in duizenden euro's, zonder contract, (Frietfeest ; Wokwagen):
+Keuzes | Winst (Frietfeest ; Wokwagen)
+Beide bedrijven komen | (-3 ; -3)
+Alleen Frietfeest komt | (8 ; 0)
+Alleen Wokwagen komt | (0 ; 8)
+Geen van beide komt | (0 ; 0)
+Leg uit hoe het seizoenscontract de uitkomst van het spel verandert ten opzichte van de situatie zonder contract. Gebruik de getallen uit de tabel.
+### ANTWOORD
+Zonder contract zijn er twee evenwichten: (8 ; 0) en (0 ; 8). Bij allebei kiest niemand beter door af te wijken, dus je kunt niet voorspellen welk bedrijf komt. Met het contract betaalt Frietfeest € 5.000, dat is 5 in de tabel, ook als het niet komt. Niet komen levert dan 0 - 5 = -5 op. Komen levert -3 of 8 op, en beide zijn meer dan -5. Komen is dus een dominante strategie voor Frietfeest. Wokwagen weet dit, want het contract staat in de nieuwsbrief. Het kiest tussen -3 bij komen en 0 bij niet komen en blijft dus thuis. De uitkomst is (8 ; 0). Het contract maakt de keuze van Frietfeest geloofwaardig en de uitkomst eenduidig.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Zonder contract zijn er twee evenwichten, (8 ; 0) en (0 ; 8). Bij beide evenwichten is niet te voorspellen welk bedrijf komt. (1)
+• Met contract levert niet komen Frietfeest 0 - 5 = -5 op. Komen levert -3 of 8 op, beide meer dan -5, dus komen is voor Frietfeest een dominante strategie. (1)
+• Wokwagen weet dit, want het contract is openbaar. Het kiest tussen komen (-3) en niet komen (0) en kiest niet komen. De uitkomst is (8 ; 0): het contract maakt de keuze van Frietfeest geloofwaardig en de uitkomst eenduidig. (1)
+
+## EXAMEN havo 2021-I 28 2p
+Werknemers spreken af meer elektrisch te rijden en houden hun brandstofverbruik bij op een lijstje bij de koffieautomaat. Is hier sprake van zelfbinding? Leg je antwoord uit.
+### ANTWOORD
+Ja: ze veranderen vrijwillig hun gedrag en zijn gebonden door de afspraak, doordat ze elkaar via het lijstje kunnen controleren. Volgens de aanvulling mag ook 'nee' punten opleveren bij een juiste duiding van zelfbinding en een consistente onderbouwing met de casus.
+
+## EXAMEN havo 2023-II 24 1p
+Geef een maatregel waarmee ABC geloofwaardig kan beloven nooit losgeld te betalen.
+### ANTWOORD
+ABC maakt publiek bekend nooit te betalen, zodat betalen reputatieschade geeft. Of ABC sluit vooraf een controleerbaar servicecontract af, zodat betalen die kosten nutteloos maakt. De negatieve gevolgen van betalen moeten blijken.
+
+## EXAMEN vwo 2022-II 8 3p
+Leport legt een pijpleiding aan en de bedrijven bouwen afvanginstallaties. Verklaar dat Leport een berovingsprobleem kan krijgen en dat de dreiging van de bedrijven om op te zeggen niet geloofwaardig is.
+### ANTWOORD
+De pijpleiding is een specifieke investering die Leport niet anders kan terugverdienen, dus Leport kan worden beroofd (2). De bedrijven hebben zelf verzonken kosten van € 39 miljoen, dus hun dreiging met opzeggen is niet geloofwaardig (1).
+
+## EXAMEN vwo 2025-I 16 2p
+Guarda adverteert met een vaste prijs voor 2025 plus een laagsteprijsgarantie: bij een lagere prijs bij de concurrent krijgt de klant 25% korting op die lagere prijs. Leg uit dat dit het risico op een prijzenoorlog beperkt.
+### ANTWOORD
+Guarda is gebonden aan het volgen van de prijsverlaging van de concurrent (1). De concurrent weet dat zijn omzet of winst bij een prijsverlaging daalt en heeft dus geen prikkel om de prijs te verlagen (1).
+

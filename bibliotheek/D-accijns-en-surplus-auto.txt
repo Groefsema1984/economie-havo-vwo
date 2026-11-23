@@ -121,7 +121,7 @@ Evenwicht bij Qv = Qa. Een heffing per stuk verschuift de aanbodlijn verticaal o
 ## OPGAVE IT-00181 1p | Accijns op frisdrank in Marenia
 In het land Marenia heft de overheid sinds kort een accijns van € 1,60 per fles frisdrank. De aanbieders dragen de accijns af aan de overheid.
 De figuur is een schets van de markt voor frisdrank. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns. Het evenwicht voor en na invoering van de accijns is aangegeven.
-Figuur (markt, schets zonder getallen): vraag P = 10 − 0.5Q, aanbod P = 2 + 0.3Q, heffing 1.6 per stuk
+De figuur is een schets van deze markt: vraag P = 10 − 0,5Q, aanbod P = 2 + 0,3Q, heffing 1.6 per stuk
 Welke combinatie geeft in de figuur juist aan hoe je de accijnsopbrengst en het welvaartsverlies arceert?
 ### OPTIES C
 A Accijnsopbrengst: de rechthoek tussen de prijs die de consument betaalt en de prijs die de aanbieder overhoudt, tot de nieuwe afzet. Welvaartsverlies: de driehoek tussen de vraaglijn en de aanbodlijn inclusief accijns, rechts van de nieuwe afzet.
@@ -137,7 +137,7 @@ Puntenverdeling:
 In het land Drevia voert de overheid een accijns in van € 3,00 per doos ontbijtgranen met veel suiker. De groothandels dragen de accijns af aan de overheid.
 De figuur is een schets van de markt voor deze ontbijtgranen. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns.
 Een raadslid wil de opbrengst van de accijns gebruiken voor gezondheidsprogramma's. Zij vraagt zich af of de overheid ook iets overhoudt aan de dozen die door de accijns niet meer worden verkocht.
-Figuur (markt, schets zonder getallen): vraag P = 14 − 1Q, aanbod P = 2 + 0.5Q, heffing 3 per stuk
+De figuur is een schets van deze markt: vraag P = 14 − 1Q, aanbod P = 2 + 0,5Q, heffing 3 per stuk
 Leg uit, met behulp van de figuur, dat het welvaartsverlies door de accijns de overheid niets oplevert.
 ### ANTWOORD
 Het welvaartsverlies is de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet. Dat zijn de dozen die door de accijns niet meer worden verkocht. De overheid krijgt de accijns alleen over dozen die wel worden verkocht: de opbrengst is de rechthoek tot de nieuwe afzet. Over de dozen in de driehoek wordt dus geen accijns betaald. Het surplus van deze transacties verdwijnt, en niemand ontvangt het, ook de overheid niet.
@@ -148,7 +148,7 @@ Puntenverdeling:
 ## OPGAVE IT-00255 3p | Heffing op afhaalkoffie in Orvelde
 De gemeente Orvelde wil het afval van wegwerpbekers verminderen. Daarom voert zij een heffing van € 0,90 per kop afhaalkoffie in. De koffiebars dragen de heffing af aan de gemeente. Ze rekenen een deel van de heffing door in de prijs.
 De figuur is een schets van de markt voor afhaalkoffie. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief heffing. Een wethouder zegt: 'Wat consumenten en koffiebars aan surplus verliezen, ontvangen wij als opbrengst.'
-Figuur (markt, schets zonder getallen): vraag P = 9 − 0.04Q, aanbod P = 3 + 0.02Q, heffing 0.9 per stuk
+De figuur is een schets van deze markt: vraag P = 9 − 0,04Q, aanbod P = 3 + 0,02Q, heffing 0,9 per stuk
 Beredeneer met behulp van de figuur dat de uitspraak van de wethouder onjuist is, en leid af wat dit betekent voor de doelmatigheid van de markt.
 ### ANTWOORD
 De heffing verhoogt de prijs, dus de afzet daalt. Consumenten en koffiebars verliezen samen een rechthoek (heffing × nieuwe afzet, tussen de twee aanbodlijnen) en een driehoek (tussen vraaglijn en oorspronkelijke aanbodlijn, over de afname van de afzet). Alleen de rechthoek is opbrengst voor de gemeente. De driehoek ontvangt niemand, dus de wethouder heeft ongelijk. Die driehoek is het welvaartsverlies: kopjes koffie die meer waard zijn dan ze kosten, worden niet meer verkocht. De markt is minder doelmatig.

@@ -1,3 +1,362 @@
+# LEERDOEL ECO-ALGEM-10
+domein: H
+onderwerp: H.belasting
+thema: Belastingen
+naam: Inkomstenbelasting box 1 berekenen
+doel: Ik kan uitrekenen hoeveel inkomstenbelasting iemand in box 1 betaalt.
+
+## UITLEG Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk
+Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen.
+
+## UITLEG Belasting berekenen met schijven, aftrekpost en heffingskorting
+Per schijf bereken je tarief × bedrag, tel op en trek daarna de heffingskortingen af. Rekenen alles tegen het hoogste tarief of de heffingskorting vergeten kost punten. Een aftrekpost verlaagt het belastbaar inkomen: voordeel = bedrag × marginaal tarief, dus hogere inkomens profiteren procentueel meer.
+
+## UITLEG Aftrekpost en heffingskorting
+Een aftrekpost verlaagt het belastbaar inkomen; het voordeel is het bedrag maal het marginale tarief. Een heffingskorting gaat in zijn geheel van de belasting af en is dus voordeliger. Denken dat een aftrekpost het volle bedrag oplevert is de veelgemaakte fout.
+
+## OPGAVE IT-00518 2p | Volgorde in box 1
+Tirza heeft in 2026 een bruto-inkomen van € 60.000. Zij betaalt € 8.000 hypotheekrente. Dat is haar enige aftrekpost. Hieronder staat hoe haar inkomstenbelasting in box 1 wordt berekend.
+Maak van onderstaande tekst een economisch juiste tekst.
+Tirza trekt eerst de ...(1)... van haar bruto-inkomen af. Haar belastbaar inkomen is dan ...(2).... Over dit bedrag berekent zij de belasting ...(3).... Daarna gaat de ...(4)... van de berekende belasting af.
+Kies uit: bij (1) aftrekpost / heffingskorting / inkomstenbelasting
+Kies uit: bij (2) € 52.000 / € 60.000 / € 68.000
+Kies uit: bij (3) per schijf / over het hele bedrag tegen het hoogste tarief / over het hele bedrag tegen het laagste tarief
+Kies uit: bij (4) heffingskorting / aftrekpost / schijf
+### ANTWOORD
+(1) aftrekpost, (2) € 52.000, (3) per schijf, (4) heffingskorting. Eerst 60.000 - 8.000 = 52.000. Dan reken je per schijf. Daarna trek je de heffingskorting van de belasting af.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende vier keuzes: bij (1) aftrekpost en bij (2) € 52.000 (1)
+• bij (3) per schijf en bij (4) heffingskorting (1)
+
+## OPGAVE IT-00519 3p | Belasting van een adviseur
+Wessel heeft in 2026 een bruto-inkomen van € 56.000. Hij betaalt € 6.000 hypotheekrente. Dat is zijn enige aftrekpost. Zijn algemene heffingskorting is € 1.819 en zijn arbeidskorting is € 5.007.
+De tarieven van box 1 staan in de tabel. Bron: Belastingdienst, tarieven 2026 (regels vereenvoudigd).
+Tabel Tarieven box 1, 2026:
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883 | 35,75%
+2 | meer dan € 38.883 tot en met € 78.426 | 37,56%
+3 | meer dan € 78.426 | 49,50%
+Bereken hoeveel inkomstenbelasting Wessel in 2026 moet betalen.
+Rond je eindantwoord af op twee decimalen.
+### ANTWOORD
+Belastbaar inkomen: 56.000 - 6.000 = € 50.000. Schijf 1: 38.883 x 0,3575 = € 13.900,67. Schijf 2: 11.117 x 0,3756 = € 4.175,55. Samen € 18.076,22. Min heffingskortingen 1.819 + 5.007 = 6.826. Te betalen: € 11.250,22.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende drie stappen: Belastbaar inkomen = 56.000 - 6.000 = € 50.000 (1)
+• Belasting per schijf: 38.883 x 0,3575 = € 13.900,67 en (50.000 - 38.883) x 0,3756 = € 4.175,55; samen € 18.076,22 (1)
+• Heffingskortingen eraf: 18.076,22 - 1.819 - 5.007 = € 11.250,22 (1)
+
+## OPGAVE IT-00520 3p | Gemiddeld tarief van een hogere inkomen
+Hanneke werkt als juridisch adviseur. Zij heeft in 2026 een bruto-inkomen van € 96.000 en betaalt € 6.000 hypotheekrente. Dat is haar enige aftrekpost.
+Haar algemene heffingskorting is € 0 en haar arbeidskorting is € 2.403. De tarieven van box 1 staan in de tabel. Bron: Belastingdienst, tarieven 2026 (regels vereenvoudigd).
+Tabel Tarieven box 1, 2026:
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883 | 35,75%
+2 | meer dan € 38.883 tot en met € 78.426 | 37,56%
+3 | meer dan € 78.426 | 49,50%
+Bereken het gemiddelde belastingtarief van Hanneke over haar belastbaar inkomen in 2026.
+Schat eerst: is het gemiddelde tarief hoger of lager dan 49,50%? Controleer daarmee je antwoord.
+Geef je antwoord in procenten met één decimaal.
+### ANTWOORD
+Belastbaar inkomen: 96.000 - 6.000 = 90.000. Belasting: 13.900,67 + 39.543 x 0,3756 = 14.852,35 + 11.574 x 0,495 = 5.729,13, samen € 34.482,15. Min 2.403 = € 32.079,15. Gemiddeld tarief: 32.079,15 : 90.000 x 100% = 35,6%.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende drie stappen: Belastbaar inkomen = 96.000 - 6.000 = € 90.000 en belasting per schijf: 38.883 x 0,3575 + (78.426 - 38.883) x 0,3756 + (90.000 - 78.426) x 0,495 = € 34.482,15 (1)
+• Te betalen belasting = 34.482,15 - 2.403 = € 32.079,15 (1)
+• Gemiddeld tarief = 32.079,15 : 90.000 x 100% = 35,6% (1)
+
+## OPGAVE IT-00521 2p | Hypotheekrente bij een hoog inkomen
+Lars heeft in 2026 een inkomen van € 85.000, voordat de hypotheekrente is afgetrokken. Hij betaalt € 12.000 hypotheekrente.
+Voor aftrekposten geldt bij een inkomen boven € 78.426 een beperking: een aftrekpost levert dan maximaal 37,56% minder belasting op. Het eigenwoningforfait en de heffingskortingen blijven buiten beschouwing; de regels zijn vereenvoudigd.
+Bron: Belastingdienst, Tariefsaanpassing aftrekposten als u hoog inkomen hebt (2026).
+Bereken hoeveel minder inkomstenbelasting Lars in 2026 betaalt door de aftrek van de hypotheekrente.
+### ANTWOORD
+Het inkomen van Lars is hoger dan € 78.426. Een aftrekpost levert dan maximaal 37,56% op. Het voordeel is 12.000 x 0,3756 = € 4.507,20. Hij betaalt dus € 4.507,20 minder belasting.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende twee stappen: Het inkomen is hoger dan € 78.426, dus de aftrekpost levert maximaal 37,56% op (1)
+• 12.000 x 0,3756 = € 4.507,20 minder belasting (1)
+
+## EXAMEN havo 2021-I 29 2p
+Een werkneemster met een hybride leaseauto van € 45.000 overweegt private lease. Toon met een berekening van de maandelijkse kosten aan welke keuze voor 2018 het best is. Gebruik de bronnen over bijtelling, tarieven en de advertentie.
+### ANTWOORD
+Private lease. Zakelijk: 51,95% van 22% van € 45.000 = € 5.143 extra belasting per jaar, dus € 428 per maand. Private lease kost € 415 per maand en is dus goedkoper.
+
+## EXAMEN havo 2021-II 21 3p
+Bereken met bron 2 hoeveel minder inkomensheffing Zacharia als startende zelfstandige betaalt dan Willem, bij een inkomen van € 33.333 voor beiden. Alleen de aftrekposten uit de bron tellen.
+### ANTWOORD
+Aftrek 7.280 + 2.123 + 0,14 × (33.333 − 7.280 − 2.123) = € 12.753,20 (1). Beiden vallen in de tweede schijf van 40,85% (1). Voordeel = 40,85% × 12.753,20 = € 5.209,68 (1).
+
+## EXAMEN havo 2022-III 2 2p
+Een werknemer heeft een belastbaar arbeidsinkomen van € 40.000 en geen aftrekposten. Onder het oude stelsel was de gemiddelde belastingdruk 27,9%. Toon met een berekening aan of de gemiddelde belastingdruk onder het nieuwe stelsel is gedaald (gebruik bron 1 en 2).
+### ANTWOORD
+Tarief 36,93% geeft € 14.772 belasting. Min heffingskortingen € 1.406 en € 2.857 geeft € 10.509 te betalen. Gemiddelde druk: 10.509 : 40.000 × 100% = 26,3%. Dat is lager dan 27,9%, dus de druk is gedaald.
+
+## EXAMEN havo 2023-I 15 2p
+Meryem kiest de auto met de laagste bijtelling. Bereken hoeveel extra belasting zij in 2023 betaalt bij een bruto-inkomen van € 35.000. Gebruik de drie bronnen.
+### ANTWOORD
+Ze kiest de Hyundai: bijtelling 14% van € 14.065 = € 1.969,10. Haar inkomen blijft in schijf 1: 37,1% van € 1.969,10 = € 730,54. Een andere auto geeft maximaal 1 punt.
+
+## EXAMEN havo 2024-II 16 2p
+Denise volgt een jaar een masteropleiding: collegegeld € 2.300 en materialen € 400. Kosten boven een drempel van € 300 zijn aftrekbaar. Haar bruto-inkomen is € 36.000 en ze heeft geen andere aftrekposten. Gebruik bron 1. Bereken haar netto-studiekosten.
+### ANTWOORD
+Kosten € 2.700; aftrekbaar 2.700 − 300 = € 2.400. Inkomen valt in schijf 1: voordeel 2.400 x 0,1903 = € 456,72. Netto-studiekosten 2.700 − 456,72 = € 2.243,28.
+
+## EXAMEN havo 2025-I 25 2p
+Gebruik bron 1, 2 en 3. Bereken hoeveel euro een alleenstaande oudere door maatregel 3 extra aan belasting in box 1 betaalt.
+### ANTWOORD
+Jaarinkomen € 1.330,76 × 12 = € 15.969,12 (1). Belasting met maatregel: × 0,3693 = € 5.897; zonder: × 0,1903 = € 3.038; verschil ongeveer € 2.859 (1). Direct × (0,3693 − 0,1903) = € 2.858 geeft ook 2 punten.
+
+## EXAMEN havo 2025-II 24 2p
+Bereken met de tabel met nieuwe tarieven en heffingskortingen hoeveel belasting iemand met een belastbaar inkomen van $ 50.000 betaalt na de maatregelen.
+### ANTWOORD
+Schijf 1: 44.725 x 0,20 = $ 8.945. Schijf 2: (50.000 - 44.725) x 0,24 = $ 1.266. Samen $ 10.211. Min heffingskorting $ 1.350 geeft $ 8.861.
+
+## EXAMEN havo 2025-II 25 3p
+Bereken de verandering van het gemiddelde belastingtarief in procentpunten voor iemand met een belastbaar inkomen van $ 40.000, door de nieuwe tarieven en heffingskorting.
+### ANTWOORD
+Oud: 40.000 x 0,32 - 1.250 = $ 11.550, dus 28,9%. Nieuw: 40.000 x 0,20 - 2.375 = $ 5.625, dus 14,1%. Verschil: 14,8 procentpunten daling.
+
+## EXAMEN havo 2026-I 8 2p
+Met een tabel met twee schijven (tot € 76.817 tegen 37,5%, daarboven 49,5%) bereken je het gemiddeld belastingtarief bij een belastbaar inkomen van € 142.854.
+### ANTWOORD
+Totale belasting: € 76.817 × 0,375 + (€ 142.854 − € 76.817) × 0,495 = € 61.494, 1p. Gemiddeld tarief: € 61.494 : € 142.854 × 100% = 43%, 1p. Rekenen met niet-afgeronde bedragen mag.
+
+## EXAMEN vwo 2021-I 26 2p
+Tarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.
+### ANTWOORD
+Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.
+
+## EXAMEN vwo 2022-III 25 3p
+Bereken het belastingvoordeel voor een modale werknemer (€ 38.500) door het nieuwe stelsel, met drie schijven en een afbouwende arbeidskorting ten opzichte van het oude stelsel met vier schijven en een vaste korting.
+### ANTWOORD
+Oud: 12.000 × 0,37 + 25.000 × 0,41 + 1.500 × 0,42 − 1.000 = € 14.320. Nieuw: 20.000 × 0,35 + 18.500 × 0,40 = € 14.400 (1p). Arbeidskorting 1.500 − 23,5 × 40 = € 560 (1p). Nieuw € 13.840; voordeel € 480 (1p). Het voorschrift noemt de korting foutief 940; 560 klopt met 13.840.
+
+
+# LEERDOEL ECO-ALGEM-11
+domein: H
+onderwerp: H.belasting
+thema: Belastingen
+naam: Heffingskorting werkt nivellerend
+doel: Ik kan uitleggen waarom heffingskorting de inkomensverschillen kleiner maakt.
+
+## UITLEG Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk
+Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen.
+
+## UITLEG Inkomensverdeling en belastingstelsel
+Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout.
+
+## UITLEG Aftrekpost en heffingskorting
+Een aftrekpost verlaagt het belastbaar inkomen; het voordeel is het bedrag maal het marginale tarief. Een heffingskorting gaat in zijn geheel van de belasting af en is dus voordeliger. Denken dat een aftrekpost het volle bedrag oplevert is de veelgemaakte fout.
+
+## OPGAVE IT-00523 2p | Een vaste korting voor iedereen
+In het land Zuidmark krijgt iedere belastingbetaler dezelfde heffingskorting van € 3.000. Die korting gaat af van de belasting die je moet betalen. Lotte heeft een laag inkomen, Bram een hoog inkomen.
+Netto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.
+Tabel Inkomen en belasting per jaar (in euro's):
+| Lotte | Bram
+Bruto-inkomen | 20.000 | 80.000
+Belasting vóór korting | 7.000 | 28.000
+Heffingskorting | 3.000 | 3.000
+Leg uit dat deze heffingskorting nivellerend werkt.
+Maak de redenering af.
+Schakel 1 (gegeven): iedereen krijgt hetzelfde vaste bedrag aan heffingskorting.
+Schakel 2: Vergelijk dit vaste bedrag met het inkomen en de belasting van Lotte en van Bram. ......
+Schakel 3: Noem het effect op het verschil tussen de netto-inkomens van Lotte en Bram. ......
+### ANTWOORD
+Elke belastingbetaler krijgt € 3.000. Voor Lotte is dat een groot deel van haar inkomen en haar belasting, voor Bram maar een klein deel. Lotte gaat er daardoor in verhouding meer op vooruit. De netto-inkomens komen dichter bij elkaar (verhouding van 4,0 naar 3,4). Dat is nivellering.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Het vaste bedrag is voor Lotte (laag inkomen) een veel groter deel van haar inkomen en belasting dan voor Bram (hoog inkomen). (1)
+• Daardoor stijgt het netto-inkomen van Lotte in verhouding meer dan dat van Bram, dus de netto-inkomens komen dichter bij elkaar (het verschil wordt kleiner): nivellering. (1)
+
+## OPGAVE IT-00524 3p | Een korting die afneemt
+In het land Westerhaven krijgen mensen met een laag inkomen een hoge heffingskorting. Bij een hoger inkomen wordt de korting kleiner. Noor heeft een laag inkomen, Pieter een hoog inkomen.
+Netto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.
+Tabel Inkomen en belasting per jaar (in euro's):
+| Noor | Pieter
+Bruto-inkomen | 24.000 | 96.000
+Belasting vóór korting | 7.200 | 36.000
+Heffingskorting | 2.800 | 400
+Beredeneer waarom de heffingskorting in Westerhaven nivellerend werkt.
+Vergelijk in je antwoord Noor en Pieter en noem het effect op het verschil tussen hun netto-inkomens.
+### ANTWOORD
+De korting is bij Noor € 2.800 en bij Pieter € 400: ze daalt bij een hoger inkomen. Noor gaat netto in verhouding veel meer vooruit dan Pieter. Zonder korting is de verhouding 60.000 : 16.800 = 3,6, met korting 60.400 : 19.600 = 3,1. De netto-inkomens komen dichter bij elkaar: nivellering.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: De heffingskorting daalt bij een hoger inkomen: Noor (laag inkomen) krijgt € 2.800, Pieter (hoog inkomen) maar € 400. (1)
+• Daardoor stijgt het netto-inkomen van Noor in verhouding veel meer dan dat van Pieter (Noor betaalt in verhouding minder belasting). (1)
+• Het verschil tussen de netto-inkomens wordt kleiner (de verhouding daalt van 3,6 naar 3,1): de inkomens komen dichter bij elkaar, dus nivellering. (1)
+
+## OPGAVE IT-00525 2p | Hogere heffingskorting in Brevonia
+De regering van Brevonia verhoogt de heffingskorting voor inkomens tot € 40.000 van € 1.200 naar € 2.000 per jaar. Mensen met een hoger inkomen hebben geen heffingskorting en merken niets van de maatregel.
+Anouk heeft een laag inkomen, Dirk een hoog inkomen. Netto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.
+Tabel Inkomen en belasting per jaar (in euro's):
+| Anouk | Dirk
+Bruto-inkomen | 18.000 | 72.000
+Belasting vóór korting | 5.400 | 25.200
+Toon met een berekening aan dat deze verhoging van de heffingskorting leidt tot meer nivellering.
+Vergelijk het netto-inkomen van Dirk met dat van Anouk vóór en na de verhoging.
+### ANTWOORD
+Vóór de verhoging: Anouk 18.000 − 5.400 + 1.200 = 13.800, Dirk 72.000 − 25.200 = 46.800. Verhouding 46.800 : 13.800 = 3,4. Daarna: Anouk 14.600, verhouding 46.800 : 14.600 = 3,2. De verhouding wordt kleiner, dus het netto-verschil neemt af: meer nivellering.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Netto-inkomens vóór de verhoging: Anouk 18.000 − 5.400 + 1.200 = 13.800 en Dirk 72.000 − 25.200 = 46.800; verhouding 46.800 : 13.800 = 3,4. Na de verhoging: Anouk 18.000 − 5.400 + 2.000 = 14.600; verhouding 46.800 : 14.600 = 3,2. (1)
+• Conclusie: de verhouding (het verschil) tussen de netto-inkomens wordt kleiner (3,4 wordt 3,2), dus er is meer nivellering. (1)
+
+## EXAMEN havo 2023-II 15 2p
+Toon met een berekening aan dat het stelsel in 2014 meer nivelleert dan in het jaar ervoor, door het netto-inkomen van hoog en laag te vergelijken.
+### ANTWOORD
+Netto-inkomen laag: 20.000 − 7.270 + 2.093 + 2.097 = 16.920; hoog: 120.000 − 55.616 + 1.362 + 367 = 66.113 (1). Verhouding 66.113 : 16.920 = 3,9, kleiner dan 4,1 dus meer nivellering (1).
+
+## EXAMEN havo 2025-II 26 2p
+Leg uit of de verhoging van de heffingskorting een nivellerend of denivellerend effect heeft op de secundaire inkomensverdeling.
+### ANTWOORD
+Nivellerend: lagere inkomens betalen door de hogere heffingskorting in verhouding minder belasting dan hogere inkomens, dus de inkomensverschillen worden kleiner. Het tweede punt hangt af van een juiste uitleg.
+
+## EXAMEN vwo 2021-I 25 2p
+In een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.
+### ANTWOORD
+Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.
+
+## EXAMEN vwo 2021-I 26 2p
+Tarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.
+### ANTWOORD
+Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.
+
+## EXAMEN vwo 2022-II 2 2p
+De heffingskorting voor zelfstandigen gaat € 2.000 omlaag in een progressief stelsel. Beargumenteer hoe de Lorenzcurve van de secundaire inkomens van zzp'ers verschuift.
+### ANTWOORD
+Lage inkomens betalen relatief meer belasting dan hoge, dus de inkomensverschillen worden groter (1). Door deze denivellering schuift de Lorenzcurve van de secundaire inkomens naar buiten (1).
+
+
+# LEERDOEL ECO-ALGEM-12
+domein: H
+onderwerp: H.belasting
+thema: Belastingen
+naam: Grens aan aftrektarief werkt nivellerend
+doel: Ik kan uitleggen waarom een grens aan het aftrektarief de inkomensverschillen kleiner maakt.
+
+## UITLEG Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk
+Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen.
+
+## UITLEG Belasting berekenen met schijven, aftrekpost en heffingskorting
+Per schijf bereken je tarief × bedrag, tel op en trek daarna de heffingskortingen af. Rekenen alles tegen het hoogste tarief of de heffingskorting vergeten kost punten. Een aftrekpost verlaagt het belastbaar inkomen: voordeel = bedrag × marginaal tarief, dus hogere inkomens profiteren procentueel meer.
+
+## UITLEG Inkomensverdeling en belastingstelsel
+Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout.
+
+## OPGAVE IT-00301 3p | Dezelfde aftrekpost, ander voordeel
+Ravi en Elin betalen allebei € 8.000 hypotheekrente per jaar. Het belastbaar inkomen van Ravi is € 32.000 en dat van Elin € 95.000. Dit zijn bedragen vóór aftrek van de hypotheekrente.
+De rente is een aftrekpost: zij verlaagt het belastbaar inkomen. Boven een belastbaar inkomen van € 78.426 geldt voor aftrekposten maximaal 37,56%. Bron: Belastingdienst, tarieven 2026.
+Tabel Schijventarief box 1, 2026:
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883 | 35,75%
+2 | € 38.883 tot en met € 78.426 | 37,56%
+3 | meer dan € 78.426 | 49,50%
+Bereken hoeveel euro meer belastingvoordeel Elin van de hypotheekrente heeft dan Ravi in 2026.
+Doe het als volgt:
+- bereken het voordeel van Ravi;
+- bereken het voordeel van Elin;
+- bereken het verschil.
+### ANTWOORD
+Ravi: 8.000 x 35,75% = € 2.860,00. Elin zit boven € 78.426, dus maximaal 37,56%: 8.000 x 37,56% = € 3.004,80. Verschil: 3.004,80 - 2.860,00 = € 144,80. Elin heeft € 144,80 meer voordeel.
+Puntenverdeling:
+• Rond bedragen af op twee decimalen. Voordeel Ravi: 8.000 x 0,3575 = € 2.860,00 (1)
+• Voordeel Elin: 8.000 x 0,3756 = € 3.004,80 (grens) (1)
+• Verschil: 3.004,80 - 2.860,00 = € 144,80 (1)
+
+## OPGAVE IT-00303 3p | Onderhoud van een monument
+Sofie en Joost zijn eigenaar van een verzonnen rijksmonument in Oudebrug. Zij hebben beiden dit jaar € 10.000 onderhoudskosten aan hun pand, die in 2026 volledig aftrekbaar zijn. Het belastbaar inkomen van Sofie is € 62.000 en dat van Joost € 118.000, beide vóór aftrek.
+Boven een belastbaar inkomen van € 78.426 geldt voor aftrekposten maximaal 37,56%.
+Tabel Schijventarief box 1, 2026:
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883 | 35,75%
+2 | € 38.883 tot en met € 78.426 | 37,56%
+3 | meer dan € 78.426 | 49,50%
+Beredeneer met een berekening dat de grens aan het aftrektarief het verschil in netto-inkomen tussen Sofie en Joost kleiner maakt.
+### ANTWOORD
+Zonder grens krijgt Joost 10.000 x 49,50% = € 4.950,00 terug, Sofie 10.000 x 37,56% = € 3.756,00. Met grens krijgt Joost ook € 3.756,00: € 1.194,00 minder. Sofie houdt hetzelfde. Het netto-inkomensverschil wordt kleiner.
+Puntenverdeling:
+• Rond bedragen af op twee decimalen. Zonder grens: Joost 10.000 x 0,495 = € 4.950,00 voordeel; Sofie 10.000 x 0,3756 = € 3.756,00 (1)
+• Met grens krijgt Joost 3.756,00, dus € 1.194,00 minder (4.950,00 - 3.756,00); Sofie verandert niet (1)
+• Joost houdt € 1.194,00 minder over en Sofie even veel, dus het verschil in netto-inkomen wordt kleiner (1)
+
+## OPGAVE IT-00356 2p | Grens aan het aftrektarief bij hypotheekrente
+In 2026 betalen Bas Verhoeven (bruto-inkomen € 60.000) en Mila Terpstra (bruto-inkomen € 120.000) allebei € 8.000 hypotheekrente. Die rente is een aftrekpost in box 1. Na aftrek is het belastbaar inkomen van Bas € 52.000 en dat van Mila € 112.000.
+Boven een belastbaar inkomen van € 78.426 levert een aftrekpost maximaal 37,56% belasting op. Zonder die grens zou Mila 49,50% besparen. Bron: Belastingdienst, Tariefsaanpassing aftrekposten als u hoog inkomen hebt (2026), https://www.belastingdienst.nl/wps/wcm/connect/nl/aftrek-en-kortingen/content/afbouw-tarief-aftrekposten-bij-hoog-inkomen
+Leg uit dat de grens van 37,56% voor aftrekposten nivellerend werkt.
+Vergelijk in je antwoord Bas en Mila.
+### ANTWOORD
+Zonder grens bespaart Mila 49,5% over haar rente en Bas 37,56%. Met de grens bespaart ook Mila maximaal 37,56%. Zij houdt dus minder voordeel over dan zonder grens. Daardoor wordt het verschil tussen het netto-inkomen van Mila en Bas kleiner. Dat is nivellerend.
+Puntenverdeling:
+• Een juiste uitleg bevat de volgende twee punten (oorzaak, tussenstap, gevolg): Zonder de grens zou de aftrek bij Mila 49,50% opleveren en bij Bas 37,56%. Met de grens levert de aftrek bij beiden maximaal 37,56% op, dus Mila besparen minder dan zonder grens (€ 3.004,80 in plaats van € 3.960,00 over € 8.000 rente). (1)
+• Het belastingvoordeel van de hoge inkomens wordt daardoor kleiner, waardoor het verschil tussen de netto-inkomens van hoge en lage inkomens kleiner wordt (nivellerend). (1)
+
+## OPGAVE IT-00359 3p | Een grens aan de aftrek
+Kerstin en Dirk wonen in Kleinwerd. Kerstin heeft een belastbaar inkomen van € 45.000,00 en Dirk van € 110.000,00, beide vóór aftrek van hypotheekrente. Zij betalen allebei € 5.000,00 hypotheekrente per jaar. Deze rente is aftrekbaar. Na de aftrek blijft ieders inkomen in dezelfde schijf.
+Nu geldt voor een belastbaar inkomen boven € 78.426,00 (vóór aftrek) een maximaal aftrektarief van 37,56%. Een politieke partij wil deze grens afschaffen. Dirk zou zijn rente dan tegen het hoogste schijftarief aftrekken.
+Gebruik bron 1.
+Tabel Bron 1 Schijventarief box 1, 2026 (Belastingdienst, https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen):
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883,00 | 35,75%
+2 | meer dan € 38.883,00 tot en met € 78.426,00 | 37,56%
+3 | meer dan € 78.426,00 | 49,50%
+Leg met een berekening uit dat de grens aan het aftrektarief nivellerend werkt. Vergelijk in je antwoord Kerstin en Dirk.
+### ANTWOORD
+Zonder grens krijgt Dirk 5.000,00 × 0,495 = € 2.475,00 voordeel en Kerstin 5.000,00 × 0,3756 = € 1.878,00. Met de grens krijgt Dirk ook 5.000,00 × 0,3756 = € 1.878,00. Hij betaalt dus € 597,00 meer belasting. Kerstin merkt niets. Het verschil in netto-inkomen tussen hoog en laag inkomen wordt kleiner: nivellerend.
+Puntenverdeling:
+• . Een volledig antwoord heeft drie schakels (berekening voor beide personen, effect van de grens, conclusie nivellerend). Zonder de grens is het voordeel van de rente voor Dirk 5.000,00 × 0,495 = € 2.475,00 en voor Kerstin 5.000,00 × 0,3756 = € 1.878,00. Dirk heeft dus meer voordeel dan Kerstin. (1)
+• Met de grens is het voordeel van Dirk 5.000,00 × 0,3756 = € 1.878,00. Dirk betaalt daardoor € 597,00 meer belasting (2.475,00 − 1.878,00). Voor Kerstin verandert er niets. (1)
+• Het verschil in voordeel tussen hoog en laag inkomen verdwijnt, dus het verschil in netto-inkomen tussen Dirk en Kerstin wordt kleiner: de grens werkt nivellerend. (1)
+
+## OPGAVE IT-00526 3p | Zorgkosten en de grens aan de aftrek
+Mirte en Joris wonen in Zandmeer. Mirte heeft een belastbaar inkomen van € 52.000,00 en Joris van € 95.000,00, beide vóór aftrek. Zij hebben allebei € 4.000,00 aan aftrekbare zorgkosten. Na de aftrek blijft ieders inkomen in dezelfde schijf.
+Voor een belastbaar inkomen boven € 78.426,00 (vóór aftrek) geldt nu een maximaal aftrektarief van 37,56%. De regering overweegt deze grens af te schaffen. Joris zou zijn zorgkosten dan tegen het tarief van zijn hoogste schijf aftrekken.
+Tabel Bron 1 Schijventarief box 1, 2026 (vereenvoudigd). Bron: Belastingdienst, https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen:
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883,00 | 35,75%
+2 | meer dan € 38.883,00 tot en met € 78.426,00 | 37,56%
+3 | meer dan € 78.426,00 | 49,50%
+Beredeneer met een berekening dat de grens aan het aftrektarief nivellerend werkt. Vergelijk in je antwoord Mirte en Joris.
+Gebruik bron 1.
+Doe het als volgt:
+- bereken het belastingvoordeel van beiden zonder de grens;
+- bereken wat de grens verandert voor Joris en voor Mirte;
+- trek een conclusie over het verschil in netto-inkomen.
+### ANTWOORD
+Zonder grens krijgt Joris 4.000,00 × 0,495 = € 1.980,00 terug en Mirte 4.000,00 × 0,3756 = € 1.502,40. Met grens krijgt Joris ook € 1.502,40: € 477,60 minder. Mirte merkt niets. Het verschil in netto-inkomen wordt kleiner: nivellerend.
+Puntenverdeling:
+• Een volledig antwoord heeft drie schakels: voordeel zonder grens, effect van de grens, conclusie. Rond bedragen af op twee decimalen. Zonder grens is het voordeel van Joris 4.000,00 × 0,495 = € 1.980,00 (marginaal tarief 49,50%) en van Mirte 4.000,00 × 0,3756 = € 1.502,40. Joris heeft dus meer voordeel dan Mirte. (1)
+• Met de grens is het voordeel van Joris 4.000,00 × 0,3756 = € 1.502,40. Hij krijgt € 477,60 minder terug (1.980,00 − 1.502,40), dus hij betaalt meer belasting. Voor Mirte verandert er niets. (1)
+• Het extra voordeel voor het hoge inkomen verdwijnt, dus het verschil in netto-inkomen tussen Joris en Mirte wordt kleiner: de grens werkt nivellerend. (1)
+
+## OPGAVE IT-00534 3p | Hypotheekrente en de grens aan het aftrektarief
+Anika en Bart wonen in Rivierstad. Zij betalen allebei € 10.000,00 hypotheekrente. Anika heeft een primair inkomen van € 60.000,00 en Bart van € 120.000,00. Na de aftrek blijft ieders inkomen in dezelfde schijf.
+Het besteedbare inkomen vóór het voordeel van de aftrek is € 46.000,00 voor Anika en € 84.000,00 voor Bart. Het voordeel van de aftrek komt daar nog bij. Boven € 78.426,00 mag een aftrekpost maximaal 37,56% opleveren (de grens).
+Gebruik de tabel.
+Tabel Schijventarief box 1, 2026 (vereenvoudigd). Bron: Belastingdienst, https://www.belastingdienst.nl/wps/wcm/connect/nl/voorlopige-aanslag/content/voorlopige-aanslag-tarieven-en-heffingskortingen:
+Schijf | Belastbaar inkomen | Tarief
+1 | tot en met € 38.883,00 | 35,75%
+2 | meer dan € 38.883,00 tot en met € 78.426,00 | 37,56%
+3 | meer dan € 78.426,00 | 49,50%
+Toon met een berekening aan dat de grens aan het aftrektarief het verschil tussen het besteedbare inkomen van Bart en dat van Anika kleiner maakt. Bereken daarvoor de verhouding tussen het inkomen van Bart en dat van Anika voor het primaire inkomen en voor het besteedbare inkomen, zonder en met de grens. Rond de verhoudingen af op twee decimalen.
+### ANTWOORD
+Primair: 120.000 : 60.000 = 2,00. Zonder grens: voordeel Anika 10.000 × 0,3756 = € 3.756,00, Bart 10.000 × 0,495 = € 4.950,00. Besteedbaar: Anika € 49.756,00, Bart € 88.950,00, verhouding 1,79. Met grens krijgt Bart € 3.756,00: € 87.756,00, verhouding 1,76. De verhouding wordt kleiner, dus de grens werkt nivellerend.
+Puntenverdeling:
+• . Rond bedragen af op twee decimalen en verhoudingen op twee decimalen. Zonder grens trekt Bart af tegen 49,50% en Anika tegen 37,56%: voordeel Anika 10.000,00 × 0,3756 = € 3.756,00 en voordeel Bart 10.000,00 × 0,495 = € 4.950,00. Met grens is het voordeel van Bart 10.000,00 × 0,3756 = € 3.756,00. (1)
+• Besteedbaar zonder grens: Anika 46.000,00 + 3.756,00 = € 49.756,00 en Bart 84.000,00 + 4.950,00 = € 88.950,00, verhouding 88.950,00 : 49.756,00 = 1,79. Met grens: Bart 84.000,00 + 3.756,00 = € 87.756,00, verhouding 87.756,00 : 49.756,00 = 1,76. Primair: 120.000,00 : 60.000,00 = 2,00. (1)
+• Conclusie: de verhouding wordt kleiner (van 1,79 naar 1,76, en beide zijn kleiner dan de primaire 2,00), dus het verschil tussen de besteedbare inkomens wordt kleiner: de grens werkt nivellerend. (1)
+
+## EXAMEN havo 2022-III 1 3p
+Maak een economisch juiste redenering met zeven open plekken over de inkomstenbelasting. Het gaat om primaire of secundaire inkomens, het stijgen of dalen van marginale tarieven per inkomensgroep, het effect op de inkomensverdeling van tariefaanpassing en van de beperkte hypotheekrenteaftrek, en de ontwikkeling van indirecte belastingen.
+### ANTWOORD
+(1) primaire, (2) stijgt, (3) daalt, (4) daalt, (5) denivellerend, (6) nivellerend, (7) stijgen. Score: 7 juist = 3p, 5-6 juist = 2p, 3-4 juist = 1p, minder dan 3 = 0p.
+
+## EXAMEN havo 2024-I 17 2p
+Het maximale aftrektarief voor hypotheekrente gaat naar 37,05%. Leg uit dat de secundaire inkomensverdeling binnen de groep woningbezitters daardoor gelijker wordt.
+### ANTWOORD
+Hoge inkomens verliezen belastingvoordeel (tarief 49,50% wordt 37,05%) en betalen meer belasting. Voor lage inkomens verandert niets. Zo worden de verschillen tussen lage en hoge inkomens na belasting kleiner.
+
+## EXAMEN vwo 2018-I 20 2p
+Het voorstel verlaagt de maximale teruggave van 50% naar 40%, beperkt de aftrek tot een schuld van € 400.000 en verlaagt het middentarief van 42% naar 40%. Verklaar dat dit nivellerend kan werken.
+### ANTWOORD
+Hoge inkomens kunnen minder rente aftrekken en krijgen een lager percentage terug (1). Middeninkomens profiteren vooral van het lagere tarief in de middelste schijf (1). Let op: de tweede deelscore altijd toekennen (aanvulling).
+
+
 # LEERDOEL ECO-BELAS-01
 domein: H
 onderwerp: H.belasting
