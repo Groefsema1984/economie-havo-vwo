@@ -33,7 +33,7 @@ def domein(vraag, context=''):
     return next(d for d, _ in DOMEIN_WOORDEN if score[d] == beste)
 
 def schoon(s):
-    s = re.sub(r'\\([-\[\]_*#!>.&])', r'\1', s)
+    s = re.sub(r'\\([-\[\]_*#!<>=+.&])', r'\1', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', ' ', s)   # voetregel van aanvulling/erratum
     s = re.sub(r"(?:(?<=[a-zà-ü]{3})|(?<=[A-Z]))- (?!en\b|of\b|tot\b|t/m\b)(?=[a-zà-ü]{3})", "-", s)   # afbreekstreepje aan regeleinde: 'principaal- agent'
@@ -113,7 +113,7 @@ def opgaven(tekst):
 def deelscores(a):
     """'… lager is 1' aan het eind van een regel -> '… lager is (1p)'; niet bij 'grafiek 3' of 'indien … juist 2'"""
     a = re.sub(r'(?m)^(•.{20,}) (\d) of$', r'\1 \2\nof', a)
-    return '\n'.join(re.sub(r' (\d)$', r' (\1p)', r) if (len(r) > 25 or r.startswith('•')) and 'indien' not in r and not r.endswith(' 0') else r for r in a.split('\n')).strip()
+    return '\n'.join(re.sub(r' (\d)$', r' (\1p)', r) if (len(r) > 25 or r.startswith('•') or re.search(r'= -?[\d,.]+%? \d$', r)) and 'indien' not in r and not r.endswith(' 0') else r for r in a.split('\n')).strip()
 
 def antwoorden(tekst):
     t = schoon(tekst)
@@ -186,6 +186,7 @@ def main():
         for x in sorted(glob.glob(f.replace('_OPGAVEN.pdf.md', '_*.pdf.md'))):
             if x in (f, cvp) or not re.search(r'AANVUL|ERRAT', os.path.basename(x).upper()): continue
             xt = open(x, encoding='utf-8').read()
+            if re.sub(r'\s+', ' ', xt).strip()[-150:] in re.sub(r'\s+', ' ', cvtekst + optekst): continue   # staat al in het pdf
             if 'OPGAVEN' in os.path.basename(x).upper(): optekst += '\n\n' + xt
             else: cvtekst += '\n\n' + xt
         ops = opgaven(optekst); cv = antwoorden(cvtekst)
@@ -203,7 +204,7 @@ def main():
         altijd = {int(x) for x in re.findall(r'bij vraag (\d+) moet(?:en)? altijd', schoon(cvtekst))}
         vervangen = set()
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
-        for m in re.finditer(r'vraag (\d+),?(?: bij de \w+ deelscore,?)? moet:?\s*(?!worden toegevoegd)([^\n]*?(?:\n(?!\s*(?:en )?Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
+        for m in re.finditer(r'vraag (\d+),?(?: bij de \w+ deelscore,?)? moet:?(?: bij de Opmerkingen?,?(?: bij het \w+ opsommingsstreepje)?)?\s*(?!worden toegevoegd)([^\n]*?(?:\n(?!\s*(?:en )?Op pagina)[^\n]*)*?)\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*en\s*\n|\n\s*en Op pagina|\n\s*Toelichting|\n\s*Op pagina|\n\s*NB |\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
             n = int(m.group(1))
             oud, a = (deelscores(re.sub(r'\s*\n\s*', '\n', x).strip()) for x in m.group(2, 3))
             pat = r'\s+'.join(map(re.escape, oud.split()))
@@ -211,6 +212,9 @@ def main():
                 cv[n] = re.sub(pat, lambda _: a, cv[n], count=1); vervangen.add(n)
             elif re.match(r'(Een voorbeeld|Voorbeelden)', oud):
                 cv[n] = a; vervangen.add(n)
+        for m in re.finditer(r'bij vraag (\d+),? moet de Opmerking geschrapt worden', schoon(cvtekst)):
+            n = int(m.group(1))
+            if n in cv: cv[n] = re.sub(r'\nOpmerking [^\n]*', '', cv[n]); vervangen.add(n)
         # overige aanvullingen ('bij vraag 20 moet naast ... ook ... goed gerekend worden') -> achter het antwoordmodel
         ai = cvtekst.find('aanvulling op het correctievoorschrift 20')
         if ai >= 0:
