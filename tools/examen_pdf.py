@@ -36,7 +36,7 @@ def schoon(s):
     s = re.sub(r'\\([-\[\]_*#!>.&])', r'\1', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z](?:-\d\d-\d)?-[ocb](?:-[AE])?\s+\d+\s*/?\s*\d*\s*(lees verder|einde)?\s*►*', ' ', s)
     s = re.sub(r'[A-Za-z]{2}-\d{4}-[a-z]-\d\d-\d-[ocb]-[AE]\d?\b', ' ', s)   # voetregel van aanvulling/erratum
-    s = re.sub(r"(?<=[a-zà-ü]{3})- (?!en\b|of\b|tot\b|t/m\b)(?=[a-zà-ü]{3})", "-", s)   # afbreekstreepje aan regeleinde: 'principaal- agent'
+    s = re.sub(r"(?:(?<=[a-zà-ü]{3})|(?<=[A-Z]))- (?!en\b|of\b|tot\b|t/m\b)(?=[a-zà-ü]{3})", "-", s)   # afbreekstreepje aan regeleinde: 'principaal- agent'
     s = re.sub(r'lees verder\s*►+|einde\s*►+|∎', ' ', s)
     s = re.sub(r'Let op: de laatste vragen van dit examen staan op de volgende pagina\.|Ga verder op de volgende pagina\.', ' ', s)
     s = re.sub(r'\s*\n\s*(?=/ )', ' ', s)   # '… monopolie\n\n/ oligopolie'
