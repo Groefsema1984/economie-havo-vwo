@@ -1,0 +1,159 @@
+# HOOFDSTUK h 8 | Onderhandelen
+domein: F
+hoofdvraag: Welke factoren zijn van belang bij onderhandelingen, met name op de arbeidsmarkt?
+
+## § 8.1 | Doel van onderhandelingen
+onderwerp: F.spel
+deelvraag: Welke factoren zijn van invloed op onderhandelingen?
+leerdoelen: ECO-SPELT-05
+### UITLEG Onderhandelen
+Er wordt onderhandeld tussen werknemer en werkgever, koper en verkoper, vakbonden en werkgevers (cao), overheid en bouwbedrijven of politieke partijen.
+Het resultaat bepaalt hoe het totale surplus wordt verdeeld, bijvoorbeeld tussen werknemerssurplus en werkgeverssurplus.
+### UITLEG Verzonken kosten en beroving
+Verzonken kosten zijn kosten van een investering die je niet terugkrijgt als de samenwerking niet doorgaat.
+Berovingsprobleem: wie zo'n specifieke investering heeft gedaan, staat zwakker. De andere partij kan dan een lagere prijs eisen en een deel van het verwachte rendement afpakken. Uit angst daarvoor wordt de investering soms helemaal niet gedaan. Een contract vooraf kan dit voorkomen.
+### BEGRIPPEN
+Berovingsprobleem = Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.
+Werknemerssurplus = Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.
+Werkgeverssurplus = Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.
+### MC
+Een toeleverancier koopt een machine die alleen onderdelen voor één autofabrikant kan maken. Daarna eist de fabrikant een lagere prijs. Hoe heet dit?
+* Het berovingsprobleem
+- Meeliftersgedrag
+- Averechtse selectie
+- Prijsdiscriminatie
+> De investering is verzonken; de fabrikant gebruikt de zwakke positie van de leverancier.
+### MC
+Hoe kan de toeleverancier zich vooraf beschermen tegen beroving?
+* Door vóór de investering een langlopend contract met vaste prijzen af te sluiten
+- Door de machine pas na het onderhandelen te verkopen
+- Door een lagere prijs te vragen
+- Door de investering geheim te houden
+> Een bindende afspraak vooraf voorkomt dat de ander later kan heronderhandelen.
+### MC
+Een werkgever vindt een werknemer maximaal € 4.000 per maand waard. Het loon wordt € 3.200. De werknemer wil minimaal € 2.800 verdienen. Hoe groot is het werknemerssurplus?
+* € 400
+- € 800
+- € 1.200
+- € 3.200
+> Werknemerssurplus = loon − minimaal gewenst loon = 3.200 − 2.800 = € 400. Het werkgeverssurplus is € 800.
+
+## § 8.2 | Afspraken over werk en inkomen
+onderwerp: I.werk
+deelvraag: Hoe maken werkgevers, werknemers en de overheid afspraken over werk en inkomen?
+### UITLEG Arbeidsovereenkomst
+Primaire arbeidsvoorwaarden: loon en werktijden. Secundaire: vakantiedagen, reiskosten, auto van de zaak.
+Vast contract: proeftijd van maximaal 2 maanden; ontslag via UWV of kantonrechter. Tijdelijk contract: na 3 contracten of 3 jaar ontstaat een vast contract (ketenbepaling). Flexibel: uitzendwerk, payrolling, oproepcontract, freelance.
+### UITLEG Cao
+Vakbonden en werkgeversorganisaties sluiten een collectieve arbeidsovereenkomst (cao). De organisatiegraad is het percentage werknemers dat lid is van een vakbond. In de Stichting van de Arbeid overleggen de sociale partners landelijk. De minister kan een cao algemeen verbindend verklaren (avv): dan geldt hij voor de hele bedrijfstak. Dat voorkomt meeliften.
+### UITLEG Loon en de wig
+Brutoloon = loonkosten − werkgeverspremies en werkgeversdeel pensioen.
+Nettoloon = brutoloon − loonbelasting − werknemerspremies en pensioenpremie.
+De wig = loonkosten − nettoloon.
+Loonstijgingen: initieel (algemene cao-verhoging), prijscompensatie (gelijk aan de inflatie), incidenteel (persoonlijk, bijvoorbeeld promotie). Reële loonstijging ≈ nominale loonstijging − inflatie.
+Loonruimte: hoeveel de lonen kunnen stijgen zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt, ongeveer inflatie + stijging van de arbeidsproductiviteit.
+### BEGRIPPEN
+Cao = Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.
+Algemeen verbindend verklaren = Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.
+Wig = Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.
+Prijscompensatie = Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.
+Incidentele loonstijging = Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.
+Loonruimte = De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.
+Primaire arbeidsvoorwaarden = Afspraken over loon en werktijden.
+Secundaire arbeidsvoorwaarden = Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.
+### MC
+De loonkosten van een werknemer zijn € 4.500 per maand. Zijn nettoloon is € 2.700. Hoe groot is de wig?
+* € 1.800
+- € 2.700
+- € 4.500
+- € 7.200
+> Wig = loonkosten − nettoloon = 4.500 − 2.700.
+### MC
+Waarom verklaart de minister een cao soms algemeen verbindend?
+* Zodat werkgevers die niet bij de cao horen niet kunnen meeliften door lagere lonen te betalen
+- Zodat vakbonden meer leden krijgen
+- Zodat de lonen dalen
+- Zodat de overheid minder belasting hoeft te heffen
+> Avv voorkomt oneerlijke loonconcurrentie en meeliften.
+### MC
+De inflatie is 3% en de arbeidsproductiviteit stijgt met 1,5%. Hoe groot is de loonruimte ongeveer?
+* 4,5%
+- 1,5%
+- 3%
+- 1,5 procentpunt minder dan de inflatie
+> Loonruimte ≈ inflatie + productiviteitsstijging.
+### MC
+Een werknemer krijgt 4% loonsverhoging. De inflatie is 3%. Wat is ongeveer zijn reële loonstijging?
+* 1%
+- 7%
+- 4%
+- −1%
+> Reëel ≈ nominaal − inflatie.
+
+## § 8.3 | Belang van werknemers en werkgevers
+onderwerp: F.spel
+deelvraag: Hoe speelt het gevangenendilemma een rol bij loononderhandelingen?
+### UITLEG Diepte-investeringen
+Worden de lonen te hoog vergeleken met de productiviteit, dan kunnen werkgevers arbeid vervangen door kapitaal: machines, automatisering en robots (diepte-investeringen). Dan verdwijnen banen.
+### UITLEG Gevangenendilemma bij lonen
+Voor elke vakbond afzonderlijk is een hoge looneis aantrekkelijk. Als alle bonden zo handelen, stijgen de kosten en verdwijnen banen: iedereen slechter af. Afspraken op landelijk niveau en collectieve dwang (avv) helpen om dat te voorkomen.
+### BEGRIPPEN
+Diepte-investering = Investering waarbij arbeid wordt vervangen door kapitaal, zoals machines of robots.
+Sociale partners = De werkgeversorganisaties en vakbonden die samen overleggen over arbeidsvoorwaarden.
+Stichting van de Arbeid = Landelijk overlegorgaan van werkgevers en werknemers.
+### MC
+Een vakbond eist een loonsverhoging van 8%, terwijl de productiviteit nauwelijks stijgt. Welke reactie van werkgevers past daarbij?
+* Meer diepte-investeringen: arbeid vervangen door machines
+- Meer personeel aannemen
+- De prijs van hun producten verlagen
+- De productiviteit laten dalen
+> Duurdere arbeid maakt kapitaal relatief goedkoper.
+### MC
+Waarom kan loonmatiging samen met andere bonden aantrekkelijker zijn dan alleen een hoge looneis?
+* Als iedereen hoge lonen eist, stijgen de kosten en verdwijnen banen, waardoor alle werknemers slechter af zijn
+- Omdat werkgevers anders geen winst maken
+- Omdat de overheid hoge lonen verbiedt
+- Omdat de inflatie dan negatief wordt
+> Een gevangenendilemma tussen vakbonden.
+### MC
+Wie zijn de sociale partners?
+* Vakbonden en werkgeversorganisaties
+- De overheid en de Tweede Kamer
+- Het UWV en de Belastingdienst
+- Werknemers en consumenten
+> Zij overleggen samen in de Stichting van de Arbeid.
+
+## § 8.4 | De arbeidsmarkt in theorie en praktijk
+onderwerp: I.werk
+deelvraag: Welke gevolgen hebben cao-afspraken voor de werking van de arbeidsmarkt?
+gens: werkloosheid
+### UITLEG Theorie en praktijk
+De arbeidsmarkt is de totale vraag naar en het totale aanbod van arbeid. In theorie komen vraag en aanbod via het loon in evenwicht. In de praktijk niet:
+1. Arbeid is heterogeen: werknemers verschillen in opleiding en ervaring.
+2. De markt is niet transparant: niet iedereen kent alle vacatures en werkzoekenden.
+3. Er is geen vrije loonvorming: cao's en het minimumloon maken lonen star. Lonen dalen bijna nooit, waardoor werkloosheid langzaam verdwijnt.
+### BEGRIPPEN
+Arbeidsmarkt = De totale vraag naar en het totale aanbod van arbeid.
+Loonstarheid = Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.
+Arbeidsaanbod = De hoeveelheid arbeid die mensen willen en kunnen verrichten.
+### MC
+Waarom daalt de werkloosheid niet snel door lagere lonen?
+* Lonen zijn star door cao's en het minimumloon
+- Omdat de arbeidsmarkt volkomen transparant is
+- Omdat werknemers allemaal hetzelfde zijn
+- Omdat er geen vraag naar arbeid is
+> Loonstarheid verhindert dat het loon snel daalt tot het evenwicht.
+### MC
+Welke uitspraak laat zien dat arbeid heterogeen is?
+* Een werkloze lasser kan niet zomaar een vacature voor verpleegkundige vervullen
+- Alle werknemers verdienen hetzelfde
+- Er zijn evenveel vacatures als werklozen
+- Lonen dalen bij werkloosheid
+> Werknemers verschillen in opleiding en vaardigheden.
+### MC
+De beroepsbevolking is 9,8 miljoen en er zijn 392.000 werklozen. Hoeveel procent werkloosheid is dat?
+* 4%
+- 0,4%
+- 3,9%
+- 40%
+> 392.000 : 9.800.000 × 100% = 4%.

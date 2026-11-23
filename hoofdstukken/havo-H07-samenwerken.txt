@@ -1,0 +1,153 @@
+# HOOFDSTUK h 7 | Samenwerken
+domein: F
+hoofdvraag: Op welke manier gaat het nastreven van eigenbelang ten koste van het gemeenschappelijk belang en hoe kun je dit voorkomen?
+
+## § 7.1 | Het gevangenendilemma
+onderwerp: F.spel
+deelvraag: Welke dilemma's bestaan er bij de keuze tussen samenwerken en concurreren?
+leerdoelen: ECO-SPELT-03, ECO-SPELT-02
+### UITLEG Pay-offmatrix
+In een pay-offmatrix (uitbetalingsmatrix) staan de keuzes van twee spelers en de uitkomsten. In elke cel staat eerst de uitkomst van de rijspeler, dan die van de kolomspeler.
+Bij een simultaan spel kiezen de spelers tegelijk, zonder de keuze van de ander te kennen. Bij een niet-coöperatief spel kunnen ze geen bindende afspraken maken.
+### UITLEG Dominante strategie en evenwicht
+Een dominante strategie is de keuze die altijd het beste is, wat de ander ook doet.
+Streepjesmethode (best response): zet per keuze van de ander een streepje bij jouw beste uitkomst. Een cel met twee streepjes is een Nash-evenwicht: niemand kan zich nog verbeteren door alleen zelf iets anders te kiezen.
+Gevangenendilemma: beide spelers hebben een dominante strategie (niet samenwerken), maar samen zouden ze beter af zijn als ze allebei samenwerken.
+Schrijf in je conclusie de strategie op ('beide bedrijven kiezen een lage prijs'), niet alleen de getallen.
+### UITLEG Oplossingen
+Zelfbinding, reputatie, geloofwaardigheid, spelherhaling en de tit-for-tatstrategie (oog om oog: doe wat de ander de vorige keer deed).
+### BEGRIPPEN
+Dominante strategie = Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.
+Gevangenendilemma = Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.
+Simultaan spel = Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.
+Niet-coöperatief spel = Spel waarin de spelers geen bindende afspraken kunnen maken.
+Nash-evenwicht = Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.
+Tit-for-tatstrategie = Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.
+### MC
+Twee bedrijven kiezen een hoge of lage prijs. Winst (A ; B): beide hoog (10 ; 10), A hoog en B laag (2 ; 14), A laag en B hoog (14 ; 2), beide laag (5 ; 5). Wat is de uitkomst als ze niet kunnen samenwerken?
+* Beide kiezen een lage prijs: (5 ; 5)
+- Beide kiezen een hoge prijs: (10 ; 10)
+- A kiest hoog en B laag: (2 ; 14)
+- Er is geen evenwicht
+> Laag is voor beide dominant: 14 > 10 en 5 > 2. Het evenwicht (5 ; 5) is slechter dan (10 ; 10): een gevangenendilemma.
+### MC
+Wanneer heeft een speler een dominante strategie?
+* Als één keuze altijd beter is, wat de ander ook kiest
+- Als hij als eerste mag kiezen
+- Als hij de hoogste uitkomst in de matrix kan halen
+- Als beide spelers dezelfde keuze maken
+> Dominant betekent: onafhankelijk van de keuze van de ander.
+### MC
+Waarom kan herhaling van het spel samenwerking makkelijker maken?
+* Wie nu bedriegt, kan in volgende rondes worden gestraft, dus samenwerken levert op lange termijn meer op
+- Omdat de uitkomsten in de matrix dan veranderen
+- Omdat de spelers dan tegelijk moeten kiezen
+- Omdat de overheid dan ingrijpt
+> De dreiging van vergelding en het belang van reputatie maken samenwerken aantrekkelijker.
+
+## § 7.2 | Prijzenoorlog of samenwerken
+onderwerp: F.spel
+deelvraag: Welke voor- en nadelen zijn verbonden aan samenwerking vergeleken met een prijzenoorlog?
+leerdoelen: ECO-SPELT-01, ECO-SPELT-06
+### UITLEG Prijzenoorlog
+Een prijzenoorlog is een gevangenendilemma: voor elk bedrijf is een lagere prijs dominant, maar als ze allebei verlagen houden ze minder winst over. Consumenten winnen dan consumentensurplus, producenten verliezen producentensurplus.
+### UITLEG Kartels en toezicht
+Samenwerken door afspraken heet een kartel: een prijskartel (vaste prijs), productie- of quotumkartel (maximale productie) of marktverdelingskartel (ieder een eigen gebied). Kartels zijn verboden door de Mededingingswet. De ACM houdt toezicht. Met de clementieregeling krijgt een bedrijf dat een kartel als eerste meldt minder of geen boete.
+Zelfbinding maakt een dreiging of belofte geloofwaardig, bijvoorbeeld een contract dat je niet meer kunt openbreken.
+### BEGRIPPEN
+Prijzenoorlog = Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.
+Clementieregeling = Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.
+Zelfbinding = Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.
+Prijskartel = Kartel waarin ondernemingen afspraken maken over de verkoopprijs.
+### MC
+Waarom is een kartel moeilijk vol te houden, ook zonder toezicht?
+* Elk lid kan extra winst maken door stiekem goedkoper te verkopen dan afgesproken
+- Omdat kartelleden altijd verlies maken
+- Omdat consumenten weigeren te kopen
+- Omdat de afspraken automatisch vervallen na een jaar
+> Het is een gevangenendilemma: valsspelen is voor elk lid aantrekkelijk.
+### MC
+Wat is het doel van de clementieregeling?
+* Bedrijven aanmoedigen een kartel te melden, zodat kartels makkelijker worden opgespoord
+- Kartels toestaan als ze klein zijn
+- Consumenten compenseren na een prijzenoorlog
+- Bedrijven helpen bij het maken van prijsafspraken
+> Het eerste bedrijf dat meldt, krijgt minder of geen boete. Dat maakt kartels onstabiel.
+### MC
+Wie profiteert van een prijzenoorlog tussen supermarkten op korte termijn?
+* De consumenten, want hun consumentensurplus stijgt
+- De supermarkten, want hun winst stijgt
+- De overheid, want ze ontvangt meer btw
+- Niemand, want het totale surplus daalt
+> Lagere prijzen verschuiven surplus van producenten naar consumenten.
+
+## § 7.3 | Collectieve goederen en collectieve dwang
+onderwerp: F.coll
+deelvraag: Hoe grijpt de overheid in als individuele belangen het algemene belang kunnen schaden?
+### UITLEG Collectieve goederen
+Individuele goederen kun je in eenheden verkopen en je kunt niet-betalers uitsluiten. Collectieve goederen (de Oosterscheldekering, straatverlichting) niet: niemand kan van het gebruik worden uitgesloten.
+### UITLEG Meeliften
+Omdat niemand kan worden uitgesloten, ontstaat meeliftersgedrag (free riding): iedereen hoopt dat een ander betaalt. Dat is een gevangenendilemma: voor ieder is niet betalen dominant, maar dan komt het goed er niet.
+Oplossing: collectieve dwang. De overheid verplicht iedereen via belastingen bij te dragen.
+### BEGRIPPEN
+Meeliftersgedrag = Profiteren van een goed of voorziening zonder eraan mee te betalen.
+Collectieve dwang = Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.
+Individuele goederen = Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.
+### MC
+Een buurt wil samen camerabewaking. Iedereen profiteert, ook wie niet meebetaalt. Wat is het probleem?
+* Meeliftersgedrag: iedereen wacht tot een ander betaalt, waardoor er te weinig geld komt
+- Een prijzenoorlog
+- Averechtse selectie
+- Een te hoge vraag naar camera's
+> Bij een collectief goed is niet betalen individueel aantrekkelijk.
+### MC
+Hoe lost de overheid het meeliftprobleem bij dijken op?
+* Met collectieve dwang: iedereen betaalt verplicht via belastingen
+- Door dijken te privatiseren
+- Door een maximumprijs in te stellen
+- Door alleen betalers te beschermen
+> Niet-betalers uitsluiten kan niet, dus wordt betalen verplicht.
+### MC
+Waarom is meeliften bij een collectief goed een gevangenendilemma?
+* Voor ieder individu is niet betalen het beste, maar als iedereen zo kiest, komt het goed er niet en is iedereen slechter af
+- Omdat de overheid de spelers gevangen zet
+- Omdat er maar twee spelers zijn
+- Omdat het goed rivaliserend is
+> Individuele rationaliteit leidt tot een slechtere collectieve uitkomst.
+
+## § 7.4 | Emotie en economie
+onderwerp: F.spel
+deelvraag: Waarom reageren mensen economisch niet altijd rationeel, maar soms emotioneel?
+leerdoelen: ECO-SPELT-04
+### UITLEG Sequentiële spellen
+Bij een sequentieel spel kiezen spelers na elkaar. Je tekent een spelboom en redeneert terug (rollback): begin bij de laatste speler, bepaal zijn beste keuze en ga dan terug naar de eerste speler.
+### UITLEG Ultimatumspel en battle of the sexes
+In het ultimatumspel doet speler 1 een voorstel om een bedrag te verdelen. Speler 2 accepteert (beiden krijgen hun deel) of weigert (beiden krijgen niets). Rationeel accepteert speler 2 elk bedrag boven nul, maar in experimenten weigeren mensen vaak een oneerlijk laag bod. Ze reageren emotioneel: eerlijkheid telt.
+Battle of the sexes: twee mensen willen liever samen iets doen dan alleen, maar hebben elk een andere voorkeur. Er zijn twee evenwichten; wie het eerst kiest, heeft een voordeel.
+### UITLEG Verzonken kosten
+Verzonken kosten (sunk costs) zijn kosten die al gemaakt zijn en niet terugkomen. Rationeel horen ze geen rol te spelen bij een nieuwe beslissing, maar mensen laten zich er vaak wel door leiden.
+### BEGRIPPEN
+Sequentieel spel = Spel waarin de spelers na elkaar kiezen en de keuze van de vorige speler kennen.
+Ultimatumspel = Spel waarin één speler een verdeling voorstelt en de ander alleen kan accepteren of weigeren.
+Verzonken kosten = Kosten die al gemaakt zijn en niet meer terug te verdienen zijn.
+### MC
+In een ultimatumspel moet Anna € 100 verdelen. Ze biedt Bram € 5. Wat zou een volledig rationele Bram doen?
+* Accepteren, want € 5 is meer dan niets
+- Weigeren, want het is oneerlijk
+- Een tegenbod doen
+- Het geld aan Anna teruggeven
+> Rationeel geldt: iets is beter dan niets. In de praktijk weigeren veel mensen zo'n laag bod uit onvrede.
+### MC
+Je hebt € 40 betaald voor een festivalkaartje dat je niet terugkrijgt. Op de dag zelf heb je geen zin en het regent. Wat zegt de economische theorie?
+* De € 40 is verzonken; beslis alleen op basis van wat je vanaf nu nog wint of verliest
+- Ga altijd, anders zijn de kosten verspild
+- Verkoop het kaartje voor € 40 of meer
+- De € 40 moet je meetellen in je beslissing
+> Verzonken kosten horen niet mee te wegen bij een nieuwe keuze.
+### MC
+Hoe los je een spelboom op?
+* Door terug te redeneren: eerst de beste keuze van de laatste speler bepalen, dan die van de eerste speler
+- Door de hoogste uitkomst in de boom te kiezen
+- Door de streepjesmethode in de matrix
+- Door te kijken wie de dominante strategie heeft
+> Rollback-analyse (achterwaarts redeneren).

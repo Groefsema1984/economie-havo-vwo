@@ -1,0 +1,33 @@
+HOOFDSTUKKEN VAN ECONOMIE INTEGRAAL
+===================================
+Elk bestand is één hoofdstuk (havo of vwo). Na een wijziging:
+  python3 tools/hoofdstukken.py && python3 src/build.py
+
+Per paragraaf maakt de tool één level in het domein van het hoofdstuk, alleen zichtbaar
+voor het juiste niveau (h = havo, v = vwo). De leerling ziet eerst de uitleg, daarna de vragen.
+
+Formaat:
+  # HOOFDSTUK h 2 | Consumentengedrag
+  domein: D
+  hoofdvraag: ...
+
+  ## § 2.1 | Titel van de paragraaf
+  onderwerp: D.vraag            (een code uit EINDTERMEN in src/data-basis.js)
+  deelvraag: ...                (wordt het doel van het level)
+  leerdoelen: ECO-MARKT-05      (optioneel: oefenopgaven en examenvragen uit bibliotheek/ erbij)
+  gens: evenwicht               (optioneel: rekengeneratoren, zie GENS in src/core.js)
+  ook: h 2.1                    (optioneel: neem uitleg, meerkeuzevragen en begrippen van een andere paragraaf over)
+  ### UITLEG Kopje
+  tekst
+  ### BEGRIPPEN
+  Begrip = omschrijving         (wordt een begrippenkaart, een koppelvraag en een 'welk begrip'-vraag)
+  ### MC
+  Vraagtekst
+  * het juiste antwoord
+  - fout antwoord
+  - fout antwoord
+  - fout antwoord
+  > uitleg die de leerling na het antwoorden ziet
+
+Bron: de kaderbestanden (01_KADER_...) in VAK_ECONOMIE op de Drive van de sectie.
+Uitleg, begrippen en vragen zijn daarop gebaseerd en door Claude uitgeschreven: lees ze na.

@@ -1,0 +1,165 @@
+# HOOFDSTUK h 3 | Producentengedrag
+domein: D
+hoofdvraag: Hoe bepalen bedrijven hoeveel producten ze aanbieden en hoe berekenen zij hun verwachte winst?
+
+## § 3.1 | Omzet en kosten
+onderwerp: D.kosten
+deelvraag: Hoe bereken je de omzet en kosten bij verschillende afzetten?
+gens: winst
+### UITLEG Afzet, omzet en marktaandeel
+Afzet (Q) is de hoeveelheid verkochte producten in een periode. Omzet (TO) is het geldbedrag dat die producten opleveren: TO = P × Q.
+Marktaandeel = afzet (of omzet) van het bedrijf : afzet (of omzet) van de hele markt × 100%.
+De consumentenprijs is de verkoopprijs inclusief btw. Btw-tarieven: 21%, 9% en 0%; sommige diensten zijn vrijgesteld (bijvoorbeeld medische zorg).
+### UITLEG Opbrengsten
+Gemiddelde opbrengst: GO = TO : Q = P.
+Marginale opbrengst: MO = ΔTO : ΔQ, de extra opbrengst van één product meer.
+### UITLEG Kosten
+Constante kosten (TCK) veranderen niet als de productie verandert (huur, afschrijving). Variabele kosten (TVK) veranderen wel mee (grondstoffen). Variabele kosten kunnen proportioneel, progressief of degressief verlopen.
+TK = TCK + TVK. Gemiddeld: GCK = TCK : Q, GVK = TVK : Q, GTK = TK : Q = GCK + GVK.
+Marginale kosten: MK = ΔTK : ΔQ, de extra kosten van één product meer.
+### BEGRIPPEN
+Constante kosten = Kosten die niet veranderen als de productie toeneemt of afneemt.
+Variabele kosten = Kosten die meeveranderen met de omvang van de productie.
+Marginale kosten = De extra kosten van het produceren van één product meer.
+Marginale opbrengst = De extra opbrengst van het verkopen van één product meer.
+Gemiddelde totale kosten = De totale kosten gedeeld door de geproduceerde hoeveelheid.
+Consumentenprijs = De verkoopprijs inclusief btw en andere prijsverhogende belastingen.
+### MC
+Een bakkerij heeft € 20.000 constante kosten per maand. De variabele kosten zijn € 1,50 per brood. Er worden 10.000 broden gemaakt. Hoe groot zijn de gemiddelde totale kosten?
+* € 3,50
+- € 2,00
+- € 1,50
+- € 21,50
+> TK = 20.000 + 10.000 × 1,50 = 35.000. GTK = 35.000 : 10.000 = € 3,50.
+### MC
+Welke kosten zijn constante kosten voor een fietsenfabriek?
+* De huur van de fabriekshal
+- De kosten van frames en banden
+- De verpakking per fiets
+- De energie voor het spuiten van elke fiets
+> De huur blijft gelijk, hoeveel fietsen er ook gemaakt worden.
+### MC
+Als de productie stijgt, wat gebeurt er dan met de gemiddelde constante kosten?
+* Die dalen, want dezelfde vaste kosten worden over meer producten verdeeld
+- Die stijgen, want er worden meer producten gemaakt
+- Die blijven gelijk, want de constante kosten veranderen niet
+- Die worden gelijk aan de marginale kosten
+> GCK = TCK : Q. Q groter, dus GCK kleiner.
+### MC
+De verkoopprijs exclusief btw is € 50. Het btw-tarief is 21%. Wat is de consumentenprijs?
+* € 60,50
+- € 71,00
+- € 50,00
+- € 41,32
+> 50 × 1,21 = € 60,50.
+
+## § 3.2 | Break-evenanalyse
+onderwerp: D.kosten
+deelvraag: Hoe bepaalt een producent de productieomvang waarbij hij zijn kosten precies terugverdient?
+gens: breakEven
+### UITLEG Break-even
+Totale winst: TW = TO − TK.
+De break-evenafzet is de afzet waarbij de totale opbrengst gelijk is aan de totale kosten: geen winst en geen verlies.
+BEA = TCK : (P − GVK). Het deel P − GVK heet de dekkingsbijdrage: wat elk product overhoudt om de constante kosten te betalen.
+Break-evenomzet = break-evenafzet × prijs.
+Boven de break-evenafzet maakt het bedrijf winst, eronder verlies.
+### BEGRIPPEN
+Break-evenafzet = De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.
+Break-evenomzet = De omzet die hoort bij de break-evenafzet.
+Dekkingsbijdrage = Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.
+### MC
+Een bedrijf heeft € 30.000 constante kosten. De prijs is € 25 en de variabele kosten zijn € 10 per stuk. Wat is de break-evenafzet?
+* 2.000 stuks
+- 1.200 stuks
+- 857 stuks
+- 3.000 stuks
+> BEA = 30.000 : (25 − 10) = 2.000.
+### MC
+Wat gebeurt er met de break-evenafzet als de variabele kosten per stuk stijgen (ceteris paribus)?
+* Die stijgt, want de dekkingsbijdrage per product wordt kleiner
+- Die daalt, want de kosten zijn hoger
+- Die blijft gelijk, want de constante kosten veranderen niet
+- Die stijgt, want de prijs stijgt mee
+> BEA = TCK : (P − GVK). Een hogere GVK maakt de noemer kleiner, dus de BEA groter.
+### MC
+De break-evenafzet is 4.000 stuks en de prijs is € 12. Hoe groot is de break-evenomzet?
+* € 48.000
+- € 4.012
+- € 333
+- € 12.000
+> BEO = 4.000 × 12 = € 48.000.
+
+## § 3.3 | Maximale winst
+onderwerp: D.kosten
+deelvraag: Bij welke productie en afzet haalt een onderneming maximale winst?
+gens: winst
+### UITLEG Winstbegrippen
+Totale winst TW = TO − TK. Gemiddelde winst (winst per product) GW = TW : Q = GO − GTK. Marginale winst MW = MO − MK.
+### UITLEG De regel MO = MK
+Zolang een extra product meer oplevert dan het kost (MO > MK), stijgt de winst. Kost het meer dan het oplevert (MK > MO), dan daalt de winst. De winst is dus maximaal waar MO = MK (bij stijgende MK).
+### UITLEG In drie stappen
+1. Bepaal Q waar MO = MK.
+2. Lees bij die Q de prijs af op de GO-lijn (prijslijn).
+3. TW = (P − GTK) × Q.
+### BEGRIPPEN
+Totale winst = Totale opbrengst min totale kosten.
+Marginale winst = De verandering van de totale winst bij één product meer: MO − MK.
+Gemiddelde winst = De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.
+### MC
+Bij een afzet van 500 stuks is MO = € 8 en MK = € 6. Wat moet het bedrijf doen om meer winst te maken?
+* Meer produceren, want een extra product levert meer op dan het kost
+- Minder produceren, want de kosten stijgen
+- Niets veranderen, want het maakt al winst
+- De prijs verlagen tot MO = 0
+> MO > MK: elk extra product verhoogt de winst.
+### MC
+Bij de winstmaximale afzet van 1.000 stuks is de prijs € 30 en zijn de gemiddelde totale kosten € 22. Hoe groot is de maximale totale winst?
+* € 8.000
+- € 30.000
+- € 22.000
+- € 52.000
+> TW = (30 − 22) × 1.000 = € 8.000.
+### MC
+Waar is de winst maximaal?
+* Waar de marginale opbrengst gelijk is aan de marginale kosten
+- Waar de gemiddelde totale kosten minimaal zijn
+- Waar de totale opbrengst maximaal is
+- Waar de totale kosten gelijk zijn aan de totale opbrengst
+> MO = MK. Bij TO = TK is de winst juist nul (break-even).
+
+## § 3.4 | Aanbod en producentensurplus
+onderwerp: D.vraag
+deelvraag: Hoe bepaalt de prijs van producten het gedrag van producenten?
+gens: evenwicht
+### UITLEG Aanbodlijnen
+De individuele aanbodlijn laat zien hoeveel één producent bij elke prijs wil aanbieden. Kan hij de prijs niet beïnvloeden, dan is de prijs voor hem gelijk aan GO en MO. Hij biedt aan tot P = MK, dus de MK-lijn is zijn aanbodlijn.
+De collectieve aanbodlijn is het aanbod van alle producenten samen.
+### UITLEG Verschuiving van het aanbod
+De collectieve aanbodlijn verschuift naar rechts (meer aanbod) door: meer aanbieders, lagere variabele kosten (grondstoffen), hogere arbeidsproductiviteit, mechanisatie en robotisering, of een lagere rente.
+### UITLEG Producentensurplus
+Het producentensurplus is het verschil tussen de marktprijs en de minimale prijs waarvoor producenten willen leveren (hun verkoopbereidheid). In de grafiek is het de driehoek tussen de prijslijn en de aanbodlijn.
+### BEGRIPPEN
+Producentensurplus = Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.
+Verkoopbereidheid = De laagste prijs waarvoor een producent een product wil verkopen.
+Collectieve aanbodlijn = Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.
+### MC
+Een producent wil minimaal € 40 ontvangen voor een product. De marktprijs is € 55. Hoe groot is zijn producentensurplus voor dit product?
+* € 15
+- € 40
+- € 55
+- € 95
+> PS = prijs − verkoopbereidheid = 55 − 40 = € 15.
+### MC
+De grondstofprijzen dalen sterk. Wat gebeurt er met de collectieve aanbodlijn?
+* Die verschuift naar rechts
+- Die verschuift naar links
+- Er is een beweging langs de aanbodlijn
+- Die blijft gelijk, alleen de vraaglijn verschuift
+> Lagere kosten: bij elke prijs willen producenten meer aanbieden.
+### MC
+Waarom is de MK-lijn de aanbodlijn van een producent die de marktprijs niet kan beïnvloeden?
+* Hij biedt aan tot de prijs gelijk is aan zijn marginale kosten, omdat daar zijn winst maximaal is
+- Omdat de marginale kosten altijd gelijk zijn aan de prijs
+- Omdat hij geen constante kosten heeft
+- Omdat de vraaglijn horizontaal loopt
+> Voor een prijsnemer is P = MO. Winstmaximalisatie MO = MK wordt dan P = MK.

@@ -1,0 +1,186 @@
+# HOOFDSTUK h 6 | Overheidsingrijpen
+domein: D
+hoofdvraag: Wat doet de overheid als de productie niet aan de markt kan worden overgelaten of als de markt een ongewenst resultaat oplevert?
+
+## § 6.1 | Waarom en hoe grijpt de overheid in?
+onderwerp: D.falen
+deelvraag: Waarom en hoe grijpt de overheid in?
+leerdoelen: ECO-ALGEM-07
+### UITLEG Soorten goederen
+Collectieve goederen: je kunt niemand van het gebruik uitsluiten en ze zijn niet in individuele eenheden te splitsen. Er is geen prijs voor te vragen (dijken, politie, rechtspraak). De overheid levert ze.
+Individuele goederen: splitsbaar en je kunt mensen uitsluiten. Het bedrijfsleven kan ze leveren.
+Quasi-collectieve goederen: individuele goederen die toch (grotendeels) door de overheid worden geleverd, zoals onderwijs.
+### UITLEG Redenen om in te grijpen
+Externe effecten (positief of negatief), maatschappelijke kosten die niet in de prijs zitten, een ongewenste inkomensverdeling en economische machtsposities.
+### UITLEG Instrumenten
+Privatisering (overheidstaak naar de markt) en deregulering (minder regels): goedkoper, doelmatiger, sneller inspelen op wensen, meer keuzevrijheid.
+Collectivisatie of nationalisatie (naar de overheid) en regulering (meer regels): misbruik voorkomen, dure voorzieningen betaalbaar maken, zwakkeren beschermen en gebruik stimuleren (onderwijs, bibliotheken).
+### BEGRIPPEN
+Collectieve goederen = Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn.
+Quasi-collectieve goederen = Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.
+Privatisering = Het overdragen van een overheidstaak aan particuliere bedrijven.
+Deregulering = Het verminderen van overheidsregels voor bedrijven en burgers.
+Maatschappelijke kosten = Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.
+Nationalisatie = Het overnemen van een particulier bedrijf door de overheid.
+### MC
+Waarom levert de markt geen dijken?
+* Niemand kan van de bescherming worden uitgesloten, dus niemand wil er vrijwillig voor betalen
+- Omdat dijken te goedkoop zijn om winst op te maken
+- Omdat er te veel concurrentie is tussen dijkenbouwers
+- Omdat dijken een individueel goed zijn
+> Een collectief goed: wie niet betaalt, wordt toch beschermd (meeliften).
+### MC
+Onderwijs is splitsbaar en je kunt mensen uitsluiten, maar de overheid betaalt het grootste deel. Wat voor goed is onderwijs?
+* Een quasi-collectief goed
+- Een collectief goed
+- Een inferieur goed
+- Een complementair goed
+> Individueel van aard, maar vooral door de overheid geleverd vanwege de positieve externe effecten.
+### MC
+Welk argument hoort bij privatisering?
+* Particuliere bedrijven werken vaak doelmatiger en reageren sneller op wensen van klanten
+- Misbruik van macht moet worden voorkomen
+- Zwakkeren in de samenleving moeten worden beschermd
+- Het product is te duur voor de particuliere sector
+> De andere drie zijn argumenten voor collectivisatie en regulering.
+
+## § 6.2 | Maximumprijs
+onderwerp: D.falen
+deelvraag: Welke gevolgen heeft een maximumprijs voor de markt?
+### UITLEG Maximumprijs
+Een maximumprijs is de hoogste prijs die een aanbieder mag vragen. De overheid gebruikt hem om consumenten te beschermen (maximumhuur bij sociale huurwoningen).
+Ligt de maximumprijs onder de evenwichtsprijs bij volledige mededinging, dan ontstaat een vraagoverschot (tekort). Er wordt minder verhandeld. Producenten verliezen surplus, een deel van de consumenten wint (ze betalen minder), maar het totale surplus daalt: welvaartsverlies. Er kunnen wachtlijsten en een zwarte markt ontstaan.
+Bij een monopolie kan een maximumprijs de productie juist vergroten en het welvaartsverlies verkleinen (bijvoorbeeld treinkaartjes).
+### BEGRIPPEN
+Maximumprijs = De hoogste prijs die een aanbieder van de overheid mag vragen.
+Zwarte markt = Illegale handel tegen een hogere prijs dan de toegestane prijs.
+Aanbodtekort = Situatie waarin bij een bepaalde prijs meer wordt gevraagd dan aangeboden (vraagoverschot).
+### MC
+De overheid stelt een maximumhuur vast die onder de evenwichtshuur ligt. Wat is het gevolg?
+* Een tekort aan huurwoningen: de gevraagde hoeveelheid is groter dan de aangeboden hoeveelheid
+- Een overschot aan huurwoningen
+- De huur stijgt tot het evenwicht
+- Er verandert niets, want de markt past zich aan
+> Bij een lage huur willen meer mensen huren en minder verhuurders aanbieden.
+### MC
+Wat gebeurt er met het totale surplus als een maximumprijs onder de evenwichtsprijs wordt ingesteld op een markt met volledige mededinging?
+* Het totale surplus daalt, want er wordt minder verhandeld
+- Het totale surplus stijgt, want consumenten betalen minder
+- Het totale surplus blijft gelijk, het wordt alleen anders verdeeld
+- Alleen het consumentensurplus daalt
+> Er gaan transacties verloren: de Harberger-driehoek.
+### MC
+Waarom ontstaat er bij een maximumprijs vaak een zwarte markt?
+* Er is een tekort, en sommige kopers willen meer betalen dan de toegestane prijs
+- Omdat aanbieders te veel produceren
+- Omdat de overheid de producten opkoopt
+- Omdat de prijs boven het evenwicht ligt
+> Bij een vraagoverschot is er betalingsbereidheid boven de maximumprijs.
+
+## § 6.3 | Minimumprijs
+onderwerp: D.falen
+deelvraag: Wat zijn de effecten van een minimumprijs voor de markt?
+### UITLEG Minimumprijs
+Een minimumprijs is de laagste prijs waarvoor een product mag worden verkocht. Hij beschermt de aanbieders.
+Ligt hij boven de evenwichtsprijs, dan ontstaat een aanbodoverschot. Om de prijs te handhaven moet de overheid of een veiling het overschot opkopen of vernietigen (doordraaien). Het consumentensurplus daalt, producenten winnen, en er is welvaartsverlies.
+Het wettelijk minimumloon is een minimumprijs op de arbeidsmarkt. Ligt het boven het evenwichtsloon, dan ontstaat werkloosheid aan de onderkant van de arbeidsmarkt.
+### BEGRIPPEN
+Minimumprijs = De laagste prijs waarvoor een product van de overheid mag worden verkocht.
+Aanbodoverschot = Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.
+Minimumloon = Het wettelijk vastgestelde laagste loon dat een werkgever moet betalen.
+### MC
+De overheid stelt een minimumprijs boven de evenwichtsprijs voor melk. Wat ontstaat er?
+* Een aanbodoverschot
+- Een vraagoverschot
+- Een nieuw evenwicht bij een lagere prijs
+- Een zwarte markt met hoge prijzen
+> Bij een hoge prijs willen boeren meer leveren dan consumenten kopen.
+### MC
+Wat doet een veiling als ze producten laat doordraaien?
+* Ze vernietigt producten die niet voor de minimumprijs worden verkocht, zodat de prijs niet verder daalt
+- Ze verkoopt producten onder de minimumprijs
+- Ze verhoogt de vraag door reclame
+- Ze verlaagt de minimumprijs
+> Doordraaien haalt het overschot van de markt.
+### MC
+Het minimumloon wordt verhoogd tot boven het evenwichtsloon voor laaggeschoold werk. Wat verwacht je?
+* Meer werkloosheid onder laaggeschoolden, want de gevraagde hoeveelheid arbeid daalt
+- Minder werkloosheid, want werken loont meer
+- Geen effect op de werkgelegenheid
+- Een tekort aan laaggeschoolde werknemers
+> Een minimumprijs boven het evenwicht geeft een aanbodoverschot: hier een overschot aan arbeid.
+
+## § 6.4 | Indirecte belastingen en subsidies
+onderwerp: D.heffing
+deelvraag: Welke invloed hebben indirecte belastingen en subsidies?
+leerdoelen: ECO-BELAS-02, ECO-BELAS-03, ECO-BELAS-04
+### UITLEG Indirecte belastingen
+Indirecte belastingen betaal je bij aankoop of gebruik van goederen: btw (21%, 9%, 0%), accijnzen (vast bedrag per eenheid, bijvoorbeeld op benzine, alcohol en tabak), bpm, invoerrechten en milieuheffingen.
+Een accijns verschuift de aanbodlijn evenwijdig omhoog met het bedrag van de accijns. De consumentenprijs stijgt, maar meestal minder dan de accijns: de rest betaalt de producent. Het percentage dat in de prijs wordt doorberekend hangt af van de prijsgevoeligheid. Opbrengst voor de overheid = accijns × nieuwe hoeveelheid. Er ontstaat een welvaartsverlies.
+### UITLEG Subsidies
+Een prijsverlagende subsidie verschuift de aanbodlijn naar beneden. Doelen: gebruik stimuleren (onderwijs, isolatie, zonnepanelen), negatieve externe effecten beperken, de concurrentiepositie verbeteren (exportsubsidie) en investeringen stimuleren. Toeslagen (huur, zorg) en studiefinanciering maken voorzieningen betaalbaar voor lage inkomens.
+### BEGRIPPEN
+Accijns = Een vast bedrag aan belasting per eenheid van een product.
+Indirecte belastingen = Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.
+Subsidie = Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.
+### MC
+De accijns op een product stijgt met € 1 per stuk. De consumentenprijs stijgt met € 0,70. Hoeveel procent van de accijns wordt doorberekend aan de consument?
+* 70%
+- 30%
+- 100%
+- 0,7%
+> 0,70 : 1,00 × 100% = 70%. De producent betaalt de overige 30%.
+### MC
+Hoe verschuift de aanbodlijn door een accijns?
+* Evenwijdig omhoog met het bedrag van de accijns
+- Evenwijdig omlaag met het bedrag van de accijns
+- De vraaglijn verschuift, niet de aanbodlijn
+- De aanbodlijn wordt horizontaal
+> Voor elke hoeveelheid willen aanbieders nu een prijs die de accijns hoger is.
+### MC
+Na invoering van een accijns van € 2 worden er 5.000 stuks verkocht. Hoeveel ontvangt de overheid?
+* € 10.000
+- € 2.500
+- € 5.000
+- € 2.000
+> Opbrengst = accijns × hoeveelheid na de heffing = 2 × 5.000.
+### MC
+Waarom geeft de overheid subsidie op isolatie van huizen?
+* Om het gebruik te stimuleren, omdat minder energieverbruik minder milieuschade geeft (positief extern effect)
+- Om de prijs van energie te verhogen
+- Omdat isolatie een collectief goed is
+- Om meer belasting te ontvangen
+> Subsidies stimuleren producten met positieve externe effecten.
+
+## § 6.5 | Overig overheidsingrijpen
+onderwerp: D.falen
+deelvraag: Op welke andere manieren grijpt de overheid in op de markt?
+### UITLEG Toezichthouders
+Autoriteit Financiële Markten (AFM): toezicht op financiële markten. Autoriteit Consument en Markt (ACM): eerlijke concurrentie en bescherming van consumenten. Nederlandse Zorgautoriteit (NZa): toezicht op de zorgmarkt. Deze organisaties zijn zelfstandige bestuursorganen (zbo's).
+### UITLEG Quotering en verboden
+Een productiequotum beperkt de hoeveelheid (vangstquota tegen overbevissing). Ontwikkelingslanden gebruiken buffervoorraden en exportquota om prijzen omhoog te houden. Verboden: wapens, drugs, alcohol en tabak aan jongeren. Overige regels: omgevingsvergunning, Colportagewet en Warenwet.
+### BEGRIPPEN
+Quotum = Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd.
+Autoriteit Consument en Markt = Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.
+Zelfstandig bestuursorgaan = Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt.
+### MC
+De EU stelt een vangstquotum voor kabeljauw in. Wat is het doel?
+* Overbevissing tegengaan zodat er ook in de toekomst vis is
+- De prijs van kabeljauw verlagen
+- De export van vis stimuleren
+- Meer vissers aan het werk helpen
+> Een quotum beperkt de vangst. Dat beschermt de visstand (toekomstige generaties).
+### MC
+Welke toezichthouder grijpt in als supermarkten verboden prijsafspraken maken?
+* De Autoriteit Consument en Markt (ACM)
+- De Autoriteit Financiële Markten (AFM)
+- De Nederlandse Zorgautoriteit (NZa)
+- De Nederlandsche Bank (DNB)
+> Kartels en machtsmisbruik vallen onder de Mededingingswet en de ACM.
+### MC
+Wat gebeurt er meestal met de prijs als een vangstquotum de hoeveelheid vis beperkt?
+* De prijs stijgt, want het aanbod is kleiner
+- De prijs daalt, want er is minder vis
+- De prijs blijft gelijk
+- De vraaglijn verschuift naar links
+> Minder aanbod bij gelijke vraag geeft een hogere prijs.

@@ -1,0 +1,155 @@
+# HOOFDSTUK h 4 | Volledige mededinging
+domein: D
+hoofdvraag: Hoe is het gedrag van vragers en aanbieders op een markt met volledige mededinging?
+
+## § 4.1 | Kenmerken van volledige mededinging
+onderwerp: D.vorm
+deelvraag: Wat zijn de kenmerken van een markt met volledige mededinging?
+leerdoelen: ECO-MARKT-03
+### UITLEG Markten
+Een concrete markt is een aanwijsbare plek waar kopers en verkopers handelen (een veiling, een website). Een abstracte markt is het geheel van vraag en aanbod van een product (de wereldgoudmarkt).
+### UITLEG Marktvormen
+Monopolie: één aanbieder. Duopolie: twee aanbieders. Oligopolie: weinig aanbieders. Monopolistische concurrentie: veel aanbieders van verschillende (heterogene) producten. Volledige mededinging: veel aanbieders van gelijke (homogene) producten.
+### UITLEG Kenmerken volledige mededinging
+1. Veel vragers en veel aanbieders: niemand kan alleen de prijs beïnvloeden (prijsnemers).
+2. Volkomen markt: homogene producten, homogene aanbieding en een transparante markt.
+3. Vrije markt: vrije toe- en uittreding.
+Voorbeelden die erop lijken: valutamarkten, goud, sommige grondstoffen- en groentemarkten.
+### BEGRIPPEN
+Volledige mededinging = Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.
+Homogene producten = Producten die in de ogen van de koper precies hetzelfde zijn.
+Transparante markt = Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien.
+Abstracte markt = Het geheel van vraag en aanbod van een product, zonder vaste plaats.
+Concrete markt = Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.
+Volkomen markt = Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.
+### MC
+Welke markt komt het dichtst bij volledige mededinging?
+* De markt voor euro's en dollars
+- De markt voor smartphones
+- De markt voor treinvervoer in Nederland
+- De markt voor kapsalons in een stad
+> Valuta zijn homogeen, er zijn heel veel kopers en verkopers en de markt is transparant.
+### MC
+Wat betekent het dat een aanbieder bij volledige mededinging prijsnemer is?
+* Hij kan de marktprijs niet beïnvloeden en moet die accepteren
+- Hij bepaalt zelf de prijs
+- Hij neemt de prijs van de grootste concurrent over
+- Hij krijgt de prijs van de overheid
+> Door de vele aanbieders van een homogeen product heeft één aanbieder geen invloed op de prijs.
+### MC
+Een markt heeft veel aanbieders, maar elke aanbieder verkoopt een eigen merk met een eigen uitstraling. Welke marktvorm is dit?
+* Monopolistische concurrentie
+- Volledige mededinging
+- Oligopolie
+- Monopolie
+> Veel aanbieders met heterogene producten.
+
+## § 4.2 | Evenwichtsprijs en verschuivingen
+onderwerp: D.vraag
+deelvraag: Hoe komt de evenwichtsprijs tot stand en hoe kan die veranderen?
+gens: evenwicht
+### UITLEG Marktevenwicht
+De evenwichtsprijs is de prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid (Qv = Qa). Bij een hogere prijs ontstaat een aanbodoverschot, bij een lagere prijs een vraagoverschot (tekort).
+Rekenen: stel Qv = Qa, los P op en vul P in om de evenwichtshoeveelheid te vinden.
+### UITLEG Verschuivingen
+Vraag naar rechts: meer kopers, hoger inkomen, meer behoefte (reclame), betere kwaliteit, duurdere substituten, lagere rente. Gevolg: hogere prijs en grotere hoeveelheid.
+Aanbod naar rechts: meer aanbieders, hogere productiviteit, lagere loon- of grondstofkosten. Gevolg: lagere prijs en grotere hoeveelheid.
+### BEGRIPPEN
+Evenwichtsprijs = De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.
+Evenwichtshoeveelheid = De verhandelde hoeveelheid bij de evenwichtsprijs.
+Aanbodoverschot = Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.
+### MC
+Qv = −5P + 200 en Qa = 15P − 40. Wat is de evenwichtsprijs?
+* € 12
+- € 8
+- € 20
+- € 140
+> −5P + 200 = 15P − 40, dus 240 = 20P en P = 12.
+### MC
+Door een slechte oogst daalt het aanbod van koffiebonen. Wat gebeurt er op de markt voor koffiebonen?
+* De aanbodlijn verschuift naar links: de prijs stijgt en de hoeveelheid daalt
+- De aanbodlijn verschuift naar rechts: de prijs daalt
+- De vraaglijn verschuift naar links: de prijs daalt
+- Er is een beweging langs de aanbodlijn: de prijs stijgt
+> Minder aanbod bij elke prijs: aanbodlijn naar links, hogere evenwichtsprijs.
+### MC
+De marktprijs ligt boven de evenwichtsprijs. Wat gebeurt er?
+* Er is een aanbodoverschot, waardoor de prijs gaat dalen
+- Er is een vraagoverschot, waardoor de prijs gaat stijgen
+- Er is evenwicht, want er wordt verhandeld
+- De vraaglijn verschuift naar rechts
+> Bij een te hoge prijs willen aanbieders meer verkopen dan kopers willen kopen.
+
+## § 4.3 | Marktevenwicht en bedrijfstakevenwicht
+onderwerp: D.vorm
+deelvraag: Welke evenwichten komen tot stand op korte en lange termijn?
+### UITLEG Toetreding en uittreding
+Maken aanbieders winst, dan treden nieuwe bedrijven toe. Het aanbod stijgt, de aanbodlijn schuift naar rechts en de prijs daalt. Dat gaat door tot er geen winst meer te halen is.
+Maken aanbieders verlies, dan treden er bedrijven uit. Het aanbod daalt en de prijs stijgt.
+### UITLEG Bedrijfstakevenwicht
+Op lange termijn ontstaat het bedrijfstakevenwicht: de marktvraag is gelijk aan het marktaanbod én de bedrijven werken precies kostendekkend. Dan geldt P = GO = MO = MK = GTK (minimaal). Er is geen winst en geen verlies.
+### BEGRIPPEN
+Bedrijfstakevenwicht = Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.
+Toetreding = Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.
+Uittreding = Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.
+### MC
+Op een markt met volledige mededinging maken de bedrijven flinke winst. Wat gebeurt er op lange termijn?
+* Nieuwe aanbieders treden toe, het aanbod stijgt en de prijs daalt tot de winst verdwijnt
+- De prijs stijgt verder omdat de vraag toeneemt
+- De bedrijven houden hun winst, want niemand kan de prijs beïnvloeden
+- De overheid verlaagt de prijs
+> Vrije toetreding drukt de winst weg.
+### MC
+Wat geldt in het bedrijfstakevenwicht?
+* De prijs is gelijk aan de minimale gemiddelde totale kosten
+- De prijs is hoger dan de gemiddelde totale kosten
+- De marginale opbrengst is nul
+- De bedrijven maken maximale winst boven de kosten
+> P = MK = GTK minimaal: de bedrijven draaien quitte.
+### MC
+Een aanbieder bij volledige mededinging maakt verlies omdat de prijs onder zijn GTK ligt. Wat gebeurt er op lange termijn?
+* Aanbieders treden uit, het aanbod daalt en de prijs stijgt
+- Aanbieders treden toe en de prijs daalt verder
+- De vraag stijgt automatisch
+- De aanbieder verhoogt zelf zijn prijs
+> Uittreding verschuift de aanbodlijn naar links, waardoor de prijs stijgt.
+
+## § 4.4 | Optimale allocatie en tekortkomingen
+onderwerp: D.falen
+deelvraag: Wat zijn de voor- en nadelen van een markt met volledige mededinging?
+leerdoelen: ECO-ALGEM-07
+### UITLEG Optimale allocatie
+Bij volledige mededinging is het totale surplus (consumentensurplus + producentensurplus) maximaal. De grootst mogelijke hoeveelheid wordt gemaakt tegen de laagst mogelijke prijs, en de productie is afgestemd op wat consumenten willen. Dat heet optimale allocatie.
+### UITLEG Tekortkomingen
+1. Collectieve goederen (dijken, rechtspraak) worden niet via de markt geleverd.
+2. De verdeling van het surplus kan ongewenst zijn (bijvoorbeeld heel lage lonen).
+3. Externe effecten (vervuiling, overlast) zitten niet in de prijs.
+4. De productie past zich soms traag aan (koffiestruiken geven pas na jaren oogst).
+5. Er wordt weinig rekening gehouden met toekomstige generaties (overbevissing).
+6. In de praktijk komt de marktvorm weinig voor.
+Daarom grijpt de overheid soms in met verboden, belastingen en subsidies. Dan is het totale surplus op die markt niet meer maximaal.
+### BEGRIPPEN
+Optimale allocatie = Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.
+Totaal surplus = De som van het consumentensurplus en het producentensurplus.
+Externe effecten = Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.
+### MC
+Waarom zorgt volledige mededinging voor optimale allocatie?
+* Het totale surplus is maximaal en de productie is afgestemd op de vraag tegen de laagst mogelijke prijs
+- De overheid bepaalt hoeveel er wordt geproduceerd
+- De producenten maken de hoogste winst
+- Iedereen krijgt evenveel van het surplus
+> Optimaal gaat over de omvang van het totale surplus, niet over de verdeling.
+### MC
+Een fabriek loost afvalwater in een rivier. Vissers verdienen daardoor minder. Wat is dit?
+* Een negatief extern effect
+- Een positief extern effect
+- Een collectief goed
+- Een vorm van prijsdiscriminatie
+> De schade komt bij anderen terecht en zit niet in de prijs van de producten van de fabriek.
+### MC
+Welke uitspraak over volledige mededinging is juist?
+* Het totale surplus is maximaal, maar de verdeling ervan kan maatschappelijk ongewenst zijn
+- De verdeling van de welvaart is altijd eerlijk
+- Externe effecten worden automatisch in de prijs verwerkt
+- De markt levert vanzelf dijken en politie
+> Volledige mededinging zegt niets over een eerlijke verdeling.

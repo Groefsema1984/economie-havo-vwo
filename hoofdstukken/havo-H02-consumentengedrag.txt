@@ -1,0 +1,179 @@
+# HOOFDSTUK h 2 | Consumentengedrag
+domein: D
+hoofdvraag: Welke invloed hebben inkomen en prijzen op het koopgedrag en de welvaart van consumenten?
+
+## § 2.1 | Betalingsbereidheid en consumentensurplus
+onderwerp: D.vraag
+deelvraag: Hoe bepaalt de prijs van producten het koopgedrag van consumenten?
+leerdoelen: ECO-MARKT-05
+### UITLEG Betalingsbereidheid en vraaglijn
+De betalingsbereidheid is het hoogste bedrag dat een consument voor een product wil betalen. Die verschilt per persoon, onder meer door verschillen in inkomen en voorkeur.
+Zet je de betalingsbereidheid van alle kopers van hoog naar laag, dan krijg je de vraaglijn. De vraaglijn laat het verband zien tussen de prijs en de gevraagde hoeveelheid: hoe lager de prijs, hoe meer mensen willen kopen.
+Bij een gegeven prijs is de marktomzet prijs × verkochte hoeveelheid.
+### UITLEG Consumentensurplus
+Het consumentensurplus is het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.
+Voor één koper: betalingsbereidheid min prijs. Voor de hele markt is het de driehoek tussen de vraaglijn en de prijslijn.
+Berekenen: ½ × basis × hoogte. De basis is de verkochte hoeveelheid, de hoogte is het verschil tussen het snijpunt van de vraaglijn met de prijsas en de marktprijs.
+Let op: bij een vraaglijn Qv = −2P + 40 is het snijpunt met de prijsas P = 20 (vul Qv = 0 in).
+### BEGRIPPEN
+Betalingsbereidheid = Het hoogste bedrag dat een consument voor een product wil betalen.
+Consumentensurplus = Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.
+Vraaglijn = Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.
+Afzet = De hoeveelheid verkochte producten in een bepaalde periode.
+### MC
+Sanne wil maximaal € 12 betalen voor een concertkaartje. Het kaartje kost € 9. Hoe groot is haar consumentensurplus?
+* € 3
+- € 9
+- € 12
+- € 21
+> Consumentensurplus = betalingsbereidheid − prijs = 12 − 9 = € 3.
+### MC
+De vraaglijn is Qv = −2P + 40 en de marktprijs is € 10. Hoe groot is het consumentensurplus?
+* € 100
+- € 200
+- € 400
+- € 50
+> Bij P = 10 is Qv = 20. Snijpunt met de prijsas: P = 20. CS = ½ × 20 × (20 − 10) = € 100.
+### MC
+Wat geeft de vraaglijn weer?
+* Hoeveel consumenten bij elke prijs willen kopen, dus de betalingsbereidheid van de kopers
+- Hoeveel producenten bij elke prijs willen verkopen
+- De kosten van het product bij elke hoeveelheid
+- De winst van de aanbieders bij elke prijs
+> De vraaglijn hoort bij de vragers: bij elke prijs de gevraagde hoeveelheid.
+
+## § 2.2 | Verandering van de vraag
+onderwerp: D.vraag
+deelvraag: Waardoor kan het koopgedrag van consumenten veranderen?
+leerdoelen: ECO-MARKT-06, ECO-MARKT-07
+### UITLEG Langs of van de vraaglijn
+Verandert de prijs van het product zelf, dan is er een beweging LANGS de vraaglijn. De gevraagde hoeveelheid verandert, de vraaglijn blijft liggen. Een prijsstijging maakt het consumentensurplus kleiner.
+Verandert iets anders, dan verschuift de vraaglijn zelf. Naar rechts betekent: bij elke prijs wordt meer gevraagd.
+### UITLEG Oorzaken van een verschuiving
+1. Consumenten hebben meer of minder te besteden (inkomen).
+2. De voorkeur voor het product verandert (mode, reclame, het weer).
+3. Het aantal consumenten verandert.
+4. De prijs van andere producten verandert.
+Substitutiegoederen vervangen elkaar: wordt koffie duurder, dan stijgt de vraag naar thee (vraaglijn thee naar rechts).
+Complementaire goederen vullen elkaar aan: worden spelcomputers duurder, dan daalt de vraag naar games (vraaglijn games naar links).
+### BEGRIPPEN
+Substitutiegoederen = Goederen die elkaar volgens de consument kunnen vervangen.
+Complementaire goederen = Goederen die elkaar aanvullen en vaak samen worden gebruikt.
+Ceteris paribus = De aanname dat alle andere factoren gelijk blijven.
+### MC
+De prijs van boter stijgt sterk. Wat gebeurt er met de vraaglijn van margarine?
+* Die verschuift naar rechts, want margarine is een substituut van boter
+- Die verschuift naar links, want margarine is een complement van boter
+- Er is een beweging langs de vraaglijn van margarine
+- Er verandert niets
+> Boter en margarine vervangen elkaar. Duurdere boter maakt margarine aantrekkelijker: bij elke prijs wordt meer margarine gevraagd.
+### MC
+De prijs van een tandenborstel stijgt. Welke verandering hoort daarbij op de markt voor tandenborstels?
+* Een beweging langs de vraaglijn: de gevraagde hoeveelheid daalt
+- Een verschuiving van de vraaglijn naar links
+- Een verschuiving van de vraaglijn naar rechts
+- Een verschuiving van de aanbodlijn naar links
+> Een prijsverandering van het product zelf geeft een beweging langs de lijn.
+### MC
+Het wordt een warme zomer. Wat gebeurt er met de vraaglijn naar ijs?
+* Die verschuift naar rechts
+- Die verschuift naar links
+- Er is alleen een beweging langs de vraaglijn
+- De vraaglijn wordt steiler maar verschuift niet
+> De voorkeur voor ijs neemt toe door het weer: bij elke prijs willen mensen meer ijs kopen.
+### MC
+De prijs van benzine stijgt flink. Wat verwacht je voor de vraag naar auto's met een hoog benzineverbruik?
+* De vraag naar auto's met een hoog verbruik daalt, want benzine en auto's zijn complementair
+- De vraag stijgt, want benzine en auto's zijn substituten
+- Er verandert niets, want het gaat om een ander product
+- Er is een beweging langs de vraaglijn van auto's
+> Benzine en auto's worden samen gebruikt (complementen). Duurdere benzine maakt rijden duurder, vooral met een auto die veel verbruikt.
+
+## § 2.3 | Prijselasticiteit van de vraag
+onderwerp: D.elas
+deelvraag: In welke mate reageren consumenten op prijsveranderingen?
+leerdoelen: ECO-ELAST-01, ECO-ELAST-02
+gens: elasticiteit
+### UITLEG Elasticiteit
+Een elasticiteit meet hoe sterk een gevolg reageert op een oorzaak:
+elasticiteit = procentuele verandering van het gevolg : procentuele verandering van de oorzaak.
+Prijselasticiteit van de vraag: Ev = %ΔQv : %ΔP. Die is normaal negatief, want bij een hogere prijs daalt de gevraagde hoeveelheid.
+### UITLEG Soorten
+Ev tussen 0 en −1: prijsinelastisch, zwakke reactie (aardappelen, brood, sigaretten).
+Ev kleiner dan −1 (bijvoorbeeld −2): prijselastisch, sterke reactie (sieraden, vakantiereizen).
+Ev = −1: proportioneel elastisch.
+### UITLEG Elasticiteit en omzet
+Bij een inelastische vraag stijgt de omzet als de prijs stijgt: de afzet daalt procentueel minder dan de prijs stijgt.
+Bij een elastische vraag daalt de omzet als de prijs stijgt.
+Bij Ev = −1 blijft de omzet gelijk en is de omzet maximaal.
+### BEGRIPPEN
+Prijselasticiteit van de vraag = De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.
+Prijsinelastische vraag = Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.
+Omzet = Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.
+### MC
+De prijs van een product stijgt met 5%. De gevraagde hoeveelheid daalt met 10%. Hoe groot is de prijselasticiteit?
+* −2, de vraag is prijselastisch
+- −0,5, de vraag is prijsinelastisch
+- −2, de vraag is prijsinelastisch
+- −0,5, de vraag is prijselastisch
+> Ev = −10 : 5 = −2. Kleiner dan −1, dus elastisch.
+### MC
+De prijselasticiteit van brood is −0,3. Een bakker verhoogt zijn prijs. Wat gebeurt er met zijn omzet (ceteris paribus)?
+* De omzet stijgt, want de afzet daalt procentueel minder dan de prijs stijgt
+- De omzet daalt, want hij verkoopt minder brood
+- De omzet blijft gelijk
+- Dat kun je niet zeggen zonder de kosten te kennen
+> Inelastische vraag: prijs omhoog geeft hogere omzet.
+### MC
+Bij welke prijselasticiteit is de omzet maximaal?
+* Ev = −1
+- Ev = 0
+- Ev = −2
+- Ev = −0,5
+> Bij Ev = −1 heft het prijseffect het hoeveelheidseffect precies op. Daar heeft de omzet zijn maximum.
+### MC
+Welk product heeft waarschijnlijk de meest prijselastische vraag?
+* Een vliegvakantie naar Spanje
+- Aardappelen
+- Insuline voor diabetespatiënten
+- Kraanwater
+> Voor een vakantie zijn er veel alternatieven en het is geen eerste levensbehoefte, dus consumenten reageren sterk op de prijs.
+
+## § 2.4 | Inkomenselasticiteit
+onderwerp: D.elas
+deelvraag: Hoe en in welke mate reageren consumenten op veranderingen in hun inkomen?
+leerdoelen: ECO-ELAST-03, ECO-ELAST-04
+### UITLEG Inkomenselasticiteit
+Ey = %ΔQv : %Δinkomen. Hij laat zien hoe sterk de gevraagde hoeveelheid reageert op een inkomensverandering.
+### UITLEG Soorten goederen
+Ey kleiner dan 0: inferieur goed. Bij een hoger inkomen koop je er minder van (huismerk, spek).
+Ey = 0: inkomensonafhankelijk (medicijnen).
+Ey tussen 0 en 1: noodzakelijk of primair goed (brood, melk).
+Ey groter dan 1: luxe goed (vliegvakantie, sieraden).
+Let op: bij een inkomensverandering verschuift de vraaglijn. De prijs blijft gelijk.
+### BEGRIPPEN
+Inkomenselasticiteit = De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.
+Inferieur goed = Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).
+Luxe goed = Goed met een inkomenselasticiteit groter dan 1.
+Noodzakelijk goed = Goed met een inkomenselasticiteit tussen 0 en 1.
+### MC
+Het inkomen stijgt met 4%. De vraag naar restaurantbezoek stijgt met 10%. Wat voor goed is restaurantbezoek?
+* Een luxe goed, Ey = 2,5
+- Een noodzakelijk goed, Ey = 0,4
+- Een inferieur goed, Ey = −2,5
+- Een luxe goed, Ey = 0,4
+> Ey = 10 : 4 = 2,5. Groter dan 1, dus luxe.
+### MC
+De inkomenselasticiteit van huismerkcola is −0,6. De inkomens dalen tijdens een crisis. Wat gebeurt er?
+* De vraag naar huismerkcola stijgt
+- De vraag naar huismerkcola daalt
+- De vraag blijft gelijk
+- De prijs van huismerkcola daalt
+> Een negatieve Ey (inferieur goed): als het inkomen daalt, stijgt de vraag.
+### MC
+Bij welke inkomenselasticiteit spreek je van een noodzakelijk goed?
+* Tussen 0 en 1
+- Groter dan 1
+- Kleiner dan 0
+- Precies −1
+> Noodzakelijke (primaire) goederen: de vraag stijgt wel als het inkomen stijgt, maar procentueel minder.

@@ -1,0 +1,129 @@
+# HOOFDSTUK h 5 | Economische macht
+domein: D
+hoofdvraag: Waarom en hoe proberen ondernemingen de marktwerking te beïnvloeden?
+
+## § 5.1 | Concurrentie beperken
+onderwerp: D.vorm
+deelvraag: Waarom en hoe proberen bedrijven de concurrentie te verminderen?
+### UITLEG Marketing
+Marketing is het verkoopbeleid dat de wensen van afnemers wil beïnvloeden. De marketingmix bestaat uit de vier P's: product, plaats (distributie), promotie en prijs.
+Strategieën: prijsdiscriminatie, prijsdifferentiatie, prijsdumping, e-commerce, productinnovatie en productdifferentiatie.
+### UITLEG Concurrenten uitschakelen of samenwerken
+Een octrooi (patent) is een exclusief recht op een uitvinding: anderen mogen die niet namaken of verkopen.
+Samenwerken: kartel, franchising, joint venture, consortium. Samengaan: fusie of overname.
+Nadelen voor de samenleving: hogere prijzen voor consumenten, banenverlies door rationalisatie, afhankelijke toeleveranciers en hogere toetredingsdrempels voor nieuwe concurrenten.
+### BEGRIPPEN
+Marketingmix = De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.
+Octrooi = Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.
+Kartel = Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.
+Fusie = Twee of meer ondernemingen die samen verdergaan als één onderneming.
+Franchising = Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.
+Joint venture = Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.
+Productdifferentiatie = Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.
+### MC
+Een farmaceutisch bedrijf heeft een octrooi op een nieuw medicijn. Wat is daarvan het gevolg voor de markt?
+* Het bedrijf heeft tijdelijk een monopolie en kan een hoge prijs vragen
+- Andere bedrijven mogen het medicijn ook maken als ze goedkoper zijn
+- De overheid bepaalt de prijs van het medicijn
+- Er ontstaat volledige mededinging
+> Het octrooi houdt concurrenten buiten de markt.
+### MC
+Drie bouwbedrijven spreken af wie welke aanbesteding wint en tegen welke prijs. Hoe heet dit?
+* Een kartel
+- Een joint venture
+- Franchising
+- Een fusie
+> Zelfstandige bedrijven die afspraken maken om concurrentie te beperken vormen een kartel. Dat is verboden.
+### MC
+Waarom is een fusie tussen de twee grootste aanbieders vaak nadelig voor consumenten?
+* De concurrentie neemt af, waardoor de prijs kan stijgen
+- De kwaliteit gaat altijd omlaag
+- De overheid moet dan meer subsidie geven
+- Er komen meer aanbieders op de markt
+> Minder concurrentie betekent meer marktmacht voor de aanbieder.
+
+## § 5.2 | Monopolie
+onderwerp: D.vorm
+deelvraag: Hoe bepaalt een monopolist de prijs en welke invloed heeft dat op de welvaart?
+leerdoelen: ECO-MARKT-01, ECO-MARKT-02, ECO-PRIJS-01
+gens: monopolie
+### UITLEG Kenmerken
+Bij een monopolie is er één aanbieder tegenover veel vragers. De monopolist is prijszetter. Zijn prijsafzetlijn (GO-lijn) is de collectieve vraaglijn: wil hij meer verkopen, dan moet hij de prijs verlagen.
+### UITLEG Omzet en winst
+De MO-lijn ligt onder de GO-lijn, want een lagere prijs geldt voor alle eenheden.
+Maximale omzet: MO = 0.
+Maximale winst: MO = MK. Stappen: (1) los MO = MK op voor Q, (2) vul Q in de prijsafzetlijn in voor P, (3) TW = TO − TK of (P − GTK) × Q.
+Bij een lineaire prijsafzetlijn P = aQ + b geldt TO = aQ² + bQ, dus MO = 2aQ + b.
+### UITLEG Prijsdiscriminatie
+Prijsdiscriminatie is hetzelfde product voor verschillende prijzen verkopen aan verschillende groepen. Voorwaarden: de markt is te splitsen in deelmarkten met een verschillende prijsgevoeligheid, en doorverkopen tussen de deelmarkten is niet mogelijk.
+### UITLEG Welvaartsverlies
+Bij een monopolie is P groter dan MK en de productie kleiner dan bij volledige mededinging. Het consumentensurplus wordt kleiner, het producentensurplus groter, maar het totale surplus daalt: het welvaartsverlies (de Harberger-driehoek).
+### BEGRIPPEN
+Monopolie = Marktvorm met één aanbieder tegenover veel vragers.
+Prijsdiscriminatie = Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.
+Welvaartsverlies = Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.
+### MC
+Een monopolist heeft P = −0,5Q + 60. Wat is de marginale opbrengst?
+* MO = −Q + 60
+- MO = −0,5Q + 60
+- MO = −0,25Q + 60
+- MO = −Q + 30
+> TO = −0,5Q² + 60Q, dus MO = −Q + 60. De MO-lijn is twee keer zo steil als de prijsafzetlijn.
+### MC
+Bij welke voorwaarde maakt een monopolist maximale omzet?
+* MO = 0
+- MO = MK
+- GO = GTK
+- P = MK
+> De omzet stijgt zolang MO positief is en daalt daarna.
+### MC
+Een pretpark geeft kinderen korting op de toegangsprijs. Waarom kan dit hier werken als prijsdiscriminatie?
+* Kinderen en volwassenen zijn te onderscheiden en een kaartje kan bij de ingang niet worden doorverkocht aan een volwassene
+- Kinderen gebruiken minder attracties
+- De kosten van kinderen zijn lager
+- De overheid verplicht kinderkorting
+> Beide voorwaarden: gescheiden deelmarkten en geen doorverkoop. Kinderen zijn bovendien prijsgevoeliger.
+### MC
+Waarom is er bij een monopolie een welvaartsverlies?
+* De monopolist produceert minder en vraagt een hogere prijs dan bij volledige mededinging, waardoor het totale surplus daalt
+- Omdat de monopolist verlies maakt
+- Omdat het consumentensurplus naar de overheid gaat
+- Omdat de kosten van een monopolist altijd hoger zijn
+> P > MK: er worden producten niet gemaakt waarvoor kopers meer willen betalen dan de extra kosten.
+
+## § 5.3 | Monopolistische concurrentie en oligopolie
+onderwerp: D.vorm
+deelvraag: Welke invloed hebben monopolistische concurrentie en oligopolie op de allocatie en de welvaart?
+leerdoelen: ECO-SPELT-03
+### UITLEG Monopolistische concurrentie
+Veel aanbieders, heterogene producten, meestal vrije toetreding. Voorbeelden: kappers, restaurants, kledingwinkels. De prijs is hoger en de productie kleiner dan bij volledige mededinging, maar de consument krijgt meer keuze, service en kwaliteit.
+### UITLEG Oligopolie
+Weinig aanbieders met elk een groot marktaandeel (supermarkten, telecom, luchtvaart). Twee aanbieders heet een duopolie. Ze zijn van elkaar afhankelijk: een prijsverandering van de één raakt de ander direct. Daarom volgen ze vaak de prijsleider. Toetreding is moeilijk door hoge kosten en octrooien.
+De Autoriteit Consument & Markt (ACM) grijpt in bij machtsmisbruik en kartels (Mededingingswet).
+Ook hier: hogere prijs, kleinere productie en dus een welvaartsverlies vergeleken met volledige mededinging.
+### BEGRIPPEN
+Oligopolie = Marktvorm met weinig aanbieders tegenover veel vragers.
+Monopolistische concurrentie = Marktvorm met veel aanbieders van heterogene producten.
+Duopolie = Marktvorm met twee aanbieders.
+Prijsleider = De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.
+### MC
+Welke markt is een oligopolie?
+* De Nederlandse markt voor mobiele telefonie met een paar grote providers
+- De markt voor kappers in Amsterdam
+- De markt voor tarwe op de wereldmarkt
+- De markt voor drinkwater in een regio met één waterbedrijf
+> Weinig aanbieders met een groot marktaandeel.
+### MC
+Waarom reageren oligopolisten sterk op elkaars prijzen?
+* Omdat ze elk een groot marktaandeel hebben, raakt een prijsverandering van de één direct de afzet van de ander
+- Omdat de overheid dat verplicht
+- Omdat hun producten homogeen zijn en de markt volkomen is
+- Omdat ze geen winst mogen maken
+> Onderlinge afhankelijkheid is het kenmerk van een oligopolie.
+### MC
+Welk voordeel heeft monopolistische concurrentie voor de consument vergeleken met volledige mededinging?
+* Meer keuze, service en variatie in kwaliteit
+- Een lagere prijs
+- Een grotere productie
+- Een groter totaal surplus
+> De prijs is juist hoger, maar daar staat productvariatie tegenover.

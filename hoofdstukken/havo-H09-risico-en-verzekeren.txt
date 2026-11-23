@@ -1,0 +1,197 @@
+# HOOFDSTUK h 9 | Risico en verzekeren
+domein: G
+hoofdvraag: Waarom, hoe en waartegen kun je je verzekeren?
+
+## § 9.1 | Risicoavers gedrag en polisvoorwaarden
+onderwerp: G.risico
+deelvraag: Waarom zou je je willen verzekeren en onder welke voorwaarden kan dat?
+leerdoelen: ECO-VERZE-01, ECO-ALGEM-14
+gens: verwachteSchade
+### UITLEG Waarom verzekeren?
+Iemand die risicoavers is, betaalt liever een vaste premie dan dat hij de kans loopt op een grote schade. Vragen bij de keuze: hoe groot is de kans op schade, hoe groot is de schade, kan ik die zelf betalen en is het risico de premie waard?
+De verwachte schade is kans × schadebedrag. De premie is hoger dan de verwachte schade, want de verzekeraar heeft ook kosten en wil winst maken.
+Verzekeren werkt door solidariteit: veel mensen betalen premie, een paar mensen met schade krijgen een uitkering.
+### UITLEG Verplicht verzekeren en de polis
+Sommige verzekeringen zijn verplicht (WA-autoverzekering, WW, AOW): de schade kan te hoog zijn om zelf te betalen, zonder verplichting zouden te weinig mensen meedoen, en de overheid vindt het rechtvaardig dat iedereen meebetaalt.
+In de polisvoorwaarden staat wat wel en niet gedekt is. Bij opzet of grove nalatigheid (dronken rijden) keert de verzekeraar meestal niet uit. Klachten gaan naar het Kifid.
+### BEGRIPPEN
+Risicoaversie = Liever een zekere kleine uitgave (de premie) dan het risico op een grote schade.
+Polisvoorwaarden = De regels van een verzekering: wat wel en niet gedekt is.
+Verzekeringspremie = Het bedrag dat je betaalt om verzekerd te zijn.
+Eigen risico = Het deel van de schade dat je zelf moet betalen.
+### MC
+De kans dat een fiets van € 900 wordt gestolen is 4% per jaar. Hoe groot is de verwachte schade per jaar?
+* € 36
+- € 4
+- € 225
+- € 360
+> Verwachte schade = 0,04 × 900 = € 36.
+### MC
+Waarom is de premie van een verzekering altijd hoger dan de verwachte schade?
+* De verzekeraar moet ook zijn eigen kosten betalen en wil winst maken
+- Omdat de kans op schade altijd 100% is
+- Omdat de overheid dat verplicht
+- Omdat verzekerden risicozoekend zijn
+> Premie = verwachte schade + kosten + winstopslag.
+### MC
+Waarom is een WA-verzekering voor auto's verplicht?
+* De schade die je bij anderen veroorzaakt kan zo hoog zijn dat je die zelf niet kunt betalen, en slachtoffers moeten zeker zijn van vergoeding
+- Omdat auto's anders niet verkocht mogen worden
+- Omdat verzekeraars anders failliet gaan
+- Omdat de premie dan lager is voor rijke mensen
+> Bescherming van derden tegen een onbetaalbare schade.
+
+## § 9.2 | Moral hazard en averechtse selectie
+onderwerp: G.info
+deelvraag: Waarom gebruiken verzekeraars eigen risico's, preventie en uitsluitingen?
+leerdoelen: ECO-VERZE-02, ECO-VERZE-03, ECO-VERZE-04
+### UITLEG Asymmetrische informatie
+De verzekerde weet meer over zijn eigen risico en gedrag dan de verzekeraar. Dat geeft twee problemen.
+Moral hazard: na het afsluiten gaat iemand minder voorzichtig om met spullen of zorg, omdat de schade toch wordt vergoed. Verzekeraars reageren met eigen risico, uitsluitingen, premiedifferentiatie en bonus-malus (no-claimkorting).
+Averechtse selectie: vooral mensen met een hoog risico sluiten de verzekering af. De verzekeraar moet de premie verhogen, waardoor goede risico's afhaken en de premie nog verder stijgt.
+### UITLEG Risicoselectie en verplichting
+Met risicoselectie kijkt de verzekeraar naar kenmerken als leeftijd of roken en vraagt hij slechte risico's meer premie of weigert hij ze. Om dat te voorkomen is de basiszorgverzekering verplicht en hebben verzekeraars een acceptatieplicht. Het vereveningsfonds compenseert verzekeraars met veel dure klanten.
+### BEGRIPPEN
+Moral hazard = Minder voorzichtig gedrag nadat je verzekerd bent, omdat de schade toch wordt vergoed.
+Averechtse selectie = Vooral mensen met een hoog risico sluiten een verzekering af, waardoor de premie stijgt.
+Asymmetrische informatie = De ene partij weet meer dan de andere partij.
+Bonus-malusregeling = Je premie daalt als je geen schade claimt en stijgt na een schadeclaim.
+Risicoselectie = Een verzekeraar maakt onderscheid tussen klanten op basis van hun risico.
+Vereveningsfonds = Fonds dat zorgverzekeraars met veel dure klanten compenseert.
+### MC
+Na het afsluiten van een allriskverzekering laat Tim zijn telefoon vaker slingeren. Hoe heet dit?
+* Moral hazard
+- Averechtse selectie
+- Risicoselectie
+- Risicoaversie
+> Gedrag verandert na het verzekeren.
+### MC
+Een verzekeraar verhoogt de premie van een reisverzekering. Vooral jonge, gezonde reizigers zeggen op. Wat is het gevolg?
+* De gemiddelde schade per klant stijgt, waardoor de premie nog verder omhoog moet: averechtse selectie
+- De premie kan omlaag, want er zijn minder klanten
+- Er ontstaat moral hazard bij de overgebleven klanten
+- De verzekeraar maakt meer winst
+> Goede risico's vertrekken, slechte blijven.
+### MC
+Welke maatregel helpt het beste tegen moral hazard?
+* Een eigen risico, zodat de verzekerde zelf ook een deel van de schade betaalt
+- Een acceptatieplicht
+- Een verplichte verzekering voor iedereen
+- Een vereveningsfonds
+> Wie zelf meebetaalt, blijft voorzichtiger.
+### MC
+Waarom is de basiszorgverzekering verplicht voor iedereen?
+* Om averechtse selectie te voorkomen: anders verzekeren vooral mensen met hoge zorgkosten zich
+- Om moral hazard te voorkomen
+- Omdat zorg een collectief goed is
+- Om de winst van zorgverzekeraars te verhogen
+> Met een verplichting doen ook de goede risico's mee.
+
+## § 9.3 | Particuliere verzekeringen
+onderwerp: G.risico
+deelvraag: Hoe zit het met de dekking van particuliere verzekeringen?
+leerdoelen: ECO-ALGEM-13
+### UITLEG Soorten
+Aansprakelijkheidsverzekering (schade die je bij anderen veroorzaakt), reisverzekering, rechtsbijstand, autoverzekering (WA, WA + beperkt casco, WA + volledig casco/allrisk), woonverzekering: opstal (het huis zelf) en inboedel (de spullen).
+Onderverzekering: het verzekerde bedrag is lager dan de werkelijke waarde, dan wordt maar een deel vergoed. Oververzekering: je betaalt premie voor meer dan de waarde, maar je krijgt nooit meer dan de werkelijke schade. Een indexatieclausule laat het verzekerde bedrag meestijgen met de prijzen.
+### UITLEG Zorgverzekering
+De zorgpremie bestaat uit twee delen: de nominale premie aan de zorgverzekeraar en de inkomensafhankelijke bijdrage via de Belastingdienst. Verzekeraars hebben een acceptatieplicht voor het basispakket.
+### BEGRIPPEN
+Onderverzekering = Het verzekerde bedrag is lager dan de werkelijke waarde, waardoor maar een deel van de schade wordt vergoed.
+Inboedelverzekering = Verzekering voor de spullen in je huis.
+Opstalverzekering = Verzekering voor het huis zelf.
+Nominale zorgpremie = Het vaste deel van de zorgpremie dat je aan de zorgverzekeraar betaalt.
+### MC
+Een inboedel van € 60.000 is verzekerd voor € 45.000. Er is € 8.000 schade. Hoeveel vergoedt de verzekeraar bij onderverzekering (naar verhouding)?
+* € 6.000
+- € 8.000
+- € 45.000
+- € 2.000
+> 45.000 : 60.000 = 75% verzekerd. 75% van € 8.000 = € 6.000.
+### MC
+Welke verzekering betaalt als je met je fiets per ongeluk de auto van een ander beschadigt?
+* De aansprakelijkheidsverzekering
+- De inboedelverzekering
+- De opstalverzekering
+- De reisverzekering
+> Schade bij anderen valt onder aansprakelijkheid (WA particulier).
+### MC
+Uit welke twee delen bestaat de premie voor de zorgverzekering?
+* De nominale premie aan de verzekeraar en de inkomensafhankelijke bijdrage via de Belastingdienst
+- Het eigen risico en de no-claimkorting
+- De WA-premie en de cascopremie
+- De AOW-premie en de WW-premie
+> Een vast deel en een deel dat afhangt van je inkomen.
+
+## § 9.4 | Sociale zekerheid in Nederland
+onderwerp: G.soczek
+deelvraag: Hoe is het stelsel van sociale zekerheid in Nederland georganiseerd?
+### UITLEG Het stelsel
+Sociale verzekeringen: je betaalt premie en hebt recht op een uitkering bij een bepaald risico.
+- Volksverzekeringen gelden voor alle inwoners: AOW (ouderdom), Anw (nabestaanden), Wlz (langdurige zorg). De kinderbijslag (AKW) hoort ook bij de algemene regelingen.
+- Werknemersverzekeringen gelden alleen voor werknemers: WW (werkloosheid), WIA (arbeidsongeschiktheid), ZW (ziekte).
+Sociale voorzieningen: geen premie, wel uit belastinggeld, en alleen als je inkomen te laag is. Voorbeelden: de bijstand (Participatiewet) en de Toeslagenwet. Ze vullen aan tot het sociaal minimum.
+### UITLEG Waarom verplicht?
+Zonder verplichting zouden de kosten voor veel mensen onbetaalbaar zijn, zouden veel mensen zich niet verzekeren en is er geen solidariteit. Uitkeringen kunnen waardevast zijn (meestijgen met de prijzen) of welvaartsvast (meestijgen met de lonen). Ook hier speelt asymmetrische informatie: moral hazard en fraude.
+### BEGRIPPEN
+Volksverzekeringen = Sociale verzekeringen die voor alle inwoners gelden, zoals de AOW.
+Werknemersverzekeringen = Sociale verzekeringen die alleen voor werknemers gelden, zoals de WW.
+Sociale voorzieningen = Uitkeringen uit belastinggeld voor wie te weinig inkomen heeft, zonder premiebetaling.
+Sociaal minimum = Het minimuminkomen dat de overheid nodig vindt om van te leven.
+Welvaartsvaste uitkering = Een uitkering die meestijgt met de lonen.
+Waardevaste uitkering = Een uitkering die meestijgt met de prijzen, zodat de koopkracht gelijk blijft.
+### MC
+Bij welke soort regeling hoort de WW?
+* Een werknemersverzekering
+- Een volksverzekering
+- Een sociale voorziening
+- Een particuliere verzekering
+> Alleen werknemers betalen premie en hebben recht op WW.
+### MC
+Wat is het verschil tussen een sociale verzekering en een sociale voorziening?
+* Voor een verzekering betaal je premie; een voorziening wordt betaald uit belastinggeld en hangt af van je inkomen
+- Een voorziening is alleen voor werknemers
+- Een verzekering is vrijwillig
+- Er is geen verschil
+> Bijvoorbeeld WW (verzekering) tegenover bijstand (voorziening).
+### MC
+De lonen stijgen met 3% en de prijzen met 2%. Een welvaartsvaste uitkering stijgt met:
+* 3%
+- 2%
+- 5%
+- 1%
+> Welvaartsvast betekent: koppeling aan de lonen.
+
+## § 9.5 | Sociale verzekeringen en het omslagstelsel
+onderwerp: G.soczek
+deelvraag: Wat zijn doelstellingen van enkele sociale verzekeringen en voorzieningen en hoe bereken je de uitkeringen?
+### UITLEG Regelingen
+AOW: basispensioen vanaf de AOW-leeftijd. Akw: kinderbijslag. Anw: uitkering voor nabestaanden. Wlz: langdurige zorg. WW: tijdelijke uitkering bij werkloosheid. WIA: bij arbeidsongeschiktheid. ZW: bij ziekte zonder werkgever. Wet arbeid en zorg: verlof (zwangerschap, zorg). Wajong: jonggehandicapten.
+Bijstand (Participatiewet): aanvulling tot het sociaal minimum. De kostendelersnorm verlaagt de uitkering als je met meer volwassenen een huis deelt, omdat je dan kosten deelt.
+### UITLEG Omslagstelsel
+De AOW werkt met een omslagstelsel: de premies van de werkenden van nu betalen de uitkeringen van de ouderen van nu. Door vergrijzing komen er meer ouderen per werkende, zodat de premie of de belasting omhoog moet of de uitkering omlaag. Daar staat het kapitaaldekkingsstelsel tegenover (zoals bij aanvullend pensioen): je spaart voor je eigen uitkering.
+### BEGRIPPEN
+Omslagstelsel = De premies van de werkenden van nu worden direct gebruikt voor de uitkeringen van nu.
+Kostendelersnorm = Regel waardoor de bijstand lager is als je met andere volwassenen een huis deelt.
+Participatiewet = Wet die de bijstand regelt en mensen helpt aan het werk te komen.
+### MC
+Waarom staat de AOW onder druk door de vergrijzing?
+* In een omslagstelsel betalen steeds minder werkenden voor steeds meer ouderen
+- Omdat ouderen meer belasting betalen
+- Omdat de AOW in een kapitaaldekkingsstelsel zit
+- Omdat de rente daalt
+> Minder werkenden per AOW'er betekent hogere lasten per werkende.
+### MC
+Een gepensioneerde krijgt een uitkering die is opgebouwd door zelf jarenlang geld te beleggen. Welk stelsel is dit?
+* Kapitaaldekkingsstelsel
+- Omslagstelsel
+- Sociale voorziening
+- Volksverzekering
+> Je spaart je eigen pensioen bij elkaar.
+### MC
+Welke regeling geldt voor iemand die nooit heeft gewerkt en geen vermogen heeft?
+* De bijstand (Participatiewet)
+- De WW
+- De WIA
+- De Ziektewet
+> Een sociale voorziening; WW, WIA en ZW zijn werknemersverzekeringen.
