@@ -129,7 +129,7 @@ def antwoorden(tekst):
     uit = {}
     for m in re.finditer(r'(?:^|\s)(\d{1,2}) maximumscore (\d)\s*(.*?)(?=\s\d{1,2} maximumscore \d|\n[ \t]*Opgave \d+\b|\Z)', t, re.S):
         a = m.group(3)
-        a = re.sub(r'Vraag Antwoord Scores', ' ', a)
+        a = re.sub(r'(?m)Vraag Antwoord Scores|^[ \t]*(?:Vraag|Antwoord|Scores|Scores Vraag)[ \t]*$', ' ', a)   # kopregels van de pagina
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
         a = re.sub(r'\n(\d)(?=\n(?:•|of\b)|$)', r' \1', a)   # score op een eigen regel
         a = deelscores(a)
