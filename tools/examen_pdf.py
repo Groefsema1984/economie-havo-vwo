@@ -98,7 +98,7 @@ def antwoorden(tekst):
         a = m.group(3)
         a = re.sub(r'Vraag Antwoord Scores', ' ', a)
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
-        a = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()   # deelscore achter een bullet
+        if len(a) > 30: a = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()   # deelscore achter een bullet (niet bij 'grafiek 3')
         uit[int(m.group(1))] = a
     for m in re.finditer(r'(?:^|\n)\s*(\d{1,2}) ([A-F])\s*(?=\n)', t):   # meerkeuzevraag: '23 C'
         uit.setdefault(int(m.group(1)), 'MC:' + m.group(2))
@@ -133,6 +133,7 @@ def splits_invul(v, antw):
         zin = re.sub(r'(?:…|\.\.\.)\s*\(%d\)\s*(?:…|\.\.\.)' % k, '…', zin).strip(' -')
         zin = re.sub(r'(?:…|\.\.\.)\s*\((\d)\)\s*(?:…|\.\.\.)', r'…(\1)…', zin)
         zin = re.sub(r'^Maak [^:]*:\s*', '', zin)
+        zin = re.sub(r'\s+Maak (?:de|van|onderstaande)[^.]*?(?:correct|juist)[^.]*\.?', '', zin)
         uit.append({'k': k, 'zin': zin, 'o': o, 'a': idx})
     return uit
 
