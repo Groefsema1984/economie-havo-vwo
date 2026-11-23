@@ -89,16 +89,20 @@ def opgaven(tekst):
             ctx = naloop
     return uit
 
+def deelscores(a):
+    """'… lager is 1' aan het eind van een regel -> '… lager is (1p)'; niet bij 'grafiek 3' of 'indien … juist 2'"""
+    return '\n'.join(re.sub(r' (\d)$', r' (\1p)', r) if len(r) > 25 and 'indien' not in r and not r.endswith(' 0') else r for r in a.split('\n')).strip()
+
 def antwoorden(tekst):
     t = schoon(tekst)
     t = t[t.find('4 Beoordelingsmodel'):] if '4 Beoordelingsmodel' in t else t
     t = re.split(r'\n\s*5 Aanleveren scores', t)[0]
     uit = {}
-    for m in re.finditer(r'(?:^|\s)(\d{1,2}) maximumscore (\d)\s*(.*?)(?=\s\d{1,2} maximumscore \d|\n[ \t]*Opgave \d+ |\Z)', t, re.S):
+    for m in re.finditer(r'(?:^|\s)(\d{1,2}) maximumscore (\d)\s*(.*?)(?=\s\d{1,2} maximumscore \d|\n[ \t]*Opgave \d+\b|\Z)', t, re.S):
         a = m.group(3)
         a = re.sub(r'Vraag Antwoord Scores', ' ', a)
         a = re.sub(r'\s*\n\s*', '\n', a).strip()
-        if len(a) > 30: a = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()   # deelscore achter een bullet (niet bij 'grafiek 3')
+        a = deelscores(a)
         uit[int(m.group(1))] = a
     for m in re.finditer(r'(?:^|\n)\s*(\d{1,2}) ([A-F])\s*(?=\n)', t):   # meerkeuzevraag: '23 C'
         uit.setdefault(int(m.group(1)), 'MC:' + m.group(2))
@@ -162,7 +166,7 @@ def main():
         # aanvulling 'bij vraag 15 moet: ... worden vervangen door: ...' -> nieuw antwoordmodel
         for m in re.finditer(r'bij vraag (\d+) moet:?\s*(?:Een voorbeeld|Voorbeelden)[^\n]*?(?:\n(?!\s*Op pagina)[^\n]*)*?\s*(?:worden vervangen|vervangen worden) door:\s*(.*?)(?=\n\s*Toelichting|\n\s*Op pagina|\n\s*Ik verzoek|\Z)', schoon(cvtekst), re.S):
             a = re.sub(r'\s*\n\s*', '\n', m.group(2)).strip(); vervangen.add(int(m.group(1)))
-            cv[int(m.group(1))] = re.sub(r' (\d)\n', r' (\1p)\n', a + '\n').strip()
+            cv[int(m.group(1))] = deelscores(a)
         # overige aanvullingen ('bij vraag 20 moet naast ... ook ... goed gerekend worden') -> achter het antwoordmodel
         ai = cvtekst.find('aanvulling op het correctievoorschrift 20')
         if ai >= 0:
