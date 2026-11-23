@@ -58,11 +58,11 @@ def opgaven(tekst):
             # de vraag loopt tot de eerste lege regel; wat daarna komt is context voor de volgende vraag
             stukken = re.split(r'\n\s*\n', body.strip(), maxsplit=1)
             # pdf-tekst zet soms een lege regel midden in de vraag: plak door zolang de zin niet af is
-            while len(stukken) > 1 and not re.search(r'[.?!:)]\s*$', stukken[0]):
+            while len(stukken) > 1 and not re.search(r'[.?!:)]\s*$', stukken[0]) and 'Kies uit' not in stukken[0]:
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + ' ' + verder[0]] + verder[1:]
             # 'Leg je antwoord uit.' / 'Ga als volgt te werk: ...' na een lege regel hoort nog bij de vraag
-            if len(stukken) > 1 and (re.search(r'\sA\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
+            if len(stukken) > 1 and (re.search(r'(?:^|\s)A\s.+\sB\s.+\sC\s', re.split(r'\n\s*\n', stukken[1])[0], re.S) and pnt == 1 or re.match(r'(Leg je|Licht je|Motiveer|Ga als volgt|Doe (het|dit) als volgt|Gebruik hierbij|Rond (je|af)|Geef (daarbij|hierbij)|Noem daarbij|Noteer)', stukken[1].strip())):
                 verder = re.split(r'\n\s*\n', stukken[1], maxsplit=1)
                 stukken = [stukken[0] + '\n' + verder[0].strip()] + verder[1:]
             vraag = stukken[0]
@@ -105,12 +105,13 @@ def splits_invul(v, antw):
     kies = km.group(1)
     opties = {}
     for m in re.finditer(r'bij \((\d)\)\s*(.*?)(?=bij \(\d\)|$)', kies, re.S):
-        o = [re.sub(r'\s+', ' ', x).strip(' .') for x in re.split(r'\s/\s', m.group(2).strip()) if x.strip(' .\n')]
+        o = [re.sub(r'\s+', ' ', x).strip(' .') for x in re.split(r'\s/\s|(?<=[a-zà-ü])/(?=[a-zà-ü])', m.group(2).strip()) if x.strip(' .\n')]
         if len(o) >= 2: opties[int(m.group(1))] = o
     antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)|•\s*\(\d\) en \(\d\)|•\s*\(\d\) juist', antw)[0]   # alleen het modelantwoord, niet de puntentelling
     juist = {int(m.group(1)): m.group(2).strip(' .') for m in re.finditer(r'\((\d)\)\s*([^()\n•]+?)(?=\s*\(\dp\)|\s*\(\d\)|\s+\d\s*$|\s+\d\n|\n|$|\s+indien|\s+of\s)', antw)}
     dubbel = {k for k in range(1, 10) if len(re.findall(r'\(%d\)' % k, antw)) > 1}   # meerdere goede antwoordsets
     tekst = re.sub(r'\s+', ' ', v['q'][:km.start()])
+    if '(1)' not in tekst: tekst = re.sub(r'\s+', ' ', v['ctx']) + ' ' + tekst   # de zinnen staan soms boven de vraag
     zinnen = re.split(r'(?<=[.!?])\s+|\s-\s|^-\s', tekst)
     uit = []
     for k, o in sorted(opties.items()):
@@ -157,6 +158,7 @@ def main():
             q = v['q']
             if re.search(r'Gebruik[^.]*\bbron', q): q += '\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)'
             elif re.search(r'Gebruik[^.]*\b(figuur|tabel|grafiek)', q): q += '\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)'
+            if re.fullmatch(r'[A-F]', a.strip()): a = 'MC:' + a.strip()
             if a.startswith('MC:'):   # echte meerkeuzevraag uit het examen
                 mm = re.search(r'^(.*?)\s+A\s+(.+?)\s+B\s+(.+?)(?:\s+C\s+(.+?))?(?:\s+D\s+(.+?))?(?:\s+E\s+(.+?))?\s*$', v['q'], re.S)
                 if not mm: rapport.append(f'{ex} vraag {v["nr"]}: meerkeuzevraag niet te lezen'); continue
