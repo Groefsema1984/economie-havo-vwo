@@ -1,0 +1,447 @@
+# LEERDOEL ECO-MARKT-01
+domein: D
+onderwerp: D.vorm
+thema: Marktvormen
+naam: MO en MK opstellen en maximale winst van een monopolist berekenen
+doel: Ik kan MO en MK opstellen en de maximale winst van een monopolist berekenen.
+gens: monopolie
+
+## UITLEG Winstmaximalisatie met MO = MK en aflezen uit de grafiek
+Bij winstmaximalisatie moet MO = MK zijn genoemd of toegepast, ook als je de waarden afleest uit een grafiek; zonder dat volgen geen of niet alle punten. Vul daarna Q in de prijsafzetfunctie in voor de prijs, en lees de prijs af op de GO-lijn, niet op de MK-lijn. Een heffing komt bij de MK. Maximale omzet ligt bij MO = 0. Winst = (P − GTK) × Q.
+
+## UITLEG Maximale winst, minimaal verlies, maximale omzet, break-even en doorproduceren
+Maximale winst én minimaal verlies vind je bij MO = MK: schrijf dit op, bepaal Q en vul Q in de prijsafzetlijn (GO) in voor de prijs, niet op de MK-lijn. Maximale omzet: MO = 0. Break-even: TO = TK, inclusief constante kosten. Doorproduceren loont zolang de prijs hoger is dan de GVK, niet de GTK.
+
+## UITLEG Winstmaximalisatie MO = MK
+Schrijf de afleiding volledig op: vraagfunctie omschrijven naar prijs, TO = prijs maal Q, MO = TO', MK = TK', MO = MK, Q berekenen, Q in de prijsfunctie invullen. Maximale omzet geldt bij MO = 0; een prijsnemer heeft P = GO = MO. Daarna vaak TW = TO − TK of het doorberekende deel van een kostenstijging. Q aflezen uit een figuur, de prijs uit MK halen of constante kosten vergeten is fout.
+
+## OPGAVE IT-00097 3p | Veerdienst Zeelicht
+Rederij Zeelicht is de enige aanbieder van overtochten naar het Rimmeleiland. Er is geen brug en geen concurrent, dus Zeelicht bepaalt zelf de prijs van een enkele overtocht.
+De vraag naar overtochten per dag is Qv = −4P + 480, met P in euro per overtocht. De totale kosten per dag zijn TK = 0,25Q² + 20Q + 1.000 (in euro). Zeelicht streeft naar maximale winst.
+Bereken bij welke hoeveelheid overtochten per dag de winst van Zeelicht maximaal is.
+Doe het als volgt:
+− Schat eerst of de winstmaximale hoeveelheid kleiner of groter is dan 240 overtochten (de helft van 480). Schrijf je schatting op.
+− Schrijf de vraagfunctie om naar P = ... en stel TO, MO en MK op.
+− Los MO = MK op en vergelijk je uitkomst met je schatting.
+### ANTWOORD
+Schatting: bij Q = 240 is MO gelijk aan 0. MK is positief, dus de winstmaximale Q is kleiner dan 240. Qv = −4P + 480 geeft 4P = 480 − Q, dus P = −0,25Q + 120. TO = P × Q = −0,25Q² + 120Q, dus MO = TO' = −0,5Q + 120. MK = TK' = 0,5Q + 20. Winstmaximum: MO = MK, dus −0,5Q + 120 = 0,5Q + 20. Dan 100 = Q. Zeelicht vervoert dus 100 overtochten per dag. Controle: P = −0,25 × 100 + 120 = € 95 en 100 is kleiner dan 240, dat past bij mijn schatting.
+Puntenverdeling:
+• Omschrijven naar P = −0,25Q + 120, TO = −0,25Q² + 120Q, dus MO = TO' = −0,5Q + 120 (1)
+• MK = TK' = 0,5Q + 20 (1)
+• MO = MK geeft −0,5Q + 120 = 0,5Q + 20, dus Q = 100 overtochten per dag (1)
+
+## OPGAVE IT-00099 4p | Zoutmijn Rosendal
+Zoutmijn Rosendal is de enige producent van het zeldzame Rosenzout in het land. De mijn kiest de afzet waarbij de winst maximaal is.
+In de tabel staan gegevens over één jaar. Let op de eenheden.
+Tabel Gegevens Zoutmijn Rosendal (per jaar):
+Gegeven | Waarde | Eenheid
+Vraagfunctie | Qv = −2,5P + 400 | Qv in 1.000 ton; P in euro per ton
+Totale kosten | TK = 0,1Q² + 40Q + 3.000 | Q in 1.000 ton; TK in 1.000 euro
+Afzet vorig jaar | 90 | 1.000 ton
+Verkoopprijs vorig jaar | 124 | euro per ton
+Aantal medewerkers | 85 | personen
+Bereken de maximale totale winst per jaar van Rosendal. Geef je antwoord in duizenden euro's.
+Doe het als volgt:
+− Noteer welke gegevens uit de tabel je nodig hebt en welke niet.
+− Bepaal MO en MK. Controle: daalt MO twee keer zo snel als de prijsafzetfunctie?
+− Los MO = MK op. Controle: vul Q in beide functies in; de uitkomsten moeten gelijk zijn.
+− Bereken P uit de prijsafzetfunctie en daarna TW. Zet de eenheid bij je antwoord.
+### ANTWOORD
+Nodig heb ik de vraagfunctie en de TK; afzet en prijs van vorig jaar en het aantal medewerkers heb ik niet nodig. Qv = −2,5P + 400 geeft P = −0,4Q + 160. TO = −0,4Q² + 160Q, dus MO = −0,8Q + 160. TK = 0,1Q² + 40Q + 3.000, dus MK = 0,2Q + 40. MO = MK: −0,8Q + 160 = 0,2Q + 40, dus 120 = Q. Q = 120 (× 1.000 ton). P = −0,4 × 120 + 160 = € 112 per ton. TO = 112 × 120 = 13.440. TK = 0,1 × 120² + 40 × 120 + 3.000 = 9.240. TW = 13.440 − 9.240 = 4.200 (× € 1.000), dus € 4.200.000 per jaar.
+Puntenverdeling:
+• Omschrijven naar P = −0,4Q + 160, TO = −0,4Q² + 160Q, dus MO = −0,8Q + 160 (1)
+• MK = TK' = 0,2Q + 40 (1)
+• MO = MK geeft −0,8Q + 160 = 0,2Q + 40, dus Q = 120 (× 1.000 ton), en P = −0,4 × 120 + 160 = € 112 per ton (1)
+• TW = TO − TK = 112 × 120 − (0,1 × 120² + 40 × 120 + 3.000) = 13.440 − 9.240 = 4.200 (× € 1.000), dus € 4.200.000 per jaar (1)
+
+## OPGAVE IT-00100 4p | Zeilkaart
+Zeilkaart is de enige app met de officiële getijdenkaarten van de kust. Zeilers die deze kaarten willen gebruiken, nemen een abonnement bij Zeilkaart. Het bedrijf kiest de prijs waarbij de winst maximaal is.
+In de tabel staan gegevens over één jaar. Let op de eenheden.
+Tabel Gegevens Zeilkaart (per jaar):
+Gegeven | Waarde | Eenheid
+Vraagfunctie | Qv = −8P + 640 | Qv in 1.000 abonnementen; P in euro per abonnement
+Variabele kosten | 30 | euro per abonnement
+Constante kosten | 2.500 | 1.000 euro
+Prijs vorig jaar | 60 | euro per abonnement
+Aantal ontwikkelaars | 14 | personen
+Bereken de maximale totale winst per jaar van Zeilkaart. Geef je antwoord in duizenden euro's.
+Doe het als volgt:
+− Kies uit de tabel de gegevens die je nodig hebt en schrijf ze op als functies met dezelfde eenheden.
+− Bepaal MO en MK. Controle: kloppen de eenheden van beide functies?
+− Los MO = MK op. Controle: vul Q in beide functies in; de uitkomsten moeten gelijk zijn.
+− Bereken P uit de prijsafzetfunctie en daarna TW. Zet de eenheid bij je antwoord.
+### ANTWOORD
+Nodig: de vraagfunctie, de variabele kosten en de constante kosten. De prijs van vorig jaar en het aantal ontwikkelaars heb ik niet nodig. Qv = −8P + 640 geeft P = −0,125Q + 80. TO = −0,125Q² + 80Q, dus MO = −0,25Q + 80. TK = 30Q + 2.500, dus MK = 30. MO = MK: −0,25Q + 80 = 30, dus Q = 200 (× 1.000 abonnementen). P = −0,125 × 200 + 80 = € 55. TO = 55 × 200 = 11.000. TK = 30 × 200 + 2.500 = 8.500. TW = 11.000 − 8.500 = 2.500 (× € 1.000), dus € 2.500.000 per jaar.
+Puntenverdeling:
+• Omschrijven naar P = −0,125Q + 80, TO = −0,125Q² + 80Q, dus MO = −0,25Q + 80 (1)
+• TK = 30Q + 2.500, dus MK = TK' = 30 (1)
+• MO = MK geeft −0,25Q + 80 = 30, dus Q = 200 (× 1.000 abonnementen), en P = −0,125 × 200 + 80 = € 55 (1)
+• TW = TO − TK = 55 × 200 − (30 × 200 + 2.500) = 11.000 − 8.500 = 2.500 (× € 1.000), dus € 2.500.000 per jaar (1)
+
+## OPGAVE IT-00102 3p | Stortplaats Ardesia
+Ardesia is de enige exploitant van een stortplaats voor niet-recyclebaar bouwafval in de regio Noordmark. Bouwbedrijven die afval willen storten, hebben geen alternatief in de buurt. Ardesia streeft naar maximale winst.
+De vraag naar stortcapaciteit is Qv = −4P + 720, met Qv in 1.000 ton per jaar en P in euro per ton. De totale kosten zijn TK = 0,25Q² + 40Q + 2.000 (in 1.000 euro per jaar).
+De overheid voert een stortheffing in van € 8 per ton afval. Ardesia draagt de heffing af. De heffing behoort tot de kosten van Ardesia.
+Bereken hoeveel procent van de stortheffing Ardesia doorberekent in de prijs per ton.
+### ANTWOORD
+Zonder heffing: Qv = −4P + 720 geeft P = −0,25Q + 180. TO = −0,25Q² + 180Q, dus MO = −0,5Q + 180. MK = 0,5Q + 40. MO = MK: 140 = Q, dus Q = 140 en P = −0,25 × 140 + 180 = € 145. Met heffing komt € 8 bij de MK: MK = 0,5Q + 48. MO = MK: −0,5Q + 180 = 0,5Q + 48, dus Q = 132 en P = −0,25 × 132 + 180 = € 147. De prijs stijgt met 147 − 145 = € 2. Doorberekend = 2 : 8 × 100% = 25%.
+Puntenverdeling:
+• Zonder heffing: P = −0,25Q + 180, MO = −0,5Q + 180 en MK = 0,5Q + 40; MO = MK geeft Q = 140 en P = 145 (1)
+• Met heffing: MK = 0,5Q + 48; MO = MK geeft −0,5Q + 180 = 0,5Q + 48, dus Q = 132 en P = −0,25 × 132 + 180 = 147 (1)
+• Doorberekend = (147 − 145) : 8 × 100% = 25% (1)
+
+## OPGAVE IT-00116 5p | Veerdienst Zandkreek
+Het eiland Zandkreek is alleen bereikbaar met de veerboot van Veerdienst Zandkreek. Er is geen brug en er is geen andere veerdienst. De veerdienst kiest zelf de prijs van een retourkaartje en streeft naar maximale winst.
+De vraag naar retourkaartjes per week is Qv = −2,5P + 300, met Qv in aantal kaartjes per week en P in euro per kaartje. De totale kosten per week zijn TK = 0,2Q² + 30Q + 1.000 (in euro).
+Bereken de maximale winst per week van Veerdienst Zandkreek.
+### ANTWOORD
+De veerdienst is monopolist, dus de winst is maximaal bij MO = MK. Eerst schrijf ik de vraagfunctie om: Qv = −2,5P + 300 geeft 2,5P = 300 − Q, dus P = −0,4Q + 120. Dan is TO = P × Q = −0,4Q² + 120Q en MO = TO' = −0,8Q + 120. Verder is MK = TK' = 0,4Q + 30. MO = MK: −0,8Q + 120 = 0,4Q + 30, dus 90 = 1,2Q en Q = 75 kaartjes per week. De prijs volgt uit de prijsafzetfunctie: P = −0,4 × 75 + 120 = € 90. TO = 90 × 75 = € 6.750. TK = 0,2 × 75² + 30 × 75 + 1.000 = € 4.375. TW = 6.750 − 4.375 = € 2.375 per week.
+Puntenverdeling:
+• Omschrijven van de vraagfunctie naar de prijsafzetfunctie: Qv = −2,5P + 300 geeft P = −0,4Q + 120 (1)
+• TO = P × Q = −0,4Q² + 120Q, dus MO = TO' = −0,8Q + 120 (1)
+• MK = TK' = 0,4Q + 30 (1)
+• MO = MK geeft −0,8Q + 120 = 0,4Q + 30, dus 90 = 1,2Q en Q = 75 (kaartjes per week) (1)
+• P = −0,4 × 75 + 120 = € 90 (uit de prijsafzetfunctie) en TW = TO − TK = 90 × 75 − (0,2 × 75² + 30 × 75 + 1.000) = 6.750 − 4.375 = € 2.375 per week (1)
+
+## OPGAVE IT-00117 4p | Dierenpark Vondelhof
+Dierenpark Vondelhof is het enige dierenpark in een groot gebied. Het park bepaalt zelf de prijs van een toegangskaartje en streeft naar maximale winst.
+Gebruik de gegevens in de tabel.
+Tabel Gegevens Dierenpark Vondelhof (per jaar):
+Gegeven | Waarde | Eenheid
+Vraagfunctie | Qv = −2P + 200 | Qv in 1.000 bezoeken; P in euro per kaartje
+Variabele kosten | TVK = 0,25Q² + 10Q | Q in 1.000 bezoeken; TVK in 1.000 euro
+Constante kosten | 1.800.000 | euro
+Bezoeken vorig jaar | 48.000 | bezoeken
+Kaartprijs vorig jaar | 76 | euro
+Maximale capaciteit | 150.000 | bezoeken
+Aantal dierverzorgers | 32 | personen
+Bereken de maximale totale winst per jaar van Dierenpark Vondelhof. Geef je antwoord in euro's.
+### ANTWOORD
+Dierenpark Vondelhof is monopolist, dus de winst is maximaal bij MO = MK. Qv = −2P + 200 geeft P = −0,5Q + 100. TO = −0,5Q² + 100Q, dus MO = −Q + 100. TVK = 0,25Q² + 10Q, dus MK = 0,5Q + 10. MO = MK: −Q + 100 = 0,5Q + 10, dus 90 = 1,5Q en Q = 60 (× 1.000 bezoeken). De prijs volgt uit de prijsafzetfunctie: P = −0,5 × 60 + 100 = € 70. TO = 70 × 60 = 4.200 (× € 1.000). TVK = 0,25 × 60² + 10 × 60 = 1.500 (× € 1.000). De constante kosten zijn 1.800.000 : 1.000 = 1.800 (× € 1.000). TK = 1.500 + 1.800 = 3.300 (× € 1.000). TW = 4.200 − 3.300 = 900 (× € 1.000) = € 900.000.
+Puntenverdeling:
+• Omschrijven naar P = −0,5Q + 100, dus TO = −0,5Q² + 100Q en MO = TO' = −Q + 100 (1)
+• MK = TVK' = 0,5Q + 10 (de constante kosten vallen weg bij het differentiëren) (1)
+• MO = MK geeft −Q + 100 = 0,5Q + 10, dus Q = 60 (× 1.000 bezoeken) (1)
+• P = −0,5 × 60 + 100 = € 70 (uit de prijsafzetfunctie), TO = 70 × 60 = 4.200 (× € 1.000), TK = 0,25 × 60² + 10 × 60 + 1.800 = 3.300 (× € 1.000), dus TW = 4.200 − 3.300 = 900 (× € 1.000) = € 900.000 (1)
+
+## EXAMEN havo 2018-I 2 2p
+Een fabrikant verkoopt een pil in Nederland en Duitsland. In Duitsland worden alleen de variabele kosten gedekt, in Nederland wordt de winst gemaximaliseerd. Bereken met de gegeven bronnen de prijs per verpakking in Nederland.
+### ANTWOORD
+MO = MK: −50Q + 230 = 50, dus Q = 3,6 miljoen verpakkingen (1 punt). Prijs: P = −25 × 3,6 + 230 = € 140 (1 punt). Het toepassen van MO = MK is verplicht.
+
+## EXAMEN havo 2019-II 5 2p
+Bereken met bron 1 het bedrag waarmee de winst van de vleesproducent verandert door de heffing.
+### ANTWOORD
+Nieuwe situatie: TO = 4,25 × 3.500.000 = € 14.875.000; TK = 2,5 × 3.500.000 + 2.250.000 = € 11.000.000; winst € 3.875.000 (1). Oude winst € 5.750.000, dus winst daalt met € 1.875.000 (1). Doorwerkfouten uit vraag 3 of 4 niet aanrekenen.
+
+## EXAMEN havo 2022-I 9 3p
+Gebruik bron 2. Toon met een berekening aan dat Koko de prijs van een pakje kokosbrood met 5 eurocent moet verhogen om de winst te maximaliseren.
+### ANTWOORD
+MK = 0,5 (1p). MO = MK: −0,4Q + 2 = 0,5, dus Q = 3,75 miljoen pakjes (1p). P = −0,2 × 3,75 + 2 = € 1,25; dat is € 0,05 meer dan € 1,20 (1p).
+
+## EXAMEN havo 2022-I 10 2p
+Gebruik bron 2. Bereken de winst van Koko als de prijs voor de supermarkt met 5 eurocent wordt verhoogd.
+### ANTWOORD
+TCK uit de oude situatie: 3,6 = TCK + 0,40 × 4,0, dus TCK = 2,0 miljoen (1p). TO = 1,25 × 3,75 = 4,6875; TK = 0,50 × 3,75 + 2,0 = 3,875; winst = 0,8125 miljoen euro (1p). Doorwerkfout uit vraag 9: geen aftrek.
+
+## EXAMEN havo 2023-I 30 2p
+Leg met de bron uit bij welke prijs sprake is van een minimaal totaal verlies.
+### ANTWOORD
+Het verlies is minimaal bij de hoeveelheid waarbij MO = MK (Q = 2.000 miljoen km, mag tussen haakjes). Bij die hoeveelheid lees je op de GO-lijn de prijs af: € 0,40 per km.
+
+## EXAMEN havo 2023-II 17 2p
+Bepaal met MO en MK welke prijs per doosje de monopolist moet vragen voor maximale winst.
+### ANTWOORD
+MO = MK bij Q = 350 (× 1.000 doosjes) (1). Daar is GO $ 2.250, dus de prijs is $ 2.250 per doosje (1). Juiste toepassing van MO = MK is voorwaardelijk voor het tweede punt.
+
+## EXAMEN havo 2023-II 18 2p
+Bereken de maximale totale winst van de fabrikant bij de winstmaximale hoeveelheid.
+### ANTWOORD
+Bij Q = 350.000: GO $ 2.250 en GTK $ 1.750 (1). TW = (GO − GTK) × Q = ($ 2.250 − $ 1.750) × 350.000 = $ 175.000.000 (1). Ontbreken de duizendtallen ($ 175.000), dan maximaal 1 punt.
+
+## EXAMEN havo 2024-I 9 2p
+Gebruik bron 1. Welk vlak toont de totale winst van Sprinter als het bedrijf maximale omzet nastreeft? Geef de letters van de hoekpunten en leg je keuze uit.
+### ANTWOORD
+Het vlak BCJK. Bij maximale omzet is MO = 0. Bij q = 500 is op de GO-lijn punt J de prijs C (€ 6.000) en in punt K de GTK B (€ 5.500). De totale winst is dan het vlak BCJK.
+
+## EXAMEN havo 2025-I 10 3p
+Hopi Bon streeft naar maximale winst. Bereken met bron 1 het resultaat per dag.
+### ANTWOORD
+MO = MK geeft q = 25 (1). Daarbij hoort P = 28 en GTK = 16 (1). Totale winst = 28 × 25 − 16 × 25 = $ 300 per dag (1).
+
+## EXAMEN havo 2026-I 29 3p
+Met een figuur van opbrengsten en kosten en een heffing van £ 0,50 per liter bereken je de verandering van de maximale winst van de producent.
+### ANTWOORD
+Oude winst: 9 × (2,75 − 0,5) = £ 20,25 miljoen, 1p. Nieuwe winst: MK stijgt naar 1, 8 × (3 − 1) = £ 16 miljoen, 1p. Verandering: −£ 4,25 miljoen, 1p.
+
+## EXAMEN vwo 2019-II 3 3p
+Mores heeft een prijs-afzetfunctie en een kostenfunctie. De accijns stijgt met € 2 per pakje (scenario 2). Toon met een berekening aan dat de winst maximaal is bij 10 miljoen pakjes.
+### ANTWOORD
+MO = −0,08q + 16 (1); MK = 0,02q + 4 + 2 (1); MO = MK geeft q = 100, dus 100 × 100.000 = 10 miljoen pakjes (1). De aanvulling kent de derde deelscore altijd toe en accepteert ook MK met factor 100.000 als alternatief.
+
+## EXAMEN vwo 2019-II 4 2p
+Bereken de maximale totale winst van Mores in scenario 2.
+### ANTWOORD
+P = −0,04 × 100 + 16 = € 12; TO = 12 × 100 × 100.000 = € 120 miljoen (1). TK = (0,01 × 100² + 6 × 100 + 100) × 100.000 = € 80 miljoen, dus TW = € 40 miljoen (1). Doorwerkfouten uit vraag 3 worden niet gestraft.
+
+## EXAMEN vwo 2021-I 15 3p
+Een verfbedrijf heeft een prijsafzetfunctie met de eigen prijs en de prijs van de concurrent (€ 12). MK is € 8. Toon met een berekening aan dat het bedrijf bij maximale winst € 11 per liter vraagt.
+### ANTWOORD
+Invullen pfb = 12 geeft q = −2p + 28, dus p = −0,5q + 14 (1). TO = −0,5q² + 14q, dus MO = −q + 14 (1). MO = MK: −q + 14 = 8, q = 6, p = −0,5 × 6 + 14 = 11 (1).
+
+## EXAMEN vwo 2021-III 17 2p
+Een ziekenhuis heeft TK = 101Q² − 10Q + 3.500 per dag en ontvangt € 1.000 per behandeling. Bereken bij welk aantal behandelingen per dag het verlies minimaal is.
+### ANTWOORD
+MK = TK' = 202Q − 10. MO = 1.000, want elke behandeling brengt € 1.000 op. 1.000 = 202Q − 10 geeft Q = 5 behandelingen per dag.
+
+## EXAMEN vwo 2022-I 27 3p
+Toon met een berekening aan dat Bike Mobility maximale winst haalt bij een leasetarief van € 32,50 per maand. Gebruik de collectieve vraagfunctie en de kostengegevens.
+### ANTWOORD
+P = 50 − Q : 1.750. TO = 50Q − Q²:1.750, MO = 50 − Q : 875. MK = 4 × (20 − 5) : 12 + 10 = 15. MO = MK geeft Q = 30.625. Invullen in de vraagfunctie: P = € 32,50.
+
+## EXAMEN vwo 2022-II 19 2p
+De gemeente wil het verlies minimaliseren, maar met een minimale bezetting van 80%. Laat met een berekening zien of dit mogelijk is.
+### ANTWOORD
+TO = 500Q − 0,008Q², MO = 500 − 0,016Q, MK = 200 (1). MO = MK geeft Q = 18.750, dus 75% bezetting. Dat is minder dan 80%, dus voorstel B is niet mogelijk (1).
+
+## EXAMEN vwo 2022-III 2 3p
+Gegeven zijn een lineaire vraagfunctie (Qv = −5.000P + 100.000), variabele kosten van 2,5 per kilo en constante kosten. Bereken bij welke prijs het verlies in het eerste jaar minimaal is.
+### ANTWOORD
+P = −Q/5.000 + 20; TO = −Q²/5.000 + 20Q; MO = −Q/2.500 + 20; MK = 2,5 (1p). MO = MK geeft Q = 43.750 (1p). Invullen in de vraagfunctie geeft P = € 11,25 per kilo (1p).
+
+## EXAMEN vwo 2023-I 4 2p
+Een monopolist heeft GO = 200 − 10Q en MK = 2 (Q in miljoenen). Bereken de prijs bij maximale winst.
+### ANTWOORD
+MO = MK. TO = 200Q − 10Q², dus MO = 200 − 20Q (1). 200 − 20Q = 2 geeft Q = 9,9 miljoen; de prijs is 200 − 10 × 9,9 = € 101 (1). Q aflezen uit de figuur levert het eerste punt niet op.
+
+## EXAMEN vwo 2023-II 13 3p
+Aandeelhouders willen een winst per product van minstens 10% van de gemiddelde totale kosten. Toon met een berekening aan dat die winst in de nieuwe situatie lager is.
+### ANTWOORD
+Prijsafzetfunctie: GO = 0,002Q − 2,25 (tekens volgens model); MO = 0,004Q − 2,25 (1). MK = 0,66; MO = MK geeft Q = 397,5 miljoen (1). GO ≈ 1,46, GTK = 0,66 + 300 : 397,5 ≈ 1,41; (1,46 − 1,41) : 1,41 = 3,55%, dus minder dan 10% (1).
+
+## EXAMEN vwo 2023-II 27 2p
+De woningbouwvereniging stelt dat de wachtlijst verdwijnt als de maximumhuur wordt afgeschaft en zij de omzet maximaliseert. Toon met een berekening aan of dat juist is.
+### ANTWOORD
+TO = 0,125Q² + 2.150Q (tekens volgens model), MO = 0,25Q + 2.150 (1). MO = 0 geeft Q = 8.600; huur ongeveer € 1.075. Vraag (8.600) is dan groter dan de capaciteit (6.800), dus de stelling is niet juist (1).
+
+## EXAMEN vwo 2024-I 22 3p
+Alle vissers hebben TK = 0,005q² + 0,25q + 153,12 en streven naar maximale winst. Figuur 1 toont de markt (prijs 2 koperstukken, totale hoeveelheid 7.000.000). Bereken hoeveel vissers actief zijn.
+### ANTWOORD
+Prijsnemers: MO = P = 2. MK = 0,01q + 0,25 (1). MO = MK: 2 = 0,01q + 0,25, dus q = 175 (1). Aantal vissers = 7.000.000 : 175 = 40.000 (1).
+
+## EXAMEN vwo 2024-II 18 2p
+Archy maximaliseert winst met GO = −60Q + 980 en MK = 100. De heffing laat MK met 40% stijgen. Toon met een berekening aan dat de binnenlandse prijs na de heffing € 560 per ton is.
+### ANTWOORD
+MK2 = 140. TO = −60Q² + 980Q, dus MO = −120Q + 980. MO = MK: −120Q + 980 = 140 geeft Q = 7 miljoen ton. GO = −60 × 7 + 980 = € 560.
+
+## EXAMEN vwo 2025-I 12 2p
+Ijssalon Guarda is monopolist met Qv = −50P + 210 en TK = 0,005Q² + 1,2Q + 30 (Q en TK in duizenden). Bij maximale winst is de prijs € 3. Bereken de winst per ijsje.
+### ANTWOORD
+Qv = −50 × 3 + 210 = 60 (× 1.000). TK = 0,005 × 60² + 1,2 × 60 + 30 = 120 (× € 1.000), GTK = 2 (1 per juist element, tot 2). Winst per ijsje = 3 − 2 = € 1.
+
+## EXAMEN vwo 2025-II 2 3p
+Gegeven een lineaire prijsafzetfunctie, gemiddelde variabele kosten en constante kosten van een monopolist. Bereken de maximale totale winst.
+### ANTWOORD
+TO en MO afleiden (MO = 100Q + 400), TK en MK (MK = 25Q + 100). MO = MK geeft Q = 2,4 (× 10.000) en P = € 280. TO € 6.720.000 min TK € 3.720.000 geeft winst € 3.000.000.
+
+## EXAMEN vwo 2026-I 2 2p
+Een monopolist met GO = 2Q + 100 (prijs in duizenden roepia) en MK = 16 behaalt bij prijs 58 een winst van 690.000. Bereken de totale vaste kosten.
+### ANTWOORD
+P = 58 geeft Q = 21. TO = 1.218.000, TVK = 336.000. TW = TO − TK: 1.218.000 − (336.000 + TCK) = 690.000, dus TCK = 192.000 roepia.
+
+## EXAMEN vwo 2026-I 3 3p
+De marginale kosten stijgen van 16 naar 24 (x 1.000). Bereken de procentuele stijging van de ticketprijs bij maximale winst.
+### ANTWOORD
+TO = −2Q² + 100Q, dus MO = −4Q + 100. MO = MK: −4Q + 100 = 24 geeft Q = 19. P = 62. Stijging = (62 − 58)/58 × 100% = 6,9%.
+
+
+# LEERDOEL ECO-MARKT-02
+domein: D
+onderwerp: D.vorm
+thema: Marktvormen
+naam: Berekenen welk percentage van een kostenstijging een monopolist in de prijs doorberekent
+doel: Ik kan berekenen welk percentage van een kostenstijging een monopolist in de prijs doorberekent.
+
+## UITLEG Winstmaximalisatie MO = MK
+Schrijf de afleiding volledig op: vraagfunctie omschrijven naar prijs, TO = prijs maal Q, MO = TO', MK = TK', MO = MK, Q berekenen, Q in de prijsfunctie invullen. Maximale omzet geldt bij MO = 0; een prijsnemer heeft P = GO = MO. Daarna vaak TW = TO − TK of het doorberekende deel van een kostenstijging. Q aflezen uit een figuur, de prijs uit MK halen of constante kosten vergeten is fout.
+
+## UITLEG Winstmaximalisatie
+Schrijf de afleiding volledig op: Qv omschrijven naar P als functie van Q, TO = P × Q, MO = TO', MK = TK', MO = MK geeft Q, vul Q in de prijsafzetfunctie in voor P. Maximale omzet: MO = 0. Prijsnemer: P = GO = MO. Een heffing per stuk verhoogt MK met de heffing. Vaak volgen TW = TO − TK of het doorberekende percentage van een kostenstijging. Fouten: Q aflezen uit de figuur, prijs uit MK halen, constante kosten vergeten.
+
+## OPGAVE IT-00092 2p | Kaasmakerij Oudegaard
+Kaasmakerij Oudegaard is de enige producent van een beschermde streekkaas en heeft dus een monopolie op deze markt. De kaasmakerij maximaliseert de winst.
+Dit jaar stijgt de melkprijs, waardoor de variabele kosten per kaas toenemen. Ook gaat de huur van de bedrijfshal omhoog.
+Maak van onderstaande tekst een economisch juiste tekst.
+De hogere melkprijs verhoogt de variabele kosten per kaas. De MK-lijn verschuift daardoor ...(1)... De hogere huur verhoogt de constante kosten. De MK-lijn verschuift daardoor ...(2)... Het percentage van de kostenstijging dat de monopolist doorberekent, is gelijk aan de prijsstijging gedeeld door ...(3)... × 100%.
+Kies uit: bij (1) omhoog / omlaag / niet
+Kies uit: bij (2) ook omhoog / ook omlaag / niet
+Kies uit: bij (3) de kostenstijging per stuk / de totale kostenstijging / de oude prijs
+### ANTWOORD
+(1) omhoog, (2) niet, (3) de kostenstijging per stuk.
+Puntenverdeling:
+• bij (1) omhoog en bij (2) niet (1)
+• bij (3) de kostenstijging per stuk (1)
+
+## OPGAVE IT-00093 3p | Kajakverhuur Rijnwaarde
+Kajak Rijnwaarde is de enige verhuurder van kajaks op een recreatiemeer. Het bedrijf maximaliseert de winst. De vraag naar verhuurdagen per seizoen wordt gegeven door Qv = −2P + 120 (Q in duizenden verhuurdagen, P in euro per dag).
+De totale kosten zijn TK = 0,5Q² + 10Q + 200 (in duizenden euro's). Bij deze kosten is de winstmaximale prijs € 47,50 per dag.
+Door hogere kosten voor onderhoud en schoonmaak stijgen de variabele kosten met € 4 per verhuurdag. De vraag blijft gelijk.
+Bereken hoeveel procent van de kostenstijging Kajak Rijnwaarde bij maximale winst in de prijs doorberekent.
+Doe het als volgt:
+− Schat eerst of de prijs met meer of met minder dan € 4 stijgt.
+− Stel de nieuwe MO en MK op en bereken Q en P.
+− Bereken het percentage en controleer of het bij je schatting past.
+### ANTWOORD
+Schatting: de vraaglijn daalt, dus een prijsstijging verlaagt de afzet. Ik verwacht minder dan 100% doorberekening. Qv = −2P + 120 geeft P = −0,5Q + 60. TO = 60Q − 0,5Q², dus MO = −Q + 60. De nieuwe TK is 0,5Q² + 14Q + 200, dus MK = Q + 14. MO = MK: −Q + 60 = Q + 14, dus 2Q = 46 en Q = 23. P = −0,5 × 23 + 60 = € 48,50. Doorberekend: (48,50 − 47,50) : 4 × 100% = 25%. Dat is minder dan 100%, dus de uitkomst past bij mijn schatting.
+Puntenverdeling:
+• P = −0,5Q + 60, dus MO = −Q + 60; nieuwe MK = Q + 14 (1)
+• MO = MK: −Q + 60 = Q + 14 geeft Q = 23; P = −0,5 × 23 + 60 = € 48,50 (1)
+• Doorberekend: (48,50 − 47,50) : 4 × 100% = 25% (1)
+
+## OPGAVE IT-00094 4p | Concertzaal Aurelia
+Concertzaal Aurelia is de enige zaal in de regio waar grote concerten plaatsvinden. De zaal maximaliseert de winst. De vraag naar kaartjes per seizoen is Qv = −5P + 400 (Q in duizenden kaartjes, P in euro per kaartje).
+De totale kosten zijn TK = 0,1Q² + 20Q + 500 (in duizenden euro's).
+Door strengere veiligheidseisen stijgen de variabele kosten met € 6 per bezoeker. De vraag blijft gelijk.
+Bereken hoeveel procent van de kostenstijging Concertzaal Aurelia bij maximale winst in de prijs van een kaartje doorberekent.
+Doe het als volgt:
+− Schat eerst of het percentage groter of kleiner is dan 100%.
+− Bereken Q en P vóór en na de kostenstijging.
+− Bereken het percentage en controleer je uitkomst met je schatting.
+### ANTWOORD
+Schatting: een hogere prijs verlaagt de afzet, dus ik verwacht minder dan 100% doorberekening. Qv = −5P + 400 geeft P = −0,2Q + 80. TO = 80Q − 0,2Q², dus MO = −0,4Q + 80. MK = 0,2Q + 20. MO = MK: 60 = 0,6Q, dus Q = 100 en P = −0,2 × 100 + 80 = € 60. De nieuwe MK = 0,2Q + 26. MO = MK: 54 = 0,6Q, dus Q = 90 en P = −0,2 × 90 + 80 = € 62. Doorberekend: (62 − 60) : 6 × 100% = 33,3%. Dat is minder dan 100%, dus het klopt met mijn schatting.
+Puntenverdeling:
+• P = −0,2Q + 80, dus MO = −0,4Q + 80; MK = 0,2Q + 20 (1)
+• MO = MK geeft Q = 100 en P = −0,2 × 100 + 80 = € 60 (1)
+• Nieuwe MK = 0,2Q + 26; MO = MK geeft Q = 90 en P = −0,2 × 90 + 80 = € 62 (1)
+• Doorberekend: (62 − 60) : 6 × 100% = 33,3% (1)
+
+## OPGAVE IT-00096 4p | Ballonvaarten Wolkenrijk
+Wolkenrijk is de enige aanbieder van ballonvaarten in een natuurgebied en maximaliseert de winst. In de tabel staat de vraag naar ballonvaarten bij twee prijzen. De vraaglijn is lineair. De hoeveelheid Q is in duizenden passagiers per jaar.
+De totale kosten zijn TK = 0,75Q² + 15Q + 500 (in duizenden euro's).
+Door duurder gas stijgen de variabele kosten met € 5 per passagier. De vraag blijft gelijk.
+Tabel Vraag naar ballonvaarten:
+Prijs per vaart (€) | Vraag (× 1.000 passagiers)
+60 | 80
+70 | 60
+Bereken hoeveel procent van de kostenstijging Wolkenrijk bij maximale winst in de prijs van een vaart doorberekent.
+### ANTWOORD
+De vraaglijn gaat door (80; 60) en (60; 70). De helling is (70 − 60) : (60 − 80) = −0,5. P = −0,5Q + b geeft 60 = −0,5 × 80 + b, dus b = 100. P = −0,5Q + 100. TO = 100Q − 0,5Q², dus MO = −Q + 100. Oude MK = 1,5Q + 15. MO = MK: 85 = 2,5Q, dus Q = 34 en P = −0,5 × 34 + 100 = € 83. Nieuwe MK = 1,5Q + 20. MO = MK: 80 = 2,5Q, dus Q = 32 en P = −0,5 × 32 + 100 = € 84. Doorberekend: (84 − 83) : 5 × 100% = 20%.
+Puntenverdeling:
+• Prijsafzetfunctie P = −0,5Q + 100 (uit beide punten in de tabel), dus MO = −Q + 100 (1)
+• MK vóór de stijging = 1,5Q + 15 en daarna 1,5Q + 20 (1)
+• MO = MK geeft vóór de stijging Q = 34 en P = € 83, daarna Q = 32 en P = € 84 (1)
+• Doorberekend: (84 − 83) : 5 × 100% = 20% (1)
+
+## OPGAVE IT-00103 4p | Delfstra Waterbus
+Delfstra Waterbus is de enige aanbieder van rondvaarten door de binnenstad van Delfstra. De rederij maximaliseert de winst. De vraag naar kaartjes per jaar wordt gegeven door Qv = −5P + 450 (Q in duizenden kaartjes, P in euro per kaartje).
+De totale kosten zijn TK = 0,05Q² + 20Q + 600 (in duizenden euro's). Bij deze kosten is de winstmaximale prijs € 62 per kaartje.
+Dit jaar stijgen de brandstofkosten met € 5 per passagier. Ook worden de vaste kosten voor de ligplaats € 40.000 per jaar hoger. De vraag naar kaartjes verandert niet.
+Bereken hoeveel procent van de stijging van de brandstofkosten per passagier Delfstra Waterbus bij maximale winst in de prijs van een kaartje doorberekent.
+### ANTWOORD
+Qv = −5P + 450 geeft P = −0,2Q + 90. TO = 90Q − 0,2Q², dus MO = −0,4Q + 90. De nieuwe TK = 0,05Q² + 25Q + 640, dus MK = 0,1Q + 25. De vaste kosten veranderen MK niet. MO = MK: −0,4Q + 90 = 0,1Q + 25, dus 65 = 0,5Q en Q = 130 (× 1.000). De prijs haal ik uit de prijsafzetfunctie: P = −0,2 × 130 + 90 = € 64. De prijs stijgt van € 62 naar € 64, dus € 2 op een kostenstijging van € 5. Doorberekend: (64 − 62) : 5 × 100% = 40%.
+Puntenverdeling:
+• Vraagfunctie omschrijven: P = −0,2Q + 90, dus MO = −0,4Q + 90 (MO is twee keer zo steil als de prijsafzetlijn) (1)
+• Nieuwe TK = 0,05Q² + 25Q + 640, dus MK = 0,1Q + 25 (de stijging van de vaste kosten verandert MK niet) (1)
+• MO = MK: −0,4Q + 90 = 0,1Q + 25 geeft Q = 130; P = −0,2 × 130 + 90 = € 64 (de prijs volgt uit de prijsafzetfunctie, niet uit MO) (1)
+• Doorberekend = (64 − 62) : 5 × 100% = 40% (1)
+
+## EXAMEN havo 2019-II 4 3p
+Bereken met de gegevens van de monopolist in bron 1 hoeveel procent van de heffing na invoering in de verkoopprijs wordt doorberekend. De winst is maximaal.
+### ANTWOORD
+MO = MK nieuw: −Q + 6 = 2 + 0,50, dus Q = 3,5 (mln). P = −0,5 × 3,5 + 6 = 4,25 (2). Doorberekend: (4,25 − 4) : 0,50 × 100% = 50% (1). Zonder MO = MK niet de volle score.
+
+## EXAMEN vwo 2019-II 5 1p
+Bereken hoeveel procent van de accijnsverhoging Mores bij winstmaximalisatie in scenario 2 in de verkoopprijs doorberekent.
+### ANTWOORD
+(12,00 − 11,20) : 2 × 100% = 40%. Bij een foutieve prijs uit vraag 4 kan het punt alsnog worden toegekend.
+
+## EXAMEN vwo 2025-I 14 4p
+De variabele kosten van Guarda stijgen met € 0,25 per ijsje; de vraag blijft gelijk. Bereken hoeveel procent van deze stijging in de verkoopprijs wordt doorberekend.
+### ANTWOORD
+Nieuwe MK = 0,01Q + 1,45 (1). P = −0,02Q + 4,2, dus MO = −0,04Q + 4,2 (1). MO = MK geeft Q = 55, P = € 3,10 (1). Doorberekend: (3,10 − 3)/0,25 × 100% = 40% (1).
+
+## EXAMEN vwo 2026-I 3 3p
+De marginale kosten stijgen van 16 naar 24 (x 1.000). Bereken de procentuele stijging van de ticketprijs bij maximale winst.
+### ANTWOORD
+TO = −2Q² + 100Q, dus MO = −4Q + 100. MO = MK: −4Q + 100 = 24 geeft Q = 19. P = 62. Stijging = (62 − 58)/58 × 100% = 6,9%.
+
+
+# LEERDOEL ECO-MARKT-03
+domein: D
+onderwerp: D.vorm
+thema: Marktvormen
+naam: Volledige mededinging herkennen aan twee kenmerken
+doel: Ik kan twee kenmerken van volledige mededinging noemen met een gegeven uit de tekst.
+gens: evenwicht
+
+## UITLEG Marktvormen herkennen met kenmerken uit de casus
+Noem de marktvorm en haal twee kenmerken uit de bron: aantal aanbieders, homogeen of heterogeen product, transparantie, toetreding, prijsnemer of prijszetter. Marktvorm plus twee kenmerken geeft 2 punten, één kenmerk 1 punt. Een kenmerk zonder bijpassende toelichting uit de casus telt niet. Oligopolie en monopolistische concurrentie worden vaak verwisseld.
+
+## UITLEG Marktvormen herkennen en patent
+Bij elke marktvorm noem je de naam en de kenmerken met voorbeelden uit de tekst. Volkomen concurrentie: veel aanbieders en een homogeen product (kopers letten alleen op prijs). Monopolistische concurrentie: veel aanbieders met een heterogeen product. Oligopolie: enkele grote aanbieders, met cijfers uit de bron. Monopolie: één aanbieder. Een patent geeft tijdelijk monopolie, dus invloed op de prijs en terugverdienen van innovatiekosten.
+
+## UITLEG Marktvormen en toetreding
+Leid de marktvorm af uit kenmerken: aantal aanbieders, homogeen of heterogeen product, vrije of beperkte toetreding, en trek dan een conclusie. Het tweede punt geldt alleen als de conclusie logisch volgt uit de kenmerken. Een lage prijs ontmoedigt toetreders omdat zij hun investering niet terugverdienen. HHI is de som van gekwadrateerde marktaandelen. Een patent is een tijdelijk monopolie om innovatie te belonen.
+
+## OPGAVE IT-00188 2p | Prei in Veldmark
+Op de groothandelsmarkt voor prei in Veldmark bieden 120 telers hun oogst aan. Samen leveren ze 24.000 bossen per week. De grootste teler, Veldhof Brink, levert er 300. Dat is 1,25 procent van het totale aanbod.
+Alle telers verkopen dezelfde preisoort in bossen van tien stronken. Elke teler bindt zijn bossen met een band met de eigen naam erop. Inkopers van supermarktketens zien bij het uitpakken geen verschil in kwaliteit tussen bossen van verschillende telers. Zij wisselen van leverancier zodra een teler een paar cent per bos goedkoper is.
+Voor het telen en verkopen van prei is geen vergunning of quotum nodig. Wie wil beginnen, pacht grond en huurt per week een koelcel bij het gezamenlijke koelhuis voor € 90. Sinds 2022 zijn 14 nieuwe telers begonnen.
+Maak van onderstaande tekst een economisch juiste tekst. Kies bij (1) tot en met (4) uit de mogelijkheden. Elke teler levert een klein deel van het totale aanbod. Een individuele teler is daardoor ...(1)... . Het product is ...(2)... . De toetreding tot de markt is ...(3)... . Op deze markt is daarom sprake van ...(4)... .
+Kies uit: bij (1) prijsnemer / prijszetter / prijsleider
+Kies uit: bij (2) homogeen / heterogeen / uniek
+Kies uit: bij (3) vrij / beperkt door een vergunning / beperkt door hoge kosten
+Kies uit: bij (4) volledige mededinging / monopolistische concurrentie / oligopolie
+### ANTWOORD
+(1) prijsnemer: een teler levert maar 1,25 procent van het aanbod en kan de marktprijs niet beïnvloeden. (2) homogeen: inkopers zien geen verschil tussen de bossen en letten alleen op de prijs, ook al staat op elke band een andere naam. (3) vrij: er is geen vergunning of quotum nodig en starten kost weinig, want grond is te pachten en een koelcel te huren. Er zijn ook 14 nieuwe telers bijgekomen. (4) volledige mededinging: er zijn veel aanbieders, het product is homogeen en de toetreding is vrij.
+Puntenverdeling:
+• Een juist antwoord is: bij (1) prijsnemer, bij (2) homogeen, bij (3) vrij, bij (4) volledige mededinging (volkomen concurrentie). Per gemaakte fout 1 scorepunt in mindering brengen. (2)
+
+## OPGAVE IT-00189 2p | Zonnebloemen op de veiling van Zuidveld
+Op de bloemenveiling van Zuidveld bieden 150 kwekers zonnebloemen aan. Elke kweker sorteert zijn oogst in klasse A1 en bindt de bloemen in bossen van tien. De veilingmeester vermeldt alleen de klasse en niet de kweker. De ruim 90 kopers, bloemisten en exporteurs, geven aan dat zij een bos van de ene kweker niet kunnen onderscheiden van een bos van een andere kweker.
+Na elke veilingronde staat de prijs per bos op een scherm in de zaal en op de website van de veiling. Kwekers en kopers kunnen die prijs zien.
+Wie zonnebloemen op de veiling wil verkopen, vraagt het keurmerk Veldkeur aan bij de brancheorganisatie. Het keurmerk gaat naar elke kweker die de kwaliteitsregels volgt en kost € 120 per jaar. Er geldt geen maximum aan het aantal kwekers. Kopers kopen alleen bossen met het keurmerk en hebben geen voorkeur voor een bepaalde kweker. Sinds 2021 zijn 11 nieuwe kwekers begonnen en alle 11 kregen het keurmerk.
+Leg met twee kenmerken uit van welke marktvorm sprake is op de markt voor zonnebloemen bij de veiling van Zuidveld.
+### ANTWOORD
+Er is sprake van volledige mededinging. Het product is homogeen: kopers kunnen een bos van de ene kweker niet onderscheiden van een bos van een andere kweker. De toetreding is vrij: elke kweker die de kwaliteitsregels volgt krijgt het keurmerk Veldkeur en er is geen maximum aan het aantal kwekers. Het keurmerk is dus geen drempel. Met een homogeen product en vrije toetreding is dit volledige mededinging.
+Puntenverdeling:
+• Een juist antwoord is: er is sprake van volledige mededinging (volkomen concurrentie), want: een eerste kenmerk van volledige mededinging met een bijpassend gegeven uit de tekst, bijvoorbeeld: het product is homogeen, want kopers kunnen bossen van verschillende kwekers niet van elkaar onderscheiden (1)
+• een tweede kenmerk van volledige mededinging met een bijpassend gegeven uit de tekst, bijvoorbeeld: de toetreding is vrij, want elke kweker die de kwaliteitsregels volgt krijgt het keurmerk en er is geen maximum aan het aantal kwekers (1)
+• Indien niet de marktvorm volledige mededinging (volkomen concurrentie) als conclusie is genoemd of een onjuiste marktvorm is genoemd: 0 scorepunten. (0)
+
+## OPGAVE IT-00190 2p | Schol op Zandmark
+Op het eiland Zandmark vangen 85 vissers schol. Alle vangsten worden bij de visafslag in dezelfde maatklasse gesorteerd en in kisten van 25 kilo verkocht aan zo'n veertig groothandelaren. De afslag publiceert na elke veiling de prijs per kist, zodat iedereen hem kan zien.
+Om op Zandmark te mogen vissen heeft een visser een eigen vergunning nodig. Sinds 2012 geeft de overheid geen nieuwe vergunningen meer uit, om overbevissing te voorkomen. Een nieuwe visser kan alleen beginnen door een bestaande vergunning te kopen van een visser die stopt. Zo'n vergunning komt hooguit twee keer per jaar te koop en kost gemiddeld € 250.000.
+Leg met twee kenmerken uit of er op de scholmarkt van Zandmark sprake is van volledige mededinging.
+### ANTWOORD
+Nee, er is geen volledige mededinging. Het product is wel homogeen, want alle schol wordt in dezelfde maatklasse gesorteerd. Dat kenmerk is dus aanwezig. De toetreding is echter niet vrij: sinds 2012 komen er geen nieuwe vergunningen bij en een nieuwe visser moet een bestaande vergunning kopen, die hooguit twee keer per jaar te koop komt voor gemiddeld € 250.000. Omdat vrije toetreding een kenmerk van volledige mededinging is en hier ontbreekt, is niet aan alle kenmerken voldaan.
+Puntenverdeling:
+• Een juist antwoord is: nee, er is geen volledige mededinging, want: een kenmerk van volledige mededinging dat wel aanwezig is, met een bijpassend gegeven uit de tekst, bijvoorbeeld: het product is homogeen, want alle schol is in dezelfde maatklasse gesorteerd (of: er zijn veel aanbieders, want 85 vissers en zo'n veertig groothandelaren; of: de prijs is voor iedereen zichtbaar) (1)
+• een kenmerk dat niet aanwezig is, met een bijpassend gegeven uit de tekst: de toetreding is niet vrij, want sinds 2012 worden geen nieuwe vergunningen uitgegeven en een nieuwe visser moet een bestaande vergunning kopen die zelden te koop komt en gemiddeld € 250.000 kost (1)
+• Indien niet de conclusie is gegeven dat er geen volledige mededinging is (of een keuze ontbreekt): 0 scorepunten. (0)
+
+## EXAMEN havo 2018-I 1 2p
+Drogisterijen verkopen een slaappil en zijn vergelijkbare winkels. Bepaal of zij op een markt van volkomen concurrentie of monopolistische concurrentie actief zijn. Licht de keuze toe met een kenmerk van die marktvorm.
+### ANTWOORD
+Monopolistische concurrentie. Een juist kenmerk is bijvoorbeeld een heterogeen assortiment, heterogene dienstverlening of geringe transparantie van de markt.
+
+## EXAMEN havo 2021-I 1 2p
+Invulvraag over de garnalenveiling: is het product homogeen of heterogeen, welke marktvorm hoort bij veel aanbieders zonder toetredingsbarrières, en kunnen individuele vissers de prijs beïnvloeden? Drie open plekken met keuzes.
+### ANTWOORD
+(1) homogene, (2) volkomen concurrentie, (3) niet. Drie goed = 2 punten, twee goed = 1 punt, anders 0.
+
+## EXAMEN havo 2024-II 1 2p
+Cashewboeren in Tanzania verkopen een uniforme oogst op een veiling met dalende klokprijs. Welke marktvorm is dit? Noem twee kenmerken van die marktvorm.
+### ANTWOORD
+Volledige mededinging. Kenmerken, bijvoorbeeld: veel aanbieders, homogeen product, transparantie, vrije toe- en uittreding, aanbieders zijn prijsnemers. Volledige mededinging met twee kenmerken geeft 2 punten.
+
+## EXAMEN vwo 2022-II 4 2p
+Een model met volledige mededinging zou volgens de onderzoekers alleen gelden voor laaggeschoolde arbeid. Verklaar deze stelling.
+### ANTWOORD
+Laaggeschoolde arbeid is vrij homogeen, dus het uurtarief volgt uit vraag en aanbod van alle zzp'ers samen. Hooggeschoolde diensten zijn heterogeen, dus daar is geen volledige mededinging.
+
+## EXAMEN vwo 2026-I 16 2p
+Een houthandelsmarkt heeft homogeen hout en geen eigendomsrechten. Leg met twee kenmerken uit van welke marktvorm sprake is.
+### ANTWOORD
+Twee kenmerken, bijvoorbeeld homogeen product, vrije toetreding of veel aanbieders. Conclusie: volledige mededinging (volkomen concurrentie).
+

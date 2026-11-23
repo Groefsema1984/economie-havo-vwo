@@ -1,0 +1,41 @@
+# LEERDOEL ECO-BELAS-01
+domein: H
+onderwerp: H.belasting
+thema: Belastingen
+naam: Met gemiddelde tarieven aantonen dat een belastingstelsel progressief is
+doel: Ik kan met gemiddelde tarieven aantonen dat een belastingstelsel progressief is.
+
+## UITLEG Belastingstelsel: schijven, kortingen, aftrekposten en belastingdruk
+Te betalen belasting is het tarief maal het belastbaar inkomen per schijf, min de heffingskortingen. De gemiddelde belastingdruk is te betalen belasting gedeeld door het inkomen, maal 100%; teller en noemer moeten kloppen. Het voordeel van een aftrekpost is het bedrag maal het marginale tarief, dus hoge inkomens profiteren relatief meer. Progressief: hoger inkomen, hoger tarief, kleinere verschillen.
+
+## UITLEG Gemiddelde belastingdruk en progressief, proportioneel, degressief
+Gemiddelde belastingdruk = te betalen belasting : inkomen × 100%. Progressief: hoger inkomen, hoger percentage; proportioneel: zelfde percentage; degressief: lager percentage. Noem altijd het effect op de inkomensverschillen na belasting; bij progressief worden die kleiner.
+
+## UITLEG Inkomensverdeling en belastingstelsel
+Een hogere Gini of een Lorenzcurve verder van de diagonaal betekent meer ongelijkheid. De secundaire verdeling is gelijker door uitkeringen en heffingskortingen. Voordeel van een aftrekpost is bedrag maal marginaal tarief; een heffingskorting gaat volledig van de belasting af. Progressief betekent dat het gemiddelde tarief met het inkomen stijgt, ook bij een vlak tarief met vaste vrijstelling. Een aftrekpost als volledig voordeel zien is fout.
+
+## EXAMEN havo 2021-III 24 3p
+Gebruik figuur 2 in bron 1. Beredeneer met een berekening of maatregel 4 in 2013-2017 nivellerend of denivellerend werkte. Bereken eerst de gemiddelde belastingdruk voor beide jaren en beide bruto-inkomens en trek dan een conclusie.
+### ANTWOORD
+Gemiddelde belastingdruk = te betalen belasting : bruto-inkomen × 100%. € 35.000: 31,9% (2013) naar 32,0% (2017). € 100.000: 42,9% naar 45,1%. De druk steeg bij het hoge inkomen meer, dus nivellerend.
+
+## EXAMEN havo 2026-I 7 3p
+Invulvraag met vijf open plekken over een progressief stelsel (gemiddeld tarief, nivelleren), lage inkomens en indirecte belastingen, en een premie die tot € 38.000 over het inkomen wordt geheven (soort premiestelsel).
+### ANTWOORD
+(1) stijging; (2) nivelleren; (3) groter; (4) indirecte; (5) degressief. Deelscores: (1)+(2) 1p, (3)+(4) 1p, (5) 1p.
+
+## EXAMEN havo 2026-I 8 2p
+Met een tabel met twee schijven (tot € 76.817 tegen 37,5%, daarboven 49,5%) bereken je het gemiddeld belastingtarief bij een belastbaar inkomen van € 142.854.
+### ANTWOORD
+Totale belasting: € 76.817 × 0,375 + (€ 142.854 − € 76.817) × 0,495 = € 61.494, 1p. Gemiddeld tarief: € 61.494 : € 142.854 × 100% = 43%, 1p. Rekenen met niet-afgeronde bedragen mag.
+
+## EXAMEN vwo 2021-II 21 2p
+Dividend wordt belast met 15% boven een vrijstelling van € 10.000. Is dit een degressieve, progressieve of proportionele belasting? Motiveer.
+### ANTWOORD
+Progressief. Het tarief is proportioneel maar de vaste vrijstelling levert bij hoger dividend relatief minder voordeel op, dus het gemiddelde heffingspercentage stijgt met het dividend. Een juiste berekening mag ook.
+
+## EXAMEN vwo 2025-II 29 2p
+Leg de bewering uit dat het marginale tarief hoger is dan het gemiddelde tarief en zo zuinig watergebruik stimuleert, met een berekening van het gemiddelde tarief bij 50.000 liter.
+### ANTWOORD
+Gemiddeld tarief = € 110 / 50.000 = € 0,0022 per liter. Marginaal tarief (€ 0,006) is hoger, dus extra water kost meer dan het gemiddelde en laat het gemiddelde stijgen: prikkel om minder te gebruiken. Doorrekenen met fout uit 28 mag.
+

@@ -1,0 +1,188 @@
+# LEERDOEL ECO-BELAS-02
+domein: D
+onderwerp: D.heffing
+thema: Accijns en surplus
+naam: Berekenen welk percentage van een accijns in de marktprijs wordt doorberekend
+doel: Ik kan berekenen welk percentage van een accijns in de marktprijs wordt doorberekend.
+
+## UITLEG Marktevenwicht, heffing, minimum- en maximumprijs
+Het evenwicht volgt uit Qv = Qa; de maximale betalingsbereidheid ligt bij Qv = 0. Een heffing per product maakt aanbieden duurder. Doorberekening = prijsstijging : heffing × 100%, de rest is voor eigen rekening. Belastingopbrengst = heffing × afzet. Een maximumprijs werkt alleen onder de evenwichtsprijs en geeft een vraagoverschot; een minimumprijs geeft een aanbodoverschot. Verschuiving van en beweging langs de vraaglijn niet verwarren.
+
+## UITLEG Heffing, accijns en doorberekening
+Een heffing maakt elk product duurder om aan te bieden. Het doorberekende deel is prijsstijging : heffing × 100%; de rest draagt de aanbieder. Bereken de opbrengst van de heffing met de nieuwe afzet, niet met de oude.
+
+## UITLEG Marktevenwicht, heffing, subsidie en doorberekening
+Evenwicht bij Qv = Qa. Een heffing per stuk verschuift de aanbodlijn verticaal omhoog met het bedrag, een subsidie omlaag. Doorberekening is de prijsstijging voor de consument gedeeld door de heffing, maal 100%. Benodigde heffing voor een doelhoeveelheid is het verschil tussen prijs op vraaglijn en aanbodlijn. Vaak arceren: heffingsopbrengst en welvaartsverlies. Fout: horizontaal verschuiven of consumenten- en producentenprijs verwisselen.
+
+## OPGAVE IT-00128 3p | Accijns op sportdrank
+Het land Valmora heft sinds kort accijns op sportdrank. De accijns bedraagt € 0,50 per fles en wordt door de producenten afgedragen aan de overheid.
+Voor de markt van sportdrank gelden de volgende vergelijkingen: Qv = −40P + 300 en Qa = 60P − 100, vóór invoering van de accijns. Hierin is P de prijs in euro per fles en Q de hoeveelheid in duizenden flessen per week.
+Bereken hoeveel procent van de accijns in de marktprijs van sportdrank wordt doorberekend.
+Doe het als volgt:
+− Bereken de evenwichtsprijs vóór de accijns.
+− Stel de aanbodfunctie na invoering van de accijns op en bereken de nieuwe evenwichtsprijs.
+− Bereken het percentage dat wordt doorberekend.
+### ANTWOORD
+Vóór de accijns: −40P + 300 = 60P − 100, dus 100P = 400 en P = € 4,00. Met accijns moet ik in Qa de P vervangen door (P − 0,50): Qa = 60(P − 0,50) − 100 = 60P − 130. Evenwicht: −40P + 300 = 60P − 130, dus 100P = 430 en P = € 4,30. De prijs stijgt met € 0,30. Doorberekend: 0,30 : 0,50 × 100% = 60%.
+Puntenverdeling:
+• Evenwicht vóór de accijns: −40P + 300 = 60P − 100, dus P = 400 : 100 = € 4,00 (1)
+• Aanbod na de accijns: Qa = 60(P − 0,50) − 100 = 60P − 130; evenwicht: −40P + 300 = 60P − 130, dus P = 430 : 100 = € 4,30 (1)
+• Doorberekend: (4,30 − 4,00) : 0,50 × 100% = 60% (1)
+
+## OPGAVE IT-00129 3p | Accijns op gin
+In het land Brevonia stookt een aantal kleine distilleerderijen gin. De overheid voert een accijns van € 3,00 per fles in. De distilleerderijen dragen deze accijns af.
+Voor de markt van gin gelden vóór de invoering van de accijns de vergelijkingen P = −0,04Q + 18 (vraag) en P = 0,06Q + 6 (aanbod). Hierin is P de prijs in euro per fles en Q de hoeveelheid in duizenden flessen per maand.
+Bereken hoeveel procent van de accijns in de marktprijs van gin wordt doorberekend.
+Doe het als volgt:
+− Bereken de evenwichtsprijs vóór de accijns.
+− Stel de aanbodfunctie na invoering van de accijns op en bereken de nieuwe evenwichtsprijs.
+− Bereken het percentage dat wordt doorberekend.
+### ANTWOORD
+Vóór de accijns: −0,04Q + 18 = 0,06Q + 6, dus 12 = 0,10Q en Q = 120. P = −0,04 × 120 + 18 = € 13,20. De accijns van € 3 maakt aanbieden € 3 duurder, dus het aanbod wordt P = 0,06Q + 9. Evenwicht: −0,04Q + 18 = 0,06Q + 9, dus 9 = 0,10Q en Q = 90. P = −0,04 × 90 + 18 = € 14,40. De prijs stijgt met € 1,20. Doorberekend: 1,20 : 3,00 × 100% = 40%.
+Puntenverdeling:
+• Evenwicht vóór de accijns: −0,04Q + 18 = 0,06Q + 6, dus Q = 120 (× 1.000) en P = −0,04 × 120 + 18 = € 13,20 (1)
+• Aanbod na de accijns: P = 0,06Q + 6 + 3 = 0,06Q + 9; evenwicht: −0,04Q + 18 = 0,06Q + 9, dus Q = 90 (× 1.000) en P = −0,04 × 90 + 18 = € 14,40 (1)
+• Doorberekend: (14,40 − 13,20) : 3,00 × 100% = 40% (1)
+
+## OPGAVE IT-00137 3p | Hogere accijns op frisdrank
+In het land Veldmark geldt een accijns op frisdrank van € 0,15 per liter. De frisdrankproducenten dragen deze accijns af aan de overheid. De regering besluit de accijns te verhogen met € 0,10 per liter, naar € 0,25 per liter.
+Een onderzoeksbureau heeft de markt voor frisdrank in kaart gebracht bij de huidige accijns. P is de prijs in euro per liter en Q is de hoeveelheid in miljoenen liters per maand. De aanbodfunctie geldt bij de huidige accijns. Een hogere accijns verhoogt de kosten van de producenten per liter.
+Tabel Markt voor frisdrank in Veldmark, bij de huidige accijns:
+Functie | Vergelijking
+Vraag | Qv = −100P + 300
+Aanbod (bij de huidige accijns) | P = 0,015Q + 0,50
+Bereken hoeveel procent van de verhoging van de accijns wordt doorberekend in de marktprijs van frisdrank.
+### ANTWOORD
+De accijns stijgt met 0,25 − 0,15 = € 0,10 per liter. Vóór de verhoging: Q = −100 × (0,015Q + 0,50) + 300, dus 2,5Q = 250 en Q = 100. De prijs is dan 0,015 × 100 + 0,50 = € 2,00. Na de verhoging worden de kosten van de producenten € 0,10 hoger: P = 0,015Q + 0,60. Dan Q = −100 × (0,015Q + 0,60) + 300, dus 2,5Q = 240 en Q = 96. De prijs is dan 0,015 × 96 + 0,60 = € 2,04. De prijs stijgt met € 0,04. Doorberekend: 0,04 : 0,10 × 100% = 40%. Dus 40% van de verhoging komt in de marktprijs terecht.
+Puntenverdeling:
+• Evenwicht vóór de verhoging: Qv = Qa geeft Q = 100 (miljoen liter) en P = 0,015 × 100 + 0,50 = € 2,00 (1)
+• Evenwicht na de verhoging: de aanbodfunctie wordt P = 0,015Q + 0,60 (verhoging € 0,10), dit geeft Q = 96 en P = 0,015 × 96 + 0,60 = € 2,04 (1)
+• Doorberekend: (2,04 − 2,00) : 0,10 × 100% = 40% (1)
+
+## OPGAVE IT-00138 3p | Accijns op cider
+In het land Norvia voert de overheid een accijns van € 0,50 per fles cider in. De ciderbrouwers dragen de accijns af aan de overheid.
+Een marktonderzoeker wil weten hoe de accijns de marktprijs van cider verandert. Zij gaat uit van de vraag- en aanbodfunctie vóór de invoering van de accijns. P is de prijs in euro per fles en Q is de hoeveelheid in duizenden flessen per jaar.
+Tabel Markt voor cider in Norvia, vóór de accijns:
+Functie | Vergelijking
+Vraag | Qv = −40P + 480
+Aanbod | Qa = 60P + 80
+Bereken hoeveel procent van de accijns wordt doorberekend in de marktprijs van cider.
+### ANTWOORD
+Vóór de accijns geldt: −40P + 480 = 60P + 80, dus 100P = 400 en P = € 4,00. De brouwers dragen de accijns af, dus in de aanbodfunctie vervang ik P door (P − 0,50): Qa = 60(P − 0,50) + 80 = 60P + 50. Nieuw evenwicht: −40P + 480 = 60P + 50, dus 100P = 430 en P = € 4,30. De prijs stijgt met € 0,30. Doorberekend: 0,30 : 0,50 × 100% = 60%. Dus 60% van de accijns wordt doorberekend in de marktprijs.
+Puntenverdeling:
+• Evenwicht vóór de accijns: −40P + 480 = 60P + 80, dus P = € 4,00 (1)
+• Evenwicht na de accijns: de aanbieders dragen de accijns af, dus Qa = 60(P − 0,50) + 80 = 60P + 50; −40P + 480 = 60P + 50 geeft P = € 4,30 (1)
+• Doorberekend: (4,30 − 4,00) : 0,50 × 100% = 60% (1)
+
+## OPGAVE IT-00202 3p | Accijns op frisdrank
+De overheid van het land Calderon voert een accijns in op frisdrank met veel suiker. De accijns bedraagt € 0,40 per liter en wordt door de aanbieders afgedragen aan de overheid.
+De markt voor deze frisdrank is te beschrijven met de volgende functies, met P in euro per liter en Q in miljoenen liters per jaar:
+Qv = −20P + 120
+Qa = 60P − 60 (vóór invoering van de accijns)
+Bereken welk percentage van de accijns in de marktprijs van frisdrank wordt doorberekend aan de consument. Rond je antwoord af op één decimaal.
+### ANTWOORD
+Vóór de accijns geldt Qv = Qa: −20P + 120 = 60P − 60, dus 80P = 180 en P = 2,25. De aanbieders dragen € 0,40 af, dus in de aanbodfunctie komt P − 0,40: Qa = 60(P − 0,40) − 60 = 60P − 84. Nu geldt −20P + 120 = 60P − 84, dus 80P = 204 en P = 2,55. Doorberekend: (2,55 − 2,25) : 0,40 × 100% = 75,0%.
+Puntenverdeling:
+• Berekening van de evenwichtsprijs vóór de accijns: Qv = Qa geeft −20P + 120 = 60P − 60, dus P = 2,25 (1)
+• Verwerking van de accijns in de aanbodfunctie: Qa = 60(P − 0,40) − 60 = 60P − 84, en berekening van de nieuwe evenwichtsprijs: −20P + 120 = 60P − 84, dus P = 2,55 (1)
+• Berekening van het doorberekende percentage: (2,55 − 2,25) : 0,40 × 100% = 75,0% (1)
+
+## EXAMEN havo 2023-II 10 3p
+Bereken met de gegeven vraag- en aanbodvergelijking welk percentage van de taks van € 7,50 de luchtvaartmaatschappij zelf draagt.
+### ANTWOORD
+Evenwicht vóór: −P + 480 = 2P − 105, P = € 195 (1). Na: −P + 480 = 2P − 120, P = € 200 (1). Maatschappij draagt 7,50 − (200 − 195) = € 2,50, dus 2,50 : 7,50 × 100% = 33,3% / 33% (1).
+
+## EXAMEN vwo 2019-II 5 1p
+Bereken hoeveel procent van de accijnsverhoging Mores bij winstmaximalisatie in scenario 2 in de verkoopprijs doorberekent.
+### ANTWOORD
+(12,00 − 11,20) : 2 × 100% = 40%. Bij een foutieve prijs uit vraag 4 kan het punt alsnog worden toegekend.
+
+## EXAMEN vwo 2021-III 15 2p
+De taks is 2,5% van de prijs, de prijselasticiteit van de vraag is −2 en de hoeveelheid daalt met 4,3%. Toon met een berekening aan of meer dan driekwart van de taks wordt doorberekend.
+### ANTWOORD
+Prijsstijging = −4,3 : −2 = 2,15%. Doorberekend: 2,15 : 2,5 × 100% = 86%. Dat is meer dan 75%, dus de bewering klopt.
+
+## EXAMEN vwo 2024-I 2 2p
+Gebruik figuur 1 (markt A met en zonder heffing). Bereken hoeveel procent van de heffing in de prijs van product A wordt doorberekend.
+### ANTWOORD
+Prijs stijgt van € 18 naar € 20 (+ € 2); de heffing is € 4 per stuk, af te lezen uit de verschuiving van de aanbodlijn (1). Doorberekend: 2 : 4 × 100% = 50% (1).
+
+
+# LEERDOEL ECO-BELAS-03
+domein: D
+onderwerp: D.heffing
+thema: Accijns en surplus
+naam: Accijnsopbrengst en welvaartsverlies aanwijzen in een grafiek
+doel: Ik kan in een grafiek de accijnsopbrengst en het welvaartsverlies arceren.
+
+## UITLEG Marktevenwicht, heffing, subsidie en doorberekening
+Evenwicht bij Qv = Qa. Een heffing per stuk verschuift de aanbodlijn verticaal omhoog met het bedrag, een subsidie omlaag. Doorberekening is de prijsstijging voor de consument gedeeld door de heffing, maal 100%. Benodigde heffing voor een doelhoeveelheid is het verschil tussen prijs op vraaglijn en aanbodlijn. Vaak arceren: heffingsopbrengst en welvaartsverlies. Fout: horizontaal verschuiven of consumenten- en producentenprijs verwisselen.
+
+## OPGAVE IT-00181 1p | Accijns op frisdrank in Marenia
+In het land Marenia heft de overheid sinds kort een accijns van € 1,60 per fles frisdrank. De aanbieders dragen de accijns af aan de overheid.
+De figuur is een schets van de markt voor frisdrank. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns. Het evenwicht voor en na invoering van de accijns is aangegeven.
+Figuur (markt, schets zonder getallen): vraag P = 10 − 0.5Q, aanbod P = 2 + 0.3Q, heffing 1.6 per stuk
+Welke combinatie geeft in de figuur juist aan hoe je de accijnsopbrengst en het welvaartsverlies arceert?
+### OPTIES C
+A Accijnsopbrengst: de rechthoek tussen de prijs die de consument betaalt en de prijs die de aanbieder overhoudt, tot de nieuwe afzet. Welvaartsverlies: de driehoek tussen de vraaglijn en de aanbodlijn inclusief accijns, rechts van de nieuwe afzet.
+B Accijnsopbrengst: de rechthoek tussen de oude en de nieuwe prijs voor de consument, tot de nieuwe afzet. Welvaartsverlies: de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet.
+C Accijnsopbrengst: de rechthoek tussen de prijs die de consument betaalt en de prijs die de aanbieder overhoudt, tot de nieuwe afzet. Welvaartsverlies: de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet.
+D Accijnsopbrengst: de rechthoek tussen de prijs die de consument betaalt en de prijs die de aanbieder overhoudt, tot de oude afzet. Welvaartsverlies: de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet.
+### ANTWOORD
+C. De accijns is het verschil tussen de prijs die de consument betaalt en de prijs die de aanbieder overhoudt. De overheid ontvangt dit bedrag alleen over de flessen die nog worden verkocht, dus de rechthoek loopt tot de nieuwe afzet. De flessen tussen de nieuwe en de oude afzet worden niet meer verkocht. Dat verlies zit in de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn.
+Puntenverdeling:
+• Het juiste antwoord is C. (1)
+
+## OPGAVE IT-00182 2p | Accijns op ontbijtgranen in Drevia
+In het land Drevia voert de overheid een accijns in van € 3,00 per doos ontbijtgranen met veel suiker. De groothandels dragen de accijns af aan de overheid.
+De figuur is een schets van de markt voor deze ontbijtgranen. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief accijns.
+Een raadslid wil de opbrengst van de accijns gebruiken voor gezondheidsprogramma's. Zij vraagt zich af of de overheid ook iets overhoudt aan de dozen die door de accijns niet meer worden verkocht.
+Figuur (markt, schets zonder getallen): vraag P = 14 − 1Q, aanbod P = 2 + 0.5Q, heffing 3 per stuk
+Leg uit, met behulp van de figuur, dat het welvaartsverlies door de accijns de overheid niets oplevert.
+### ANTWOORD
+Het welvaartsverlies is de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet. Dat zijn de dozen die door de accijns niet meer worden verkocht. De overheid krijgt de accijns alleen over dozen die wel worden verkocht: de opbrengst is de rechthoek tot de nieuwe afzet. Over de dozen in de driehoek wordt dus geen accijns betaald. Het surplus van deze transacties verdwijnt, en niemand ontvangt het, ook de overheid niet.
+Puntenverdeling:
+• Het welvaartsverlies bestaat uit de transacties die door de accijns niet meer plaatsvinden: de driehoek tussen de vraaglijn en de oorspronkelijke aanbodlijn, rechts van de nieuwe afzet (tot de oude afzet). (1)
+• De accijns wordt alleen betaald over de dozen die nog worden verkocht (de opbrengst is de rechthoek tot de nieuwe afzet). Over de dozen die niet meer worden verkocht wordt geen accijns betaald, dus de overheid ontvangt hierover niets. (1)
+
+## OPGAVE IT-00255 3p | Heffing op afhaalkoffie in Orvelde
+De gemeente Orvelde wil het afval van wegwerpbekers verminderen. Daarom voert zij een heffing van € 0,90 per kop afhaalkoffie in. De koffiebars dragen de heffing af aan de gemeente. Ze rekenen een deel van de heffing door in de prijs.
+De figuur is een schets van de markt voor afhaalkoffie. Daarin staan de vraaglijn, de oorspronkelijke aanbodlijn en de aanbodlijn inclusief heffing. Een wethouder zegt: 'Wat consumenten en koffiebars aan surplus verliezen, ontvangen wij als opbrengst.'
+Figuur (markt, schets zonder getallen): vraag P = 9 − 0.04Q, aanbod P = 3 + 0.02Q, heffing 0.9 per stuk
+Beredeneer met behulp van de figuur dat de uitspraak van de wethouder onjuist is, en leid af wat dit betekent voor de doelmatigheid van de markt.
+### ANTWOORD
+De heffing verhoogt de prijs, dus de afzet daalt. Consumenten en koffiebars verliezen samen een rechthoek (heffing × nieuwe afzet, tussen de twee aanbodlijnen) en een driehoek (tussen vraaglijn en oorspronkelijke aanbodlijn, over de afname van de afzet). Alleen de rechthoek is opbrengst voor de gemeente. De driehoek ontvangt niemand, dus de wethouder heeft ongelijk. Die driehoek is het welvaartsverlies: kopjes koffie die meer waard zijn dan ze kosten, worden niet meer verkocht. De markt is minder doelmatig.
+Puntenverdeling:
+• Een juiste redenering bevat de volgende elementen: Het verlies aan consumenten- en producentensurplus is de rechthoek tussen de twee aanbodlijnen (hoogte = heffing, breedte = nieuwe afzet) plus de driehoek tussen vraaglijn en oorspronkelijke aanbodlijn over de afname van de afzet. (1)
+• De rechthoek is de heffingsopbrengst en wordt ontvangen door de gemeente. De driehoek komt bij niemand terecht (ook niet bij de gemeente). Dus ontvangt de gemeente minder dan het surplusverlies van consumenten en koffiebars. (1)
+• De driehoek is het welvaartsverlies: koppen koffie die voor de kopers meer waard zijn dan de kosten, worden door de heffing niet meer verkocht. De markt is dus minder doelmatig. (1)
+
+## EXAMEN havo 2025-II 10 3p
+Geef met letters in bron 2 de oppervlakken aan voor consumentensurplus, producentensurplus en accijnsopbrengst na het heffen van de accijns. Vul de tabel aan op het antwoordblad.
+### ANTWOORD
+Consumentensurplus: ABC. Producentensurplus: HIJ (of BCD). Accijnsopbrengst: BCIH (of DCIJ). Eén punt per juist onderdeel.
+
+## EXAMEN vwo 2024-I 4 2p
+Arceer in de uitwerkbijlage de heffingsopbrengst voor de overheid in figuur 1 (markt A) en het verlies aan doelmatigheid door de subsidie in figuur 2 (markt B).
+### ANTWOORD
+Eén punt voor de juiste arcering op markt A en één punt voor de juiste arcering op markt B. Andere arceringen kunnen ook juist zijn.
+
+
+# LEERDOEL ECO-BELAS-04
+domein: D
+onderwerp: D.heffing
+thema: Accijns en surplus
+naam: Uitleggen hoe een accijns omvang en verdeling van het surplus verandert
+doel: Ik kan uitleggen hoe een accijns de omvang en verdeling van het surplus verandert.
+
+## UITLEG Marktevenwicht, heffing, subsidie en doorberekening
+Evenwicht bij Qv = Qa. Een heffing per stuk verschuift de aanbodlijn verticaal omhoog met het bedrag, een subsidie omlaag. Doorberekening is de prijsstijging voor de consument gedeeld door de heffing, maal 100%. Benodigde heffing voor een doelhoeveelheid is het verschil tussen prijs op vraaglijn en aanbodlijn. Vaak arceren: heffingsopbrengst en welvaartsverlies. Fout: horizontaal verschuiven of consumenten- en producentenprijs verwisselen.
+
+## UITLEG Consumentensurplus, producentensurplus en Pareto-efficiëntie
+Consumentensurplus is het verschil tussen de betalingsbereidheid (vraaglijn) en de prijs. Producentensurplus is het verschil tussen de prijs en de marginale kosten (aanbodlijn). Volkomen concurrentie geeft het grootste totale surplus en is Pareto-efficiënt: niemand kan er beter van worden zonder dat een ander slechter af is. Minder afzet door een hogere prijs verlaagt het totale surplus. Let op eenheden (miljoenen of miljarden).
+
+## EXAMEN havo 2026-I 26 3p
+Invulvraag met vijf open plekken over het effect van een heffing op suikerhoudende voeding: producenten-, consumentensurplus en overheidsinkomsten (drie keuzes), soort goed en teken van de inkomenselasticiteit.
+### ANTWOORD
+(1) afnemen; (2) afnemen; (3) toenemen; (4) primaire; (5) positieve. Vijf juist 3p, drie of vier juist 2p, twee juist 1p.
+

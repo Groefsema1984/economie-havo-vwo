@@ -1,0 +1,603 @@
+# LEERDOEL ECO-ELAST-01
+domein: D
+onderwerp: D.elas
+thema: Elasticiteit
+naam: Prijselasticiteit van de vraag berekenen en typeren
+doel: Ik kan de prijselasticiteit van de vraag berekenen en aangeven of die elastisch is.
+gens: elasticiteit
+
+## UITLEG Elasticiteiten en soorten goederen
+Ev = %ΔQ : %ΔP. Onder −1 is de vraag elastisch, tussen 0 en −1 inelastisch; de conclusie mag rekenkundig of verbaal. Inelastisch: prijsverhoging verhoogt de omzet. Elastisch: prijsverlaging verhoogt de omzet, omdat de afzet meer dan evenredig stijgt. Inkomenselasticiteit: luxe boven 1, inferieur onder 0. Substituten vervangen elkaar, complementen worden samen gebruikt. Gebruik geen absolute veranderingen.
+
+## UITLEG Prijselasticiteit, afzetverandering en omzet
+Ev = procentuele verandering Qv : procentuele verandering prijs, met minteken en in procenten. Onder −1 is de vraag elastisch, tussen 0 en −1 inelastisch. Afzetverandering = Ev × prijsverandering. Inelastisch: prijsstijging geeft procentueel kleinere afzetdaling, dus omzet stijgt. Elastisch: prijsdaling geeft meer dan evenredige afzetstijging, dus omzet stijgt. Gebruik geen absolute veranderingen.
+
+## UITLEG Elasticiteiten
+E = procentuele verandering van Q gedeeld door procentuele verandering van P, nooit met absolute veranderingen. Prijselastisch bij een waarde onder −1. Omzetregel: elastisch betekent dat prijsverlaging de omzet verhoogt, inelastisch dat prijsverhoging de omzet verhoogt. Kruislings positief is substituut, negatief complement. Op lange termijn is de vraag elastischer. Teller en noemer omdraaien of de verkeerde prijs gebruiken is fout.
+
+## OPGAVE IT-00112 3p | Fluisterboot Rietvaart
+Rederij Rietvaart organiseert dagtochten met een elektrische fluisterboot door een natuurgebied. De rederij verlaagt de prijs van een ticket om meer toeristen te trekken. In de tabel staan de ticketprijs en de omzet per maand vóór en na de prijsverlaging. Andere factoren die de vraag beïnvloeden, zijn gelijk gebleven.
+Tabel Ticketprijs en omzet per maand:
+Situatie | Prijs per ticket (€) | Omzet per maand (€)
+Voor de verlaging | 20,00 | 36.000
+Na de verlaging | 18,00 | 37.800
+Bereken de prijselasticiteit van de vraag naar tickets bij de prijsverlaging van € 20,00 naar € 18,00. Geef je antwoord op twee decimalen.
+Doe het als volgt:
+− Bedenk vooraf met de omzetgegevens of de vraag elastisch of inelastisch moet zijn.
+− Bepaal de afzet bij beide prijzen.
+− Bereken de procentuele verandering van de afzet en van de prijs.
+− Bereken Ev en controleer of dit past bij je verwachting.
+### ANTWOORD
+Afzet voor: 36.000 : 20 = 1.800. Afzet na: 37.800 : 18 = 2.100. %ΔQv = (2.100 − 1.800) : 1.800 × 100% = 16,67%. %ΔP = (18 − 20) : 20 × 100% = −10%. Ev = 16,67 : −10 = −1,67. De prijs daalt en de omzet stijgt, dus de vraag is elastisch; dat klopt met Ev < −1.
+Puntenverdeling:
+• Afzet voor de verlaging: 36.000 : 20 = 1.800 en na de verlaging: 37.800 : 18 = 2.100 (1)
+• Procentuele verandering van de afzet: (2.100 − 1.800) : 1.800 × 100% = 16,67% en van de prijs: (18 − 20) : 20 × 100% = −10% (1)
+• Ev = 16,67 : −10 = −1,67 (1)
+
+## OPGAVE IT-00113 3p | Kaashoeve De Hoogwei
+Kaashoeve De Hoogwei verkoopt op de markt in Hoogveld twee producten: biologische kaas en geitenkaas. Per 1 januari verhoogt de kaashoeve de prijs van de biologische kaas. Bij de geitenkaas overweegt de eigenaar ook een prijsverhoging.
+In de tabel staan de prijs per kilo en de omzet per kwartaal van de biologische kaas vóór en na de prijsverhoging.
+Tabel Biologische kaas: prijs per kilo en omzet per kwartaal:
+Situatie | Prijs per kilo (€) | Omzet per kwartaal (€)
+Voor de verhoging | 12,00 | 24.000
+Na de verhoging | 13,50 | 22.680
+Toon met een berekening aan dat de vraag naar biologische kaas prijselastisch is.
+### ANTWOORD
+Afzet voor: 24.000 : 12 = 2.000 kilo. Afzet na: 22.680 : 13,50 = 1.680 kilo. %ΔQv = (1.680 − 2.000) : 2.000 × 100% = −16%. %ΔP = (13,50 − 12) : 12 × 100% = 12,5%. Ev = −16 : 12,5 = −1,28. Dit is kleiner dan −1, dus de vraag is prijselastisch.
+Puntenverdeling:
+• Afzet voor de verhoging: 24.000 : 12 = 2.000 kilo en na de verhoging: 22.680 : 13,50 = 1.680 kilo (1)
+• Procentuele verandering van de afzet: (1.680 − 2.000) : 2.000 × 100% = −16% en van de prijs: (13,50 − 12) : 12 × 100% = 12,5% (1)
+• Ev = −16 : 12,5 = −1,28; dit is kleiner dan −1, dus de vraag is prijselastisch (1)
+
+## OPGAVE IT-00118 2p | Kaashoeve De Hoogwei
+Kaashoeve De Hoogwei verkoopt op de markt in Hoogveld ook geitenkaas. De prijselasticiteit van de vraag naar geitenkaas is −0,40.
+De eigenaar overweegt de prijs van de geitenkaas met 10% te verhogen. Andere factoren die de vraag beïnvloeden, blijven gelijk.
+Leg uit of de omzet van geitenkaas stijgt of daalt bij een prijsverhoging van 10%.
+### ANTWOORD
+Ev = −0,40 ligt tussen −1 en 0, dus de vraag is prijsinelastisch. Bij een prijsverhoging van 10% daalt de afzet met 0,40 × 10 = 4%. De afzet daalt dus procentueel minder dan de prijs stijgt. Daardoor stijgt de omzet: 1,10 × 0,96 = 1,056, dus een stijging van 5,6%.
+Puntenverdeling:
+• De vraag is prijsinelastisch (Ev = −0,40 ligt tussen −1 en 0) / de afzet daalt procentueel minder dan de prijs stijgt (4% tegenover 10%). Eén van beide formuleringen is voldoende voor dit punt. (1)
+• Dus de omzet stijgt. (1)
+
+## OPGAVE IT-00119 2p | Rondvaarten Aqualinea
+Rederij Aqualinea biedt in Stroomburg rondvaarten door de oude binnenstad aan. Om meer passagiers te trekken verlaagt de rederij het tarief per kaartje van € 8,00 met 25%. Andere factoren die de vraag beïnvloeden, zijn niet veranderd.
+De rederij houdt per week de omzet bij. De afzet is het aantal verkochte kaartjes per week.
+Tabel Tarief en omzet per week:
+Situatie | Tarief per kaartje (€) | Omzet per week (€)
+Vóór de verlaging | 8,00 | 24.000
+Na de verlaging | 6,00 | 25.200
+Bereken de prijselasticiteit van de vraag naar rondvaarten van Aqualinea.
+### ANTWOORD
+Afzet vóór: 24.000 : 8 = 3.000 kaartjes. Afzet na: 25.200 : 6 = 4.200 kaartjes. %ΔQv = (4.200 − 3.000) : 3.000 × 100% = 40%. %ΔP = (6 − 8) : 8 × 100% = −25%. Ev = 40 : −25 = −1,60.
+Puntenverdeling:
+• Afzet vóór de verlaging 24.000 : 8 = 3.000 en na de verlaging 25.200 : 6 = 4.200, dus %ΔQv = (4.200 − 3.000) : 3.000 × 100% = 40% (1)
+• %ΔP = (6 − 8) : 8 × 100% = −25% en Ev = 40 : −25 = −1,60 (1)
+
+## OPGAVE IT-00197 3p | Prijselasticiteit: de basis
+Webwinkel Velora verkoopt hardloopschoenen. De eigenaar verhoogt de prijs van een populair model en bekijkt daarna de verkopen per maand. De overige omstandigheden zijn gelijk gebleven.
+Tabel Prijs en afzet van het schoenmodel:
+| Prijs per paar (€) | Afzet per maand (paar)
+Voor de prijsverhoging | 80,00 | 500
+Na de prijsverhoging | 92,00 | 410
+Bereken de prijselasticiteit van de vraag (Ev) van dit schoenmodel en geef aan of de vraag prijselastisch of prijsinelastisch is.
+### ANTWOORD
+Prijsverandering: (92 − 80) : 80 × 100% = 15%. Afzetverandering: (410 − 500) : 500 × 100% = −18%. Ev = −18 : 15 = −1,20. Ev is kleiner dan −1, dus de vraag is prijselastisch.
+Puntenverdeling:
+• Berekening van de procentuele prijsverandering: (92 − 80) : 80 × 100% = 15% (met de oude prijs als basis) (1)
+• Berekening van de procentuele afzetverandering: (410 − 500) : 500 × 100% = −18% (met de oude afzet als basis) (1)
+• Ev = −18 : 15 = −1,20 en conclusie: Ev is kleiner dan −1, dus de vraag is prijselastisch (1)
+
+## OPGAVE IT-00453 2p | Smoothiebar Vitaal: de formule
+Smoothiebar Vitaal verkoopt bekers fruitsmoothie. De eigenaar verhoogt de prijs van een beker van € 4,00 naar € 4,50. Hij wil daarna de prijselasticiteit van de vraag berekenen.
+Maak van onderstaande tekst een economisch juiste tekst.
+De prijselasticiteit van de vraag bereken je door ...(1)... te delen. Bij de procentuele verandering neem je als basis de ...(2)... waarde. De uitkomst heeft bij een normaal product een ...(3)... De prijsverhoging van € 4,00 naar € 4,50 is een procentuele verandering van ...(4)...
+Kies uit: bij (1) de procentuele verandering van de afzet door de procentuele verandering van de prijs / de procentuele verandering van de prijs door de procentuele verandering van de afzet / de absolute verandering van de afzet door de absolute verandering van de prijs
+bij (2) oude / nieuwe / gemiddelde
+bij (3) minteken / plusteken / nul
+bij (4) 12,5% / 11,1% / 0,5%
+### ANTWOORD
+(1) de procentuele verandering van de afzet door de procentuele verandering van de prijs; (2) oude; (3) minteken; (4) 12,5%. De prijs stijgt van € 4,00 met € 0,50: 0,50 : 4,00 × 100% = 12,5%.
+Puntenverdeling:
+• Per twee juiste keuzes 1 scorepunt. (1) de procentuele verandering van de afzet door de procentuele verandering van de prijs en (2) oude (1)
+• (3) minteken en (4) 12,5% (1)
+
+## OPGAVE IT-00454 3p | Smoothiebar Vitaal: de prijselasticiteit
+De eigenaar van Smoothiebar Vitaal verhoogt de prijs van een beker smoothie. De tabel toont de prijs en de omzet per week voor en na de verhoging. De afzet staat er niet in.
+Schat eerst: daalt de afzet procentueel meer of minder dan de prijs stijgt? Reken daarna in stappen.
+Tabel Prijs en omzet smoothies per week:
+Moment | Prijs per beker (€) | Omzet per week (€)
+Voor de verhoging | 4,00 | 1.600,00
+Na de verhoging | 4,50 | 1.620,00
+Bereken de prijselasticiteit van de vraag naar smoothies en vermeld of de vraag elastisch of inelastisch is.
+Doe het als volgt:
+- Bereken de afzet voor en na de prijsverhoging.
+- Bereken de procentuele verandering van de afzet en van de prijs.
+- Bereken Ev en controleer het teken.
+### ANTWOORD
+Afzet voor: 1.600 : 4,00 = 400. Afzet na: 1.620 : 4,50 = 360. %ΔQ = (360 − 400) : 400 × 100% = −10%. %ΔP = (4,50 − 4,00) : 4,00 × 100% = 12,5%. Ev = −10 : 12,5 = −0,80. Dit ligt tussen 0 en −1, dus de vraag is inelastisch.
+Puntenverdeling:
+• Afzet voor 1.600 : 4,00 = 400 en afzet na 1.620 : 4,50 = 360 (1)
+• Procentuele verandering afzet (360 − 400) : 400 × 100% = −10% en prijs (4,50 − 4,00) : 4,00 × 100% = 12,5% (1)
+• Ev = −10 : 12,5 = −0,80, dus inelastisch (tussen 0 en −1) (1)
+
+## OPGAVE IT-00455 4p | Streekmarkt Zonnehoek: honing en jam
+Een kraam op de Streekmarkt Zonnehoek verkoopt honing en jam van eigen bijen en fruit. De eigenaar houdt de prijs en de omzet per jaar bij (fictieve cijfers).
+In 2025 verlaagt hij de prijs van een pot honing. De jam laat hij in dat jaar duurder worden.
+Tabel Prijs en omzet per product:
+Product | Jaar | Prijs per pot (€) | Omzet per jaar (€)
+Honing | 2023 | 5,00 | 2.250,00
+Honing | 2024 | 6,00 | 2.400,00
+Honing | 2025 | 5,40 | 2.592,00
+Jam | 2024 | 4,00 | 2.000,00
+Jam | 2025 | 4,40 | 2.090,00
+Bereken de prijselasticiteit van de vraag naar honing bij de prijsverlaging in 2025 en vermeld of de vraag elastisch of inelastisch is.
+Gebruik de tabel. Kies zelf de juiste gegevens.
+### ANTWOORD
+Prijsverlaging in 2025, dus 2024 is de basis. Afzet 2024: 2.400 : 6,00 = 400. Afzet 2025: 2.592 : 5,40 = 480. %ΔP = (5,40 − 6,00) : 6,00 × 100% = −10%. %ΔQ = (480 − 400) : 400 × 100% = 20%. Ev = 20 : −10 = −2,00. Dit is kleiner dan −1, dus de vraag is elastisch.
+Puntenverdeling:
+• Afzet honing 2024: 2.400 : 6,00 = 400 en afzet 2025: 2.592 : 5,40 = 480 (1)
+• Procentuele verandering prijs (5,40 − 6,00) : 6,00 × 100% = −10% (1)
+• Procentuele verandering afzet (480 − 400) : 400 × 100% = 20% (1)
+• Ev = 20 : −10 = −2,00, dus elastisch (onder −1) (1)
+
+## EXAMEN havo 2018-I 23 2p
+Een econoom stelt dat mensen vanaf 300 euro prijsgevoeliger zijn. Past een prijselasticiteit van 0,1 of 0,2 (bij (a) in de bron) beter bij zijn voorstel? Licht je keuze toe.
+### ANTWOORD
+De waarde 0,2 (−0,2). Verzekerden reageren bij het startpunt van € 300 prijsgevoeliger, waardoor de vraag naar zorg elastischer is dan bij een startpunt van € 0.
+
+## EXAMEN havo 2018-II 26 2p
+De eigenaar zegt dat een prijsverlaging bij zijn parkeergelegenheid tot meer omzet leidt. Gaat hij uit van een prijselastische of prijsinelastische vraag? Licht je keuze toe.
+### ANTWOORD
+Prijselastisch. Een prijsverlaging geeft meer omzet. Hij gaat er dus van uit dat de afzet meer dan evenredig stijgt.
+
+## EXAMEN havo 2019-I 3 3p
+De prijs van het papierplus-abonnement van de Krant van Vandaag steeg tussen 2013 en 2014. Bereken met bron 2 het aantal papierplus-abonnementen in 2014.
+### ANTWOORD
+Prijsstijging 2013-2014 = 2,8% (1 punt). Afzetverandering = −1,1 × 2,8 = −3,1% (1 punt). Afzet 2014 = 696.600 × 0,969 = 675.005 (1 punt). Een andere afronding is ook goed.
+
+## EXAMEN havo 2021-I 19 3p
+Maak een juiste tekst met behulp van een bron met prijs- en inkomenselasticiteiten: bij welke drank werkt een accijnsverhoging relatief het sterkst, welk soort goed zijn wijn en sterke drank, en bij welke prijsverhoging verdwijnt het gebruik volledig?
+### ANTWOORD
+(1) sterke drank; (2) luxe; (3) 200%. Eén punt per juiste keuze.
+
+## EXAMEN havo 2021-II 23 2p
+Toon met een berekening aan dat de rente-elasticiteit −0,5 is bij een renteverandering van 0,5% naar 0,3%. Gebruik bron 1.
+### ANTWOORD
+Vraag bij 0,5%: −2,0 × 0,5 + 3,0 = 2,0 mld; bij 0,3%: 2,4 mld. Rente −40%, vraag +20% (1). Elasticiteit = 20% : −40% = −0,5, dus rente-inelastisch (1).
+
+## EXAMEN havo 2021-II 24 2p
+Leg met de rente-elasticiteit uit dat het totale rentebedrag over het geleende bedrag daalt bij een renteverandering van 0,5% naar 0,3%.
+### ANTWOORD
+Elasticiteit −0,5, dus de hoeveelheid verandert relatief minder dan de rente (−40% rente × −0,5 = +20% lening) (1). Het effect van de rentedaling is groter dan de stijging van het geleende bedrag, dus r × Q daalt (1).
+
+## EXAMEN havo 2021-II 27 1p
+Maak een economisch juiste tekst: uitgaand van de situatie zonder subsidie is de prijselasticiteit van de vraag naar zonnepanelen ..., dus de vraag is ... Kies bij (1) uit 0,3 / −0,3 / 3,3 / −3,3 en bij (2) elastisch of inelastisch.
+### ANTWOORD
+(1) −3,3; (2) elastisch. Prijs € 500 naar € 425 (−15%), vraag 60.000 naar 90.000 (+50%), dus 50% : −15% = −3,3.
+
+## EXAMEN havo 2022-I 8 2p
+Gebruik bron 2. Toon met een berekening aan dat de vraag van de supermarkten naar kokosbrood prijselastisch is.
+### ANTWOORD
+Afzet: (3,5 − 4,0) : 4,0 × 100% = −12,5%. Prijs: (1,30 − 1,20) : 1,20 × 100% = 8,3% (1p). Afzet verandert procentueel meer dan de prijs, dus Ev = −1,5 < −1: elastisch (1p). Aanvulling: rekenkundig óf verbaal volstaat.
+
+## EXAMEN havo 2022-II 15 3p
+Gebruik bron 1. Twee uitspraken: (1) buitenlandse reizen geven bij dezelfde procentuele prijsdaling meer afzetgroei dan binnenlandse; (2) de omzet stijgt bij buitenlandse en daalt bij binnenlandse reizen. Leg uit of ze juist zijn, met de prijselasticiteiten.
+### ANTWOORD
+Buitenland −4,4 (elastisch), binnenland −0,56 (inelastisch). 1: juist, want de afzet reageert sterker. 2: juist: bij prijsdaling stijgt de omzet (P × Q) van de elastische vraag en daalt die van de inelastische vraag.
+
+## EXAMEN havo 2023-I 11 2p
+Leg uit dat een daling van de gemiddelde loonkosten kan leiden tot een toename van de totale omzet van de restaurants.
+### ANTWOORD
+Lagere loonkosten kunnen leiden tot lagere prijzen van de gerechten. Is de afzetstijging relatief groter dan de prijsdaling, dan neemt de totale omzet per saldo toe.
+
+## EXAMEN havo 2023-I 23 2p
+Verklaar de uitkomst in de cel rechtsonder van de matrix. Betrek de prijselasticiteit van de vraag in je antwoord.
+### ANTWOORD
+In die cel verlagen beide landen het aanbod, dus de olieprijs stijgt. De omzet van beide landen neemt toe bij de hogere prijs. Dat betekent dat de vraag naar ruwe olie prijsinelastisch is.
+
+## EXAMEN havo 2023-II 2 3p
+Toon met een berekening aan of een verhoging van de energiebelasting met 75% genoeg is om het gasverbruik met 5% te laten dalen.
+### ANTWOORD
+Nieuwe belasting 1,75 × € 0,346 = € 0,606; tarief excl. btw € 1,058; btw € 0,222; nieuw tarief € 1,280 (1). Prijsstijging (1,280 − 0,966) : 0,966 × 100% = 32,5% (1). Vraagdaling 0,1 × 32,5% = 3,3%, minder dan 5% (1).
+
+## EXAMEN havo 2023-II 7 3p
+Bereken welk percentage van de passagiers blijft vliegen na een verhoging van de ticketprijs met € 7,50, bij een gegeven prijselasticiteit van −1,4.
+### ANTWOORD
+Prijsstijging (€ 7,50 : € 300) × 100% = 2,5% (1). Vraagverandering −1,4 × 2,5% = −3,5% (1). Blijft vliegen 100% − 3,5% = 96,5% (1). De tweede deelscore is voorwaardelijk voor de derde.
+
+## EXAMEN havo 2023-II 8 2p
+Leg uit of de procentuele vliegtaks voor lange vluchten hoger of lager moet zijn dan voor korte vluchten om dezelfde vraagdaling te bereiken.
+### ANTWOORD
+Hoger. Vraag naar lange vluchten reageert procentueel minder sterk op dezelfde procentuele prijsverandering (1), dus is een procentueel hogere taks nodig voor dezelfde daling (1).
+
+## EXAMEN havo 2023-II 20 1p
+Kies in een invulvraag de juiste termen voor de prijselasticiteit en het soort goed van het medicijn.
+### ANTWOORD
+(1) prijsinelastisch; (2) noodzakelijk (1).
+
+## EXAMEN havo 2024-I 5 2p
+De vraag naar supermarktproducten is prijsinelastisch. Leg uit dat een prijsstijging dan de omzet laat stijgen.
+### ANTWOORD
+Bij prijsinelastische vraag daalt de afzet procentueel minder dan de prijs stijgt. Omzet = P × q, dus bij een hogere prijs en vrijwel gelijke afzet stijgt de omzet. Ook goed: mensen blijven kopen, dus de omzet neemt toe.
+
+## EXAMEN havo 2025-I 12 3p
+Hopi Bon start met een huurprijs van $ 16 en verhoogt die later naar $ 24. Stijgt of daalt de omzet? Bereken eerst de prijselasticiteit van de vraag (bron 1).
+### ANTWOORD
+Afzet daalt van 40 naar 30. Prijs +50%, afzet −25% (1). Ev = −25% : 50% = −0,5, dus inelastisch (1). Bij inelastische vraag stijgt de omzet bij een prijsstijging (1). De conclusie mag ook rekenkundig.
+
+## EXAMEN havo 2025-II 8 2p
+Kies welke grafiek de vraag naar suiker van mensen met een laag inkomen het best weergeeft en leg je antwoord uit.
+### ANTWOORD
+Grafiek 2. Bij dezelfde prijsverandering is de relatieve verandering van de hoeveelheid bij lage inkomens groter dan bij hoge inkomens, dus de vraag is prijselastischer. Scoring: 0 of 2 punten.
+
+## EXAMEN havo 2026-I 17 1p
+Met een tabel met twee prijsscenario's toon je aan dat de prijselasticiteit van de vraag in scenario 1 gelijk is aan nul.
+### ANTWOORD
+De prijs stijgt van € 25 naar € 30 (+20%) en het aantal toeschouwers blijft 20.000 (0%). Elasticiteit = 0% : 20% = 0.
+
+## EXAMEN havo 2026-I 18 3p
+Bereken de prijselasticiteit van de vraag in scenario 2 (prijs € 35, 16.000 toeschouwers) en verklaar het verschil met scenario 1.
+### ANTWOORD
+Prijs +40%, vraag −20%, 1p. Elasticiteit = −20% : 40% = −0,5, 1p. Verklaring, 1p: bij € 25 is er vraagoverschot of capaciteitstekort, dus bij scenario 1 worden alle tickets nog verkocht.
+
+## EXAMEN vwo 2019-II 13 3p
+De spitsprijs stijgt 10% en de dalprijs daalt 10%. De prijselasticiteit in de spits is −0,2 en de kruislingse elasticiteit +0,3. De huidige bezetting is 109%. Bereken de bezettingsgraad in de spits.
+### ANTWOORD
+Eigen prijs: −0,2 × 10% = −2% (1). Kruislings: +0,3 × −10% = −3% (1). Bezetting 109 × 0,98 × 0,97 ≈ 103,62 of 109 × 0,95 = 103,55 (1).
+
+## EXAMEN vwo 2021-I 19 1p
+Bij de prijselasticiteit van de export staat de prijs in vreemde valuta in de noemer, bij de import de prijs in eigen valuta. Verklaar dit verschil.
+### ANTWOORD
+De vraag naar importgoederen komt van binnen het land. Die vragers reageren op de prijs in eigen valuta. De vraag naar export komt uit het buitenland. Buitenlandse vragers reageren op de prijs in hun eigen valuta.
+
+## EXAMEN vwo 2021-I 20 3p
+Een land devalueert 20%. De prijselasticiteit van de export is −0,5 en die van de import −0,4. Toon met een berekening aan dat de importwaarde in eigen valuta sterker toeneemt dan de exportwaarde.
+### ANTWOORD
+Exportprijs in vreemde valuta −20%, dus exportvolume +10% (1). Importprijs in eigen valuta 1 : 0,8 = 1,25, dus +25%, importvolume −10% (1). Exportwaarde: 100 × 1,1 = 110. Importwaarde: 100 × 0,9 × 1,25 = 112,5. Importwaarde stijgt dus meer (1).
+
+## EXAMEN vwo 2021-I 21 2p
+Geef een verklaring voor de stelling dat de import op langere termijn elastischer is dan op korte termijn.
+### ANTWOORD
+Op lange termijn zijn gemakkelijker substituten te vinden, dus het importvolume reageert sterker op een prijsstijging. Op korte termijn zijn importeurs gebonden aan contracten en vinden ze niet snel andere leveranciers, dus reageert de import zwak en is hij inelastischer.
+
+## EXAMEN vwo 2021-II 2 3p
+Toon met een berekening van de prijselasticiteit aan dat de vraag naar friet bij Willem prijselastisch is. De matrix geeft omzet en prijs voor en na het doorberekenen van de heffing van 20%.
+### ANTWOORD
+Netto prijs zonder doorberekening is 2/1,20 = 1,67, afzet 9.000/1,67 ≈ 5.390. Met doorberekening is de afzet 8.000/2 = 4.000. Afzetdaling 25,8%, prijsstijging 20%, Ev = −1,29. Dit is kleiner dan −1, dus elastisch.
+
+## EXAMEN vwo 2021-II 14 3p
+De lira daalt 40% en de exportwaarde in lira's stijgt 36%. De elasticiteit van het importvolume is 0,75. Bereken de verandering van de importwaarde in eigen valuta en toon aan dat het saldo lopende rekening verbetert.
+### ANTWOORD
+Een euro kost nu 1/0,6 = 1,67 lira, dus de importprijs stijgt 66,67%. Het importvolume daalt 66,67 × 0,75 = 50%. Importwaarde-index: 100 × 0,5 × 1,667 = 83,35 (daling). De export stijgt naar 136, dus het saldo verbetert.
+
+## EXAMEN vwo 2021-III 15 2p
+De taks is 2,5% van de prijs, de prijselasticiteit van de vraag is −2 en de hoeveelheid daalt met 4,3%. Toon met een berekening aan of meer dan driekwart van de taks wordt doorberekend.
+### ANTWOORD
+Prijsstijging = −4,3 : −2 = 2,15%. Doorberekend: 2,15 : 2,5 × 100% = 86%. Dat is meer dan 75%, dus de bewering klopt.
+
+## EXAMEN vwo 2022-I 5 2p
+De analist adviseert de startprijs 10% te verlagen en die verlaging na een jaar spelen af te schaffen. Leg uit dat de prijselasticiteiten in tabel 1 dit advies ondersteunen.
+### ANTWOORD
+De eerste twaalf maanden is de vraag bij € 12 prijselastisch (Ev < −1): prijsverlaging verhoogt de omzet. Na een jaar is de vraag inelastisch (Ev > −1): de verlaging afschaffen (prijs omhoog) verhoogt dan de omzet.
+
+## EXAMEN vwo 2022-II 29 2p
+Een figuur toont twee vraaglijnen. Welke hoort bij kwintiel 1 en welke bij kwintiel 5? Geef twee argumenten en betrek de prijselasticiteit.
+### ANTWOORD
+QvA hoort bij kwintiel 1 en QvB bij kwintiel 5. Bij € 45 ligt QvB rechtser, dus meer vraag; kwintiel 5 drinkt meer (1). Bij die prijs ligt QvA in het elastische deel (−1,50) en QvB in het inelastische deel (−0,97) (1).
+
+## EXAMEN vwo 2023-I 3 3p
+Een analist stelt drie dingen vast: de marktvorm verandert en de prijsafzetfunctie verschuift, de prijselasticiteit verandert, en een matige prijsverhoging verhoogt de omzet. Leg elke constatering uit.
+### ANTWOORD
+Concurrenten verdwijnen: monopolie, de vraag naar het bedrijf neemt toe en de GO-curve schuift naar rechts (1). Klanten kunnen niet overstappen, de vraag wordt prijsinelastischer (1). Bij een prijsverhoging daalt de afzet relatief minder, dus de omzet stijgt (1).
+
+## EXAMEN vwo 2023-II 12 2p
+Toon met een berekening aan dat de vraag naar brievenpost in de uitgangssituatie prijselastisch is. Ga uit van een tariefsverlaging van 10%.
+### ANTWOORD
+Nieuwe prijs € 1,40 (0,90 × 1,56): Qv = 525 miljoen. %ΔQv = (525 − 447,5) : 447,5 × 100% = 17,32%. Ev = 17,32 : 10 = 1,7 in absolute waarde; groter dan 1, dus prijselastisch. Een prijs van € 1,404 is ook goed.
+
+## EXAMEN vwo 2023-II 14 2p
+Consumenten reageren prijselastisch op een tariefverhoging en prijsinelastisch op een verlaging. Leg uit of aanpassing van het posttarief de omzet kan verhogen.
+### ANTWOORD
+Bij een verhoging daalt de vraag procentueel sterker dan de prijs stijgt, dus de omzet daalt (1). Bij een verlaging stijgt de vraag procentueel minder dan de prijs daalt, dus de omzet daalt ook (1). Aanpassing verhoogt de omzet dus niet.
+
+
+# LEERDOEL ECO-ELAST-02
+domein: D
+onderwerp: D.elas
+thema: Elasticiteit
+naam: Met de prijselasticiteit het effect op de omzet beredeneren
+doel: Ik kan met de prijselasticiteit beredeneren of de omzet stijgt of daalt.
+gens: elasticiteit
+
+## OPGAVE IT-00448 3p | Pennenhuis verhoogt de prijs
+Webwinkel Pennenhuis verhoogt de prijs van een notitieboek met 10%. Daardoor daalt de afzet met 4%. De directie wil weten wat dit doet met de omzet.
+Maak van onderstaande tekst een economisch juiste tekst.
+De prijselasticiteit van de vraag naar het notitieboek is ...(1)... . Daarom is de vraag ...(2)... . Door de prijsverhoging ...(3)... de omzet.
+Kies uit: bij (1) −0,40 / −2,50 / +0,40
+Kies uit: bij (2) elastisch / inelastisch / proportioneel
+Kies uit: bij (3) stijgt / daalt / blijft gelijk
+### ANTWOORD
+(1) −0,40, want −4% : +10% = −0,40. (2) Inelastisch, want −0,40 ligt tussen 0 en −1. (3) De omzet stijgt, want de afzet daalt procentueel minder dan de prijs stijgt.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. bij (1): −0,40 (−4 : 10) (1)
+• bij (2): inelastisch (−0,40 ligt tussen 0 en −1) (1)
+• bij (3): stijgt (de afzet daalt procentueel minder dan de prijs stijgt) (1)
+
+## OPGAVE IT-00449 4p | Prijzen in de schoolkantine
+Kantine Het Lunchpunt verhoogt de prijs van alle producten met 10%. De kantinebeheerder kent de prijselasticiteit van de vraag van twee producten. Hij wil weten wat de afzet en de omzet gaan doen.
+Tabel Prijselasticiteit van de vraag:
+Product | Prijsverhoging | Prijselasticiteit
+Broodje gezond | 10% | −1,50
+Kop soep | 10% | −0,60
+Maak van onderstaande tekst een economisch juiste tekst.
+Bij het broodje gezond verandert de afzet met ...(1)... . De omzet van het broodje ...(2)... .
+Bij de soep verandert de afzet met ...(3)... . De omzet van de soep ...(4)... .
+Kies uit: bij (1) −15% / −1,5% / +15%
+Kies uit: bij (2) stijgt / daalt / blijft gelijk
+Kies uit: bij (3) −6% / −0,6% / −16%
+Kies uit: bij (4) stijgt / daalt / blijft gelijk
+### ANTWOORD
+Broodje: −1,50 × 10 = −15% afzet. De vraag is elastisch, dus de omzet daalt. Soep: −0,60 × 10 = −6% afzet. De vraag is inelastisch, want −0,60 ligt tussen 0 en −1. De afzet daalt procentueel minder dan de prijs stijgt, dus de omzet stijgt.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. bij (1): −15% (−1,50 × 10) (1)
+• bij (2): daalt (elastisch: de afzet daalt procentueel meer dan de prijs stijgt) (1)
+• bij (3): −6% (−0,60 × 10) (1)
+• bij (4): stijgt (inelastisch: de afzet daalt procentueel minder dan de prijs stijgt) (1)
+
+## OPGAVE IT-00450 3p | E-bikeverhuur Duinwiel
+Verhuurbedrijf Duinwiel verhoogt de huurprijs van een e-bike met 8%. Uit onderzoek blijkt dat de prijselasticiteit van de vraag naar deze e-bikes −1,25 is. De eigenaar vraagt zich af wat er met de omzet gebeurt.
+Maak de redeneerketen af.
+De huurprijs stijgt met 8% → de vraag is ...(1)... , want ... → de afzet verandert met ...(2)... % en dat is procentueel ... dan de prijsverandering → de omzet ...(3)... .
+### ANTWOORD
+(1) Elastisch, want −1,25 ligt onder −1. (2) De afzet daalt met −1,25 × 8 = −10%. Dat is procentueel meer dan de prijsstijging van 8%. (3) De omzet daalt.
+Puntenverdeling:
+• Per juiste schakel 1 scorepunt. bij (1): elastisch, want −1,25 ligt onder −1 (1)
+• bij (2): −10% (−1,25 × 8), procentueel meer dan de prijs stijgt (1)
+• bij (3): daalt, omdat de afzet procentueel meer daalt dan de prijs stijgt (1)
+
+## OPGAVE IT-00451 4p | Tuincentrum Groenhoek
+Tuincentrum Groenhoek verhoogde vorig seizoen de prijs van twee producten met 10%. De eigenaar overweegt nu om beide prijzen juist met 10% te verlagen. Hij gaat ervan uit dat de prijselasticiteit van de vraag gelijk blijft.
+Tabel Prijs en omzet per seizoen:
+Product | Prijs vorig seizoen (€) | Prijs dit seizoen (€) | Omzet vorig seizoen (€) | Omzet dit seizoen (€)
+Tuinstoel | 40,00 | 44,00 | 20.000 | 17.600
+Plantenvoeding | 5,00 | 5,50 | 6.000 | 6.270
+Beredeneer voor elk product wat een prijsverlaging van 10% doet met de omzet.
+Doe het als volgt:
+− bereken per product de prijselasticiteit met de afzet voor en na de prijsverhoging;
+− leg per product uit wat de prijsverlaging doet met de afzet en de omzet.
+### ANTWOORD
+Tuinstoel: afzet 500 naar 400 is −20%, prijs +10%, dus Ev = −2,00. Elastisch, dus bij een prijsverlaging stijgt de afzet procentueel meer dan de prijs daalt: omzet stijgt. Plantenvoeding: afzet 1.200 naar 1.140 is −5%, Ev = −0,50. Inelastisch, afzet stijgt procentueel minder: omzet daalt.
+Puntenverdeling:
+• . Tuinstoel: afzet 500 → 400 (−20%), prijs +10%, Ev = −2,00 (1)
+• Plantenvoeding: afzet 1.200 → 1.140 (−5%), prijs +10%, Ev = −0,50 (1)
+• Tuinstoel: elastisch (onder −1); bij prijsverlaging stijgt de afzet procentueel meer dan 10%, dus de omzet stijgt (1)
+• Plantenvoeding: inelastisch (tussen 0 en −1); bij prijsverlaging stijgt de afzet procentueel minder dan 10%, dus de omzet daalt (1)
+
+## OPGAVE IT-00452 3p | Zwembad De Waterlelie
+Zwembad De Waterlelie verlaagde dit seizoen de prijs van een losse toegangskaart. De directeur is blij met de hogere omzet en zegt: 'Volgend seizoen verhogen we de prijs met 5%. Dat levert ons nog meer omzet op.'
+Het zwembad meet de prijselasticiteit met de gegevens van het zwembad zelf. De prijselasticiteit blijft volgend seizoen gelijk.
+Tabel Losse toegangskaart:
+| Vorig seizoen | Dit seizoen
+Prijs per kaart (€) | 8,00 | 6,00
+Omzet losse kaarten (€) | 12.000 | 12.600
+Beredeneer of de directeur gelijk heeft met zijn uitspraak over de omzet bij een prijsverhoging van 5%.
+### ANTWOORD
+Afzet vorig seizoen: 12.000 : 8 = 1.500. Dit seizoen: 12.600 : 6 = 2.100. Dat is +40% bij een prijs van −25%, dus Ev = −1,60. Dit is elastisch. Bij +5% prijs daalt de afzet met 8%: procentueel meer. De omzet daalt, dus de directeur heeft geen gelijk.
+Puntenverdeling:
+• . Afzet 1.500 → 2.100 (+40%), prijs −25%, Ev = −1,60 (1)
+• De vraag is elastisch, want −1,60 ligt onder −1 (1)
+• Bij een prijsverhoging daalt de afzet procentueel meer dan de prijs stijgt (−8% tegen +5%), dus de omzet daalt: de directeur heeft geen gelijk (1)
+
+## OPGAVE IT-00464 3p | Kanoverhuur Rietzicht
+Kanoverhuur Rietzicht verhuurt kano's per dag. De huurprijs is € 20 en er worden gemiddeld 150 kano's per dag verhuurd. De eigenaar overweegt de prijs met 10% te verhogen. Uit onderzoek blijkt dat de prijselasticiteit van de vraag naar kanoverhuur bij Rietzicht −0,40 is.
+Leg uit of de omzet van Kanoverhuur Rietzicht na de prijsverhoging stijgt of daalt. Gebruik de begrippen elastisch of inelastisch en de gegeven prijselasticiteit.
+### ANTWOORD
+De elasticiteit is −0,40, dus tussen 0 en −1: de vraag is inelastisch. Bij 10% prijsstijging daalt de afzet met 0,40 × 10 = 4%. De afzet daalt procentueel minder dan de prijs stijgt, dus de omzet stijgt (van € 3.000 naar € 3.168).
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Een prijselasticiteit van −0,40 ligt tussen 0 en −1, dus de vraag is inelastisch (1)
+• De afzet daalt met 0,40 × 10 = 4%, dat is procentueel minder dan de prijs stijgt (10%) (1)
+• Dus de omzet stijgt (1)
+
+## OPGAVE IT-00466 3p | Een uitspraak over de entreeprijs
+Schaatsbaan Poolster verhoogt de entreeprijs per bezoeker. De bedrijfsleider zegt: 'Een hogere prijs betekent meer omzet, want onze bezoekers komen toch wel.' De baan registreert alleen de dagomzet en de prijs.
+Tabel Prijs en dagomzet van Poolster:
+| Prijs per bezoeker (€) | Dagomzet (€)
+Vóór de verhoging | 10,00 | 4.500
+Na de verhoging | 11,00 | 4.356
+Beredeneer met behulp van de prijselasticiteit van de vraag of de uitspraak van de bedrijfsleider juist is. Gebruik berekeningen.
+### ANTWOORD
+Afzet vóór: 4.500 : 10 = 450. Afzet na: 4.356 : 11 = 396. De afzet daalt 12%, de prijs stijgt 10%. Ev = −12 : 10 = −1,2: elastisch. De afzet daalt procentueel meer, dus de omzet daalt. De uitspraak is onjuist.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Afzet vóór 4.500 : 10 = 450 en na 4.356 : 11 = 396, dus de afzet daalt met 12%; de prijs stijgt met 10% (1)
+• Ev = −12 : 10 = −1,2, dus kleiner dan −1: de vraag is elastisch (1)
+• De afzet daalt procentueel meer dan de prijs stijgt, dus de omzet daalt (€ 4.500 naar € 4.356) en de uitspraak is onjuist (1)
+
+## OPGAVE IT-00467 3p | Tarief van parkeergarage Centrumpoort
+Parkeergarage Centrumpoort rekent € 3,00 per uur en heeft een omzet van € 60.000 per week. De directeur wil de prijs met 10% verlagen en zegt: 'Er komen zoveel extra parkeerders bij dat onze omzet stijgt.'
+Een marktonderzoek laat zien dat de prijselasticiteit van de vraag naar parkeeruren in deze garage −0,50 is.
+Beredeneer met behulp van de prijselasticiteit en berekeningen of de uitspraak van de directeur juist is.
+### ANTWOORD
+Ev = −0,50, tussen 0 en −1: inelastisch. Bij 10% prijsverlaging stijgt de afzet met 0,50 × 10 = 5%. Dat is minder dan de prijsdaling. Dus de omzet daalt: 20.000 × 1,05 = 21.000 uur × € 2,70 = € 56.700 tegenover € 60.000. De uitspraak is onjuist.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: Ev = −0,50 ligt tussen 0 en −1, dus de vraag is inelastisch (1)
+• De afzet stijgt met 0,50 × 10 = 5%, procentueel minder dan de prijs daalt (10%) (1)
+• Dus de omzet daalt (bijvoorbeeld van € 60.000 naar € 56.700) en de uitspraak is onjuist (1)
+
+## OPGAVE IT-00468 3p | Onderhoudsbeurt bij Spaakwerk
+Fietsenmaker Spaakwerk verhoogt de prijs van een onderhoudsbeurt van € 80 naar € 88. Vóór de verhoging voert Spaakwerk 200 beurten per maand uit.
+De prijselasticiteit van de vraag naar onderhoudsbeurten bij Spaakwerk is −1,5. Andere factoren die de vraag beïnvloeden blijven gelijk.
+Beredeneer met een berekening hoe de maandelijkse omzet van Spaakwerk verandert door de prijsverhoging.
+### ANTWOORD
+De prijs stijgt met 8 : 80 × 100 = 10%. De afzet verandert met −1,5 × 10 = −15%, dus van 200 naar 170 beurten. De omzet was 80 × 200 = € 16.000 en wordt 88 × 170 = € 14.960. De afzet daalt procentueel meer dan de prijs stijgt (elastisch), dus de omzet daalt.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende punten: De prijs stijgt met (88 − 80) : 80 × 100% = 10%, dus de afzet daalt met −1,5 × 10 = −15%, ofwel van 200 naar 170 beurten per maand (1)
+• De omzet daalt van 80 × 200 = € 16.000 naar 88 × 170 = € 14.960 (een daling van € 1.040) (1)
+• De afzet daalt procentueel meer dan de prijs stijgt (de vraag is prijselastisch), dus de omzet daalt (1)
+
+
+# LEERDOEL ECO-ELAST-03
+domein: D
+onderwerp: D.elas
+thema: Elasticiteit
+naam: Inkomenselasticiteit berekenen uit een verandering van inkomen en afzet
+doel: Ik kan de inkomenselasticiteit berekenen uit de verandering van het inkomen en de afzet.
+
+## OPGAVE IT-00459 3p | Supermarkt Veldzicht: inkomen en afzet
+Supermarkt Veldzicht verkoopt huismerk-macaroni. In een wijk stijgt het gemiddelde inkomen met 8%. De afzet van de macaroni daalt daardoor met 4%. De prijs verandert niet.
+Maak van onderstaande tekst een economisch juiste tekst.
+De inkomenselasticiteit is gelijk aan de ...(1)... De uitkomst bij de macaroni van Veldzicht is ...(2)... Het gaat om een ...(3)... product.
+Kies uit:
+bij (1): procentuele verandering van de afzet : procentuele verandering van het inkomen / procentuele verandering van het inkomen : procentuele verandering van de afzet / procentuele verandering van de afzet : procentuele verandering van de prijs
+bij (2): −2,00 / −0,50 / 0,50
+bij (3): inferieur / noodzakelijk / luxe
+### ANTWOORD
+(1) procentuele verandering van de afzet : procentuele verandering van het inkomen. (2) −4 : 8 = −0,50. (3) inferieur, want de uitkomst is negatief: het inkomen stijgt en de afzet daalt.
+Puntenverdeling:
+• Per juiste keuze 1 scorepunt. bij (1): procentuele verandering van de afzet : procentuele verandering van het inkomen (1)
+• bij (2): −0,50 (−4 : 8) (1)
+• bij (3): inferieur (de uitkomst is negatief) (1)
+
+## OPGAVE IT-00460 3p | Sapbar Fruitig
+Sapbar Fruitig verkoopt smoothies voor € 4,00 per stuk. De prijs is al jaren gelijk. In 2026 stijgt het gemiddelde inkomen van de klanten. De eigenaar ziet ook dat zijn omzet groeit.
+Gebruik de tabel.
+Tabel Inkomen en omzet (fictieve cijfers):
+Jaar | Gemiddeld inkomen per maand (€) | Omzet smoothies per week (€)
+2025 | 2.400 | 3.200
+2026 | 2.640 | 3.680
+Bereken de inkomenselasticiteit van de smoothies van Sapbar Fruitig. Geef je antwoord in twee decimalen.
+Doe het als volgt:
+- bereken de afzet in 2025 en in 2026;
+- bereken de procentuele verandering van de afzet en van het inkomen, met de oude waarde als basis.
+### ANTWOORD
+Afzet 2025: 3.200 : 4 = 800. Afzet 2026: 3.680 : 4 = 920. Afzet stijgt (920 − 800) : 800 × 100 = 15%. Inkomen stijgt (2.640 − 2.400) : 2.400 × 100 = 10%. Ey = 15 : 10 = 1,50.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 scorepunten op. Afzet 2025 = 3.200 : 4,00 = 800 en afzet 2026 = 3.680 : 4,00 = 920 (1)
+• Procentuele verandering afzet = (920 − 800) : 800 × 100 = 15% en procentuele verandering inkomen = (2.640 − 2.400) : 2.400 × 100 = 10% (1)
+• Inkomenselasticiteit = 15 : 10 = 1,50 (1)
+
+## OPGAVE IT-00461 3p | Noedels bij een lager inkomen
+In de regio Noordkust sluit een grote fabriek. Het gemiddelde inkomen van de huishoudens daalt daardoor. Supermarktketen Prijsvrij verkoopt in deze regio instantnoedels van het huismerk voor € 0,80 per pakje. De prijs blijft gelijk.
+Gebruik de tabel.
+Tabel Inkomen en omzet noedels (fictieve cijfers):
+Jaar | Gemiddeld huishoudinkomen per jaar (€) | Omzet noedels per maand (€)
+2025 | 36.000 | 24.000
+2026 | 34.200 | 24.720
+Bereken de inkomenselasticiteit van de noedels en geef met je uitkomst aan of het een inferieur, een noodzakelijk of een luxeproduct is. Geef de uitkomst in twee decimalen.
+### ANTWOORD
+Afzet 2025: 24.000 : 0,80 = 30.000. Afzet 2026: 24.720 : 0,80 = 30.900. Afzet: +3%. Inkomen: (34.200 − 36.000) : 36.000 × 100 = −5%. Ey = 3 : −5 = −0,60. Dit is negatief, dus de noedels zijn een inferieur product.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 scorepunten op. Afzet 2025 = 24.000 : 0,80 = 30.000 en afzet 2026 = 24.720 : 0,80 = 30.900 (1)
+• Procentuele verandering afzet = (30.900 − 30.000) : 30.000 × 100 = +3% en procentuele verandering inkomen = (34.200 − 36.000) : 36.000 × 100 = −5% (1)
+• Inkomenselasticiteit = 3 : −5 = −0,60 en dus een inferieur product (negatieve uitkomst) (1)
+
+## OPGAVE IT-00462 3p | Kookworkshops van Smaakatelier
+Smaakatelier geeft kookworkshops voor € 60 per deelnemer. De prijs blijft gelijk. In de regio stijgt het gemiddelde inkomen van de huishoudens. De eigenaar vergelijkt twee jaren.
+Gebruik de tabel.
+Tabel Inkomen en omzet workshops (fictieve cijfers):
+Jaar | Gemiddeld huishoudinkomen per maand (€) | Omzet workshops per maand (€)
+2025 | 3.000 | 15.000
+2026 | 3.120 | 16.200
+Bereken de inkomenselasticiteit van de kookworkshops en geef met je uitkomst aan of het een inferieur, een noodzakelijk of een luxeproduct is. Geef de uitkomst in twee decimalen.
+### ANTWOORD
+Afzet 2025: 15.000 : 60 = 250. Afzet 2026: 16.200 : 60 = 270. Afzet: (270 − 250) : 250 × 100 = 8%. Inkomen: (3.120 − 3.000) : 3.000 × 100 = 4%. Ey = 8 : 4 = 2,00. Dit is groter dan 1, dus luxeproduct.
+Puntenverdeling:
+• Een los eindantwoord zonder berekening levert 0 scorepunten op. Afzet 2025 = 15.000 : 60 = 250 en afzet 2026 = 16.200 : 60 = 270 (1)
+• Procentuele verandering afzet = (270 − 250) : 250 × 100 = 8% en procentuele verandering inkomen = (3.120 − 3.000) : 3.000 × 100 = 4% (1)
+• Inkomenselasticiteit = 8 : 4 = 2,00 en dus een luxeproduct (groter dan 1) (1)
+
+
+# LEERDOEL ECO-ELAST-04
+domein: D
+onderwerp: D.elas
+thema: Elasticiteit
+naam: Met de inkomenselasticiteit bepalen of een product inferieur, noodzakelijk of luxe is
+doel: Ik kan met de inkomenselasticiteit uitleggen of een product inferieur, noodzakelijk of luxe is.
+
+## OPGAVE IT-00444 1p | Noedels en verse vis
+Supermarkt Zonnehof onderzoekt hoe de afzet reageert op het gezinsinkomen. Bij de huismerknoedels is de inkomenselasticiteit −0,50. Bij de verse vis is de inkomenselasticiteit +0,50.
+Welke combinatie van soort product en verklaring is juist?
+Kies het antwoord (A, B, C of D). Een keuze zonder juiste verklaring levert geen punt op.
+### OPTIES A
+A Noedels zijn inferieur, want de inkomenselasticiteit is lager dan 0: bij een stijgend inkomen daalt de afzet. Verse vis is noodzakelijk, want de inkomenselasticiteit ligt tussen 0 en 1: de afzet stijgt procentueel minder dan het inkomen.
+B Noedels zijn noodzakelijk, want de waarde ligt dicht bij 0: de afzet blijft ongeveer gelijk. Verse vis is luxe, want de waarde is positief: de afzet stijgt bij een hoger inkomen.
+C Noedels zijn inferieur, want de inkomenselasticiteit is lager dan 0. Verse vis is luxe, want de afzet stijgt als het inkomen stijgt.
+D Noedels zijn noodzakelijk, want de afzet blijft gelijk bij een hoger inkomen. Verse vis is inferieur, want de waarde ligt tussen 0 en 1.
+### ANTWOORD
+A. Bij −0,50 is de inkomenselasticiteit kleiner dan 0, dus de noedels zijn inferieur: bij een hoger inkomen daalt de afzet. Bij +0,50 ligt de waarde tussen 0 en 1, dus verse vis is noodzakelijk: de afzet stijgt, maar procentueel minder dan het inkomen.
+Puntenverdeling:
+• Antwoord A Antwoord A is gekozen: noedels inferieur (Ey lager dan 0, afzet daalt bij hoger inkomen) en vis noodzakelijk (Ey tussen 0 en 1, afzet stijgt procentueel minder dan het inkomen) (1)
+
+## OPGAVE IT-00445 3p | Een inkomensstijging in Dalstroom
+In de gemeente Dalstroom stijgt het gemiddelde gezinsinkomen met 5%. Een onderzoeksbureau meet de inkomenselasticiteit van vier producten. De prijzen blijven gelijk.
+Tabel Inkomenselasticiteit van vier producten:
+Product | Inkomenselasticiteit
+Huismerkpasta | −0,40
+Volkorenbrood | 0,30
+Restaurantmaaltijd | 1,80
+Fitnessabonnement | 1,20
+Maak van onderstaande tekst een economisch juiste tekst.
+Bij een inkomensstijging van 5% verandert de afzet van huismerkpasta met ...(1)... procent.
+Huismerkpasta is daarom een ...(2)... product.
+Volkorenbrood is een ...(3)... product.
+Kies uit:
+bij (1): +2 / −2 / −0,08
+bij (2): inferieur / noodzakelijk / luxe
+bij (3): inferieur / noodzakelijk / luxe
+### ANTWOORD
+(1) −2. Afzetverandering = −0,40 × 5 = −2%. (2) Inferieur, want Ey is kleiner dan 0: bij een hoger inkomen daalt de afzet. (3) Noodzakelijk, want 0,30 ligt tussen 0 en 1.
+Puntenverdeling:
+• bij (1): −2 (1)
+• bij (2): inferieur (1)
+• bij (3): noodzakelijk (1)
+
+## OPGAVE IT-00446 3p | Fabriekssluiting in Maaswijk
+In Maaswijk sluit een grote fabriek. Daardoor daalt het gemiddelde gezinsinkomen met 10%. De prijzen blijven gelijk.
+Een winkelier let op drie producten. In de tabel staat de inkomenselasticiteit van elk product.
+Tabel Inkomenselasticiteit in Maaswijk:
+Product | Inkomenselasticiteit
+Soep uit pakjes | −0,60
+Aardappelen | 0,40
+Wellnessweekend | 2,20
+Beredeneer voor elk van de drie producten of de afzet toeneemt of afneemt, en welk product procentueel de grootste afzetdaling heeft. Gebruik de inkomenselasticiteit.
+### ANTWOORD
+Soep: Ey is negatief, dus inferieur. Het inkomen daalt, dus de afzet stijgt met −0,60 × −10 = 6%. Aardappelen: noodzakelijk, afzet daalt met 0,40 × −10 = −4%. Wellnessweekend: luxe, afzet daalt met 2,20 × −10 = −22%. Dat is de grootste daling.
+Puntenverdeling:
+• Soep: Ey is kleiner dan 0, dus inferieur; bij een inkomensdaling van 10% neemt de afzet toe (−0,60 × −10 = +6%) (1)
+• Aardappelen: Ey ligt tussen 0 en 1, dus noodzakelijk; de afzet neemt af (0,40 × −10 = −4%) (1)
+• Wellnessweekend: Ey is groter dan 1, dus luxe; de afzet neemt af (2,20 × −10 = −22%) en dat is de grootste procentuele daling (1)
+
+## OPGAVE IT-00447 3p | Fietsenwinkel Rijnstroom
+Fietsenwinkel Rijnstroom verkoopt tweedehands fietsen en nieuwe e-bikes. Het gemiddelde gezinsinkomen in de regio stijgt in één jaar met 10%. De prijzen van beide producten blijven gelijk.
+Tabel Omzet van Rijnstroom (in euro's):
+Product | Omzet voor | Omzet na
+Tweedehands fietsen | 40.000 | 37.000
+Nieuwe e-bikes | 100.000 | 118.000
+Toon met berekeningen aan welk van de twee producten een inferieur product is en welk product een luxe product is.
+Doe het als volgt:
+- bereken voor beide producten de procentuele verandering van de afzet;
+- bereken de inkomenselasticiteit van beide producten;
+- trek een conclusie.
+### ANTWOORD
+De prijs blijft gelijk, dus afzet verandert als de omzet. Tweedehands: (37.000 − 40.000) : 40.000 × 100 = −7,5%. E-bikes: (118.000 − 100.000) : 100.000 × 100 = 18%. Ey tweedehands = −7,5 : 10 = −0,75, dus inferieur. Ey e-bikes = 18 : 10 = 1,80, dus luxe.
+Puntenverdeling:
+• De prijs is gelijk, dus de procentuele verandering van de afzet is gelijk aan die van de omzet: tweedehands (37.000 − 40.000) : 40.000 × 100 = −7,5%; e-bikes (118.000 − 100.000) : 100.000 × 100 = +18% (1)
+• Ey tweedehands = −7,5 : 10 = −0,75; Ey e-bikes = 18 : 10 = 1,80 (1)
+• Conclusie: tweedehands fietsen zijn inferieur (Ey kleiner dan 0); e-bikes zijn luxe (Ey groter dan 1) (1)
+
+
+# LEERDOEL ECO-ELAST-06
+domein: D
+onderwerp: D.elas
+thema: Elasticiteit
+naam: Met de kruislingse elasticiteit bepalen of producten substituten of complementen zijn
+doel: Ik kan uit het teken van de kruislingse elasticiteit afleiden: substituut of complement.
+
+## OPGAVE IT-00473 2p | Tuinslangen en sproeikoppen
+Tuincentrum Groenhof verhoogt de prijs van tuinslangen met 8%. In dezelfde periode daalt de afzet van sproeikoppen, die vooral aan dezelfde klanten worden verkocht, met 4%. Andere prijzen en het weer zijn gelijk gebleven.
+Leg uit of tuinslangen en sproeikoppen substituten of complementen van elkaar zijn. Gebruik de kruislingse elasticiteit.
+### ANTWOORD
+Ek = %ΔQ sproeikoppen : %ΔP tuinslangen = −4% : 8% = −0,50. Het teken is negatief: wordt de slang duurder, dan daalt de afzet van sproeikoppen. Je gebruikt ze samen, dus het zijn complementen.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Kruislingse elasticiteit = −4% : 8% = −0,50 (1)
+• Het teken is negatief: als tuinslangen duurder worden, daalt de afzet van sproeikoppen. Ze worden samen gebruikt, dus het zijn complementen. (1)
+

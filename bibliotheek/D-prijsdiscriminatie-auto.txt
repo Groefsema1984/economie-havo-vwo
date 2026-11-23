@@ -1,0 +1,129 @@
+# LEERDOEL ECO-PRIJS-01
+domein: D
+onderwerp: D.prijsdisc
+thema: Prijsdiscriminatie
+naam: Een plan toetsen aan de twee voorwaarden voor prijsdiscriminatie
+doel: Ik kan een plan toetsen aan de twee voorwaarden voor prijsdiscriminatie.
+
+## UITLEG Prijsdiscriminatie: twee voorwaarden
+Toets in de context altijd beide voorwaarden: de deelmarkten zijn gescheiden en doorverkoop is niet mogelijk. Lidmaatschap of inwonerschap scheidt deelmarkten; persoonsgebonden abonnementen voorkomen doorverkoop. Sluit af met een conclusie of het plan werkt. Slechts één voorwaarde bespreken of concluderen dat het werkt terwijl doorverkoop kan, kost punten.
+
+## UITLEG Prijsdiscriminatie
+Verschillende prijzen voor hetzelfde product aan verschillende groepen. Werk beide voorwaarden uit met de context: de deelmarkten zijn gescheiden én doorverkoop is niet mogelijk. Sluit af met een conclusie of het plan slaagt. Nul punten als je maar één voorwaarde bespreekt.
+
+## UITLEG Prijsdiscriminatie en perfecte prijsdiscriminatie
+Bij prijsdiscriminatie vraagt de aanbieder verschillende prijzen voor hetzelfde product aan verschillende groepen. Toets in de context: zijn de deelmarkten te scheiden, is doorverkoop onmogelijk, en verschilt de betalingsbereidheid? Sluit af met een conclusie. Bij perfecte prijsdiscriminatie betaalt iedere koper zijn maximum, dus het consumentensurplus is nul, terwijl het totale surplus niet daalt. Concluderen dat het werkt terwijl doorverkoop kan, is fout.
+
+## OPGAVE IT-00159 3p | Kapsalon Haarlijn
+Kapsalon Haarlijn in Maasbrug vraagt € 36 voor een knipbeurt. Uit klantenonderzoek blijkt dat 65-plussers gemiddeld minder willen betalen voor een knipbeurt dan jongere klanten. Zij komen daardoor minder vaak. De eigenaresse wil voor 65-plussers een tarief van € 26 invoeren.
+Klanten maken online of telefonisch een afspraak. Bij het afrekenen vraagt de kapper om een identiteitsbewijs als de leeftijd van de klant niet duidelijk is. Elke knipbeurt wordt in de salon uitgevoerd door een kapper.
+Leg uit of Kapsalon Haarlijn met dit plan aan de twee voorwaarden voor prijsdiscriminatie voldoet.
+Begin je antwoord met ja of nee.
+### ANTWOORD
+Ja, Haarlijn voldoet aan beide voorwaarden. Eerste voorwaarde: de salon kan 65-plussers onderscheiden van andere klanten, want de kapper kan om een identiteitsbewijs vragen. Hun betalingsbereidheid is lager dan die van jongere klanten. Er zijn dus twee deelmarkten met een verschillende betalingsbereidheid. Tweede voorwaarde: een knipbeurt is een dienst die in de salon aan de klant zelf wordt geleverd. Een 65-plusser kan zijn knipbeurt dus niet doorverkopen aan een jongere klant. Conclusie: beide voorwaarden zijn vervuld, dus Haarlijn kan prijsdiscriminatie toepassen.
+Puntenverdeling:
+• Eerste voorwaarde met de casus uitgewerkt: de markt is op te delen in deelmarkten (65-plussers en jongere klanten, te onderscheiden op leeftijd met een identiteitsbewijs) die een verschillende betalingsbereidheid hebben (65-plussers willen minder betalen) (1)
+• Tweede voorwaarde met de casus uitgewerkt: doorverkoop tussen de deelmarkten is onmogelijk, omdat een knipbeurt een dienst is die ter plekke aan de klant zelf wordt geleverd en niet kan worden doorgegeven (1)
+• Conclusie: ja, aan beide voorwaarden is voldaan, dus prijsdiscriminatie is mogelijk (1)
+
+## OPGAVE IT-00160 3p | Muziekfestival Zonnewende
+Muziekfestival Zonnewende in Veldhaven verkoopt dagkaarten voor € 85. De organisatie wil de winst vergroten en overweegt voor bezoekers van 16 tot en met 25 jaar een voorverkoopprijs van € 55. Een enquête laat zien dat deze jongeren gemiddeld minder voor een dagkaart willen betalen dan oudere bezoekers.
+Een koper vult bij de online bestelling zijn geboortedatum in. De ticketsite controleert die met een digitale identiteitscheck. Daarna ontvangt de koper per e-mail een QR-code. Bij de ingang scannen medewerkers de QR-code. Ze controleren niet wie de bezoeker is.
+Beredeneer of het plan van Zonnewende aan de twee voorwaarden voor prijsdiscriminatie voldoet.
+Begin je antwoord met ja of nee.
+### ANTWOORD
+Nee, het plan voldoet niet aan beide voorwaarden. Eerste voorwaarde: Zonnewende kan jongeren van 16 tot en met 25 jaar scheiden van oudere bezoekers, want de leeftijd wordt bij de bestelling digitaal gecontroleerd. Jongeren hebben een lagere betalingsbereidheid. Deze voorwaarde is vervuld. Tweede voorwaarde: doorverkoop moet onmogelijk zijn. De QR-code is niet aan een persoon gekoppeld en bij de ingang wordt niet gecontroleerd wie de bezoeker is. Een jongere kan zijn goedkope kaart dus doorgeven of doorverkopen aan een oudere bezoeker. Deze voorwaarde is niet vervuld. Conclusie: omdat doorverkoop mogelijk is, kan Zonnewende geen prijsdiscriminatie toepassen.
+Puntenverdeling:
+• Eerste voorwaarde vervuld, met de casus uitgewerkt: de deelmarkten (jongeren van 16 tot en met 25 jaar en oudere bezoekers) zijn te scheiden door de identiteitscheck bij de bestelling, en jongeren hebben een lagere betalingsbereidheid (1)
+• Tweede voorwaarde niet vervuld, met de casus uitgewerkt: de QR-code is niet persoonsgebonden en bij de ingang wordt niet gecontroleerd wie de bezoeker is, dus een jongere kan zijn goedkope kaart doorverkopen of doorgeven aan een oudere bezoeker (1)
+• Conclusie: nee, het plan voldoet niet aan beide voorwaarden, dus prijsdiscriminatie is niet mogelijk (1)
+
+## OPGAVE IT-00198 3p | Museum Havenzicht
+Museum Havenzicht past prijsdiscriminatie toe. Inwoners van de stad betalen met hun stadspas € 8 voor een toegangskaart. Andere bezoekers betalen voor dezelfde kaart € 14.
+Uit onderzoek van het museum blijkt dat inwoners niet meer dan € 8 willen betalen, terwijl toeristen bereid zijn € 14 te betalen. Op de stadspas staat de naam van de houder. Bij de ingang moet de bezoeker een legitimatiebewijs laten zien.
+Leg uit of het prijsbeleid van Museum Havenzicht voldoet aan de twee voorwaarden voor prijsdiscriminatie.
+### ANTWOORD
+De markt is te splitsen in inwoners en toeristen. Hun betalingsbereidheid verschilt: € 8 tegenover € 14. Doorverkoop is onmogelijk, want de stadspas staat op naam en bij de ingang wordt een legitimatiebewijs gecontroleerd. Beide voorwaarden gelden, dus er is sprake van prijsdiscriminatie.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen: Voorwaarde 1 is vervuld: de markt is te splitsen in inwoners en andere bezoekers (deelmarkten) met een verschillende betalingsbereidheid (€ 8 tegenover € 14) (1)
+• Voorwaarde 2 is vervuld: doorverkoop is onmogelijk, doordat de stadspas op naam staat en de bezoeker bij de ingang een legitimatiebewijs moet laten zien (1)
+• Conclusie: het prijsbeleid voldoet aan beide voorwaarden, dus er is sprake van prijsdiscriminatie (1)
+
+## OPGAVE IT-00201 3p | Museum Het Zilveren Uur
+Museum Het Zilveren Uur in Veldhaven vraagt € 16 per toegangskaartje. De directie wil bezoekers van 65 jaar en ouder € 10 laten betalen en verwacht dat de winst daardoor stijgt.
+Kaartjes worden alleen online verkocht. De koper geeft bij de bestelling de geboortedatum van de bezoeker door en ontvangt een pdf-bestand per e-mail. Het kaartje staat niet op naam. Bij de ingang scant een medewerker alleen de streepjescode; een identiteitsbewijs wordt niet gevraagd.
+Tabel Bron 1 Gemiddelde betalingsbereidheid per museumbezoek (fictieve cijfers, panel uit de regio):
+Leeftijdsgroep | Betalingsbereidheid (€)
+65 jaar en ouder | 11
+jonger dan 65 jaar | 19
+Gebruik bron 1.
+Beredeneer met behulp van bron 1 en de beschrijving van het kaartjessysteem of het plan van het museum voldoet aan de twee voorwaarden voor prijsdiscriminatie.
+### ANTWOORD
+Nee. Eerste voorwaarde: de markt is in deelmarkten met een verschillende betalingsbereidheid te verdelen. Volgens bron 1 is die bij 65-plussers € 11 en bij jongeren € 19, en de geboortedatum maakt indeling naar leeftijd mogelijk. Deze voorwaarde is vervuld. Tweede voorwaarde: doorverkoop moet onmogelijk zijn. Het kaartje staat niet op naam en er is geen identiteitscontrole, dus een 65-plusser kan zijn kaartje aan een jongere doorgeven. Deze voorwaarde is niet vervuld. Het plan voldoet dus niet.
+Puntenverdeling:
+• Voorwaarde deelmarkten is vervuld: het museum kan bezoekers indelen naar leeftijd (via de geboortedatum) en de betalingsbereidheid verschilt (€ 11 bij 65-plussers tegenover € 19 bij jongere bezoekers) (1)
+• Voorwaarde onmogelijke doorverkoop is niet vervuld: het kaartje staat niet op naam en er is geen identiteitscontrole, dus een 65-plusser kan zijn goedkope kaartje doorgeven of doorverkopen aan een jongere bezoeker (1)
+• Conclusie die past bij de redenering: het plan voldoet niet aan beide voorwaarden, dus er is geen sprake van (werkende) prijsdiscriminatie (1)
+
+## EXAMEN havo 2018-I 4 1p
+De directeur vraagt zich af of prijsdiscriminatie mogelijk is. Noem één voorwaarde waaraan moet zijn voldaan om op een markt prijsdiscriminatie te kunnen toepassen.
+### ANTWOORD
+Eén van beide: er zijn gescheiden deelmarkten, of het product kan niet worden doorverkocht.
+
+## EXAMEN havo 2018-II 2 2p
+De voorzitter wil een lagere prijs voor leden van de vereniging. Noem twee voorwaarden waaraan moet zijn voldaan om zo prijsdiscriminatie te kunnen toepassen.
+### ANTWOORD
+1) Gescheiden deelmarkten: het lidmaatschap moet kunnen worden aangetoond. 2) De goedkopere kaartjes kunnen niet worden doorverkocht aan niet-leden.
+
+## EXAMEN havo 2025-I 13 2p
+Inwoners krijgen een persoonsgebonden jaarabonnement met een lagere dagprijs dan toeristen. Leg uit of dit plan voldoet aan de twee voorwaarden voor prijsdiscriminatie.
+### ANTWOORD
+Inwoners moeten aantonen dat ze inwoner zijn, dus de deelmarkten zijn gescheiden (1). Het abonnement is persoonsgebonden, dus doorverkoop aan toeristen is niet mogelijk: beide voorwaarden vervuld, prijsdiscriminatie slaagt (1). Het omgekeerde, mits goed beredeneerd, geeft ook de punten.
+
+## EXAMEN vwo 2022-I 26 2p
+Ellen vindt prijsdiscriminatie mogelijk vanwege het verschil in betalingsbereidheid, Daphne vindt van niet omdat een voorwaarde ontbreekt. Geef voor beide stellingen een verklaring.
+### ANTWOORD
+Ellen: maximale betalingsbereidheid groep 1 is € 40, groep 2 € 110, dus groep 2 kan een hogere prijs krijgen. Daphne: doorverkoop tussen de groepen is mogelijk (een student kan een contract voor een ander afsluiten). Daardoor ontbreekt een voorwaarde.
+
+## EXAMEN vwo 2024-II 4 2p
+Civitas wil prijsdiscriminatie toepassen. De armste van vijf even grote inkomensgroepen krijgt per week een kortingscode op naam. Beargumenteer of het plan aan de twee voorwaarden voldoet.
+### ANTWOORD
+De code op naam scheidt de deelmarkten. Doorverkoop van een pakket is mogelijk, dus dan is niet voldaan. Ook goed: doorverkoop treedt niet op, omdat huishoudens afhankelijk zijn en elders moeilijk aan boodschappen komen.
+
+## EXAMEN vwo 2025-II 3 2p
+De overheid wil een subsidie per deurbel geven aan de laagste inkomens. Leg uit of daardoor prijsdiscriminatie ontstaat.
+### ANTWOORD
+Deelmarkten zijn te onderscheiden (alleen lage inkomens krijgen subsidie), maar doorverkoop blijft mogelijk. Eén voorwaarde is niet vervuld, dus geen prijsdiscriminatie. Drie elementen: 2 punten; twee: 1; minder: 0.
+
+## EXAMEN vwo 2026-II 3 1p
+De overheid verkoopt rijst tegen een lage prijs aan mensen met de laagste inkomens, na legitimatie. Noem een voorwaarde om prijsdiscriminatie op een markt mogelijk te maken.
+### ANTWOORD
+Een van deze: deelmarkten zijn gescheiden / er is geen doorverkoop tussen de deelmarkten / de maximale betalingsbereidheid verschilt per groep consumenten.
+
+
+# LEERDOEL ECO-PRIJS-02
+domein: D
+onderwerp: D.prijsdisc
+thema: Prijsdiscriminatie
+naam: Uitleggen hoe prijsdiscriminatie consumentensurplus omzet in extra opbrengst
+doel: Ik kan uitleggen hoe prijsdiscriminatie consumentensurplus omzet in extra opbrengst voor de aanbieder.
+
+## UITLEG Consumenten- en producentensurplus, welvaart
+Consumentensurplus is betalingsbereidheid min prijs; producentensurplus is prijs min marginale kosten. Volledige mededinging geeft maximaal totaal surplus en is Pareto-efficiënt. Een monopolistische prijsverhoging verlaagt de afzet en het totale surplus, terwijl het aandeel van de producent stijgt. Bij perfecte prijsdiscriminatie is het consumentensurplus nul. Berekening: driehoek plus rechthoek. Eenheden verwarren kost punten; arceervragen zijn vaak alles of niets.
+
+## UITLEG Prijsdiscriminatie
+Drie voorwaarden: deelmarkten zijn te scheiden, doorverkoop tussen de deelmarkten is onmogelijk en de betalingsbereidheid of prijsgevoeligheid verschilt. Het CV wil per voorwaarde een uitleg in de context plus een conclusie. Een kortingscode op naam scheidt deelmarkten. Bij een veiling betaalt ieder zijn maximum: perfecte prijsdiscriminatie met consumentensurplus nul. Concluderen dat het werkt terwijl doorverkoop kan, of één voorwaarde bespreken, is fout.
+
+## UITLEG Prijsdiscriminatie en perfecte prijsdiscriminatie
+Bij prijsdiscriminatie vraagt de aanbieder verschillende prijzen voor hetzelfde product aan verschillende groepen. Toets in de context: zijn de deelmarkten te scheiden, is doorverkoop onmogelijk, en verschilt de betalingsbereidheid? Sluit af met een conclusie. Bij perfecte prijsdiscriminatie betaalt iedere koper zijn maximum, dus het consumentensurplus is nul, terwijl het totale surplus niet daalt. Concluderen dat het werkt terwijl doorverkoop kan, is fout.
+
+## EXAMEN vwo 2022-I 5 2p
+De analist adviseert de startprijs 10% te verlagen en die verlaging na een jaar spelen af te schaffen. Leg uit dat de prijselasticiteiten in tabel 1 dit advies ondersteunen.
+### ANTWOORD
+De eerste twaalf maanden is de vraag bij € 12 prijselastisch (Ev < −1): prijsverlaging verhoogt de omzet. Na een jaar is de vraag inelastisch (Ev > −1): de verlaging afschaffen (prijs omhoog) verhoogt dan de omzet.
+
+## EXAMEN vwo 2022-II 21 2p
+De veiling verloopt zoals de wethouder verwachtte. Leg de gevolgen uit voor het consumentensurplus van de startups.
+### ANTWOORD
+Elke startup biedt precies de maximale betalingsbereidheid. Door deze perfecte prijsdiscriminatie is het consumentensurplus nul.
+

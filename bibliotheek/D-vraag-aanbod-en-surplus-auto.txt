@@ -1,0 +1,187 @@
+# LEERDOEL ECO-MARKT-05
+domein: D
+onderwerp: D.vraag
+thema: Vraag, aanbod en surplus
+naam: Consumentensurplus berekenen als driehoek onder de vraaglijn
+doel: Ik kan het consumentensurplus bij een gegeven prijs berekenen als driehoek onder de vraaglijn.
+
+## OPGAVE IT-00440 3p | Kookstudio Smaakwerf
+Kookstudio Smaakwerf geeft kooklessen aan volwassenen. De eigenaar wil weten hoeveel voordeel haar cursisten hebben van de lesprijs. De tabel geeft gegevens over een gemiddelde maand. De vraaglijn naar kooklessen is een rechte lijn.
+Tabel Gegevens kooklessen per maand:
+Gegeven | Waarde
+Prijs per les nu | € 18
+Aantal lessen per maand bij die prijs | 60
+Hoogste prijs die een cursist per les wil betalen | € 30
+Aantal lessen per maand bij een prijs van € 0 | 150
+Kostprijs per les voor de kookstudio | € 11
+Maak van onderstaande tekst een economisch juiste tekst.
+Het consumentensurplus is het verschil tussen de ...(1)... en de prijs die de consument betaalt. In een figuur met de vraaglijn heeft het consumentensurplus de vorm van een ...(2)... Bij een prijs van € 18 is het consumentensurplus van de cursisten ...(3)... per maand.
+Kies uit: bij (1) betalingsbereidheid / marktprijs / kostprijs
+Kies uit: bij (2) driehoek / rechthoek / trapezium
+Kies uit: bij (3) € 360 / € 720 / € 900
+### ANTWOORD
+(1) betalingsbereidheid. (2) driehoek. (3) € 360. Ik gebruik 60 lessen bij € 18 en de maximale prijs € 30: ½ × 60 × (30 − 18) = € 360.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende drie keuzes: bij (1): betalingsbereidheid (1)
+• bij (2): driehoek (1)
+• bij (3): € 360 (= ½ × 60 × (30 − 18)) (1)
+
+## OPGAVE IT-00441 3p | Sapbar Vitaal
+Sapbar Vitaal verkoopt smoothies in een winkelcentrum. De vraag naar smoothies per dag wordt weergegeven door de vraagvergelijking Qv = −8p + 160. Hierin is Qv het aantal smoothies per dag en p de prijs in euro's. De huidige prijs is € 6 per smoothie.
+Bereken het consumentensurplus per dag bij de huidige prijs.
+Doe het als volgt:
+- Bereken het aantal smoothies dat per dag wordt verkocht bij de huidige prijs.
+- Bereken de maximale prijs.
+- Bereken het consumentensurplus en vermeld de eenheid.
+### ANTWOORD
+Qv = −8 × 6 + 160 = 112. Maximale prijs: Qv = 0, dus p = 160 : 8 = € 20. Consumentensurplus = ½ × 112 × (20 − 6) = € 784 per dag.
+Puntenverdeling:
+• Een juiste berekening is: Qv bij p = 6: −8 × 6 + 160 = 112 smoothies (1)
+• Maximale prijs (Qv = 0): 160 : 8 = € 20 (1)
+• Consumentensurplus = ½ × 112 × (20 − 6) = € 784 per dag (1)
+
+## OPGAVE IT-00442 3p | Padelhal Nova
+Padelhal Nova verhuurt banen per uur aan spelers. De eigenaar laat onderzoeken hoe de spelers de huidige prijs ervaren. De vraaglijn naar baanuren is een rechte lijn. De tabel geeft gegevens over een gemiddelde week.
+Tabel Gegevens padelhal per week:
+Gegeven | Waarde
+Prijs per baanuur nu | € 24
+Verhuurde baanuren per week bij die prijs | 72
+Hoogste prijs die een speler per uur wil betalen | € 36
+Kostprijs per baanuur voor de hal | € 14
+Aantal baanuren per week bij een prijs van € 0 | 216
+Omzet per week | € 1.728
+Bereken het consumentensurplus per week en geef daarbij aan wat dit bedrag zegt over de spelers.
+Doe het als volgt:
+- Kies de juiste gegevens uit de tabel.
+- Bereken het consumentensurplus.
+- Schrijf in één zin op wat het bedrag voor de spelers betekent.
+### ANTWOORD
+Ik gebruik 72 uren, prijs € 24 en maximale prijs € 36. Consumentensurplus = ½ × 72 × (36 − 24) = € 432 per week. Spelers hebben samen € 432 per week voordeel, omdat ze minder betalen dan ze maximaal over hebben.
+Puntenverdeling:
+• Een juist antwoord bevat: Juiste gegevens gekozen: hoeveelheid 72, prijs € 24 en maximale prijs € 36 (1)
+• Consumentensurplus = ½ × 72 × (36 − 24) = € 432 per week (1)
+• De spelers hadden samen € 432 per week meer over voor hun baanuren dan ze betalen (voordeel / welvaart van de spelers) (1)
+
+## OPGAVE IT-00443 3p | Zwembad Waterlelie
+Zwembad Waterlelie verkoopt losse toegangskaarten. De vraag naar kaarten per week wordt weergegeven door Qv = −30p + 540. Hierin is Qv het aantal kaarten en p de prijs in euro's. Het zwembad verlaagt de prijs van € 12 naar € 9 per kaart.
+Bereken de toename van het consumentensurplus per week door de prijsverlaging.
+Doe het als volgt:
+- Bereken de maximale prijs en het aantal kaarten bij € 12 en bij € 9.
+- Bereken het consumentensurplus bij beide prijzen.
+- Bereken het verschil.
+### ANTWOORD
+Maximale prijs: 540 : 30 = € 18. Bij € 12: Qv = 180, surplus = ½ × 180 × (18 − 12) = € 540. Bij € 9: Qv = 270, surplus = ½ × 270 × (18 − 9) = € 1.215. Toename = € 675 per week.
+Puntenverdeling:
+• Een juiste berekening is: Maximale prijs 540 : 30 = € 18; Qv bij € 12 is 180 en Qv bij € 9 is 270 (1)
+• Consumentensurplus bij € 12: ½ × 180 × (18 − 12) = € 540; bij € 9: ½ × 270 × (18 − 9) = € 1.215 (1)
+• Toename = 1.215 − 540 = € 675 per week (1)
+
+
+# LEERDOEL ECO-MARKT-06
+domein: D
+onderwerp: D.vraag
+thema: Vraag, aanbod en surplus
+naam: Verschuiving van de vraaglijn verklaren door substituten en complementen
+doel: Ik kan uitleggen hoe de vraaglijn verschuift als de prijs van een substituut of complement verandert.
+
+## OPGAVE IT-00436 2p | Koffie, thee en melk bij Bonenlust
+Koffiebar Bonenlust verkoopt koffie. Een concurrent, Theehuis Mira, verlaagt de prijs van een kop thee van € 4,00 naar € 3,40. Veel klanten kopen koffie én melk-koekjes bij Bonenlust.
+Tekst: Koffie en thee kunnen elkaar vervangen. Het zijn dus (1) ... . Koffie en melk gebruik je juist samen. Het zijn (2) ... . De prijs van thee daalt met (3) ...%. Daardoor verschuift de vraaglijn naar koffie naar (4) ... . Bij elke prijs wordt er dan (5) ... koffie gekocht.
+Maak van onderstaande tekst een economisch juiste tekst.
+Kies uit: bij (1) substituten / complementen / inferieure goederen
+bij (2) substituten / complementen / luxe goederen
+bij (3) 6 / 15 / 17,6
+bij (4) links / rechts / boven
+bij (5) minder / evenveel / meer
+### ANTWOORD
+Koffie en thee kunnen elkaar vervangen, dus het zijn substituten. Koffie en melk gebruik je samen, dus het zijn complementen. De daling is 0,60 : 4,00 × 100 = 15%. Thee is goedkoper, dus kopen klanten minder koffie. De vraaglijn verschuift naar links: bij elke prijs wordt minder koffie gekocht.
+Puntenverdeling:
+• Maak van onderstaande tekst een economisch juiste tekst. Het juiste antwoord: (1) substituten, (2) complementen, (3) 15, (4) links, (5) minder. Indien alle vijf de keuzes juist zijn (2)
+• Indien drie of vier keuzes juist zijn (1)
+• Indien twee of minder keuzes juist zijn (0)
+
+## OPGAVE IT-00437 3p | Spelcomputers en games bij Spelplezier
+Webwinkel Spelplezier verkoopt spelcomputers en games. De prijs van een spelcomputer daalt van € 300 naar € 240. Spelplezier verlaagt later ook de prijs van een game van € 60 naar € 50. Games en spelcomputers worden samen gebruikt.
+Leg uit dat de prijsdaling van de spelcomputer de vraaglijn naar games doet verschuiven, terwijl de prijsdaling van de game zelf een beweging langs de vraaglijn geeft.
+Doe het als volgt:
+- Schakel 1 (gegeven): de prijs van de spelcomputer daalt.
+- Vul aan: wat is de relatie tussen spelcomputers en games, en wat gebeurt er met de vraaglijn?
+- Geef daarna de oorzaak van de beweging langs de vraaglijn bij de prijsdaling van de game.
+### ANTWOORD
+Spelcomputers en games zijn complementen. Is de computer goedkoper, dan kopen meer mensen een computer en dus ook meer games. Bij elke prijs wordt meer gekocht: de vraaglijn schuift naar rechts. Bij een lagere prijs van de game zelf verandert alleen de eigen prijs: we bewegen langs dezelfde lijn.
+Puntenverdeling:
+• Leg uit dat een verschuiving en een beweging verschillende oorzaken hebben. Spelcomputers en games zijn complementen (ze worden samen gebruikt), dus als de spelcomputer goedkoper wordt, stijgt de vraag naar games (1)
+• Er worden bij elke prijs meer games gekocht, dus de vraaglijn verschuift naar rechts (1)
+• Bij de prijsdaling van de game zelf verandert alleen de eigen prijs, dus er is een beweging langs dezelfde vraaglijn naar een grotere hoeveelheid (1)
+
+## OPGAVE IT-00438 4p | Pizza's en burgers bij Da Nonna
+Pizzeria Da Nonna heeft een bezorgdienst. In één maand gebeuren twee dingen. Eerst verlaagt een burgerketen in dezelfde stad de prijs van een burger van € 5,00 naar € 3,75. Daarna verlaagt Da Nonna zelf de prijs van een pizza van € 12,00 naar € 10,00.
+De eigenaar zegt: 'Beide prijsdalingen veranderen de vraaglijn naar mijn pizza's.'
+Beredeneer welke van de twee gebeurtenissen een verschuiving van de vraaglijn naar pizza's geeft en welke gebeurtenis een beweging langs de vraaglijn geeft.
+### ANTWOORD
+De burgerprijs daalt. Pizza's en burgers zijn substituten, dus klanten kiezen vaker voor burgers. Bij elke prijs worden minder pizza's gekocht: de vraaglijn verschuift naar links. De eigen prijsdaling van de pizza geeft geen verschuiving, maar een beweging langs de vraaglijn: bij € 10 worden meer pizza's verkocht dan bij € 12. De eigenaar heeft dus maar deels gelijk.
+Puntenverdeling:
+• Beredeneer welke gebeurtenis een verschuiving en welke een beweging geeft. Pizza's en burgers zijn substituten, dus als burgers goedkoper worden, kiezen consumenten voor burgers (1)
+• Er worden bij elke prijs minder pizza's gekocht, dus de vraaglijn verschuift naar links (burgerprijs is de oorzaak) (1)
+• De eigen prijsverlaging van de pizza geeft een beweging langs de vraaglijn (geen verschuiving) (1)
+• Bij de lagere pizzaprijs worden meer pizza's gekocht (grotere hoeveelheid langs de lijn); conclusie: de eigenaar heeft maar voor een deel gelijk (1)
+
+## OPGAVE IT-00439 3p | Barbecues en houtskool bij Groenhof
+Tuincentrum Groenhof verkoopt houtskoolbarbecues. De leverancier verhoogt de prijs van een zak houtskool van € 4,00 naar € 5,00. De prijs van een barbecue blijft € 180. Houtskool en barbecues worden samen gebruikt.
+Leg uit dat de prijsstijging van houtskool de vraaglijn naar houtskoolbarbecues doet verschuiven.
+### ANTWOORD
+Houtskool en barbecues zijn complementen, want je gebruikt ze samen. Door de duurdere houtskool wordt barbecueën duurder. Mensen kopen daarom bij elke prijs minder barbecues. De prijs van de barbecue zelf blijft gelijk, dus de vraaglijn verschuift naar links.
+Puntenverdeling:
+• Leg uit dat de prijsstijging van houtskool de vraaglijn naar barbecues verschuift. Houtskool en barbecues zijn complementen (ze worden samen gebruikt) (1)
+• Een duurdere zak houtskool maakt het gebruik van een barbecue duurder, dus consumenten kopen bij elke prijs minder barbecues (1)
+• De vraaglijn verschuift naar links (de eigen prijs van de barbecue is gelijk gebleven) (1)
+
+
+# LEERDOEL ECO-MARKT-07
+domein: D
+onderwerp: D.vraag
+thema: Vraag, aanbod en surplus
+naam: Effect van een prijsverandering op het consumentensurplus beredeneren
+doel: Ik kan beredeneren hoe een prijsverandering het consumentensurplus van consumenten verandert.
+
+## OPGAVE IT-00456 3p | Padelbanen bij Zuidhoek
+Padelcentrum Zuidhoek verhuurt banen per uur. Het centrum verlaagt de prijs van een baan van € 24 naar € 20 per uur. De huurders zijn consumenten van padelbanen. Het gaat alleen om de kant van de consument; het winstverhaal van het centrum blijft buiten beschouwing.
+Maak de onderstaande redeneerketen af. Schrijf bij elk nummer op wat er gebeurt.
+De prijs daalt, dus er is een beweging langs de vraaglijn.
+→ (1) Het aantal kopers: ...
+→ (2) Het verschil tussen betalingsbereidheid en prijs: ...
+→ (3) Het consumentensurplus: ...
+→ (4) De welvaart van de consumenten: ...
+### ANTWOORD
+(1) Het aantal kopers stijgt, want er zijn mensen met een betalingsbereidheid tussen € 20 en € 24 die nu wel huren. (2) Het verschil tussen betalingsbereidheid en prijs wordt groter, ook voor wie al huurde. (3) Daardoor stijgt het consumentensurplus. (4) Dus stijgt de welvaart van de consumenten.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende schakels: bij (1): het aantal kopers (huurders) neemt toe, doordat meer mensen een betalingsbereidheid hebben die hoger is dan € 20 (1)
+• bij (2) en (3): het verschil tussen betalingsbereidheid en prijs wordt groter (bij de kopers die al huurden en bij de nieuwe kopers), dus het consumentensurplus stijgt (1)
+• bij (4): de welvaart van de consumenten stijgt (1)
+
+## OPGAVE IT-00457 3p | Streamingdienst Noorderlicht
+Streamingdienst Noorderlicht verhoogt het maandabonnement van € 9 naar € 11. Een vaste kijker met een betalingsbereidheid van € 15 blijft abonnee. Een kijker met een betalingsbereidheid van € 10 zegt het abonnement op.
+Een econoom wil weten wat deze prijsverhoging betekent voor de consumenten. Het producentensurplus blijft buiten beschouwing.
+Beredeneer wat er door de prijsverhoging gebeurt met het consumentensurplus en met de welvaart van de consumenten.
+Doe het als volgt:
+- Gebruik de twee kijkers uit de tekst.
+- Eindig met een conclusie over de welvaart.
+### ANTWOORD
+De prijs stijgt, dus er is een beweging langs de vraaglijn en er zijn minder abonnees: de kijker met € 10 stopt. De kijker met € 15 betaalt meer, dus zijn verschil tussen betalingsbereidheid en prijs wordt kleiner. Het consumentensurplus daalt dus. Daardoor daalt de welvaart van de consumenten.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende schakels: de prijs stijgt, dus er is een beweging langs de vraaglijn en het aantal abonnees daalt (de kijker met betalingsbereidheid € 10 vertrekt) (1)
+• het verschil tussen betalingsbereidheid en prijs wordt kleiner (bijvoorbeeld bij de blijvende kijker van € 6 naar € 4) en de vertrekkende kijker verliest zijn surplus, dus het consumentensurplus daalt (1)
+• omdat het consumentensurplus de welvaart van de consumenten meet, daalt de welvaart van de consumenten (1)
+
+## OPGAVE IT-00463 3p | Zwembad De Kolk
+De gemeente Hoogwaard verlaagt de entreeprijs van zwembad De Kolk van € 6,00 naar € 4,50 per bezoek. Elke bezoeker koopt hooguit één kaartje per dag.
+Sam heeft een betalingsbereidheid van € 8,00 en kwam al vóór de verlaging. Lotte heeft een betalingsbereidheid van € 5,00 en kwam vóór de verlaging niet.
+Het producentensurplus blijft buiten beschouwing.
+Beredeneer met behulp van het consumentensurplus van Sam en Lotte of de welvaart van de bezoekers van De Kolk door de prijsverlaging stijgt, daalt of gelijk blijft.
+### ANTWOORD
+Sam: eerst 8 − 6 = € 2,00 surplus, nu 8 − 4,50 = € 3,50. Dat is meer. Lotte: eerst koopt ze niet (€ 5 < € 6), surplus € 0. Nu 5 − 4,50 = € 0,50 surplus. Het consumentensurplus stijgt bij beiden. Dit is de maat voor de welvaart van consumenten, dus de welvaart van de bezoekers stijgt.
+Puntenverdeling:
+• Een juist antwoord bevat de volgende elementen. De berekening van de surplussen moet getoond worden; een antwoord zonder berekening levert geen scorepunten op voor het betreffende element. Sam: surplus voor de verlaging 8,00 − 6,00 = € 2,00 en na de verlaging 8,00 − 4,50 = € 3,50; het surplus van Sam stijgt (1)
+• Lotte: voor de verlaging was de prijs (€ 6,00) hoger dan haar betalingsbereidheid (€ 5,00), dus zij kocht niet en haar surplus was € 0; na de verlaging is de prijs lager dan haar betalingsbereidheid, dus zij koopt wel en haar surplus is 5,00 − 4,50 = € 0,50 (1)
+• Het consumentensurplus van beide bezoekers stijgt (in totaal van € 2,00 naar € 4,00) en omdat het consumentensurplus hier de maat is voor de welvaart van de consumenten, stijgt de welvaart van de bezoekers (1)
+

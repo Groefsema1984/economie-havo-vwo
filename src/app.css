@@ -198,6 +198,7 @@ body[data-scherm=quiz] .topnav{position:static}
 
 /* ---------- oefenen ---------- */
 .vraag{white-space:pre-line;font:700 22px/1.4 var(--kop);margin:6px 0 22px}
+.vraag.lang{font:500 17px/1.55 var(--tekst,inherit)}
 .opties{display:grid;gap:10px}
 .optie{border:2px solid var(--lijn);background:var(--kaart);border-radius:8px;padding:14px 16px;text-align:left;font-size:17px;display:flex;gap:14px;align-items:center;min-height:58px;transition:border-color .1s,background .1s}
 .optie:hover{border-color:color-mix(in srgb,var(--acc) 55%,var(--lijn))}
