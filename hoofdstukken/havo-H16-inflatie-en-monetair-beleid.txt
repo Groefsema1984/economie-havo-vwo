@@ -1,0 +1,168 @@
+# HOOFDSTUK h 16 | Inflatie en monetair beleid
+domein: I
+hoofdvraag: Welk verband bestaat er tussen de conjunctuur, de inflatie en het rentebeleid van de ECB?
+
+## § 16.1 | Meting en gevolgen van inflatie en deflatie
+onderwerp: I.infl
+deelvraag: Hoe meet je inflatie en deflatie en welke gevolgen hebben prijsveranderingen?
+gens: inflatieCpi, reeelIndex
+### UITLEG Meten
+Inflatie is een aanhoudende stijging van het gemiddelde prijspeil. Deflatie is een aanhoudende daling.
+De consumentenprijsindex (CPI) van het CBS is een gewogen gemiddelde van de prijsindexcijfers van een vast pakket (het boodschappenmandje). De wegingscoëfficiënt is het aandeel van een categorie in het budget. Een prijsstijging van iets met een grote weging telt zwaarder mee.
+CPI = som van (prijsindex × weging) / som van de wegingen.
+- Afgeleide CPI: de CPI zonder het effect van veranderingen in btw, accijns en subsidies.
+- HICP: de Europese CPI, waarmee de ECB werkt.
+- Persoonlijke inflatie: op basis van je eigen uitgavenpatroon.
+- Producentenprijsindex (PPI): de afzetprijzen van industrieproducten.
+### UITLEG Gevolgen van inflatie
+- Koopkracht daalt als het nominale inkomen minder stijgt dan de prijzen.
+- Mensen met een vast inkomen of een niet-geïndexeerd pensioen gaan erop achteruit.
+- Spaarders verliezen (als de rente lager is dan de inflatie), schuldenaars winnen. Huizen en andere waardevaste zaken zijn beter beschermd.
+- Loon-prijsspiraal, een slechtere concurrentiepositie, minder sparen en onzekerheid.
+- Hyperinflatie: extreem hoge inflatie, zoals in Duitsland (1923), Zimbabwe (2008) en Venezuela (2018).
+### UITLEG Gevolgen van deflatie
+Meer koopkracht, spaarders winnen en schuldenaars verliezen, en een betere concurrentiepositie. Maar de winstmarges dalen en mensen stellen aankopen uit omdat het later goedkoper is. Dan dalen de bestedingen verder: een deflatoire spiraal.
+### BEGRIPPEN
+Inflatie = Een aanhoudende stijging van het gemiddelde prijspeil.
+Deflatie = Een aanhoudende daling van het gemiddelde prijspeil.
+Consumentenprijsindex = Gewogen gemiddeld prijsindexcijfer van een vast pakket goederen en diensten van een gemiddeld huishouden.
+Wegingscoëfficiënt = Het aandeel van een uitgavencategorie in het totale budget.
+Afgeleide CPI = De CPI zonder de invloed van veranderingen in indirecte belastingen en subsidies.
+HICP = De Europees geharmoniseerde consumentenprijsindex.
+Hyperinflatie = Extreem hoge en versnellende inflatie, waardoor het vertrouwen in geld verdwijnt.
+Deflatoire spiraal = Mensen stellen aankopen uit omdat prijzen dalen, waardoor de bestedingen en prijzen nog verder dalen.
+### MC
+Voeding heeft een weging van 20 en een prijsindex van 110. Overige uitgaven hebben een weging van 80 en een prijsindex van 102. Wat is de CPI?
+* 103,6
+- 106
+- 104
+- 108,4
+> (20 × 110 + 80 × 102) / 100 = (2.200 + 8.160) / 100 = 103,6.
+### MC
+De inflatie is 5% en de spaarrente 2%. Wie wint door de inflatie?
+* Iemand met een lening tegen een vaste rente
+- Iemand met veel spaargeld
+- Een gepensioneerde met een vast pensioen
+- Iemand met een vast nominaal inkomen
+> De reële waarde van de schuld daalt.
+### MC
+Waarom kan deflatie slecht zijn voor de economie?
+* Mensen stellen aankopen uit, waardoor de bestedingen verder dalen
+- De koopkracht daalt
+- Spaarders verliezen geld
+- De concurrentiepositie verslechtert
+> Wachten wordt beloond, dus de vraag daalt en bedrijven krijgen het moeilijk.
+### MC
+De btw gaat omhoog. Welk prijsindexcijfer stijgt hierdoor niet?
+* De afgeleide CPI
+- De CPI
+- De HICP
+- De persoonlijke inflatie
+> De afgeleide CPI rekent het effect van indirecte belastingen eruit.
+
+## § 16.2 | Oorzaken van inflatie en deflatie
+onderwerp: I.infl
+deelvraag: Wat zijn de oorzaken van inflatie en deflatie?
+### UITLEG Bestedingsinflatie
+Bestedingsinflatie ontstaat bij overbesteding: de effectieve vraag is groter dan de productiecapaciteit.
+Oplossingen: de bestedingen afremmen met bezuinigingen, hogere belastingen en premies, een hogere rente of minder kredietverlening.
+### UITLEG Kosteninflatie
+Bij kosteninflatie stijgen de kosten per product en berekenen bedrijven dat door in de prijs.
+- Loonkosteninflatie: de lonen stijgen sneller dan de productiviteit. Oplossing: loonmatiging.
+- Winstmarge-inflatie (graaiflatie): bedrijven met marktmacht verhogen de prijzen meer dan de kosten. Oplossing: meer concurrentie en toezicht door de ACM.
+- Belastinginflatie: hogere btw of accijns of lagere subsidies. De overheid kan dit zelf terugdraaien.
+- Klimaatinflatie: misoogsten door extreem weer en kosten van de energietransitie, zoals CO2-heffingen.
+- Geïmporteerde inflatie: duurdere grondstoffen en energie uit het buitenland of een goedkopere eigen munt. Een klein land kan hier weinig aan doen, behalve samenwerken in Europa.
+Krimpflatie: de verpakking wordt kleiner bij dezelfde prijs, dus de prijs per kilo of liter stijgt.
+### BEGRIPPEN
+Bestedingsinflatie = Inflatie doordat de effectieve vraag groter is dan de productiecapaciteit.
+Kosteninflatie = Inflatie doordat bedrijven hogere kosten per product doorberekenen in de prijs.
+Loonkosteninflatie = Inflatie doordat de lonen sneller stijgen dan de arbeidsproductiviteit.
+Winstmarge-inflatie = Inflatie doordat bedrijven met marktmacht hun winstmarge vergroten.
+Geïmporteerde inflatie = Inflatie door duurdere ingevoerde grondstoffen, energie of producten.
+Krimpflatie = Verborgen prijsstijging doordat de inhoud kleiner wordt bij dezelfde prijs.
+Loonmatiging = De lonen minder laten stijgen dan de arbeidsproductiviteit.
+### MC
+De lonen stijgen met 6% en de arbeidsproductiviteit met 2%. Welke inflatie dreigt?
+* Loonkosteninflatie
+- Bestedingsinflatie
+- Geïmporteerde inflatie
+- Belastinginflatie
+> De loonkosten per product stijgen met ongeveer 4%.
+### MC
+Een zak chips gaat van 200 naar 175 gram en blijft € 2 kosten. Hoe heet dit?
+* Krimpflatie
+- Deflatie
+- Graaiflatie
+- Hyperinflatie
+> De prijs per kilo stijgt van € 10 naar ruim € 11,40.
+### MC
+De olieprijs op de wereldmarkt verdubbelt. Welke inflatie ontstaat in Nederland?
+* Geïmporteerde inflatie
+- Bestedingsinflatie
+- Loonkosteninflatie
+- Winstmarge-inflatie
+> De kosten van ingevoerde energie worden doorberekend in de prijzen.
+### MC
+Welke maatregel helpt tegen bestedingsinflatie?
+* Een hogere rente
+- Een verlaging van de inkomstenbelasting
+- Hogere overheidsbestedingen
+- Een ruimere kredietverlening door banken
+> Een hogere rente remt lenen en stimuleert sparen, dus de bestedingen dalen.
+
+## § 16.3 | Monetair beleid
+onderwerp: I.infl
+deelvraag: Hoe probeert de ECB de inflatie en deflatie te beïnvloeden?
+gens: reeleRente
+### UITLEG De ECB
+Het Eurosysteem bestaat uit de ECB in Frankfurt en de centrale banken van de eurolanden, zoals DNB. Het ESCB omvat ook de centrale banken van EU-landen zonder euro. In de VS voert de Fed het monetair beleid.
+Taken: het betalingsverkeer, bankbiljetten en munten uitgeven, bankier van de banken zijn, toezicht houden, de goud- en deviezenvoorraad beheren en het monetair beleid voeren.
+### UITLEG Doel en rente
+Het hoofddoel is prijsstabiliteit: een inflatie (HICP) van 2% op middellange termijn.
+- Hoge inflatie en overbesteding: de rente omhoog, zodat lenen duurder wordt en sparen aantrekkelijker. De bestedingen dalen.
+- Lage inflatie of deflatie en onderbesteding: de rente omlaag, zodat consumptie en investeringen stijgen.
+### UITLEG Instrumenten
+- Rentebeleid: de herfinancieringsrente (lenen voor een week), de marginale beleningsrente (noodkrediet voor een dag, hoger) en de depositorente (geld stallen bij de ECB, lager). Deze rentes bepalen de geldmarktrentes €STR en Euribor.
+- Kasreserveregeling: banken moeten een deel van de deposito's aanhouden bij de centrale bank. Een hogere kasreserve remt de kredietverlening.
+- Kwantitatieve verruiming (QE): de ECB koopt op grote schaal obligaties op. Er komt meer geld in omloop en de lange rente daalt.
+- Valutaswaps: centrale banken ruilen tijdelijk valuta, zodat banken genoeg dollars hebben.
+### UITLEG Gevolgen van een lage of negatieve rente
+Risico op te hoge schulden, stijgende huizenprijzen, minder rendement voor pensioenfondsen en spaarders, stijgende aandelenkoersen en lagere winsten voor banken.
+### BEGRIPPEN
+Monetair beleid = Beleid van de centrale bank om via rente en geldhoeveelheid de inflatie te beïnvloeden.
+Prijsstabiliteit = Het doel van de ECB: een inflatie van 2% op middellange termijn.
+Herfinancieringsrente = De belangrijkste rente waartegen banken voor een week geld lenen bij de ECB.
+Depositorente = De rente die banken krijgen of betalen als ze geld voor een dag bij de ECB stallen.
+Marginale beleningsrente = De hoogste ECB-rente, voor noodkrediet voor één dag.
+Kasreserveregeling = Verplichting voor banken om een deel van de deposito's bij de centrale bank aan te houden.
+Kwantitatieve verruiming = Grootschalige opkoop van obligaties door de centrale bank om geld in omloop te brengen.
+Euribor = De rente waartegen Europese banken elkaar geld lenen voor één week tot twaalf maanden.
+### MC
+De inflatie in de eurozone is 6%. Wat doet de ECB waarschijnlijk?
+* De rente verhogen
+- De rente verlagen
+- Meer obligaties opkopen
+- De kasreserve verlagen
+> Een hogere rente remt de bestedingen en daarmee de inflatie.
+### MC
+Wat is het doel van kwantitatieve verruiming?
+* Meer geld in omloop brengen en de lange rente verlagen
+- De inflatie verlagen bij overbesteding
+- De staatsschuld van eurolanden kwijtschelden
+- De kasreserve van banken verhogen
+> De ECB koopt obligaties, zodat er meer geld is en lenen goedkoper wordt.
+### MC
+Wat is een gevolg van een langdurig lage rente?
+* De huizenprijzen stijgen
+- Pensioenfondsen halen meer rendement
+- Spaarders worden rijker
+- Banken verdienen meer aan rente
+> Kopers kunnen meer lenen, dus de vraag naar huizen stijgt.
+### MC
+De ECB verhoogt de kasreserveverplichting. Wat is het effect?
+* Banken kunnen minder krediet verlenen
+- Banken kunnen meer krediet verlenen
+- De rente daalt
+- De inflatie stijgt
+> Banken moeten meer geld aanhouden bij de centrale bank en kunnen dus minder uitlenen.

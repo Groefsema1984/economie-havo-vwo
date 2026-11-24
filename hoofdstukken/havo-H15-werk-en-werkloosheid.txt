@@ -1,0 +1,246 @@
+# HOOFDSTUK h 15 | Werk en werkloosheid
+domein: I
+hoofdvraag: Wat zijn de oorzaken van werkloosheid en hoe kan de werkloosheid worden bestreden?
+
+## § 15.1 | Beroepsbevolking en werkgelegenheid
+onderwerp: I.werk
+deelvraag: Hoe ontwikkelen zich de beroepsbevolking en de werkgelegenheid?
+gens: werkloosheid
+### UITLEG Beroepsbevolking
+De beroepsbevolking bestaat uit iedereen van 15 tot en met 74 jaar die betaald werk heeft, of betaald werk zoekt en daarvoor direct beschikbaar is.
+De werkzame beroepsbevolking zijn alleen de mensen die betaald werk hebben. De werkloze beroepsbevolking zoekt werk.
+De beroepsbevolking is sterk gegroeid, onder andere door bevolkingsgroei en doordat meer vrouwen zijn gaan werken. Het werk is verschoven van de primaire sector (landbouw) en secundaire sector (industrie) naar de tertiaire (commerciële diensten) en quartaire sector (zorg, onderwijs, overheid).
+### UITLEG Ontmoedigings- en aanzuigeffect
+- Ontmoedigingseffect: als het slecht gaat, stoppen sommige werklozen met zoeken. Ze tellen niet meer mee in de beroepsbevolking, waardoor de officiële werkloosheid minder hard lijkt te stijgen.
+- Aanzuigeffect: als het goed gaat en er veel vacatures zijn, gaan mensen die eerst niet zochten weer zoeken. De beroepsbevolking groeit.
+### UITLEG Participatie en i/a-ratio
+Een baan is een arbeidscontract, hoeveel uur ook. Het arbeidsvolume wordt gemeten in arbeidsjaren (fte).
+- Bruto participatiegraad = beroepsbevolking / bevolking van 15 t/m 74 jaar × 100%.
+- Netto participatiegraad = werkzame beroepsbevolking / bevolking van 15 t/m 74 jaar × 100%.
+- Werkloosheidspercentage = werkloze beroepsbevolking / beroepsbevolking × 100%.
+- i/a-ratio = aantal inactieven (met een uitkering) / aantal actieven (werkenden) × 100%.
+Verborgen werkgelegenheid is werk dat niet in de statistieken staat, zoals zwartwerk, vrijwilligerswerk en werkende 75-plussers.
+### BEGRIPPEN
+Beroepsbevolking = Alle mensen van 15 t/m 74 jaar die betaald werk hebben of zoeken en daarvoor direct beschikbaar zijn.
+Werkzame beroepsbevolking = Alle mensen van 15 t/m 74 jaar met betaald werk.
+Ontmoedigingseffect = Werklozen stoppen met zoeken omdat de kans op werk klein is, waardoor de beroepsbevolking krimpt.
+Aanzuigeffect = Mensen gaan weer werk zoeken omdat er veel vacatures zijn, waardoor de beroepsbevolking groeit.
+Bruto participatiegraad = De beroepsbevolking als percentage van de bevolking van 15 t/m 74 jaar.
+Netto participatiegraad = De werkzame beroepsbevolking als percentage van de bevolking van 15 t/m 74 jaar.
+I/a-ratio = Het aantal inactieven met een uitkering als percentage van het aantal actieven.
+Verborgen werkgelegenheid = Werk dat niet in de officiële statistieken staat, zoals zwartwerk en vrijwilligerswerk.
+### MC
+In een land wonen 12 miljoen mensen van 15 t/m 74 jaar. De beroepsbevolking is 9 miljoen, van wie 8,1 miljoen werk heeft. Hoe groot is de netto participatiegraad?
+* 67,5%
+- 75%
+- 90%
+- 10%
+> 8,1 / 12 × 100% = 67,5%. De bruto participatiegraad is 75%.
+### MC
+De beroepsbevolking is 9 miljoen, van wie 8,1 miljoen werk heeft. Hoe groot is het werkloosheidspercentage?
+* 10%
+- 7,5%
+- 0,9%
+- 11,1%
+> 0,9 / 9 × 100% = 10%.
+### MC
+Tijdens een crisis stoppen veel werklozen met solliciteren. Wat gebeurt er met de officiële werkloosheid?
+* Die stijgt minder hard dan je zou verwachten
+- Die stijgt extra hard
+- Die blijft precies gelijk
+- Die wordt negatief
+> Dit is het ontmoedigingseffect: wie niet meer zoekt, telt niet meer mee.
+### MC
+Er zijn 2 miljoen mensen met een uitkering en 8 miljoen werkenden. Hoe groot is de i/a-ratio?
+* 25%
+- 20%
+- 400%
+- 80%
+> 2 / 8 × 100% = 25%.
+
+## § 15.2 | Werkloosheid in Nederland
+onderwerp: I.werk
+deelvraag: Wat zijn de gevolgen van werkloosheid en hoe wordt deze gemeten?
+### UITLEG Meten
+Officieel werkloos ben je als je 15 t/m 74 jaar bent, geen betaald werk hebt, actief een betaalde baan zoekt en direct beschikbaar bent.
+Verborgen werkloosheid: mensen die willen en kunnen werken, maar niet als werkloos geregistreerd staan of niet direct beschikbaar zijn.
+De werkloosheid verschilt per regio en is hoger onder lager opgeleiden en mensen met een migratieachtergrond.
+### UITLEG Gevolgen
+- Persoonlijk: minder inkomen, een gevoel van nutteloosheid en minder sociale contacten.
+- Maatschappelijk: sociale onrust, protesten en meer criminaliteit.
+- Economisch: minder consumptie, minder belasting- en premie-inkomsten en hogere uitkeringslasten voor de overheid, weinig loonstijging en een hogere i/a-ratio, waardoor werkenden meer premie betalen.
+### BEGRIPPEN
+Werkloze beroepsbevolking = Mensen van 15 t/m 74 jaar zonder betaald werk die actief zoeken en direct beschikbaar zijn.
+Verborgen werkloosheid = Mensen die willen en kunnen werken, maar niet als werkloos geregistreerd staan.
+Werkloosheidspercentage = De werkloze beroepsbevolking als percentage van de beroepsbevolking.
+Ruime arbeidsmarkt = Het aanbod van arbeid is groter dan de vraag: hoge werkloosheid en weinig vacatures.
+### MC
+Sanne heeft geen baan en wil graag werken, maar solliciteert niet meer omdat ze toch steeds wordt afgewezen. Hoe wordt zij geteld?
+* Als verborgen werkloze, niet in de officiële werkloosheid
+- Als officieel werkloze
+- Als werkzame beroepsbevolking
+- Als verborgen werkgelegenheid
+> Ze zoekt niet actief, dus ze valt buiten de beroepsbevolking.
+### MC
+Waarom stijgt de i/a-ratio als de werkloosheid stijgt?
+* Er komen meer uitkeringsontvangers en minder werkenden
+- Er komen meer werkenden bij
+- De uitkeringen worden lager
+- Het aantal vacatures stijgt
+> De teller (inactieven) stijgt en de noemer (actieven) daalt.
+### MC
+Wat is een economisch gevolg van hoge werkloosheid voor de overheid?
+* Minder belastinginkomsten en hogere uitkeringslasten
+- Meer belastinginkomsten
+- Lagere uitgaven aan de WW
+- Een lagere i/a-ratio
+> Werklozen betalen minder belasting en ontvangen een uitkering.
+### MC
+Waarom krijgen werknemers bij hoge werkloosheid vaak weinig loonsverhoging?
+* De arbeidsmarkt is ruim, dus werkgevers kunnen makkelijk ander personeel vinden
+- De overheid verbiedt loonsverhoging
+- De arbeidsproductiviteit stijgt sterk
+- Vakbonden zijn dan sterker
+> Bij een ruime arbeidsmarkt is de onderhandelingspositie van werknemers zwak.
+
+## § 15.3 | Oorzaken van werkloosheid
+onderwerp: I.werk
+deelvraag: Wat zijn de oorzaken van werkloosheid?
+### UITLEG Conjuncturele werkloosheid
+Conjuncturele werkloosheid ontstaat door een tijdelijke daling van de bestedingen (C + I + O + E − M). Door het multipliereffect daalt de productie nog meer.
+Oorzaken: minder consumptie (laag consumentenvertrouwen, hogere belastingen of rente), minder investeringen (slechte winstverwachtingen, hogere rente), bezuinigingen van de overheid of minder export door minder wereldhandel.
+### UITLEG Structurele werkloosheid
+Structurele werkloosheid komt door blijvende veranderingen aan de aanbodkant.
+- Kwantitatief (te weinig banen): te weinig breedte-investeringen, diepte-investeringen zoals robotisering en AI, faillissementen, fusies, verplaatsing naar lagelonenlanden, verzadigde markten en overheidsmaatregelen die een sector blijvend raken.
+- Kwalitatief (mismatch): de opleiding past niet bij de vraag, mensen willen niet verhuizen of reizen, discriminatie, of werkzoekenden wijzen banen af vanwege zwaar werk of te weinig uren.
+### UITLEG Seizoens- en frictiewerkloosheid
+- Seizoenswerkloosheid keert elk jaar terug in bepaalde seizoenen, bijvoorbeeld in de bouw, landbouw en horeca.
+- Frictiewerkloosheid is kortdurend: het kost tijd om een nieuwe baan te vinden, bijvoorbeeld na het afstuderen.
+### BEGRIPPEN
+Conjuncturele werkloosheid = Werkloosheid door tijdelijk te weinig bestedingen in een laagconjunctuur.
+Structurele werkloosheid = Werkloosheid door blijvende veranderingen in de productie of op de arbeidsmarkt.
+Kwantitatieve structurele werkloosheid = Werkloosheid doordat er in totaal te weinig arbeidsplaatsen zijn.
+Kwalitatieve structurele werkloosheid = Werkloosheid doordat werkzoekenden niet passen bij de eisen van de vacatures.
+Seizoenswerkloosheid = Werkloosheid die elk jaar in bepaalde seizoenen terugkeert.
+Frictiewerkloosheid = Kortdurende werkloosheid omdat het tijd kost om een nieuwe baan te vinden.
+### MC
+Er zijn veel vacatures voor ICT'ers, terwijl er veel werkloze productiemedewerkers zijn. Welke werkloosheid is dit?
+* Kwalitatieve structurele werkloosheid
+- Kwantitatieve structurele werkloosheid
+- Conjuncturele werkloosheid
+- Seizoenswerkloosheid
+> Er zijn wel banen, maar de vaardigheden passen niet bij de vraag.
+### MC
+Een bank vervangt honderden medewerkers door een AI-systeem. Welke werkloosheid kan hierdoor ontstaan?
+* Kwantitatieve structurele werkloosheid
+- Frictiewerkloosheid
+- Seizoenswerkloosheid
+- Conjuncturele werkloosheid
+> Door een diepte-investering verdwijnen blijvend arbeidsplaatsen.
+### MC
+Door een wereldwijde crisis daalt de export sterk en ontslaan bedrijven personeel. Welke werkloosheid is dit?
+* Conjuncturele werkloosheid
+- Kwalitatieve structurele werkloosheid
+- Frictiewerkloosheid
+- Seizoenswerkloosheid
+> De oorzaak is een tijdelijke daling van de bestedingen.
+### MC
+Jesse is net afgestudeerd en heeft over twee maanden een baan. Welke werkloosheid is dit?
+* Frictiewerkloosheid
+- Conjuncturele werkloosheid
+- Structurele werkloosheid
+- Verborgen werkloosheid
+> Het kost even tijd om een nieuwe baan te vinden.
+
+## § 15.4 | Oplossing van werkloosheid
+onderwerp: I.beleid
+deelvraag: Hoe kan de werkloosheid worden bestreden?
+### UITLEG Conjuncturele werkloosheid bestrijden
+De bestedingen stimuleren: lagere belastingen en premies (meer consumptie), hogere overheidsuitgaven (bijvoorbeeld infrastructuur) en een lagere rente (meer consumptie en investeringen).
+### UITLEG Structurele werkloosheid bestrijden
+- Loonkosten per product verlagen: loonmatiging (lonen stijgen minder dan de productiviteit), lagere werkgeverspremies en een kleinere wig, loonkostensubsidies voor langdurig werklozen. Lagere loonkosten geven meer winst, meer investeringen en meer banen.
+- Investeringen stimuleren: lagere rente, investeringssubsidies, belastingvoordelen en langere bedrijfstijd (ploegendiensten), waardoor de kapitaalkosten per product dalen.
+- Vraag en aanbod beter laten aansluiten: om-, her- en bijscholing, inburgeringscursussen, kinderopvangtoeslag, overheidsdiensten naar regio's met veel werkloosheid en betere bemiddeling door het UWV.
+### BEGRIPPEN
+Loonmatiging = De lonen minder laten stijgen dan de arbeidsproductiviteit.
+Wig = Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.
+Loonkostensubsidie = Subsidie aan een werkgever die iemand met een afstand tot de arbeidsmarkt in dienst neemt.
+Bedrijfstijd = De tijd dat machines per dag of week draaien.
+### MC
+Welke maatregel helpt het best tegen kwalitatieve structurele werkloosheid?
+* Omscholing van werkzoekenden naar beroepen met tekorten
+- Een verlaging van de btw
+- Hogere overheidsbestedingen aan wegen
+- Een renteverlaging door de ECB
+> Bij een mismatch moet het aanbod beter passen bij de vraag.
+### MC
+Hoe helpt loonmatiging tegen structurele werkloosheid?
+* De loonkosten per product dalen, de winst stijgt en bedrijven investeren meer
+- Werknemers gaan meer consumeren
+- De i/a-ratio stijgt
+- De overheid ontvangt meer belasting
+> Lagere loonkosten verbeteren de winst en de concurrentiepositie.
+### MC
+Een fabriek laat haar machines voortaan in drie ploegen draaien in plaats van één. Wat is het effect?
+* De kapitaalkosten per product dalen
+- De loonkosten per product stijgen sterk
+- De productiecapaciteit daalt
+- De wig wordt groter
+> Dezelfde machines maken meer producten, dus de vaste kapitaalkosten worden over meer producten verdeeld.
+### MC
+Welke maatregel bestrijdt vooral conjuncturele werkloosheid?
+* De overheid verlaagt de inkomstenbelasting om de consumptie te stimuleren
+- Inburgeringscursussen voor nieuwkomers
+- Omscholing van werklozen
+- Loonkostensubsidies voor langdurig werklozen
+> Conjuncturele werkloosheid los je op door de bestedingen te verhogen.
+
+## § 15.5 | De gespannen arbeidsmarkt
+onderwerp: I.werk
+deelvraag: Wat zijn de oorzaken en gevolgen van een krappe arbeidsmarkt?
+### UITLEG Krappe arbeidsmarkt
+Bij een gespannen (krappe) arbeidsmarkt is de vraag naar arbeid (bezette banen plus vacatures) groter dan het aanbod. Er zijn veel moeilijk vervulbare vacatures en weinig werklozen.
+Gevolgen: hogere lonen, lagere winsten als de lonen sneller stijgen dan de productiviteit, inflatie en een loon-prijsspiraal, een slechtere concurrentiepositie en snellere automatisering.
+### UITLEG Oorzaken
+- Demografie: vergrijzing (ouderen gaan met pensioen) en ontgroening (minder jongeren). De grijze en demografische druk stijgen.
+- Meer vraag naar arbeid door sterke groei of overbesteding.
+- Kwalitatieve mismatch en weinig mobiliteit.
+Grijze druk = 65-plussers / 20–64-jarigen × 100%. Groene druk = 0–19-jarigen / 20–64-jarigen × 100%. Demografische druk is de som van beide.
+### UITLEG Oplossingen
+- Meer arbeidsaanbod: meer uren werken, hogere AOW-leeftijd, hogere arbeidskorting, goedkopere kinderopvang en arbeidsmigratie.
+- Hogere arbeidsproductiviteit: diepte-investeringen, innovatiesubsidies en beter onderwijs.
+- Betere aansluiting: onderwijs en scholing afstemmen op de tekortsectoren.
+### BEGRIPPEN
+Gespannen arbeidsmarkt = De vraag naar arbeid is groter dan het aanbod: veel vacatures en weinig werklozen.
+Loon-prijsspiraal = Hogere lonen leiden tot hogere prijzen, die weer leiden tot hogere looneisen.
+Grijze druk = Het aantal 65-plussers als percentage van de bevolking van 20 t/m 64 jaar.
+Groene druk = Het aantal jongeren van 0 t/m 19 jaar als percentage van de bevolking van 20 t/m 64 jaar.
+Demografische druk = De groene druk plus de grijze druk.
+### MC
+Er wonen 3,6 miljoen 65-plussers en 10 miljoen mensen van 20 t/m 64 jaar. Hoe groot is de grijze druk?
+* 36%
+- 27%
+- 2,8%
+- 64%
+> 3,6 / 10 × 100% = 36%.
+### MC
+Wat is een waarschijnlijk gevolg van een krappe arbeidsmarkt?
+* De lonen stijgen sneller en bedrijven automatiseren meer
+- De werkloosheid stijgt sterk
+- De lonen dalen
+- Het ontmoedigingseffect neemt toe
+> Werkgevers concurreren om schaars personeel en zoeken alternatieven voor arbeid.
+### MC
+Welke maatregel vergroot het arbeidsaanbod?
+* Een hogere arbeidskorting, zodat werken meer oplevert
+- Een lagere AOW-leeftijd
+- Meer vakantiedagen voor iedereen
+- Een hogere bijstandsuitkering
+> Als werken lonender wordt, gaan meer mensen (meer uren) werken.
+### MC
+Waarom leidt vergrijzing tot een krappere arbeidsmarkt?
+* Er gaan meer ouderen met pensioen dan er jongeren bijkomen
+- Ouderen gaan meer werken
+- Er komen meer jongeren op de arbeidsmarkt
+- De vraag naar zorg daalt
+> De beroepsbevolking groeit minder hard of krimpt.
