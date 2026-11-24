@@ -325,10 +325,10 @@ function tekenVraag(){
   else if(v.t==='wo') body=`<div class="opties" style="grid-template-columns:1fr 1fr"><button class="optie" data-k="true" onclick="kies(this,true)"><span class="l">✔</span><span>Waar</span></button><button class="optie" data-k="false" onclick="kies(this,false)"><span class="l">✘</span><span>Niet waar</span></button></div>`;
   else if(v.t==='koppel'){ if(!v._r) v._r=shuffle([...new Set(v.p.map(p=>p[1]))]); antw=v.p.map(()=>'');
     body=`<div class="koppel">${v.p.map((p,i)=>`<b>${esc(p[0])}</b><select data-i="${i}" onchange="antw[${i}]=this.value;$('#ok').disabled=antw.some(x=>!x)"><option value="">Kies…</option>${v._r.map(r=>`<option>${esc(r)}</option>`).join('')}</select>`).join('')}</div>`; }
-  else if(v.t==='open') body=`<textarea id="oIn" rows="5" style="width:100%;font:inherit;padding:10px;border-radius:12px;border:1px solid var(--lijn)" placeholder="Schrijf je antwoord op, zoals op het examen." oninput="antw=this.value"></textarea><p class="zacht" style="font-size:14px">Daarna zie je het antwoordmodel en kijk je zelf na.${v.pnt?` Maximaal ${v.pnt} punt${v.pnt>1?'en':''}.`:''}</p>`;
+  else if(v.t==='open') body=`<textarea id="oIn" rows="5" style="width:100%;font:inherit;padding:10px;border-radius:12px;border:1px solid var(--lijn)" placeholder="Schrijf je antwoord op, zoals op het examen." oninput="antw=this.value"></textarea><p class="zacht" style="font-size:14px">Daarna zie je het antwoordmodel en geef je jezelf punten.${v.pnt?` Maximaal ${v.pnt} punt${v.pnt>1?'en':''}.`:''}</p>`;
   else if(v.t==='reken') body=`<div class="reken">${v.eh==='€'?'€':''}<input type="text" id="rIn" inputmode="decimal" autocomplete="off" oninput="antw=this.value;$('#ok').disabled=!this.value.trim()" onkeydown="if(event.key==='Enter'&&!$('#ok').disabled)controleer()">${v.eh==='%'?'%':''}</div><p class="zacht" style="font-size:14px">Gebruik een komma voor decimalen. ${v.eh==='€'?'Rond af op 2 decimalen.':'Rond af op 1 decimaal.'}</p>`;
   $('#qz').innerHTML=`<div class="top"><button class="terug" onclick="if(confirm('Stoppen? Deze ronde telt dan niet mee.'))${Q.terug.replace(/"/g,'&quot;')}">‹ Stop</button><h1 style="font-size:18px">${esc(Q.titel)}</h1><span class="chip">${Q.i+1} / ${Q.vragen.length}</span></div>
-   <div class="voortgang">${bol}</div><div class="kaart">${v._steun?`<p class="chip" style="display:inline-block;margin:0 0 8px">➕ Extra oefenvraag</p>`:''}${v.ctx?`<p class="zacht" style="margin-top:0;font-size:14px">${esc(v.ctx)}</p>`:''}<div class="vraag${v.q.length>180?' lang':''}">${esc(v.q)}</div>${body}<div id="fb"></div>
+   <div class="voortgang">${bol}</div><div class="kaart">${v._steun?`<p class="chip" style="display:inline-block;margin:0 0 8px">➕ Extra oefenvraag</p>`:''}${v.ctx?`<div class="zacht vctx" style="margin-top:0;font-size:14px">${fmt(v.ctx)}</div>`:''}<div class="vraag${v.q.length>180||v.q.includes('\n')?' lang':''}">${v.q.includes('\n')||v.q.length>180?fmt(v.q,true):esc(v.q)}</div>${body}<div id="fb"></div>
    <div class="voet"><button class="knop" id="ok" disabled onclick="controleer()">Controleer</button></div></div>`;
   if(v.t==='reken') setTimeout(()=>$('#rIn')&&$('#rIn').focus(),50);
   if(v.t==='open') $('#ok').disabled=false, $('#ok').textContent='Toon antwoordmodel';
@@ -339,17 +339,25 @@ function juistTekst(v){
   if(v.t==='open') return v.model||'';
   if(v.t==='reken') return v.eh==='€'?eur(v.a):(nl1(v.a)+(v.eh==='%'?'%':'')); if(v.t==='koppel') return v.p.map(p=>p[0]+' → '+p[1]).join(' · ');
 }
-// open vraag: eerst het antwoordmodel tonen, dan kijkt de leerling zelf na
+// open vraag: eerst het antwoordmodel tonen, dan punten toekennen.
+// Met deelscores vinkt de leerling per deelscore aan wat goed is; een rekenuitkomst die in het antwoord staat, vinkt de computer alvast aan.
+// Zonder deelscores kiest de leerling 0 t/m het maximum aantal punten.
 function controleer(){
   if(Q.fase!=='vraag') return; const v=Q.vragen[Q.i];
-  if(v.t==='open'&&antw!==true&&antw!==false){ Q.fase='zelf'; const i=$('#oIn'); if(i) i.readOnly=true;
-    $('#fb').innerHTML=`<div class="fb"><b>Antwoordmodel</b>${v.pnt?` <span class="zacht">(${v.pnt} punt${v.pnt>1?'en':''})</span>`:''}<div style="white-space:pre-line;margin-top:6px">${esc(v.model||'')}</div>
-      <p style="margin:12px 0 6px"><b>Kijk je antwoord na. Had je het (bijna) helemaal goed?</b></p>
-      <div class="voet" style="justify-content:flex-start"><button class="knop" onclick="zelfOordeel(true)">✔ Goed</button><button class="knop zacht" onclick="zelfOordeel(false)">✘ Nog niet goed</button></div></div>`;
-    $('#ok').style.display='none'; return }
+  if(v.t==='open'&&antw!==true&&antw!==false&&!(antw&&antw.max)){ Q.fase='zelf'; const tekst=String(antw||''); const i=$('#oIn'); if(i) i.readOnly=true;
+    const ds=v.pnt?deelscoresVan(v):null; let nakijk='';
+    if(ds){ nakijk=`<p style="margin:14px 0 6px"><b>Vink aan wat er in jouw antwoord goed is:</b></p><div class="deelscores">${ds.map((d,k)=>{ const g=uitkomstVan(d.t); const auto=bevatGetal(tekst,g);
+        return `<label class="deel"><input type="checkbox" data-p="${d.p}" ${auto?'checked':''} onchange="telDeel()"><span>${esc(d.t.replace(/^(Een juist antwoord bevat|Een juiste (berekening|uitleg|verklaring) is|Uit het antwoord moet blijken)( dat)?:?\s*/i,''))} <b class="zacht">(${d.p}p)</b>${auto?`<br><small class="auto">🤖 De computer vond ${esc(g)} in je antwoord</small>`:''}</span></label>` }).join('')}</div>
+        <div class="voet" style="justify-content:flex-start;align-items:center"><button class="knop" id="dsOk" onclick="geefPunten(telDeel())">Klaar met nakijken</button><span id="dsTot" class="zacht"></span></div>` }
+    else if(v.pnt>1){ nakijk=`<p style="margin:14px 0 6px"><b>Hoeveel punten geef je jezelf?</b></p><div class="voet" style="justify-content:flex-start;flex-wrap:wrap">${Array.from({length:v.pnt+1},(_,k)=>v.pnt-k).map(k=>`<button class="knop${k===v.pnt?'':' zacht'}" onclick="geefPunten(${k})">${k} punt${k===1?'':'en'}</button>`).join('')}</div>` }
+    else nakijk=`<p style="margin:14px 0 6px"><b>Kijk je antwoord na. Had je het goed?</b></p><div class="voet" style="justify-content:flex-start"><button class="knop" onclick="geefPunten(1)">✔ Goed</button><button class="knop zacht" onclick="geefPunten(0)">✘ Nog niet goed</button></div>`;
+    $('#fb').innerHTML=`<div class="fb"><b>Antwoordmodel</b>${v.pnt?` <span class="zacht">(${v.pnt} punt${v.pnt>1?'en':''})</span>`:''}<div style="margin-top:6px">${fmt(ds?String(v.model).split(/\n\s*Puntenverdeling:?/)[0]:v.model)}</div>${nakijk}</div>`;
+    if(ds) telDeel(); $('#ok').style.display='none'; return }
   afronden(v);
 }
-function zelfOordeel(g){ if(Q.fase!=='zelf') return; antw=g; Q.fase='vraag'; $('#ok').style.display=''; afronden(Q.vragen[Q.i]) }
+function telDeel(){ let p=0; document.querySelectorAll('.deelscores input').forEach(x=>{ if(x.checked) p+=+x.dataset.p }); const t=$('#dsTot'); if(t) t.textContent=`${p} van ${Q.vragen[Q.i].pnt} punten`; return p }
+function geefPunten(p){ if(Q.fase!=='zelf') return; const v=Q.vragen[Q.i]; const max=v.pnt||1; antw={p,max}; v._pt=antw; Q.pt=(Q.pt||0)+p; Q.ptMax=(Q.ptMax||0)+max; Q.fase='vraag'; $('#ok').style.display=''; afronden(v) }
+function zelfOordeel(g){ geefPunten(g?(Q.vragen[Q.i].pnt||1):0) }
 function afronden(v){
   const goed=nakijken(v,antw); Q.res.push(goed); const nk=registreer(v,goed); if(nk) Q.kaartGemeld=(Q.kaartGemeld||[]).concat(nk); Q.fase='fb';
   const toets=Q.modus==='toets';
@@ -357,7 +365,7 @@ function afronden(v){
     if(v.t==='mc'||v.t==='wo'||v.t==='ex') document.querySelectorAll('.optie').forEach(x=>{ const k=x.dataset.k; const isJ=String(v.a)===k; if(isJ) x.classList.add('goed'); else if(x.classList.contains('kies')) x.classList.add('fout') });
     if(v.t==='koppel') document.querySelectorAll('.koppel select').forEach(s=>{ s.classList.add(s.value===v.p[s.dataset.i][1]?'goed':'fout'); s.disabled=true });
     if(v.t==='reken'){ const i=$('#rIn'); i.classList.add(goed?'goed':'fout'); i.disabled=true }
-    if(v.t==='open') $('#fb').innerHTML=`<div class="fb ${goed?'goed':'fout'}"><b>${goed?'Mooi!':'Deze komt terug in je herhaalronde.'}</b><div style="white-space:pre-line;margin-top:6px">${esc(v.model||'')}</div>${v.u?'<br>'+esc(v.u):''}</div>`; else
+    if(v.t==='open') $('#fb').innerHTML=`<div class="fb ${goed?'goed':'fout'}"><b>${v._pt&&v._pt.max>1?`${v._pt.p} van ${v._pt.max} punten. `:''}${goed?'Mooi!':'Deze komt terug in je herhaalronde.'}</b><div style="margin-top:6px">${fmt(v.model)}</div>${v.u?'<br>'+esc(v.u):''}</div>`; else
     $('#fb').innerHTML=`<div class="fb ${goed?'goed':'fout'}"><b>${goed?pick(['Goed zo!','Klopt!','Top!','Helemaal goed!']):'Niet goed.'}</b> ${goed?'':'Het juiste antwoord: <b>'+esc(juistTekst(v))+'</b>. '}${v.u?'<br>'+esc(v.u):''}${nk?`<br>🃏 Nieuwe kaart: <b>${esc(v.b)}</b>`:''}</div>`;
   }
   if(!goed) steunvraag(v);
@@ -371,6 +379,7 @@ function klaar(){
   oefenActief=false; let n=Q.res.filter(Boolean).length, tot=Q.vragen.length; let extra='', titel='', icoon='🎉';
   const nS=Q.vragen.filter(v=>v._steun).length;
   if(nS){ n=Q.res.filter((g,i)=>g&&!Q.vragen[i]._steun).length; tot=tot-nS; const sg=Q.res.filter((g,i)=>g&&Q.vragen[i]._steun).length; extra+=`<p class="zacht">Extra oefenvragen: ${sg} van ${nS} goed.</p>` }
+  if(Q.ptMax) extra+=`<p>✍️ Open vragen: <b>${Q.pt} van ${Q.ptMax} punten</b></p>`;
   if(Q.modus==='level'){
     const n8=Math.round(n/tot*VRAGEN_PER_LEVEL); // score omgerekend naar 8, zodat levels met meer of minder vragen eerlijk tellen
     const oud=(S.lv[Q.lid]||{}).best; const r=S.lv[Q.lid]||{best:0,n:0}; r.n++; r.best=Math.max(r.best||0,n8); r.laatst=n8; S.lv[Q.lid]=r;

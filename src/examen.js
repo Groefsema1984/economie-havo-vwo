@@ -52,11 +52,11 @@ tekenVraag = function(){
   if(v.w!=='ex'&&!v.ex) return;
   const kaart=$('#qz .kaart');
   const kopTxt=`<p class="zacht" style="margin-top:0;font-size:13px">Examen ${v.jaar} tijdvak ${v.tv} · vraag ${v.nr}${v.titel?' · '+esc(v.titel):''}</p>`;
-  const oud=kaart.querySelector(':scope > p.zacht'); if(oud&&v.ctx) oud.remove();
-  const ctx=v.ctx?`<p style="font-size:15px;white-space:pre-line;background:var(--bg);border-radius:12px;padding:10px 12px">${esc(v.ctx)}</p>`:'';
+  const oud=kaart.querySelector(':scope > .vctx'); if(oud&&v.ctx) oud.remove();
+  const ctx=v.ctx?`<div style="font-size:15px;background:var(--bg);border-radius:12px;padding:10px 12px;margin-bottom:12px">${fmt(v.ctx)}</div>`:'';
   const imgs=(v.img||[]).map((s,i)=>`<button class="knop zacht" style="min-height:40px;padding:6px 12px;font-size:14px" onclick="toonImg('${s}')">${s.includes('-b-')?'📊 Informatiebron':'📄 Examenpagina'}</button>`).join(' ');
   kaart.insertAdjacentHTML('afterbegin',kopTxt+ctx+(imgs?`<div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px">${imgs}</div><div id="imgBox"></div>`:''));
-  $('#qz .vraag').style.whiteSpace='pre-line';
+  if(!$('#qz .vraag .vtekst')) $('#qz .vraag').style.whiteSpace='pre-line';
   // toon bij een bron-vraag direct de eerste informatiebron, anders de examenpagina als er een figuur in staat
   const bron=(v.img||[]).find(s=>s.includes('-b-')); const fig=/grafiek|figuur|tabel|afbeelding|hieronder|lijn |oppervlakte|curve/i.test(v.q+' '+(v.o||[]).join(' '));
   if(bron) toonImg(bron); else if(fig&&(v.img||[]).length) toonImg(v.img[0]);

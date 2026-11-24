@@ -250,3 +250,20 @@ th{font:800 12px var(--kop);text-transform:uppercase;letter-spacing:.05em;color:
 @media (max-width:820px){.dash{grid-template-columns:1fr}.dash>aside.links{display:grid;grid-template-columns:1fr}.dash>aside.rechts{grid-template-columns:1fr}.logo .vak{display:none}.profiel span:last-child{display:none}.profiel{padding:5px}.uitgelicht{min-height:300px}.uitgelicht h2{font-size:28px}}
 @media (max-width:560px){.wrap{padding:20px 16px 40px}.topnav .rij1,.menu{padding-left:16px;padding-right:16px}.held .in{padding:40px 16px}.held h1{font-size:32px}.koppel{grid-template-columns:1fr}.vraag{font-size:19px}.ikoonknop .t{display:none}.paginakop h1{font-size:28px}.statstrook div+div{border-left:0;border-top:1px solid var(--lijn)}#qz>.kaart{padding:20px}.logo .lw b{font-size:20px}}
 @media print{.topnav,.terug,.voet,.voettekst{display:none}}
+
+/* opgemaakte vraagtekst, tabellen en nakijken per deelscore */
+.vraag .vtekst,.vtekst{white-space:normal}
+.vtekst p{margin:0 0 10px}
+.vtekst p.vkop{font-weight:700;margin:14px 0 6px}
+.vtekst p.vopdracht{font-weight:700;margin-top:14px}
+.vtekst ul.vlijst{margin:0 0 10px;padding-left:22px}.vtekst ul.vlijst li{margin:3px 0}
+.vtabel{overflow-x:auto;margin:6px 0 14px}
+.vtabel table{width:auto;min-width:60%;border-collapse:collapse;font-size:15px}
+.vtabel th,.vtabel td{border:1px solid var(--lijn);padding:6px 12px;text-align:left;vertical-align:top}
+.vtabel th{background:var(--bg);font-weight:700}
+.vtabel td:last-child{white-space:nowrap}
+.deelscores{display:grid;gap:8px;margin-bottom:6px}
+.deel{display:flex;gap:10px;align-items:flex-start;padding:10px 12px;border:1px solid var(--lijn);border-radius:10px;background:var(--kaart);cursor:pointer;font-size:15px}
+.deel input{width:20px;height:20px;margin-top:2px;flex:none}
+.deel .auto{color:var(--goed);font-weight:600}
+.vtekst p.vnoot{font-size:14px;color:var(--zacht,#666);margin-top:10px}

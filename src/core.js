@@ -20,6 +20,40 @@ function lvsVoor(w, n=niv()){ return (LEVELS[w]||[]).filter(l=>!n||!l.niv||l.niv
 
 // ===== Hulpfuncties =====
 const $ = (s,el=document)=>el.querySelector(s);
+// Opmaak van vraag-, context- en antwoordtekst: regels met ' | ' worden een tabel, '- …' / '• …' een lijst, de rest alinea's.
+// De opdrachtzin (Bereken…, Leg uit…) wordt vet.
+const OPDRACHT=/^(Bereken|Leg|Verklaar|Toon|Geef|Noem|Beargumenteer|Laat|Bepaal|Licht|Onderbouw|Schrijf|Beschrijf|Welke|Wat|Waarom|Hoe|Is |Zal |Zijn |Heeft |Kies|Vul|Teken|Ga |Maak|Vergelijk)/;
+const NOOT=/^(Opmerking|Aanvulling|indien )/;
+function fmt(t, opdracht){
+  if(t==null||t==='') return ''; const L=String(t).split('\n'); let out='', i=0;
+  const rij=l=>/\S \| \S/.test(l), item=l=>/^\s*[-•−–]\s+/.test(l);
+  while(i<L.length){ const l=L[i];
+    if(rij(l)&&i+1<L.length&&rij(L[i+1])){ const rows=[]; while(i<L.length&&rij(L[i])) rows.push(L[i++].split('|').map(c=>c.trim()));
+      out+=`<div class="vtabel"><table>${rows.map((r,k)=>`<tr>${r.map(c=>k===0?`<th>${esc(c)}</th>`:`<td>${esc(c)}</td>`).join('')}</tr>`).join('')}</table></div>`; continue }
+    if(item(l)){ const it=[]; while(i<L.length&&item(L[i])){ const bol=/^\s*•/.test(L[i]); let x=L[i++].replace(/^\s*[-•−–]\s+/,'');
+        // bij '•'-deelscores horen de regels eronder (berekeningen) nog bij hetzelfde punt
+        while(bol&&i<L.length&&L[i].trim()&&!item(L[i])&&!NOOT.test(L[i].trim())&&!/\(\dp?\)\s*$/.test(x)) x+=' '+L[i++].trim();
+        it.push(x) }
+      out+=`<ul class="vlijst">${it.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`; continue }
+    const x=l.trim(); i++; if(!x) continue;
+    if(/^Tabel\b|^(Doe het als volgt|Puntenverdeling)/.test(x)) out+=`<p class="vkop">${esc(x)}</p>`;
+    else if(NOOT.test(x)) out+=`<p class="vnoot">${esc(x)}</p>`;
+    else out+=`<p${opdracht&&OPDRACHT.test(x)?' class="vopdracht"':''}>${esc(x)}</p>`;
+  }
+  return `<div class="vtekst">${out}</div>`;
+}
+// Deelscores uit het antwoordmodel: '• … (1p)' of '• … (1)'. Alleen bruikbaar als ze samen precies het maximum geven.
+function deelscoresVan(v){ const ds=[];
+  const L=String(v.model||'').split('\n');
+  for(let i=0;i<L.length;i++){ if(!/^\s*•/.test(L[i])) continue; let x=L[i];
+    while(!/\(\dp?\)\s*$/.test(x)&&i+1<L.length&&L[i+1].trim()&&!/^\s*[•−–-]\s/.test(L[i+1])&&!NOOT.test(L[i+1].trim())) x+=' '+L[++i].trim();
+    const m=x.match(/^\s*•\s*(.+?)\s*\((\d)p?\)\s*$/); if(m) ds.push({t:m[1],p:+m[2]}) }
+  return ds.length>1&&ds.reduce((a,b)=>a+b.p,0)===v.pnt?ds:null }
+// getal waarop een rekenstap uitkomt (na het laatste '='), om in het antwoord van de leerling te zoeken
+const normGetal = x => String(x).replace(/−/g,'-').replace(/(\d)\.(?=\d{3}\b)/g,'$1');
+function uitkomstVan(t){ const m=[...normGetal(t).matchAll(/=\s*(?:€|\$)?\s*(-?\d+(?:,\d+)?)/g)]; return m.length?m[m.length-1][1]:null }
+function bevatGetal(tekst,g){ if(!g||!tekst) return false; const re=new RegExp('(^|[^\\d,])'+g.replace('-','-?').replace(',','[,.]')+'(?![\\d])'); return re.test(normGetal(tekst)) }
+
 const esc = s => String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const rnd = (a,b)=>a+Math.floor(Math.random()*(b-a+1));
 const pick = arr => arr[Math.floor(Math.random()*arr.length)];
@@ -161,7 +195,7 @@ let _vmap=null; function vraagById(id){ if(!_vmap){_vmap={}; for(const v of alle
 function nakijken(v, antw){
   if(v.t==='mc'||v.t==='ex') return antw===v.a;
   if(v.t==='wo') return antw===v.a;
-  if(v.t==='open') return antw===true;
+  if(v.t==='open') return antw===true||(!!antw&&antw.max>0&&antw.p>=antw.max);
   if(v.t==='koppel') return v.p.every((p,i)=>antw[i]===p[1]);
   if(v.t==='reken'){ const x=parseGetal(antw); if(isNaN(x)) return false; const tol = v.eh==='€'?0.011:0.051; return Math.abs(x-v.a)<=tol }
   return false;
@@ -173,7 +207,8 @@ function kaartenVan(v){ if(!_alleKaarten){ _alleKaarten=new Set(); for(const w i
 function registreer(v, goed){
   if(!v.gen){ const r=S.vr[v.id]||{g:0,f:0}; goed?r.g++:r.f++; r.t=Date.now(); S.vr[v.id]=r; }
   else { const k=v.id; const r=S.vr[k]||{g:0,f:0}; goed?r.g++:r.f++; S.vr[k]=r; }
-  if(v.e){ const et=S.et[v.e]||{n:0,r:[]}; et.r=et.r.concat(goed?1:0).slice(-20); et.n++; S.et[v.e]=et; }
+  if(v._pt&&!v.gen){ S.vr[v.id].pt=v._pt.p; S.vr[v.id].max=v._pt.max }
+  if(v.e){ const et=S.et[v.e]||{n:0,r:[]}; et.r=et.r.concat(v._pt?Math.round(v._pt.p/v._pt.max*100)/100:(goed?1:0)).slice(-20); et.n++; S.et[v.e]=et; }
   let nieuweKaart=false;
   if(goed){ S.xp+=10; S.mVerd+=1; const nw=kaartenVan(v).filter(k=>!S.kaarten.includes(k)); if(nw.length){ S.kaarten.push(...nw); nieuweKaart=nw } }
   // herhaalronde: foute vragen komen terug, na 2× goed verdwijnen ze
