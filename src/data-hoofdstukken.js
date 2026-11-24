@@ -7629,6 +7629,1867 @@ LEVELS.D.push(...[
 ]
 }
 ]);
+LEVELS.E.push(...[
+{
+"id": "E.v9.1",
+"hfd": "Hoofdstuk 9 · Intertemporele ruil gezinnen",
+"niv": "v",
+"naam": "§9.1 Jong geleerd, oud gedaan",
+"kort": "Welke vormen van ruil over de tijd kunnen we in gezinnen aantreffen?",
+"vragen": [
+{
+"id": "E.v9.1.m01",
+"t": "mc",
+"e": "E.rente",
+"q": "Welke van deze grootheden is een voorraadgrootheid?",
+"o": [
+"De hypotheekschuld op 1 januari",
+"Het nettoloon per maand",
+"De rentebetalingen per jaar",
+"De stortingen op een spaarrekening per jaar"
+],
+"a": 0,
+"u": "Een voorraad meet je op één tijdstip. De andere drie meet je over een periode."
+},
+{
+"id": "E.v9.1.m02",
+"t": "mc",
+"e": "E.rente",
+"q": "Een student van 22 jaar leent geld om een master te volgen. Wat is de beste economische omschrijving?",
+"o": [
+"Hij investeert in human capital en haalt consumptie naar voren door te lenen",
+"Hij investeert in fysiek kapitaal",
+"Hij spaart voor later",
+"Hij ontspaart, omdat zijn vermogen daalt door pensioen"
+],
+"a": 0,
+"u": "Opleiding = investeren in human capital. Lenen = intertemporele ruil: later betaal je terug uit een hoger inkomen."
+},
+{
+"id": "E.v9.1.m03",
+"t": "mc",
+"e": "E.rente",
+"q": "Waarom subsidieert de overheid onderwijs?",
+"o": [
+"Onderwijs heeft positieve externe effecten voor de hele samenleving",
+"Onderwijs is een collectief goed waarvoor niemand wil betalen",
+"Studenten hebben geen human capital",
+"Zonder subsidie zou niemand een opleiding volgen"
+],
+"a": 0,
+"u": "De maatschappelijke opbrengst is groter dan de individuele opbrengst: denk aan productiviteit, belastinginkomsten en gezondheid."
+},
+{
+"id": "E.v9.1.m04",
+"t": "mc",
+"e": "E.rente",
+"q": "In welke fase van de financiële levenscyclus ontspaart een huishouden meestal?",
+"o": [
+"Na pensionering",
+"Tijdens de studie",
+"Aan het begin van de loopbaan",
+"Tijdens het aflossen van de hypotheek"
+],
+"a": 0,
+"u": "Na het pensioen valt het arbeidsinkomen weg en teert men in op het opgebouwde vermogen."
+},
+{
+"id": "E.v9.1.k01",
+"t": "koppel",
+"e": "E.rente",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Intertemporele ruil",
+"Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen."
+],
+[
+"Financiële levenscyclus",
+"Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven."
+],
+[
+"Voorraadgrootheid",
+"Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december."
+]
+],
+"u": "Intertemporele ruil: Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen. Financiële levenscyclus: Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven. Voorraadgrootheid: Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december."
+},
+{
+"id": "E.v9.1.k02",
+"t": "koppel",
+"e": "E.rente",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Stroomgrootheid",
+"Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar."
+],
+[
+"Human capital",
+"De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training."
+],
+[
+"Sociaal kapitaal",
+"De waarde van sociale netwerken, relaties en onderling vertrouwen."
+]
+],
+"u": "Stroomgrootheid: Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar. Human capital: De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training. Sociaal kapitaal: De waarde van sociale netwerken, relaties en onderling vertrouwen."
+},
+{
+"id": "E.v9.1.b01",
+"t": "mc",
+"e": "E.rente",
+"b": "Intertemporele ruil",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen.\"",
+"o": [
+"Intertemporele ruil",
+"Human capital",
+"Hypotheeknemer",
+"Huurtoeslag"
+],
+"a": 0,
+"u": "Intertemporele ruil: Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen."
+},
+{
+"id": "E.v9.1.b02",
+"t": "mc",
+"e": "E.rente",
+"b": "Financiële levenscyclus",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven.\"",
+"o": [
+"Financiële levenscyclus",
+"Sociaal kapitaal",
+"Lineaire hypotheek",
+"Human capital"
+],
+"a": 0,
+"u": "Financiële levenscyclus: Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven."
+},
+{
+"id": "E.v9.1.b03",
+"t": "mc",
+"e": "E.rente",
+"b": "Voorraadgrootheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december.\"",
+"o": [
+"Voorraadgrootheid",
+"AOW",
+"Reële rente",
+"Stroomgrootheid"
+],
+"a": 0,
+"u": "Voorraadgrootheid: Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december."
+},
+{
+"id": "E.v9.1.b04",
+"t": "mc",
+"e": "E.rente",
+"b": "Stroomgrootheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar.\"",
+"o": [
+"Stroomgrootheid",
+"Interest",
+"Hypotheekrenteaftrek",
+"Reële rente"
+],
+"a": 0,
+"u": "Stroomgrootheid: Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar."
+},
+{
+"id": "E.v9.1.b05",
+"t": "mc",
+"e": "E.rente",
+"b": "Human capital",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training.\"",
+"o": [
+"Human capital",
+"Kapitaaldekkingsstelsel",
+"Franchise",
+"Interest"
+],
+"a": 0,
+"u": "Human capital: De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training."
+},
+{
+"id": "E.v9.1.b06",
+"t": "mc",
+"e": "E.rente",
+"b": "Sociaal kapitaal",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De waarde van sociale netwerken, relaties en onderling vertrouwen.\"",
+"o": [
+"Sociaal kapitaal",
+"Huurtoeslag",
+"Hypotheekgever",
+"Samengestelde rente"
+],
+"a": 0,
+"u": "Sociaal kapitaal: De waarde van sociale netwerken, relaties en onderling vertrouwen."
+}
+],
+"gens": [],
+"doel": "Welke vormen van ruil over de tijd kunnen we in gezinnen aantreffen?",
+"uitleg": [
+{
+"t": "De financiële levenscyclus",
+"x": "Gezinnen ruilen over de tijd (intertemporele ruil): ze stemmen inkomsten en uitgaven af op hun levensfase.\n- Jeugd en studie: weinig inkomen, eventueel lenen om te investeren in human capital.\n- Begin van de loopbaan: het inkomen stijgt en de vermogensopbouw begint.\n- Eigen woning: een grote schuld (hypotheek), daarna aflossen en zo vermogen opbouwen.\n- Pensioen: het arbeidsinkomen valt weg. Je ontvangt pensioen en teert in op je vermogen (ontsparen)."
+},
+{
+"t": "Voorraad en stroom",
+"x": "Een voorraadgrootheid meet je op een tijdstip, bijvoorbeeld het spaarsaldo op 1 januari of de hypotheekschuld.\nEen stroomgrootheid meet je over een periode, bijvoorbeeld het inkomen per maand of de stortingen per jaar.\nDe voorraad verandert door de stromen: spaarsaldo eind = saldo begin + stortingen − opnames."
+},
+{
+"t": "Kapitaal en human capital",
+"x": "Er zijn vier vormen van kapitaal: fysieke kapitaalgoederen (machines, gebouwen), geldkapitaal, sociaal kapitaal (netwerken en vertrouwen) en human capital (kennis, vaardigheden, ervaring en gezondheid).\nEen opleiding is een investering in human capital: nu kosten en gederfd inkomen, later een hoger inkomen en minder kans op werkloosheid.\nOnderwijs heeft positieve externe effecten (hogere productiviteit, meer belastinginkomsten, minder criminaliteit, betere gezondheid). Daarom subsidieert de overheid onderwijs."
+}
+]
+},
+{
+"id": "E.v9.2",
+"hfd": "Hoofdstuk 9 · Intertemporele ruil gezinnen",
+"niv": "v",
+"naam": "§9.2 Sparen en lenen",
+"kort": "Op welke manier beïnvloeden sparen en lenen onze huidige en toekomstige bestedingsmogelijkheden?",
+"vragen": [
+{
+"id": "E.v9.2.m01",
+"t": "mc",
+"e": "E.rente",
+"q": "De nominale rente is 3% en de inflatie is 5%. Wat gebeurt er met de koopkracht van je spaargeld?",
+"o": [
+"Die daalt met ongeveer 2% per jaar",
+"Die stijgt met ongeveer 2% per jaar",
+"Die stijgt met 3% per jaar",
+"Die blijft gelijk"
+],
+"a": 0,
+"u": "Reële rente ≈ 3 − 5 = −2%. Exact: 103 / 105 × 100 = 98,1."
+},
+{
+"id": "E.v9.2.m02",
+"t": "mc",
+"e": "E.rente",
+"q": "Welke reden voor het bestaan van rente verklaart dat een lening zonder onderpand een hogere rente heeft?",
+"o": [
+"De beloning voor het risico dat de lener niet terugbetaalt",
+"De beloning voor uitgestelde consumptie",
+"De compensatie voor inflatie",
+"De tijdsvoorkeur van de lener"
+],
+"a": 0,
+"u": "Zonder onderpand loopt de geldgever meer risico en vraagt daarvoor een hogere vergoeding."
+},
+{
+"id": "E.v9.2.m03",
+"t": "mc",
+"e": "E.rente",
+"q": "Iemand verdient nu € 30.000 en later € 30.000 en consumeert nu € 35.000. Wat geldt?",
+"o": [
+"Hij leent nu en kan later minder dan € 25.000 consumeren",
+"Hij spaart nu en kan later meer dan € 30.000 consumeren",
+"Hij leent nu en kan later precies € 25.000 consumeren",
+"Zijn levensloopinkomen stijgt"
+],
+"a": 0,
+"u": "Hij leent € 5.000. Later moet hij € 5.000 plus rente terugbetalen, dus blijft er minder dan € 25.000 over."
+},
+{
+"id": "E.v9.2.m04",
+"t": "mc",
+"e": "E.rente",
+"q": "Wat gebeurt er met de intertemporele budgetlijn als de rente stijgt?",
+"o": [
+"De lijn wordt steiler: sparen levert later meer op, lenen kost meer",
+"De lijn verschuift evenwijdig naar buiten",
+"De lijn wordt vlakker",
+"Er verandert niets, want het inkomen blijft gelijk"
+],
+"a": 0,
+"u": "Elke euro die je nu niet uitgeeft, levert later meer op. De lijn draait om het punt waar je niet spaart en niet leent."
+},
+{
+"id": "E.v9.2.k01",
+"t": "koppel",
+"e": "E.rente",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Interest",
+"De vergoeding voor het uitlenen of de prijs voor het lenen van geld."
+],
+[
+"Enkelvoudige rente",
+"Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend."
+],
+[
+"Samengestelde rente",
+"Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente)."
+]
+],
+"u": "Interest: De vergoeding voor het uitlenen of de prijs voor het lenen van geld. Enkelvoudige rente: Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend. Samengestelde rente: Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente)."
+},
+{
+"id": "E.v9.2.k02",
+"t": "koppel",
+"e": "E.rente",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Nominale rente",
+"Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie."
+],
+[
+"Reële rente",
+"De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil."
+],
+[
+"Intertemporele budgetlijn",
+"Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente."
+]
+],
+"u": "Nominale rente: Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie. Reële rente: De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil. Intertemporele budgetlijn: Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente."
+},
+{
+"id": "E.v9.2.b01",
+"t": "mc",
+"e": "E.rente",
+"b": "Interest",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De vergoeding voor het uitlenen of de prijs voor het lenen van geld.\"",
+"o": [
+"Interest",
+"Annuïteitenhypotheek",
+"Intertemporele ruil",
+"Huurtoeslag"
+],
+"a": 0,
+"u": "Interest: De vergoeding voor het uitlenen of de prijs voor het lenen van geld."
+},
+{
+"id": "E.v9.2.b02",
+"t": "mc",
+"e": "E.rente",
+"b": "Enkelvoudige rente",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend.\"",
+"o": [
+"Enkelvoudige rente",
+"Lineaire hypotheek",
+"Hypotheekrenteaftrek",
+"Financiële levenscyclus"
+],
+"a": 0,
+"u": "Enkelvoudige rente: Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend."
+},
+{
+"id": "E.v9.2.b03",
+"t": "mc",
+"e": "E.rente",
+"b": "Samengestelde rente",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente).\"",
+"o": [
+"Samengestelde rente",
+"Omslagstelsel",
+"Intertemporele ruil",
+"Nominale rente"
+],
+"a": 0,
+"u": "Samengestelde rente: Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente)."
+},
+{
+"id": "E.v9.2.b04",
+"t": "mc",
+"e": "E.rente",
+"b": "Nominale rente",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie.\"",
+"o": [
+"Nominale rente",
+"Sociaal kapitaal",
+"Voorraadgrootheid",
+"Franchise"
+],
+"a": 0,
+"u": "Nominale rente: Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie."
+},
+{
+"id": "E.v9.2.b05",
+"t": "mc",
+"e": "E.rente",
+"b": "Reële rente",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil.\"",
+"o": [
+"Reële rente",
+"Contante waarde",
+"Huurtoeslag",
+"Human capital"
+],
+"a": 0,
+"u": "Reële rente: De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil."
+},
+{
+"id": "E.v9.2.b06",
+"t": "mc",
+"e": "E.rente",
+"b": "Intertemporele budgetlijn",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente.\"",
+"o": [
+"Intertemporele budgetlijn",
+"Hypotheekrenteaftrek",
+"Pensioengrondslag",
+"Intergenerationele ruil"
+],
+"a": 0,
+"u": "Intertemporele budgetlijn: Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente."
+},
+{
+"id": "E.v9.2.b07",
+"t": "mc",
+"e": "E.rente",
+"b": "Levensloopinkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het totale inkomen dat iemand in alle perioden van zijn leven verdient.\"",
+"o": [
+"Levensloopinkomen",
+"Interest",
+"Hypothecaire lening",
+"Voorraadgrootheid"
+],
+"a": 0,
+"u": "Levensloopinkomen: Het totale inkomen dat iemand in alle perioden van zijn leven verdient."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-I, vraag 7",
+"q": "(Examen vwo 2022-I, vraag 7)\nUit de tabellen blijkt dat de hypotheekrente stijgt als de H/A-verhouding stijgt. Leg uit waarom.",
+"model": "Bij een hogere H/A-verhouding loopt de bank meer risico op een restschuld, want de schuld kan groter worden dan de woningwaarde als de huizenprijzen dalen. De bank vraagt daarom een hogere rente als compensatie voor dat risico.",
+"pnt": 2,
+"id": "E.v9.2.v2022I7",
+"e": "E.rente"
+}
+],
+"gens": [
+"reeleRente",
+"eindwaarde",
+"contanteWaarde"
+],
+"doel": "Op welke manier beïnvloeden sparen en lenen onze huidige en toekomstige bestedingsmogelijkheden?",
+"uitleg": [
+{
+"t": "Rente",
+"x": "Rente (interest) is de vergoeding voor het uitlenen of de prijs voor het lenen van geld.\n- Enkelvoudige rente: alleen over het oorspronkelijke bedrag.\n- Samengestelde rente (rente op rente): ook over eerder bijgeschreven rente. Eindwaarde = K × (1 + r)ⁿ.\n- Nominale rente: het afgesproken percentage. Reële rente: gecorrigeerd voor inflatie.\nReëel indexcijfer = nominaal indexcijfer / prijsindexcijfer × 100. Bij benadering: reële rente ≈ nominale rente − inflatie."
+},
+{
+"t": "Waarom bestaat rente?",
+"x": "1. Beloning voor uitgestelde consumptie (mensen consumeren liever nu dan later: tijdsvoorkeur).\n2. Beloning voor het risico dat de lener niet terugbetaalt.\n3. Compensatie voor inflatie.\n\"Dé\" rente bestaat niet: het tarief hangt af van looptijd, risico en onderpand."
+},
+{
+"t": "De intertemporele budgetlijn",
+"x": "We kijken naar twee perioden: nu en later. Het levensloopinkomen is het inkomen in beide perioden samen.\nDe intertemporele budgetlijn geeft alle combinaties van consumptie nu en consumptie later.\nWie spaart, consumeert nu minder dan zijn inkomen en later meer (spaarbedrag + rente). Wie leent, consumeert nu meer en later minder (lening + rente terugbetalen).\nHoe hoger de rente, hoe steiler de lijn: sparen levert meer op en lenen kost meer."
+}
+]
+},
+{
+"id": "E.v9.3",
+"hfd": "Hoofdstuk 9 · Intertemporele ruil gezinnen",
+"niv": "v",
+"naam": "§9.3 Kopen of huren",
+"kort": "Welke motieven spelen een rol als het gaat om kopen of huren van een woning?",
+"vragen": [
+{
+"id": "E.v9.3.m01",
+"t": "mc",
+"e": "E.rente",
+"q": "Waarom ontstaan er wachtlijsten voor sociale huurwoningen?",
+"o": [
+"Door de maximale huurprijs is de gevraagde hoeveelheid groter dan de aangeboden hoeveelheid",
+"Door de huurtoeslag daalt de vraag",
+"Omdat de huur in de vrije sector lager is",
+"Omdat corporaties te veel woningen bouwen"
+],
+"a": 0,
+"u": "Een maximumprijs onder de evenwichtsprijs geeft een tekort. Dat tekort uit zich in wachtlijsten."
+},
+{
+"id": "E.v9.3.m02",
+"t": "mc",
+"e": "E.rente",
+"q": "Bij welke hypotheekvorm dalen de bruto maandlasten gedurende de looptijd?",
+"o": [
+"De lineaire hypotheek",
+"De annuïteitenhypotheek",
+"Bij beide even snel",
+"Bij geen van beide"
+],
+"a": 0,
+"u": "Bij lineair los je steeds hetzelfde af. De schuld daalt en dus de rente, terwijl de aflossing gelijk blijft."
+},
+{
+"id": "E.v9.3.m03",
+"t": "mc",
+"e": "E.rente",
+"q": "Wie is bij een hypothecaire lening de hypotheekgever?",
+"o": [
+"De huiseigenaar die de lening afsluit",
+"De bank",
+"De notaris",
+"De overheid"
+],
+"a": 0,
+"u": "De huiseigenaar geeft het recht van hypotheek op zijn woning aan de bank (de hypotheeknemer)."
+},
+{
+"id": "E.v9.3.m04",
+"t": "mc",
+"e": "E.rente",
+"q": "De huizenprijzen dalen sterk. Wat kan het gevolg zijn voor een huiseigenaar die net heeft gekocht?",
+"o": [
+"Een restschuld bij verkoop: de woning staat onder water",
+"Overwaarde bij verkoop",
+"Een lagere hypotheekschuld",
+"Recht op huurtoeslag"
+],
+"a": 0,
+"u": "Als de woning minder waard is dan de schuld, blijft er na verkoop een schuld over."
+},
+{
+"id": "E.v9.3.k01",
+"t": "koppel",
+"e": "E.rente",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Hypothecaire lening",
+"Een geldlening met een registergoed, meestal een woning, als onderpand."
+],
+[
+"Hypotheekgever",
+"De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft."
+],
+[
+"Hypotheeknemer",
+"De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt."
+]
+],
+"u": "Hypothecaire lening: Een geldlening met een registergoed, meestal een woning, als onderpand. Hypotheekgever: De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft. Hypotheeknemer: De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt."
+},
+{
+"id": "E.v9.3.k02",
+"t": "koppel",
+"e": "E.rente",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Lineaire hypotheek",
+"Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen."
+],
+[
+"Annuïteitenhypotheek",
+"Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald."
+],
+[
+"Hypotheekrenteaftrek",
+"Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken."
+]
+],
+"u": "Lineaire hypotheek: Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen. Annuïteitenhypotheek: Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald. Hypotheekrenteaftrek: Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken."
+},
+{
+"id": "E.v9.3.b01",
+"t": "mc",
+"e": "E.rente",
+"b": "Hypothecaire lening",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een geldlening met een registergoed, meestal een woning, als onderpand.\"",
+"o": [
+"Hypothecaire lening",
+"Stroomgrootheid",
+"Voorraadgrootheid",
+"AOW"
+],
+"a": 0,
+"u": "Hypothecaire lening: Een geldlening met een registergoed, meestal een woning, als onderpand."
+},
+{
+"id": "E.v9.3.b02",
+"t": "mc",
+"e": "E.rente",
+"b": "Hypotheekgever",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft.\"",
+"o": [
+"Hypotheekgever",
+"Enkelvoudige rente",
+"Annuïteitenhypotheek",
+"Intertemporele budgetlijn"
+],
+"a": 0,
+"u": "Hypotheekgever: De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft."
+},
+{
+"id": "E.v9.3.b03",
+"t": "mc",
+"e": "E.rente",
+"b": "Hypotheeknemer",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt.\"",
+"o": [
+"Hypotheeknemer",
+"Reële rente",
+"Scheefwonen",
+"Sociaal kapitaal"
+],
+"a": 0,
+"u": "Hypotheeknemer: De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt."
+},
+{
+"id": "E.v9.3.b04",
+"t": "mc",
+"e": "E.rente",
+"b": "Lineaire hypotheek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen.\"",
+"o": [
+"Lineaire hypotheek",
+"Intertemporele budgetlijn",
+"Levensloopinkomen",
+"AOW"
+],
+"a": 0,
+"u": "Lineaire hypotheek: Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen."
+},
+{
+"id": "E.v9.3.b05",
+"t": "mc",
+"e": "E.rente",
+"b": "Annuïteitenhypotheek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald.\"",
+"o": [
+"Annuïteitenhypotheek",
+"Dekkingsgraad",
+"Interest",
+"Stroomgrootheid"
+],
+"a": 0,
+"u": "Annuïteitenhypotheek: Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald."
+},
+{
+"id": "E.v9.3.b06",
+"t": "mc",
+"e": "E.rente",
+"b": "Hypotheekrenteaftrek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken.\"",
+"o": [
+"Hypotheekrenteaftrek",
+"Kapitaaldekkingsstelsel",
+"Voorraadgrootheid",
+"Intertemporele budgetlijn"
+],
+"a": 0,
+"u": "Hypotheekrenteaftrek: Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken."
+},
+{
+"id": "E.v9.3.b07",
+"t": "mc",
+"e": "E.rente",
+"b": "Huurtoeslag",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Inkomensafhankelijke bijdrage van de overheid in de huurkosten.\"",
+"o": [
+"Huurtoeslag",
+"Intertemporele budgetlijn",
+"Human capital",
+"Sociaal kapitaal"
+],
+"a": 0,
+"u": "Huurtoeslag: Inkomensafhankelijke bijdrage van de overheid in de huurkosten."
+},
+{
+"id": "E.v9.3.b08",
+"t": "mc",
+"e": "E.rente",
+"b": "Scheefwonen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen.\"",
+"o": [
+"Scheefwonen",
+"Dekkingsgraad",
+"Human capital",
+"Enkelvoudige rente"
+],
+"a": 0,
+"u": "Scheefwonen: Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen."
+}
+],
+"gens": [],
+"doel": "Welke motieven spelen een rol als het gaat om kopen of huren van een woning?",
+"uitleg": [
+{
+"t": "Huren",
+"x": "Sociale huurwoningen zijn voor lagere inkomens. De overheid stelt een maximale huur en een maximale huurstijging vast. Huurders kunnen huurtoeslag krijgen.\nDoor de maximale huur is de vraag groter dan het aanbod: lange wachtlijsten en scheefwonen (huurders met een inmiddels hoog inkomen blijven in een goedkope woning).\nIn de vrije sector bepalen vraag en aanbod de huur en is er geen huurtoeslag. Liberalisering geeft hogere huren en op termijn meer aanbod en kortere wachtlijsten, maar slechtere betaalbaarheid voor middeninkomens."
+},
+{
+"t": "Kopen met een hypotheek",
+"x": "Een koopwoning is een consumptiegoed (om in te wonen) en een belegging (aflossen en waardestijging).\nEen hypothecaire lening is een lening met de woning als onderpand. De huiseigenaar is de hypotheekgever, de bank de hypotheeknemer.\n- Lineair: elke periode een gelijk bedrag aflossen. De schuld en de rente dalen, dus de maandlasten dalen.\n- Annuïteit: elke periode hetzelfde totaalbedrag. Eerst veel rente en weinig aflossing, later andersom.\nHypotheekrenteaftrek: de betaalde rente mag (onder voorwaarden) van het inkomen in box 1 worden afgetrokken."
+},
+{
+"t": "Kopen of huren?",
+"x": "Huren: flexibel, geen onderhoud, geen risico op waardedaling. Kopen: vermogensopbouw, vrijheid, geen huurstijgingen, fiscaal voordeel.\nStijgen de huizenprijzen, dan ontstaat overwaarde. Dalen ze, dan kan een restschuld ontstaan: de woning staat \"onder water\"."
+}
+]
+},
+{
+"id": "E.v9.4",
+"hfd": "Hoofdstuk 9 · Intertemporele ruil gezinnen",
+"niv": "v",
+"naam": "§9.4 De oudedagsvoorziening",
+"kort": "Op welke manieren kunnen we voorzien in een inkomen na het bereiken van de pensioengerechtigde leeftijd?",
+"vragen": [
+{
+"id": "E.v9.4.m01",
+"t": "mc",
+"e": "E.pensioen",
+"q": "Waarom is de AOW gevoelig voor vergrijzing?",
+"o": [
+"Omdat de AOW via een omslagstelsel wordt betaald door de werkenden van nu",
+"Omdat de AOW-premies worden belegd",
+"Omdat pensioenfondsen een lage dekkingsgraad hebben",
+"Omdat ouderen geen belasting betalen"
+],
+"a": 0,
+"u": "Bij vergrijzing moeten minder werkenden de uitkeringen van meer ouderen opbrengen."
+},
+{
+"id": "E.v9.4.m02",
+"t": "mc",
+"e": "E.pensioen",
+"q": "Een werknemer verdient € 45.000 bruto per jaar. De franchise is € 17.000. Wat is de pensioengrondslag?",
+"o": [
+"€ 28.000",
+"€ 45.000",
+"€ 62.000",
+"€ 17.000"
+],
+"a": 0,
+"u": "Pensioengrondslag = 45.000 − 17.000 = € 28.000."
+},
+{
+"id": "E.v9.4.m03",
+"t": "mc",
+"e": "E.pensioen",
+"q": "De rekenrente van pensioenfondsen daalt. Wat gebeurt er met de dekkingsgraad als de beleggingen gelijk blijven?",
+"o": [
+"De dekkingsgraad daalt, omdat de contante waarde van de verplichtingen stijgt",
+"De dekkingsgraad stijgt, omdat de verplichtingen dalen",
+"De dekkingsgraad blijft gelijk",
+"De dekkingsgraad stijgt, omdat de beleggingen meer opleveren"
+],
+"a": 0,
+"u": "Bij een lagere rente moet je nu meer geld hebben om later hetzelfde te kunnen betalen."
+},
+{
+"id": "E.v9.4.m04",
+"t": "mc",
+"e": "E.pensioen",
+"q": "Een pensioenfonds heeft € 120 miljard belegd. De contante waarde van de verplichtingen is € 100 miljard. Wat is de dekkingsgraad?",
+"o": [
+"120%",
+"83%",
+"20%",
+"100%"
+],
+"a": 0,
+"u": "120 / 100 × 100% = 120%. Het fonds heeft meer dan genoeg om de verplichtingen te dekken."
+},
+{
+"id": "E.v9.4.k01",
+"t": "koppel",
+"e": "E.pensioen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"AOW",
+"Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft."
+],
+[
+"Omslagstelsel",
+"Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu."
+],
+[
+"Kapitaaldekkingsstelsel",
+"Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen."
+]
+],
+"u": "AOW: Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft. Omslagstelsel: Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu. Kapitaaldekkingsstelsel: Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen."
+},
+{
+"id": "E.v9.4.k02",
+"t": "koppel",
+"e": "E.pensioen",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Intergenerationele ruil",
+"Overheveling van inkomen tussen generaties, zoals bij de AOW."
+],
+[
+"Franchise",
+"Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt."
+],
+[
+"Pensioengrondslag",
+"Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd."
+]
+],
+"u": "Intergenerationele ruil: Overheveling van inkomen tussen generaties, zoals bij de AOW. Franchise: Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt. Pensioengrondslag: Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd."
+},
+{
+"id": "E.v9.4.b01",
+"t": "mc",
+"e": "E.pensioen",
+"b": "AOW",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft.\"",
+"o": [
+"AOW",
+"Financiële levenscyclus",
+"Kapitaaldekkingsstelsel",
+"Pensioengrondslag"
+],
+"a": 0,
+"u": "AOW: Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft."
+},
+{
+"id": "E.v9.4.b02",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Omslagstelsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu.\"",
+"o": [
+"Omslagstelsel",
+"Dekkingsgraad",
+"Stroomgrootheid",
+"Samengestelde rente"
+],
+"a": 0,
+"u": "Omslagstelsel: Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu."
+},
+{
+"id": "E.v9.4.b03",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Kapitaaldekkingsstelsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen.\"",
+"o": [
+"Kapitaaldekkingsstelsel",
+"Reële rente",
+"Omslagstelsel",
+"Voorraadgrootheid"
+],
+"a": 0,
+"u": "Kapitaaldekkingsstelsel: Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen."
+},
+{
+"id": "E.v9.4.b04",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Intergenerationele ruil",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overheveling van inkomen tussen generaties, zoals bij de AOW.\"",
+"o": [
+"Intergenerationele ruil",
+"Sociaal kapitaal",
+"Intertemporele ruil",
+"Dekkingsgraad"
+],
+"a": 0,
+"u": "Intergenerationele ruil: Overheveling van inkomen tussen generaties, zoals bij de AOW."
+},
+{
+"id": "E.v9.4.b05",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Franchise",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt.\"",
+"o": [
+"Franchise",
+"Lineaire hypotheek",
+"Sociaal kapitaal",
+"Contante waarde"
+],
+"a": 0,
+"u": "Franchise: Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt."
+},
+{
+"id": "E.v9.4.b06",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Pensioengrondslag",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd.\"",
+"o": [
+"Pensioengrondslag",
+"AOW",
+"Stroomgrootheid",
+"Enkelvoudige rente"
+],
+"a": 0,
+"u": "Pensioengrondslag: Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd."
+},
+{
+"id": "E.v9.4.b07",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Dekkingsgraad",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%.\"",
+"o": [
+"Dekkingsgraad",
+"Hypothecaire lening",
+"Nominale rente",
+"Annuïteitenhypotheek"
+],
+"a": 0,
+"u": "Dekkingsgraad: Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%."
+},
+{
+"id": "E.v9.4.b08",
+"t": "mc",
+"e": "E.pensioen",
+"b": "Contante waarde",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald.\"",
+"o": [
+"Contante waarde",
+"Omslagstelsel",
+"Reële rente",
+"Hypotheekgever"
+],
+"a": 0,
+"u": "Contante waarde: De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald."
+}
+],
+"gens": [
+"contanteWaarde"
+],
+"doel": "Op welke manieren kunnen we voorzien in een inkomen na het bereiken van de pensioengerechtigde leeftijd?",
+"uitleg": [
+{
+"t": "Vergrijzing",
+"x": "Door een hogere levensverwachting en minder geboorten neemt de vergrijzing toe: er komen meer ouderen per werkende. Daarom stijgt de AOW-leeftijd en werken mensen langer door."
+},
+{
+"t": "Drie pijlers",
+"x": "Pijler 1: AOW, de basisvoorziening van de overheid. Alleenstaanden krijgen 70% en samenwonenden ieder 50% van het nettominimumloon. Je bouwt in de 50 jaar voor de AOW-leeftijd elk jaar 2% op.\nDe AOW werkt met een omslagstelsel: de uitkeringen van nu worden betaald uit de premies van de werkenden van nu. Dat is intergenerationele ruil en het is gevoelig voor vergrijzing.\nPijler 2: bedrijfspensioen via de werkgever en een pensioenfonds. Dit werkt met een kapitaaldekkingsstelsel: je eigen premies worden belegd voor je eigen pensioen.\nPensioengrondslag = bruto jaarloon − franchise. Over de franchise bouw je geen pensioen op, omdat je later AOW krijgt.\nPijler 3: eigen besparingen, zoals sparen, beleggen, lijfrente of de eigen woning."
+},
+{
+"t": "Dekkingsgraad",
+"x": "Dekkingsgraad = huidige waarde van de beleggingen / contante waarde van de toekomstige verplichtingen × 100%.\nDe toekomstige verplichtingen worden contant gemaakt met de rekenrente. Een lagere rekenrente maakt de contante waarde van de verplichtingen hoger, dus de dekkingsgraad daalt."
+}
+]
+},
+{
+"id": "E.v10.1",
+"hfd": "Hoofdstuk 10 · Intertemporeel: de collectieve sector",
+"niv": "v",
+"naam": "§10.1 De collectieve sector",
+"kort": "Wat zijn de voornaamste kenmerken van de collectieve sector?",
+"vragen": [
+{
+"id": "E.v10.1.m01",
+"t": "mc",
+"e": "F.coll",
+"q": "Welke combinatie van kenmerken hoort bij een collectief goed?",
+"o": [
+"Niet-uitsluitbaar en niet-rivaliserend",
+"Uitsluitbaar en rivaliserend",
+"Uitsluitbaar en niet-rivaliserend",
+"Niet-uitsluitbaar en rivaliserend"
+],
+"a": 0,
+"u": "Niemand kan worden uitgesloten en gebruik door de een gaat niet ten koste van een ander."
+},
+{
+"id": "E.v10.1.m02",
+"t": "mc",
+"e": "F.coll",
+"q": "Waarom levert de markt een dijk niet vanzelf?",
+"o": [
+"Omdat niemand kan worden uitgesloten, zodat iedereen wil meeliften en niemand wil betalen",
+"Omdat een dijk een quasi-collectief goed is",
+"Omdat er te veel vraag naar dijken is",
+"Omdat waterschappen dat verbieden"
+],
+"a": 0,
+"u": "Free-ridergedrag: je profiteert ook als je niet betaalt. Dan is niet betalen de dominante strategie."
+},
+{
+"id": "E.v10.1.m03",
+"t": "mc",
+"e": "F.coll",
+"q": "Welke organisatie voert de WW uit?",
+"o": [
+"Het UWV",
+"De SVB",
+"De gemeente",
+"Het waterschap"
+],
+"a": 0,
+"u": "Het UWV voert de werknemersverzekeringen uit. De SVB voert de volksverzekeringen uit."
+},
+{
+"id": "E.v10.1.m04",
+"t": "mc",
+"e": "F.coll",
+"q": "Je betaalt leges voor een nieuw rijbewijs. Wat is dat?",
+"o": [
+"Een retributie",
+"Een directe belasting",
+"Een sociale premie",
+"Een accijns"
+],
+"a": 0,
+"u": "Je betaalt voor een concrete dienst van de overheid aan jou persoonlijk."
+},
+{
+"id": "E.v10.1.k01",
+"t": "koppel",
+"e": "F.coll",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Collectieve sector",
+"De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen."
+],
+[
+"Quasi-collectief goed",
+"Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten."
+],
+[
+"ZBO",
+"Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB."
+]
+],
+"u": "Collectieve sector: De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen. Quasi-collectief goed: Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten. ZBO: Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB."
+},
+{
+"id": "E.v10.1.k02",
+"t": "koppel",
+"e": "F.coll",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Volksverzekering",
+"Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW."
+],
+[
+"Werknemersverzekering",
+"Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW."
+],
+[
+"Retributie",
+"Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort."
+]
+],
+"u": "Volksverzekering: Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW. Werknemersverzekering: Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW. Retributie: Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort."
+},
+{
+"id": "E.v10.1.b01",
+"t": "mc",
+"e": "F.coll",
+"b": "Collectieve sector",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen.\"",
+"o": [
+"Collectieve sector",
+"EMU-normen",
+"Staatsobligatie",
+"Harberger-driehoek"
+],
+"a": 0,
+"u": "Collectieve sector: De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen."
+},
+{
+"id": "E.v10.1.b02",
+"t": "mc",
+"e": "F.coll",
+"b": "Quasi-collectief goed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten.\"",
+"o": [
+"Quasi-collectief goed",
+"Overheidsinvesteringen",
+"Staatsobligatie",
+"Noemereffect"
+],
+"a": 0,
+"u": "Quasi-collectief goed: Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten."
+},
+{
+"id": "E.v10.1.b03",
+"t": "mc",
+"e": "F.coll",
+"b": "ZBO",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB.\"",
+"o": [
+"ZBO",
+"Volksverzekering",
+"Wig",
+"Directe belasting"
+],
+"a": 0,
+"u": "ZBO: Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB."
+},
+{
+"id": "E.v10.1.b04",
+"t": "mc",
+"e": "F.coll",
+"b": "Volksverzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW.\"",
+"o": [
+"Volksverzekering",
+"Directe belasting",
+"Collectieve uitgavenquote",
+"Harberger-driehoek"
+],
+"a": 0,
+"u": "Volksverzekering: Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW."
+},
+{
+"id": "E.v10.1.b05",
+"t": "mc",
+"e": "F.coll",
+"b": "Werknemersverzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW.\"",
+"o": [
+"Werknemersverzekering",
+"Overheidsinvesteringen",
+"Quasi-collectief goed",
+"EMU-saldo"
+],
+"a": 0,
+"u": "Werknemersverzekering: Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW."
+},
+{
+"id": "E.v10.1.b06",
+"t": "mc",
+"e": "F.coll",
+"b": "Retributie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort.\"",
+"o": [
+"Retributie",
+"Niet-belastingmiddelen",
+"Gemiddelde belastingdruk",
+"EMU-schuld"
+],
+"a": 0,
+"u": "Retributie: Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort."
+},
+{
+"id": "E.v10.1.b07",
+"t": "mc",
+"e": "F.coll",
+"b": "Niet-belastingmiddelen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes.\"",
+"o": [
+"Niet-belastingmiddelen",
+"Solidariteitsbeginsel",
+"Collectieve lastendruk",
+"Quasi-collectief goed"
+],
+"a": 0,
+"u": "Niet-belastingmiddelen: Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes."
+}
+],
+"gens": [],
+"doel": "Wat zijn de voornaamste kenmerken van de collectieve sector?",
+"uitleg": [
+{
+"t": "Collectief en particulier",
+"x": "De collectieve (publieke) sector bestaat uit de overheid en de sociale verzekeringsfondsen. De particuliere sector bestaat uit gezinnen en bedrijven.\nCollectieve goederen zijn niet-uitsluitbaar en niet-rivaliserend, bijvoorbeeld dijken, straatverlichting en defensie. De markt levert ze niet door meeliftersgedrag (free riders), dus de overheid doet het.\nQuasi-collectieve goederen kunnen wel individueel geleverd worden, maar de overheid biedt ze (deels) aan of subsidieert ze vanwege positieve externe effecten, bijvoorbeeld onderwijs, zorg en openbaar vervoer."
+},
+{
+"t": "Opbouw van de collectieve sector",
+"x": "- Centrale overheid (het Rijk): ministeries.\n- Decentrale overheden: provincies (ruimtelijke ordening, regionaal vervoer), gemeenten (bijstand, lokale wegen, afval), waterschappen (waterbeheer en dijken).\n- Zelfstandige bestuursorganen (ZBO's): de SVB voert volksverzekeringen uit (AOW, Anw, kinderbijslag), het UWV werknemersverzekeringen (WW, WIA, Ziektewet).\nVolksverzekeringen zijn verplicht voor alle ingezetenen. Werknemersverzekeringen zijn verplicht voor werknemers in loondienst."
+},
+{
+"t": "Financiering",
+"x": "Belastingen zijn verplichte afdrachten zonder directe individuele tegenprestatie. Sociale premies geven recht op een uitkering. Niet-belastingmiddelen zijn bijvoorbeeld aardgasbaten, winst van staatsdeelnemingen, boetes en retributies (zoals leges voor een paspoort).\nBij de financiering van collectieve goederen ontstaat een gevangenendilemma: niet bijdragen (meeliften) is voor iedereen dominant, maar dan komt het goed er niet. Verplichte belasting lost dat op."
+}
+]
+},
+{
+"id": "E.v10.2",
+"hfd": "Hoofdstuk 10 · Intertemporeel: de collectieve sector",
+"niv": "v",
+"naam": "§10.2 Inkomsten van de collectieve sector",
+"kort": "Op welke manier komt de collectieve sector aan middelen?",
+"vragen": [
+{
+"id": "E.v10.2.m01",
+"t": "mc",
+"e": "H.belasting",
+"q": "Welk belastingbeginsel past het best bij een accijns op benzine voor weggebruikers?",
+"o": [
+"Het profijtbeginsel",
+"Het draagkrachtbeginsel",
+"Het solidariteitsbeginsel",
+"Het verzekeringsbeginsel"
+],
+"a": 0,
+"u": "Wie meer rijdt en dus meer van de wegen gebruikmaakt, betaalt meer."
+},
+{
+"id": "E.v10.2.m02",
+"t": "mc",
+"e": "H.belasting",
+"q": "Iemand verdient € 60.000 en betaalt € 18.000 belasting. Over de laatst verdiende euro betaalt hij 49,5%. Wat klopt?",
+"o": [
+"De gemiddelde druk is 30% en het marginale tarief 49,5%: het stelsel werkt progressief",
+"De gemiddelde druk is 49,5%",
+"Het marginale tarief is 30%",
+"Het stelsel is degressief"
+],
+"a": 0,
+"u": "18.000 / 60.000 × 100% = 30%. Het marginale tarief ligt hoger dan de gemiddelde druk."
+},
+{
+"id": "E.v10.2.m03",
+"t": "mc",
+"e": "H.belasting",
+"q": "Wat is de Harberger-driehoek?",
+"o": [
+"Het welvaartsverlies doordat er na een belasting minder wordt verhandeld",
+"De opbrengst van de belasting voor de overheid",
+"Het consumentensurplus na de belasting",
+"Het verschil tussen bruto- en nettoloon"
+],
+"a": 0,
+"u": "Een deel van het verloren surplus gaat naar de overheid. De driehoek is het deel dat helemaal verdwijnt."
+},
+{
+"id": "E.v10.2.m04",
+"t": "mc",
+"e": "H.belasting",
+"q": "In welke box valt dividend van een directeur-grootaandeelhouder met 40% van de aandelen in zijn bv?",
+"o": [
+"Box 2",
+"Box 1",
+"Box 3",
+"Geen box: dividend is onbelast"
+],
+"a": 0,
+"u": "Bij een aanmerkelijk belang (minstens 5%) valt het inkomen in box 2."
+},
+{
+"id": "E.v10.2.k01",
+"t": "koppel",
+"e": "H.belasting",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Directe belasting",
+"Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen."
+],
+[
+"Indirecte belasting",
+"Kostprijsverhogende belasting op bestedingen, zoals btw en accijns."
+],
+[
+"Draagkrachtbeginsel",
+"Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting."
+]
+],
+"u": "Directe belasting: Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen. Indirecte belasting: Kostprijsverhogende belasting op bestedingen, zoals btw en accijns. Draagkrachtbeginsel: Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting."
+},
+{
+"id": "E.v10.2.k02",
+"t": "koppel",
+"e": "H.belasting",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Profijtbeginsel",
+"Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor."
+],
+[
+"Solidariteitsbeginsel",
+"Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico."
+],
+[
+"Collectieve lastendruk",
+"Belastingen en sociale premies als percentage van het bbp."
+]
+],
+"u": "Profijtbeginsel: Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor. Solidariteitsbeginsel: Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico. Collectieve lastendruk: Belastingen en sociale premies als percentage van het bbp."
+},
+{
+"id": "E.v10.2.k03",
+"t": "koppel",
+"e": "H.belasting",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Harberger-driehoek",
+"Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat."
+],
+[
+"Wig",
+"Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer."
+],
+[
+"Marginaal belastingtarief",
+"Het belastingpercentage over een extra verdiende euro."
+]
+],
+"u": "Harberger-driehoek: Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat. Wig: Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer. Marginaal belastingtarief: Het belastingpercentage over een extra verdiende euro."
+},
+{
+"id": "E.v10.2.b01",
+"t": "mc",
+"e": "H.belasting",
+"b": "Directe belasting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen.\"",
+"o": [
+"Directe belasting",
+"Indirecte belasting",
+"Overheidsbestedingen",
+"Harberger-driehoek"
+],
+"a": 0,
+"u": "Directe belasting: Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen."
+},
+{
+"id": "E.v10.2.b02",
+"t": "mc",
+"e": "H.belasting",
+"b": "Indirecte belasting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kostprijsverhogende belasting op bestedingen, zoals btw en accijns.\"",
+"o": [
+"Indirecte belasting",
+"Marginaal belastingtarief",
+"Staatsobligatie",
+"EMU-schuld"
+],
+"a": 0,
+"u": "Indirecte belasting: Kostprijsverhogende belasting op bestedingen, zoals btw en accijns."
+},
+{
+"id": "E.v10.2.b03",
+"t": "mc",
+"e": "H.belasting",
+"b": "Draagkrachtbeginsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting.\"",
+"o": [
+"Draagkrachtbeginsel",
+"Overheidsinvesteringen",
+"Profijtbeginsel",
+"Gemiddelde belastingdruk"
+],
+"a": 0,
+"u": "Draagkrachtbeginsel: Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting."
+},
+{
+"id": "E.v10.2.b04",
+"t": "mc",
+"e": "H.belasting",
+"b": "Profijtbeginsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor.\"",
+"o": [
+"Profijtbeginsel",
+"Quasi-collectief goed",
+"EMU-schuld",
+"Collectieve lastendruk"
+],
+"a": 0,
+"u": "Profijtbeginsel: Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor."
+},
+{
+"id": "E.v10.2.b05",
+"t": "mc",
+"e": "H.belasting",
+"b": "Solidariteitsbeginsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico.\"",
+"o": [
+"Solidariteitsbeginsel",
+"Noemereffect",
+"Werknemersverzekering",
+"Staatsobligatie"
+],
+"a": 0,
+"u": "Solidariteitsbeginsel: Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico."
+},
+{
+"id": "E.v10.2.b06",
+"t": "mc",
+"e": "H.belasting",
+"b": "Collectieve lastendruk",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belastingen en sociale premies als percentage van het bbp.\"",
+"o": [
+"Collectieve lastendruk",
+"Indirecte belasting",
+"Collectieve uitgavenquote",
+"Collectieve sector"
+],
+"a": 0,
+"u": "Collectieve lastendruk: Belastingen en sociale premies als percentage van het bbp."
+},
+{
+"id": "E.v10.2.b07",
+"t": "mc",
+"e": "H.belasting",
+"b": "Harberger-driehoek",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat.\"",
+"o": [
+"Harberger-driehoek",
+"EMU-saldo",
+"Overheidsinvesteringen",
+"Volksverzekering"
+],
+"a": 0,
+"u": "Harberger-driehoek: Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat."
+},
+{
+"id": "E.v10.2.b08",
+"t": "mc",
+"e": "H.belasting",
+"b": "Wig",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.\"",
+"o": [
+"Wig",
+"Solidariteitsbeginsel",
+"Noemereffect",
+"Collectieve uitgavenquote"
+],
+"a": 0,
+"u": "Wig: Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer."
+},
+{
+"id": "E.v10.2.b09",
+"t": "mc",
+"e": "H.belasting",
+"b": "Marginaal belastingtarief",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het belastingpercentage over een extra verdiende euro.\"",
+"o": [
+"Marginaal belastingtarief",
+"Gemiddelde belastingdruk",
+"EMU-schuld",
+"Volksverzekering"
+],
+"a": 0,
+"u": "Marginaal belastingtarief: Het belastingpercentage over een extra verdiende euro."
+},
+{
+"id": "E.v10.2.b10",
+"t": "mc",
+"e": "H.belasting",
+"b": "Gemiddelde belastingdruk",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het percentage van het inkomen dat in totaal aan belasting wordt betaald.\"",
+"o": [
+"Gemiddelde belastingdruk",
+"Overdrachtsuitgaven",
+"Niet-belastingmiddelen",
+"EMU-schuld"
+],
+"a": 0,
+"u": "Gemiddelde belastingdruk: Het percentage van het inkomen dat in totaal aan belasting wordt betaald."
+},
+{
+"t": "open",
+"titel": "Volgorde in box 1",
+"q": "Tirza heeft in 2026 een bruto-inkomen van € 60.000. Zij betaalt € 8.000 hypotheekrente. Dat is haar enige aftrekpost. Hieronder staat hoe haar inkomstenbelasting in box 1 wordt berekend.\nMaak van onderstaande tekst een economisch juiste tekst.\nTirza trekt eerst de ...(1)... van haar bruto-inkomen af. Haar belastbaar inkomen is dan ...(2).... Over dit bedrag berekent zij de belasting ...(3).... Daarna gaat de ...(4)... van de berekende belasting af.\nKies uit: bij (1) aftrekpost / heffingskorting / inkomstenbelasting\nKies uit: bij (2) € 52.000 / € 60.000 / € 68.000\nKies uit: bij (3) per schijf / over het hele bedrag tegen het hoogste tarief / over het hele bedrag tegen het laagste tarief\nKies uit: bij (4) heffingskorting / aftrekpost / schijf",
+"model": "(1) aftrekpost, (2) € 52.000, (3) per schijf, (4) heffingskorting. Eerst 60.000 - 8.000 = 52.000. Dan reken je per schijf. Daarna trek je de heffingskorting van de belasting af.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende vier keuzes: bij (1) aftrekpost en bij (2) € 52.000 (1)\n• bij (3) per schijf en bij (4) heffingskorting (1)",
+"pnt": 2,
+"id": "E.v10.2.IT00518",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Belasting van een adviseur",
+"q": "Wessel heeft in 2026 een bruto-inkomen van € 56.000. Hij betaalt € 6.000 hypotheekrente. Dat is zijn enige aftrekpost. Zijn algemene heffingskorting is € 1.819 en zijn arbeidskorting is € 5.007.\nDe tarieven van box 1 staan in de tabel. Bron: Belastingdienst, tarieven 2026 (regels vereenvoudigd).\nTabel Tarieven box 1, 2026:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883 | 35,75%\n2 | meer dan € 38.883 tot en met € 78.426 | 37,56%\n3 | meer dan € 78.426 | 49,50%\nBereken hoeveel inkomstenbelasting Wessel in 2026 moet betalen.\nRond je eindantwoord af op twee decimalen.",
+"model": "Belastbaar inkomen: 56.000 - 6.000 = € 50.000. Schijf 1: 38.883 x 0,3575 = € 13.900,67. Schijf 2: 11.117 x 0,3756 = € 4.175,55. Samen € 18.076,22. Min heffingskortingen 1.819 + 5.007 = 6.826. Te betalen: € 11.250,22.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen: Belastbaar inkomen = 56.000 - 6.000 = € 50.000 (1)\n• Belasting per schijf: 38.883 x 0,3575 = € 13.900,67 en (50.000 - 38.883) x 0,3756 = € 4.175,55; samen € 18.076,22 (1)\n• Heffingskortingen eraf: 18.076,22 - 1.819 - 5.007 = € 11.250,22 (1)",
+"pnt": 3,
+"id": "E.v10.2.IT00519",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Gemiddeld tarief van een hogere inkomen",
+"q": "Hanneke werkt als juridisch adviseur. Zij heeft in 2026 een bruto-inkomen van € 96.000 en betaalt € 6.000 hypotheekrente. Dat is haar enige aftrekpost.\nHaar algemene heffingskorting is € 0 en haar arbeidskorting is € 2.403. De tarieven van box 1 staan in de tabel. Bron: Belastingdienst, tarieven 2026 (regels vereenvoudigd).\nTabel Tarieven box 1, 2026:\nSchijf | Belastbaar inkomen | Tarief\n1 | tot en met € 38.883 | 35,75%\n2 | meer dan € 38.883 tot en met € 78.426 | 37,56%\n3 | meer dan € 78.426 | 49,50%\nBereken het gemiddelde belastingtarief van Hanneke over haar belastbaar inkomen in 2026.\nSchat eerst: is het gemiddelde tarief hoger of lager dan 49,50%? Controleer daarmee je antwoord.\nGeef je antwoord in procenten met één decimaal.",
+"model": "Belastbaar inkomen: 96.000 - 6.000 = 90.000. Belasting: 13.900,67 + 39.543 x 0,3756 = 14.852,35 + 11.574 x 0,495 = 5.729,13, samen € 34.482,15. Min 2.403 = € 32.079,15. Gemiddeld tarief: 32.079,15 : 90.000 x 100% = 35,6%.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende drie stappen: Belastbaar inkomen = 96.000 - 6.000 = € 90.000 en belasting per schijf: 38.883 x 0,3575 + (78.426 - 38.883) x 0,3756 + (90.000 - 78.426) x 0,495 = € 34.482,15 (1)\n• Te betalen belasting = 34.482,15 - 2.403 = € 32.079,15 (1)\n• Gemiddeld tarief = 32.079,15 : 90.000 x 100% = 35,6% (1)",
+"pnt": 3,
+"id": "E.v10.2.IT00520",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 26",
+"q": "(Examen vwo 2021-I, vraag 26)\nTarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
+"model": "Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.",
+"pnt": 2,
+"id": "E.v10.2.v2021I26",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-III, vraag 25",
+"q": "(Examen vwo 2022-III, vraag 25)\nBereken het belastingvoordeel voor een modale werknemer (€ 38.500) door het nieuwe stelsel, met drie schijven en een afbouwende arbeidskorting ten opzichte van het oude stelsel met vier schijven en een vaste korting.",
+"model": "Oud: 12.000 × 0,37 + 25.000 × 0,41 + 1.500 × 0,42 − 1.000 = € 14.320. Nieuw: 20.000 × 0,35 + 18.500 × 0,40 = € 14.400 (1p). Arbeidskorting 1.500 − 23,5 × 40 = € 560 (1p). Nieuw € 13.840; voordeel € 480 (1p). Het voorschrift noemt de korting foutief 940; 560 klopt met 13.840.",
+"pnt": 3,
+"id": "E.v10.2.v2022III25",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-II, vraag 21",
+"q": "(Examen vwo 2021-II, vraag 21)\nDividend wordt belast met 15% boven een vrijstelling van € 10.000. Is dit een degressieve, progressieve of proportionele belasting? Motiveer.",
+"model": "Progressief. Het tarief is proportioneel maar de vaste vrijstelling levert bij hoger dividend relatief minder voordeel op, dus het gemiddelde heffingspercentage stijgt met het dividend. Een juiste berekening mag ook.",
+"pnt": 2,
+"id": "E.v10.2.v2021II21",
+"e": "H.belasting"
+}
+],
+"gens": [],
+"doel": "Op welke manier komt de collectieve sector aan middelen?",
+"uitleg": [
+{
+"t": "Soorten belastingen en premies",
+"x": "- Directe belastingen: over inkomen, winst en vermogen, zoals loon- en inkomstenbelasting (de grootste post) en vennootschapsbelasting.\n- Indirecte belastingen: kostprijsverhogend, zoals btw, accijnzen (op tabak, alcohol en brandstof) en overdrachtsbelasting.\n- Sociale premies: premies volksverzekeringen, werknemersverzekeringen en de bijdrage voor de Zorgverzekeringswet."
+},
+{
+"t": "Belastingbeginselen en lastendruk",
+"x": "Draagkrachtbeginsel: de sterkste schouders dragen de zwaarste lasten (progressieve belasting). Profijtbeginsel: wie profiteert, betaalt (accijns op benzine, collegegeld). Solidariteitsbeginsel: sterkeren betalen mee voor zwakkeren.\nCollectieve lastendruk = (belastingen + sociale premies) / bbp × 100%. In Nederland bijna 40%."
+},
+{
+"t": "Gevolgen van belastingen",
+"x": "Een indirecte belasting verschuift de aanbodlijn omhoog. De consument betaalt meer, de producent ontvangt minder en de hoeveelheid daalt. Het verlies aan surplus dat niet naar de overheid gaat, is de Harberger-driehoek (welvaartsverlies).\nDe wig is het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer. Een grote wig geeft welvaartsverlies op de arbeidsmarkt."
+},
+{
+"t": "Het boxenstelsel en belastingdruk",
+"x": "Box 1: inkomen uit werk en woning, met schijven (progressief), eigenwoningforfait, hypotheekrenteaftrek en heffingskortingen. Box 2: aanmerkelijk belang (minstens 5% van de aandelen van een bv of nv). Box 3: sparen en beleggen, met een fictief rendement.\nGemiddelde belastingdruk = betaalde belasting / bruto-inkomen × 100%. Het marginale tarief is het tarief over de laatst verdiende euro. Bij een progressief stelsel ligt het marginale tarief boven de gemiddelde druk."
+}
+]
+},
+{
+"id": "E.v10.3",
+"hfd": "Hoofdstuk 10 · Intertemporeel: de collectieve sector",
+"niv": "v",
+"naam": "§10.3 Uitgaven van de collectieve sector",
+"kort": "Hoe geeft de collectieve sector zijn middelen uit?",
+"vragen": [
+{
+"id": "E.v10.3.m01",
+"t": "mc",
+"e": "E.overheid",
+"q": "Welke uitgave is een overdrachtsuitgave?",
+"o": [
+"Een bijstandsuitkering",
+"Het salaris van een politieagent",
+"De aanleg van een nieuwe snelweg",
+"De aankoop van een fregat voor de marine"
+],
+"a": 0,
+"u": "Bij een uitkering staat er geen productie tegenover. De andere drie zijn overheidsbestedingen."
+},
+{
+"id": "E.v10.3.m02",
+"t": "mc",
+"e": "E.overheid",
+"q": "Waarom telt de rente op de staatsschuld niet mee als overheidsbesteding?",
+"o": [
+"Omdat er geen productie tegenover staat: het is een inkomensoverdracht",
+"Omdat rente geen uitgave is",
+"Omdat de rente door de ECB wordt betaald",
+"Omdat het een investering is"
+],
+"a": 0,
+"u": "Rente is een overdracht van de overheid naar de geldgevers, geen aankoop van goederen of diensten."
+},
+{
+"id": "E.v10.3.m03",
+"t": "mc",
+"e": "E.overheid",
+"q": "De collectieve uitgaven zijn € 450 miljard en het bbp is € 1.000 miljard. Wat is de collectieve uitgavenquote?",
+"o": [
+"45%",
+"4,5%",
+"55%",
+"222%"
+],
+"a": 0,
+"u": "450 / 1.000 × 100% = 45%."
+},
+{
+"id": "E.v10.3.m04",
+"t": "mc",
+"e": "E.overheid",
+"q": "Welke uitgavenposten stijgen vooral door de vergrijzing?",
+"o": [
+"Sociale zekerheid en zorg",
+"Defensie en infrastructuur",
+"Onderwijs en cultuur",
+"Rente en subsidies aan bedrijven"
+],
+"a": 0,
+"u": "Meer ouderen betekent meer AOW-uitkeringen en hogere zorgkosten."
+},
+{
+"id": "E.v10.3.k01",
+"t": "koppel",
+"e": "E.overheid",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Overheidsbestedingen",
+"Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen."
+],
+[
+"Overdrachtsuitgaven",
+"Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente."
+],
+[
+"Collectieve uitgavenquote",
+"De collectieve uitgaven als percentage van het bbp."
+]
+],
+"u": "Overheidsbestedingen: Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen. Overdrachtsuitgaven: Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente. Collectieve uitgavenquote: De collectieve uitgaven als percentage van het bbp."
+},
+{
+"id": "E.v10.3.b01",
+"t": "mc",
+"e": "E.overheid",
+"b": "Overheidsbestedingen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen.\"",
+"o": [
+"Overheidsbestedingen",
+"Profijtbeginsel",
+"Collectieve sector",
+"Wig"
+],
+"a": 0,
+"u": "Overheidsbestedingen: Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen."
+},
+{
+"id": "E.v10.3.b02",
+"t": "mc",
+"e": "E.overheid",
+"b": "Overdrachtsuitgaven",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente.\"",
+"o": [
+"Overdrachtsuitgaven",
+"Indirecte belasting",
+"Werknemersverzekering",
+"Noemereffect"
+],
+"a": 0,
+"u": "Overdrachtsuitgaven: Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente."
+},
+{
+"id": "E.v10.3.b03",
+"t": "mc",
+"e": "E.overheid",
+"b": "Collectieve uitgavenquote",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De collectieve uitgaven als percentage van het bbp.\"",
+"o": [
+"Collectieve uitgavenquote",
+"Niet-belastingmiddelen",
+"Volksverzekering",
+"Noemereffect"
+],
+"a": 0,
+"u": "Collectieve uitgavenquote: De collectieve uitgaven als percentage van het bbp."
+},
+{
+"id": "E.v10.3.b04",
+"t": "mc",
+"e": "E.overheid",
+"b": "Overheidsinvesteringen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Uitgaven van de overheid aan infrastructuur en gebouwen.\"",
+"o": [
+"Overheidsinvesteringen",
+"EMU-saldo",
+"Collectieve lastendruk",
+"Harberger-driehoek"
+],
+"a": 0,
+"u": "Overheidsinvesteringen: Uitgaven van de overheid aan infrastructuur en gebouwen."
+}
+],
+"gens": [],
+"doel": "Hoe geeft de collectieve sector zijn middelen uit?",
+"uitleg": [
+{
+"t": "Bestedingen en overdrachten",
+"x": "Overheidsbestedingen nemen direct productiefactoren in beslag en tellen mee in het bbp:\n- Overheidsconsumptie: ambtenarensalarissen en materiële uitgaven (energie, kantoorartikelen, defensiematerieel).\n- Overheidsinvesteringen: wegen, bruggen, dijken en gebouwen.\nOverdrachtsuitgaven zijn inkomensoverdrachten zonder directe tegenprestatie: bijstand, subsidies, rente op de staatsschuld en uitkeringen zoals AOW, WW en WIA."
+},
+{
+"t": "Functionele indeling en uitgavenquote",
+"x": "Naar beleidsdoel zijn sociale zekerheid en zorg de grootste posten. Door vergrijzing stijgen ze sterk. Daarna komt onderwijs.\nCollectieve uitgavenquote = collectieve uitgaven / bbp × 100%. Die steeg na 2000, onder meer door de kredietcrisis, de coronacrisis en hogere zorgkosten."
+}
+]
+},
+{
+"id": "E.v10.4",
+"hfd": "Hoofdstuk 10 · Intertemporeel: de collectieve sector",
+"niv": "v",
+"naam": "§10.4 EMU-saldo en schuld",
+"kort": "Hoe ontstaan het saldo van de collectieve sector en de staatsschuld?",
+"vragen": [
+{
+"id": "E.v10.4.m01",
+"t": "mc",
+"e": "E.overheid",
+"q": "Het bbp is € 1.000 miljard, de EMU-schuld € 500 miljard en het tekort € 20 miljard. Voldoet het land aan de EMU-normen?",
+"o": [
+"Ja: het tekort is 2% en de schuld 50% van het bbp",
+"Nee: het tekort is te groot",
+"Nee: de schuld is te groot",
+"Nee: allebei te groot"
+],
+"a": 0,
+"u": "20 / 1.000 = 2% (maximaal 3%) en 500 / 1.000 = 50% (maximaal 60%)."
+},
+{
+"id": "E.v10.4.m02",
+"t": "mc",
+"e": "E.overheid",
+"q": "De staatsschuld stijgt met 2%, het nominale bbp met 5%. Wat gebeurt er met de EMU-schuldquote?",
+"o": [
+"Die daalt door het noemereffect",
+"Die stijgt met 2%",
+"Die stijgt met 3%",
+"Die blijft gelijk"
+],
+"a": 0,
+"u": "De noemer (bbp) groeit sneller dan de teller (schuld), dus de breuk wordt kleiner."
+},
+{
+"id": "E.v10.4.m03",
+"t": "mc",
+"e": "E.overheid",
+"q": "Wanneer is een staatsschuld het minst een last voor toekomstige generaties?",
+"o": [
+"Als met het geleende geld productief is geïnvesteerd in bijvoorbeeld onderwijs en infrastructuur",
+"Als het geld is gebruikt voor hogere uitkeringen",
+"Als de schuld vooral in buitenlandse handen is",
+"Als de rente sterk stijgt"
+],
+"a": 0,
+"u": "Productieve investeringen vergroten het toekomstige bbp, waaruit de rente en aflossing betaald kunnen worden."
+},
+{
+"id": "E.v10.4.m04",
+"t": "mc",
+"e": "E.overheid",
+"q": "Waarom laat de overheid in een recessie soms bewust een tekort ontstaan?",
+"o": [
+"Om de bestedingen te stimuleren (anticyclisch beleid)",
+"Omdat de EMU-normen dat verplichten",
+"Om de inflatie te verhogen",
+"Om de staatsschuld te verlagen"
+],
+"a": 0,
+"u": "In een recessie vallen de bestedingen terug. Extra overheidsbestedingen of lagere belastingen houden de vraag op peil."
+},
+{
+"id": "E.v10.4.k01",
+"t": "koppel",
+"e": "E.overheid",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"EMU-saldo",
+"Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar."
+],
+[
+"EMU-schuld",
+"De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden."
+],
+[
+"EMU-normen",
+"Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp."
+]
+],
+"u": "EMU-saldo: Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar. EMU-schuld: De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden. EMU-normen: Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp."
+},
+{
+"id": "E.v10.4.b01",
+"t": "mc",
+"e": "E.overheid",
+"b": "EMU-saldo",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar.\"",
+"o": [
+"EMU-saldo",
+"ZBO",
+"Quasi-collectief goed",
+"Directe belasting"
+],
+"a": 0,
+"u": "EMU-saldo: Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar."
+},
+{
+"id": "E.v10.4.b02",
+"t": "mc",
+"e": "E.overheid",
+"b": "EMU-schuld",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden.\"",
+"o": [
+"EMU-schuld",
+"Gemiddelde belastingdruk",
+"Profijtbeginsel",
+"Marginaal belastingtarief"
+],
+"a": 0,
+"u": "EMU-schuld: De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden."
+},
+{
+"id": "E.v10.4.b03",
+"t": "mc",
+"e": "E.overheid",
+"b": "EMU-normen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp.\"",
+"o": [
+"EMU-normen",
+"ZBO",
+"EMU-schuld",
+"Gemiddelde belastingdruk"
+],
+"a": 0,
+"u": "EMU-normen: Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp."
+},
+{
+"id": "E.v10.4.b04",
+"t": "mc",
+"e": "E.overheid",
+"b": "Noemereffect",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De schuldquote daalt doordat het bbp sneller groeit dan de schuld.\"",
+"o": [
+"Noemereffect",
+"Overheidsbestedingen",
+"EMU-schuld",
+"Gemiddelde belastingdruk"
+],
+"a": 0,
+"u": "Noemereffect: De schuldquote daalt doordat het bbp sneller groeit dan de schuld."
+},
+{
+"id": "E.v10.4.b05",
+"t": "mc",
+"e": "E.overheid",
+"b": "Staatsobligatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Schuldbewijs waarmee de overheid geld leent.\"",
+"o": [
+"Staatsobligatie",
+"ZBO",
+"Harberger-driehoek",
+"Directe belasting"
+],
+"a": 0,
+"u": "Staatsobligatie: Schuldbewijs waarmee de overheid geld leent."
+}
+],
+"gens": [
+"begrotingssaldo"
+],
+"doel": "Hoe ontstaan het saldo van de collectieve sector en de staatsschuld?",
+"uitleg": [
+{
+"t": "EMU-saldo",
+"x": "Het EMU-saldo is het verschil tussen de inkomsten en de uitgaven van de hele collectieve sector in een jaar. Inkomsten groter dan uitgaven: overschot. Kleiner: tekort.\nEMU-saldoquote = EMU-saldo / bbp × 100%."
+},
+{
+"t": "Van tekort naar schuld",
+"x": "Een tekort wordt gefinancierd door te lenen, bijvoorbeeld met staatsobligaties. Daardoor stijgt de EMU-schuld. Met een overschot kan schuld worden afgelost.\nEMU-schuldquote = EMU-schuld / bbp × 100%.\nEMU-normen: tekort maximaal 3% van het bbp, schuld maximaal 60% van het bbp.\nNoemereffect: groeit het bbp harder dan de schuld, dan daalt de schuldquote zonder dat er wordt afgelost."
+},
+{
+"t": "Is een tekort erg?",
+"x": "Een tekort kan nuttig zijn om te investeren in de toekomst (onderwijs, infrastructuur) of om in een recessie de economie te stimuleren (anticyclisch beleid). Bij een lage rente is lenen goedkoop.\nDe schuld is een last voor later als het geld is gebruikt voor consumptie of als de schuld vooral in buitenlandse handen is. Minder als het geld productief is geïnvesteerd of de schuld in handen is van binnenlandse spaarders en pensioenfondsen."
+}
+]
+}
+]);
 LEVELS.F.push(...[
 {
 "id": "F.h7.1",
@@ -11715,6 +13576,3843 @@ LEVELS.G.push(...[
 "x": "De AOW werkt met een omslagstelsel: de premies van de werkenden van nu betalen de uitkeringen van de ouderen van nu. Door vergrijzing komen er meer ouderen per werkende, zodat de premie of de belasting omhoog moet of de uitkering omlaag. Daar staat het kapitaaldekkingsstelsel tegenover (zoals bij aanvullend pensioen): je spaart voor je eigen uitkering."
 }
 ]
+},
+{
+"id": "G.v11.1",
+"hfd": "Hoofdstuk 11 · Risico en verzekeren",
+"niv": "v",
+"naam": "§11.1 Risico, gedrag en verzekeren",
+"kort": "Wat is het verband tussen financiële risico's en verzekeringen?",
+"vragen": [
+{
+"id": "G.v11.1.m01",
+"t": "mc",
+"e": "G.risico",
+"q": "De kans op brand in een woning is 1 op 2.000 per jaar. De schade is dan € 300.000. Hoe groot is de verwachte schade?",
+"o": [
+"€ 150",
+"€ 1.500",
+"€ 300.000",
+"€ 600"
+],
+"a": 0,
+"u": "1/2.000 × 300.000 = € 150. Dat is de zuivere premie."
+},
+{
+"id": "G.v11.1.m02",
+"t": "mc",
+"e": "G.risico",
+"q": "Iemand betaalt € 200 premie voor een risico met een verwachte schade van € 150. Welke risicohouding past hierbij?",
+"o": [
+"Risicoavers",
+"Risiconeutraal",
+"Risicozoekend",
+"Risicoloos"
+],
+"a": 0,
+"u": "Hij betaalt meer dan de verwachte schade om zekerheid te krijgen."
+},
+{
+"id": "G.v11.1.m03",
+"t": "mc",
+"e": "G.risico",
+"q": "Waarom verzekeren mensen zich wel tegen brand, maar meestal niet tegen een kapotte paraplu?",
+"o": [
+"Brand heeft een kleine kans maar zeer grote gevolgen die je zelf niet kunt dragen",
+"Een paraplu gaat nooit kapot",
+"Brandverzekeringen zijn verplicht",
+"Bij een paraplu is de verwachte schade hoger"
+],
+"a": 0,
+"u": "Kleine schades kun je zelf betalen. Verzekeren loont vooral bij grote, onbetaalbare schades."
+},
+{
+"id": "G.v11.1.m04",
+"t": "mc",
+"e": "G.risico",
+"q": "Waaruit bestaat de brutopremie van een schadeverzekering?",
+"o": [
+"Verwachte schade, kosten en winst van de verzekeraar, plus assurantiebelasting",
+"Alleen de verwachte schade",
+"Alleen de kosten van de verzekeraar",
+"De verwachte schade min de assurantiebelasting"
+],
+"a": 0,
+"u": "Zuivere premie + opslag = nettopremie. Met assurantiebelasting erbij wordt het de brutopremie."
+},
+{
+"id": "G.v11.1.k01",
+"t": "koppel",
+"e": "G.risico",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Risico",
+"De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen."
+],
+[
+"Risicoavers",
+"Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde."
+],
+[
+"Risiconeutraal",
+"Alleen kijken naar de verwachte waarde, niet naar de onzekerheid."
+]
+],
+"u": "Risico: De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen. Risicoavers: Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde. Risiconeutraal: Alleen kijken naar de verwachte waarde, niet naar de onzekerheid."
+},
+{
+"id": "G.v11.1.k02",
+"t": "koppel",
+"e": "G.risico",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Risicozoekend",
+"Bewust risico nemen, ook als de verwachte waarde ongunstig is."
+],
+[
+"Verzekering",
+"Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar."
+],
+[
+"Polis",
+"Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking."
+]
+],
+"u": "Risicozoekend: Bewust risico nemen, ook als de verwachte waarde ongunstig is. Verzekering: Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar. Polis: Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking."
+},
+{
+"id": "G.v11.1.b01",
+"t": "mc",
+"e": "G.risico",
+"b": "Risico",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen.\"",
+"o": [
+"Risico",
+"Sociale voorziening",
+"Risiconeutraal",
+"Bonus-malussysteem"
+],
+"a": 0,
+"u": "Risico: De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen."
+},
+{
+"id": "G.v11.1.b02",
+"t": "mc",
+"e": "G.risico",
+"b": "Risicoavers",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde.\"",
+"o": [
+"Risicoavers",
+"Inboedelverzekering",
+"Risicozoekend",
+"Risicodraagvlak"
+],
+"a": 0,
+"u": "Risicoavers: Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde."
+},
+{
+"id": "G.v11.1.b03",
+"t": "mc",
+"e": "G.risico",
+"b": "Risiconeutraal",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Alleen kijken naar de verwachte waarde, niet naar de onzekerheid.\"",
+"o": [
+"Risiconeutraal",
+"Verzekeringsdruk",
+"Armoedeval",
+"Sociale voorziening"
+],
+"a": 0,
+"u": "Risiconeutraal: Alleen kijken naar de verwachte waarde, niet naar de onzekerheid."
+},
+{
+"id": "G.v11.1.b04",
+"t": "mc",
+"e": "G.risico",
+"b": "Risicozoekend",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bewust risico nemen, ook als de verwachte waarde ongunstig is.\"",
+"o": [
+"Risicozoekend",
+"Averechtse selectie",
+"Premiedifferentiatie",
+"Armoedeval"
+],
+"a": 0,
+"u": "Risicozoekend: Bewust risico nemen, ook als de verwachte waarde ongunstig is."
+},
+{
+"id": "G.v11.1.b05",
+"t": "mc",
+"e": "G.risico",
+"b": "Verzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar.\"",
+"o": [
+"Verzekering",
+"Eigen risico",
+"Acceptatieplicht",
+"Sociale verzekering"
+],
+"a": 0,
+"u": "Verzekering: Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar."
+},
+{
+"id": "G.v11.1.b06",
+"t": "mc",
+"e": "G.risico",
+"b": "Polis",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking.\"",
+"o": [
+"Polis",
+"Averechtse selectie",
+"Risicoavers",
+"Armoedeval"
+],
+"a": 0,
+"u": "Polis: Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking."
+},
+{
+"id": "G.v11.1.b07",
+"t": "mc",
+"e": "G.risico",
+"b": "Assurantiebelasting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting die de overheid heft over de premie van schadeverzekeringen.\"",
+"o": [
+"Assurantiebelasting",
+"WIA",
+"Armoedeval",
+"Eigen risico"
+],
+"a": 0,
+"u": "Assurantiebelasting: Belasting die de overheid heft over de premie van schadeverzekeringen."
+},
+{
+"t": "open",
+"titel": "Een drone voor de fotografie",
+"q": "Bram maakt luchtfoto's voor makelaars. Zijn drone is € 2.000 waard. Uit ervaring van andere piloten blijkt dat de kans op een crash met totale schade 4% per jaar is. Een verzekeraar biedt een dekking aan voor € 100 premie per jaar. Bram sluit de verzekering af en noemt zichzelf risico-avers.\nLeg uit waarom Brams risico-aversie ervoor zorgt dat hij zich verzekert. Gebruik de verwachte schade per jaar in je uitleg.\nDoe het als volgt: bereken de verwachte schade per jaar; vergelijk die met de premie; leg uit wat dit zegt over Brams houding tegenover risico.",
+"model": "Verwachte schade = 0,04 × € 2.000 = € 80 per jaar (1).\nDe premie (€ 100) is hoger dan de verwachte schade (€ 80): Bram is bereid meer te betalen dan de verwachte schade (1).\nBram is risico-avers: hij wil het risico op een grote schade vermijden en kiest voor zekerheid, dus hij verzekert zich (1).",
+"pnt": 3,
+"id": "G.v11.1.IT00541",
+"e": "G.risico"
+},
+{
+"t": "open",
+"titel": "Voorraad in de opslagruimte van een webshop",
+"q": "Ilse heeft een kleine webshop in sportvoeding. Haar voorraad ligt in een gehuurde opslagruimte en is € 25.000 waard. De kans dat in een jaar brand de hele voorraad vernietigt, is 0,5%. Een verzekeraar vraagt € 150 premie per jaar.\nIlse sluit de brandverzekering af. Haar broer Teun zegt: 'Dat is weggegooid geld, want de kans op brand is erg klein.'\nLeg uit, met een berekening van de verwachte schade, waarom Ilse met het afsluiten van de verzekering laat zien dat ze risico-avers is.",
+"model": "Verwachte schade = 0,005 × € 25.000 = € 125 per jaar (1).\nDe premie (€ 150) is hoger dan de verwachte schade (€ 125): Ilse betaalt meer dan de verwachte schade (1).\nZe doet dit om het risico op een grote schade (verlies van de hele voorraad) te vermijden: dat is risico-avers gedrag (1).",
+"pnt": 3,
+"id": "G.v11.1.IT00542",
+"e": "G.risico"
+},
+{
+"t": "open",
+"titel": "Drone-verzekering Luchtzeker",
+"q": "Verzekeraar Luchtzeker verzekert hobbydrones tegen schade door een crash. De kans dat een drone in een jaar crasht is 0,04. De gemiddelde schade is € 500 per crash.\nMaak van onderstaande tekst een economisch juiste tekst.\nDe verwachte schade per verzekerde is kans × schade en is dus ...(1)... per jaar. De premie is de verwachte schade ...(2)... de opslag. Luchtzeker vraagt een opslag, omdat het bedrijf ...(3)...\nKies uit: bij (1) € 20 / € 12.500 / € 540; bij (2) plus / min / gedeeld door; bij (3) de kosten en de winst moet kunnen betalen / de kans op schade wil verlagen / het eigen risico van de klant wil betalen.",
+"model": "(1) € 20, want 0,04 × € 500 = € 20. (1)\n(2) plus, want de opslag komt bovenop de verwachte schade. (1)\n(3) de kosten en de winst moet kunnen betalen. (1)",
+"pnt": 3,
+"id": "G.v11.1.IT00531",
+"e": "G.risico"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-II, vraag 6",
+"q": "(Examen vwo 2021-II, vraag 6)\nVerzekerden willen 120% van de verwachte schade als premie betalen. Zijn ze risico-zoekend, risiconeutraal of risico-avers? Licht toe.",
+"model": "Risico-avers. Ze willen meer betalen dan het verwachte schadebedrag, namelijk 120%, om het risico kwijt te zijn.",
+"pnt": 1,
+"id": "G.v11.1.v2021II6",
+"e": "G.risico"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-I, vraag 23",
+"q": "(Examen vwo 2022-I, vraag 23)\nDNB zegt dat de vraaglijn naar uitvaartverzekeringen geleidelijk verschuift, zodat verzekeraar Funus bij een hogere premie toch meer omzet kan halen. Beargumenteer die stelling.",
+"model": "Er komen meer ouderen en zij zijn meer risico-avers. Bij dezelfde premie stijgt de vraag: de vraaglijn verschuift naar rechts. Funus kan de premie verhogen zonder klanten te verliezen, de omzet stijgt, het vermogen en de dekkingsgraad verbeteren.",
+"pnt": 2,
+"id": "G.v11.1.v2022I23",
+"e": "G.risico"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-II, vraag 7",
+"q": "(Examen vwo 2021-II, vraag 7)\nDe uniforme premie wordt verlaagd tot de betalingsbereidheid van groep B (120% van de verwachte schade bij een kans van 7% op € 5.500). Bereken het resultaat van de verzekeraar. Kansen, schadebedragen, aantallen, poliskosten en constante kosten staan in de bron.",
+"model": "Premie = 1,20 × 0,07 × 5.500 = € 462; beide groepen verzekeren zich. Omzet 462 × 25.000 = € 11.550.000. Kosten = 10.000 × 600 + 15.000 × 385 + 25.000 × 25 + 500.000 = € 12.900.000. Resultaat is € −1.350.000 (verlies).",
+"pnt": 2,
+"id": "G.v11.1.v2021II7",
+"e": "G.risico"
+}
+],
+"gens": [
+"verwachteSchade"
+],
+"doel": "Wat is het verband tussen financiële risico's en verzekeringen?",
+"uitleg": [
+{
+"t": "Risico en risicohouding",
+"x": "Risico is de kans dat een onzeker voorval gebeurt, samen met de omvang van de gevolgen. Verwachte schade = kans × schadebedrag.\n- Risicoavers: je hebt een afkeer van risico en kiest liever zekerheid. Je betaalt daarom premie, ook als die hoger is dan de verwachte schade.\n- Risiconeutraal: je kijkt alleen naar de verwachte waarde (kans × bedrag).\n- Risicozoekend: je neemt bewust risico, ook als de verwachte waarde ongunstig is, bijvoorbeeld bij gokken."
+},
+{
+"t": "De verzekering",
+"x": "Bij een verzekering betaal je premie en draagt de verzekeraar de financiële gevolgen van een onzeker voorval. De polis is het bewijs met de voorwaarden.\nDe nettopremie is de verwachte schade plus kosten en winst van de verzekeraar. Over schadeverzekeringen betaal je ook assurantiebelasting: samen is dat de brutopremie.\nJe verzekert vooral risico's met een kleine kans en grote gevolgen die je zelf niet kunt dragen, zoals brand of aansprakelijkheid. Sommige verzekeringen zijn verplicht: de basiszorgverzekering en de WA-autoverzekering."
+}
+]
+},
+{
+"id": "G.v11.2",
+"hfd": "Hoofdstuk 11 · Risico en verzekeren",
+"niv": "v",
+"naam": "§11.2 Moral hazard en averechtse selectie",
+"kort": "Welke rol speelt de beschikbaarheid van informatie bij het afsluiten van een verzekering?",
+"vragen": [
+{
+"id": "G.v11.2.m01",
+"t": "mc",
+"e": "G.info",
+"q": "Na het afsluiten van een reisverzekering laat iemand zijn camera vaker onbeheerd liggen. Hoe heet dit?",
+"o": [
+"Moral hazard",
+"Averechtse selectie",
+"Premiedifferentiatie",
+"Risicoaversie"
+],
+"a": 0,
+"u": "Moral hazard ontstaat ná het afsluiten: je gedrag verandert doordat je verzekerd bent."
+},
+{
+"id": "G.v11.2.m02",
+"t": "mc",
+"e": "G.info",
+"q": "Een verzekeraar vraagt iedereen dezelfde premie. Wat is het gevaar?",
+"o": [
+"Goede risico's haken af, zodat vooral slechte risico's overblijven",
+"Slechte risico's haken af",
+"Verzekerden worden voorzichtiger",
+"De premie daalt steeds verder"
+],
+"a": 0,
+"u": "Dat is averechtse selectie: de gemiddelde premie is voor goede risico's te duur."
+},
+{
+"id": "G.v11.2.m03",
+"t": "mc",
+"e": "G.info",
+"q": "Welke maatregel helpt vooral tegen moral hazard?",
+"o": [
+"Een eigen risico",
+"Een acceptatieplicht",
+"Een verbod op premiedifferentiatie",
+"Een gemiddelde premie voor iedereen"
+],
+"a": 0,
+"u": "Met een eigen risico betaal je een deel van de schade zelf, dus loont voorzichtig zijn weer."
+},
+{
+"id": "G.v11.2.m04",
+"t": "mc",
+"e": "G.info",
+"q": "Een autoverzekeraar laat de premie afhangen van leeftijd en schadevrije jaren. Welk probleem wordt zo vooral kleiner?",
+"o": [
+"Averechtse selectie",
+"Moral hazard",
+"Inflatie",
+"Meeliftersgedrag"
+],
+"a": 0,
+"u": "Goede risico's betalen dan minder en blijven verzekerd."
+},
+{
+"id": "G.v11.2.k01",
+"t": "koppel",
+"e": "G.info",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Asymmetrische informatie",
+"De ene partij bij een transactie heeft meer of betere informatie dan de andere."
+],
+[
+"Averechtse selectie",
+"Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is."
+],
+[
+"Moral hazard",
+"Mensen gedragen zich onvoorzichtiger zodra ze verzekerd zijn tegen de gevolgen."
+]
+],
+"u": "Asymmetrische informatie: De ene partij bij een transactie heeft meer of betere informatie dan de andere. Averechtse selectie: Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is. Moral hazard: Mensen gedragen zich onvoorzichtiger zodra ze verzekerd zijn tegen de gevolgen."
+},
+{
+"id": "G.v11.2.k02",
+"t": "koppel",
+"e": "G.info",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Premiedifferentiatie",
+"De premie laten afhangen van kenmerken die iets zeggen over het risico."
+],
+[
+"Eigen risico",
+"Het deel van de schade dat de verzekerde zelf betaalt."
+],
+[
+"Bonus-malussysteem",
+"Premiekorting bij schadevrije jaren en een hogere premie na een claim."
+]
+],
+"u": "Premiedifferentiatie: De premie laten afhangen van kenmerken die iets zeggen over het risico. Eigen risico: Het deel van de schade dat de verzekerde zelf betaalt. Bonus-malussysteem: Premiekorting bij schadevrije jaren en een hogere premie na een claim."
+},
+{
+"id": "G.v11.2.b01",
+"t": "mc",
+"e": "G.info",
+"b": "Asymmetrische informatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De ene partij bij een transactie heeft meer of betere informatie dan de andere.\"",
+"o": [
+"Asymmetrische informatie",
+"Risico",
+"Risicodraagvlak",
+"WA-verzekering"
+],
+"a": 0,
+"u": "Asymmetrische informatie: De ene partij bij een transactie heeft meer of betere informatie dan de andere."
+},
+{
+"id": "G.v11.2.b02",
+"t": "mc",
+"e": "G.info",
+"b": "Averechtse selectie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is.\"",
+"o": [
+"Averechtse selectie",
+"Polis",
+"Welvaartsvast",
+"Asymmetrische informatie"
+],
+"a": 0,
+"u": "Averechtse selectie: Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is."
+},
+{
+"id": "G.v11.2.b03",
+"t": "mc",
+"e": "G.info",
+"b": "Moral hazard",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen gedragen zich onvoorzichtiger zodra ze verzekerd zijn tegen de gevolgen.\"",
+"o": [
+"Moral hazard",
+"Assurantiebelasting",
+"Bonus-malussysteem",
+"Polis"
+],
+"a": 0,
+"u": "Moral hazard: Mensen gedragen zich onvoorzichtiger zodra ze verzekerd zijn tegen de gevolgen."
+},
+{
+"id": "G.v11.2.b04",
+"t": "mc",
+"e": "G.info",
+"b": "Premiedifferentiatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De premie laten afhangen van kenmerken die iets zeggen over het risico.\"",
+"o": [
+"Premiedifferentiatie",
+"Eigen risico",
+"Bonus-malussysteem",
+"Verzekeringsdruk"
+],
+"a": 0,
+"u": "Premiedifferentiatie: De premie laten afhangen van kenmerken die iets zeggen over het risico."
+},
+{
+"id": "G.v11.2.b05",
+"t": "mc",
+"e": "G.info",
+"b": "Eigen risico",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van de schade dat de verzekerde zelf betaalt.\"",
+"o": [
+"Eigen risico",
+"Risicozoekend",
+"WIA",
+"Risicodraagvlak"
+],
+"a": 0,
+"u": "Eigen risico: Het deel van de schade dat de verzekerde zelf betaalt."
+},
+{
+"id": "G.v11.2.b06",
+"t": "mc",
+"e": "G.info",
+"b": "Bonus-malussysteem",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Premiekorting bij schadevrije jaren en een hogere premie na een claim.\"",
+"o": [
+"Bonus-malussysteem",
+"Armoedeval",
+"Participatiewet",
+"Verzekeringsdruk"
+],
+"a": 0,
+"u": "Bonus-malussysteem: Premiekorting bij schadevrije jaren en een hogere premie na een claim."
+},
+{
+"id": "G.v11.2.b07",
+"t": "mc",
+"e": "G.info",
+"b": "Verzekeringsdruk",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Premie aan schadeverzekeringen per inwoner als percentage van het bbp per inwoner.\"",
+"o": [
+"Verzekeringsdruk",
+"Waardevast",
+"Premiedifferentiatie",
+"Polis"
+],
+"a": 0,
+"u": "Verzekeringsdruk: Premie aan schadeverzekeringen per inwoner als percentage van het bbp per inwoner."
+},
+{
+"t": "open",
+"titel": "Inboedelverzekering voor studenten",
+"q": "Verzekeraar StudieSafe biedt een inboedelverzekering aan voor studenten met een kamer. Iedere student betaalt dezelfde premie van € 90 per jaar, ook al verschilt het risico per student sterk.\nSommige studenten wonen in een veilige straat en sluiten altijd hun deur af. Andere studenten wonen in een buurt met veel inbraken en laten hun fiets en laptop vaak onbeheerd achter.\nGeef aan wat averechtse selectie is en welke studenten zich bij deze verzekering wel en welke niet zullen verzekeren.",
+"model": "Averechtse selectie: bij één premie voor iedereen verzekeren zich vooral de slechte risico's; de goede risico's haken af (1).\nStudenten met een hoog risico (inbraakbuurt, onvoorzichtig) verzekeren zich wel. Studenten met een laag risico (veilige straat, voorzichtig) vinden de premie te hoog en verzekeren zich niet (1).",
+"pnt": 2,
+"id": "G.v11.2.IT00543",
+"e": "G.info"
+},
+{
+"t": "open",
+"titel": "Hondenverzekering",
+"q": "Verzekeraar PootZeker verkoopt een verzekering die de dierenartskosten van honden vergoedt. Iedere eigenaar betaalt dezelfde premie. De verzekeraar weet niet hoe gezond een hond is. De eigenaar weet dat wel: sommige honden hebben een erfelijke ziekte, andere zijn kerngezond. Na een jaar blijkt dat vooral eigenaren van zieke honden zijn verzekerd.\nLeg uit hoe de premie van PootZeker daardoor moet stijgen.\nDoe het als volgt: noem het soort informatieprobleem dat hier speelt; leg uit wat er gebeurt met eigenaren van gezonde honden; leg uit wat dit betekent voor de gemiddelde schade en de premie.",
+"model": "Asymmetrische informatie: de eigenaar kent het risico van zijn hond beter dan de verzekeraar, dus de verzekeraar vraagt één premie voor iedereen (1).\nEigenaren van gezonde honden (goede risico's) vinden de premie te hoog en verzekeren zich niet meer: averechtse selectie (1).\nEr blijven vooral slechte risico's over, dus de gemiddelde schade per verzekerde stijgt en de premie moet omhoog (1).",
+"pnt": 3,
+"id": "G.v11.2.IT00544",
+"e": "G.info"
+},
+{
+"t": "open",
+"titel": "Caravanverzekering",
+"q": "Verzekeraar KampeerVrij verzekert caravans tegen storm- en inbraakschade. In het eerste jaar was de premie voor alle caravanbezitters gelijk, namelijk € 200. De verzekeraar kan niet controleren hoe goed een bezitter zijn caravan stalt en beveiligt.\nIn het tweede jaar zegt een deel van de bezitters de verzekering op. Het zijn vooral mensen met een afgesloten stalling en een alarm. KampeerVrij verhoogt de premie naar € 260.\nLeg uit dat de premiestijging bij KampeerVrij het gevolg is van averechtse selectie.",
+"model": "Bezitters met een laag risico (stalling en alarm) vinden de gelijke premie te hoog en zeggen op (1).\nEr blijven vooral bezitters met een hoog risico over, dus de gemiddelde schade per verzekerde stijgt (1).\nDe verzekeraar moet de premie verhogen om de schade te kunnen betalen (1).",
+"pnt": 3,
+"id": "G.v11.2.IT00545",
+"e": "G.info"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-II, vraag 7",
+"q": "(Examen vwo 2019-II, vraag 7)\nDe zorgverzekering wordt verplicht. Leg uit dat zonder verzekeringsplicht averechtse selectie kan optreden.",
+"model": "Goede risico's laten zich niet verzekeren, waardoor de verzekeraar vooral slechte risico's overhoudt en de premie moet stijgen (1). Daardoor vallen nog meer goede risico's af (1).",
+"pnt": 2,
+"id": "G.v11.2.v2019II7",
+"e": "G.info"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-II, vraag 9",
+"q": "(Examen vwo 2021-II, vraag 9)\nLeg uit dat het totale surplus op de verzekeringsmarkt stijgt als ook mensen met een laag risico zich verzekeren.",
+"model": "Deze mensen krijgen nu consumentensurplus op de verzekeringsmarkt, dus het totale surplus stijgt. Of: er zijn meer verzekerden, de verzekeraars verkopen meer polissen en het producentensurplus stijgt, dus ook het totale surplus.",
+"pnt": 2,
+"id": "G.v11.2.v2021II9",
+"e": "G.info"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-III, vraag 2",
+"q": "(Examen vwo 2021-III, vraag 2)\nEen club biedt speelsters een vast salaris of een laag vast salaris plus een bedrag per gespeelde wedstrijd. De directeur verwacht dat averechtse selectie eerder bij het vaste salaris optreedt. Leg die verwachting uit.",
+"model": "Het vaste salaris hangt niet af van fitheid of prestaties. Vooral minder fitte speelsters melden zich aan, omdat ze daar meer verdienen dan bij een variabele beloning.",
+"pnt": 2,
+"id": "G.v11.2.v2021III2",
+"e": "G.info"
+}
+],
+"gens": [],
+"doel": "Welke rol speelt de beschikbaarheid van informatie bij het afsluiten van een verzekering?",
+"uitleg": [
+{
+"t": "Asymmetrische informatie",
+"x": "De verzekerde weet meer over zijn eigen risico en gedrag dan de verzekeraar. Dat is asymmetrische informatie. Het leidt tot twee problemen."
+},
+{
+"t": "Averechtse selectie (vóór het afsluiten)",
+"x": "De verzekeraar kan goede en slechte risico's niet onderscheiden en vraagt een gemiddelde premie. Voor goede risico's is die te hoog: zij haken af. Er blijven vooral slechte risico's over, de schade per verzekerde stijgt en de premie moet omhoog.\nDe slechte risico's verdrijven zo de goede risico's van de markt.\nOplossingen: premiedifferentiatie (premie naar leeftijd, woonplaats, schadevrije jaren) of een verzekeringsplicht. Premiedifferentiatie gaat ten koste van de solidariteit."
+},
+{
+"t": "Moral hazard (na het afsluiten)",
+"x": "Wie verzekerd is, gaat zich onvoorzichtiger gedragen, omdat hij de schade niet zelf betaalt. Bijvoorbeeld de fiets minder goed op slot zetten.\nOplossingen: eigen risico, een bonus-malussysteem en preventie-eisen (zoals goedgekeurde sloten).\nVerzekeringsdruk = premie aan schadeverzekeringen per hoofd / bbp per hoofd × 100%."
+}
+]
+},
+{
+"id": "G.v11.3",
+"hfd": "Hoofdstuk 11 · Risico en verzekeren",
+"niv": "v",
+"naam": "§11.3 Particuliere verzekeringen",
+"kort": "Wat zijn de kenmerken van enkele veel afgesloten particuliere verzekeringen?",
+"vragen": [
+{
+"id": "G.v11.3.m01",
+"t": "mc",
+"e": "G.risico",
+"q": "Waarom geldt voor de basiszorgverzekering een acceptatieplicht én een verbod op premiedifferentiatie?",
+"o": [
+"Om solidariteit tussen gezond en ziek te garanderen en averechtse selectie te voorkomen",
+"Om moral hazard te voorkomen",
+"Omdat zorg een collectief goed is",
+"Omdat verzekeraars anders te weinig winst maken"
+],
+"a": 0,
+"u": "Iedereen moet verzekerd zijn tegen dezelfde premie. Zieke mensen worden zo niet uitgesloten en gezonde mensen kunnen niet afhaken."
+},
+{
+"id": "G.v11.3.m02",
+"t": "mc",
+"e": "G.risico",
+"q": "Iemand kiest vrijwillig voor het maximale eigen risico in ruil voor een lagere premie. Wat doet hij economisch gezien?",
+"o": [
+"Hij geeft het signaal dat hij een goed risico is",
+"Hij vertoont moral hazard",
+"Hij vergroot de averechtse selectie",
+"Hij is risicozoekend"
+],
+"a": 0,
+"u": "Signalering: alleen wie weinig zorgkosten verwacht, kiest een hoog eigen risico."
+},
+{
+"id": "G.v11.3.m03",
+"t": "mc",
+"e": "G.risico",
+"q": "Je schoorsteen waait van het dak en beschadigt het dak. Welke verzekering dekt dit?",
+"o": [
+"De opstalverzekering",
+"De inboedelverzekering",
+"De AVP",
+"De reisverzekering"
+],
+"a": 0,
+"u": "Het dak is aard- en nagelvast: dat valt onder de opstal."
+},
+{
+"id": "G.v11.3.m04",
+"t": "mc",
+"e": "G.risico",
+"q": "Waarom is de prijselasticiteit van de vraag naar basiszorg laag?",
+"o": [
+"Zorg is noodzakelijk en de patiënt betaalt door de verzekering de prijs niet direct zelf",
+"Zorg is een luxegoed",
+"Er zijn veel goedkope vervangende goederen",
+"De overheid verbiedt prijsstijgingen"
+],
+"a": 0,
+"u": "Bij noodzakelijke goederen zonder goede vervangers reageert de vraag weinig op de prijs."
+},
+{
+"id": "G.v11.3.k01",
+"t": "koppel",
+"e": "G.risico",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Risicodraagvlak",
+"De groep verzekerden waarover de risico's worden gespreid."
+],
+[
+"Acceptatieplicht",
+"De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid."
+],
+[
+"Signalering",
+"Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen."
+]
+],
+"u": "Risicodraagvlak: De groep verzekerden waarover de risico's worden gespreid. Acceptatieplicht: De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid. Signalering: Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen."
+},
+{
+"id": "G.v11.3.k02",
+"t": "koppel",
+"e": "G.risico",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"WA-verzekering",
+"Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt."
+],
+[
+"Opstalverzekering",
+"Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit."
+],
+[
+"Inboedelverzekering",
+"Verzekering voor schade aan de verplaatsbare spullen in je huis."
+]
+],
+"u": "WA-verzekering: Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt. Opstalverzekering: Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit. Inboedelverzekering: Verzekering voor schade aan de verplaatsbare spullen in je huis."
+},
+{
+"id": "G.v11.3.b01",
+"t": "mc",
+"e": "G.risico",
+"b": "Risicodraagvlak",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De groep verzekerden waarover de risico's worden gespreid.\"",
+"o": [
+"Risicodraagvlak",
+"Participatiewet",
+"Risiconeutraal",
+"Bonus-malussysteem"
+],
+"a": 0,
+"u": "Risicodraagvlak: De groep verzekerden waarover de risico's worden gespreid."
+},
+{
+"id": "G.v11.3.b02",
+"t": "mc",
+"e": "G.risico",
+"b": "Acceptatieplicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid.\"",
+"o": [
+"Acceptatieplicht",
+"Averechtse selectie",
+"Armoedeval",
+"Asymmetrische informatie"
+],
+"a": 0,
+"u": "Acceptatieplicht: De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid."
+},
+{
+"id": "G.v11.3.b03",
+"t": "mc",
+"e": "G.risico",
+"b": "Signalering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen.\"",
+"o": [
+"Signalering",
+"Opstalverzekering",
+"Assurantiebelasting",
+"Premiedifferentiatie"
+],
+"a": 0,
+"u": "Signalering: Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen."
+},
+{
+"id": "G.v11.3.b04",
+"t": "mc",
+"e": "G.risico",
+"b": "WA-verzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt.\"",
+"o": [
+"WA-verzekering",
+"Risico",
+"Asymmetrische informatie",
+"Risicozoekend"
+],
+"a": 0,
+"u": "WA-verzekering: Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt."
+},
+{
+"id": "G.v11.3.b05",
+"t": "mc",
+"e": "G.risico",
+"b": "Opstalverzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit.\"",
+"o": [
+"Opstalverzekering",
+"Welvaartsvast",
+"Eigen risico",
+"Risico"
+],
+"a": 0,
+"u": "Opstalverzekering: Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit."
+},
+{
+"id": "G.v11.3.b06",
+"t": "mc",
+"e": "G.risico",
+"b": "Inboedelverzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verzekering voor schade aan de verplaatsbare spullen in je huis.\"",
+"o": [
+"Inboedelverzekering",
+"Premiedifferentiatie",
+"Welvaartsvast",
+"Participatiewet"
+],
+"a": 0,
+"u": "Inboedelverzekering: Verzekering voor schade aan de verplaatsbare spullen in je huis."
+},
+{
+"t": "open",
+"titel": "Groepsrit op de racefiets",
+"q": "Fenna is wielrenster en rijdt mee in een groepsrit van 80 kilometer. Onderweg lopen zij en haar clubgenoten drie risico's.\nRisico 1: Fenna neemt geen drinken mee. Door uitdroging wordt ze duizelig en valt ze.\nRisico 2: een andere renner raakt haar achterwiel. Fenna valt.\nRisico 3: een vrachtwagen heeft olie op het wegdek verloren. Fenna glijdt weg in een bocht.\nGeef van elk van de drie risico's aan of het vrijwillig of onvrijwillig is. Verklaar elke keuze kort.",
+"model": "Risico 1: vrijwillig. Fenna kan er zelf iets aan doen door drinken mee te nemen. (1)\nRisico 2: onvrijwillig. Een andere renner veroorzaakt de val en Fenna kan dat niet bepalen. (1)\nRisico 3: onvrijwillig. De olie komt van een ander en Fenna heeft er niet om gevraagd. (1)\nPer risico 1 punt voor een juiste keuze met een juiste verklaring.",
+"pnt": 3,
+"id": "G.v11.3.IT00529",
+"e": "G.risico"
+},
+{
+"t": "open",
+"titel": "Hyrox-training",
+"q": "Noor doet mee aan een Hyrox-wedstrijd. Haar trainer heeft haar gezegd dat ze zich eerst goed moet opwarmen. Noor slaat het opwarmen toch over, omdat ze haast heeft. Tijdens de eerste onderdelen trekt ze een spier in haar bovenbeen. Ze kan niet meer verder.\nIs de blessure van Noor het gevolg van een vrijwillig of van een onvrijwillig risico? Motiveer je keuze.",
+"model": "Het is een vrijwillig risico (1). Noor kon zelf bepalen of ze zich opwarmde. Er is geen ander die de blessure veroorzaakt; ze had dit risico zelf kunnen verkleinen (1).\nEen keuze zonder motivering, of met een foute motivering, levert geen punten op.",
+"pnt": 2,
+"id": "G.v11.3.IT00530",
+"e": "G.risico"
+}
+],
+"gens": [],
+"doel": "Wat zijn de kenmerken van enkele veel afgesloten particuliere verzekeringen?",
+"uitleg": [
+{
+"t": "Risicodraagvlak en verplichting",
+"x": "Hoe groter de groep verzekerden, hoe beter de risico's gespreid zijn en hoe voorspelbaarder de totale schade (groot risicodraagvlak).\nEen verzekeringsplicht (WA, basiszorg) voorkomt averechtse selectie, zorgt voor solidariteit tussen goede en slechte risico's en voorkomt dat anderen opdraaien voor onbetaalde schade."
+},
+{
+"t": "Veel afgesloten verzekeringen",
+"x": "- AVP: schade die je per ongeluk aan anderen toebrengt. Niet verplicht, wel gebruikelijk.\n- Auto: WA is verplicht (schade aan anderen). Beperkt casco en allrisk dekken ook je eigen auto. Er geldt een bonus-malusladder.\n- Opstal: het huis zelf en alles wat aard- en nagelvast zit. Inboedel: je spullen in huis.\n- Reis- en annuleringsverzekering."
+},
+{
+"t": "De zorgverzekering",
+"x": "De basisverzekering is verplicht en de overheid bepaalt het pakket. Er geldt een acceptatieplicht en een verbod op premiedifferentiatie: iedereen betaalt dezelfde premie (solidariteit tussen gezond en ziek). Er is een verplicht eigen risico, dat je vrijwillig kunt verhogen.\nDe aanvullende verzekering is vrijwillig: geen acceptatieplicht en wel premiedifferentiatie.\nWie vrijwillig een hoger eigen risico kiest, geeft een signaal dat hij weinig zorgkosten verwacht (signalering).\nDe vraag naar basiszorg is zeer prijsinelastisch: zorg is noodzakelijk en je voelt de prijs nauwelijks."
+}
+]
+},
+{
+"id": "G.v11.4",
+"hfd": "Hoofdstuk 11 · Risico en verzekeren",
+"niv": "v",
+"naam": "§11.4 Sociale zekerheid",
+"kort": "Hoe is het stelsel van sociale zekerheid in Nederland georganiseerd?",
+"vragen": [
+{
+"id": "G.v11.4.m01",
+"t": "mc",
+"e": "G.soczek",
+"q": "Waaruit wordt de bijstand betaald?",
+"o": [
+"Uit de algemene middelen (belastingen)",
+"Uit WW-premies",
+"Uit AOW-premies",
+"Uit de premies van de zorgverzekering"
+],
+"a": 0,
+"u": "De bijstand is een sociale voorziening: er is vooraf geen premie voor betaald."
+},
+{
+"id": "G.v11.4.m02",
+"t": "mc",
+"e": "G.soczek",
+"q": "De lonen stijgen met 3% en de prijzen met 2%. Een uitkering stijgt met 3%. Hoe heet deze koppeling?",
+"o": [
+"Welvaartsvast",
+"Waardevast",
+"Nominaal vast",
+"Reëel vast"
+],
+"a": 0,
+"u": "De uitkering volgt de lonen, dus groeit mee met de welvaart."
+},
+{
+"id": "G.v11.4.m03",
+"t": "mc",
+"e": "G.soczek",
+"q": "Iemand in de bijstand kan een baan krijgen, maar verliest dan ook huurtoeslag en zorgtoeslag. Netto gaat hij er € 20 per maand op vooruit. Hoe heet dit?",
+"o": [
+"De armoedeval",
+"Moral hazard",
+"Averechtse selectie",
+"De wig"
+],
+"a": 0,
+"u": "Meer werken levert bijna niets op doordat toeslagen en uitkering wegvallen."
+},
+{
+"id": "G.v11.4.m04",
+"t": "mc",
+"e": "G.soczek",
+"q": "Welke regeling is een werknemersverzekering?",
+"o": [
+"De WW",
+"De AOW",
+"De kinderbijslag (AKW)",
+"De Participatiewet"
+],
+"a": 0,
+"u": "De WW geldt alleen voor werknemers in loondienst en wordt uitgevoerd door het UWV."
+},
+{
+"id": "G.v11.4.k01",
+"t": "koppel",
+"e": "G.soczek",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Sociale verzekering",
+"Verzekering tegen inkomensderving, betaald uit premies."
+],
+[
+"Sociale voorziening",
+"Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand."
+],
+[
+"Participatiewet",
+"Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien."
+]
+],
+"u": "Sociale verzekering: Verzekering tegen inkomensderving, betaald uit premies. Sociale voorziening: Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand. Participatiewet: Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien."
+},
+{
+"id": "G.v11.4.k02",
+"t": "koppel",
+"e": "G.soczek",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"WIA",
+"Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid."
+],
+[
+"Waardevast",
+"Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft."
+],
+[
+"Welvaartsvast",
+"Een uitkering die meestijgt met de gemiddelde lonen."
+]
+],
+"u": "WIA: Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid. Waardevast: Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft. Welvaartsvast: Een uitkering die meestijgt met de gemiddelde lonen."
+},
+{
+"id": "G.v11.4.b01",
+"t": "mc",
+"e": "G.soczek",
+"b": "Sociale verzekering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verzekering tegen inkomensderving, betaald uit premies.\"",
+"o": [
+"Sociale verzekering",
+"Risico",
+"Assurantiebelasting",
+"Armoedeval"
+],
+"a": 0,
+"u": "Sociale verzekering: Verzekering tegen inkomensderving, betaald uit premies."
+},
+{
+"id": "G.v11.4.b02",
+"t": "mc",
+"e": "G.soczek",
+"b": "Sociale voorziening",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand.\"",
+"o": [
+"Sociale voorziening",
+"WA-verzekering",
+"Risicodraagvlak",
+"Eigen risico"
+],
+"a": 0,
+"u": "Sociale voorziening: Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand."
+},
+{
+"id": "G.v11.4.b03",
+"t": "mc",
+"e": "G.soczek",
+"b": "Participatiewet",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien.\"",
+"o": [
+"Participatiewet",
+"Premiedifferentiatie",
+"Signalering",
+"Risicodraagvlak"
+],
+"a": 0,
+"u": "Participatiewet: Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien."
+},
+{
+"id": "G.v11.4.b04",
+"t": "mc",
+"e": "G.soczek",
+"b": "WIA",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid.\"",
+"o": [
+"WIA",
+"Eigen risico",
+"Participatiewet",
+"Polis"
+],
+"a": 0,
+"u": "WIA: Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid."
+},
+{
+"id": "G.v11.4.b05",
+"t": "mc",
+"e": "G.soczek",
+"b": "Waardevast",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft.\"",
+"o": [
+"Waardevast",
+"WA-verzekering",
+"Risicodraagvlak",
+"Acceptatieplicht"
+],
+"a": 0,
+"u": "Waardevast: Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft."
+},
+{
+"id": "G.v11.4.b06",
+"t": "mc",
+"e": "G.soczek",
+"b": "Welvaartsvast",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een uitkering die meestijgt met de gemiddelde lonen.\"",
+"o": [
+"Welvaartsvast",
+"Sociale voorziening",
+"Risico",
+"Inboedelverzekering"
+],
+"a": 0,
+"u": "Welvaartsvast: Een uitkering die meestijgt met de gemiddelde lonen."
+},
+{
+"id": "G.v11.4.b07",
+"t": "mc",
+"e": "G.soczek",
+"b": "Armoedeval",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Wie gaat werken of meer werkt, gaat er nauwelijks op vooruit doordat uitkeringen en toeslagen wegvallen.\"",
+"o": [
+"Armoedeval",
+"Welvaartsvast",
+"Verzekering",
+"Waardevast"
+],
+"a": 0,
+"u": "Armoedeval: Wie gaat werken of meer werkt, gaat er nauwelijks op vooruit doordat uitkeringen en toeslagen wegvallen."
+}
+],
+"gens": [],
+"doel": "Hoe is het stelsel van sociale zekerheid in Nederland georganiseerd?",
+"uitleg": [
+{
+"t": "Doel en opbouw",
+"x": "Sociale zekerheid beschermt tegen inkomensderving (werkloosheid, ziekte, arbeidsongeschiktheid, ouderdom) en bijzondere lasten (zorg, kinderen). Het is gebaseerd op solidariteit.\nSociale verzekeringen worden betaald uit premies (omslagstelsel). Sociale voorzieningen worden betaald uit belastingen."
+},
+{
+"t": "Het stelsel",
+"x": "Volksverzekeringen (voor iedereen, SVB): AOW (ouderdom), Anw (nabestaanden), AKW (kinderbijslag), Wlz (langdurige zorg).\nWerknemersverzekeringen (werknemers, UWV): WW (werkloosheid) en WIA (arbeidsongeschiktheid, na 2 jaar loondoorbetaling door de werkgever).\nSociale voorzieningen (uit belastingen): de Participatiewet (bijstand via de gemeente, een vangnet) en de Wajong (jonggehandicapten)."
+},
+{
+"t": "Waardevast, welvaartsvast en de armoedeval",
+"x": "Waardevast: een uitkering stijgt met de inflatie, de koopkracht blijft gelijk. Welvaartsvast: een uitkering stijgt met de lonen, je profiteert mee van de welvaartsgroei. AOW en bijstand zijn gekoppeld aan het minimumloon.\nDe armoedeval: wie gaat werken of meer gaat werken, gaat er nauwelijks op vooruit, omdat de uitkering en inkomensafhankelijke toeslagen (huurtoeslag, zorgtoeslag) wegvallen en er belasting betaald moet worden. Dat remt de prikkel om te werken."
+}
+]
+},
+{
+"id": "G.v12.1",
+"hfd": "Hoofdstuk 12 · Risico, beleggen en ondernemen",
+"niv": "v",
+"naam": "§12.1 Beleggen in aandelen",
+"kort": "Wat zijn de voor- en nadelen van beleggen in aandelen?",
+"vragen": [
+{
+"id": "G.v12.1.m01",
+"t": "mc",
+"e": "G.finan",
+"q": "Je koopt een aandeel voor € 40. Je ontvangt € 2 dividend en verkoopt het aandeel na een jaar voor € 44. Wat is je aandelenrendement?",
+"o": [
+"15%",
+"10%",
+"5%",
+"6%"
+],
+"a": 0,
+"u": "Dividendrendement 2/40 = 5%, koersrendement 4/40 = 10%, samen 15%."
+},
+{
+"id": "G.v12.1.m02",
+"t": "mc",
+"e": "G.finan",
+"q": "De ECB verhoogt de rente sterk. Wat gebeurt er waarschijnlijk met de aandelenkoersen?",
+"o": [
+"Die dalen",
+"Die stijgen",
+"Die blijven gelijk",
+"Alleen het dividend stijgt"
+],
+"a": 0,
+"u": "Sparen en obligaties worden aantrekkelijker en bedrijven betalen meer rente, dus hun verwachte winst daalt."
+},
+{
+"id": "G.v12.1.m03",
+"t": "mc",
+"e": "G.finan",
+"q": "Welke instantie controleert of een bank klanten eerlijk informeert over een beleggingsproduct?",
+"o": [
+"De AFM (gedragstoezicht)",
+"DNB (prudentieel toezicht)",
+"De ECB",
+"Het UWV"
+],
+"a": 0,
+"u": "De AFM let op het gedrag van financiële instellingen tegenover klanten."
+},
+{
+"id": "G.v12.1.m04",
+"t": "mc",
+"e": "G.finan",
+"q": "Waarom kan het depositogarantiestelsel leiden tot moral hazard?",
+"o": [
+"Spaarders letten minder op hoe veilig hun bank is, zodat banken meer risico kunnen nemen",
+"Banken moeten daardoor minder rente betalen",
+"Spaarders sparen daardoor minder",
+"De overheid moet daardoor alle banken bezitten"
+],
+"a": 0,
+"u": "Omdat het geld toch gegarandeerd is, heeft de spaarder weinig prikkel om een voorzichtige bank te kiezen."
+},
+{
+"id": "G.v12.1.k01",
+"t": "koppel",
+"e": "G.finan",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Effecten",
+"Verhandelbare waardepapieren, zoals aandelen en obligaties."
+],
+[
+"Aandeel",
+"Bewijs van deelname in het eigen vermogen van een nv of bv."
+],
+[
+"Dividendrendement",
+"Dividend per aandeel als percentage van de aankoopkoers."
+]
+],
+"u": "Effecten: Verhandelbare waardepapieren, zoals aandelen en obligaties. Aandeel: Bewijs van deelname in het eigen vermogen van een nv of bv. Dividendrendement: Dividend per aandeel als percentage van de aankoopkoers."
+},
+{
+"id": "G.v12.1.k02",
+"t": "koppel",
+"e": "G.finan",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Koersrendement",
+"Koerswinst of -verlies als percentage van de aankoopkoers."
+],
+[
+"Aandelenrendement",
+"Dividendrendement plus koersrendement."
+],
+[
+"Depositogarantiestelsel",
+"Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement."
+]
+],
+"u": "Koersrendement: Koerswinst of -verlies als percentage van de aankoopkoers. Aandelenrendement: Dividendrendement plus koersrendement. Depositogarantiestelsel: Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement."
+},
+{
+"id": "G.v12.1.b01",
+"t": "mc",
+"e": "G.finan",
+"b": "Effecten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verhandelbare waardepapieren, zoals aandelen en obligaties.\"",
+"o": [
+"Effecten",
+"Leverancierskrediet",
+"Aandelenrendement",
+"Nominale waarde"
+],
+"a": 0,
+"u": "Effecten: Verhandelbare waardepapieren, zoals aandelen en obligaties."
+},
+{
+"id": "G.v12.1.b02",
+"t": "mc",
+"e": "G.finan",
+"b": "Aandeel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bewijs van deelname in het eigen vermogen van een nv of bv.\"",
+"o": [
+"Aandeel",
+"Besloten vennootschap",
+"Agent",
+"Efficiëntieloon"
+],
+"a": 0,
+"u": "Aandeel: Bewijs van deelname in het eigen vermogen van een nv of bv."
+},
+{
+"id": "G.v12.1.b03",
+"t": "mc",
+"e": "G.finan",
+"b": "Dividendrendement",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Dividend per aandeel als percentage van de aankoopkoers.\"",
+"o": [
+"Dividendrendement",
+"Effecten",
+"Vennootschap onder firma",
+"Besloten vennootschap"
+],
+"a": 0,
+"u": "Dividendrendement: Dividend per aandeel als percentage van de aankoopkoers."
+},
+{
+"id": "G.v12.1.b04",
+"t": "mc",
+"e": "G.finan",
+"b": "Koersrendement",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Koerswinst of -verlies als percentage van de aankoopkoers.\"",
+"o": [
+"Koersrendement",
+"Principaal-agentrelatie",
+"Eigen vermogen",
+"Gedragstoezicht"
+],
+"a": 0,
+"u": "Koersrendement: Koerswinst of -verlies als percentage van de aankoopkoers."
+},
+{
+"id": "G.v12.1.b05",
+"t": "mc",
+"e": "G.finan",
+"b": "Aandelenrendement",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Dividendrendement plus koersrendement.\"",
+"o": [
+"Aandelenrendement",
+"Eigen vermogen",
+"Leverancierskrediet",
+"Raad van commissarissen"
+],
+"a": 0,
+"u": "Aandelenrendement: Dividendrendement plus koersrendement."
+},
+{
+"id": "G.v12.1.b06",
+"t": "mc",
+"e": "G.finan",
+"b": "Depositogarantiestelsel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement.\"",
+"o": [
+"Depositogarantiestelsel",
+"Aandelenrendement",
+"Efficiëntieloon",
+"Schatkistpapier"
+],
+"a": 0,
+"u": "Depositogarantiestelsel: Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement."
+},
+{
+"id": "G.v12.1.b07",
+"t": "mc",
+"e": "G.finan",
+"b": "Prudentieel toezicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Toezicht van DNB op de financiële gezondheid van banken, verzekeraars en pensioenfondsen.\"",
+"o": [
+"Prudentieel toezicht",
+"Rechtspersoon",
+"Eigen vermogen",
+"Effecten"
+],
+"a": 0,
+"u": "Prudentieel toezicht: Toezicht van DNB op de financiële gezondheid van banken, verzekeraars en pensioenfondsen."
+},
+{
+"id": "G.v12.1.b08",
+"t": "mc",
+"e": "G.finan",
+"b": "Gedragstoezicht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Toezicht van de AFM op hoe financiële instellingen met klanten omgaan en op eerlijke handel.\"",
+"o": [
+"Gedragstoezicht",
+"Efficiëntieloon",
+"Aandeel",
+"Schatkistpapier"
+],
+"a": 0,
+"u": "Gedragstoezicht: Toezicht van de AFM op hoe financiële instellingen met klanten omgaan en op eerlijke handel."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 29",
+"q": "(Examen vwo 2019-I, vraag 29)\nEen adviseur raadt jongeren aandelen aan en ouderen geleidelijk obligaties of een betaalrekening. Verklaar dit verschil in advies.",
+"model": "Jongeren beleggen nog lang, kunnen koersdalingen opvangen en profiteren van het hogere verwachte rendement van aandelen (2 punten). Ouderen hebben een korte horizon waarin dalingen niet te herstellen zijn, dus kiezen ze veiliger beleggingen zoals obligaties (1 punt).",
+"pnt": 3,
+"id": "G.v12.1.v2019I29",
+"e": "G.finan"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 4",
+"q": "(Examen vwo 2021-I, vraag 4)\nLeg uit dat een te sterke loonsverhoging het succes van de uitgifte van nieuwe aandelen van het concern in gevaar kan brengen.",
+"model": "Een te hoge loonsverhoging kan de verwachte winst te laag maken (1). Beleggers verwachten dan te weinig dividend, een dalende koers of een lager rendement op het aandeel. Ze tonen daardoor te weinig interesse in de aandelenuitgifte (1).",
+"pnt": 2,
+"id": "G.v12.1.v2021I4",
+"e": "G.finan"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 12",
+"q": "(Examen vwo 2021-I, vraag 12)\nEen pensioenfonds belegt de eerste twintig jaar vooral in aandelen, daarna vooral in staatsobligaties. De financieel directeur zegt dat dit over de hele periode een relatief hoog rendement bij laag risico geeft. Leg haar argumentatie uit.",
+"model": "Aandelen geven een hoog rendement en hoog risico, maar over twintig jaar is er tijd om een negatieve schok goed te maken (2). Obligaties geven laag rendement en laag risico. Over de hele periode is het rendement dus relatief hoog bij laag risico (1).",
+"pnt": 3,
+"id": "G.v12.1.v2021I12",
+"e": "G.finan"
+}
+],
+"gens": [],
+"doel": "Wat zijn de voor- en nadelen van beleggen in aandelen?",
+"uitleg": [
+{
+"t": "Sparen of beleggen",
+"x": "Een spaarrekening heeft weinig risico en weinig rendement. Door het depositogarantiestelsel is je tegoed tot € 100.000 per persoon per bank gegarandeerd.\nEffecten zijn verhandelbare waardepapieren, zoals aandelen en obligaties. De AEX is de beursindex van de 25 grootste Nederlandse beursfondsen."
+},
+{
+"t": "Aandelen",
+"x": "Een aandeel is een bewijs van deelname in het eigen vermogen van een nv of bv: je bent mede-eigenaar. Van de winst wordt een deel uitgekeerd (dividend) en een deel gereserveerd.\nStijgt de rente, dan dalen aandelenkoersen meestal: sparen en obligaties worden aantrekkelijker en lenen wordt duurder voor bedrijven. Daalt de rente, dan stijgen ze meestal."
+},
+{
+"t": "Rendement",
+"x": "Dividendrendement = dividend per aandeel / aankoopkoers × 100%.\nKoersrendement = (verkoopkoers − aankoopkoers) / aankoopkoers × 100%.\nAandelenrendement = dividendrendement + koersrendement.\nAandelen zijn risicovol (koersrisico; bij faillissement zijn aandeelhouders als laatste aan de beurt), maar leveren op lange termijn gemiddeld meer op dan sparen."
+},
+{
+"t": "Toezicht",
+"x": "Bescherming (zoals depositogarantie of reddingen door de overheid) kan leiden tot moral hazard: banken nemen dan te veel risico.\nTwin Peaks-model: DNB houdt prudentieel toezicht (zijn banken, verzekeraars en pensioenfondsen financieel gezond?). De AFM houdt gedragstoezicht (gaan instellingen eerlijk met klanten om en is de handel ordelijk?)."
+}
+]
+},
+{
+"id": "G.v12.2",
+"hfd": "Hoofdstuk 12 · Risico, beleggen en ondernemen",
+"niv": "v",
+"naam": "§12.2 Beleggen in obligaties",
+"kort": "Wat zijn de voor- en nadelen van beleggen in obligaties?",
+"vragen": [
+{
+"id": "G.v12.2.m01",
+"t": "mc",
+"e": "G.finan",
+"q": "Een obligatie heeft een couponrente van 2%. De marktrente stijgt naar 4%. Wat gebeurt er met de koers van deze obligatie?",
+"o": [
+"Die daalt onder de nominale waarde",
+"Die stijgt boven de nominale waarde",
+"Die blijft gelijk aan de nominale waarde",
+"De couponrente stijgt mee naar 4%"
+],
+"a": 0,
+"u": "Niemand betaalt de volle prijs voor 2% als nieuwe leningen 4% opleveren."
+},
+{
+"id": "G.v12.2.m02",
+"t": "mc",
+"e": "G.finan",
+"q": "Waarom is een obligatie minder risicovol dan een aandeel van hetzelfde bedrijf?",
+"o": [
+"De obligatiehouder krijgt een vaste rente en gaat bij faillissement voor de aandeelhouders",
+"De obligatiehouder is eigenaar van het bedrijf",
+"Obligaties hebben geen koers",
+"Obligaties worden door DNB gegarandeerd"
+],
+"a": 0,
+"u": "Obligatiehouders zijn schuldeisers; aandeelhouders krijgen pas iets als alle schulden betaald zijn."
+},
+{
+"id": "G.v12.2.m03",
+"t": "mc",
+"e": "G.finan",
+"q": "Een obligatie met een couponrente van 3% heeft een nominale waarde van € 1.000. Hoeveel rente ontvang je per jaar?",
+"o": [
+"€ 30",
+"€ 3",
+"€ 300",
+"Dat hangt af van de koers"
+],
+"a": 0,
+"u": "De couponrente gaat over de nominale waarde: 3% × 1.000 = € 30."
+},
+{
+"id": "G.v12.2.m04",
+"t": "mc",
+"e": "G.finan",
+"q": "Wat is schatkistpapier?",
+"o": [
+"Een kortlopende lening van de overheid, korter dan een jaar",
+"Een aandeel van een staatsbedrijf",
+"Een obligatie zonder rente",
+"Bankbiljetten die DNB in reserve houdt"
+],
+"a": 0,
+"u": "Voor korte financiering geeft de overheid schatkistpapier uit, voor lange staatsobligaties."
+},
+{
+"id": "G.v12.2.k01",
+"t": "koppel",
+"e": "G.finan",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Obligatie",
+"Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing."
+],
+[
+"Couponrente",
+"De vaste rente die een obligatie elk jaar oplevert over de nominale waarde."
+],
+[
+"Nominale waarde",
+"Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost."
+]
+],
+"u": "Obligatie: Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing. Couponrente: De vaste rente die een obligatie elk jaar oplevert over de nominale waarde. Nominale waarde: Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost."
+},
+{
+"id": "G.v12.2.b01",
+"t": "mc",
+"e": "G.finan",
+"b": "Obligatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing.\"",
+"o": [
+"Obligatie",
+"Vreemd vermogen",
+"Prudentieel toezicht",
+"Raad van commissarissen"
+],
+"a": 0,
+"u": "Obligatie: Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing."
+},
+{
+"id": "G.v12.2.b02",
+"t": "mc",
+"e": "G.finan",
+"b": "Couponrente",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De vaste rente die een obligatie elk jaar oplevert over de nominale waarde.\"",
+"o": [
+"Couponrente",
+"Agent",
+"Aandeel",
+"Effecten"
+],
+"a": 0,
+"u": "Couponrente: De vaste rente die een obligatie elk jaar oplevert over de nominale waarde."
+},
+{
+"id": "G.v12.2.b03",
+"t": "mc",
+"e": "G.finan",
+"b": "Nominale waarde",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost.\"",
+"o": [
+"Nominale waarde",
+"Besloten vennootschap",
+"Onder pari",
+"Schatkistpapier"
+],
+"a": 0,
+"u": "Nominale waarde: Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost."
+},
+{
+"id": "G.v12.2.b04",
+"t": "mc",
+"e": "G.finan",
+"b": "Schatkistpapier",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kortlopende lening van de overheid met een looptijd korter dan een jaar.\"",
+"o": [
+"Schatkistpapier",
+"Naamloze vennootschap",
+"Vennootschap onder firma",
+"Koersrendement"
+],
+"a": 0,
+"u": "Schatkistpapier: Kortlopende lening van de overheid met een looptijd korter dan een jaar."
+},
+{
+"id": "G.v12.2.b05",
+"t": "mc",
+"e": "G.finan",
+"b": "Onder pari",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De koers van een obligatie ligt onder de nominale waarde.\"",
+"o": [
+"Onder pari",
+"Effecten",
+"Leverancierskrediet",
+"Prestatieloon"
+],
+"a": 0,
+"u": "Onder pari: De koers van een obligatie ligt onder de nominale waarde."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-I, vraag 29",
+"q": "(Examen vwo 2019-I, vraag 29)\nEen adviseur raadt jongeren aandelen aan en ouderen geleidelijk obligaties of een betaalrekening. Verklaar dit verschil in advies.",
+"model": "Jongeren beleggen nog lang, kunnen koersdalingen opvangen en profiteren van het hogere verwachte rendement van aandelen (2 punten). Ouderen hebben een korte horizon waarin dalingen niet te herstellen zijn, dus kiezen ze veiliger beleggingen zoals obligaties (1 punt).",
+"pnt": 3,
+"id": "G.v12.2.v2019I29",
+"e": "G.finan"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 4",
+"q": "(Examen vwo 2021-I, vraag 4)\nLeg uit dat een te sterke loonsverhoging het succes van de uitgifte van nieuwe aandelen van het concern in gevaar kan brengen.",
+"model": "Een te hoge loonsverhoging kan de verwachte winst te laag maken (1). Beleggers verwachten dan te weinig dividend, een dalende koers of een lager rendement op het aandeel. Ze tonen daardoor te weinig interesse in de aandelenuitgifte (1).",
+"pnt": 2,
+"id": "G.v12.2.v2021I4",
+"e": "G.finan"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 12",
+"q": "(Examen vwo 2021-I, vraag 12)\nEen pensioenfonds belegt de eerste twintig jaar vooral in aandelen, daarna vooral in staatsobligaties. De financieel directeur zegt dat dit over de hele periode een relatief hoog rendement bij laag risico geeft. Leg haar argumentatie uit.",
+"model": "Aandelen geven een hoog rendement en hoog risico, maar over twintig jaar is er tijd om een negatieve schok goed te maken (2). Obligaties geven laag rendement en laag risico. Over de hele periode is het rendement dus relatief hoog bij laag risico (1).",
+"pnt": 3,
+"id": "G.v12.2.v2021I12",
+"e": "G.finan"
+}
+],
+"gens": [
+"reeleRente",
+"contanteWaarde"
+],
+"doel": "Wat zijn de voor- en nadelen van beleggen in obligaties?",
+"uitleg": [
+{
+"t": "Obligaties",
+"x": "Een obligatie is een verhandelbaar schuldbewijs van een langlopende lening. De obligatiehouder is schuldeiser en krijgt elk jaar een vaste couponrente en aan het eind de nominale waarde terug.\nKortlopende staatsleningen (korter dan 1 jaar) heten schatkistpapier.\nObligaties zijn veiliger dan aandelen: bij faillissement gaan schuldeisers voor de aandeelhouders."
+},
+{
+"t": "Koers en marktrente",
+"x": "De waarde van een obligatie is de contante waarde van de toekomstige couponbetalingen en de aflossing, berekend met de actuele marktrente.\nIs de marktrente hoger dan de couponrente, dan ligt de koers onder de nominale waarde (onder pari). Is de marktrente lager, dan ligt de koers boven pari.\nStijgt de marktrente, dan daalt dus de koers van bestaande obligaties."
+},
+{
+"t": "Reële rente",
+"x": "Ook bij obligaties telt de reële rente: reëel indexcijfer = nominaal indexcijfer / prijsindexcijfer × 100."
+}
+]
+},
+{
+"id": "G.v12.3",
+"hfd": "Hoofdstuk 12 · Risico, beleggen en ondernemen",
+"niv": "v",
+"naam": "§12.3 Ondernemingen en risico",
+"kort": "Hoe gaan ondernemingen om met risico?",
+"vragen": [
+{
+"id": "G.v12.3.m01",
+"t": "mc",
+"e": "G.finan",
+"q": "Een vof gaat failliet. Een van de vennoten heeft een groot privévermogen. Wat geldt?",
+"o": [
+"Hij is hoofdelijk aansprakelijk, ook met zijn privévermogen",
+"Hij is alleen aansprakelijk voor zijn inbreng",
+"Alleen de vof zelf is aansprakelijk",
+"Alleen de vennoot die de schuld aanging is aansprakelijk"
+],
+"a": 0,
+"u": "Bij een vof zijn alle vennoten hoofdelijk aansprakelijk met zakelijk en privévermogen."
+},
+{
+"id": "G.v12.3.m02",
+"t": "mc",
+"e": "G.finan",
+"q": "Waarom kiezen ondernemers met een riskant bedrijf vaak voor een bv?",
+"o": [
+"Omdat de aandeelhouders dan beperkt aansprakelijk zijn",
+"Omdat een bv geen belasting betaalt",
+"Omdat de aandelen dan vrij op de beurs verhandelbaar zijn",
+"Omdat een bv minstens € 45.000 kapitaal nodig heeft"
+],
+"a": 0,
+"u": "Bij een bv is je privévermogen beschermd: je verliest hooguit je inbreng."
+},
+{
+"id": "G.v12.3.m03",
+"t": "mc",
+"e": "G.finan",
+"q": "Welke rechtsvorm heeft vrij verhandelbare aandelen die aan de beurs genoteerd kunnen zijn?",
+"o": [
+"De nv",
+"De bv",
+"De vof",
+"De eenmanszaak"
+],
+"a": 0,
+"u": "Alleen aandelen van een (beursgenoteerde) nv zijn voor iedereen vrij te koop."
+},
+{
+"id": "G.v12.3.m04",
+"t": "mc",
+"e": "G.finan",
+"q": "Waarom vraagt een bank een hogere rente voor een lening zonder onderpand?",
+"o": [
+"Het risico dat de bank haar geld niet terugkrijgt is groter",
+"Omdat de inflatie dan hoger is",
+"Omdat de looptijd dan korter is",
+"Omdat de AFM dat voorschrijft"
+],
+"a": 0,
+"u": "Zonder onderpand kan de bank bij wanbetaling niets verkopen. Dat risico laat ze betalen via de rente."
+},
+{
+"id": "G.v12.3.k01",
+"t": "koppel",
+"e": "G.finan",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Rechtspersoon",
+"Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter."
+],
+[
+"Eenmanszaak",
+"Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is."
+],
+[
+"Vennootschap onder firma",
+"Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn."
+]
+],
+"u": "Rechtspersoon: Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter. Eenmanszaak: Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is. Vennootschap onder firma: Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn."
+},
+{
+"id": "G.v12.3.k02",
+"t": "koppel",
+"e": "G.finan",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Naamloze vennootschap",
+"Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen."
+],
+[
+"Besloten vennootschap",
+"Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn."
+],
+[
+"Eigen vermogen",
+"Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten."
+]
+],
+"u": "Naamloze vennootschap: Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen. Besloten vennootschap: Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn. Eigen vermogen: Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten."
+},
+{
+"id": "G.v12.3.b01",
+"t": "mc",
+"e": "G.finan",
+"b": "Rechtspersoon",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter.\"",
+"o": [
+"Rechtspersoon",
+"Couponrente",
+"Nominale waarde",
+"Depositogarantiestelsel"
+],
+"a": 0,
+"u": "Rechtspersoon: Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter."
+},
+{
+"id": "G.v12.3.b02",
+"t": "mc",
+"e": "G.finan",
+"b": "Eenmanszaak",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is.\"",
+"o": [
+"Eenmanszaak",
+"Aandeel",
+"Vennootschap onder firma",
+"Eigen vermogen"
+],
+"a": 0,
+"u": "Eenmanszaak: Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is."
+},
+{
+"id": "G.v12.3.b03",
+"t": "mc",
+"e": "G.finan",
+"b": "Vennootschap onder firma",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn.\"",
+"o": [
+"Vennootschap onder firma",
+"Raad van commissarissen",
+"Vreemd vermogen",
+"Couponrente"
+],
+"a": 0,
+"u": "Vennootschap onder firma: Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn."
+},
+{
+"id": "G.v12.3.b04",
+"t": "mc",
+"e": "G.finan",
+"b": "Naamloze vennootschap",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen.\"",
+"o": [
+"Naamloze vennootschap",
+"Prudentieel toezicht",
+"Eenmanszaak",
+"Gedragstoezicht"
+],
+"a": 0,
+"u": "Naamloze vennootschap: Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen."
+},
+{
+"id": "G.v12.3.b05",
+"t": "mc",
+"e": "G.finan",
+"b": "Besloten vennootschap",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn.\"",
+"o": [
+"Besloten vennootschap",
+"Gedragstoezicht",
+"Nominale waarde",
+"Koersrendement"
+],
+"a": 0,
+"u": "Besloten vennootschap: Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn."
+},
+{
+"id": "G.v12.3.b06",
+"t": "mc",
+"e": "G.finan",
+"b": "Eigen vermogen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten.\"",
+"o": [
+"Eigen vermogen",
+"Prudentieel toezicht",
+"Besloten vennootschap",
+"Prestatieloon"
+],
+"a": 0,
+"u": "Eigen vermogen: Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten."
+},
+{
+"id": "G.v12.3.b07",
+"t": "mc",
+"e": "G.finan",
+"b": "Vreemd vermogen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Geleend vermogen van derden waarover rente wordt betaald en dat moet worden terugbetaald.\"",
+"o": [
+"Vreemd vermogen",
+"Dividendrendement",
+"Koersrendement",
+"Schatkistpapier"
+],
+"a": 0,
+"u": "Vreemd vermogen: Geleend vermogen van derden waarover rente wordt betaald en dat moet worden terugbetaald."
+},
+{
+"id": "G.v12.3.b08",
+"t": "mc",
+"e": "G.finan",
+"b": "Leverancierskrediet",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Kortlopend krediet doordat een leverancier levert en de afnemer later mag betalen.\"",
+"o": [
+"Leverancierskrediet",
+"Depositogarantiestelsel",
+"Eenmanszaak",
+"Naamloze vennootschap"
+],
+"a": 0,
+"u": "Leverancierskrediet: Kortlopend krediet doordat een leverancier levert en de afnemer later mag betalen."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-I, vraag 7",
+"q": "(Examen vwo 2022-I, vraag 7)\nUit de tabellen blijkt dat de hypotheekrente stijgt als de H/A-verhouding stijgt. Leg uit waarom.",
+"model": "Bij een hogere H/A-verhouding loopt de bank meer risico op een restschuld, want de schuld kan groter worden dan de woningwaarde als de huizenprijzen dalen. De bank vraagt daarom een hogere rente als compensatie voor dat risico.",
+"pnt": 2,
+"id": "G.v12.3.v2022I7",
+"e": "G.finan"
+}
+],
+"gens": [],
+"doel": "Hoe gaan ondernemingen om met risico?",
+"uitleg": [
+{
+"t": "Risico's en winst",
+"x": "Bedrijven lopen economische risico's (conjunctuur, vraag, concurrentie), personele risico's (ziekte, krapte) en schaderisico's (brand, diefstal, aansprakelijkheid).\nWinst is de beloning voor het ondernemersrisico en nodig om buffers en investeringen te betalen."
+},
+{
+"t": "Rechtsvormen",
+"x": "Een rechtspersoon is zelf drager van rechten en plichten, los van de eigenaren.\n- Eenmanszaak (geen rechtspersoon): één eigenaar, ook met privévermogen aansprakelijk. Winst belast in box 1.\n- Vof (geen rechtspersoon): meerdere vennoten, allemaal hoofdelijk aansprakelijk, ook privé. Ieder betaalt inkomstenbelasting over zijn winstaandeel.\n- Nv (rechtspersoon): vrij verhandelbare aandelen, minimumkapitaal € 45.000, aandeelhouders beperkt aansprakelijk. De nv betaalt vennootschapsbelasting.\n- Bv (rechtspersoon): aandelen op naam, niet vrij verhandelbaar (blokkeringsregeling), minimumkapitaal € 0,01, beperkte aansprakelijkheid, vennootschapsbelasting."
+},
+{
+"t": "Vreemd vermogen en zekerheden",
+"x": "Naast eigen vermogen gebruiken bedrijven vreemd vermogen. Geldgevers eisen vaak zekerheden: een onderhandse lening op maat, een hypothecaire lening met het pand als onderpand, een obligatielening, of leverancierskrediet (later betalen).\nEen lening zonder onderpand is riskanter voor de geldgever en heeft daarom een hogere rente."
+}
+]
+},
+{
+"id": "G.v12.4",
+"hfd": "Hoofdstuk 12 · Risico, beleggen en ondernemen",
+"niv": "v",
+"naam": "§12.4 Principaal-agentrelatie",
+"kort": "Wat is een principaal-agentrelatie en hoe kan de informatieachterstand van de principaal worden verkleind?",
+"vragen": [
+{
+"id": "G.v12.4.m01",
+"t": "mc",
+"e": "F.pa",
+"q": "Wie is de principaal in de relatie tussen aandeelhouders en de directie van een nv?",
+"o": [
+"De aandeelhouders",
+"De directie",
+"De raad van commissarissen",
+"De werknemers"
+],
+"a": 0,
+"u": "De aandeelhouders zijn eigenaar en laten de directie namens hen het bedrijf leiden."
+},
+{
+"id": "G.v12.4.m02",
+"t": "mc",
+"e": "F.pa",
+"q": "Een bedrijf betaalt zijn werknemers 20% meer dan concurrenten om ze gemotiveerd te houden. Hoe heet dit?",
+"o": [
+"Efficiëntieloon",
+"Prestatieloon",
+"Minimumloon",
+"Stukloon"
+],
+"a": 0,
+"u": "Het hoge loon maakt ontslag duur voor de werknemer, dus doet hij zijn best."
+},
+{
+"id": "G.v12.4.m03",
+"t": "mc",
+"e": "F.pa",
+"q": "Wat is een nadeel van prestatieloon voor een team?",
+"o": [
+"Teamleden kunnen meeliften op de inzet van anderen",
+"Teamleden gaan minder verdienen",
+"Er is dan geen asymmetrische informatie meer",
+"Het werkt alleen bij overheidspersoneel"
+],
+"a": 0,
+"u": "Als de beloning van het hele team afhangt, kan een individu minder doen en toch meeprofiteren."
+},
+{
+"id": "G.v12.4.m04",
+"t": "mc",
+"e": "F.pa",
+"q": "Waardoor ontstaat het principaal-agentprobleem?",
+"o": [
+"Door uiteenlopende belangen en asymmetrische informatie",
+"Doordat de principaal te veel weet",
+"Doordat de agent geen loon krijgt",
+"Door een te hoge rente"
+],
+"a": 0,
+"u": "Als de principaal de inzet van de agent kon zien en de belangen gelijk waren, was er geen probleem."
+},
+{
+"id": "G.v12.4.k01",
+"t": "koppel",
+"e": "F.pa",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Principaal-agentrelatie",
+"Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft."
+],
+[
+"Principaal",
+"De opdrachtgever in een principaal-agentrelatie."
+],
+[
+"Agent",
+"De opdrachtnemer die namens de principaal handelt."
+]
+],
+"u": "Principaal-agentrelatie: Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft. Principaal: De opdrachtgever in een principaal-agentrelatie. Agent: De opdrachtnemer die namens de principaal handelt."
+},
+{
+"id": "G.v12.4.k02",
+"t": "koppel",
+"e": "F.pa",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Prestatieloon",
+"Beloning die afhangt van meetbare prestaties."
+],
+[
+"Efficiëntieloon",
+"Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet."
+],
+[
+"Raad van commissarissen",
+"Orgaan dat toezicht houdt op het bestuur van een nv of bv."
+]
+],
+"u": "Prestatieloon: Beloning die afhangt van meetbare prestaties. Efficiëntieloon: Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet. Raad van commissarissen: Orgaan dat toezicht houdt op het bestuur van een nv of bv."
+},
+{
+"id": "G.v12.4.b01",
+"t": "mc",
+"e": "F.pa",
+"b": "Principaal-agentrelatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft.\"",
+"o": [
+"Principaal-agentrelatie",
+"Besloten vennootschap",
+"Rechtspersoon",
+"Aandelenrendement"
+],
+"a": 0,
+"u": "Principaal-agentrelatie: Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft."
+},
+{
+"id": "G.v12.4.b02",
+"t": "mc",
+"e": "F.pa",
+"b": "Principaal",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De opdrachtgever in een principaal-agentrelatie.\"",
+"o": [
+"Principaal",
+"Obligatie",
+"Prestatieloon",
+"Gedragstoezicht"
+],
+"a": 0,
+"u": "Principaal: De opdrachtgever in een principaal-agentrelatie."
+},
+{
+"id": "G.v12.4.b03",
+"t": "mc",
+"e": "F.pa",
+"b": "Agent",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De opdrachtnemer die namens de principaal handelt.\"",
+"o": [
+"Agent",
+"Dividendrendement",
+"Naamloze vennootschap",
+"Couponrente"
+],
+"a": 0,
+"u": "Agent: De opdrachtnemer die namens de principaal handelt."
+},
+{
+"id": "G.v12.4.b04",
+"t": "mc",
+"e": "F.pa",
+"b": "Prestatieloon",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Beloning die afhangt van meetbare prestaties.\"",
+"o": [
+"Prestatieloon",
+"Agent",
+"Effecten",
+"Principaal-agentrelatie"
+],
+"a": 0,
+"u": "Prestatieloon: Beloning die afhangt van meetbare prestaties."
+},
+{
+"id": "G.v12.4.b05",
+"t": "mc",
+"e": "F.pa",
+"b": "Efficiëntieloon",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet.\"",
+"o": [
+"Efficiëntieloon",
+"Agent",
+"Dividendrendement",
+"Besloten vennootschap"
+],
+"a": 0,
+"u": "Efficiëntieloon: Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet."
+},
+{
+"id": "G.v12.4.b06",
+"t": "mc",
+"e": "F.pa",
+"b": "Raad van commissarissen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Orgaan dat toezicht houdt op het bestuur van een nv of bv.\"",
+"o": [
+"Raad van commissarissen",
+"Leverancierskrediet",
+"Nominale waarde",
+"Rechtspersoon"
+],
+"a": 0,
+"u": "Raad van commissarissen: Orgaan dat toezicht houdt op het bestuur van een nv of bv."
+},
+{
+"t": "open",
+"titel": "Examen vwo 2019-II, vraag 12",
+"q": "(Examen vwo 2019-II, vraag 12)\nTrains is wettelijk monopolist en moet prijsstijgingen vooraf onderbouwen tegenover de overheid. Leg uit dat er een principaal-agentprobleem kan zijn en hoe de overeenkomst dit vermindert.",
+"model": "Overheid (principaal) en Trains (agent) hebben andere doelen: reizigersbelang tegenover winst (1). De overheid kent de kosten en opbrengsten van Trains slecht: informatie-asymmetrie (1). De overeenkomst geeft de overheid deels dezelfde informatie (1).",
+"pnt": 3,
+"id": "G.v12.4.v2019II12",
+"e": "F.pa"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 9",
+"q": "(Examen vwo 2021-I, vraag 9)\nEen gemeente verleent een concessie voor elektrische bussen met vijf voorwaarden over reistijd, vertraging, inzet van dieselbussen, gps-tracking en maximumprijs. Leg uit dat een principaal-agentprobleem kan optreden en welke twee voorwaarden dit probleem verminderen.",
+"model": "Principaal (gemeente) en agent (busbedrijf) hebben verschillende doelen: winst tegenover reizigersbelang (1). De gemeente ziet de ritten en kosten beperkt: informatie-asymmetrie (1). Voorwaarde iv (gps) geeft direct inzicht in vertraging en uitval (1). Voorwaarde v (maximumprijs) beperkt winstmaximalisatie ten koste van reizigers (1).",
+"pnt": 4,
+"id": "G.v12.4.v2021I9",
+"e": "F.pa"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-I, vraag 20",
+"q": "(Examen vwo 2022-I, vraag 20)\nLeg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.",
+"model": "Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.",
+"pnt": 3,
+"id": "G.v12.4.v2022I20",
+"e": "F.pa"
+}
+],
+"gens": [],
+"doel": "Wat is een principaal-agentrelatie en hoe kan de informatieachterstand van de principaal worden verkleind?",
+"uitleg": [
+{
+"t": "Principaal en agent",
+"x": "Een principaal (opdrachtgever) laat een agent (opdrachtnemer) namens hem handelen. Voorbeelden: werkgever en werknemer, aandeelhouders en directie, verzekeraar en verzekerde, belegger en vermogensbeheerder.\nHet probleem: de belangen lopen uiteen en de agent weet meer over zijn eigen inzet dan de principaal (asymmetrische informatie). Zo ontstaat moral hazard, bijvoorbeeld lijntrekken of handelen in eigen belang."
+},
+{
+"t": "Oplossingen",
+"x": "- Prestatieloon: beloning koppelen aan prestaties (stukloon, provisie, bonus, aandelenopties). Nadelen: prestaties zijn niet altijd meetbaar, bij groepsbeloning ontstaat meeliften en risicoaverse werknemers willen liever een vast loon.\n- Efficiëntieloon: een loon boven het marktloon. De baan wordt waardevol, dus de werknemer wil niet ontslagen worden en zet zich in.\n- Toezicht en controle: functioneringsgesprekken, controle, een raad van commissarissen."
+}
+]
+}
+]);
+LEVELS.H.push(...[
+{
+"id": "H.v13.1",
+"hfd": "Hoofdstuk 13 · Inkomen en groei",
+"niv": "v",
+"naam": "§13.1 Productie en inkomen",
+"kort": "Op welke manier kun je nationale productie en het nationaal inkomen meten?",
+"vragen": [
+{
+"id": "H.v13.1.m01",
+"t": "mc",
+"e": "H.bbp",
+"q": "Een bakker heeft een omzet van € 500.000. Hij koopt voor € 200.000 meel en andere grondstoffen in en schrijft € 30.000 af. Wat is zijn netto toegevoegde waarde?",
+"o": [
+"€ 270.000",
+"€ 300.000",
+"€ 470.000",
+"€ 230.000"
+],
+"a": 0,
+"u": "Bruto: 500.000 − 200.000 = 300.000. Netto: 300.000 − 30.000 = 270.000."
+},
+{
+"id": "H.v13.1.m02",
+"t": "mc",
+"e": "H.bbp",
+"q": "Waarom tellen we bij het bbp de ingekochte meel van de bakker niet apart mee?",
+"o": [
+"Dan zou de productie van de molenaar dubbel worden geteld",
+"Omdat meel geen eindproduct van belang is",
+"Omdat meel uit het buitenland komt",
+"Omdat meel niet wordt belast"
+],
+"a": 0,
+"u": "Alleen toegevoegde waarde of eindbestedingen tellen. Zo voorkom je dubbeltelling."
+},
+{
+"id": "H.v13.1.m03",
+"t": "mc",
+"e": "H.bbp",
+"q": "Een Nederlander werkt in Duitsland en woont in Nederland. Waar telt zijn loon mee?",
+"o": [
+"In het Duitse binnenlands product en in het Nederlandse nationaal inkomen",
+"In het Nederlandse binnenlands product",
+"Alleen in het Duitse nationaal inkomen",
+"Nergens, want grensarbeid telt niet mee"
+],
+"a": 0,
+"u": "De productie vindt plaats in Duitsland, maar het inkomen gaat naar een inwoner van Nederland."
+},
+{
+"id": "H.v13.1.m04",
+"t": "mc",
+"e": "H.bbp",
+"q": "Welke beloning hoort bij de productiefactor natuur?",
+"o": [
+"Pacht",
+"Rente",
+"Winst",
+"Loon"
+],
+"a": 0,
+"u": "Grond en natuur worden beloond met pacht."
+},
+{
+"id": "H.v13.1.k01",
+"t": "koppel",
+"e": "H.bbp",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Toegevoegde waarde",
+"De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik."
+],
+[
+"Intermediair verbruik",
+"Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie."
+],
+[
+"Bbp",
+"De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt."
+]
+],
+"u": "Toegevoegde waarde: De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik. Intermediair verbruik: Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie. Bbp: De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt."
+},
+{
+"id": "H.v13.1.k02",
+"t": "koppel",
+"e": "H.bbp",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Bbp tegen marktprijzen",
+"Bbp inclusief indirecte belastingen min prijsverlagende subsidies."
+],
+[
+"Bbp tegen factorkosten",
+"Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen."
+],
+[
+"Netto nationaal inkomen",
+"Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend."
+]
+],
+"u": "Bbp tegen marktprijzen: Bbp inclusief indirecte belastingen min prijsverlagende subsidies. Bbp tegen factorkosten: Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen. Netto nationaal inkomen: Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend."
+},
+{
+"id": "H.v13.1.k03",
+"t": "koppel",
+"e": "H.bbp",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Objectieve methode",
+"Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen."
+],
+[
+"Subjectieve methode",
+"Het bbp berekenen door alle beloningen van de productiefactoren op te tellen."
+],
+[
+"Productiefactoren",
+"Arbeid, kapitaal, natuur en ondernemerschap."
+]
+],
+"u": "Objectieve methode: Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen. Subjectieve methode: Het bbp berekenen door alle beloningen van de productiefactoren op te tellen. Productiefactoren: Arbeid, kapitaal, natuur en ondernemerschap."
+},
+{
+"id": "H.v13.1.b01",
+"t": "mc",
+"e": "H.bbp",
+"b": "Toegevoegde waarde",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik.\"",
+"o": [
+"Toegevoegde waarde",
+"Macro-economische balansvergelijking",
+"Brede welvaart",
+"Economische groei"
+],
+"a": 0,
+"u": "Toegevoegde waarde: De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik."
+},
+{
+"id": "H.v13.1.b02",
+"t": "mc",
+"e": "H.bbp",
+"b": "Intermediair verbruik",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie.\"",
+"o": [
+"Intermediair verbruik",
+"Bbp tegen marktprijzen",
+"Loonkosten per product",
+"Macro-economische balansvergelijking"
+],
+"a": 0,
+"u": "Intermediair verbruik: Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie."
+},
+{
+"id": "H.v13.1.b03",
+"t": "mc",
+"e": "H.bbp",
+"b": "Bbp",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt.\"",
+"o": [
+"Bbp",
+"Productiefactoren",
+"Subjectieve methode",
+"Exportoverschot"
+],
+"a": 0,
+"u": "Bbp: De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt."
+},
+{
+"id": "H.v13.1.b04",
+"t": "mc",
+"e": "H.bbp",
+"b": "Bbp tegen marktprijzen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bbp inclusief indirecte belastingen min prijsverlagende subsidies.\"",
+"o": [
+"Bbp tegen marktprijzen",
+"Wellbeing Indicator",
+"Overheidssaldo",
+"Toegevoegde waarde"
+],
+"a": 0,
+"u": "Bbp tegen marktprijzen: Bbp inclusief indirecte belastingen min prijsverlagende subsidies."
+},
+{
+"id": "H.v13.1.b05",
+"t": "mc",
+"e": "H.bbp",
+"b": "Bbp tegen factorkosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen.\"",
+"o": [
+"Bbp tegen factorkosten",
+"Brede welvaart",
+"Informele economie",
+"Human Development Index"
+],
+"a": 0,
+"u": "Bbp tegen factorkosten: Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen."
+},
+{
+"id": "H.v13.1.b06",
+"t": "mc",
+"e": "H.bbp",
+"b": "Netto nationaal inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend.\"",
+"o": [
+"Netto nationaal inkomen",
+"Overheidssaldo",
+"Exportoverschot",
+"Informele economie"
+],
+"a": 0,
+"u": "Netto nationaal inkomen: Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend."
+},
+{
+"id": "H.v13.1.b07",
+"t": "mc",
+"e": "H.bbp",
+"b": "Objectieve methode",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen.\"",
+"o": [
+"Objectieve methode",
+"Groen bbp",
+"Economische groei",
+"Macro-economische balansvergelijking"
+],
+"a": 0,
+"u": "Objectieve methode: Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen."
+},
+{
+"id": "H.v13.1.b08",
+"t": "mc",
+"e": "H.bbp",
+"b": "Subjectieve methode",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het bbp berekenen door alle beloningen van de productiefactoren op te tellen.\"",
+"o": [
+"Subjectieve methode",
+"Exportoverschot",
+"Duurzame ontwikkeling",
+"Brede welvaart"
+],
+"a": 0,
+"u": "Subjectieve methode: Het bbp berekenen door alle beloningen van de productiefactoren op te tellen."
+},
+{
+"id": "H.v13.1.b09",
+"t": "mc",
+"e": "H.bbp",
+"b": "Productiefactoren",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Arbeid, kapitaal, natuur en ondernemerschap.\"",
+"o": [
+"Productiefactoren",
+"Groen bbp",
+"Objectieve methode",
+"Duurzame ontwikkeling"
+],
+"a": 0,
+"u": "Productiefactoren: Arbeid, kapitaal, natuur en ondernemerschap."
+},
+{
+"t": "open",
+"titel": "Productie in Lindora",
+"q": "Lindora is een eilandstaat. Het statistiekbureau wil het bbp van vorig jaar berekenen via de productie. In de tabel staan de gegevens van drie sectoren. De overheid verkoopt vrijwel niets aan bedrijven of consumenten en betaalde in totaal € 90 miljoen aan loon aan haar ambtenaren.\nTabel Gegevens per sector, in miljoenen euro's:\nSector | Omzet | Inkoop bij andere bedrijven\nLandbouw | 120 | 30\nIndustrie | 400 | 250\nCommerciële diensten | 500 | 180\nBereken het bbp van Lindora via de productie. Geef het antwoord in miljoenen euro's.\nDoe het als volgt:\n- Bereken de toegevoegde waarde van elke sector.\n- Houd rekening met de overheid.\n- Tel alles op.",
+"model": "Toegevoegde waarde = omzet min inkoop. Landbouw: 120 - 30 = 90. Industrie: 400 - 250 = 150. Diensten: 500 - 180 = 320. De overheid telt mee met de loonsom: 90. Bbp = 90 + 150 + 320 + 90 = € 650 miljoen.\nPuntenverdeling:\n• Toegevoegde waarde per sector = omzet min inkoop: landbouw 120 - 30 = 90, industrie 400 - 250 = 150, diensten 500 - 180 = 320 (miljoen euro) (1)\n• De loonsom van de overheid (90 miljoen euro) telt mee als toegevoegde waarde van de overheid (1)\n• Optellen: 90 + 150 + 320 + 90 = 650 miljoen euro (1)",
+"pnt": 3,
+"id": "H.v13.1.IT00551",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Meten in Karvonia",
+"q": "In Karvonia is het bbp vorig jaar € 200 miljard. Daarin zijn alle productiemiddelen die in de loop van het jaar slijtage hebben opgelopen, voor € 30 miljard afgeschreven.\nVeel huishoudens laten klussen, schoonmaak en reparaties contant en zonder aangifte uitvoeren. Het statistiekbureau schat dat deze informele sector een productie van € 12 miljard heeft. Die productie staat niet in de officiële cijfers.\nBeredeneer of de werkelijke nieuwe productie van Karvonia hoger of lager is dan het bbp van € 200 miljard. Gebruik de afschrijvingen en de informele sector.",
+"model": "Het bbp is bruto: afschrijvingen zijn slijtage en geen nieuwe productie. Netto is 200 - 30 = 170 miljard. De informele sector produceert wel, maar telt niet mee in het bbp. Dat is 12 miljard erbij: 182 miljard. Dat is lager dan 200 miljard.\nPuntenverdeling:\n• Afschrijvingen zijn geen nieuwe productie maar vervanging van versleten kapitaal. Het bbp is een bruto-maat, dus het netto binnenlands product is lager: 200 - 30 = 170 miljard euro (1)\n• De informele sector is wel productie, maar wordt niet geregistreerd en zit dus niet in het bbp. Dit moet erbij: 170 + 12 = 182 miljard euro (1)\n• Conclusie: de werkelijke nieuwe productie (182 miljard euro) is lager dan het bbp (200 miljard euro) (1)",
+"pnt": 3,
+"id": "H.v13.1.IT00552",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Fietsen uit Ostria",
+"q": "Fietsenfabriek Velora in Ostria heeft vorig jaar voor € 5 miljoen aan fietsen verkocht. Voor de productie kocht Velora voor € 3 miljoen onderdelen bij andere bedrijven. De machines van Velora zijn in dat jaar voor € 0,5 miljoen afgeschreven.\nMaak van onderstaande tekst een economisch juiste tekst.\nDe toegevoegde waarde van Velora is ...(1)... .\nHet bbp van Ostria is de som van alle ...(2)... .\nDe netto toegevoegde waarde van Velora, na aftrek van de afschrijvingen, is ...(3)... .\nKies uit: bij (1) € 2 miljoen / € 3 miljoen / € 5 miljoen\nbij (2) toegevoegde waarden / omzetten / inkopen\nbij (3) € 1,5 miljoen / € 2,0 miljoen / € 2,5 miljoen",
+"model": "(1) € 2 miljoen, want 5 - 3 = 2. (2) toegevoegde waarden. (3) € 1,5 miljoen, want 2 - 0,5 = 1,5.\nPuntenverdeling:\n• Ten minste twee van de drie keuzes juist: (1) € 2 miljoen, (2) toegevoegde waarden, (3) € 1,5 miljoen (1)\n• Alle drie de keuzes juist (1)",
+"pnt": 2,
+"id": "H.v13.1.IT00553",
+"e": "H.bbp"
+}
+],
+"gens": [
+"bbpPerInwoner"
+],
+"doel": "Op welke manier kun je nationale productie en het nationaal inkomen meten?",
+"uitleg": [
+{
+"t": "Productiefactoren en toegevoegde waarde",
+"x": "Vier productiefactoren met elk een beloning: arbeid (loon), kapitaal (rente en dividend), natuur (pacht) en ondernemerschap (winst).\nBruto toegevoegde waarde = omzet − intermediair verbruik (ingekochte goederen en diensten). Netto toegevoegde waarde = bruto toegevoegde waarde − afschrijvingen.\nDe som van alle netto toegevoegde waarden is gelijk aan de som van alle beloningen: netto productie = inkomen."
+},
+{
+"t": "Drie manieren om het bbp te meten",
+"x": "- Objectieve methode (productie): som van de bruto toegevoegde waarden van bedrijven en overheid, plus indirecte belastingen min prijsverlagende subsidies.\n- Subjectieve methode (inkomens): lonen + rente + pacht + winst = netto binnenlands product tegen factorkosten. Plus afschrijvingen = bbp tegen factorkosten. Plus indirecte belastingen min subsidies = bbp tegen marktprijzen.\n- Bestedingsmethode: bbp = C + I + O + (E − M). Het intermediair verbruik telt niet mee."
+},
+{
+"t": "Binnenlands en nationaal",
+"x": "Het binnenlands product is de productie op het eigen grondgebied. Het nationaal inkomen is het inkomen van de inwoners, waar ze het ook verdienen.\nbbp − afschrijvingen = nbp. nbp + saldo primaire inkomens uit het buitenland = netto nationaal inkomen.\nIn de staat van middelen en bestedingen geldt: bbp + import = C + I + O + E."
+}
+]
+},
+{
+"id": "H.v13.2",
+"hfd": "Hoofdstuk 13 · Inkomen en groei",
+"niv": "v",
+"naam": "§13.2 Kringloop en nationale boekhouding",
+"kort": "Hoe kun je de geldstromen in een economie volgen met een economische kringloop?",
+"vragen": [
+{
+"id": "H.v13.2.m01",
+"t": "mc",
+"e": "I.saldi",
+"q": "In een land is S − I = 40 en B − O = −10. Hoe groot is E − M?",
+"o": [
+"30",
+"−30",
+"50",
+"−50"
+],
+"a": 0,
+"u": "(S − I) + (B − O) + (M − E) = 0 → 40 − 10 + (M − E) = 0 → M − E = −30, dus E − M = 30."
+},
+{
+"id": "H.v13.2.m02",
+"t": "mc",
+"e": "I.saldi",
+"q": "Nederland heeft een groot particulier spaaroverschot en een begroting in evenwicht. Wat volgt daaruit?",
+"o": [
+"Een exportoverschot",
+"Een importoverschot",
+"Een begrotingstekort",
+"Dat de investeringen groter zijn dan de besparingen"
+],
+"a": 0,
+"u": "Als S − I positief is en B − O nul, moet M − E negatief zijn: de export is groter dan de import."
+},
+{
+"id": "H.v13.2.m03",
+"t": "mc",
+"e": "I.saldi",
+"q": "Waarom valt de consumptie (C) weg in de balansvergelijking?",
+"o": [
+"Omdat C zowel aan de bestedingskant als aan de inkomenskant staat",
+"Omdat consumptie niet meetelt in het bbp",
+"Omdat consumptie gelijk is aan besparingen",
+"Omdat de overheid de consumptie bepaalt"
+],
+"a": 0,
+"u": "C + I + O + E − M = C + B + S. Links en rechts C wegstrepen."
+},
+{
+"id": "H.v13.2.m04",
+"t": "mc",
+"e": "I.saldi",
+"q": "Welke uitspraak over de drie saldi is juist?",
+"o": [
+"Ze zijn samen altijd gelijk aan nul",
+"Ze zijn alle drie altijd positief",
+"Alleen het overheidssaldo kan negatief zijn",
+"Ze zijn samen gelijk aan het bbp"
+],
+"a": 0,
+"u": "Wat de ene sector overhoudt, leent een andere sector."
+},
+{
+"id": "H.v13.2.k01",
+"t": "koppel",
+"e": "I.saldi",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Macro-economische balansvergelijking",
+"(S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul."
+],
+[
+"Nationaal spaarsaldo",
+"Het verschil tussen de particuliere besparingen en investeringen (S − I)."
+],
+[
+"Overheidssaldo",
+"Belastingontvangsten min overheidsbestedingen (B − O)."
+]
+],
+"u": "Macro-economische balansvergelijking: (S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul. Nationaal spaarsaldo: Het verschil tussen de particuliere besparingen en investeringen (S − I). Overheidssaldo: Belastingontvangsten min overheidsbestedingen (B − O)."
+},
+{
+"id": "H.v13.2.b01",
+"t": "mc",
+"e": "I.saldi",
+"b": "Macro-economische balansvergelijking",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"(S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul.\"",
+"o": [
+"Macro-economische balansvergelijking",
+"Human Development Index",
+"Bbp",
+"Instituties"
+],
+"a": 0,
+"u": "Macro-economische balansvergelijking: (S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul."
+},
+{
+"id": "H.v13.2.b02",
+"t": "mc",
+"e": "I.saldi",
+"b": "Nationaal spaarsaldo",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de particuliere besparingen en investeringen (S − I).\"",
+"o": [
+"Nationaal spaarsaldo",
+"Exportoverschot",
+"Economische groei",
+"Netto nationaal inkomen"
+],
+"a": 0,
+"u": "Nationaal spaarsaldo: Het verschil tussen de particuliere besparingen en investeringen (S − I)."
+},
+{
+"id": "H.v13.2.b03",
+"t": "mc",
+"e": "I.saldi",
+"b": "Overheidssaldo",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belastingontvangsten min overheidsbestedingen (B − O).\"",
+"o": [
+"Overheidssaldo",
+"Nationaal spaarsaldo",
+"Economische groei",
+"Productiefunctie"
+],
+"a": 0,
+"u": "Overheidssaldo: Belastingontvangsten min overheidsbestedingen (B − O)."
+},
+{
+"id": "H.v13.2.b04",
+"t": "mc",
+"e": "I.saldi",
+"b": "Exportoverschot",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De export is groter dan de import.\"",
+"o": [
+"Exportoverschot",
+"Bbp tegen factorkosten",
+"Productiefunctie",
+"Macro-economische balansvergelijking"
+],
+"a": 0,
+"u": "Exportoverschot: De export is groter dan de import."
+}
+],
+"gens": [],
+"doel": "Hoe kun je de geldstromen in een economie volgen met een economische kringloop?",
+"uitleg": [
+{
+"t": "De kringloop",
+"x": "De nationale boekhouding volgt de geldstromen tussen vijf sectoren: huishoudens, bedrijven, overheid, financiële sector en buitenland."
+},
+{
+"t": "De balansvergelijking",
+"x": "Bestedingen: W = C + I + O + E − M. Bestemming van het inkomen: Y = C + B + S (consumptie, belastingen, besparingen).\nOmdat W = Y, geldt C + I + O + E − M = C + B + S. Daaruit volgt: (S − I) + (B − O) + (M − E) = 0.\n- S − I: het particuliere spaarsaldo.\n- B − O: het overheidssaldo.\n- M − E: het saldo met het buitenland. Bij een exportoverschot (E > M) is dit negatief.\nDe drie saldi zijn samen altijd nul. Een spaaroverschot van de particuliere sector gaat dus naar de overheid (tekort) of naar het buitenland (exportoverschot)."
+}
+]
+},
+{
+"id": "H.v13.3",
+"hfd": "Hoofdstuk 13 · Inkomen en groei",
+"niv": "v",
+"naam": "§13.3 Economische groei",
+"kort": "Hoe kun je het verschijnsel economische groei meten en waardoor wordt die groei veroorzaakt?",
+"vragen": [
+{
+"id": "H.v13.3.m01",
+"t": "mc",
+"e": "H.groei",
+"q": "Het nominale bbp stijgt met 5%, de prijzen met 2% en de bevolking met 1%. Wat is ongeveer de economische groei?",
+"o": [
+"2%",
+"5%",
+"3%",
+"4%"
+],
+"a": 0,
+"u": "Reëel ≈ 5 − 2 = 3%. Per hoofd ≈ 3 − 1 = 2%."
+},
+{
+"id": "H.v13.3.m02",
+"t": "mc",
+"e": "H.groei",
+"q": "Het loon stijgt met 4% en de arbeidsproductiviteit met 4%. Wat gebeurt er met de loonkosten per product?",
+"o": [
+"Die blijven ongeveer gelijk",
+"Die stijgen met 4%",
+"Die dalen met 4%",
+"Die stijgen met 8%"
+],
+"a": 0,
+"u": "Loonkosten per product = loon / productiviteit. Als teller en noemer even hard stijgen, blijft de breuk gelijk."
+},
+{
+"id": "H.v13.3.m03",
+"t": "mc",
+"e": "H.groei",
+"q": "Een land investeert steeds meer in machines, maar het aantal werknemers blijft gelijk. Wat gebeurt er volgens de productiefunctie?",
+"o": [
+"De productie stijgt, maar steeds minder hard (afnemende meeropbrengsten)",
+"De productie stijgt steeds harder",
+"De productie daalt",
+"De productie blijft gelijk"
+],
+"a": 0,
+"u": "Elke extra machine levert minder extra op als er niet meer mensen zijn om ermee te werken."
+},
+{
+"id": "H.v13.3.m04",
+"t": "mc",
+"e": "H.groei",
+"q": "Welke factor zit in de A van de productiefunctie?",
+"o": [
+"Technologische vooruitgang en goede instituties",
+"Het aantal werkenden",
+"Het aantal machines",
+"De hoeveelheid grond"
+],
+"a": 0,
+"u": "A is de totale factorproductiviteit: hoe slim kapitaal en arbeid worden ingezet."
+},
+{
+"id": "H.v13.3.k01",
+"t": "koppel",
+"e": "H.groei",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Economische groei",
+"De procentuele stijging van het reële bbp per hoofd van de bevolking."
+],
+[
+"Arbeidsproductiviteit",
+"De productie per werkende per tijdseenheid."
+],
+[
+"Loonkosten per product",
+"Gemiddeld loon gedeeld door de arbeidsproductiviteit."
+]
+],
+"u": "Economische groei: De procentuele stijging van het reële bbp per hoofd van de bevolking. Arbeidsproductiviteit: De productie per werkende per tijdseenheid. Loonkosten per product: Gemiddeld loon gedeeld door de arbeidsproductiviteit."
+},
+{
+"id": "H.v13.3.k02",
+"t": "koppel",
+"e": "H.groei",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Productiefunctie",
+"Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie."
+],
+[
+"Totale factorproductiviteit",
+"De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A)."
+],
+[
+"Afnemende meeropbrengsten",
+"Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder."
+]
+],
+"u": "Productiefunctie: Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie. Totale factorproductiviteit: De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A). Afnemende meeropbrengsten: Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder."
+},
+{
+"id": "H.v13.3.b01",
+"t": "mc",
+"e": "H.groei",
+"b": "Economische groei",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele stijging van het reële bbp per hoofd van de bevolking.\"",
+"o": [
+"Economische groei",
+"Arbeidsproductiviteit",
+"Bbp tegen marktprijzen",
+"Afnemende meeropbrengsten"
+],
+"a": 0,
+"u": "Economische groei: De procentuele stijging van het reële bbp per hoofd van de bevolking."
+},
+{
+"id": "H.v13.3.b02",
+"t": "mc",
+"e": "H.groei",
+"b": "Arbeidsproductiviteit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De productie per werkende per tijdseenheid.\"",
+"o": [
+"Arbeidsproductiviteit",
+"Nationaal spaarsaldo",
+"Exportoverschot",
+"Macro-economische balansvergelijking"
+],
+"a": 0,
+"u": "Arbeidsproductiviteit: De productie per werkende per tijdseenheid."
+},
+{
+"id": "H.v13.3.b03",
+"t": "mc",
+"e": "H.groei",
+"b": "Loonkosten per product",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Gemiddeld loon gedeeld door de arbeidsproductiviteit.\"",
+"o": [
+"Loonkosten per product",
+"Instituties",
+"Bbp",
+"Human Development Index"
+],
+"a": 0,
+"u": "Loonkosten per product: Gemiddeld loon gedeeld door de arbeidsproductiviteit."
+},
+{
+"id": "H.v13.3.b04",
+"t": "mc",
+"e": "H.groei",
+"b": "Productiefunctie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie.\"",
+"o": [
+"Productiefunctie",
+"Economische groei",
+"Bbp tegen factorkosten",
+"Arbeidsproductiviteit"
+],
+"a": 0,
+"u": "Productiefunctie: Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie."
+},
+{
+"id": "H.v13.3.b05",
+"t": "mc",
+"e": "H.groei",
+"b": "Totale factorproductiviteit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A).\"",
+"o": [
+"Totale factorproductiviteit",
+"Duurzame ontwikkeling",
+"Productiefactoren",
+"Overheidssaldo"
+],
+"a": 0,
+"u": "Totale factorproductiviteit: De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A)."
+},
+{
+"id": "H.v13.3.b06",
+"t": "mc",
+"e": "H.groei",
+"b": "Afnemende meeropbrengsten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder.\"",
+"o": [
+"Afnemende meeropbrengsten",
+"Economische groei",
+"Bbp tegen factorkosten",
+"Instituties"
+],
+"a": 0,
+"u": "Afnemende meeropbrengsten: Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder."
+},
+{
+"id": "H.v13.3.b07",
+"t": "mc",
+"e": "H.groei",
+"b": "Instituties",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De formele en informele spelregels in een samenleving, zoals eigendomsrecht en rechtspraak.\"",
+"o": [
+"Instituties",
+"Netto nationaal inkomen",
+"Brede welvaart",
+"Macro-economische balansvergelijking"
+],
+"a": 0,
+"u": "Instituties: De formele en informele spelregels in een samenleving, zoals eigendomsrecht en rechtspraak."
+},
+{
+"t": "open",
+"titel": "De drie delen van de productiefunctie",
+"q": "Het planbureau van Vennemark beschrijft de productie van het land met de productiefunctie Y = A × f(K, L). Een medewerker legt aan nieuwe collega's uit dat de productie van drie dingen afhangt.\nDe regering wil de productie per persoon blijvend verhogen en wil weten welke factor daarvoor het belangrijkst is.\nNoem wat A, K en L in de productiefunctie voorstellen en noem welke van deze factoren de productie per persoon structureel verhoogt.",
+"model": "K is kapitaal, zoals machines en wegen. L is arbeid, dus de werkenden. A is de factorproductiviteit: hoe slim en efficiënt K en L samen worden ingezet, bijvoorbeeld door technologie. Een hogere A verhoogt de productie per persoon structureel.\nPuntenverdeling:\n• Een juist antwoord bevat: K is kapitaal (machines, gebouwen, infrastructuur) en L is arbeid (aantal werkenden of gewerkte uren) (1)\n• A is de (totale) factorproductiviteit: de technologie of efficiëntie waarmee K en L worden ingezet (1)\n• A (factorproductiviteit) verhoogt de productie per persoon structureel (1)",
+"pnt": 3,
+"id": "H.v13.3.IT00502",
+"e": "H.groei"
+},
+{
+"t": "open",
+"titel": "Meer inwoners of slimmer produceren in Haldrup",
+"q": "Haldrup wil de productie laten groeien. Nu wonen er 10 miljoen mensen, van wie 4 miljoen werken. Plan 1: de overheid haalt 1 miljoen arbeidsmigranten naar het land. Zij gaan allemaal in Haldrup wonen en werken. Plan 2: de overheid investeert in onderwijs en onderzoek, zodat bedrijven efficiënter produceren.\nHet ministerie schat de gevolgen. Bij beide plannen blijft de hoeveelheid kapitaal (K) gelijk.\nTabel Verwachte situatie in Haldrup:\n| Nu | Plan 1 | Plan 2\nBbp (miljard euro) | 200 | 215 | 208\nAantal inwoners (miljoen) | 10 | 11 | 10\nAantal werkenden (miljoen) | 4 | 5 | 4\nBeredeneer met behulp van Y = A × f(K, L) welk plan het bbp per hoofd structureel verhoogt.\nDoe het als volgt:\n- Geef per plan aan welke factor uit de productiefunctie verandert.\n- Bereken per plan het bbp per hoofd en vergelijk dit met nu.",
+"model": "Bij plan 1 stijgt L, bij plan 2 stijgt A. K blijft gelijk. Nu is het bbp per hoofd 200 miljard : 10 miljoen = € 20.000. Bij plan 1 is het 215 miljard : 11 miljoen = € 19.545,45, dus lager. Bij plan 2 is het 208 miljard : 10 miljoen = € 20.800. Een hogere A geeft structureel meer productie met dezelfde K en L. Plan 2 verhoogt het bbp per hoofd structureel.\nPuntenverdeling:\n• Een juist antwoord bevat: Plan 1: L stijgt (van 4 naar 5 miljoen werkenden, +25%); plan 2: A stijgt; K blijft bij beide gelijk (1)\n• Bbp per hoofd nu € 20.000 (200 miljard : 10 miljoen); plan 1 € 19.545,45 (215 miljard : 11 miljoen), dus lager dan nu; plan 2 € 20.800 (208 miljard : 10 miljoen), dus hoger dan nu (1)\n• Conclusie: plan 2 verhoogt het bbp per hoofd structureel, want een hogere A geeft meer productie met dezelfde inzet van K en L. Plan 1 niet: bij gelijke K stijgt Y minder dan evenredig met L (afnemende meeropbrengst), terwijl het aantal inwoners relatief meer stijgt (+10% tegenover +7,5% bbp) (1)",
+"pnt": 3,
+"id": "H.v13.3.IT00511",
+"e": "H.groei"
+},
+{
+"t": "open",
+"titel": "Krimpende beroepsbevolking in Veldrijk",
+"q": "In Veldrijk gaan veel mensen met pensioen. Zonder maatregelen daalt het aantal werkenden met 4%, terwijl het aantal inwoners gelijk blijft op 12 miljoen. Twee economen doen een voorstel. Econoom P wil de pensioenleeftijd verhogen. Econoom Q wil subsidie geven voor onderzoek en scholing.\nHet ministerie schat de gevolgen van beide voorstellen. De hoeveelheid kapitaal (K) blijft bij beide gelijk.\nTabel Verwachte situatie in Veldrijk:\n| Nu | Voorstel P | Voorstel Q\nBbp (miljard euro) | 300 | 300 | 312\nAantal inwoners (miljoen) | 12 | 12 | 12\nAantal werkenden (miljoen) | 6,00 | 6,00 | 5,76\nBeredeneer met Y = A × f(K, L) welk voorstel het bbp per inwoner ten opzichte van nu structureel verhoogt.",
+"model": "Bij P blijft L gelijk, en A en K ook. Het bbp blijft 300 miljard, dus per inwoner 300 miljard : 12 miljoen = € 25.000, net als nu. P voorkomt alleen een daling. Bij Q daalt L, maar het bbp stijgt naar 312 miljard. Dat kan alleen door een hogere A. Per inwoner is dat 312 miljard : 12 miljoen = € 26.000. Q verhoogt het bbp per inwoner structureel.\nPuntenverdeling:\n• Een juist antwoord bevat: Voorstel P: L blijft gelijk aan nu, A en K veranderen niet, dus Y blijft 300 miljard en het bbp per inwoner blijft € 25.000 (300 miljard : 12 miljoen): geen stijging ten opzichte van nu (1)\n• Voorstel Q: L daalt (5,76 miljoen werkenden), toch stijgt Y naar 312 miljard. Dat kan alleen doordat A stijgt; het bbp per inwoner wordt € 26.000 (312 miljard : 12 miljoen), hoger dan nu (1)\n• Conclusie: voorstel Q verhoogt het bbp per inwoner structureel, omdat een hogere A blijvend meer productie geeft met dezelfde of minder inzet van K en L (1)",
+"pnt": 3,
+"id": "H.v13.3.IT00512",
+"e": "H.groei"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 27",
+"q": "(Examen vwo 2021-I, vraag 27)\nEen overheid voert een leerplicht in en ondersteunt scholing financieel. Leg uit hoe de leerplicht heeft geleid tot meer economische groei.",
+"model": "Jongeren gaan langer naar school en bouwen meer kennis op, dus de arbeidsproductiviteit stijgt. Dit geeft meer productie, eventueel hogere lonen. Of: lagere loonkosten per product, betere concurrentiepositie, meer export en meer productie. Zo neemt de groei toe. Volgens de aanvulling is het woord arbeidsproductiviteit niet verplicht.",
+"pnt": 2,
+"id": "H.v13.3.v2021I27",
+"e": "H.groei"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2023-II, vraag 5",
+"q": "(Examen vwo 2023-II, vraag 5)\nOnderzoekers stellen dat extra investeringen in R&D bij dezelfde inzet van productiefactoren de structurele groei verhogen. Leg dit uit en betrek de totale factorproductiviteit.",
+"model": "R&D verhoogt de productiviteit van kapitaal en arbeid, dus de totale factorproductiviteit stijgt (1). Bij gelijke inzet groeit daardoor de productiecapaciteit en dus de structurele groei (1).",
+"pnt": 2,
+"id": "H.v13.3.v2023II5",
+"e": "H.groei"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2024-I, vraag 29",
+"q": "(Examen vwo 2024-I, vraag 29)\nLeg uit dat stimulering van R&D-investeringen de totale factorproductiviteit op lange termijn kan verhogen en de productiefunctie van Y1 naar Y2 verschuift.",
+"model": "R&D versnelt productieprocessen, dus de totale factorproductiviteit stijgt (1). Bij elke inzet van arbeid is de productie hoger, dus de productiefunctie verschuift van Y1 naar Y2 (1).",
+"pnt": 2,
+"id": "H.v13.3.v2024I29",
+"e": "H.groei"
+}
+],
+"gens": [
+"reeleGroei",
+"productiviteit"
+],
+"doel": "Hoe kun je het verschijnsel economische groei meten en waardoor wordt die groei veroorzaakt?",
+"uitleg": [
+{
+"t": "Groei meten",
+"x": "Economische groei is de procentuele toename van het reële bbp per hoofd van de bevolking. Reëel: gecorrigeerd voor inflatie. Per hoofd: gecorrigeerd voor bevolkingsgroei. Het gaat om de lange termijn (structurele groei), niet om de conjunctuur."
+},
+{
+"t": "Bronnen van groei",
+"x": "- Arbeid: meer werkenden en beter opgeleide werkenden (human capital). Arbeidsproductiviteit = productie per werknemer per tijdseenheid.\nLoonkosten per product = gemiddeld loon / arbeidsproductiviteit.\n- Kapitaal: meer machines (breedte-investeringen) en betere machines door technologie (diepte-investeringen).\n- Natuur: grondstoffen en vruchtbare grond.\n- Instituties: eigendomsrechten, een betrouwbaar rechtssysteem, goed onderwijs, een stabiele munt en marktwerking."
+},
+{
+"t": "De productiefunctie",
+"x": "Y* = A × f(K, L). Y* is de potentiële productie, A de totale factorproductiviteit (technologie, kennis, organisatie, instituties), K kapitaal en L arbeid.\nAfnemende meeropbrengsten: neemt alleen K (of alleen L) toe, dan stijgt de productie steeds minder hard. Duurzame groei per hoofd komt daarom vooral van een hogere A.\nSchaalopbrengsten: stijgen K en L allebei met dezelfde factor, dan kan de productie evenredig, meer of minder dan evenredig stijgen."
+}
+]
+},
+{
+"id": "H.v13.4",
+"hfd": "Hoofdstuk 13 · Inkomen en groei",
+"niv": "v",
+"naam": "§13.4 Economische groei en welvaart",
+"kort": "Wat zeggen macro-economische cijfers over de welvaart van een land?",
+"vragen": [
+{
+"id": "H.v13.4.m01",
+"t": "mc",
+"e": "H.bbp",
+"q": "Na een overstroming wordt voor miljarden aan dijken en huizen hersteld. Wat gebeurt er met het bbp en de welvaart?",
+"o": [
+"Het bbp stijgt, maar de welvaart is niet hoger dan vóór de ramp",
+"Het bbp daalt en de welvaart stijgt",
+"Het bbp en de welvaart stijgen allebei",
+"Het bbp en de welvaart blijven gelijk"
+],
+"a": 0,
+"u": "Herstelwerk telt als productie, maar herstelt alleen wat verloren ging."
+},
+{
+"id": "H.v13.4.m02",
+"t": "mc",
+"e": "H.bbp",
+"q": "Welke activiteit telt niet mee in het bbp?",
+"o": [
+"Mantelzorg voor een ouder",
+"Een betaalde schoonmaker via een bureau",
+"De bouw van een nieuw ziekenhuis",
+"Een docent op een openbare school"
+],
+"a": 0,
+"u": "Onbetaald werk zit in de informele economie en wordt niet geregistreerd."
+},
+{
+"id": "H.v13.4.m03",
+"t": "mc",
+"e": "H.bbp",
+"q": "Welke drie onderdelen zitten in de HDI?",
+"o": [
+"Inkomen per hoofd, levensverwachting en onderwijs",
+"Bbp, inflatie en werkloosheid",
+"Milieu, veiligheid en geluk",
+"Export, import en staatsschuld"
+],
+"a": 0,
+"u": "De Human Development Index van de VN combineert inkomen, gezondheid en scholing."
+},
+{
+"id": "H.v13.4.m04",
+"t": "mc",
+"e": "H.bbp",
+"q": "Wat bedoelt het CBS met welvaart \"later\"?",
+"o": [
+"Of we genoeg economisch, natuurlijk, menselijk en sociaal kapitaal overlaten aan toekomstige generaties",
+"De verwachte groei van het bbp volgend jaar",
+"De pensioenen van ouderen",
+"De welvaart in andere landen"
+],
+"a": 0,
+"u": "Brede welvaart kijkt naar hier en nu, later en elders."
+},
+{
+"id": "H.v13.4.k01",
+"t": "koppel",
+"e": "H.bbp",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Informele economie",
+"Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten."
+],
+[
+"Human Development Index",
+"Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs."
+],
+[
+"Groen bbp",
+"Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen."
+]
+],
+"u": "Informele economie: Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten. Human Development Index: Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs. Groen bbp: Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen."
+},
+{
+"id": "H.v13.4.k02",
+"t": "koppel",
+"e": "H.bbp",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Brede welvaart",
+"Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders."
+],
+[
+"Duurzame ontwikkeling",
+"Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen."
+],
+[
+"Wellbeing Indicator",
+"Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk."
+]
+],
+"u": "Brede welvaart: Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders. Duurzame ontwikkeling: Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen. Wellbeing Indicator: Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk."
+},
+{
+"id": "H.v13.4.b01",
+"t": "mc",
+"e": "H.bbp",
+"b": "Informele economie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten.\"",
+"o": [
+"Informele economie",
+"Productiefunctie",
+"Groen bbp",
+"Toegevoegde waarde"
+],
+"a": 0,
+"u": "Informele economie: Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten."
+},
+{
+"id": "H.v13.4.b02",
+"t": "mc",
+"e": "H.bbp",
+"b": "Human Development Index",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs.\"",
+"o": [
+"Human Development Index",
+"Afnemende meeropbrengsten",
+"Bbp tegen factorkosten",
+"Productiefunctie"
+],
+"a": 0,
+"u": "Human Development Index: Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs."
+},
+{
+"id": "H.v13.4.b03",
+"t": "mc",
+"e": "H.bbp",
+"b": "Groen bbp",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen.\"",
+"o": [
+"Groen bbp",
+"Productiefunctie",
+"Totale factorproductiviteit",
+"Intermediair verbruik"
+],
+"a": 0,
+"u": "Groen bbp: Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen."
+},
+{
+"id": "H.v13.4.b04",
+"t": "mc",
+"e": "H.bbp",
+"b": "Brede welvaart",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders.\"",
+"o": [
+"Brede welvaart",
+"Economische groei",
+"Arbeidsproductiviteit",
+"Instituties"
+],
+"a": 0,
+"u": "Brede welvaart: Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders."
+},
+{
+"id": "H.v13.4.b05",
+"t": "mc",
+"e": "H.bbp",
+"b": "Duurzame ontwikkeling",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen.\"",
+"o": [
+"Duurzame ontwikkeling",
+"Informele economie",
+"Bbp tegen marktprijzen",
+"Arbeidsproductiviteit"
+],
+"a": 0,
+"u": "Duurzame ontwikkeling: Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen."
+},
+{
+"id": "H.v13.4.b06",
+"t": "mc",
+"e": "H.bbp",
+"b": "Wellbeing Indicator",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk.\"",
+"o": [
+"Wellbeing Indicator",
+"Economische groei",
+"Groen bbp",
+"Arbeidsproductiviteit"
+],
+"a": 0,
+"u": "Wellbeing Indicator: Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk."
+},
+{
+"t": "open",
+"titel": "Welvaart in Zuidmark",
+"q": "Het land Zuidmark meet zijn welvaart op twee manieren. Het bureau voor de statistiek publiceert elk jaar het bbp per hoofd, de Human Development Index (HDI) en de World Happiness Index (WHI).\nDe HDI combineert het inkomen per hoofd, de levensverwachting en het opleidingsniveau. De WHI is gebaseerd op een enquête. Daarin geven inwoners zelf een cijfer voor hoe gelukkig zij zich voelen.\nIn 2025 steeg het bbp per hoofd in Zuidmark sterk. De WHI daalde in dat jaar.\nLeg uit welke van de twee maatstaven, de HDI of de WHI, een subjectieve maatstaf voor welvaart is.",
+"model": "De WHI is subjectief, omdat inwoners zelf aangeven hoe gelukkig zij zich voelen. Dat is hun eigen mening. De HDI is niet subjectief, omdat die berekend wordt met meetbare gegevens: inkomen, levensverwachting en opleiding.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord: De WHI is subjectief, want de uitkomst is gebaseerd op de mening of beleving van de inwoners zelf (zij geven zelf een cijfer voor hun geluk). (1)\n• De HDI is niet subjectief (objectief), want die is gebaseerd op meetbare gegevens: inkomen, levensverwachting en opleidingsniveau. (1)",
+"pnt": 2,
+"id": "H.v13.4.IT00554",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Groen bbp in Noordvaart",
+"q": "Noordvaart is een eilandstaat met veel industrie en toerisme. De regering is trots op de groei van het bbp. Milieuorganisaties wijzen op meer vervuiling van kust en lucht.\nEen onderzoeksbureau schat de milieuschade en de milieuverbetering in geld. Verbetering komt bijvoorbeeld door nieuwe zuiveringsinstallaties. Alle bedragen staan in miljarden euro's.\nTabel Gegevens Noordvaart (in miljarden euro's):\n| 2024 | 2025\nBbp | 480 | 500\nGeschatte milieuschade | 40 | 70\nGeschatte milieuverbetering | 5 | 6\nToon met een berekening aan dat het groen bbp van Noordvaart in 2025 lager is dan in 2024, terwijl het bbp is gestegen, en geef aan welk welvaartsbegrip (eng of breed) daardoor een beter beeld geeft van de welvaart.\nDoe het als volgt:\n- bereken het groen bbp in 2024 en in 2025;\n- vergelijk beide uitkomsten en trek een conclusie.",
+"model": "Groen bbp 2024 = 480 − 40 + 5 = 445 miljard euro. Groen bbp 2025 = 500 − 70 + 6 = 436 miljard euro. Het bbp stijgt van 480 naar 500, maar de milieuschade stijgt veel harder. Daardoor daalt het groen bbp. Het brede welvaartsbegrip past beter, want het eng welvaartsbegrip (bbp) laat de schade buiten beschouwing.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord (groen bbp = bbp − milieuschade + milieuverbetering): Groen bbp 2024 = 480 − 40 + 5 = 445 miljard euro (1)\n• Groen bbp 2025 = 500 − 70 + 6 = 436 miljard euro (1)\n• Conclusie: het groen bbp daalt (445 → 436) terwijl het bbp stijgt (480 → 500), doordat de milieuschade meer toeneemt dan het bbp. Het brede welvaartsbegrip (groen bbp) geeft een beter beeld, want het bbp alleen (eng welvaartsbegrip) laat de milieuschade buiten beschouwing. (1)",
+"pnt": 3,
+"id": "H.v13.4.IT00555",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Oliestaat Karvia",
+"q": "Karvia is een klein land dat veel olie exporteert. Het bbp per hoofd is er hoog, het hoogste van de regio. Toch staat Karvia in de regio pas op de zesde plaats op de ranglijst van de Human Development Index (HDI).\nEen econoom zegt dat het bbp per hoofd de welvaart in Karvia te rooskleurig weergeeft, omdat het bbp een eng welvaartsbegrip is.\nNoem twee onderdelen van de HDI die geen deel uitmaken van het bbp per hoofd.",
+"model": "Levensverwachting en opleidingsniveau.\nPuntenverdeling:\n• Voorbeeld van een juist antwoord: Levensverwachting (gezondheid) (1)\n• Opleidingsniveau (onderwijs) (1)",
+"pnt": 2,
+"id": "H.v13.4.IT00556",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2023-I, vraag 25",
+"q": "(Examen vwo 2023-I, vraag 25)\nMilieueconomen stellen dat een circulaire economie het groen bbp kan verhogen. Leg uit dat dit klopt.",
+"model": "Meer productie met gerecyclede grondstoffen is minder milieuvervuilend (1). De monetaire milieuschade daalt bij gelijkblijvende productie, waardoor het groen bbp kan stijgen (1).",
+"pnt": 2,
+"id": "H.v13.4.v2023I25",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2023-II, vraag 10",
+"q": "(Examen vwo 2023-II, vraag 10)\nHet Plan Bureau stelt dat subsidie op hoger onderwijs een positief extern effect heeft en de brede welvaart verhoogt. Leg deze stelling uit.",
+"model": "Meer opgeleiden geven hogere productiviteit of betere producten, of beter inzicht in milieu en gezondheid (1). Die opbrengsten zitten niet in de prijs van onderwijs en zijn niet voor de student zelf, maar voor de samenleving, dus de brede welvaart stijgt (1).",
+"pnt": 2,
+"id": "H.v13.4.v2023II10",
+"e": "H.bbp"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2025-I, vraag 22",
+"q": "(Examen vwo 2025-I, vraag 22)\nOm een negatieve output gap te bestrijden verhoogt de overheid de bestedingen. Leg uit dat het groen bbp hierdoor zowel kan dalen als stijgen.",
+"model": "De bestedingen verhogen het bbp. Is het saldo van milieuverbetering en milieuschade (in geld) positief, nul of negatief maar kleiner dan de bbp-stijging, dan stijgt het groen bbp (1). Is de netto milieuschade groter dan de bbp-stijging, dan daalt het (1).",
+"pnt": 2,
+"id": "H.v13.4.v2025I22",
+"e": "H.bbp"
+}
+],
+"gens": [],
+"doel": "Wat zeggen macro-economische cijfers over de welvaart van een land?",
+"uitleg": [
+{
+"t": "Beperkingen van het bbp",
+"x": "Het bbp per hoofd meet alleen de gemiddelde materiële productie:\n- De informele economie (vrijwilligerswerk, mantelzorg, zwartwerk) telt niet mee.\n- Negatieve externe effecten (vervuiling, CO2, uitputting) worden niet afgetrokken. Herstel van milieuschade verhoogt het bbp zelfs.\n- Vrije tijd en arbeidsomstandigheden tellen niet mee.\n- Het zegt niets over de inkomensverdeling.\n- Boven een bepaald inkomen levert extra inkomen steeds minder extra geluk op."
+},
+{
+"t": "Brede welvaart",
+"x": "- HDI (VN): inkomen per hoofd, levensverwachting en onderwijs.\n- Better Life Index / Wellbeing Indicator (OESO): ook wonen, werk, milieu, gezondheid, veiligheid, werk-privébalans en tevredenheid.\n- Groen bbp: bbp gecorrigeerd voor milieuschade en uitputting.\n- Brede welvaart (CBS): welzijn hier en nu, later (behoud van kapitaal voor toekomstige generaties) en elders (effecten op andere landen).\nDuurzame ontwikkeling voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen."
+}
+]
+},
+{
+"id": "H.v14.1",
+"hfd": "Hoofdstuk 14 · Verdelingsvraagstukken",
+"niv": "v",
+"naam": "§14.1 Het meten van inkomensverdeling",
+"kort": "Op welke manieren kan de inkomensverdeling worden gemeten?",
+"vragen": [
+{
+"id": "H.v14.1.m01",
+"t": "mc",
+"e": "H.verdeling",
+"q": "De laagste 40% van de huishoudens ontvangt 20% van het inkomen. Hoe lees je dat af?",
+"o": [
+"Bij 40% op de horizontale as ligt de Lorenzcurve op 20%",
+"Bij 20% op de horizontale as ligt de Lorenzcurve op 40%",
+"De Gini-coëfficiënt is 0,2",
+"De Gini-coëfficiënt is 0,4"
+],
+"a": 0,
+"u": "Horizontaal: cumulatief deel van de huishoudens. Verticaal: cumulatief deel van het inkomen."
+},
+{
+"id": "H.v14.1.m02",
+"t": "mc",
+"e": "H.verdeling",
+"q": "Bij een Lorenzcurve is oppervlak A 0,15 en oppervlak B 0,35. Wat is de Gini-coëfficiënt?",
+"o": [
+"0,30",
+"0,43",
+"0,15",
+"0,50"
+],
+"a": 0,
+"u": "Gini = A / (A + B) = 0,15 / 0,50 = 0,30."
+},
+{
+"id": "H.v14.1.m03",
+"t": "mc",
+"e": "H.verdeling",
+"q": "Een student ontvangt studiefinanciering en betaalt minder collegegeld door overheidssubsidie. In welk inkomensbegrip zit het voordeel van die subsidie?",
+"o": [
+"In het tertiair inkomen",
+"In het primair inkomen",
+"Alleen in het secundair inkomen",
+"In geen enkel inkomensbegrip"
+],
+"a": 0,
+"u": "Profijt van gesubsidieerde voorzieningen telt pas mee in het tertiair inkomen."
+},
+{
+"id": "H.v14.1.m04",
+"t": "mc",
+"e": "H.verdeling",
+"q": "De AIQ in een bedrijfstak stijgt van 80% naar 95%. Wat is een waarschijnlijk gevolg?",
+"o": [
+"Bedrijven investeren minder of vooral in arbeidsbesparende machines",
+"De winsten stijgen sterk",
+"Banken lenen meer uit aan deze bedrijven",
+"De werkgelegenheid groeit snel"
+],
+"a": 0,
+"u": "Bij een hoge AIQ blijft er weinig winst over voor investeringen en wordt arbeid relatief duur."
+},
+{
+"id": "H.v14.1.k01",
+"t": "koppel",
+"e": "H.verdeling",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Primair inkomen",
+"Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid."
+],
+[
+"Secundair inkomen",
+"Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen."
+],
+[
+"Tertiair inkomen",
+"Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen."
+]
+],
+"u": "Primair inkomen: Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid. Secundair inkomen: Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen. Tertiair inkomen: Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen."
+},
+{
+"id": "H.v14.1.k02",
+"t": "koppel",
+"e": "H.verdeling",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Lorenzcurve",
+"Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen."
+],
+[
+"Gini-coëfficiënt",
+"Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve."
+],
+[
+"Personele inkomensverdeling",
+"De verdeling van het inkomen over personen of huishoudens."
+]
+],
+"u": "Lorenzcurve: Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen. Gini-coëfficiënt: Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve. Personele inkomensverdeling: De verdeling van het inkomen over personen of huishoudens."
+},
+{
+"id": "H.v14.1.k03",
+"t": "koppel",
+"e": "H.verdeling",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Categorale inkomensverdeling",
+"De verdeling van het inkomen over arbeid en de andere productiefactoren."
+],
+[
+"Arbeidsinkomensquote",
+"Het arbeidsinkomen als percentage van de toegevoegde waarde."
+],
+[
+"Deciel",
+"Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen."
+]
+],
+"u": "Categorale inkomensverdeling: De verdeling van het inkomen over arbeid en de andere productiefactoren. Arbeidsinkomensquote: Het arbeidsinkomen als percentage van de toegevoegde waarde. Deciel: Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen."
+},
+{
+"id": "H.v14.1.b01",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Primair inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid.\"",
+"o": [
+"Primair inkomen",
+"Heffingskorting",
+"Arbeidsinkomensquote",
+"Negatief vermogen"
+],
+"a": 0,
+"u": "Primair inkomen: Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid."
+},
+{
+"id": "H.v14.1.b02",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Secundair inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen.\"",
+"o": [
+"Secundair inkomen",
+"Personele inkomensverdeling",
+"Negatieve inkomstenbelasting",
+"Gini-coëfficiënt"
+],
+"a": 0,
+"u": "Secundair inkomen: Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen."
+},
+{
+"id": "H.v14.1.b03",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Tertiair inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen.\"",
+"o": [
+"Tertiair inkomen",
+"Minimumloon",
+"Deciel",
+"Heffingskorting"
+],
+"a": 0,
+"u": "Tertiair inkomen: Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen."
+},
+{
+"id": "H.v14.1.b04",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Lorenzcurve",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen.\"",
+"o": [
+"Lorenzcurve",
+"Categorale inkomensverdeling",
+"Secundair inkomen",
+"Vlaktaks"
+],
+"a": 0,
+"u": "Lorenzcurve: Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen."
+},
+{
+"id": "H.v14.1.b05",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Gini-coëfficiënt",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve.\"",
+"o": [
+"Gini-coëfficiënt",
+"Deciel",
+"Progressieve belasting",
+"Degressieve belasting"
+],
+"a": 0,
+"u": "Gini-coëfficiënt: Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve."
+},
+{
+"id": "H.v14.1.b06",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Personele inkomensverdeling",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verdeling van het inkomen over personen of huishoudens.\"",
+"o": [
+"Personele inkomensverdeling",
+"Nivellering",
+"Vlaktaks",
+"Denivellering"
+],
+"a": 0,
+"u": "Personele inkomensverdeling: De verdeling van het inkomen over personen of huishoudens."
+},
+{
+"id": "H.v14.1.b07",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Categorale inkomensverdeling",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De verdeling van het inkomen over arbeid en de andere productiefactoren.\"",
+"o": [
+"Categorale inkomensverdeling",
+"Vlaktaks",
+"Degressieve belasting",
+"Heffingskorting"
+],
+"a": 0,
+"u": "Categorale inkomensverdeling: De verdeling van het inkomen over arbeid en de andere productiefactoren."
+},
+{
+"id": "H.v14.1.b08",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Arbeidsinkomensquote",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het arbeidsinkomen als percentage van de toegevoegde waarde.\"",
+"o": [
+"Arbeidsinkomensquote",
+"Personele inkomensverdeling",
+"Minimumloon",
+"Primair inkomen"
+],
+"a": 0,
+"u": "Arbeidsinkomensquote: Het arbeidsinkomen als percentage van de toegevoegde waarde."
+},
+{
+"id": "H.v14.1.b09",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Deciel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen.\"",
+"o": [
+"Deciel",
+"Negatief vermogen",
+"Wet van Tinbergen",
+"Primair inkomen"
+],
+"a": 0,
+"u": "Deciel: Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen."
+},
+{
+"id": "H.v14.1.b10",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Kwintiel",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een vijfde deel van een groep, gerangschikt van laag naar hoog inkomen.\"",
+"o": [
+"Kwintiel",
+"Categorale inkomensverdeling",
+"Negatief vermogen",
+"Nivellering"
+],
+"a": 0,
+"u": "Kwintiel: Een vijfde deel van een groep, gerangschikt van laag naar hoog inkomen."
+},
+{
+"t": "open",
+"titel": "Inkomensverdeling in Kalvandia",
+"q": "In Kalvandia heeft een onderzoeksbureau de inkomens van alle huishoudens geordend van laag naar hoog. Het bureau heeft de Lorenzcurve van de verdeling van het besteedbare inkomen getekend. De waarden staan ook in de tabel.\nDe middengroep bestaat uit de huishoudens tussen 20% en 60% van de bevolking.\nTabel Lorenzcurve Kalvandia (fictieve cijfers):\nCumulatief % van de bevolking | Cumulatief % van het inkomen\n20 | 7\n40 | 19\n60 | 38\n80 | 64\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nKalvandia: 20% → 7% | 40% → 19% | 60% → 38% | 80% → 64%\nBereken hoeveel keer zo groot het inkomensaandeel van de rijkste 20% is als dat van de middengroep. Rond af op één decimaal.\nGebruik de figuur en de tabel.",
+"model": "Middengroep: 38% − 7% = 31% van het inkomen. Rijkste 20%: 100% − 64% = 36%. Verhouding: 36 : 31 ≈ 1,2. De rijkste 20% heeft dus 1,2 keer zoveel inkomen als de middengroep.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende stappen: Aandeel middengroep: 38% − 7% = 31% (1)\n• Aandeel rijkste 20%: 100% − 64% = 36% (1)\n• Verhouding 36 : 31 ≈ 1,2 keer zo groot (1)",
+"pnt": 3,
+"id": "H.v14.1.IT00514",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Herverdeling in Ostvaria",
+"q": "In Ostvaria verdienen huishoudens vooral met arbeid en vermogen. De overheid heft belasting en betaalt uitkeringen en toeslagen. Een onderzoeksbureau vergelijkt twee Lorenzcurves: die van het primaire inkomen en die van het secundaire inkomen. De waarden staan ook in de tabel.\nTabel Lorenzcurves Ostvaria (fictieve cijfers):\nCumulatief % van de bevolking | Cumulatief % van het primaire inkomen | Cumulatief % van het secundaire inkomen\n20 | 4 | 10\n40 | 13 | 25\n60 | 30 | 44\n80 | 58 | 68\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nPrimair inkomen: 20% → 4% | 40% → 13% | 60% → 30% | 80% → 58%\nSecundair inkomen: 20% → 10% | 40% → 25% | 60% → 44% | 80% → 68%\nBereken hoeveel procent meer de rijkste 20% van de huishoudens verdient dan de armste 20% na herverdeling.\nGebruik de figuur en de tabel.",
+"model": "Na herverdeling gebruik ik de secundaire curve. Armste 20%: 10%. Rijkste 20%: 100% − 68% = 32%. Verschil: (32 − 10) : 10 × 100% = 220%. De rijkste 20% verdient dus 220% meer.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende stappen: Armste 20% heeft 10% van het secundaire inkomen; rijkste 20% heeft 100% − 68% = 32% (1)\n• (32 − 10) : 10 × 100% = 220% meer (1)",
+"pnt": 2,
+"id": "H.v14.1.IT00515",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Inkomensverdeling in Merrowin",
+"q": "Een instituut in het land Merrowin onderzoekt hoe het inkomen over de bevolking is verdeeld. De uitkomst is weergegeven in een Lorenzcurve (fictieve cijfers).\nGebruik de figuur. De curve gaat door de punten (20% bevolking, 6% inkomen), (40%, 18%), (60%, 36%) en (80%, 62%).\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nMerrowin: 20% → 6% | 40% → 18% | 60% → 36% | 80% → 62%\nMaak van onderstaande tekst een economisch juiste tekst.\nOp de horizontale as van een Lorenzcurve staat het cumulatieve percentage van de ...(1)... . Op de verticale as staat het cumulatieve percentage van het ...(2)... . Het aandeel van de groep tussen 40% en 60% van de bevolking is de afgelezen waarde bij 60% ...(3)... de afgelezen waarde bij 40%. Dit aandeel is ...(4)... % van het totale inkomen.\nKies uit: bij (1) bevolking / inkomen / belasting\nKies uit: bij (2) inkomen / aantal huishoudens / aantal uren werk\nKies uit: bij (3) min / plus / gedeeld door\nKies uit: bij (4) 18 / 36 / 54",
+"model": "Op de horizontale as staat het cumulatieve percentage van de bevolking en op de verticale as het cumulatieve percentage van het inkomen. Het aandeel van de groep tussen 40% en 60% is de waarde bij 60% min de waarde bij 40%: 36 min 18 is 18%.\nPuntenverdeling:\n• bij (1) bevolking, bij (2) inkomen en bij (3) min (1)\n• bij (4) 18 (36 min 18) (1)",
+"pnt": 2,
+"id": "H.v14.1.IT00522",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 1",
+"q": "(Examen vwo 2022-II, vraag 1)\nEen deel van de zzp'ers heeft een te laag uurtarief om de kosten te dekken. Leg uit hoe de Lorenzcurve van de primaire inkomens daarop moet worden aangepast.",
+"model": "Verlieslijdende zzp'ers hebben een negatief primair inkomen (1). De curve begint daardoor onder de horizontale as en komt pas bij 20% van de personen weer boven die as (1).",
+"pnt": 2,
+"id": "H.v14.1.v2022II1",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2018-II, vraag 5",
+"q": "(Examen vwo 2018-II, vraag 5)\nEen journaliste zegt dat een systeem met een eigen risico de beschikbare inkomens na zorgbijdragen kan denivelleren. Leg deze stelling uit.",
+"model": "Het eigen risico is een groter percentage van een laag inkomen dan van een hoog inkomen, dus lage inkomens gaan procentueel meer achteruit. Of: lage inkomens zijn vaker ongezond, doen vaker een beroep op zorg en betalen vaker het eigen risico.",
+"pnt": 1,
+"id": "H.v14.1.v2018II5",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 25",
+"q": "(Examen vwo 2021-I, vraag 25)\nIn een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
+"pnt": 2,
+"id": "H.v14.1.v2021I25",
+"e": "H.verdeling"
+}
+],
+"gens": [],
+"doel": "Op welke manieren kan de inkomensverdeling worden gemeten?",
+"uitleg": [
+{
+"t": "Drie inkomensbegrippen",
+"x": "- Primair inkomen: wat je verdient met productiefactoren (loon, rente, pacht, dividend, huur, winst).\n- Secundair (besteedbaar) inkomen = primair inkomen − directe belastingen en premies + uitkeringen en toeslagen.\n- Tertiair inkomen = secundair inkomen − indirecte belastingen + profijt van gesubsidieerde voorzieningen (onderwijs, cultuur)."
+},
+{
+"t": "Lorenzcurve en Gini",
+"x": "De personele inkomensverdeling is de verdeling over personen of huishoudens. In de Lorenzcurve staat horizontaal het cumulatieve percentage huishoudens (van laag naar hoog inkomen) en verticaal het cumulatieve percentage van het inkomen.\nDe diagonaal is volkomen gelijkheid. Hoe verder de curve doorbuigt, hoe ongelijker.\nGini-coëfficiënt = A / (A + B), met A het oppervlak tussen diagonaal en curve en B het oppervlak onder de curve. 0 = volkomen gelijk, 1 = volkomen ongelijk. Vermogen is veel ongelijker verdeeld dan inkomen.\nJe kunt ook kwartielen (4 groepen), kwintielen (5) of decielen (10) vergelijken."
+},
+{
+"t": "Categorale verdeling en AIQ",
+"x": "De categorale inkomensverdeling is de verdeling over arbeid en de andere productiefactoren.\nAIQ = (looninkomen + toegerekend loon zelfstandigen) / toegevoegde waarde × 100%. In Nederland daalde de AIQ van ongeveer 83% (1970) naar ongeveer 75%.\nStijgt de AIQ sterk, dan dalen de winsten. Gevolgen: minder investeringen, faillissementen, minder krediet van banken en vooral arbeidsbesparende investeringen of verplaatsing naar lagelonenlanden. De werkgelegenheid komt onder druk."
+}
+]
+},
+{
+"id": "H.v14.2",
+"hfd": "Hoofdstuk 14 · Verdelingsvraagstukken",
+"niv": "v",
+"naam": "§14.2 Nivellering en denivellering",
+"kort": "Door welke oorzaken kan de inkomensverdeling veranderen?",
+"vragen": [
+{
+"id": "H.v14.2.m01",
+"t": "mc",
+"e": "H.verdeling",
+"q": "De vraag naar ict-specialisten stijgt sterk door technologische ontwikkeling, terwijl het aantal afgestudeerden gelijk blijft. Wat verwacht je volgens Tinbergen?",
+"o": [
+"Denivellering",
+"Nivellering",
+"Geen verandering in de verdeling",
+"Een lagere Gini-coëfficiënt"
+],
+"a": 0,
+"u": "De lonen van hoogopgeleiden stijgen harder, dus worden de verschillen groter."
+},
+{
+"id": "H.v14.2.m02",
+"t": "mc",
+"e": "H.verdeling",
+"q": "De Gini-coëfficiënt van een land daalt van 0,32 naar 0,28. Wat is er gebeurd?",
+"o": [
+"Nivellering: de inkomensverschillen zijn kleiner geworden",
+"Denivellering",
+"Het gemiddelde inkomen is gedaald",
+"Het bbp is gestegen"
+],
+"a": 0,
+"u": "Een lagere Gini betekent dat de Lorenzcurve dichter bij de diagonaal ligt."
+},
+{
+"id": "H.v14.2.m03",
+"t": "mc",
+"e": "H.verdeling",
+"q": "Waarom is de ongelijkheid tussen landen in de wereld de laatste decennia afgenomen?",
+"o": [
+"Door de snelle economische groei in opkomende landen zoals China en India",
+"Doordat alle westerse landen armer zijn geworden",
+"Doordat de ongelijkheid binnen landen overal is gedaald",
+"Door de invoering van een wereldwijde vlaktaks"
+],
+"a": 0,
+"u": "Grote, arme landen groeiden veel sneller dan rijke landen."
+},
+{
+"id": "H.v14.2.m04",
+"t": "mc",
+"e": "H.verdeling",
+"q": "Welke verdeling is in Nederland het meest ongelijk?",
+"o": [
+"De vermogensverdeling",
+"De verdeling van het secundair inkomen",
+"De verdeling van het tertiair inkomen",
+"De verdeling van de AOW-uitkeringen"
+],
+"a": 0,
+"u": "Vermogen stapelt zich op over generaties en sommige huishoudens hebben negatief vermogen."
+},
+{
+"id": "H.v14.2.k01",
+"t": "koppel",
+"e": "H.verdeling",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Nivellering",
+"Het kleiner worden van de relatieve inkomensverschillen."
+],
+[
+"Denivellering",
+"Het groter worden van de relatieve inkomensverschillen."
+],
+[
+"Wet van Tinbergen",
+"De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs."
+]
+],
+"u": "Nivellering: Het kleiner worden van de relatieve inkomensverschillen. Denivellering: Het groter worden van de relatieve inkomensverschillen. Wet van Tinbergen: De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs."
+},
+{
+"id": "H.v14.2.b01",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Nivellering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het kleiner worden van de relatieve inkomensverschillen.\"",
+"o": [
+"Nivellering",
+"Primair inkomen",
+"Wet van Tinbergen",
+"Arbeidsinkomensquote"
+],
+"a": 0,
+"u": "Nivellering: Het kleiner worden van de relatieve inkomensverschillen."
+},
+{
+"id": "H.v14.2.b02",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Denivellering",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het groter worden van de relatieve inkomensverschillen.\"",
+"o": [
+"Denivellering",
+"Nivellering",
+"Kwintiel",
+"Personele inkomensverdeling"
+],
+"a": 0,
+"u": "Denivellering: Het groter worden van de relatieve inkomensverschillen."
+},
+{
+"id": "H.v14.2.b03",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Wet van Tinbergen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs.\"",
+"o": [
+"Wet van Tinbergen",
+"Nivellering",
+"Heffingskorting",
+"Arbeidsinkomensquote"
+],
+"a": 0,
+"u": "Wet van Tinbergen: De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs."
+},
+{
+"id": "H.v14.2.b04",
+"t": "mc",
+"e": "H.verdeling",
+"b": "Negatief vermogen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Een huishouden heeft meer schulden dan bezittingen.\"",
+"o": [
+"Negatief vermogen",
+"Primair inkomen",
+"Gini-coëfficiënt",
+"Wet van Tinbergen"
+],
+"a": 0,
+"u": "Negatief vermogen: Een huishouden heeft meer schulden dan bezittingen."
+},
+{
+"t": "open",
+"titel": "Het inkomen van een huishouden",
+"q": "Anouk en Rik Verbrugge hebben samen een loon van € 30.000 per jaar. Zij ontvangen € 3.000 aan toeslagen. Zij betalen € 8.000 aan belastingen en sociale premies.\nMaak van onderstaande tekst een economisch juiste tekst.\nHet loon van € 30.000 is het ...(1)... inkomen van dit huishouden. Na het bijtellen van de toeslagen en het aftrekken van de belastingen en premies houdt het huishouden zijn ...(2)... inkomen over. Dat is € ...(3)... .\nKies uit: bij (1) primaire / besteedbare / nominale\nbij (2) besteedbare / primaire / reële\nbij (3) 22.000 / 25.000 / 33.000",
+"model": "(1) primaire, (2) besteedbare, (3) 25.000. Het loon is het primaire inkomen. Besteedbaar inkomen = 30.000 + 3.000 - 8.000 = € 25.000.\nPuntenverdeling:\n• bij (1) primaire en bij (2) besteedbare (beide juist) (1)\n• bij (3) 25.000 (30.000 + 3.000 - 8.000) (1)",
+"pnt": 2,
+"id": "H.v14.2.IT00313",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Inkomensverdeling in Zuidmark",
+"q": "In het fictieve land Zuidmark is de inkomensverdeling van huishoudens in 2025 op twee manieren weergegeven. De figuur toont twee Lorenzcurves: één voor het primair inkomen en één voor het besteedbaar inkomen. Welke curve bij welk inkomen hoort, staat er niet bij.\nDe cijfers zijn fictief en benaderen de werkelijkheid.\nLorenzcurve (cumulatief % van het inkomen bij 20, 40, 60 en 80% van de bevolking):\nCurve 1: 20% → 4% | 40% → 12% | 60% → 27% | 80% → 50%\nCurve 2: 20% → 10% | 40% → 24% | 60% → 42% | 80% → 64%\nLeid met behulp van de figuur af of het belasting- en uitkeringsstelsel in Zuidmark heeft genivelleerd. Onderbouw je antwoord met getallen uit de figuur.",
+"model": "Curve 2 ligt dichter bij de diagonaal, dus is gelijker: dat is het besteedbaar inkomen. De armste 20% krijgt 10% in plaats van 4%. De rijkste 20% krijgt 36% in plaats van 50%. De verschillen worden kleiner: er is genivelleerd.\nPuntenverdeling:\n• Curve 2 ligt dichter bij de diagonaal, dus is gelijker verdeeld en hoort bij het besteedbaar inkomen; curve 1 is het primair inkomen (1)\n• Aflezing: armste 20% heeft 4% (primair) tegenover 10% (besteedbaar); rijkste 20% heeft 100 - 50 = 50% tegenover 100 - 64 = 36% (1)\n• Conclusie: de verschillen zijn kleiner geworden (rijkste : armste daalt van 12,5 naar 3,6 keer), dus er is genivelleerd (1)",
+"pnt": 3,
+"id": "H.v14.2.IT00315",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Het stelsel van Weststrand",
+"q": "In het fictieve land Weststrand willen onderzoekers weten of het belasting- en uitkeringsstelsel de inkomensverschillen verkleint. Zij vergelijken een huishouden met een laag inkomen en een huishouden met een hoog inkomen. Alle bedragen zijn per jaar.\nDe cijfers zijn fictief en benaderen de werkelijkheid.\nTabel Inkomensgegevens van twee huishoudens in Weststrand (in euro's):\nHuishouden | Primair inkomen | Belastingen en premies | Uitkeringen en toeslagen\nLaag inkomen | 18.000 | 3.500 | 4.600\nHoog inkomen | 90.000 | 33.000 | 600\nToon met een berekening aan dat de verhouding tussen het inkomen van het huishouden met een hoog inkomen en dat van het huishouden met een laag inkomen kleiner wordt door het stelsel in Weststrand.",
+"model": "Besteedbaar inkomen laag: 18.000 + 4.600 - 3.500 = 19.100. Hoog: 90.000 + 600 - 33.000 = 57.600. Primair verdient hoog 90.000 : 18.000 = 5,0 keer zoveel als laag. Besteedbaar is dat 57.600 : 19.100 = 3,0 keer zoveel. De verhouding wordt kleiner, dus het stelsel nivelleert.\nPuntenverdeling:\n• Berekening van het besteedbaar inkomen van beide huishoudens: laag 18.000 + 4.600 - 3.500 = 19.100 en hoog 90.000 + 600 - 33.000 = 57.600 (1)\n• Berekening van de verhouding hoog : laag voor het primaire inkomen (90.000 : 18.000 = 5,0) en voor het besteedbaar inkomen (57.600 : 19.100 = 3,0), en de conclusie dat de verhouding kleiner wordt, dus het stelsel nivelleert (1)",
+"pnt": 2,
+"id": "H.v14.2.IT00360",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2018-II, vraag 5",
+"q": "(Examen vwo 2018-II, vraag 5)\nEen journaliste zegt dat een systeem met een eigen risico de beschikbare inkomens na zorgbijdragen kan denivelleren. Leg deze stelling uit.",
+"model": "Het eigen risico is een groter percentage van een laag inkomen dan van een hoog inkomen, dus lage inkomens gaan procentueel meer achteruit. Of: lage inkomens zijn vaker ongezond, doen vaker een beroep op zorg en betalen vaker het eigen risico.",
+"pnt": 1,
+"id": "H.v14.2.v2018II5",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 25",
+"q": "(Examen vwo 2021-I, vraag 25)\nIn een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
+"pnt": 2,
+"id": "H.v14.2.v2021I25",
+"e": "H.verdeling"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-II, vraag 25",
+"q": "(Examen vwo 2021-II, vraag 25)\nSchrijf namens de minister van Sociale Zaken een reactie waarin je twee beweringen toelicht. De eerste: buitenlandse beleggers komen sowieso al, blijkens de arbeidsinkomensquote. De tweede: het effect op de secundaire inkomensverdeling is ongewenst.",
+"model": "De AIQ in het eigen land daalt en in de buurlanden niet, dus de winstquote stijgt en beleggen is al aantrekkelijker (2p). Hoge inkomens beleggen meer, dus ze profiteren meer en er komt denivellering (1p). De Gini steeg al, dus de kloof groeit verder (1p).",
+"pnt": 4,
+"id": "H.v14.2.v2021II25",
+"e": "H.verdeling"
+}
+],
+"gens": [],
+"doel": "Door welke oorzaken kan de inkomensverdeling veranderen?",
+"uitleg": [
+{
+"t": "Begrippen",
+"x": "Nivellering: de relatieve inkomensverschillen worden kleiner. De Lorenzcurve schuift naar de diagonaal en de Gini daalt.\nDenivellering: de verschillen worden groter. De Gini stijgt."
+},
+{
+"t": "Oorzaken in Nederland",
+"x": "Wet van Tinbergen: de verdeling is een wedloop tussen technologie (meer vraag naar hoogopgeleiden: denivellering) en onderwijs (meer aanbod van hoogopgeleiden: nivellering). Na de Tweede Wereldoorlog steeg het opleidingsniveau sterk: nivellering.\nDe uitbouw van de sociale zekerheid (AOW, WW, bijstand) en progressieve belastingen verkleinden de verschillen in secundair inkomen.\nVermogen is veel ongelijker verdeeld dan inkomen. Een deel van de huishoudens heeft zelfs een negatief vermogen, bijvoorbeeld door een studieschuld of restschuld."
+},
+{
+"t": "Internationaal",
+"x": "De wereld-Gini bestaat uit ongelijkheid binnen landen en tussen landen. Door de snelle groei van China en India is de ongelijkheid tussen landen afgenomen, terwijl die binnen veel westerse landen licht is toegenomen."
+}
+]
+},
+{
+"id": "H.v14.3",
+"hfd": "Hoofdstuk 14 · Verdelingsvraagstukken",
+"niv": "v",
+"naam": "§14.3 Overheidsingrepen en de inkomensverdeling",
+"kort": "Op welke manier kan de overheid de inkomensverdeling beïnvloeden?",
+"vragen": [
+{
+"id": "H.v14.3.m01",
+"t": "mc",
+"e": "H.belasting",
+"q": "Een vlaktaks van 37% gaat samen met een vaste heffingskorting van € 3.000 voor iedereen. Hoe werkt dit stelsel?",
+"o": [
+"Licht progressief: het gemiddelde tarief stijgt met het inkomen",
+"Precies proportioneel",
+"Degressief",
+"Het heeft geen effect op de verdeling"
+],
+"a": 0,
+"u": "Bij een laag inkomen is € 3.000 korting relatief veel, dus het gemiddelde tarief ligt dan lager."
+},
+{
+"id": "H.v14.3.m02",
+"t": "mc",
+"e": "H.belasting",
+"q": "Waarom werkt de hypotheekrenteaftrek vaak denivellerend?",
+"o": [
+"Hogere inkomens hebben vaak duurdere huizen en een hoger tarief, dus meer voordeel",
+"Omdat alleen lage inkomens een hypotheek hebben",
+"Omdat de aftrek een indirecte belasting is",
+"Omdat huurders ook aftrek krijgen"
+],
+"a": 0,
+"u": "Een aftrekpost levert meer op naarmate de aftrek groter is en het tarief waartegen je aftrekt hoger."
+},
+{
+"id": "H.v14.3.m03",
+"t": "mc",
+"e": "H.belasting",
+"q": "Welke maatregel beïnvloedt de primaire inkomensverdeling?",
+"o": [
+"Een verhoging van het wettelijk minimumloon",
+"Een hogere huurtoeslag",
+"Een hogere btw",
+"Een hoger tarief in de inkomstenbelasting"
+],
+"a": 0,
+"u": "Het minimumloon verandert het bruto inkomen uit arbeid, nog vóór belastingen en toeslagen."
+},
+{
+"id": "H.v14.3.m04",
+"t": "mc",
+"e": "H.belasting",
+"q": "Wat is het belangrijkste nadeel van sterk nivelleren met hoge marginale tarieven?",
+"o": [
+"Het verkleint de prikkel om te werken, te leren en te ondernemen",
+"De inkomensverschillen worden groter",
+"De Gini-coëfficiënt stijgt",
+"De overheid ontvangt minder belasting van hoge inkomens"
+],
+"a": 0,
+"u": "Rechtvaardigheid en doelmatigheid kunnen botsen: als extra werk weinig oplevert, werken mensen minder."
+},
+{
+"id": "H.v14.3.k01",
+"t": "koppel",
+"e": "H.belasting",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Vlaktaks",
+"Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt."
+],
+[
+"Progressieve belasting",
+"Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt."
+],
+[
+"Degressieve belasting",
+"Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt."
+]
+],
+"u": "Vlaktaks: Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt. Progressieve belasting: Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt. Degressieve belasting: Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt."
+},
+{
+"id": "H.v14.3.k02",
+"t": "koppel",
+"e": "H.belasting",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Negatieve inkomstenbelasting",
+"Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen."
+],
+[
+"Heffingskorting",
+"Bedrag dat van de te betalen belasting wordt afgetrokken."
+],
+[
+"Minimumloon",
+"Het wettelijk laagste loon dat een werkgever mag betalen."
+]
+],
+"u": "Negatieve inkomstenbelasting: Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen. Heffingskorting: Bedrag dat van de te betalen belasting wordt afgetrokken. Minimumloon: Het wettelijk laagste loon dat een werkgever mag betalen."
+},
+{
+"id": "H.v14.3.b01",
+"t": "mc",
+"e": "H.belasting",
+"b": "Vlaktaks",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt.\"",
+"o": [
+"Vlaktaks",
+"Degressieve belasting",
+"Deciel",
+"Nivellering"
+],
+"a": 0,
+"u": "Vlaktaks: Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt."
+},
+{
+"id": "H.v14.3.b02",
+"t": "mc",
+"e": "H.belasting",
+"b": "Progressieve belasting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt.\"",
+"o": [
+"Progressieve belasting",
+"Wet van Tinbergen",
+"Negatieve inkomstenbelasting",
+"Primair inkomen"
+],
+"a": 0,
+"u": "Progressieve belasting: Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt."
+},
+{
+"id": "H.v14.3.b03",
+"t": "mc",
+"e": "H.belasting",
+"b": "Degressieve belasting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt.\"",
+"o": [
+"Degressieve belasting",
+"Heffingskorting",
+"Gini-coëfficiënt",
+"Arbeidsinkomensquote"
+],
+"a": 0,
+"u": "Degressieve belasting: Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt."
+},
+{
+"id": "H.v14.3.b04",
+"t": "mc",
+"e": "H.belasting",
+"b": "Negatieve inkomstenbelasting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen.\"",
+"o": [
+"Negatieve inkomstenbelasting",
+"Categorale inkomensverdeling",
+"Vlaktaks",
+"Denivellering"
+],
+"a": 0,
+"u": "Negatieve inkomstenbelasting: Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen."
+},
+{
+"id": "H.v14.3.b05",
+"t": "mc",
+"e": "H.belasting",
+"b": "Heffingskorting",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Bedrag dat van de te betalen belasting wordt afgetrokken.\"",
+"o": [
+"Heffingskorting",
+"Personele inkomensverdeling",
+"Deciel",
+"Nivellering"
+],
+"a": 0,
+"u": "Heffingskorting: Bedrag dat van de te betalen belasting wordt afgetrokken."
+},
+{
+"id": "H.v14.3.b06",
+"t": "mc",
+"e": "H.belasting",
+"b": "Minimumloon",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het wettelijk laagste loon dat een werkgever mag betalen.\"",
+"o": [
+"Minimumloon",
+"Tertiair inkomen",
+"Gini-coëfficiënt",
+"Denivellering"
+],
+"a": 0,
+"u": "Minimumloon: Het wettelijk laagste loon dat een werkgever mag betalen."
+},
+{
+"t": "open",
+"titel": "Een vaste korting voor iedereen",
+"q": "In het land Zuidmark krijgt iedere belastingbetaler dezelfde heffingskorting van € 3.000. Die korting gaat af van de belasting die je moet betalen. Lotte heeft een laag inkomen, Bram een hoog inkomen.\nNetto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.\nTabel Inkomen en belasting per jaar (in euro's):\n| Lotte | Bram\nBruto-inkomen | 20.000 | 80.000\nBelasting vóór korting | 7.000 | 28.000\nHeffingskorting | 3.000 | 3.000\nLeg uit dat deze heffingskorting nivellerend werkt.\nMaak de redenering af.\nSchakel 1 (gegeven): iedereen krijgt hetzelfde vaste bedrag aan heffingskorting.\nSchakel 2: Vergelijk dit vaste bedrag met het inkomen en de belasting van Lotte en van Bram. ......\nSchakel 3: Noem het effect op het verschil tussen de netto-inkomens van Lotte en Bram. ......",
+"model": "Elke belastingbetaler krijgt € 3.000. Voor Lotte is dat een groot deel van haar inkomen en haar belasting, voor Bram maar een klein deel. Lotte gaat er daardoor in verhouding meer op vooruit. De netto-inkomens komen dichter bij elkaar (verhouding van 4,0 naar 3,4). Dat is nivellering.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Het vaste bedrag is voor Lotte (laag inkomen) een veel groter deel van haar inkomen en belasting dan voor Bram (hoog inkomen). (1)\n• Daardoor stijgt het netto-inkomen van Lotte in verhouding meer dan dat van Bram, dus de netto-inkomens komen dichter bij elkaar (het verschil wordt kleiner): nivellering. (1)",
+"pnt": 2,
+"id": "H.v14.3.IT00523",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Een korting die afneemt",
+"q": "In het land Westerhaven krijgen mensen met een laag inkomen een hoge heffingskorting. Bij een hoger inkomen wordt de korting kleiner. Noor heeft een laag inkomen, Pieter een hoog inkomen.\nNetto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.\nTabel Inkomen en belasting per jaar (in euro's):\n| Noor | Pieter\nBruto-inkomen | 24.000 | 96.000\nBelasting vóór korting | 7.200 | 36.000\nHeffingskorting | 2.800 | 400\nBeredeneer waarom de heffingskorting in Westerhaven nivellerend werkt.\nVergelijk in je antwoord Noor en Pieter en noem het effect op het verschil tussen hun netto-inkomens.",
+"model": "De korting is bij Noor € 2.800 en bij Pieter € 400: ze daalt bij een hoger inkomen. Noor gaat netto in verhouding veel meer vooruit dan Pieter. Zonder korting is de verhouding 60.000 : 16.800 = 3,6, met korting 60.400 : 19.600 = 3,1. De netto-inkomens komen dichter bij elkaar: nivellering.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: De heffingskorting daalt bij een hoger inkomen: Noor (laag inkomen) krijgt € 2.800, Pieter (hoog inkomen) maar € 400. (1)\n• Daardoor stijgt het netto-inkomen van Noor in verhouding veel meer dan dat van Pieter (Noor betaalt in verhouding minder belasting). (1)\n• Het verschil tussen de netto-inkomens wordt kleiner (de verhouding daalt van 3,6 naar 3,1): de inkomens komen dichter bij elkaar, dus nivellering. (1)",
+"pnt": 3,
+"id": "H.v14.3.IT00524",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Hogere heffingskorting in Brevonia",
+"q": "De regering van Brevonia verhoogt de heffingskorting voor inkomens tot € 40.000 van € 1.200 naar € 2.000 per jaar. Mensen met een hoger inkomen hebben geen heffingskorting en merken niets van de maatregel.\nAnouk heeft een laag inkomen, Dirk een hoog inkomen. Netto-inkomen = bruto-inkomen − belasting vóór korting + heffingskorting.\nTabel Inkomen en belasting per jaar (in euro's):\n| Anouk | Dirk\nBruto-inkomen | 18.000 | 72.000\nBelasting vóór korting | 5.400 | 25.200\nToon met een berekening aan dat deze verhoging van de heffingskorting leidt tot meer nivellering.\nVergelijk het netto-inkomen van Dirk met dat van Anouk vóór en na de verhoging.",
+"model": "Vóór de verhoging: Anouk 18.000 − 5.400 + 1.200 = 13.800, Dirk 72.000 − 25.200 = 46.800. Verhouding 46.800 : 13.800 = 3,4. Daarna: Anouk 14.600, verhouding 46.800 : 14.600 = 3,2. De verhouding wordt kleiner, dus het netto-verschil neemt af: meer nivellering.\nPuntenverdeling:\n• Een juist antwoord bevat de volgende elementen: Netto-inkomens vóór de verhoging: Anouk 18.000 − 5.400 + 1.200 = 13.800 en Dirk 72.000 − 25.200 = 46.800; verhouding 46.800 : 13.800 = 3,4. Na de verhoging: Anouk 18.000 − 5.400 + 2.000 = 14.600; verhouding 46.800 : 14.600 = 3,2. (1)\n• Conclusie: de verhouding (het verschil) tussen de netto-inkomens wordt kleiner (3,4 wordt 3,2), dus er is meer nivellering. (1)",
+"pnt": 2,
+"id": "H.v14.3.IT00525",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 25",
+"q": "(Examen vwo 2021-I, vraag 25)\nIn een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
+"pnt": 2,
+"id": "H.v14.3.v2021I25",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2021-I, vraag 26",
+"q": "(Examen vwo 2021-I, vraag 26)\nTarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
+"model": "Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.",
+"pnt": 2,
+"id": "H.v14.3.v2021I26",
+"e": "H.belasting"
+},
+{
+"t": "open",
+"titel": "Examen vwo 2022-II, vraag 2",
+"q": "(Examen vwo 2022-II, vraag 2)\nDe heffingskorting voor zelfstandigen gaat € 2.000 omlaag in een progressief stelsel. Beargumenteer hoe de Lorenzcurve van de secundaire inkomens van zzp'ers verschuift.",
+"model": "Lage inkomens betalen relatief meer belasting dan hoge, dus de inkomensverschillen worden groter (1). Door deze denivellering schuift de Lorenzcurve van de secundaire inkomens naar buiten (1).",
+"pnt": 2,
+"id": "H.v14.3.v2022II2",
+"e": "H.belasting"
+}
+],
+"gens": [],
+"doel": "Op welke manier kan de overheid de inkomensverdeling beïnvloeden?",
+"uitleg": [
+{
+"t": "Ingrijpen op drie niveaus",
+"x": "- Primair: wettelijk minimumloon en maximuminkomens (Wet normering topinkomens).\n- Secundair: progressieve inkomstenbelasting, uitkeringen en toeslagen, heffingskortingen (nivellerend) en aftrekposten zoals hypotheekrenteaftrek (vaak denivellerend).\n- Tertiair: indirecte belastingen (vaak licht denivellerend, want lage inkomens consumeren een groter deel van hun inkomen) en gesubsidieerde voorzieningen."
+},
+{
+"t": "Belastingstelsels",
+"x": "- Progressief: het gemiddelde tarief stijgt met het inkomen. Het marginale tarief ligt boven het gemiddelde. Nivellerend.\n- Proportioneel (vlaktaks): iedereen betaalt hetzelfde percentage. Met een heffingskorting of belastingvrije voet werkt een vlaktaks toch licht nivellerend.\n- Degressief: het gemiddelde tarief daalt met het inkomen. Denivellerend.\n- Negatieve inkomstenbelasting: onder een grens krijg je geld van de overheid, dat geleidelijk wordt afgebouwd als je meer verdient."
+},
+{
+"t": "Rechtvaardigheid tegenover doelmatigheid",
+"x": "Sterk nivelleren (hoge marginale tarieven en hoge uitkeringen) maakt de verdeling rechtvaardiger, maar kan de prikkel om te werken, te leren en te ondernemen verkleinen (armoedeval). Dan groeit de economische taart minder hard."
+}
+]
 }
 ]);
 LEVELS.I.push(...[
@@ -11817,9 +17515,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de feitelijke productie en de potentiële productie.\"",
 "o": [
 "Output gap",
-"Ingebouwde stabilisatoren",
 "Marginale spaarquote",
-"Inverdieneffect"
+"Laagconjunctuur",
+"Hoogconjunctuur"
 ],
 "a": 0,
 "u": "Output gap: Het verschil tussen de feitelijke productie en de potentiële productie."
@@ -11832,9 +17530,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de feitelijke productie boven de potentiële productie ligt.\"",
 "o": [
 "Hoogconjunctuur",
-"Trend",
-"Ingebouwde stabilisatoren",
-"Anticyclisch conjunctuurbeleid"
+"Spaarlek",
+"IS-curve",
+"Conjuncturele werkloosheid"
 ],
 "a": 0,
 "u": "Hoogconjunctuur: Periode waarin de feitelijke productie boven de potentiële productie ligt."
@@ -11847,9 +17545,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de feitelijke productie onder de potentiële productie ligt.\"",
 "o": [
 "Laagconjunctuur",
-"Output gap",
+"Consumentenvertrouwen",
 "Naïeve inflatieverwachting",
-"Uitverdieneffect"
+"Recessie"
 ],
 "a": 0,
 "u": "Laagconjunctuur: Periode waarin de feitelijke productie onder de potentiële productie ligt."
@@ -11862,9 +17560,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de economie krimpt.\"",
 "o": [
 "Recessie",
-"Spaarlek",
 "IS-curve",
-"Multiplier"
+"Laagconjunctuur",
+"Effectieve vraag"
 ],
 "a": 0,
 "u": "Recessie: Periode waarin de economie krimpt."
@@ -11877,9 +17575,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie.\"",
 "o": [
 "Consumentenvertrouwen",
-"Laagconjunctuur",
-"Marginale spaarquote",
-"Belastinglek"
+"Belastinglek",
+"Recessie",
+"Marginale spaarquote"
 ],
 "a": 0,
 "u": "Consumentenvertrouwen: Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie."
@@ -11892,9 +17590,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mate waarin ondernemers optimistisch zijn over de afzet en de economie.\"",
 "o": [
 "Producentenvertrouwen",
-"Recessie",
-"Inverdieneffect",
-"Marginale spaarquote"
+"Belastinglek",
+"Multiplier",
+"Conjuncturele werkloosheid"
 ],
 "a": 0,
 "u": "Producentenvertrouwen: Mate waarin ondernemers optimistisch zijn over de afzet en de economie."
@@ -11907,9 +17605,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De gemiddelde groei van het reële bbp over een lange periode.\"",
 "o": [
 "Trend",
-"Effectieve vraag",
-"Recessie",
-"Taylor-regel"
+"Uitverdieneffect",
+"Hoogconjunctuur",
+"Ingebouwde stabilisatoren"
 ],
 "a": 0,
 "u": "Trend: De gemiddelde groei van het reële bbp over een lange periode."
@@ -12074,9 +17772,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen.\"",
 "o": [
 "Effectieve vraag",
-"Ingebouwde stabilisatoren",
-"Conjuncturele werkloosheid",
-"Laagconjunctuur"
+"Uitverdieneffect",
+"Naïeve inflatieverwachting",
+"Ingebouwde stabilisatoren"
 ],
 "a": 0,
 "u": "Effectieve vraag: De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen."
@@ -12089,9 +17787,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie.\"",
 "o": [
 "Marginale consumptiequote",
-"Ingebouwde stabilisatoren",
-"Naïeve inflatieverwachting",
-"Trend"
+"Recessie",
+"Hoogconjunctuur",
+"IS-curve"
 ],
 "a": 0,
 "u": "Marginale consumptiequote: Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie."
@@ -12104,9 +17802,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra euro besteedbaar inkomen dat wordt gespaard.\"",
 "o": [
 "Marginale spaarquote",
-"Producentenvertrouwen",
-"Output gap",
-"Laagconjunctuur"
+"Belastinglek",
+"Naïeve inflatieverwachting",
+"Spaarlek"
 ],
 "a": 0,
 "u": "Marginale spaarquote: Het deel van een extra euro besteedbaar inkomen dat wordt gespaard."
@@ -12119,9 +17817,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost.\"",
 "o": [
 "Multiplier",
-"Anticyclisch conjunctuurbeleid",
-"Effectieve vraag",
-"Belastinglek"
+"Hoogconjunctuur",
+"Naïeve inflatieverwachting",
+"Marginale spaarquote"
 ],
 "a": 0,
 "u": "Multiplier: De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost."
@@ -12134,9 +17832,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen.\"",
 "o": [
 "Spaarlek",
-"Naïeve inflatieverwachting",
-"Producentenvertrouwen",
-"Trend"
+"Consumentenvertrouwen",
+"Effectieve vraag",
+"Ingebouwde stabilisatoren"
 ],
 "a": 0,
 "u": "Spaarlek: Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen."
@@ -12149,9 +17847,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra inkomen dat naar de overheid gaat als belasting.\"",
 "o": [
 "Belastinglek",
-"Anticyclisch conjunctuurbeleid",
-"Consumentenvertrouwen",
-"Naïeve inflatieverwachting"
+"Ingebouwde stabilisatoren",
+"Conjuncturele werkloosheid",
+"Taylor-regel"
 ],
 "a": 0,
 "u": "Belastinglek: Het deel van een extra inkomen dat naar de overheid gaat als belasting."
@@ -12288,9 +17986,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag.\"",
 "o": [
 "IS-curve",
-"Taylor-regel",
-"Recessie",
-"Trend"
+"Belastinglek",
+"Multiplier",
+"Consumentenvertrouwen"
 ],
 "a": 0,
 "u": "IS-curve: Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag."
@@ -12303,9 +18001,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap.\"",
 "o": [
 "Taylor-regel",
-"Ingebouwde stabilisatoren",
-"Consumentenvertrouwen",
-"Uitverdieneffect"
+"Multiplier",
+"Producentenvertrouwen",
+"Laagconjunctuur"
 ],
 "a": 0,
 "u": "Taylor-regel: Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap."
@@ -12318,9 +18016,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verwachting dat de inflatie gelijk blijft aan die van de vorige periode.\"",
 "o": [
 "Naïeve inflatieverwachting",
-"Effectieve vraag",
-"Uitverdieneffect",
-"Spaarlek"
+"Output gap",
+"Laagconjunctuur",
+"Ingebouwde stabilisatoren"
 ],
 "a": 0,
 "u": "Naïeve inflatieverwachting: De verwachting dat de inflatie gelijk blijft aan die van de vorige periode."
@@ -12417,9 +18115,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur.\"",
 "o": [
 "Anticyclisch conjunctuurbeleid",
-"Effectieve vraag",
-"Spaarlek",
-"Consumentenvertrouwen"
+"Recessie",
+"Producentenvertrouwen",
+"Output gap"
 ],
 "a": 0,
 "u": "Anticyclisch conjunctuurbeleid: Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur."
@@ -12432,9 +18130,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen.\"",
 "o": [
 "Ingebouwde stabilisatoren",
-"Taylor-regel",
-"Belastinglek",
-"Anticyclisch conjunctuurbeleid"
+"Producentenvertrouwen",
+"Spaarlek",
+"Uitverdieneffect"
 ],
 "a": 0,
 "u": "Ingebouwde stabilisatoren: Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen."
@@ -12447,9 +18145,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen.\"",
 "o": [
 "Inverdieneffect",
-"Effectieve vraag",
-"Ingebouwde stabilisatoren",
-"Belastinglek"
+"Hoogconjunctuur",
+"Anticyclisch conjunctuurbeleid",
+"Trend"
 ],
 "a": 0,
 "u": "Inverdieneffect: Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen."
@@ -12462,9 +18160,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt.\"",
 "o": [
 "Uitverdieneffect",
-"Laagconjunctuur",
-"Effectieve vraag",
-"Inverdieneffect"
+"Trend",
+"Producentenvertrouwen",
+"Output gap"
 ],
 "a": 0,
 "u": "Uitverdieneffect: Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt."
@@ -12477,9 +18175,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit.\"",
 "o": [
 "Conjuncturele werkloosheid",
-"Taylor-regel",
-"Producentenvertrouwen",
-"Hoogconjunctuur"
+"Laagconjunctuur",
+"Recessie",
+"Trend"
 ],
 "a": 0,
 "u": "Conjuncturele werkloosheid: Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit."
@@ -12595,9 +18293,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn.\"",
 "o": [
 "Beroepsbevolking",
-"Arbeidsjaar",
-"Werkgelegenheid",
-"Frictiewerkloosheid"
+"Verborgen werkloosheid",
+"Arbeidsmarkt",
+"Vacatures"
 ],
 "a": 0,
 "u": "Beroepsbevolking: Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn."
@@ -12610,9 +18308,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De vraag naar arbeid: het aantal bezette banen plus de vacatures.\"",
 "o": [
 "Werkgelegenheid",
-"Kwantitatieve structurele werkloosheid",
-"Loonstarheid",
-"Beroepsbevolking"
+"Kwalitatieve structurele werkloosheid",
+"Gespannen arbeidsmarkt",
+"Arbeidsjaar"
 ],
 "a": 0,
 "u": "Werkgelegenheid: De vraag naar arbeid: het aantal bezette banen plus de vacatures."
@@ -12625,9 +18323,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen die werk willen maar niet als werkzoekend staan geregistreerd.\"",
 "o": [
 "Verborgen werkloosheid",
-"Gespannen arbeidsmarkt",
-"Bruto arbeidsparticipatie",
-"Beroepsbevolking"
+"Arbeidsjaar",
+"Arbeidsmarkt",
+"Frictiewerkloosheid"
 ],
 "a": 0,
 "u": "Verborgen werkloosheid: Mensen die werk willen maar niet als werkzoekend staan geregistreerd."
@@ -12640,9 +18338,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De beroepsbevolking als percentage van de beroepsgeschikte bevolking.\"",
 "o": [
 "Bruto arbeidsparticipatie",
-"Verborgen werkloosheid",
-"Ontmoedigingseffect",
-"Arbeidsaanbod"
+"Kwantitatieve structurele werkloosheid",
+"Kwalitatieve structurele werkloosheid",
+"Arbeidsjaar"
 ],
 "a": 0,
 "u": "Bruto arbeidsparticipatie: De beroepsbevolking als percentage van de beroepsgeschikte bevolking."
@@ -12655,9 +18353,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar.\"",
 "o": [
 "Arbeidsjaar",
-"Arbeidsaanbod",
-"Loonstarheid",
-"Frictiewerkloosheid"
+"Vacatures",
+"Kwantitatieve structurele werkloosheid",
+"Loonstarheid"
 ],
 "a": 0,
 "u": "Arbeidsjaar: Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar."
@@ -12670,9 +18368,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is.\"",
 "o": [
 "Ontmoedigingseffect",
-"Kwantitatieve structurele werkloosheid",
-"Frictiewerkloosheid",
-"Gespannen arbeidsmarkt"
+"Loonstarheid",
+"Seizoenswerkloosheid",
+"Arbeidsaanbod"
 ],
 "a": 0,
 "u": "Ontmoedigingseffect: Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is."
@@ -12771,9 +18469,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures.\"",
 "o": [
 "Kwalitatieve structurele werkloosheid",
+"Arbeidsaanbod",
 "Ontmoedigingseffect",
-"Beroepsbevolking",
-"Kwantitatieve structurele werkloosheid"
+"Arbeidsmarkt"
 ],
 "a": 0,
 "u": "Kwalitatieve structurele werkloosheid: Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures."
@@ -12786,9 +18484,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn.\"",
 "o": [
 "Kwantitatieve structurele werkloosheid",
-"Loonstarheid",
-"Beroepsbevolking",
-"Werkgelegenheid"
+"Arbeidsjaar",
+"Seizoenswerkloosheid",
+"Frictiewerkloosheid"
 ],
 "a": 0,
 "u": "Kwantitatieve structurele werkloosheid: Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn."
@@ -12801,9 +18499,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan.\"",
 "o": [
 "Frictiewerkloosheid",
-"Beroepsbevolking",
-"Arbeidsaanbod",
-"Kwalitatieve structurele werkloosheid"
+"Vacatures",
+"Seizoenswerkloosheid",
+"Loonstarheid"
 ],
 "a": 0,
 "u": "Frictiewerkloosheid: Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan."
@@ -12816,9 +18514,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid door seizoensschommelingen in de bedrijvigheid.\"",
 "o": [
 "Seizoenswerkloosheid",
-"Ontmoedigingseffect",
-"Natuurlijke werkloosheid",
-"Bruto arbeidsparticipatie"
+"Arbeidsjaar",
+"Arbeidsaanbod",
+"Vacatures"
 ],
 "a": 0,
 "u": "Seizoenswerkloosheid: Werkloosheid door seizoensschommelingen in de bedrijvigheid."
@@ -12831,9 +18529,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie.\"",
 "o": [
 "Natuurlijke werkloosheid",
-"Arbeidsaanbod",
-"Werkgelegenheid",
-"Beroepsbevolking"
+"Kwantitatieve structurele werkloosheid",
+"Gespannen arbeidsmarkt",
+"Ontmoedigingseffect"
 ],
 "a": 0,
 "u": "Natuurlijke werkloosheid: De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie."
@@ -12944,9 +18642,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod.\"",
 "o": [
 "Gespannen arbeidsmarkt",
-"Loonstarheid",
-"Seizoenswerkloosheid",
-"Verborgen werkloosheid"
+"Verborgen werkloosheid",
+"Beroepsbevolking",
+"Arbeidsaanbod"
 ],
 "a": 0,
 "u": "Gespannen arbeidsmarkt: Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod."
@@ -12959,9 +18657,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Openstaande banen waarvoor werkgevers personeel zoeken.\"",
 "o": [
 "Vacatures",
-"Gespannen arbeidsmarkt",
+"Verborgen werkloosheid",
 "Arbeidsjaar",
-"Bruto arbeidsparticipatie"
+"Loonstarheid"
 ],
 "a": 0,
 "u": "Vacatures: Openstaande banen waarvoor werkgevers personeel zoeken."
@@ -12974,9 +18672,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De totale vraag naar en het totale aanbod van arbeid.\"",
 "o": [
 "Arbeidsmarkt",
-"Bruto arbeidsparticipatie",
-"Ontmoedigingseffect",
-"Kwalitatieve structurele werkloosheid"
+"Seizoenswerkloosheid",
+"Werkgelegenheid",
+"Arbeidsjaar"
 ],
 "a": 0,
 "u": "Arbeidsmarkt: De totale vraag naar en het totale aanbod van arbeid."
@@ -12989,9 +18687,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.\"",
 "o": [
 "Loonstarheid",
-"Werkgelegenheid",
-"Frictiewerkloosheid",
-"Beroepsbevolking"
+"Beroepsbevolking",
+"Arbeidsmarkt",
+"Kwalitatieve structurele werkloosheid"
 ],
 "a": 0,
 "u": "Loonstarheid: Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden."
@@ -13004,9 +18702,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De hoeveelheid arbeid die mensen willen en kunnen verrichten.\"",
 "o": [
 "Arbeidsaanbod",
-"Kwantitatieve structurele werkloosheid",
-"Arbeidsjaar",
-"Seizoenswerkloosheid"
+"Frictiewerkloosheid",
+"Vacatures",
+"Verborgen werkloosheid"
 ],
 "a": 0,
 "u": "Arbeidsaanbod: De hoeveelheid arbeid die mensen willen en kunnen verrichten."
@@ -13120,9 +18818,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen.\"",
 "o": [
 "Consumentenprijsindex",
-"Monetair beleid",
-"Reële rente",
-"Partiële prijsindex"
+"Geïmporteerde inflatie",
+"Kosteninflatie",
+"Depositogarantiestelsel"
 ],
 "a": 0,
 "u": "Consumentenprijsindex: Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen."
@@ -13135,9 +18833,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Prijsindexcijfer van één productgroep.\"",
 "o": [
 "Partiële prijsindex",
-"Quantitative easing",
-"Geïmporteerde inflatie",
-"Bestedingsinflatie"
+"Monetair beleid",
+"Kosteninflatie",
+"Geldschepping"
 ],
 "a": 0,
 "u": "Partiële prijsindex: Prijsindexcijfer van één productgroep."
@@ -13150,9 +18848,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een daling van het algemene prijspeil.\"",
 "o": [
 "Deflatie",
-"Maatschappelijke geldhoeveelheid",
-"Wederzijdse schuldaanvaarding",
-"Depositogarantiestelsel"
+"Monetair beleid",
+"Liquiditeit",
+"Secundaire liquiditeiten"
 ],
 "a": 0,
 "u": "Deflatie: Een daling van het algemene prijspeil."
@@ -13165,9 +18863,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft.\"",
 "o": [
 "Waardevast inkomen",
-"Geïmporteerde inflatie",
-"Secundaire liquiditeiten",
-"Zero lower bound"
+"Geldillusie",
+"Kosteninflatie",
+"Wederzijdse schuldaanvaarding"
 ],
 "a": 0,
 "u": "Waardevast inkomen: Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft."
@@ -13180,9 +18878,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een inkomen dat meestijgt met de lonen.\"",
 "o": [
 "Welvaartsvast inkomen",
-"Liquiditeit",
+"Secundaire liquiditeiten",
 "Geïmporteerde inflatie",
-"Kasreserveregeling"
+"Kosteninflatie"
 ],
 "a": 0,
 "u": "Welvaartsvast inkomen: Een inkomen dat meestijgt met de lonen."
@@ -13195,9 +18893,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Letten op het nominale bedrag in plaats van op de koopkracht.\"",
 "o": [
 "Geldillusie",
-"Secundaire liquiditeiten",
+"Wederzijdse schuldaanvaarding",
 "Kosteninflatie",
-"Liquiditeit"
+"Monetair beleid"
 ],
 "a": 0,
 "u": "Geldillusie: Letten op het nominale bedrag in plaats van op de koopkracht."
@@ -13283,9 +18981,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit.\"",
 "o": [
 "Bestedingsinflatie",
-"Maatschappelijke geldhoeveelheid",
-"Geldillusie",
-"Waardevast inkomen"
+"Partiële prijsindex",
+"Deflatie",
+"Kasreserveregeling"
 ],
 "a": 0,
 "u": "Bestedingsinflatie: Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit."
@@ -13299,8 +18997,8 @@ LEVELS.I.push(...[
 "o": [
 "Kosteninflatie",
 "Geldschepping",
-"Kasreserveregeling",
-"Waardevast inkomen"
+"Quantitative easing",
+"Zero lower bound"
 ],
 "a": 0,
 "u": "Kosteninflatie: Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen."
@@ -13313,9 +19011,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat ingevoerde goederen, zoals energie, duurder worden.\"",
 "o": [
 "Geïmporteerde inflatie",
-"Reële rente",
-"Consumentenprijsindex",
-"Geldillusie"
+"Liquiditeit",
+"Monetair beleid",
+"Quantitative easing"
 ],
 "a": 0,
 "u": "Geïmporteerde inflatie: Inflatie doordat ingevoerde goederen, zoals energie, duurder worden."
@@ -13433,9 +19131,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Chartaal geld plus giraal geld in handen van het publiek.\"",
 "o": [
 "Maatschappelijke geldhoeveelheid",
-"Quantitative easing",
-"Consumentenprijsindex",
-"Geïmporteerde inflatie"
+"Geldschepping",
+"Kosteninflatie",
+"Depositogarantiestelsel"
 ],
 "a": 0,
 "u": "Maatschappelijke geldhoeveelheid: Chartaal geld plus giraal geld in handen van het publiek."
@@ -13448,9 +19146,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten.\"",
 "o": [
 "Secundaire liquiditeiten",
-"Bestedingsinflatie",
-"Geldillusie",
-"Quantitative easing"
+"Wederzijdse schuldaanvaarding",
+"Consumentenprijsindex",
+"Monetair beleid"
 ],
 "a": 0,
 "u": "Secundaire liquiditeiten: Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten."
@@ -13463,9 +19161,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt.\"",
 "o": [
 "Geldschepping",
-"Consumentenprijsindex",
-"Zero lower bound",
-"Geïmporteerde inflatie"
+"Secundaire liquiditeiten",
+"Welvaartsvast inkomen",
+"Wederzijdse schuldaanvaarding"
 ],
 "a": 0,
 "u": "Geldschepping: Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt."
@@ -13478,9 +19176,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat.\"",
 "o": [
 "Wederzijdse schuldaanvaarding",
-"Partiële prijsindex",
-"Reële rente",
-"Maatschappelijke geldhoeveelheid"
+"Zero lower bound",
+"Depositogarantiestelsel",
+"Kosteninflatie"
 ],
 "a": 0,
 "u": "Wederzijdse schuldaanvaarding: Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat."
@@ -13493,9 +19191,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen.\"",
 "o": [
 "Liquiditeit",
-"Depositogarantiestelsel",
-"Deflatie",
-"Geldschepping"
+"Welvaartsvast inkomen",
+"Quantitative easing",
+"Partiële prijsindex"
 ],
 "a": 0,
 "u": "Liquiditeit: De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen."
@@ -13508,9 +19206,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt.\"",
 "o": [
 "Depositogarantiestelsel",
-"Monetair beleid",
-"Kasreserveregeling",
-"Geïmporteerde inflatie"
+"Liquiditeit",
+"Quantitative easing",
+"Partiële prijsindex"
 ],
 "a": 0,
 "u": "Depositogarantiestelsel: Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt."
@@ -13607,9 +19305,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden.\"",
 "o": [
 "Monetair beleid",
-"Wederzijdse schuldaanvaarding",
-"Secundaire liquiditeiten",
-"Consumentenprijsindex"
+"Zero lower bound",
+"Geldillusie",
+"Partiële prijsindex"
 ],
 "a": 0,
 "u": "Monetair beleid: Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden."
@@ -13622,9 +19320,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank.\"",
 "o": [
 "Kasreserveregeling",
-"Maatschappelijke geldhoeveelheid",
-"Quantitative easing",
-"Partiële prijsindex"
+"Monetair beleid",
+"Deflatie",
+"Secundaire liquiditeiten"
 ],
 "a": 0,
 "u": "Kasreserveregeling: Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank."
@@ -13637,9 +19335,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren.\"",
 "o": [
 "Quantitative easing",
-"Maatschappelijke geldhoeveelheid",
-"Secundaire liquiditeiten",
-"Geldschepping"
+"Kasreserveregeling",
+"Geldschepping",
+"Consumentenprijsindex"
 ],
 "a": 0,
 "u": "Quantitative easing: De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren."
@@ -13652,9 +19350,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen.\"",
 "o": [
 "Zero lower bound",
-"Depositogarantiestelsel",
-"Bestedingsinflatie",
-"Deflatie"
+"Liquiditeit",
+"Waardevast inkomen",
+"Kosteninflatie"
 ],
 "a": 0,
 "u": "Zero lower bound: De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen."
@@ -13667,9 +19365,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De nominale rente gecorrigeerd voor inflatie.\"",
 "o": [
 "Reële rente",
-"Kosteninflatie",
-"Deflatie",
-"Monetair beleid"
+"Liquiditeit",
+"Maatschappelijke geldhoeveelheid",
+"Bestedingsinflatie"
 ],
 "a": 0,
 "u": "Reële rente: De nominale rente gecorrigeerd voor inflatie."
@@ -13768,9 +19466,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overzicht van alle geldstromen tussen een land en het buitenland in een periode.\"",
 "o": [
 "Betalingsbalans",
-"Opvoedingsargument",
-"Convergentiecriteria",
-"Douane-unie"
+"Comparatief voordeel",
+"Financiële rekening",
+"Depreciatie"
 ],
 "a": 0,
 "u": "Betalingsbalans: Overzicht van alle geldstromen tussen een land en het buitenland in een periode."
@@ -13783,9 +19481,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten.\"",
 "o": [
 "Lopende rekening",
-"Protectie",
-"Opvoedingsargument",
-"Wederuitvoer"
+"Monetaire unie",
+"Revaluatie",
+"Douane-unie"
 ],
 "a": 0,
 "u": "Lopende rekening: Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten."
@@ -13798,9 +19496,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten.\"",
 "o": [
 "Financiële rekening",
-"Lopende rekening",
-"Protectie",
-"Contingentering"
+"Vrijhandelszone",
+"Offshoring",
+"Comparatief voordeel"
 ],
 "a": 0,
 "u": "Financiële rekening: Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten."
@@ -13813,9 +19511,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad.\"",
 "o": [
 "Wederuitvoer",
-"Betalingsbalans",
+"Convergentiecriteria",
 "Protectie",
-"Devaluatie"
+"Douane-unie"
 ],
 "a": 0,
 "u": "Wederuitvoer: Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad."
@@ -13828,9 +19526,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat.\"",
 "o": [
 "Inkomensoverdrachten",
-"Monetaire unie",
-"Vrijhandelszone",
-"Protectie"
+"Betalingsbalans",
+"Appreciatie",
+"Wederuitvoer"
 ],
 "a": 0,
 "u": "Inkomensoverdrachten: Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat."
@@ -13981,9 +19679,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie.\"",
 "o": [
 "Protectie",
-"Devaluatie",
-"Inkomensoverdrachten",
-"Lopende rekening"
+"Appreciatie",
+"Lopende rekening",
+"Gemeenschappelijke markt"
 ],
 "a": 0,
 "u": "Protectie: Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie."
@@ -13996,9 +19694,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie.\"",
 "o": [
 "Opvoedingsargument",
-"Revaluatie",
-"Appreciatie",
-"Offshoring"
+"Contingentering",
+"Trilemma",
+"Lopende rekening"
 ],
 "a": 0,
 "u": "Opvoedingsargument: Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie."
@@ -14011,9 +19709,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het beperken van de invoer tot een maximale hoeveelheid.\"",
 "o": [
 "Contingentering",
+"Vrijhandelszone",
 "Financiële rekening",
-"Offshoring",
-"Betalingsbalans"
+"Opvoedingsargument"
 ],
 "a": 0,
 "u": "Contingentering: Het beperken van de invoer tot een maximale hoeveelheid."
@@ -14026,9 +19724,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verplaatsen van bedrijfsactiviteiten naar het buitenland.\"",
 "o": [
 "Offshoring",
-"Monetaire unie",
-"Betalingsbalans",
-"Protectie"
+"Wederuitvoer",
+"Gemeenschappelijke markt",
+"Convergentiecriteria"
 ],
 "a": 0,
 "u": "Offshoring: Het verplaatsen van bedrijfsactiviteiten naar het buitenland."
@@ -14041,9 +19739,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een land kan een product met relatief minder opofferingen maken dan een ander land.\"",
 "o": [
 "Comparatief voordeel",
-"Contingentering",
-"Betalingsbalans",
-"Gemeenschappelijke markt"
+"Douane-unie",
+"Monetaire unie",
+"Revaluatie"
 ],
 "a": 0,
 "u": "Comparatief voordeel: Een land kan een product met relatief minder opofferingen maken dan een ander land."
@@ -14196,9 +19894,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een waardestijging van een munt door veranderingen in vraag en aanbod.\"",
 "o": [
 "Appreciatie",
-"Douane-unie",
-"Contingentering",
-"Lopende rekening"
+"Devaluatie",
+"Depreciatie",
+"Betalingsbalans"
 ],
 "a": 0,
 "u": "Appreciatie: Een waardestijging van een munt door veranderingen in vraag en aanbod."
@@ -14211,9 +19909,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een waardedaling van een munt door veranderingen in vraag en aanbod.\"",
 "o": [
 "Depreciatie",
-"Monetaire unie",
-"Gemeenschappelijke markt",
-"Lopende rekening"
+"Financiële rekening",
+"Convergentiecriteria",
+"Protectie"
 ],
 "a": 0,
 "u": "Depreciatie: Een waardedaling van een munt door veranderingen in vraag en aanbod."
@@ -14226,9 +19924,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen.\"",
 "o": [
 "Devaluatie",
-"Betalingsbalans",
-"Gemeenschappelijke markt",
-"Lopende rekening"
+"Contingentering",
+"Comparatief voordeel",
+"Convergentiecriteria"
 ],
 "a": 0,
 "u": "Devaluatie: Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen."
@@ -14242,8 +19940,8 @@ LEVELS.I.push(...[
 "o": [
 "Revaluatie",
 "Financiële rekening",
-"Gemeenschappelijke markt",
-"Appreciatie"
+"Monetaire unie",
+"Wederuitvoer"
 ],
 "a": 0,
 "u": "Revaluatie: Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen."
@@ -14256,9 +19954,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben.\"",
 "o": [
 "Trilemma",
-"Comparatief voordeel",
 "Appreciatie",
-"Douane-unie"
+"Betalingsbalans",
+"Lopende rekening"
 ],
 "a": 0,
 "u": "Trilemma: Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben."
@@ -14384,9 +20082,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief.\"",
 "o": [
 "Douane-unie",
-"Contingentering",
-"Revaluatie",
-"Protectie"
+"Wederuitvoer",
+"Protectie",
+"Trilemma"
 ],
 "a": 0,
 "u": "Douane-unie: Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief."
@@ -14399,9 +20097,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarin de landen één munt en één centrale bank hebben.\"",
 "o": [
 "Monetaire unie",
-"Offshoring",
-"Financiële rekening",
-"Opvoedingsargument"
+"Revaluatie",
+"Douane-unie",
+"Depreciatie"
 ],
 "a": 0,
 "u": "Monetaire unie: Samenwerking waarin de landen één munt en één centrale bank hebben."
@@ -14414,9 +20112,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De eisen waaraan een land moet voldoen om de euro in te voeren.\"",
 "o": [
 "Convergentiecriteria",
-"Revaluatie",
-"Depreciatie",
-"Wederuitvoer"
+"Appreciatie",
+"Betalingsbalans",
+"Vrijhandelszone"
 ],
 "a": 0,
 "u": "Convergentiecriteria: De eisen waaraan een land moet voldoen om de euro in te voeren."
@@ -14429,9 +20127,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarin de landen onderling geen invoerrechten heffen.\"",
 "o": [
 "Vrijhandelszone",
-"Depreciatie",
+"Trilemma",
 "Appreciatie",
-"Gemeenschappelijke markt"
+"Monetaire unie"
 ],
 "a": 0,
 "u": "Vrijhandelszone: Samenwerking waarin de landen onderling geen invoerrechten heffen."
@@ -14444,9 +20142,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Douane-unie met ook vrij verkeer van arbeid en kapitaal.\"",
 "o": [
 "Gemeenschappelijke markt",
-"Convergentiecriteria",
+"Depreciatie",
 "Financiële rekening",
-"Monetaire unie"
+"Wederuitvoer"
 ],
 "a": 0,
 "u": "Gemeenschappelijke markt: Douane-unie met ook vrij verkeer van arbeid en kapitaal."
@@ -14467,6 +20165,8 @@ LEVELS.I.push(...[
 }
 ]);
 LEVELS.D.begrippen = Object.assign(LEVELS.D.begrippen||{}, {"Betalingsbereidheid": "Het hoogste bedrag dat een consument voor een product wil betalen.", "Consumentensurplus": "Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.", "Vraaglijn": "Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.", "Afzet": "De hoeveelheid verkochte producten in een bepaalde periode.", "Substitutiegoederen": "Goederen die elkaar volgens de consument kunnen vervangen.", "Complementaire goederen": "Goederen die elkaar aanvullen en vaak samen worden gebruikt.", "Ceteris paribus": "De aanname dat alle andere factoren gelijk blijven.", "Prijselasticiteit van de vraag": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.", "Prijsinelastische vraag": "Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.", "Omzet": "Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.", "Inkomenselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.", "Inferieur goed": "Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).", "Luxe goed": "Goed met een inkomenselasticiteit groter dan 1.", "Noodzakelijk goed": "Goed met een inkomenselasticiteit tussen 0 en 1.", "Constante kosten": "Kosten die niet veranderen als de productie toeneemt of afneemt.", "Variabele kosten": "Kosten die meeveranderen met de omvang van de productie.", "Marginale kosten": "De extra kosten van het produceren van één product meer.", "Marginale opbrengst": "De extra opbrengst van het verkopen van één product meer.", "Gemiddelde totale kosten": "De totale kosten gedeeld door de geproduceerde hoeveelheid.", "Consumentenprijs": "De verkoopprijs inclusief btw en andere prijsverhogende belastingen.", "Break-evenafzet": "De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.", "Break-evenomzet": "De omzet die hoort bij de break-evenafzet.", "Dekkingsbijdrage": "Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.", "Totale winst": "Totale opbrengst min totale kosten.", "Marginale winst": "De verandering van de totale winst bij één product meer: MO − MK.", "Gemiddelde winst": "De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.", "Producentensurplus": "Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.", "Verkoopbereidheid": "De laagste prijs waarvoor een producent een product wil verkopen.", "Collectieve aanbodlijn": "Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.", "Volledige mededinging": "Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.", "Homogene producten": "Producten die in de ogen van de koper precies hetzelfde zijn.", "Transparante markt": "Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien.", "Abstracte markt": "Het geheel van vraag en aanbod van een product, zonder vaste plaats.", "Concrete markt": "Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.", "Volkomen markt": "Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.", "Evenwichtsprijs": "De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Evenwichtshoeveelheid": "De verhandelde hoeveelheid bij de evenwichtsprijs.", "Aanbodoverschot": "Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.", "Bedrijfstakevenwicht": "Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.", "Toetreding": "Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.", "Uittreding": "Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.", "Optimale allocatie": "Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.", "Totaal surplus": "De som van het consumentensurplus en het producentensurplus.", "Externe effecten": "Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.", "Marketingmix": "De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.", "Octrooi": "Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.", "Kartel": "Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.", "Fusie": "Twee of meer ondernemingen die samen verdergaan als één onderneming.", "Franchising": "Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.", "Joint venture": "Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.", "Productdifferentiatie": "Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.", "Monopolie": "Marktvorm met één aanbieder tegenover veel vragers.", "Prijsdiscriminatie": "Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.", "Welvaartsverlies": "Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.", "Oligopolie": "Marktvorm met weinig aanbieders tegenover veel vragers.", "Monopolistische concurrentie": "Marktvorm met veel aanbieders van heterogene producten.", "Duopolie": "Marktvorm met twee aanbieders.", "Prijsleider": "De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.", "Collectieve goederen": "Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn.", "Quasi-collectieve goederen": "Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.", "Privatisering": "Het overdragen van een overheidstaak aan particuliere bedrijven.", "Deregulering": "Het verminderen van overheidsregels voor bedrijven en burgers.", "Maatschappelijke kosten": "Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.", "Nationalisatie": "Het overnemen van een particulier bedrijf door de overheid.", "Maximumprijs": "De hoogste prijs die een aanbieder van de overheid mag vragen.", "Zwarte markt": "Illegale handel tegen een hogere prijs dan de toegestane prijs.", "Aanbodtekort": "Situatie waarin bij een bepaalde prijs meer wordt gevraagd dan aangeboden (vraagoverschot).", "Minimumprijs": "De laagste prijs waarvoor een product van de overheid mag worden verkocht.", "Minimumloon": "Het wettelijk vastgestelde laagste loon dat een werkgever moet betalen.", "Accijns": "Een vast bedrag aan belasting per eenheid van een product.", "Indirecte belastingen": "Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.", "Subsidie": "Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.", "Quotum": "Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd.", "Autoriteit Consument en Markt": "Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.", "Zelfstandig bestuursorgaan": "Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt.", "Kruislingse prijselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B.", "Hoeveelheidseffect": "De verandering van de omzet doordat de afzet verandert na een prijsverandering.", "Wet van Engel": "Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven.", "Drempelinkomen": "Het inkomen vanaf waar een consument een product gaat kopen.", "Inkomensvraaglijn": "Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product.", "Sluitingspunt": "Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren.", "Capaciteitskosten": "Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten).", "Perfecte markt": "Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs.", "Niet-perfecte markt": "Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs.", "Marktvorm": "Het geheel van prijsbepalende factoren op een markt.", "Marktevenwicht": "Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Prijsmechanisme": "Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn.", "Marginale producent": "De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven.", "Bedrijfsevenwicht": "Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen.", "Pareto-optimum": "Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.", "Economisch surplus": "De som van het consumentensurplus en het producentensurplus.", "Allocatie": "De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden.", "Heterogene producten": "Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen.", "Natuurlijk monopolie": "Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen.", "Wettelijk monopolie": "Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi.", "Collectief monopolie": "Aanbieders die samen optreden als één aanbieder, zoals de OPEC.", "Prijsdifferentiatie": "Verschillende prijzen vragen omdat de kosten van het product verschillen.", "Harberger-driehoek": "Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek.", "Geknikte afzetcurve": "Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging.", "Prijsstarheid": "Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen.", "Marktfalen": "Situatie waarin de markt niet tot een optimale uitkomst leidt.", "Interventieprijs": "Minimumprijs waarvoor de overheid overschotten van boeren opkoopt.", "Afwentelingspercentage": "Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument.", "Kostprijsverlagende subsidie": "Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift.", "Concentratie": "Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen.", "Mededingingsbeleid": "Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt.", "Quotering": "Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."});
+LEVELS.E.begrippen = Object.assign(LEVELS.E.begrippen||{}, {"Intertemporele ruil": "Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen.", "Financiële levenscyclus": "Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven.", "Voorraadgrootheid": "Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december.", "Stroomgrootheid": "Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar.", "Human capital": "De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training.", "Sociaal kapitaal": "De waarde van sociale netwerken, relaties en onderling vertrouwen.", "Interest": "De vergoeding voor het uitlenen of de prijs voor het lenen van geld.", "Enkelvoudige rente": "Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend.", "Samengestelde rente": "Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente).", "Nominale rente": "Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie.", "Reële rente": "De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil.", "Intertemporele budgetlijn": "Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente.", "Levensloopinkomen": "Het totale inkomen dat iemand in alle perioden van zijn leven verdient.", "Hypothecaire lening": "Een geldlening met een registergoed, meestal een woning, als onderpand.", "Hypotheekgever": "De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft.", "Hypotheeknemer": "De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt.", "Lineaire hypotheek": "Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen.", "Annuïteitenhypotheek": "Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald.", "Hypotheekrenteaftrek": "Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken.", "Huurtoeslag": "Inkomensafhankelijke bijdrage van de overheid in de huurkosten.", "Scheefwonen": "Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen.", "AOW": "Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft.", "Omslagstelsel": "Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu.", "Kapitaaldekkingsstelsel": "Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen.", "Intergenerationele ruil": "Overheveling van inkomen tussen generaties, zoals bij de AOW.", "Franchise": "Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt.", "Pensioengrondslag": "Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd.", "Dekkingsgraad": "Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%.", "Contante waarde": "De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald.", "Collectieve sector": "De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen.", "Quasi-collectief goed": "Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten.", "ZBO": "Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB.", "Volksverzekering": "Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW.", "Werknemersverzekering": "Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW.", "Retributie": "Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort.", "Niet-belastingmiddelen": "Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes.", "Directe belasting": "Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen.", "Indirecte belasting": "Kostprijsverhogende belasting op bestedingen, zoals btw en accijns.", "Draagkrachtbeginsel": "Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting.", "Profijtbeginsel": "Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor.", "Solidariteitsbeginsel": "Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico.", "Collectieve lastendruk": "Belastingen en sociale premies als percentage van het bbp.", "Harberger-driehoek": "Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat.", "Wig": "Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.", "Marginaal belastingtarief": "Het belastingpercentage over een extra verdiende euro.", "Gemiddelde belastingdruk": "Het percentage van het inkomen dat in totaal aan belasting wordt betaald.", "Overheidsbestedingen": "Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen.", "Overdrachtsuitgaven": "Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente.", "Collectieve uitgavenquote": "De collectieve uitgaven als percentage van het bbp.", "Overheidsinvesteringen": "Uitgaven van de overheid aan infrastructuur en gebouwen.", "EMU-saldo": "Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar.", "EMU-schuld": "De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden.", "EMU-normen": "Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp.", "Noemereffect": "De schuldquote daalt doordat het bbp sneller groeit dan de schuld.", "Staatsobligatie": "Schuldbewijs waarmee de overheid geld leent."});
 LEVELS.F.begrippen = Object.assign(LEVELS.F.begrippen||{}, {"Dominante strategie": "Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.", "Gevangenendilemma": "Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.", "Simultaan spel": "Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.", "Niet-coöperatief spel": "Spel waarin de spelers geen bindende afspraken kunnen maken.", "Nash-evenwicht": "Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.", "Tit-for-tatstrategie": "Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.", "Prijzenoorlog": "Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.", "Clementieregeling": "Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.", "Zelfbinding": "Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.", "Prijskartel": "Kartel waarin ondernemingen afspraken maken over de verkoopprijs.", "Meeliftersgedrag": "Profiteren van een goed of voorziening zonder eraan mee te betalen.", "Collectieve dwang": "Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.", "Individuele goederen": "Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.", "Sequentieel spel": "Spel waarin de spelers na elkaar kiezen en de keuze van de vorige speler kennen.", "Ultimatumspel": "Spel waarin één speler een verdeling voorstelt en de ander alleen kan accepteren of weigeren.", "Verzonken kosten": "Kosten die al gemaakt zijn en niet meer terug te verdienen zijn.", "Berovingsprobleem": "Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.", "Werknemerssurplus": "Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.", "Werkgeverssurplus": "Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.", "Cao": "Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.", "Algemeen verbindend verklaren": "Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.", "Wig": "Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.", "Prijscompensatie": "Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.", "Incidentele loonstijging": "Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.", "Loonruimte": "De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.", "Primaire arbeidsvoorwaarden": "Afspraken over loon en werktijden.", "Secundaire arbeidsvoorwaarden": "Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.", "Diepte-investering": "Investering waarbij arbeid wordt vervangen door kapitaal, zoals machines of robots.", "Sociale partners": "De werkgeversorganisaties en vakbonden die samen overleggen over arbeidsvoorwaarden.", "Stichting van de Arbeid": "Landelijk overlegorgaan van werkgevers en werknemers.", "Arbeidsmarkt": "De totale vraag naar en het totale aanbod van arbeid.", "Loonstarheid": "Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.", "Arbeidsaanbod": "De hoeveelheid arbeid die mensen willen en kunnen verrichten.", "Pareto-optimum": "Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.", "Coördinatiespel": "Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken.", "Achterwaartse inductie": "Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren.", "Pay-offmatrix": "Tabel met de strategieën en uitkomsten van een simultaan spel.", "Grim trigger": "Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt.", "Geloofwaardige dreiging": "Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is.", "Reputatie": "Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag.", "Herhaald spel": "Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden.", "Laagsteprijsgarantie": "Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is.", "Rivaliteit": "Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander.", "Uitsluitbaarheid": "Mensen die niet betalen kunnen van het gebruik worden uitgesloten.", "Clubgoed": "Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst.", "Gemeenschappelijke middelen": "Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan.", "Internaliseren": "Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing.", "Emissierechten": "Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten.", "Onderhandelingsruimte": "Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper.", "Relatiespecifieke investering": "Investering die alleen waarde heeft binnen één bepaalde samenwerking.", "Monopsonie": "Marktvorm met één vrager tegenover veel aanbieders.", "Verticale integratie": "Samengaan van bedrijven uit opeenvolgende schakels van de productieketen.", "Centraal akkoord": "Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid.", "Contractloonstijging": "De loonstijging uit de cao: prijscompensatie plus initiële loonstijging.", "Armoedeval": "Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen.", "Reserveringsloon": "Het laagste loon waarvoor iemand bereid is te werken."});
-LEVELS.G.begrippen = Object.assign(LEVELS.G.begrippen||{}, {"Risicoaversie": "Liever een zekere kleine uitgave (de premie) dan het risico op een grote schade.", "Polisvoorwaarden": "De regels van een verzekering: wat wel en niet gedekt is.", "Verzekeringspremie": "Het bedrag dat je betaalt om verzekerd te zijn.", "Eigen risico": "Het deel van de schade dat je zelf moet betalen.", "Moral hazard": "Minder voorzichtig gedrag nadat je verzekerd bent, omdat de schade toch wordt vergoed.", "Averechtse selectie": "Vooral mensen met een hoog risico sluiten een verzekering af, waardoor de premie stijgt.", "Asymmetrische informatie": "De ene partij weet meer dan de andere partij.", "Bonus-malusregeling": "Je premie daalt als je geen schade claimt en stijgt na een schadeclaim.", "Risicoselectie": "Een verzekeraar maakt onderscheid tussen klanten op basis van hun risico.", "Vereveningsfonds": "Fonds dat zorgverzekeraars met veel dure klanten compenseert.", "Onderverzekering": "Het verzekerde bedrag is lager dan de werkelijke waarde, waardoor maar een deel van de schade wordt vergoed.", "Inboedelverzekering": "Verzekering voor de spullen in je huis.", "Opstalverzekering": "Verzekering voor het huis zelf.", "Nominale zorgpremie": "Het vaste deel van de zorgpremie dat je aan de zorgverzekeraar betaalt.", "Volksverzekeringen": "Sociale verzekeringen die voor alle inwoners gelden, zoals de AOW.", "Werknemersverzekeringen": "Sociale verzekeringen die alleen voor werknemers gelden, zoals de WW.", "Sociale voorzieningen": "Uitkeringen uit belastinggeld voor wie te weinig inkomen heeft, zonder premiebetaling.", "Sociaal minimum": "Het minimuminkomen dat de overheid nodig vindt om van te leven.", "Welvaartsvaste uitkering": "Een uitkering die meestijgt met de lonen.", "Waardevaste uitkering": "Een uitkering die meestijgt met de prijzen, zodat de koopkracht gelijk blijft.", "Omslagstelsel": "De premies van de werkenden van nu worden direct gebruikt voor de uitkeringen van nu.", "Kostendelersnorm": "Regel waardoor de bijstand lager is als je met andere volwassenen een huis deelt.", "Participatiewet": "Wet die de bijstand regelt en mensen helpt aan het werk te komen."});
+LEVELS.G.begrippen = Object.assign(LEVELS.G.begrippen||{}, {"Risicoaversie": "Liever een zekere kleine uitgave (de premie) dan het risico op een grote schade.", "Polisvoorwaarden": "De regels van een verzekering: wat wel en niet gedekt is.", "Verzekeringspremie": "Het bedrag dat je betaalt om verzekerd te zijn.", "Eigen risico": "Het deel van de schade dat de verzekerde zelf betaalt.", "Moral hazard": "Mensen gedragen zich onvoorzichtiger zodra ze verzekerd zijn tegen de gevolgen.", "Averechtse selectie": "Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is.", "Asymmetrische informatie": "De ene partij bij een transactie heeft meer of betere informatie dan de andere.", "Bonus-malusregeling": "Je premie daalt als je geen schade claimt en stijgt na een schadeclaim.", "Risicoselectie": "Een verzekeraar maakt onderscheid tussen klanten op basis van hun risico.", "Vereveningsfonds": "Fonds dat zorgverzekeraars met veel dure klanten compenseert.", "Onderverzekering": "Het verzekerde bedrag is lager dan de werkelijke waarde, waardoor maar een deel van de schade wordt vergoed.", "Inboedelverzekering": "Verzekering voor schade aan de verplaatsbare spullen in je huis.", "Opstalverzekering": "Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit.", "Nominale zorgpremie": "Het vaste deel van de zorgpremie dat je aan de zorgverzekeraar betaalt.", "Volksverzekeringen": "Sociale verzekeringen die voor alle inwoners gelden, zoals de AOW.", "Werknemersverzekeringen": "Sociale verzekeringen die alleen voor werknemers gelden, zoals de WW.", "Sociale voorzieningen": "Uitkeringen uit belastinggeld voor wie te weinig inkomen heeft, zonder premiebetaling.", "Sociaal minimum": "Het minimuminkomen dat de overheid nodig vindt om van te leven.", "Welvaartsvaste uitkering": "Een uitkering die meestijgt met de lonen.", "Waardevaste uitkering": "Een uitkering die meestijgt met de prijzen, zodat de koopkracht gelijk blijft.", "Omslagstelsel": "De premies van de werkenden van nu worden direct gebruikt voor de uitkeringen van nu.", "Kostendelersnorm": "Regel waardoor de bijstand lager is als je met andere volwassenen een huis deelt.", "Participatiewet": "Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien.", "Risico": "De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen.", "Risicoavers": "Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde.", "Risiconeutraal": "Alleen kijken naar de verwachte waarde, niet naar de onzekerheid.", "Risicozoekend": "Bewust risico nemen, ook als de verwachte waarde ongunstig is.", "Verzekering": "Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar.", "Polis": "Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking.", "Assurantiebelasting": "Belasting die de overheid heft over de premie van schadeverzekeringen.", "Premiedifferentiatie": "De premie laten afhangen van kenmerken die iets zeggen over het risico.", "Bonus-malussysteem": "Premiekorting bij schadevrije jaren en een hogere premie na een claim.", "Verzekeringsdruk": "Premie aan schadeverzekeringen per inwoner als percentage van het bbp per inwoner.", "Risicodraagvlak": "De groep verzekerden waarover de risico's worden gespreid.", "Acceptatieplicht": "De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid.", "Signalering": "Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen.", "WA-verzekering": "Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt.", "Sociale verzekering": "Verzekering tegen inkomensderving, betaald uit premies.", "Sociale voorziening": "Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand.", "WIA": "Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid.", "Waardevast": "Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft.", "Welvaartsvast": "Een uitkering die meestijgt met de gemiddelde lonen.", "Armoedeval": "Wie gaat werken of meer werkt, gaat er nauwelijks op vooruit doordat uitkeringen en toeslagen wegvallen.", "Effecten": "Verhandelbare waardepapieren, zoals aandelen en obligaties.", "Aandeel": "Bewijs van deelname in het eigen vermogen van een nv of bv.", "Dividendrendement": "Dividend per aandeel als percentage van de aankoopkoers.", "Koersrendement": "Koerswinst of -verlies als percentage van de aankoopkoers.", "Aandelenrendement": "Dividendrendement plus koersrendement.", "Depositogarantiestelsel": "Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement.", "Prudentieel toezicht": "Toezicht van DNB op de financiële gezondheid van banken, verzekeraars en pensioenfondsen.", "Gedragstoezicht": "Toezicht van de AFM op hoe financiële instellingen met klanten omgaan en op eerlijke handel.", "Obligatie": "Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing.", "Couponrente": "De vaste rente die een obligatie elk jaar oplevert over de nominale waarde.", "Nominale waarde": "Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost.", "Schatkistpapier": "Kortlopende lening van de overheid met een looptijd korter dan een jaar.", "Onder pari": "De koers van een obligatie ligt onder de nominale waarde.", "Rechtspersoon": "Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter.", "Eenmanszaak": "Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is.", "Vennootschap onder firma": "Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn.", "Naamloze vennootschap": "Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen.", "Besloten vennootschap": "Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn.", "Eigen vermogen": "Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten.", "Vreemd vermogen": "Geleend vermogen van derden waarover rente wordt betaald en dat moet worden terugbetaald.", "Leverancierskrediet": "Kortlopend krediet doordat een leverancier levert en de afnemer later mag betalen.", "Principaal-agentrelatie": "Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft.", "Principaal": "De opdrachtgever in een principaal-agentrelatie.", "Agent": "De opdrachtnemer die namens de principaal handelt.", "Prestatieloon": "Beloning die afhangt van meetbare prestaties.", "Efficiëntieloon": "Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet.", "Raad van commissarissen": "Orgaan dat toezicht houdt op het bestuur van een nv of bv."});
+LEVELS.H.begrippen = Object.assign(LEVELS.H.begrippen||{}, {"Toegevoegde waarde": "De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik.", "Intermediair verbruik": "Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie.", "Bbp": "De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt.", "Bbp tegen marktprijzen": "Bbp inclusief indirecte belastingen min prijsverlagende subsidies.", "Bbp tegen factorkosten": "Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen.", "Netto nationaal inkomen": "Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend.", "Objectieve methode": "Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen.", "Subjectieve methode": "Het bbp berekenen door alle beloningen van de productiefactoren op te tellen.", "Productiefactoren": "Arbeid, kapitaal, natuur en ondernemerschap.", "Macro-economische balansvergelijking": "(S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul.", "Nationaal spaarsaldo": "Het verschil tussen de particuliere besparingen en investeringen (S − I).", "Overheidssaldo": "Belastingontvangsten min overheidsbestedingen (B − O).", "Exportoverschot": "De export is groter dan de import.", "Economische groei": "De procentuele stijging van het reële bbp per hoofd van de bevolking.", "Arbeidsproductiviteit": "De productie per werkende per tijdseenheid.", "Loonkosten per product": "Gemiddeld loon gedeeld door de arbeidsproductiviteit.", "Productiefunctie": "Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie.", "Totale factorproductiviteit": "De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A).", "Afnemende meeropbrengsten": "Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder.", "Instituties": "De formele en informele spelregels in een samenleving, zoals eigendomsrecht en rechtspraak.", "Informele economie": "Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten.", "Human Development Index": "Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs.", "Groen bbp": "Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen.", "Brede welvaart": "Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders.", "Duurzame ontwikkeling": "Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen.", "Wellbeing Indicator": "Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk.", "Primair inkomen": "Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid.", "Secundair inkomen": "Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen.", "Tertiair inkomen": "Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen.", "Lorenzcurve": "Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen.", "Gini-coëfficiënt": "Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve.", "Personele inkomensverdeling": "De verdeling van het inkomen over personen of huishoudens.", "Categorale inkomensverdeling": "De verdeling van het inkomen over arbeid en de andere productiefactoren.", "Arbeidsinkomensquote": "Het arbeidsinkomen als percentage van de toegevoegde waarde.", "Deciel": "Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen.", "Kwintiel": "Een vijfde deel van een groep, gerangschikt van laag naar hoog inkomen.", "Nivellering": "Het kleiner worden van de relatieve inkomensverschillen.", "Denivellering": "Het groter worden van de relatieve inkomensverschillen.", "Wet van Tinbergen": "De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs.", "Negatief vermogen": "Een huishouden heeft meer schulden dan bezittingen.", "Vlaktaks": "Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt.", "Progressieve belasting": "Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt.", "Degressieve belasting": "Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt.", "Negatieve inkomstenbelasting": "Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen.", "Heffingskorting": "Bedrag dat van de te betalen belasting wordt afgetrokken.", "Minimumloon": "Het wettelijk laagste loon dat een werkgever mag betalen."});
 LEVELS.I.begrippen = Object.assign(LEVELS.I.begrippen||{}, {"Output gap": "Het verschil tussen de feitelijke productie en de potentiële productie.", "Hoogconjunctuur": "Periode waarin de feitelijke productie boven de potentiële productie ligt.", "Laagconjunctuur": "Periode waarin de feitelijke productie onder de potentiële productie ligt.", "Recessie": "Periode waarin de economie krimpt.", "Consumentenvertrouwen": "Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie.", "Producentenvertrouwen": "Mate waarin ondernemers optimistisch zijn over de afzet en de economie.", "Trend": "De gemiddelde groei van het reële bbp over een lange periode.", "Effectieve vraag": "De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen.", "Marginale consumptiequote": "Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie.", "Marginale spaarquote": "Het deel van een extra euro besteedbaar inkomen dat wordt gespaard.", "Multiplier": "De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost.", "Spaarlek": "Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen.", "Belastinglek": "Het deel van een extra inkomen dat naar de overheid gaat als belasting.", "IS-curve": "Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag.", "Taylor-regel": "Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap.", "Naïeve inflatieverwachting": "De verwachting dat de inflatie gelijk blijft aan die van de vorige periode.", "Anticyclisch conjunctuurbeleid": "Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur.", "Ingebouwde stabilisatoren": "Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen.", "Inverdieneffect": "Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen.", "Uitverdieneffect": "Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt.", "Conjuncturele werkloosheid": "Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit.", "Beroepsbevolking": "Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn.", "Werkgelegenheid": "De vraag naar arbeid: het aantal bezette banen plus de vacatures.", "Verborgen werkloosheid": "Mensen die werk willen maar niet als werkzoekend staan geregistreerd.", "Bruto arbeidsparticipatie": "De beroepsbevolking als percentage van de beroepsgeschikte bevolking.", "Arbeidsjaar": "Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar.", "Ontmoedigingseffect": "Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is.", "Kwalitatieve structurele werkloosheid": "Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures.", "Kwantitatieve structurele werkloosheid": "Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn.", "Frictiewerkloosheid": "Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan.", "Seizoenswerkloosheid": "Werkloosheid door seizoensschommelingen in de bedrijvigheid.", "Natuurlijke werkloosheid": "De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie.", "Gespannen arbeidsmarkt": "Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod.", "Vacatures": "Openstaande banen waarvoor werkgevers personeel zoeken.", "Arbeidsmarkt": "De totale vraag naar en het totale aanbod van arbeid.", "Loonstarheid": "Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.", "Arbeidsaanbod": "De hoeveelheid arbeid die mensen willen en kunnen verrichten.", "Consumentenprijsindex": "Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen.", "Partiële prijsindex": "Prijsindexcijfer van één productgroep.", "Deflatie": "Een daling van het algemene prijspeil.", "Waardevast inkomen": "Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft.", "Welvaartsvast inkomen": "Een inkomen dat meestijgt met de lonen.", "Geldillusie": "Letten op het nominale bedrag in plaats van op de koopkracht.", "Bestedingsinflatie": "Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit.", "Kosteninflatie": "Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen.", "Geïmporteerde inflatie": "Inflatie doordat ingevoerde goederen, zoals energie, duurder worden.", "Maatschappelijke geldhoeveelheid": "Chartaal geld plus giraal geld in handen van het publiek.", "Secundaire liquiditeiten": "Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten.", "Geldschepping": "Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt.", "Wederzijdse schuldaanvaarding": "Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat.", "Liquiditeit": "De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen.", "Depositogarantiestelsel": "Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt.", "Monetair beleid": "Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden.", "Kasreserveregeling": "Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank.", "Quantitative easing": "De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren.", "Zero lower bound": "De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen.", "Reële rente": "De nominale rente gecorrigeerd voor inflatie.", "Betalingsbalans": "Overzicht van alle geldstromen tussen een land en het buitenland in een periode.", "Lopende rekening": "Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten.", "Financiële rekening": "Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten.", "Wederuitvoer": "Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad.", "Inkomensoverdrachten": "Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat.", "Protectie": "Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie.", "Opvoedingsargument": "Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie.", "Contingentering": "Het beperken van de invoer tot een maximale hoeveelheid.", "Offshoring": "Het verplaatsen van bedrijfsactiviteiten naar het buitenland.", "Comparatief voordeel": "Een land kan een product met relatief minder opofferingen maken dan een ander land.", "Appreciatie": "Een waardestijging van een munt door veranderingen in vraag en aanbod.", "Depreciatie": "Een waardedaling van een munt door veranderingen in vraag en aanbod.", "Devaluatie": "Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen.", "Revaluatie": "Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen.", "Trilemma": "Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben.", "Douane-unie": "Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief.", "Monetaire unie": "Samenwerking waarin de landen één munt en één centrale bank hebben.", "Convergentiecriteria": "De eisen waaraan een land moet voldoen om de euro in te voeren.", "Vrijhandelszone": "Samenwerking waarin de landen onderling geen invoerrechten heffen.", "Gemeenschappelijke markt": "Douane-unie met ook vrij verkeer van arbeid en kapitaal."});

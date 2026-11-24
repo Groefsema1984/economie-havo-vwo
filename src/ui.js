@@ -176,7 +176,8 @@ herhaal(){
   const n=S.herhaal.length;
   return `<div class="wrap">${kop('Herhaalronde','go(\'home\')')}<div class="kaart mid"><div class="groot">🔁</div>
    <p>${n?`Er staan <b>${n}</b> vragen klaar die je eerder fout had. Een vraag verdwijnt als je hem twee keer goed hebt.`:'Je hebt geen foute vragen openstaan.'}</p>
-   ${n?`<button class="knop" onclick="startHerhaal()">Start herhaalronde</button>`:''}</div></div>`;
+   ${n?`<button class="knop" onclick="startHerhaal()">Start herhaalronde</button>`:''}</div>
+   <div class="kaart" style="margin-top:12px"><b>📕 Foutenschrift</b><p class="zacht" style="margin:4px 0 8px">Al je fouten per leerdoel, zodat je ziet waar je specifiek aan moet werken.</p><button class="knop zacht" onclick="go('fouten')">Open je foutenschrift</button></div></div>`;
 },
 collectie(){
   const blok=WERELDEN.filter(w=>LEVELS[w.id]&&Object.keys(LEVELS[w.id].begrippen||{}).length).map(w=>{const b=LEVELS[w.id].begrippen; const ks=Object.keys(b).sort((a,c)=>a.localeCompare(c,'nl'));

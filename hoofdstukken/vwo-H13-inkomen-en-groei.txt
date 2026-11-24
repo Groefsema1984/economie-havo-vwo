@@ -1,0 +1,212 @@
+# HOOFDSTUK v 13 | Inkomen en groei
+domein: H
+hoofdvraag: Hoe kun je economische prestaties van een land meten?
+
+## § 13.1 | Productie en inkomen
+onderwerp: H.bbp
+deelvraag: Op welke manier kun je nationale productie en het nationaal inkomen meten?
+leerdoelen: ECO-ALGEM-03
+gens: bbpPerInwoner
+### UITLEG Productiefactoren en toegevoegde waarde
+Vier productiefactoren met elk een beloning: arbeid (loon), kapitaal (rente en dividend), natuur (pacht) en ondernemerschap (winst).
+Bruto toegevoegde waarde = omzet − intermediair verbruik (ingekochte goederen en diensten). Netto toegevoegde waarde = bruto toegevoegde waarde − afschrijvingen.
+De som van alle netto toegevoegde waarden is gelijk aan de som van alle beloningen: netto productie = inkomen.
+### UITLEG Drie manieren om het bbp te meten
+- Objectieve methode (productie): som van de bruto toegevoegde waarden van bedrijven en overheid, plus indirecte belastingen min prijsverlagende subsidies.
+- Subjectieve methode (inkomens): lonen + rente + pacht + winst = netto binnenlands product tegen factorkosten. Plus afschrijvingen = bbp tegen factorkosten. Plus indirecte belastingen min subsidies = bbp tegen marktprijzen.
+- Bestedingsmethode: bbp = C + I + O + (E − M). Het intermediair verbruik telt niet mee.
+### UITLEG Binnenlands en nationaal
+Het binnenlands product is de productie op het eigen grondgebied. Het nationaal inkomen is het inkomen van de inwoners, waar ze het ook verdienen.
+bbp − afschrijvingen = nbp. nbp + saldo primaire inkomens uit het buitenland = netto nationaal inkomen.
+In de staat van middelen en bestedingen geldt: bbp + import = C + I + O + E.
+### BEGRIPPEN
+Toegevoegde waarde = De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik.
+Intermediair verbruik = Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie.
+Bbp = De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt.
+Bbp tegen marktprijzen = Bbp inclusief indirecte belastingen min prijsverlagende subsidies.
+Bbp tegen factorkosten = Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen.
+Netto nationaal inkomen = Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend.
+Objectieve methode = Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen.
+Subjectieve methode = Het bbp berekenen door alle beloningen van de productiefactoren op te tellen.
+Productiefactoren = Arbeid, kapitaal, natuur en ondernemerschap.
+### MC
+Een bakker heeft een omzet van € 500.000. Hij koopt voor € 200.000 meel en andere grondstoffen in en schrijft € 30.000 af. Wat is zijn netto toegevoegde waarde?
+* € 270.000
+- € 300.000
+- € 470.000
+- € 230.000
+> Bruto: 500.000 − 200.000 = 300.000. Netto: 300.000 − 30.000 = 270.000.
+### MC
+Waarom tellen we bij het bbp de ingekochte meel van de bakker niet apart mee?
+* Dan zou de productie van de molenaar dubbel worden geteld
+- Omdat meel geen eindproduct van belang is
+- Omdat meel uit het buitenland komt
+- Omdat meel niet wordt belast
+> Alleen toegevoegde waarde of eindbestedingen tellen. Zo voorkom je dubbeltelling.
+### MC
+Een Nederlander werkt in Duitsland en woont in Nederland. Waar telt zijn loon mee?
+* In het Duitse binnenlands product en in het Nederlandse nationaal inkomen
+- In het Nederlandse binnenlands product
+- Alleen in het Duitse nationaal inkomen
+- Nergens, want grensarbeid telt niet mee
+> De productie vindt plaats in Duitsland, maar het inkomen gaat naar een inwoner van Nederland.
+### MC
+Welke beloning hoort bij de productiefactor natuur?
+* Pacht
+- Rente
+- Winst
+- Loon
+> Grond en natuur worden beloond met pacht.
+
+## § 13.2 | Kringloop en nationale boekhouding
+onderwerp: I.saldi
+deelvraag: Hoe kun je de geldstromen in een economie volgen met een economische kringloop?
+### UITLEG De kringloop
+De nationale boekhouding volgt de geldstromen tussen vijf sectoren: huishoudens, bedrijven, overheid, financiële sector en buitenland.
+### UITLEG De balansvergelijking
+Bestedingen: W = C + I + O + E − M. Bestemming van het inkomen: Y = C + B + S (consumptie, belastingen, besparingen).
+Omdat W = Y, geldt C + I + O + E − M = C + B + S. Daaruit volgt: (S − I) + (B − O) + (M − E) = 0.
+- S − I: het particuliere spaarsaldo.
+- B − O: het overheidssaldo.
+- M − E: het saldo met het buitenland. Bij een exportoverschot (E > M) is dit negatief.
+De drie saldi zijn samen altijd nul. Een spaaroverschot van de particuliere sector gaat dus naar de overheid (tekort) of naar het buitenland (exportoverschot).
+### BEGRIPPEN
+Macro-economische balansvergelijking = (S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul.
+Nationaal spaarsaldo = Het verschil tussen de particuliere besparingen en investeringen (S − I).
+Overheidssaldo = Belastingontvangsten min overheidsbestedingen (B − O).
+Exportoverschot = De export is groter dan de import.
+### MC
+In een land is S − I = 40 en B − O = −10. Hoe groot is E − M?
+* 30
+- −30
+- 50
+- −50
+> (S − I) + (B − O) + (M − E) = 0 → 40 − 10 + (M − E) = 0 → M − E = −30, dus E − M = 30.
+### MC
+Nederland heeft een groot particulier spaaroverschot en een begroting in evenwicht. Wat volgt daaruit?
+* Een exportoverschot
+- Een importoverschot
+- Een begrotingstekort
+- Dat de investeringen groter zijn dan de besparingen
+> Als S − I positief is en B − O nul, moet M − E negatief zijn: de export is groter dan de import.
+### MC
+Waarom valt de consumptie (C) weg in de balansvergelijking?
+* Omdat C zowel aan de bestedingskant als aan de inkomenskant staat
+- Omdat consumptie niet meetelt in het bbp
+- Omdat consumptie gelijk is aan besparingen
+- Omdat de overheid de consumptie bepaalt
+> C + I + O + E − M = C + B + S. Links en rechts C wegstrepen.
+### MC
+Welke uitspraak over de drie saldi is juist?
+* Ze zijn samen altijd gelijk aan nul
+- Ze zijn alle drie altijd positief
+- Alleen het overheidssaldo kan negatief zijn
+- Ze zijn samen gelijk aan het bbp
+> Wat de ene sector overhoudt, leent een andere sector.
+
+## § 13.3 | Economische groei
+onderwerp: H.groei
+deelvraag: Hoe kun je het verschijnsel economische groei meten en waardoor wordt die groei veroorzaakt?
+leerdoelen: ECO-ALGEM-05, ECO-GROEI-01
+gens: reeleGroei, productiviteit
+### UITLEG Groei meten
+Economische groei is de procentuele toename van het reële bbp per hoofd van de bevolking. Reëel: gecorrigeerd voor inflatie. Per hoofd: gecorrigeerd voor bevolkingsgroei. Het gaat om de lange termijn (structurele groei), niet om de conjunctuur.
+### UITLEG Bronnen van groei
+- Arbeid: meer werkenden en beter opgeleide werkenden (human capital). Arbeidsproductiviteit = productie per werknemer per tijdseenheid.
+Loonkosten per product = gemiddeld loon / arbeidsproductiviteit.
+- Kapitaal: meer machines (breedte-investeringen) en betere machines door technologie (diepte-investeringen).
+- Natuur: grondstoffen en vruchtbare grond.
+- Instituties: eigendomsrechten, een betrouwbaar rechtssysteem, goed onderwijs, een stabiele munt en marktwerking.
+### UITLEG De productiefunctie
+Y* = A × f(K, L). Y* is de potentiële productie, A de totale factorproductiviteit (technologie, kennis, organisatie, instituties), K kapitaal en L arbeid.
+Afnemende meeropbrengsten: neemt alleen K (of alleen L) toe, dan stijgt de productie steeds minder hard. Duurzame groei per hoofd komt daarom vooral van een hogere A.
+Schaalopbrengsten: stijgen K en L allebei met dezelfde factor, dan kan de productie evenredig, meer of minder dan evenredig stijgen.
+### BEGRIPPEN
+Economische groei = De procentuele stijging van het reële bbp per hoofd van de bevolking.
+Arbeidsproductiviteit = De productie per werkende per tijdseenheid.
+Loonkosten per product = Gemiddeld loon gedeeld door de arbeidsproductiviteit.
+Productiefunctie = Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie.
+Totale factorproductiviteit = De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A).
+Afnemende meeropbrengsten = Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder.
+Instituties = De formele en informele spelregels in een samenleving, zoals eigendomsrecht en rechtspraak.
+### MC
+Het nominale bbp stijgt met 5%, de prijzen met 2% en de bevolking met 1%. Wat is ongeveer de economische groei?
+* 2%
+- 5%
+- 3%
+- 4%
+> Reëel ≈ 5 − 2 = 3%. Per hoofd ≈ 3 − 1 = 2%.
+### MC
+Het loon stijgt met 4% en de arbeidsproductiviteit met 4%. Wat gebeurt er met de loonkosten per product?
+* Die blijven ongeveer gelijk
+- Die stijgen met 4%
+- Die dalen met 4%
+- Die stijgen met 8%
+> Loonkosten per product = loon / productiviteit. Als teller en noemer even hard stijgen, blijft de breuk gelijk.
+### MC
+Een land investeert steeds meer in machines, maar het aantal werknemers blijft gelijk. Wat gebeurt er volgens de productiefunctie?
+* De productie stijgt, maar steeds minder hard (afnemende meeropbrengsten)
+- De productie stijgt steeds harder
+- De productie daalt
+- De productie blijft gelijk
+> Elke extra machine levert minder extra op als er niet meer mensen zijn om ermee te werken.
+### MC
+Welke factor zit in de A van de productiefunctie?
+* Technologische vooruitgang en goede instituties
+- Het aantal werkenden
+- Het aantal machines
+- De hoeveelheid grond
+> A is de totale factorproductiviteit: hoe slim kapitaal en arbeid worden ingezet.
+
+## § 13.4 | Economische groei en welvaart
+onderwerp: H.bbp
+deelvraag: Wat zeggen macro-economische cijfers over de welvaart van een land?
+leerdoelen: ECO-ALGEM-06, ECO-ALGEM-07
+### UITLEG Beperkingen van het bbp
+Het bbp per hoofd meet alleen de gemiddelde materiële productie:
+- De informele economie (vrijwilligerswerk, mantelzorg, zwartwerk) telt niet mee.
+- Negatieve externe effecten (vervuiling, CO2, uitputting) worden niet afgetrokken. Herstel van milieuschade verhoogt het bbp zelfs.
+- Vrije tijd en arbeidsomstandigheden tellen niet mee.
+- Het zegt niets over de inkomensverdeling.
+- Boven een bepaald inkomen levert extra inkomen steeds minder extra geluk op.
+### UITLEG Brede welvaart
+- HDI (VN): inkomen per hoofd, levensverwachting en onderwijs.
+- Better Life Index / Wellbeing Indicator (OESO): ook wonen, werk, milieu, gezondheid, veiligheid, werk-privébalans en tevredenheid.
+- Groen bbp: bbp gecorrigeerd voor milieuschade en uitputting.
+- Brede welvaart (CBS): welzijn hier en nu, later (behoud van kapitaal voor toekomstige generaties) en elders (effecten op andere landen).
+Duurzame ontwikkeling voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen.
+### BEGRIPPEN
+Informele economie = Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten.
+Human Development Index = Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs.
+Groen bbp = Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen.
+Brede welvaart = Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders.
+Duurzame ontwikkeling = Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen.
+Wellbeing Indicator = Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk.
+### MC
+Na een overstroming wordt voor miljarden aan dijken en huizen hersteld. Wat gebeurt er met het bbp en de welvaart?
+* Het bbp stijgt, maar de welvaart is niet hoger dan vóór de ramp
+- Het bbp daalt en de welvaart stijgt
+- Het bbp en de welvaart stijgen allebei
+- Het bbp en de welvaart blijven gelijk
+> Herstelwerk telt als productie, maar herstelt alleen wat verloren ging.
+### MC
+Welke activiteit telt niet mee in het bbp?
+* Mantelzorg voor een ouder
+- Een betaalde schoonmaker via een bureau
+- De bouw van een nieuw ziekenhuis
+- Een docent op een openbare school
+> Onbetaald werk zit in de informele economie en wordt niet geregistreerd.
+### MC
+Welke drie onderdelen zitten in de HDI?
+* Inkomen per hoofd, levensverwachting en onderwijs
+- Bbp, inflatie en werkloosheid
+- Milieu, veiligheid en geluk
+- Export, import en staatsschuld
+> De Human Development Index van de VN combineert inkomen, gezondheid en scholing.
+### MC
+Wat bedoelt het CBS met welvaart "later"?
+* Of we genoeg economisch, natuurlijk, menselijk en sociaal kapitaal overlaten aan toekomstige generaties
+- De verwachte groei van het bbp volgend jaar
+- De pensioenen van ouderen
+- De welvaart in andere landen
+> Brede welvaart kijkt naar hier en nu, later en elders.

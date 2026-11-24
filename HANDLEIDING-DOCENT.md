@@ -10,7 +10,7 @@
 - Per domein nu een **startset** met basisbegrippen (8 tot 11 vragen) en een **rekenlab** met sommen die steeds nieuwe getallen
   krijgen (elasticiteit, evenwicht, break-even, MO = MK, contante waarde, reële groei, werkloosheid, enzovoort).
   Domein J is nog leeg en staat op "Komt binnenkort".
-- Per domein staan de **hoofdstukken van Economie Integraal** als aparte groep: havo H2 t/m H9 en vwo H2 t/m H8 en H15 t/m H18.
+- Per domein staan de **hoofdstukken van Economie Integraal** als aparte groep: havo H2 t/m H9 en vwo H2 t/m H18 (vwo H9 t/m H14 komen uit de samenvattingen die op 24 november in de Drive zijn gezet; uitleg, begrippen en vragen zijn daarop gebaseerd en door Claude uitgeschreven, lees ze na).
   Elke paragraaf is een level met eerst uitleg en daarna vragen. Welke hoofdstukken nog ontbreken staat in het overzicht in Claude Docs.
 - Alles van de mavo-app werkt hier ook: medailles (brons 6/8, zilver 7/8, goud 8/8), domeintoets met diploma, herhaalronde,
   vaardigheden per onderwerp (0-100), begrippenkaarten, badges, munten, thema's en het docentendashboard met oefentijd,
@@ -31,6 +31,9 @@
   - "Oefen dit domein" geeft voorrang aan de zwakste onderwerpen.
 
 - **Leren** (nieuw menu-item) bundelt vijf extra's:
+  - **Foutenschrift**: alle vragen die de leerling fout had, per leerdoel (onderwerp/eindterm), met bovenaan de leerdoelen met de
+    meeste open fouten. Per leerdoel: de foute vragen opnieuw oefenen of nieuwe vragen over dat leerdoel. Ook af te drukken.
+    In het docentendashboard staat bij elke leerling een foutenschrift per leerdoel.
   - **Flitskaarten**: alle begrippen per domein. De leerling draait de kaart om en kiest Wist ik niet, Twijfel of Wist ik.
     Gekende kaarten komen terug na 1, 3, 7, 14, 30 en 60 dagen (herhaling op afstand). Ook andersom te oefenen (betekenis → begrip).
   - **Formulekaart en rekenhulp**: 22 formules per domein met uitleg, een uitgewerkt voorbeeld, een rekenhulp om de eigen berekening

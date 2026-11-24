@@ -1,0 +1,208 @@
+# HOOFDSTUK v 11 | Risico en verzekeren
+domein: G
+hoofdvraag: Waarom, hoe en waartegen kun je je verzekeren?
+
+## § 11.1 | Risico, gedrag en verzekeren
+onderwerp: G.risico
+deelvraag: Wat is het verband tussen financiële risico's en verzekeringen?
+leerdoelen: ECO-VERZE-01, ECO-ALGEM-14
+gens: verwachteSchade
+### UITLEG Risico en risicohouding
+Risico is de kans dat een onzeker voorval gebeurt, samen met de omvang van de gevolgen. Verwachte schade = kans × schadebedrag.
+- Risicoavers: je hebt een afkeer van risico en kiest liever zekerheid. Je betaalt daarom premie, ook als die hoger is dan de verwachte schade.
+- Risiconeutraal: je kijkt alleen naar de verwachte waarde (kans × bedrag).
+- Risicozoekend: je neemt bewust risico, ook als de verwachte waarde ongunstig is, bijvoorbeeld bij gokken.
+### UITLEG De verzekering
+Bij een verzekering betaal je premie en draagt de verzekeraar de financiële gevolgen van een onzeker voorval. De polis is het bewijs met de voorwaarden.
+De nettopremie is de verwachte schade plus kosten en winst van de verzekeraar. Over schadeverzekeringen betaal je ook assurantiebelasting: samen is dat de brutopremie.
+Je verzekert vooral risico's met een kleine kans en grote gevolgen die je zelf niet kunt dragen, zoals brand of aansprakelijkheid. Sommige verzekeringen zijn verplicht: de basiszorgverzekering en de WA-autoverzekering.
+### BEGRIPPEN
+Risico = De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen.
+Risicoavers = Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde.
+Risiconeutraal = Alleen kijken naar de verwachte waarde, niet naar de onzekerheid.
+Risicozoekend = Bewust risico nemen, ook als de verwachte waarde ongunstig is.
+Verzekering = Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar.
+Polis = Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking.
+Assurantiebelasting = Belasting die de overheid heft over de premie van schadeverzekeringen.
+### MC
+De kans op brand in een woning is 1 op 2.000 per jaar. De schade is dan € 300.000. Hoe groot is de verwachte schade?
+* € 150
+- € 1.500
+- € 300.000
+- € 600
+> 1/2.000 × 300.000 = € 150. Dat is de zuivere premie.
+### MC
+Iemand betaalt € 200 premie voor een risico met een verwachte schade van € 150. Welke risicohouding past hierbij?
+* Risicoavers
+- Risiconeutraal
+- Risicozoekend
+- Risicoloos
+> Hij betaalt meer dan de verwachte schade om zekerheid te krijgen.
+### MC
+Waarom verzekeren mensen zich wel tegen brand, maar meestal niet tegen een kapotte paraplu?
+* Brand heeft een kleine kans maar zeer grote gevolgen die je zelf niet kunt dragen
+- Een paraplu gaat nooit kapot
+- Brandverzekeringen zijn verplicht
+- Bij een paraplu is de verwachte schade hoger
+> Kleine schades kun je zelf betalen. Verzekeren loont vooral bij grote, onbetaalbare schades.
+### MC
+Waaruit bestaat de brutopremie van een schadeverzekering?
+* Verwachte schade, kosten en winst van de verzekeraar, plus assurantiebelasting
+- Alleen de verwachte schade
+- Alleen de kosten van de verzekeraar
+- De verwachte schade min de assurantiebelasting
+> Zuivere premie + opslag = nettopremie. Met assurantiebelasting erbij wordt het de brutopremie.
+
+## § 11.2 | Moral hazard en averechtse selectie
+onderwerp: G.info
+deelvraag: Welke rol speelt de beschikbaarheid van informatie bij het afsluiten van een verzekering?
+leerdoelen: ECO-VERZE-02, ECO-VERZE-03, ECO-VERZE-04
+### UITLEG Asymmetrische informatie
+De verzekerde weet meer over zijn eigen risico en gedrag dan de verzekeraar. Dat is asymmetrische informatie. Het leidt tot twee problemen.
+### UITLEG Averechtse selectie (vóór het afsluiten)
+De verzekeraar kan goede en slechte risico's niet onderscheiden en vraagt een gemiddelde premie. Voor goede risico's is die te hoog: zij haken af. Er blijven vooral slechte risico's over, de schade per verzekerde stijgt en de premie moet omhoog.
+De slechte risico's verdrijven zo de goede risico's van de markt.
+Oplossingen: premiedifferentiatie (premie naar leeftijd, woonplaats, schadevrije jaren) of een verzekeringsplicht. Premiedifferentiatie gaat ten koste van de solidariteit.
+### UITLEG Moral hazard (na het afsluiten)
+Wie verzekerd is, gaat zich onvoorzichtiger gedragen, omdat hij de schade niet zelf betaalt. Bijvoorbeeld de fiets minder goed op slot zetten.
+Oplossingen: eigen risico, een bonus-malussysteem en preventie-eisen (zoals goedgekeurde sloten).
+Verzekeringsdruk = premie aan schadeverzekeringen per hoofd / bbp per hoofd × 100%.
+### BEGRIPPEN
+Asymmetrische informatie = De ene partij bij een transactie heeft meer of betere informatie dan de andere.
+Averechtse selectie = Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is.
+Moral hazard = Mensen gedragen zich onvoorzichtiger zodra ze verzekerd zijn tegen de gevolgen.
+Premiedifferentiatie = De premie laten afhangen van kenmerken die iets zeggen over het risico.
+Eigen risico = Het deel van de schade dat de verzekerde zelf betaalt.
+Bonus-malussysteem = Premiekorting bij schadevrije jaren en een hogere premie na een claim.
+Verzekeringsdruk = Premie aan schadeverzekeringen per inwoner als percentage van het bbp per inwoner.
+### MC
+Na het afsluiten van een reisverzekering laat iemand zijn camera vaker onbeheerd liggen. Hoe heet dit?
+* Moral hazard
+- Averechtse selectie
+- Premiedifferentiatie
+- Risicoaversie
+> Moral hazard ontstaat ná het afsluiten: je gedrag verandert doordat je verzekerd bent.
+### MC
+Een verzekeraar vraagt iedereen dezelfde premie. Wat is het gevaar?
+* Goede risico's haken af, zodat vooral slechte risico's overblijven
+- Slechte risico's haken af
+- Verzekerden worden voorzichtiger
+- De premie daalt steeds verder
+> Dat is averechtse selectie: de gemiddelde premie is voor goede risico's te duur.
+### MC
+Welke maatregel helpt vooral tegen moral hazard?
+* Een eigen risico
+- Een acceptatieplicht
+- Een verbod op premiedifferentiatie
+- Een gemiddelde premie voor iedereen
+> Met een eigen risico betaal je een deel van de schade zelf, dus loont voorzichtig zijn weer.
+### MC
+Een autoverzekeraar laat de premie afhangen van leeftijd en schadevrije jaren. Welk probleem wordt zo vooral kleiner?
+* Averechtse selectie
+- Moral hazard
+- Inflatie
+- Meeliftersgedrag
+> Goede risico's betalen dan minder en blijven verzekerd.
+
+## § 11.3 | Particuliere verzekeringen
+onderwerp: G.risico
+deelvraag: Wat zijn de kenmerken van enkele veel afgesloten particuliere verzekeringen?
+leerdoelen: ECO-ALGEM-13
+### UITLEG Risicodraagvlak en verplichting
+Hoe groter de groep verzekerden, hoe beter de risico's gespreid zijn en hoe voorspelbaarder de totale schade (groot risicodraagvlak).
+Een verzekeringsplicht (WA, basiszorg) voorkomt averechtse selectie, zorgt voor solidariteit tussen goede en slechte risico's en voorkomt dat anderen opdraaien voor onbetaalde schade.
+### UITLEG Veel afgesloten verzekeringen
+- AVP: schade die je per ongeluk aan anderen toebrengt. Niet verplicht, wel gebruikelijk.
+- Auto: WA is verplicht (schade aan anderen). Beperkt casco en allrisk dekken ook je eigen auto. Er geldt een bonus-malusladder.
+- Opstal: het huis zelf en alles wat aard- en nagelvast zit. Inboedel: je spullen in huis.
+- Reis- en annuleringsverzekering.
+### UITLEG De zorgverzekering
+De basisverzekering is verplicht en de overheid bepaalt het pakket. Er geldt een acceptatieplicht en een verbod op premiedifferentiatie: iedereen betaalt dezelfde premie (solidariteit tussen gezond en ziek). Er is een verplicht eigen risico, dat je vrijwillig kunt verhogen.
+De aanvullende verzekering is vrijwillig: geen acceptatieplicht en wel premiedifferentiatie.
+Wie vrijwillig een hoger eigen risico kiest, geeft een signaal dat hij weinig zorgkosten verwacht (signalering).
+De vraag naar basiszorg is zeer prijsinelastisch: zorg is noodzakelijk en je voelt de prijs nauwelijks.
+### BEGRIPPEN
+Risicodraagvlak = De groep verzekerden waarover de risico's worden gespreid.
+Acceptatieplicht = De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid.
+Signalering = Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen.
+WA-verzekering = Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt.
+Opstalverzekering = Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit.
+Inboedelverzekering = Verzekering voor schade aan de verplaatsbare spullen in je huis.
+### MC
+Waarom geldt voor de basiszorgverzekering een acceptatieplicht én een verbod op premiedifferentiatie?
+* Om solidariteit tussen gezond en ziek te garanderen en averechtse selectie te voorkomen
+- Om moral hazard te voorkomen
+- Omdat zorg een collectief goed is
+- Omdat verzekeraars anders te weinig winst maken
+> Iedereen moet verzekerd zijn tegen dezelfde premie. Zieke mensen worden zo niet uitgesloten en gezonde mensen kunnen niet afhaken.
+### MC
+Iemand kiest vrijwillig voor het maximale eigen risico in ruil voor een lagere premie. Wat doet hij economisch gezien?
+* Hij geeft het signaal dat hij een goed risico is
+- Hij vertoont moral hazard
+- Hij vergroot de averechtse selectie
+- Hij is risicozoekend
+> Signalering: alleen wie weinig zorgkosten verwacht, kiest een hoog eigen risico.
+### MC
+Je schoorsteen waait van het dak en beschadigt het dak. Welke verzekering dekt dit?
+* De opstalverzekering
+- De inboedelverzekering
+- De AVP
+- De reisverzekering
+> Het dak is aard- en nagelvast: dat valt onder de opstal.
+### MC
+Waarom is de prijselasticiteit van de vraag naar basiszorg laag?
+* Zorg is noodzakelijk en de patiënt betaalt door de verzekering de prijs niet direct zelf
+- Zorg is een luxegoed
+- Er zijn veel goedkope vervangende goederen
+- De overheid verbiedt prijsstijgingen
+> Bij noodzakelijke goederen zonder goede vervangers reageert de vraag weinig op de prijs.
+
+## § 11.4 | Sociale zekerheid
+onderwerp: G.soczek
+deelvraag: Hoe is het stelsel van sociale zekerheid in Nederland georganiseerd?
+### UITLEG Doel en opbouw
+Sociale zekerheid beschermt tegen inkomensderving (werkloosheid, ziekte, arbeidsongeschiktheid, ouderdom) en bijzondere lasten (zorg, kinderen). Het is gebaseerd op solidariteit.
+Sociale verzekeringen worden betaald uit premies (omslagstelsel). Sociale voorzieningen worden betaald uit belastingen.
+### UITLEG Het stelsel
+Volksverzekeringen (voor iedereen, SVB): AOW (ouderdom), Anw (nabestaanden), AKW (kinderbijslag), Wlz (langdurige zorg).
+Werknemersverzekeringen (werknemers, UWV): WW (werkloosheid) en WIA (arbeidsongeschiktheid, na 2 jaar loondoorbetaling door de werkgever).
+Sociale voorzieningen (uit belastingen): de Participatiewet (bijstand via de gemeente, een vangnet) en de Wajong (jonggehandicapten).
+### UITLEG Waardevast, welvaartsvast en de armoedeval
+Waardevast: een uitkering stijgt met de inflatie, de koopkracht blijft gelijk. Welvaartsvast: een uitkering stijgt met de lonen, je profiteert mee van de welvaartsgroei. AOW en bijstand zijn gekoppeld aan het minimumloon.
+De armoedeval: wie gaat werken of meer gaat werken, gaat er nauwelijks op vooruit, omdat de uitkering en inkomensafhankelijke toeslagen (huurtoeslag, zorgtoeslag) wegvallen en er belasting betaald moet worden. Dat remt de prikkel om te werken.
+### BEGRIPPEN
+Sociale verzekering = Verzekering tegen inkomensderving, betaald uit premies.
+Sociale voorziening = Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand.
+Participatiewet = Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien.
+WIA = Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid.
+Waardevast = Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft.
+Welvaartsvast = Een uitkering die meestijgt met de gemiddelde lonen.
+Armoedeval = Wie gaat werken of meer werkt, gaat er nauwelijks op vooruit doordat uitkeringen en toeslagen wegvallen.
+### MC
+Waaruit wordt de bijstand betaald?
+* Uit de algemene middelen (belastingen)
+- Uit WW-premies
+- Uit AOW-premies
+- Uit de premies van de zorgverzekering
+> De bijstand is een sociale voorziening: er is vooraf geen premie voor betaald.
+### MC
+De lonen stijgen met 3% en de prijzen met 2%. Een uitkering stijgt met 3%. Hoe heet deze koppeling?
+* Welvaartsvast
+- Waardevast
+- Nominaal vast
+- Reëel vast
+> De uitkering volgt de lonen, dus groeit mee met de welvaart.
+### MC
+Iemand in de bijstand kan een baan krijgen, maar verliest dan ook huurtoeslag en zorgtoeslag. Netto gaat hij er € 20 per maand op vooruit. Hoe heet dit?
+* De armoedeval
+- Moral hazard
+- Averechtse selectie
+- De wig
+> Meer werken levert bijna niets op doordat toeslagen en uitkering wegvallen.
+### MC
+Welke regeling is een werknemersverzekering?
+* De WW
+- De AOW
+- De kinderbijslag (AKW)
+- De Participatiewet
+> De WW geldt alleen voor werknemers in loondienst en wordt uitgevoerd door het UWV.
