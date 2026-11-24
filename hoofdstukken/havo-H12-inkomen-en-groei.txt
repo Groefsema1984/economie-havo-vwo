@@ -1,0 +1,215 @@
+# HOOFDSTUK h 12 | Inkomen en groei
+domein: H
+hoofdvraag: Hoe meet je de toename van de welvaart in Nederland?
+
+## § 12.1 | Productie en inkomen
+onderwerp: H.bbp
+deelvraag: Hoe bereken je de hoogte van het binnenlands inkomen en product?
+leerdoelen: ECO-ALGEM-03
+gens: bbpPerInwoner
+### UITLEG Toegevoegde waarde
+Bedrijven kopen grondstoffen, hulpstoffen en diensten van derden in en maken daar iets nieuws van.
+- Bruto toegevoegde waarde = omzet − ingekochte goederen en diensten.
+- Netto toegevoegde waarde = bruto toegevoegde waarde − afschrijvingen.
+De netto toegevoegde waarde is gelijk aan het verdiende inkomen: loon, huur, pacht, rente, dividend, winst en het inkomen van zelfstandigen. Productie is dus inkomen.
+Bij de overheid is de netto toegevoegde waarde gelijk aan de som van de ambtenarensalarissen. De bruto toegevoegde waarde is dat plus de afschrijvingen van de overheid.
+### UITLEG Drie manieren om het bbp te berekenen
+- Productiemethode: bruto toegevoegde waarde van bedrijven + bruto toegevoegde waarde van de overheid + (kostprijsverhogende belastingen − kostprijsverlagende subsidies).
+- Inkomensmethode: lonen + overige inkomens + afschrijvingen + (kostprijsverhogende belastingen − subsidies).
+- Bestedingsmethode: bbp = C + I + O + (E − M).
+De drie methoden geven dezelfde uitkomst.
+### UITLEG Wit, grijs en zwart
+- Wit circuit: legaal, geregistreerd en belast. Telt mee in het bbp.
+- Grijs circuit: legaal, maar niet geregistreerd, zoals huishoudelijk werk, mantelzorg en vrijwilligerswerk.
+- Zwart circuit: niet geregistreerd en illegaal of onbelast, zoals zwartwerken.
+### BEGRIPPEN
+Bruto toegevoegde waarde = Omzet min de waarde van de ingekochte goederen en diensten van derden.
+Netto toegevoegde waarde = Bruto toegevoegde waarde min de afschrijvingen.
+Afschrijving = De waardevermindering van kapitaalgoederen door slijtage en veroudering.
+Bbp = De totale waarde van alle in een land geproduceerde goederen en diensten in een periode, tegen marktprijzen.
+Vervangingsinvesteringen = Investeringen om versleten of verouderde kapitaalgoederen te vervangen.
+Uitbreidingsinvesteringen = Investeringen waarmee de productiecapaciteit wordt vergroot.
+Grijs circuit = Niet geregistreerde, maar legale activiteiten zoals huishoudelijk werk en vrijwilligerswerk.
+Zwart circuit = Niet geregistreerde activiteiten die illegaal zijn of waarover geen belasting wordt betaald.
+### MC
+Een bakker heeft een omzet van € 200.000. Hij koopt voor € 80.000 meel, energie en diensten in en schrijft € 20.000 af. Hoe groot is zijn netto toegevoegde waarde?
+* € 100.000
+- € 120.000
+- € 180.000
+- € 140.000
+> Bruto 200.000 − 80.000 = 120.000. Netto 120.000 − 20.000 = 100.000.
+### MC
+Gegeven: C = 300, I = 100, O = 120, E = 400 en M = 350 (miljard euro). Hoe groot is het bbp?
+* € 570 miljard
+- € 1.270 miljard
+- € 520 miljard
+- € 920 miljard
+> bbp = C + I + O + E − M = 300 + 100 + 120 + 400 − 350 = 570.
+### MC
+Waaraan is de netto toegevoegde waarde van de overheid gelijk?
+* Aan de som van de ambtenarensalarissen
+- Aan alle belastingontvangsten
+- Aan de overheidsinvesteringen
+- Aan de uitkeringen
+> De overheid verkoopt haar diensten niet, dus haar productie wordt gemeten aan de beloning van ambtenaren.
+### MC
+Tom past tegen betaling op de kinderen van de buren zonder dat aan te geven bij de Belastingdienst. Tot welk circuit hoort dit?
+* Het zwarte circuit
+- Het witte circuit
+- Het grijze circuit
+- Het bbp
+> Er wordt inkomen verdiend zonder dat er belasting over wordt betaald.
+
+## § 12.2 | Kringloop en bestedingen
+onderwerp: I.saldi
+deelvraag: Hoe kun je de bestedingen weergeven in een economische kringloop?
+### UITLEG De kringloop
+In de economische kringloop lopen geldstromen tussen vijf sectoren: gezinnen, bedrijven, de overheid, financiële instellingen (banken, pensioenfondsen, verzekeraars) en het buitenland.
+De waarde van de productie is altijd gelijk aan het verdiende inkomen.
+### UITLEG Saldi
+Het inkomen wordt besteed aan consumptie, belasting en sparen: Y = C + B + S.
+De bestedingen aan het binnenlands product zijn: W = C + I + O + E − M.
+Omdat Y = W, geldt na wegstrepen van C: (S − I) + (B − O) = E − M.
+- S − I is het particuliere spaarsaldo.
+- B − O is het begrotingssaldo van de overheid.
+- Samen is dat het nationaal spaarsaldo, dat altijd gelijk is aan het saldo op de lopende rekening (E − M).
+Spaart Nederland meer dan het investeert, dan is de export groter dan de import en vloeit er kapitaal naar het buitenland.
+### BEGRIPPEN
+Economische kringloop = Model van de geldstromen tussen gezinnen, bedrijven, overheid, financiële instellingen en buitenland.
+Particulier spaarsaldo = Besparingen min investeringen van gezinnen en bedrijven samen (S − I).
+Begrotingssaldo = Belastingontvangsten min overheidsbestedingen (B − O).
+Nationaal spaarsaldo = Het particuliere spaarsaldo plus het begrotingssaldo.
+Saldo lopende rekening = Export min import van goederen en diensten (E − M).
+### MC
+In een land is S = 120, I = 90, B = 150 en O = 160. Hoe groot is het saldo op de lopende rekening?
+* +20
+- +40
+- −10
+- +30
+> (S − I) + (B − O) = 30 + (−10) = 20 = E − M.
+### MC
+Een land heeft een nationaal spaaroverschot. Wat geldt dan?
+* De export is groter dan de import
+- De import is groter dan de export
+- De overheid heeft altijd een begrotingsoverschot
+- De investeringen zijn groter dan de besparingen
+> Het nationaal spaarsaldo is gelijk aan E − M.
+### MC
+Waaraan besteden gezinnen hun inkomen volgens de formule Y = C + B + S?
+* Consumptie, belastingen en besparingen
+- Consumptie, investeringen en overheidsbestedingen
+- Export, import en besparingen
+- Lonen, belastingen en subsidies
+> B staat voor belastingen en S voor sparen.
+### MC
+De overheid heeft een tekort van 15 en het saldo op de lopende rekening is +25. Hoe groot is het particuliere spaarsaldo (S − I)?
+* +40
+- +10
+- −40
+- −10
+> (S − I) + (−15) = 25, dus S − I = 40.
+
+## § 12.3 | Economische groei
+onderwerp: H.groei
+deelvraag: Hoe meet je groei en wat zijn de voor- en nadelen van economische groei?
+leerdoelen: ECO-ALGEM-05, ECO-GROEI-01
+gens: reeleGroei
+### UITLEG Groei meten
+- Nominale groei: de stijging van het bbp in euro's, zonder rekening te houden met inflatie.
+- Reële groei (volumegroei): de groei gecorrigeerd voor prijsstijgingen. Indexcijfer reëel bbp = indexcijfer nominaal bbp / prijsindexcijfer × 100.
+- Reële groei per hoofd: gecorrigeerd voor bevolkingsgroei. Indexcijfer reëel bbp per hoofd = indexcijfer reëel bbp / indexcijfer bevolking × 100.
+### UITLEG Groei in enge en ruime zin
+Groei in enge zin is een stijging van het reële bbp per inwoner. Voordelen: een hogere levensstandaard, meer werkgelegenheid, kleinere overheidstekorten, meer import (goed voor het buitenland) en meer ruimte voor herverdeling en voorzieningen.
+Groei in ruime zin is een afname van de schaarste: zowel materiële als immateriële welvaart neemt toe.
+### UITLEG Bezwaren tegen het bbp
+Het bbp overschat de welvaart, want het telt niet mee: uitputting van grondstoffen, milieuvervuiling, aantasting van rust en sociale verhoudingen, een ongelijke verdeling en welvaartsziekten zoals stress.
+Het bbp onderschat de welvaart, want het telt niet mee: het grijze en zwarte circuit, meer vrije tijd en positieve externe effecten zoals beter onderwijs.
+### BEGRIPPEN
+Nominale groei = De procentuele stijging van het bbp in geld, zonder correctie voor inflatie.
+Reële groei = De groei van het bbp gecorrigeerd voor prijsstijgingen.
+Economische groei in enge zin = Een toename van het reële bbp per inwoner.
+Economische groei in ruime zin = Een afname van de schaarste: de materiële en immateriële welvaart nemen toe.
+Welvaartsziekte = Gezondheidsprobleem dat samenhangt met welvaart, zoals obesitas of stress.
+### MC
+Het nominale bbp stijgt met 5% en de prijzen stijgen met 2%. Wat is het indexcijfer van het reële bbp (afgerond)?
+* 102,9
+- 103,0
+- 107,1
+- 102,5
+> 105 / 102 × 100 = 102,9. De reële groei is dus ongeveer 2,9%.
+### MC
+Het reële bbp stijgt met 2% en de bevolking groeit met 3%. Wat gebeurt er met het reële bbp per hoofd?
+* Het daalt
+- Het stijgt met 5%
+- Het stijgt met 2%
+- Het blijft gelijk
+> 102 / 103 × 100 = 99,0, dus een daling van ongeveer 1%.
+### MC
+Nederlanders gaan korter werken en krijgen meer vrije tijd. Het bbp daalt iets. Wat zegt dit over de welvaart in ruime zin?
+* Die kan toch gestegen zijn, want vrije tijd telt niet mee in het bbp
+- Die is zeker gedaald
+- Die is precies evenveel gedaald als het bbp
+- Die verandert niet, want vrije tijd heeft geen waarde
+> Het bbp onderschat de welvaart als mensen meer vrije tijd krijgen.
+### MC
+Waardoor overschat het bbp de welvaart?
+* Milieuvervuiling en uitputting van grondstoffen worden niet afgetrokken
+- Vrijwilligerswerk wordt niet meegeteld
+- Meer vrije tijd wordt niet meegeteld
+- Zwartwerk wordt niet meegeteld
+> De andere drie zorgen juist voor een onderschatting.
+
+## § 12.4 | Brede welvaart en duurzaamheid
+onderwerp: H.bbp
+deelvraag: Welke andere maatstaven zijn er om welvaartsgroei te meten?
+leerdoelen: ECO-ALGEM-06, ECO-ALGEM-07
+### UITLEG Duurzame ontwikkeling en brede welvaart
+Duurzame ontwikkeling voorziet in de behoeften van nu, zonder dat toekomstige generaties en mensen elders minder mogelijkheden krijgen.
+De Monitor Brede Welvaart van het CBS kijkt naar drie dimensies:
+- Hier en nu: kwaliteit van leven, zoals inkomen, gezondheid, wonen, opleiding, veiligheid en natuur.
+- Later: de voorraden voor toekomstige generaties, zoals natuurlijk, menselijk, sociaal en economisch kapitaal.
+- Elders: de gevolgen van onze productie en consumptie voor andere landen.
+### UITLEG Andere maatstaven
+- Groen bbp: het bbp gecorrigeerd voor milieuschade en uitputting van hulpbronnen.
+- Human Development Index (HDI) van de VN: inkomen per hoofd (naar koopkracht), levensverwachting en opleidingsniveau.
+- Multidimensional Poverty Index (MPI): armoede gemeten met tekorten in gezondheid, onderwijs en levensstandaard.
+- World Happiness Report: landen gerangschikt naar ervaren geluk. Boven een bepaald inkomen levert extra inkomen steeds minder extra geluk op.
+In het Klimaatakkoord staan afspraken om de CO2-uitstoot te verminderen, onder andere met emissierechten.
+### UITLEG Maatschappelijk verantwoord ondernemen
+Bij productie ontstaan vaak negatieve externe effecten. De maatschappelijke kosten zijn dan hoger dan de private kosten.
+Bij maatschappelijk verantwoord ondernemen (mvo) let een bedrijf op drie P's: People (goede arbeidsomstandigheden), Planet (milieu) en Profit (gezonde winst om te blijven investeren).
+### BEGRIPPEN
+Duurzame ontwikkeling = Ontwikkeling die voorziet in de behoeften van nu zonder de mogelijkheden van toekomstige generaties en van mensen elders aan te tasten.
+Brede welvaart = Welvaart gemeten met meer dan alleen het bbp, zoals gezondheid, natuur en veiligheid, nu, later en elders.
+Groen bbp = Het bbp gecorrigeerd voor milieuschade en uitputting van natuurlijke hulpbronnen.
+Human Development Index = Welvaartsmaatstaf van de VN op basis van inkomen per hoofd, levensverwachting en opleiding.
+World Happiness Report = Rapport dat landen rangschikt naar het ervaren levensgeluk van de inwoners.
+Maatschappelijk verantwoord ondernemen = Ondernemen met aandacht voor mens (People), milieu (Planet) en winst (Profit).
+### MC
+Welke drie onderdelen zitten in de Human Development Index?
+* Inkomen per hoofd, levensverwachting en opleidingsniveau
+- Bbp, inflatie en werkloosheid
+- Geluk, vrije tijd en milieu
+- Export, import en staatsschuld
+> De HDI combineert levensstandaard, gezondheid en onderwijs.
+### MC
+Een land heeft een bbp van € 500 miljard. De milieuschade is € 30 miljard en de uitputting van gasvoorraden € 10 miljard. Hoe groot is het groene bbp?
+* € 460 miljard
+- € 540 miljard
+- € 470 miljard
+- € 490 miljard
+> 500 − 30 − 10 = 460.
+### MC
+Een kledingbedrijf controleert of er in zijn fabrieken geen kinderarbeid is. Bij welke P van mvo hoort dit?
+* People
+- Planet
+- Profit
+- Prijs
+> People gaat over goede arbeidsomstandigheden en mensenrechten.
+### MC
+Welke dimensie van de Monitor Brede Welvaart gaat over de gevolgen van onze consumptie voor arme landen?
+* Elders
+- Hier en nu
+- Later
+- Groen bbp
+> De dimensie elders kijkt naar effecten op andere landen.
