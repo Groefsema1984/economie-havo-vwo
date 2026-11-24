@@ -1,5 +1,860 @@
 // AUTOMATISCH GEMAAKT door tools/hoofdstukken.py uit hoofdstukken/*.txt. Niet met de hand wijzigen.
 // Hoofdstukken van Economie Integraal (havo en vwo), gemaakt uit de kaderbestanden van de sectie economie.
+LEVELS.B.push(...[
+{
+"id": "B.v1.1",
+"hfd": "Hoofdstuk 1 · Schaarste en welvaart",
+"niv": "v",
+"naam": "§1.1 Inkomen en welvaart",
+"kort": "Wat is het verschil tussen inkomen en welvaart?",
+"vragen": [
+{
+"id": "B.v1.1.m01",
+"t": "mc",
+"e": "B.keuze",
+"q": "Het nominale inkomen stijgt met 3% en de prijzen stijgen met 5%. Wat gebeurt er met de koopkracht?",
+"o": [
+"Die daalt met ongeveer 2%",
+"Die stijgt met ongeveer 2%",
+"Die stijgt met 3%",
+"Die blijft gelijk"
+],
+"a": 0,
+"u": "Reëel indexcijfer: 103 / 105 × 100 = 98,1. De koopkracht daalt met 1,9%."
+},
+{
+"id": "B.v1.1.m02",
+"t": "mc",
+"e": "B.keuze",
+"q": "Een zeer zeldzame postzegel met een drukfout wordt door niemand gezocht. Is dit een schaars goed?",
+"o": [
+"Nee, er is geen behoefte aan, dus er is geen schaarste",
+"Ja, want hij is zeldzaam",
+"Ja, want alles wat geld kost is schaars",
+"Nee, want het is een dienst"
+],
+"a": 0,
+"u": "Schaarste gaat over behoeften tegenover middelen, niet over zeldzaamheid."
+},
+{
+"id": "B.v1.1.m03",
+"t": "mc",
+"e": "B.keuze",
+"q": "Welk goed is een vrij goed?",
+"o": [
+"Zonlicht op het strand",
+"Leidingwater",
+"Een parkeerplaats in de stad",
+"Frisse lucht in een duikfles"
+],
+"a": 0,
+"u": "Voor zonlicht hoef je geen productiemiddelen op te offeren. Leidingwater en lucht in een fles moeten worden gemaakt."
+},
+{
+"id": "B.v1.1.m04",
+"t": "mc",
+"e": "B.keuze",
+"q": "Waarom stijgt de welvaart niet altijd als het inkomen stijgt?",
+"o": [
+"Mensen stellen hun behoeften bij en sommige schaarste, zoals schone lucht, los je niet op met geld",
+"Omdat een hoger inkomen altijd tot inflatie leidt",
+"Omdat welvaart alleen over geld gaat",
+"Omdat mensen met meer inkomen minder behoeften hebben"
+],
+"a": 0,
+"u": "Welvaart is breder en subjectiever dan inkomen."
+},
+{
+"id": "B.v1.1.k01",
+"t": "koppel",
+"e": "B.keuze",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Nominaal inkomen",
+"Het inkomen in euro's, niet gecorrigeerd voor prijsveranderingen."
+],
+[
+"Reëel inkomen",
+"Het nominale inkomen gecorrigeerd voor de stijging van het prijspeil: de koopkracht."
+],
+[
+"Schaarste",
+"De spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen."
+]
+],
+"u": "Nominaal inkomen: Het inkomen in euro's, niet gecorrigeerd voor prijsveranderingen. Reëel inkomen: Het nominale inkomen gecorrigeerd voor de stijging van het prijspeil: de koopkracht. Schaarste: De spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen."
+},
+{
+"id": "B.v1.1.k02",
+"t": "koppel",
+"e": "B.keuze",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Vrij goed",
+"Goed dat onbeperkt beschikbaar is zonder dat er middelen voor worden opgeofferd, zoals zonlicht."
+],
+[
+"Economisch goed",
+"Goed of dienst waarvoor schaarste geldt."
+],
+[
+"Welvaart",
+"De mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen."
+]
+],
+"u": "Vrij goed: Goed dat onbeperkt beschikbaar is zonder dat er middelen voor worden opgeofferd, zoals zonlicht. Economisch goed: Goed of dienst waarvoor schaarste geldt. Welvaart: De mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen."
+},
+{
+"id": "B.v1.1.b01",
+"t": "mc",
+"e": "B.keuze",
+"b": "Nominaal inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het inkomen in euro's, niet gecorrigeerd voor prijsveranderingen.\"",
+"o": [
+"Nominaal inkomen",
+"Bedrijfskolom",
+"Opofferingskosten",
+"Arbeidsdeling"
+],
+"a": 0,
+"u": "Nominaal inkomen: Het inkomen in euro's, niet gecorrigeerd voor prijsveranderingen."
+},
+{
+"id": "B.v1.1.b02",
+"t": "mc",
+"e": "B.keuze",
+"b": "Reëel inkomen",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het nominale inkomen gecorrigeerd voor de stijging van het prijspeil: de koopkracht.\"",
+"o": [
+"Reëel inkomen",
+"Differentiatie",
+"Chartaal geld",
+"Directe ruil"
+],
+"a": 0,
+"u": "Reëel inkomen: Het nominale inkomen gecorrigeerd voor de stijging van het prijspeil: de koopkracht."
+},
+{
+"id": "B.v1.1.b03",
+"t": "mc",
+"e": "B.keuze",
+"b": "Schaarste",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen.\"",
+"o": [
+"Schaarste",
+"Arbeidsdeling",
+"Bedrijfskolom",
+"Maatschappelijke geldhoeveelheid"
+],
+"a": 0,
+"u": "Schaarste: De spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen."
+},
+{
+"id": "B.v1.1.b04",
+"t": "mc",
+"e": "B.keuze",
+"b": "Vrij goed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed dat onbeperkt beschikbaar is zonder dat er middelen voor worden opgeofferd, zoals zonlicht.\"",
+"o": [
+"Vrij goed",
+"Indirecte ruil",
+"Nominaal inkomen",
+"Alternatief aanwendbaar"
+],
+"a": 0,
+"u": "Vrij goed: Goed dat onbeperkt beschikbaar is zonder dat er middelen voor worden opgeofferd, zoals zonlicht."
+},
+{
+"id": "B.v1.1.b05",
+"t": "mc",
+"e": "B.keuze",
+"b": "Economisch goed",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goed of dienst waarvoor schaarste geldt.\"",
+"o": [
+"Economisch goed",
+"Arbeidsproductiviteit",
+"Maatschappelijke geldhoeveelheid",
+"Fiduciair geld"
+],
+"a": 0,
+"u": "Economisch goed: Goed of dienst waarvoor schaarste geldt."
+},
+{
+"id": "B.v1.1.b06",
+"t": "mc",
+"e": "B.keuze",
+"b": "Welvaart",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen.\"",
+"o": [
+"Welvaart",
+"Reëel inkomen",
+"Maatschappelijke geldhoeveelheid",
+"Chartaal geld"
+],
+"a": 0,
+"u": "Welvaart: De mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen."
+},
+{
+"id": "B.v1.1.b07",
+"t": "mc",
+"e": "B.keuze",
+"b": "Alternatief aanwendbaar",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Middelen kunnen voor verschillende doelen worden gebruikt; gebruik voor het ene doel gaat ten koste van het andere.\"",
+"o": [
+"Alternatief aanwendbaar",
+"Welvaart",
+"Economisch goed",
+"Intrinsieke waarde"
+],
+"a": 0,
+"u": "Alternatief aanwendbaar: Middelen kunnen voor verschillende doelen worden gebruikt; gebruik voor het ene doel gaat ten koste van het andere."
+}
+],
+"gens": [
+"reeelIndex"
+],
+"doel": "Wat is het verschil tussen inkomen en welvaart?",
+"uitleg": [
+{
+"t": "Nominaal en reëel inkomen",
+"x": "Inkomen krijg je door productiefactoren beschikbaar te stellen, bijvoorbeeld loon voor arbeid of rente over spaargeld.\nHet nominale inkomen is het bedrag in euro's. Het reële inkomen (koopkracht) is gecorrigeerd voor prijsstijgingen: hoeveel je er echt mee kunt kopen.\nReëel indexcijfer = nominaal indexcijfer / prijsindexcijfer × 100."
+},
+{
+"t": "Behoeften en schaarste",
+"x": "Behoeften bevredig je met goederen (tastbaar, zoals een fiets) en diensten (niet tastbaar, zoals een knipbeurt).\nVrije goederen zijn er onbeperkt, zonder dat je er middelen voor opoffert (zonlicht, lucht). Voor economische goederen geldt schaarste.\nSchaarste is de spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen (tijd, geld, grondstoffen).\nSchaarste is niet hetzelfde als zeldzaamheid: een zeldzame misdruk van een postzegel die niemand wil hebben, is niet schaars."
+},
+{
+"t": "Welvaart",
+"x": "Welvaart is de mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen.\nInkomen is niet hetzelfde als welvaart: mensen stellen hun behoeften bij, en sommige schaarste (schone lucht, stilte, natuur) los je niet op met meer inkomen. Welvaart is subjectief: iedereen weegt vrije tijd, gezondheid, veiligheid en milieu anders.\nLanden met het hoogste inkomen per hoofd staan daarom niet altijd bovenaan in de HDI, waarin ook levensverwachting en scholing meetellen."
+}
+]
+},
+{
+"id": "B.v1.2",
+"hfd": "Hoofdstuk 1 · Schaarste en welvaart",
+"niv": "v",
+"naam": "§1.2 Schaarste en kiezen",
+"kort": "Op welke manier dwingt schaarste tot het maken van keuzes?",
+"vragen": [
+{
+"id": "B.v1.2.m01",
+"t": "mc",
+"e": "B.budget",
+"q": "Je hebt € 60. Een bioscoopkaartje kost € 12 en een pizza € 10. Welke combinatie ligt precies op je budgetlijn?",
+"o": [
+"0 kaartjes en 6 pizza's",
+"5 kaartjes en 1 pizza",
+"4 kaartjes en 2 pizza's",
+"2 kaartjes en 5 pizza's"
+],
+"a": 0,
+"u": "6 × € 10 = € 60. De andere kosten meer: 5 × 12 + 10 = 70, 4 × 12 + 20 = 68, 2 × 12 + 50 = 74."
+},
+{
+"id": "B.v1.2.m02",
+"t": "mc",
+"e": "B.budget",
+"q": "De prijs van pizza daalt, de prijs van bioscoopkaartjes en het budget blijven gelijk. Wat gebeurt er met de budgetlijn?",
+"o": [
+"Die draait naar buiten om het snijpunt met de as van de bioscoopkaartjes",
+"Die verschuift evenwijdig naar buiten",
+"Die verschuift evenwijdig naar binnen",
+"Die verandert niet"
+],
+"a": 0,
+"u": "Je kunt nog steeds hetzelfde maximale aantal kaartjes kopen, maar meer pizza's."
+},
+{
+"id": "B.v1.2.m03",
+"t": "mc",
+"e": "B.budget",
+"q": "Sanne kan zaterdag werken (€ 80), oppassen (€ 50) of sporten. Ze kiest voor sporten. Wat zijn haar opofferingskosten?",
+"o": [
+"€ 80",
+"€ 130",
+"€ 50",
+"€ 0"
+],
+"a": 0,
+"u": "Alleen het beste opgegeven alternatief telt: werken voor € 80."
+},
+{
+"id": "B.v1.2.m04",
+"t": "mc",
+"e": "B.budget",
+"q": "Het budget van een consument verdubbelt en alle prijzen verdubbelen ook. Wat gebeurt er met de budgetlijn?",
+"o": [
+"Niets: de lijn blijft op dezelfde plek",
+"Die verschuift naar buiten",
+"Die verschuift naar binnen",
+"Die wordt steiler"
+],
+"a": 0,
+"u": "Y / P blijft voor elk goed hetzelfde, dus de snijpunten veranderen niet."
+},
+{
+"id": "B.v1.2.b01",
+"t": "mc",
+"e": "B.budget",
+"b": "Budgetlijn",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn met alle combinaties van twee goederen die je met je budget maximaal kunt kopen.\"",
+"o": [
+"Budgetlijn",
+"Nominaal inkomen",
+"Opofferingskosten",
+"Maatschappelijke geldhoeveelheid"
+],
+"a": 0,
+"u": "Budgetlijn: Lijn met alle combinaties van twee goederen die je met je budget maximaal kunt kopen."
+},
+{
+"id": "B.v1.2.b02",
+"t": "mc",
+"e": "B.budget",
+"b": "Opofferingskosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De waarde van het beste alternatief dat je laat schieten bij een keuze.\"",
+"o": [
+"Opofferingskosten",
+"Maatschappelijke geldhoeveelheid",
+"Differentiatie",
+"Welvaart"
+],
+"a": 0,
+"u": "Opofferingskosten: De waarde van het beste alternatief dat je laat schieten bij een keuze."
+}
+],
+"gens": [
+"budgetMax",
+"altKosten"
+],
+"doel": "Op welke manier dwingt schaarste tot het maken van keuzes?",
+"uitleg": [
+{
+"t": "De budgetlijn",
+"x": "Omdat je budget beperkt is, moet je kiezen. De budgetlijn geeft alle combinaties van twee goederen die je maximaal kunt kopen: Y = P₁ × Q₁ + P₂ × Q₂.\nHet snijpunt met een as vind je door het hele budget aan één goed te besteden: Q = Y / P.\nStijgt het budget (of dalen beide prijzen evenveel), dan verschuift de lijn evenwijdig naar buiten. Verandert de prijs van één goed, dan draait de lijn om het snijpunt met de as van het andere goed."
+},
+{
+"t": "Opofferingskosten",
+"x": "Kiezen is altijd iets laten schieten. De opofferingskosten (alternatieve kosten) zijn de waarde van het beste alternatief dat je opgeeft.\nHeb je meer dan twee mogelijkheden, dan tel je niet alle andere opties op: je neemt alleen het eerstvolgende beste alternatief."
+}
+]
+},
+{
+"id": "B.v1.3",
+"hfd": "Hoofdstuk 1 · Schaarste en welvaart",
+"niv": "v",
+"naam": "§1.3 Arbeidsdeling en ruil",
+"kort": "Hoe wordt de welvaart bevorderd door arbeidsdeling en ruil?",
+"vragen": [
+{
+"id": "B.v1.3.m01",
+"t": "mc",
+"e": "C.spec",
+"q": "Een autofabrikant besteedt de schoonmaak van de fabriek uit aan een schoonmaakbedrijf. Hoe heet dit?",
+"o": [
+"Differentiatie",
+"Integratie",
+"Een bedrijfstak",
+"Directe ruil"
+],
+"a": 0,
+"u": "Een taak wordt afgesplitst en door een gespecialiseerd bedrijf gedaan."
+},
+{
+"id": "B.v1.3.m02",
+"t": "mc",
+"e": "C.spec",
+"q": "Welke kosten zijn transactiekosten bij de aankoop van een huis?",
+"o": [
+"De kosten van de makelaar en de notaris",
+"De koopsom van het huis",
+"De maandelijkse rente",
+"De kosten van de verbouwing na de koop"
+],
+"a": 0,
+"u": "Transactiekosten zijn de kosten om de ruil zelf tot stand te brengen."
+},
+{
+"id": "B.v1.3.m03",
+"t": "mc",
+"e": "C.spec",
+"q": "Waarom verhoogt arbeidsdeling de welvaart?",
+"o": [
+"De arbeidsproductiviteit stijgt, zodat er meer wordt geproduceerd",
+"Iedereen maakt dan alles zelf",
+"De transactiekosten verdwijnen",
+"Er is dan geen ruil meer nodig"
+],
+"a": 0,
+"u": "Gespecialiseerde werkers maken meer per uur. Wel is er dan meer ruil nodig."
+},
+{
+"id": "B.v1.3.m04",
+"t": "mc",
+"e": "C.spec",
+"q": "Welke groep bedrijven vormt samen een bedrijfstak?",
+"o": [
+"Alle bakkerijen in Nederland",
+"Een boer, een meelfabriek, een bakker en een supermarkt",
+"Een bakker en zijn leveranciers",
+"Alle bedrijven in één stad"
+],
+"a": 0,
+"u": "Een bedrijfstak is horizontaal: dezelfde fase, soortgelijke producten. De bedrijfskolom is verticaal."
+},
+{
+"id": "B.v1.3.k01",
+"t": "koppel",
+"e": "C.spec",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Arbeidsdeling",
+"Het verdelen van productietaken over mensen, bedrijven of landen (specialisatie)."
+],
+[
+"Arbeidsproductiviteit",
+"De productie per werknemer per tijdseenheid."
+],
+[
+"Bedrijfskolom",
+"De reeks bedrijven die elkaar opvolgen van oerproducent tot detailhandel."
+]
+],
+"u": "Arbeidsdeling: Het verdelen van productietaken over mensen, bedrijven of landen (specialisatie). Arbeidsproductiviteit: De productie per werknemer per tijdseenheid. Bedrijfskolom: De reeks bedrijven die elkaar opvolgen van oerproducent tot detailhandel."
+},
+{
+"id": "B.v1.3.k02",
+"t": "koppel",
+"e": "C.spec",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Bedrijfstak",
+"Alle bedrijven in dezelfde fase van de productie die soortgelijke producten maken."
+],
+[
+"Differentiatie",
+"Het opsplitsen van een fase in de bedrijfskolom in meer gespecialiseerde bedrijven."
+],
+[
+"Transactiekosten",
+"De extra kosten in tijd en geld om een ruil voor te bereiden, tot stand te brengen en af te wikkelen."
+]
+],
+"u": "Bedrijfstak: Alle bedrijven in dezelfde fase van de productie die soortgelijke producten maken. Differentiatie: Het opsplitsen van een fase in de bedrijfskolom in meer gespecialiseerde bedrijven. Transactiekosten: De extra kosten in tijd en geld om een ruil voor te bereiden, tot stand te brengen en af te wikkelen."
+},
+{
+"id": "B.v1.3.b01",
+"t": "mc",
+"e": "C.spec",
+"b": "Arbeidsdeling",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het verdelen van productietaken over mensen, bedrijven of landen (specialisatie).\"",
+"o": [
+"Arbeidsdeling",
+"Nominaal inkomen",
+"Economisch goed",
+"Opofferingskosten"
+],
+"a": 0,
+"u": "Arbeidsdeling: Het verdelen van productietaken over mensen, bedrijven of landen (specialisatie)."
+},
+{
+"id": "B.v1.3.b02",
+"t": "mc",
+"e": "C.spec",
+"b": "Arbeidsproductiviteit",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De productie per werknemer per tijdseenheid.\"",
+"o": [
+"Arbeidsproductiviteit",
+"Differentiatie",
+"Intrinsieke waarde",
+"Budgetlijn"
+],
+"a": 0,
+"u": "Arbeidsproductiviteit: De productie per werknemer per tijdseenheid."
+},
+{
+"id": "B.v1.3.b03",
+"t": "mc",
+"e": "C.spec",
+"b": "Bedrijfskolom",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De reeks bedrijven die elkaar opvolgen van oerproducent tot detailhandel.\"",
+"o": [
+"Bedrijfskolom",
+"Indirecte ruil",
+"Bedrijfstak",
+"Giraal geld"
+],
+"a": 0,
+"u": "Bedrijfskolom: De reeks bedrijven die elkaar opvolgen van oerproducent tot detailhandel."
+},
+{
+"id": "B.v1.3.b04",
+"t": "mc",
+"e": "C.spec",
+"b": "Bedrijfstak",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Alle bedrijven in dezelfde fase van de productie die soortgelijke producten maken.\"",
+"o": [
+"Bedrijfstak",
+"Intrinsieke waarde",
+"Fiduciair geld",
+"Arbeidsproductiviteit"
+],
+"a": 0,
+"u": "Bedrijfstak: Alle bedrijven in dezelfde fase van de productie die soortgelijke producten maken."
+},
+{
+"id": "B.v1.3.b05",
+"t": "mc",
+"e": "C.spec",
+"b": "Differentiatie",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het opsplitsen van een fase in de bedrijfskolom in meer gespecialiseerde bedrijven.\"",
+"o": [
+"Differentiatie",
+"Welvaart",
+"Economisch goed",
+"Intrinsieke waarde"
+],
+"a": 0,
+"u": "Differentiatie: Het opsplitsen van een fase in de bedrijfskolom in meer gespecialiseerde bedrijven."
+},
+{
+"id": "B.v1.3.b06",
+"t": "mc",
+"e": "C.spec",
+"b": "Transactiekosten",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De extra kosten in tijd en geld om een ruil voor te bereiden, tot stand te brengen en af te wikkelen.\"",
+"o": [
+"Transactiekosten",
+"Arbeidsproductiviteit",
+"Chartaal geld",
+"Welvaart"
+],
+"a": 0,
+"u": "Transactiekosten: De extra kosten in tijd en geld om een ruil voor te bereiden, tot stand te brengen en af te wikkelen."
+},
+{
+"id": "B.v1.3.b07",
+"t": "mc",
+"e": "C.spec",
+"b": "Eigendomsrecht",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Het recht om over een goed te beschikken, het te gebruiken en te verkopen.\"",
+"o": [
+"Eigendomsrecht",
+"Economisch goed",
+"Bedrijfskolom",
+"Bedrijfstak"
+],
+"a": 0,
+"u": "Eigendomsrecht: Het recht om over een goed te beschikken, het te gebruiken en te verkopen."
+}
+],
+"gens": [
+"productiviteit"
+],
+"doel": "Hoe wordt de welvaart bevorderd door arbeidsdeling en ruil?",
+"uitleg": [
+{
+"t": "Arbeidsdeling",
+"x": "Bij arbeidsdeling (specialisatie) wordt het werk verdeeld over mensen, bedrijven of landen, zodat ieder doet waar hij goed in is.\nArbeidsproductiviteit is de productie per werknemer per tijdseenheid. Door specialisatie stijgt die: je wordt handiger en verliest geen tijd met wisselen. Ook scholing, mechanisering, automatisering en robotisering verhogen de productiviteit. Meer productie betekent meer welvaart."
+},
+{
+"t": "Bedrijfskolom en bedrijfstak",
+"x": "De bedrijfskolom is de reeks bedrijven van oerproducent tot detailhandel. Een bedrijfstak zijn alle bedrijven in dezelfde fase die soortgelijke producten maken, zoals alle bakkerijen.\nDifferentiatie: een fase wordt opgesplitst in meer gespecialiseerde bedrijven, bijvoorbeeld als een bedrijf zijn transport uitbesteedt."
+},
+{
+"t": "Ruil en transactiekosten",
+"x": "Door arbeidsdeling maakt niemand meer alles zelf, dus is ruil nodig. Goed beschermde eigendomsrechten zijn daarvoor een voorwaarde.\nTransactiekosten zijn de extra kosten om een ruil tot stand te brengen: zoeken, informatie, onderhandelen en controleren. Bij een huis: makelaar, bouwkundig rapport, notaris, overdrachtsbelasting en het Kadaster.\nHoe lager de transactiekosten, hoe makkelijker er geruild wordt en hoe hoger de welvaart."
+}
+]
+},
+{
+"id": "B.v1.4",
+"hfd": "Hoofdstuk 1 · Schaarste en welvaart",
+"niv": "v",
+"naam": "§1.4 Ruilen en geld",
+"kort": "Waarom vergemakkelijkt geld de ruil?",
+"vragen": [
+{
+"id": "B.v1.4.m01",
+"t": "mc",
+"e": "C.geld",
+"q": "Je zet € 500 contant geld op je betaalrekening. Wat gebeurt er met de maatschappelijke geldhoeveelheid?",
+"o": [
+"Die blijft gelijk: het chartale geld daalt en het girale geld stijgt evenveel",
+"Die stijgt met € 500",
+"Die daalt met € 500",
+"Die stijgt met € 1.000"
+],
+"a": 0,
+"u": "Het contante geld bij de bank telt niet meer mee, maar je girale tegoed wel. Per saldo verandert er niets."
+},
+{
+"id": "B.v1.4.m02",
+"t": "mc",
+"e": "C.geld",
+"q": "Welke functie van geld gebruik je als je prijzen van twee laptops vergelijkt?",
+"o": [
+"Rekenmiddel",
+"Ruilmiddel",
+"Oppotmiddel",
+"Betaalmiddel bij directe ruil"
+],
+"a": 0,
+"u": "Geld maakt het mogelijk alle waarden in één eenheid uit te drukken."
+},
+{
+"id": "B.v1.4.m03",
+"t": "mc",
+"e": "C.geld",
+"q": "Waarom heeft een eurobiljet van € 50 waarde, terwijl het papier bijna niets kost?",
+"o": [
+"Omdat het fiduciair geld is: het draait op vertrouwen",
+"Omdat er goud tegenover staat",
+"Omdat de intrinsieke waarde € 50 is",
+"Omdat de wet van Gresham dat bepaalt"
+],
+"a": 0,
+"u": "De nominale waarde is veel hoger dan de intrinsieke waarde. Het werkt zolang iedereen het accepteert."
+},
+{
+"id": "B.v1.4.m04",
+"t": "mc",
+"e": "C.geld",
+"q": "In een land zijn zilveren en koperen munten van 1 gulden in omloop. Wat gebeurt er volgens de wet van Gresham?",
+"o": [
+"Mensen betalen met de koperen munten en houden de zilveren zelf",
+"Mensen betalen met de zilveren munten",
+"Beide munten verdwijnen uit de omloop",
+"De koperen munten worden meer waard"
+],
+"a": 0,
+"u": "Slecht geld (koper) verdrijft goed geld (zilver) uit de omloop."
+},
+{
+"id": "B.v1.4.k01",
+"t": "koppel",
+"e": "C.geld",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Directe ruil",
+"Goederen en diensten rechtstreeks ruilen tegen andere goederen en diensten, zonder geld."
+],
+[
+"Indirecte ruil",
+"Ruilen via geld: eerst verkopen voor geld, daarna met dat geld iets anders kopen."
+],
+[
+"Geld",
+"Alles wat algemeen wordt aanvaard als ruilmiddel."
+]
+],
+"u": "Directe ruil: Goederen en diensten rechtstreeks ruilen tegen andere goederen en diensten, zonder geld. Indirecte ruil: Ruilen via geld: eerst verkopen voor geld, daarna met dat geld iets anders kopen. Geld: Alles wat algemeen wordt aanvaard als ruilmiddel."
+},
+{
+"id": "B.v1.4.k02",
+"t": "koppel",
+"e": "C.geld",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Intrinsieke waarde",
+"De materiaalwaarde van een munt of bankbiljet."
+],
+[
+"Fiduciair geld",
+"Geld waarvan de nominale waarde hoger is dan de intrinsieke waarde en dat draait op vertrouwen."
+],
+[
+"Wet van Gresham",
+"Slecht geld (lage intrinsieke waarde) verdrijft goed geld uit de omloop."
+]
+],
+"u": "Intrinsieke waarde: De materiaalwaarde van een munt of bankbiljet. Fiduciair geld: Geld waarvan de nominale waarde hoger is dan de intrinsieke waarde en dat draait op vertrouwen. Wet van Gresham: Slecht geld (lage intrinsieke waarde) verdrijft goed geld uit de omloop."
+},
+{
+"id": "B.v1.4.k03",
+"t": "koppel",
+"e": "C.geld",
+"q": "Koppel elk begrip aan de juiste omschrijving.",
+"p": [
+[
+"Chartaal geld",
+"Munten en bankbiljetten."
+],
+[
+"Giraal geld",
+"Direct opeisbare tegoeden op betaalrekeningen bij banken."
+],
+[
+"Maatschappelijke geldhoeveelheid",
+"Al het chartale en girale geld in handen van het publiek, dus zonder banken en het Rijk."
+]
+],
+"u": "Chartaal geld: Munten en bankbiljetten. Giraal geld: Direct opeisbare tegoeden op betaalrekeningen bij banken. Maatschappelijke geldhoeveelheid: Al het chartale en girale geld in handen van het publiek, dus zonder banken en het Rijk."
+},
+{
+"id": "B.v1.4.b01",
+"t": "mc",
+"e": "C.geld",
+"b": "Directe ruil",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen en diensten rechtstreeks ruilen tegen andere goederen en diensten, zonder geld.\"",
+"o": [
+"Directe ruil",
+"Wet van Gresham",
+"Vrij goed",
+"Welvaart"
+],
+"a": 0,
+"u": "Directe ruil: Goederen en diensten rechtstreeks ruilen tegen andere goederen en diensten, zonder geld."
+},
+{
+"id": "B.v1.4.b02",
+"t": "mc",
+"e": "C.geld",
+"b": "Indirecte ruil",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Ruilen via geld: eerst verkopen voor geld, daarna met dat geld iets anders kopen.\"",
+"o": [
+"Indirecte ruil",
+"Fiduciair geld",
+"Bedrijfstak",
+"Directe ruil"
+],
+"a": 0,
+"u": "Indirecte ruil: Ruilen via geld: eerst verkopen voor geld, daarna met dat geld iets anders kopen."
+},
+{
+"id": "B.v1.4.b03",
+"t": "mc",
+"e": "C.geld",
+"b": "Geld",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Alles wat algemeen wordt aanvaard als ruilmiddel.\"",
+"o": [
+"Geld",
+"Bedrijfstak",
+"Intrinsieke waarde",
+"Differentiatie"
+],
+"a": 0,
+"u": "Geld: Alles wat algemeen wordt aanvaard als ruilmiddel."
+},
+{
+"id": "B.v1.4.b04",
+"t": "mc",
+"e": "C.geld",
+"b": "Intrinsieke waarde",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"De materiaalwaarde van een munt of bankbiljet.\"",
+"o": [
+"Intrinsieke waarde",
+"Wet van Gresham",
+"Bedrijfskolom",
+"Geld"
+],
+"a": 0,
+"u": "Intrinsieke waarde: De materiaalwaarde van een munt of bankbiljet."
+},
+{
+"id": "B.v1.4.b05",
+"t": "mc",
+"e": "C.geld",
+"b": "Fiduciair geld",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Geld waarvan de nominale waarde hoger is dan de intrinsieke waarde en dat draait op vertrouwen.\"",
+"o": [
+"Fiduciair geld",
+"Opofferingskosten",
+"Budgetlijn",
+"Wet van Gresham"
+],
+"a": 0,
+"u": "Fiduciair geld: Geld waarvan de nominale waarde hoger is dan de intrinsieke waarde en dat draait op vertrouwen."
+},
+{
+"id": "B.v1.4.b06",
+"t": "mc",
+"e": "C.geld",
+"b": "Wet van Gresham",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Slecht geld (lage intrinsieke waarde) verdrijft goed geld uit de omloop.\"",
+"o": [
+"Wet van Gresham",
+"Differentiatie",
+"Budgetlijn",
+"Indirecte ruil"
+],
+"a": 0,
+"u": "Wet van Gresham: Slecht geld (lage intrinsieke waarde) verdrijft goed geld uit de omloop."
+},
+{
+"id": "B.v1.4.b07",
+"t": "mc",
+"e": "C.geld",
+"b": "Chartaal geld",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Munten en bankbiljetten.\"",
+"o": [
+"Chartaal geld",
+"Nominaal inkomen",
+"Giraal geld",
+"Fiduciair geld"
+],
+"a": 0,
+"u": "Chartaal geld: Munten en bankbiljetten."
+},
+{
+"id": "B.v1.4.b08",
+"t": "mc",
+"e": "C.geld",
+"b": "Giraal geld",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Direct opeisbare tegoeden op betaalrekeningen bij banken.\"",
+"o": [
+"Giraal geld",
+"Indirecte ruil",
+"Chartaal geld",
+"Fiduciair geld"
+],
+"a": 0,
+"u": "Giraal geld: Direct opeisbare tegoeden op betaalrekeningen bij banken."
+},
+{
+"id": "B.v1.4.b09",
+"t": "mc",
+"e": "C.geld",
+"b": "Maatschappelijke geldhoeveelheid",
+"q": "Welk begrip hoort bij deze omschrijving?\n\"Al het chartale en girale geld in handen van het publiek, dus zonder banken en het Rijk.\"",
+"o": [
+"Maatschappelijke geldhoeveelheid",
+"Eigendomsrecht",
+"Arbeidsproductiviteit",
+"Fiduciair geld"
+],
+"a": 0,
+"u": "Maatschappelijke geldhoeveelheid: Al het chartale en girale geld in handen van het publiek, dus zonder banken en het Rijk."
+}
+],
+"gens": [],
+"doel": "Waarom vergemakkelijkt geld de ruil?",
+"uitleg": [
+{
+"t": "Directe en indirecte ruil",
+"x": "Bij directe ruil (ruil in natura) ruil je goederen rechtstreeks, bijvoorbeeld brood tegen schoenen. Daarvoor is dubbele wenselijkheid nodig: allebei moeten precies willen wat de ander heeft. Dat geeft hoge transactiekosten.\nBij indirecte ruil ruil je eerst tegen geld en koop je daarmee iets anders. Dat verlaagt de transactiekosten enorm."
+},
+{
+"t": "Geld en zijn functies",
+"x": "Geld is alles wat algemeen wordt aanvaard als ruilmiddel. De belangrijkste voorwaarde is vertrouwen.\nDrie functies: ruilmiddel, rekenmiddel (alle waarden in één eenheid uitdrukken) en oppotmiddel (koopkracht bewaren voor later)."
+},
+{
+"t": "Waarde van geld",
+"x": "De intrinsieke waarde is de materiaalwaarde. De nominale waarde staat erop. Bij fiduciair geld (vertrouwensgeld) is de nominale waarde veel hoger dan de intrinsieke waarde: eurobiljetten, munten en giraal geld.\nWet van Gresham: slecht geld verdrijft goed geld. Bij twee soorten geld met dezelfde nominale waarde betalen mensen met het slechte geld en houden ze het goede (bijvoorbeeld gouden munten) zelf."
+},
+{
+"t": "Geldhoeveelheid",
+"x": "Chartaal geld zijn munten en biljetten. Giraal geld zijn direct opeisbare tegoeden op betaalrekeningen.\nDe maatschappelijke geldhoeveelheid is al het chartale en girale geld in handen van het publiek: gezinnen, bedrijven en lagere overheden. Geld bij banken en bij het Rijk telt niet mee."
+}
+]
+}
+]);
 LEVELS.D.push(...[
 {
 "id": "D.h2.1",
@@ -3529,9 +4384,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het hoogste bedrag dat een consument voor een product wil betalen.\"",
 "o": [
 "Betalingsbereidheid",
-"Consumentensurplus",
-"Ceteris paribus",
-"Inkomenselasticiteit"
+"Afzet",
+"Luxe goed",
+"Prijsinelastische vraag"
 ],
 "a": 0,
 "u": "Betalingsbereidheid: Het hoogste bedrag dat een consument voor een product wil betalen."
@@ -3544,9 +4399,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.\"",
 "o": [
 "Consumentensurplus",
-"Inferieur goed",
-"Inkomensvraaglijn",
-"Betalingsbereidheid"
+"Prijsinelastische vraag",
+"Afzet",
+"Omzet"
 ],
 "a": 0,
 "u": "Consumentensurplus: Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen."
@@ -3559,9 +4414,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.\"",
 "o": [
 "Vraaglijn",
-"Complementaire goederen",
+"Kruislingse prijselasticiteit",
 "Substitutiegoederen",
-"Prijselasticiteit van de vraag"
+"Inkomensvraaglijn"
 ],
 "a": 0,
 "u": "Vraaglijn: Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid."
@@ -3574,9 +4429,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De hoeveelheid verkochte producten in een bepaalde periode.\"",
 "o": [
 "Afzet",
-"Wet van Engel",
-"Betalingsbereidheid",
-"Complementaire goederen"
+"Vraaglijn",
+"Complementaire goederen",
+"Consumentensurplus"
 ],
 "a": 0,
 "u": "Afzet: De hoeveelheid verkochte producten in een bepaalde periode."
@@ -3728,9 +4583,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die elkaar volgens de consument kunnen vervangen.\"",
 "o": [
 "Substitutiegoederen",
-"Prijselasticiteit van de vraag",
-"Kruislingse prijselasticiteit",
-"Hoeveelheidseffect"
+"Inferieur goed",
+"Complementaire goederen",
+"Ceteris paribus"
 ],
 "a": 0,
 "u": "Substitutiegoederen: Goederen die elkaar volgens de consument kunnen vervangen."
@@ -3744,8 +4599,8 @@ LEVELS.D.push(...[
 "o": [
 "Complementaire goederen",
 "Inkomensvraaglijn",
-"Prijsinelastische vraag",
-"Substitutiegoederen"
+"Wet van Engel",
+"Betalingsbereidheid"
 ],
 "a": 0,
 "u": "Complementaire goederen: Goederen die elkaar aanvullen en vaak samen worden gebruikt."
@@ -3758,9 +4613,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De aanname dat alle andere factoren gelijk blijven.\"",
 "o": [
 "Ceteris paribus",
-"Vraaglijn",
-"Inkomenselasticiteit",
-"Inkomensvraaglijn"
+"Hoeveelheidseffect",
+"Inkomensvraaglijn",
+"Drempelinkomen"
 ],
 "a": 0,
 "u": "Ceteris paribus: De aanname dat alle andere factoren gelijk blijven."
@@ -3922,9 +4777,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B.\"",
 "o": [
 "Kruislingse prijselasticiteit",
-"Wet van Engel",
-"Hoeveelheidseffect",
-"Prijsinelastische vraag"
+"Prijselasticiteit van de vraag",
+"Inkomenselasticiteit",
+"Omzet"
 ],
 "a": 0,
 "u": "Kruislingse prijselasticiteit: De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B."
@@ -3938,8 +4793,8 @@ LEVELS.D.push(...[
 "o": [
 "Hoeveelheidseffect",
 "Drempelinkomen",
-"Inkomenselasticiteit",
-"Ceteris paribus"
+"Kruislingse prijselasticiteit",
+"Vraaglijn"
 ],
 "a": 0,
 "u": "Hoeveelheidseffect: De verandering van de omzet doordat de afzet verandert na een prijsverandering."
@@ -3952,9 +4807,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.\"",
 "o": [
 "Prijselasticiteit van de vraag",
-"Noodzakelijk goed",
-"Prijsinelastische vraag",
-"Kruislingse prijselasticiteit"
+"Substitutiegoederen",
+"Kruislingse prijselasticiteit",
+"Ceteris paribus"
 ],
 "a": 0,
 "u": "Prijselasticiteit van de vraag: De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs."
@@ -3967,9 +4822,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.\"",
 "o": [
 "Prijsinelastische vraag",
-"Ceteris paribus",
-"Inferieur goed",
-"Omzet"
+"Inkomenselasticiteit",
+"Betalingsbereidheid",
+"Drempelinkomen"
 ],
 "a": 0,
 "u": "Prijsinelastische vraag: Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs."
@@ -3982,9 +4837,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.\"",
 "o": [
 "Omzet",
+"Prijsinelastische vraag",
 "Complementaire goederen",
-"Inferieur goed",
-"Luxe goed"
+"Drempelinkomen"
 ],
 "a": 0,
 "u": "Omzet: Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet."
@@ -4190,9 +5045,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven.\"",
 "o": [
 "Wet van Engel",
-"Inkomensvraaglijn",
-"Complementaire goederen",
-"Consumentensurplus"
+"Afzet",
+"Ceteris paribus",
+"Inkomenselasticiteit"
 ],
 "a": 0,
 "u": "Wet van Engel: Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven."
@@ -4205,9 +5060,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het inkomen vanaf waar een consument een product gaat kopen.\"",
 "o": [
 "Drempelinkomen",
-"Noodzakelijk goed",
-"Consumentensurplus",
-"Inkomensvraaglijn"
+"Ceteris paribus",
+"Inkomenselasticiteit",
+"Wet van Engel"
 ],
 "a": 0,
 "u": "Drempelinkomen: Het inkomen vanaf waar een consument een product gaat kopen."
@@ -4220,9 +5075,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product.\"",
 "o": [
 "Inkomensvraaglijn",
-"Consumentensurplus",
-"Prijsinelastische vraag",
-"Inferieur goed"
+"Inkomenselasticiteit",
+"Complementaire goederen",
+"Prijsinelastische vraag"
 ],
 "a": 0,
 "u": "Inkomensvraaglijn: Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product."
@@ -4235,9 +5090,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.\"",
 "o": [
 "Inkomenselasticiteit",
-"Complementaire goederen",
-"Omzet",
-"Substitutiegoederen"
+"Afzet",
+"Luxe goed",
+"Prijselasticiteit van de vraag"
 ],
 "a": 0,
 "u": "Inkomenselasticiteit: De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen."
@@ -4250,9 +5105,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).\"",
 "o": [
 "Inferieur goed",
-"Drempelinkomen",
-"Inkomensvraaglijn",
-"Ceteris paribus"
+"Kruislingse prijselasticiteit",
+"Consumentensurplus",
+"Afzet"
 ],
 "a": 0,
 "u": "Inferieur goed: Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0)."
@@ -4265,9 +5120,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goed met een inkomenselasticiteit groter dan 1.\"",
 "o": [
 "Luxe goed",
-"Prijsinelastische vraag",
-"Prijselasticiteit van de vraag",
-"Drempelinkomen"
+"Wet van Engel",
+"Inferieur goed",
+"Betalingsbereidheid"
 ],
 "a": 0,
 "u": "Luxe goed: Goed met een inkomenselasticiteit groter dan 1."
@@ -4280,9 +5135,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goed met een inkomenselasticiteit tussen 0 en 1.\"",
 "o": [
 "Noodzakelijk goed",
-"Prijsinelastische vraag",
-"Hoeveelheidseffect",
-"Drempelinkomen"
+"Drempelinkomen",
+"Inkomensvraaglijn",
+"Afzet"
 ],
 "a": 0,
 "u": "Noodzakelijk goed: Goed met een inkomenselasticiteit tussen 0 en 1."
@@ -4465,9 +5320,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Kosten die niet veranderen als de productie toeneemt of afneemt.\"",
 "o": [
 "Constante kosten",
-"Marginale winst",
-"Break-evenomzet",
-"Producentensurplus"
+"Dekkingsbijdrage",
+"Collectieve aanbodlijn",
+"Consumentenprijs"
 ],
 "a": 0,
 "u": "Constante kosten: Kosten die niet veranderen als de productie toeneemt of afneemt."
@@ -4480,9 +5335,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Kosten die meeveranderen met de omvang van de productie.\"",
 "o": [
 "Variabele kosten",
-"Marginale winst",
-"Break-evenafzet",
-"Consumentenprijs"
+"Marginale kosten",
+"Gemiddelde winst",
+"Producentensurplus"
 ],
 "a": 0,
 "u": "Variabele kosten: Kosten die meeveranderen met de omvang van de productie."
@@ -4495,9 +5350,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De extra kosten van het produceren van één product meer.\"",
 "o": [
 "Marginale kosten",
-"Variabele kosten",
-"Gemiddelde totale kosten",
-"Producentensurplus"
+"Dekkingsbijdrage",
+"Constante kosten",
+"Gemiddelde totale kosten"
 ],
 "a": 0,
 "u": "Marginale kosten: De extra kosten van het produceren van één product meer."
@@ -4510,9 +5365,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De extra opbrengst van het verkopen van één product meer.\"",
 "o": [
 "Marginale opbrengst",
-"Break-evenafzet",
-"Dekkingsbijdrage",
-"Consumentenprijs"
+"Consumentenprijs",
+"Constante kosten",
+"Verkoopbereidheid"
 ],
 "a": 0,
 "u": "Marginale opbrengst: De extra opbrengst van het verkopen van één product meer."
@@ -4525,9 +5380,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De totale kosten gedeeld door de geproduceerde hoeveelheid.\"",
 "o": [
 "Gemiddelde totale kosten",
-"Marginale opbrengst",
-"Marginale kosten",
-"Break-evenomzet"
+"Break-evenafzet",
+"Constante kosten",
+"Verkoopbereidheid"
 ],
 "a": 0,
 "u": "Gemiddelde totale kosten: De totale kosten gedeeld door de geproduceerde hoeveelheid."
@@ -4540,9 +5395,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verkoopprijs inclusief btw en andere prijsverhogende belastingen.\"",
 "o": [
 "Consumentenprijs",
-"Collectieve aanbodlijn",
-"Variabele kosten",
-"Sluitingspunt"
+"Break-evenafzet",
+"Verkoopbereidheid",
+"Producentensurplus"
 ],
 "a": 0,
 "u": "Consumentenprijs: De verkoopprijs inclusief btw en andere prijsverhogende belastingen."
@@ -4655,9 +5510,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.\"",
 "o": [
 "Break-evenafzet",
-"Gemiddelde winst",
-"Variabele kosten",
-"Capaciteitskosten"
+"Gemiddelde totale kosten",
+"Marginale kosten",
+"Gemiddelde winst"
 ],
 "a": 0,
 "u": "Break-evenafzet: De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten."
@@ -4670,9 +5525,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De omzet die hoort bij de break-evenafzet.\"",
 "o": [
 "Break-evenomzet",
-"Collectieve aanbodlijn",
-"Dekkingsbijdrage",
-"Variabele kosten"
+"Consumentenprijs",
+"Marginale kosten",
+"Collectieve aanbodlijn"
 ],
 "a": 0,
 "u": "Break-evenomzet: De omzet die hoort bij de break-evenafzet."
@@ -4685,9 +5540,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.\"",
 "o": [
 "Dekkingsbijdrage",
-"Break-evenafzet",
-"Totale winst",
-"Capaciteitskosten"
+"Producentensurplus",
+"Verkoopbereidheid",
+"Gemiddelde winst"
 ],
 "a": 0,
 "u": "Dekkingsbijdrage: Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten."
@@ -4810,9 +5665,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren.\"",
 "o": [
 "Sluitingspunt",
-"Constante kosten",
-"Producentensurplus",
-"Capaciteitskosten"
+"Marginale opbrengst",
+"Gemiddelde totale kosten",
+"Gemiddelde winst"
 ],
 "a": 0,
 "u": "Sluitingspunt: Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren."
@@ -4827,7 +5682,7 @@ LEVELS.D.push(...[
 "Capaciteitskosten",
 "Variabele kosten",
 "Gemiddelde winst",
-"Producentensurplus"
+"Marginale opbrengst"
 ],
 "a": 0,
 "u": "Capaciteitskosten: Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten)."
@@ -4840,9 +5695,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Totale opbrengst min totale kosten.\"",
 "o": [
 "Totale winst",
-"Gemiddelde winst",
-"Dekkingsbijdrage",
-"Capaciteitskosten"
+"Marginale kosten",
+"Marginale winst",
+"Collectieve aanbodlijn"
 ],
 "a": 0,
 "u": "Totale winst: Totale opbrengst min totale kosten."
@@ -4855,9 +5710,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verandering van de totale winst bij één product meer: MO − MK.\"",
 "o": [
 "Marginale winst",
-"Gemiddelde winst",
-"Verkoopbereidheid",
-"Marginale kosten"
+"Collectieve aanbodlijn",
+"Consumentenprijs",
+"Verkoopbereidheid"
 ],
 "a": 0,
 "u": "Marginale winst: De verandering van de totale winst bij één product meer: MO − MK."
@@ -4870,9 +5725,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.\"",
 "o": [
 "Gemiddelde winst",
-"Marginale kosten",
+"Variabele kosten",
 "Sluitingspunt",
-"Consumentenprijs"
+"Verkoopbereidheid"
 ],
 "a": 0,
 "u": "Gemiddelde winst: De winst per product: gemiddelde opbrengst min gemiddelde totale kosten."
@@ -4985,9 +5840,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.\"",
 "o": [
 "Producentensurplus",
-"Capaciteitskosten",
 "Constante kosten",
-"Break-evenafzet"
+"Dekkingsbijdrage",
+"Consumentenprijs"
 ],
 "a": 0,
 "u": "Producentensurplus: Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen."
@@ -5000,9 +5855,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De laagste prijs waarvoor een producent een product wil verkopen.\"",
 "o": [
 "Verkoopbereidheid",
-"Consumentenprijs",
-"Dekkingsbijdrage",
-"Break-evenomzet"
+"Break-evenomzet",
+"Sluitingspunt",
+"Capaciteitskosten"
 ],
 "a": 0,
 "u": "Verkoopbereidheid: De laagste prijs waarvoor een producent een product wil verkopen."
@@ -5015,8 +5870,8 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.\"",
 "o": [
 "Collectieve aanbodlijn",
-"Marginale kosten",
 "Break-evenafzet",
+"Break-evenomzet",
 "Marginale winst"
 ],
 "a": 0,
@@ -5168,9 +6023,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs.\"",
 "o": [
 "Perfecte markt",
-"Allocatie",
+"Volledige mededinging",
 "Evenwichtsprijs",
-"Totaal surplus"
+"Marktvorm"
 ],
 "a": 0,
 "u": "Perfecte markt: Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs."
@@ -5183,9 +6038,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs.\"",
 "o": [
 "Niet-perfecte markt",
-"Evenwichtshoeveelheid",
-"Allocatie",
-"Evenwichtsprijs"
+"Concrete markt",
+"Abstracte markt",
+"Allocatie"
 ],
 "a": 0,
 "u": "Niet-perfecte markt: Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs."
@@ -5198,9 +6053,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het geheel van prijsbepalende factoren op een markt.\"",
 "o": [
 "Marktvorm",
-"Bedrijfsevenwicht",
-"Optimale allocatie",
-"Aanbodoverschot"
+"Uittreding",
+"Marktevenwicht",
+"Perfecte markt"
 ],
 "a": 0,
 "u": "Marktvorm: Het geheel van prijsbepalende factoren op een markt."
@@ -5213,9 +6068,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.\"",
 "o": [
 "Volledige mededinging",
-"Marginale producent",
-"Toetreding",
-"Optimale allocatie"
+"Volkomen markt",
+"Externe effecten",
+"Transparante markt"
 ],
 "a": 0,
 "u": "Volledige mededinging: Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt."
@@ -5228,9 +6083,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Producten die in de ogen van de koper precies hetzelfde zijn.\"",
 "o": [
 "Homogene producten",
-"Evenwichtsprijs",
-"Totaal surplus",
-"Bedrijfstakevenwicht"
+"Evenwichtshoeveelheid",
+"Volkomen markt",
+"Externe effecten"
 ],
 "a": 0,
 "u": "Homogene producten: Producten die in de ogen van de koper precies hetzelfde zijn."
@@ -5244,8 +6099,8 @@ LEVELS.D.push(...[
 "o": [
 "Transparante markt",
 "Abstracte markt",
-"Pareto-optimum",
-"Volkomen markt"
+"Niet-perfecte markt",
+"Concrete markt"
 ],
 "a": 0,
 "u": "Transparante markt: Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien."
@@ -5258,9 +6113,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het geheel van vraag en aanbod van een product, zonder vaste plaats.\"",
 "o": [
 "Abstracte markt",
-"Evenwichtsprijs",
-"Bedrijfstakevenwicht",
-"Economisch surplus"
+"Economisch surplus",
+"Externe effecten",
+"Optimale allocatie"
 ],
 "a": 0,
 "u": "Abstracte markt: Het geheel van vraag en aanbod van een product, zonder vaste plaats."
@@ -5273,9 +6128,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.\"",
 "o": [
 "Concrete markt",
+"Aanbodoverschot",
 "Externe effecten",
-"Abstracte markt",
-"Economisch surplus"
+"Marktevenwicht"
 ],
 "a": 0,
 "u": "Concrete markt: Een aanwijsbare plaats waar kopers en verkopers producten verhandelen."
@@ -5288,9 +6143,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.\"",
 "o": [
 "Volkomen markt",
-"Economisch surplus",
-"Externe effecten",
-"Transparante markt"
+"Marginale producent",
+"Prijsmechanisme",
+"Evenwichtshoeveelheid"
 ],
 "a": 0,
 "u": "Volkomen markt: Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid."
@@ -5446,8 +6301,8 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.\"",
 "o": [
 "Marktevenwicht",
+"Abstracte markt",
 "Externe effecten",
-"Perfecte markt",
 "Economisch surplus"
 ],
 "a": 0,
@@ -5461,9 +6316,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn.\"",
 "o": [
 "Prijsmechanisme",
-"Externe effecten",
-"Niet-perfecte markt",
-"Pareto-optimum"
+"Marginale producent",
+"Concrete markt",
+"Aanbodoverschot"
 ],
 "a": 0,
 "u": "Prijsmechanisme: Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn."
@@ -5476,9 +6331,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.\"",
 "o": [
 "Evenwichtsprijs",
-"Uittreding",
-"Concrete markt",
-"Externe effecten"
+"Marginale producent",
+"Marktvorm",
+"Allocatie"
 ],
 "a": 0,
 "u": "Evenwichtsprijs: De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid."
@@ -5491,9 +6346,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verhandelde hoeveelheid bij de evenwichtsprijs.\"",
 "o": [
 "Evenwichtshoeveelheid",
-"Marktvorm",
-"Aanbodoverschot",
-"Homogene producten"
+"Perfecte markt",
+"Homogene producten",
+"Prijsmechanisme"
 ],
 "a": 0,
 "u": "Evenwichtshoeveelheid: De verhandelde hoeveelheid bij de evenwichtsprijs."
@@ -5506,9 +6361,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.\"",
 "o": [
 "Aanbodoverschot",
-"Allocatie",
-"Abstracte markt",
-"Volledige mededinging"
+"Transparante markt",
+"Evenwichtshoeveelheid",
+"Evenwichtsprijs"
 ],
 "a": 0,
 "u": "Aanbodoverschot: Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd."
@@ -5618,8 +6473,8 @@ LEVELS.D.push(...[
 "o": [
 "Marginale producent",
 "Perfecte markt",
-"Prijsmechanisme",
-"Economisch surplus"
+"Aanbodoverschot",
+"Allocatie"
 ],
 "a": 0,
 "u": "Marginale producent: De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven."
@@ -5632,9 +6487,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen.\"",
 "o": [
 "Bedrijfsevenwicht",
-"Perfecte markt",
-"Pareto-optimum",
-"Evenwichtsprijs"
+"Externe effecten",
+"Allocatie",
+"Concrete markt"
 ],
 "a": 0,
 "u": "Bedrijfsevenwicht: Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen."
@@ -5647,9 +6502,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.\"",
 "o": [
 "Bedrijfstakevenwicht",
-"Optimale allocatie",
-"Bedrijfsevenwicht",
-"Uittreding"
+"Marktvorm",
+"Toetreding",
+"Abstracte markt"
 ],
 "a": 0,
 "u": "Bedrijfstakevenwicht: Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken."
@@ -5662,9 +6517,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.\"",
 "o": [
 "Toetreding",
-"Transparante markt",
-"Marktvorm",
-"Uittreding"
+"Marktevenwicht",
+"Aanbodoverschot",
+"Externe effecten"
 ],
 "a": 0,
 "u": "Toetreding: Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is."
@@ -5677,9 +6532,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.\"",
 "o": [
 "Uittreding",
-"Optimale allocatie",
-"Perfecte markt",
-"Marktevenwicht"
+"Externe effecten",
+"Totaal surplus",
+"Evenwichtshoeveelheid"
 ],
 "a": 0,
 "u": "Uittreding: Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken."
@@ -5821,9 +6676,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.\"",
 "o": [
 "Pareto-optimum",
-"Perfecte markt",
-"Externe effecten",
-"Volkomen markt"
+"Allocatie",
+"Toetreding",
+"Perfecte markt"
 ],
 "a": 0,
 "u": "Pareto-optimum: Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat."
@@ -5836,9 +6691,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De som van het consumentensurplus en het producentensurplus.\"",
 "o": [
 "Economisch surplus",
-"Evenwichtshoeveelheid",
-"Evenwichtsprijs",
-"Marginale producent"
+"Bedrijfstakevenwicht",
+"Uittreding",
+"Volkomen markt"
 ],
 "a": 0,
 "u": "Economisch surplus: De som van het consumentensurplus en het producentensurplus."
@@ -5851,9 +6706,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden.\"",
 "o": [
 "Allocatie",
-"Evenwichtshoeveelheid",
-"Volkomen markt",
-"Volledige mededinging"
+"Totaal surplus",
+"Marktvorm",
+"Marginale producent"
 ],
 "a": 0,
 "u": "Allocatie: De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden."
@@ -5866,9 +6721,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.\"",
 "o": [
 "Optimale allocatie",
-"Transparante markt",
-"Bedrijfstakevenwicht",
-"Marktevenwicht"
+"Volledige mededinging",
+"Pareto-optimum",
+"Bedrijfstakevenwicht"
 ],
 "a": 0,
 "u": "Optimale allocatie: Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is."
@@ -5881,9 +6736,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De som van het consumentensurplus en het producentensurplus.\"",
 "o": [
 "Totaal surplus",
-"Marginale producent",
-"Abstracte markt",
-"Bedrijfstakevenwicht"
+"Externe effecten",
+"Volledige mededinging",
+"Toetreding"
 ],
 "a": 0,
 "u": "Totaal surplus: De som van het consumentensurplus en het producentensurplus."
@@ -5896,9 +6751,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.\"",
 "o": [
 "Externe effecten",
-"Aanbodoverschot",
-"Allocatie",
-"Transparante markt"
+"Transparante markt",
+"Bedrijfstakevenwicht",
+"Abstracte markt"
 ],
 "a": 0,
 "u": "Externe effecten: Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend."
@@ -6066,9 +6921,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen.\"",
 "o": [
 "Heterogene producten",
-"Marketingmix",
+"Prijsleider",
 "Oligopolie",
-"Harberger-driehoek"
+"Wettelijk monopolie"
 ],
 "a": 0,
 "u": "Heterogene producten: Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen."
@@ -6081,9 +6936,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.\"",
 "o": [
 "Marketingmix",
-"Duopolie",
-"Franchising",
-"Octrooi"
+"Geknikte afzetcurve",
+"Prijsleider",
+"Welvaartsverlies"
 ],
 "a": 0,
 "u": "Marketingmix: De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming."
@@ -6096,9 +6951,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.\"",
 "o": [
 "Octrooi",
-"Prijsleider",
-"Marketingmix",
-"Joint venture"
+"Productdifferentiatie",
+"Collectief monopolie",
+"Wettelijk monopolie"
 ],
 "a": 0,
 "u": "Octrooi: Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen."
@@ -6111,9 +6966,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.\"",
 "o": [
 "Kartel",
-"Monopolie",
-"Duopolie",
-"Prijsdifferentiatie"
+"Wettelijk monopolie",
+"Joint venture",
+"Franchising"
 ],
 "a": 0,
 "u": "Kartel: Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken."
@@ -6126,9 +6981,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Twee of meer ondernemingen die samen verdergaan als één onderneming.\"",
 "o": [
 "Fusie",
-"Heterogene producten",
-"Wettelijk monopolie",
-"Marketingmix"
+"Collectief monopolie",
+"Duopolie",
+"Harberger-driehoek"
 ],
 "a": 0,
 "u": "Fusie: Twee of meer ondernemingen die samen verdergaan als één onderneming."
@@ -6141,9 +6996,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.\"",
 "o": [
 "Franchising",
-"Prijsdifferentiatie",
-"Collectief monopolie",
-"Marketingmix"
+"Wettelijk monopolie",
+"Natuurlijk monopolie",
+"Geknikte afzetcurve"
 ],
 "a": 0,
 "u": "Franchising: Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt."
@@ -6156,8 +7011,8 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.\"",
 "o": [
 "Joint venture",
-"Natuurlijk monopolie",
-"Monopolistische concurrentie",
+"Octrooi",
+"Prijsdifferentiatie",
 "Prijsstarheid"
 ],
 "a": 0,
@@ -6171,9 +7026,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.\"",
 "o": [
 "Productdifferentiatie",
-"Monopolie",
-"Joint venture",
-"Duopolie"
+"Duopolie",
+"Collectief monopolie",
+"Prijsleider"
 ],
 "a": 0,
 "u": "Productdifferentiatie: Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is."
@@ -6343,9 +7198,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen.\"",
 "o": [
 "Natuurlijk monopolie",
-"Marketingmix",
-"Heterogene producten",
-"Octrooi"
+"Joint venture",
+"Prijsleider",
+"Kartel"
 ],
 "a": 0,
 "u": "Natuurlijk monopolie: Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen."
@@ -6358,9 +7213,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi.\"",
 "o": [
 "Wettelijk monopolie",
-"Harberger-driehoek",
 "Collectief monopolie",
-"Monopolistische concurrentie"
+"Prijsdiscriminatie",
+"Franchising"
 ],
 "a": 0,
 "u": "Wettelijk monopolie: Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi."
@@ -6373,9 +7228,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Aanbieders die samen optreden als één aanbieder, zoals de OPEC.\"",
 "o": [
 "Collectief monopolie",
-"Octrooi",
-"Fusie",
-"Prijsdiscriminatie"
+"Prijsleider",
+"Prijsstarheid",
+"Fusie"
 ],
 "a": 0,
 "u": "Collectief monopolie: Aanbieders die samen optreden als één aanbieder, zoals de OPEC."
@@ -6388,9 +7243,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verschillende prijzen vragen omdat de kosten van het product verschillen.\"",
 "o": [
 "Prijsdifferentiatie",
-"Kartel",
 "Prijsleider",
-"Heterogene producten"
+"Franchising",
+"Prijsdiscriminatie"
 ],
 "a": 0,
 "u": "Prijsdifferentiatie: Verschillende prijzen vragen omdat de kosten van het product verschillen."
@@ -6403,9 +7258,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek.\"",
 "o": [
 "Harberger-driehoek",
-"Kartel",
-"Prijsleider",
-"Collectief monopolie"
+"Marketingmix",
+"Franchising",
+"Wettelijk monopolie"
 ],
 "a": 0,
 "u": "Harberger-driehoek: Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek."
@@ -6418,8 +7273,8 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met één aanbieder tegenover veel vragers.\"",
 "o": [
 "Monopolie",
-"Franchising",
-"Kartel",
+"Joint venture",
+"Heterogene producten",
 "Wettelijk monopolie"
 ],
 "a": 0,
@@ -6433,9 +7288,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.\"",
 "o": [
 "Prijsdiscriminatie",
-"Geknikte afzetcurve",
-"Natuurlijk monopolie",
-"Productdifferentiatie"
+"Wettelijk monopolie",
+"Oligopolie",
+"Prijsdifferentiatie"
 ],
 "a": 0,
 "u": "Prijsdiscriminatie: Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers."
@@ -6448,9 +7303,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.\"",
 "o": [
 "Welvaartsverlies",
-"Duopolie",
 "Natuurlijk monopolie",
-"Collectief monopolie"
+"Franchising",
+"Prijsdifferentiatie"
 ],
 "a": 0,
 "u": "Welvaartsverlies: Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging."
@@ -6657,8 +7512,8 @@ LEVELS.D.push(...[
 "o": [
 "Geknikte afzetcurve",
 "Monopolie",
-"Wettelijk monopolie",
-"Kartel"
+"Duopolie",
+"Joint venture"
 ],
 "a": 0,
 "u": "Geknikte afzetcurve: Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging."
@@ -6672,8 +7527,8 @@ LEVELS.D.push(...[
 "o": [
 "Prijsstarheid",
 "Franchising",
-"Productdifferentiatie",
-"Prijsdiscriminatie"
+"Welvaartsverlies",
+"Geknikte afzetcurve"
 ],
 "a": 0,
 "u": "Prijsstarheid: Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen."
@@ -6686,9 +7541,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met weinig aanbieders tegenover veel vragers.\"",
 "o": [
 "Oligopolie",
-"Geknikte afzetcurve",
-"Welvaartsverlies",
-"Natuurlijk monopolie"
+"Monopolie",
+"Kartel",
+"Marketingmix"
 ],
 "a": 0,
 "u": "Oligopolie: Marktvorm met weinig aanbieders tegenover veel vragers."
@@ -6701,8 +7556,8 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met veel aanbieders van heterogene producten.\"",
 "o": [
 "Monopolistische concurrentie",
-"Natuurlijk monopolie",
-"Prijsleider",
+"Wettelijk monopolie",
+"Welvaartsverlies",
 "Geknikte afzetcurve"
 ],
 "a": 0,
@@ -6716,9 +7571,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met twee aanbieders.\"",
 "o": [
 "Duopolie",
-"Monopolie",
-"Welvaartsverlies",
-"Harberger-driehoek"
+"Collectief monopolie",
+"Prijsdiscriminatie",
+"Franchising"
 ],
 "a": 0,
 "u": "Duopolie: Marktvorm met twee aanbieders."
@@ -6731,9 +7586,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.\"",
 "o": [
 "Prijsleider",
-"Duopolie",
-"Prijsstarheid",
-"Octrooi"
+"Prijsdiscriminatie",
+"Kartel",
+"Fusie"
 ],
 "a": 0,
 "u": "Prijsleider: De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd."
@@ -6892,9 +7747,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin de markt niet tot een optimale uitkomst leidt.\"",
 "o": [
 "Marktfalen",
-"Quotering",
-"Concentratie",
-"Zelfstandig bestuursorgaan"
+"Indirecte belastingen",
+"Quasi-collectieve goederen",
+"Maatschappelijke kosten"
 ],
 "a": 0,
 "u": "Marktfalen: Situatie waarin de markt niet tot een optimale uitkomst leidt."
@@ -6908,8 +7763,8 @@ LEVELS.D.push(...[
 "o": [
 "Collectieve goederen",
 "Quotering",
-"Subsidie",
-"Accijns"
+"Marktfalen",
+"Privatisering"
 ],
 "a": 0,
 "u": "Collectieve goederen: Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn."
@@ -6922,9 +7777,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.\"",
 "o": [
 "Quasi-collectieve goederen",
-"Subsidie",
-"Interventieprijs",
-"Autoriteit Consument en Markt"
+"Nationalisatie",
+"Zelfstandig bestuursorgaan",
+"Collectieve goederen"
 ],
 "a": 0,
 "u": "Quasi-collectieve goederen: Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs."
@@ -6937,9 +7792,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het overdragen van een overheidstaak aan particuliere bedrijven.\"",
 "o": [
 "Privatisering",
-"Accijns",
-"Afwentelingspercentage",
-"Concentratie"
+"Quotum",
+"Indirecte belastingen",
+"Maatschappelijke kosten"
 ],
 "a": 0,
 "u": "Privatisering: Het overdragen van een overheidstaak aan particuliere bedrijven."
@@ -6952,9 +7807,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verminderen van overheidsregels voor bedrijven en burgers.\"",
 "o": [
 "Deregulering",
-"Mededingingsbeleid",
-"Collectieve goederen",
-"Minimumprijs"
+"Autoriteit Consument en Markt",
+"Quasi-collectieve goederen",
+"Accijns"
 ],
 "a": 0,
 "u": "Deregulering: Het verminderen van overheidsregels voor bedrijven en burgers."
@@ -6967,9 +7822,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.\"",
 "o": [
 "Maatschappelijke kosten",
+"Marktfalen",
 "Privatisering",
-"Quotum",
-"Afwentelingspercentage"
+"Autoriteit Consument en Markt"
 ],
 "a": 0,
 "u": "Maatschappelijke kosten: Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen."
@@ -6982,9 +7837,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het overnemen van een particulier bedrijf door de overheid.\"",
 "o": [
 "Nationalisatie",
-"Accijns",
-"Quotum",
-"Interventieprijs"
+"Quotering",
+"Privatisering",
+"Kostprijsverlagende subsidie"
 ],
 "a": 0,
 "u": "Nationalisatie: Het overnemen van een particulier bedrijf door de overheid."
@@ -7113,9 +7968,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Minimumprijs waarvoor de overheid overschotten van boeren opkoopt.\"",
 "o": [
 "Interventieprijs",
-"Quotering",
-"Maatschappelijke kosten",
-"Accijns"
+"Nationalisatie",
+"Indirecte belastingen",
+"Subsidie"
 ],
 "a": 0,
 "u": "Interventieprijs: Minimumprijs waarvoor de overheid overschotten van boeren opkoopt."
@@ -7128,9 +7983,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De hoogste prijs die een aanbieder van de overheid mag vragen.\"",
 "o": [
 "Maximumprijs",
-"Privatisering",
 "Autoriteit Consument en Markt",
-"Quotering"
+"Subsidie",
+"Zelfstandig bestuursorgaan"
 ],
 "a": 0,
 "u": "Maximumprijs: De hoogste prijs die een aanbieder van de overheid mag vragen."
@@ -7143,9 +7998,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De laagste prijs waarvoor een product van de overheid mag worden verkocht.\"",
 "o": [
 "Minimumprijs",
-"Quotum",
-"Autoriteit Consument en Markt",
-"Quotering"
+"Concentratie",
+"Quotering",
+"Kostprijsverlagende subsidie"
 ],
 "a": 0,
 "u": "Minimumprijs: De laagste prijs waarvoor een product van de overheid mag worden verkocht."
@@ -7284,9 +8139,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument.\"",
 "o": [
 "Afwentelingspercentage",
-"Collectieve goederen",
-"Quasi-collectieve goederen",
-"Maatschappelijke kosten"
+"Mededingingsbeleid",
+"Deregulering",
+"Quotering"
 ],
 "a": 0,
 "u": "Afwentelingspercentage: Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument."
@@ -7299,9 +8154,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift.\"",
 "o": [
 "Kostprijsverlagende subsidie",
-"Autoriteit Consument en Markt",
 "Maatschappelijke kosten",
-"Interventieprijs"
+"Collectieve goederen",
+"Mededingingsbeleid"
 ],
 "a": 0,
 "u": "Kostprijsverlagende subsidie: Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift."
@@ -7314,9 +8169,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een vast bedrag aan belasting per eenheid van een product.\"",
 "o": [
 "Accijns",
-"Interventieprijs",
 "Kostprijsverlagende subsidie",
-"Privatisering"
+"Quasi-collectieve goederen",
+"Subsidie"
 ],
 "a": 0,
 "u": "Accijns: Een vast bedrag aan belasting per eenheid van een product."
@@ -7329,9 +8184,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.\"",
 "o": [
 "Indirecte belastingen",
-"Quasi-collectieve goederen",
 "Minimumprijs",
-"Autoriteit Consument en Markt"
+"Accijns",
+"Deregulering"
 ],
 "a": 0,
 "u": "Indirecte belastingen: Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten."
@@ -7344,9 +8199,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.\"",
 "o": [
 "Subsidie",
+"Accijns",
 "Privatisering",
-"Maatschappelijke kosten",
-"Afwentelingspercentage"
+"Nationalisatie"
 ],
 "a": 0,
 "u": "Subsidie: Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren."
@@ -7532,9 +8387,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen.\"",
 "o": [
 "Concentratie",
-"Zelfstandig bestuursorgaan",
-"Interventieprijs",
-"Autoriteit Consument en Markt"
+"Minimumprijs",
+"Marktfalen",
+"Deregulering"
 ],
 "a": 0,
 "u": "Concentratie: Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen."
@@ -7547,9 +8402,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt.\"",
 "o": [
 "Mededingingsbeleid",
-"Zelfstandig bestuursorgaan",
-"Concentratie",
-"Marktfalen"
+"Nationalisatie",
+"Maximumprijs",
+"Minimumprijs"
 ],
 "a": 0,
 "u": "Mededingingsbeleid: Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt."
@@ -7562,9 +8417,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid.\"",
 "o": [
 "Quotering",
-"Kostprijsverlagende subsidie",
-"Maatschappelijke kosten",
-"Concentratie"
+"Marktfalen",
+"Collectieve goederen",
+"Zelfstandig bestuursorgaan"
 ],
 "a": 0,
 "u": "Quotering: Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."
@@ -7578,8 +8433,8 @@ LEVELS.D.push(...[
 "o": [
 "Quotum",
 "Accijns",
-"Privatisering",
-"Afwentelingspercentage"
+"Marktfalen",
+"Subsidie"
 ],
 "a": 0,
 "u": "Quotum: Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd."
@@ -7592,9 +8447,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.\"",
 "o": [
 "Autoriteit Consument en Markt",
-"Quasi-collectieve goederen",
-"Maatschappelijke kosten",
-"Concentratie"
+"Minimumprijs",
+"Concentratie",
+"Interventieprijs"
 ],
 "a": 0,
 "u": "Autoriteit Consument en Markt: Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt."
@@ -7607,9 +8462,9 @@ LEVELS.D.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt.\"",
 "o": [
 "Zelfstandig bestuursorgaan",
-"Indirecte belastingen",
-"Privatisering",
-"Maatschappelijke kosten"
+"Accijns",
+"Maatschappelijke kosten",
+"Kostprijsverlagende subsidie"
 ],
 "a": 0,
 "u": "Zelfstandig bestuursorgaan: Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt."
@@ -7743,9 +8598,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen.\"",
 "o": [
 "Intertemporele ruil",
-"Human capital",
-"Hypotheeknemer",
-"Huurtoeslag"
+"Stroomgrootheid",
+"Samengestelde rente",
+"Reële rente"
 ],
 "a": 0,
 "u": "Intertemporele ruil: Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen."
@@ -7758,9 +8613,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven.\"",
 "o": [
 "Financiële levenscyclus",
-"Sociaal kapitaal",
-"Lineaire hypotheek",
-"Human capital"
+"Omslagstelsel",
+"Voorraadgrootheid",
+"Scheefwonen"
 ],
 "a": 0,
 "u": "Financiële levenscyclus: Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven."
@@ -7773,9 +8628,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december.\"",
 "o": [
 "Voorraadgrootheid",
-"AOW",
-"Reële rente",
-"Stroomgrootheid"
+"Intergenerationele ruil",
+"Contante waarde",
+"Kapitaaldekkingsstelsel"
 ],
 "a": 0,
 "u": "Voorraadgrootheid: Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december."
@@ -7788,9 +8643,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar.\"",
 "o": [
 "Stroomgrootheid",
-"Interest",
-"Hypotheekrenteaftrek",
-"Reële rente"
+"Samengestelde rente",
+"Annuïteitenhypotheek",
+"AOW"
 ],
 "a": 0,
 "u": "Stroomgrootheid: Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar."
@@ -7803,9 +8658,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training.\"",
 "o": [
 "Human capital",
-"Kapitaaldekkingsstelsel",
-"Franchise",
-"Interest"
+"Sociaal kapitaal",
+"Enkelvoudige rente",
+"Huurtoeslag"
 ],
 "a": 0,
 "u": "Human capital: De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training."
@@ -7818,9 +8673,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De waarde van sociale netwerken, relaties en onderling vertrouwen.\"",
 "o": [
 "Sociaal kapitaal",
-"Huurtoeslag",
-"Hypotheekgever",
-"Samengestelde rente"
+"Levensloopinkomen",
+"Annuïteitenhypotheek",
+"Nominale rente"
 ],
 "a": 0,
 "u": "Sociaal kapitaal: De waarde van sociale netwerken, relaties en onderling vertrouwen."
@@ -7956,9 +8811,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De vergoeding voor het uitlenen of de prijs voor het lenen van geld.\"",
 "o": [
 "Interest",
-"Annuïteitenhypotheek",
-"Intertemporele ruil",
-"Huurtoeslag"
+"Reële rente",
+"Hypothecaire lening",
+"Enkelvoudige rente"
 ],
 "a": 0,
 "u": "Interest: De vergoeding voor het uitlenen of de prijs voor het lenen van geld."
@@ -7971,9 +8826,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend.\"",
 "o": [
 "Enkelvoudige rente",
-"Lineaire hypotheek",
-"Hypotheekrenteaftrek",
-"Financiële levenscyclus"
+"Omslagstelsel",
+"Hypothecaire lening",
+"Kapitaaldekkingsstelsel"
 ],
 "a": 0,
 "u": "Enkelvoudige rente: Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend."
@@ -7986,9 +8841,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente).\"",
 "o": [
 "Samengestelde rente",
-"Omslagstelsel",
-"Intertemporele ruil",
-"Nominale rente"
+"Nominale rente",
+"Interest",
+"Pensioengrondslag"
 ],
 "a": 0,
 "u": "Samengestelde rente: Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente)."
@@ -8001,9 +8856,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie.\"",
 "o": [
 "Nominale rente",
-"Sociaal kapitaal",
-"Voorraadgrootheid",
-"Franchise"
+"Scheefwonen",
+"Dekkingsgraad",
+"Contante waarde"
 ],
 "a": 0,
 "u": "Nominale rente: Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie."
@@ -8016,9 +8871,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil.\"",
 "o": [
 "Reële rente",
-"Contante waarde",
-"Huurtoeslag",
-"Human capital"
+"Hypothecaire lening",
+"Intertemporele ruil",
+"Levensloopinkomen"
 ],
 "a": 0,
 "u": "Reële rente: De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil."
@@ -8031,9 +8886,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente.\"",
 "o": [
 "Intertemporele budgetlijn",
+"Franchise",
 "Hypotheekrenteaftrek",
-"Pensioengrondslag",
-"Intergenerationele ruil"
+"Huurtoeslag"
 ],
 "a": 0,
 "u": "Intertemporele budgetlijn: Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente."
@@ -8046,9 +8901,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het totale inkomen dat iemand in alle perioden van zijn leven verdient.\"",
 "o": [
 "Levensloopinkomen",
-"Interest",
-"Hypothecaire lening",
-"Voorraadgrootheid"
+"Human capital",
+"Sociaal kapitaal",
+"Nominale rente"
 ],
 "a": 0,
 "u": "Levensloopinkomen: Het totale inkomen dat iemand in alle perioden van zijn leven verdient."
@@ -8197,9 +9052,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een geldlening met een registergoed, meestal een woning, als onderpand.\"",
 "o": [
 "Hypothecaire lening",
-"Stroomgrootheid",
-"Voorraadgrootheid",
-"AOW"
+"AOW",
+"Levensloopinkomen",
+"Hypotheekgever"
 ],
 "a": 0,
 "u": "Hypothecaire lening: Een geldlening met een registergoed, meestal een woning, als onderpand."
@@ -8212,9 +9067,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft.\"",
 "o": [
 "Hypotheekgever",
-"Enkelvoudige rente",
-"Annuïteitenhypotheek",
-"Intertemporele budgetlijn"
+"Intertemporele ruil",
+"Huurtoeslag",
+"Hypotheekrenteaftrek"
 ],
 "a": 0,
 "u": "Hypotheekgever: De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft."
@@ -8227,9 +9082,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt.\"",
 "o": [
 "Hypotheeknemer",
-"Reële rente",
-"Scheefwonen",
-"Sociaal kapitaal"
+"Omslagstelsel",
+"Stroomgrootheid",
+"Human capital"
 ],
 "a": 0,
 "u": "Hypotheeknemer: De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt."
@@ -8243,8 +9098,8 @@ LEVELS.E.push(...[
 "o": [
 "Lineaire hypotheek",
 "Intertemporele budgetlijn",
-"Levensloopinkomen",
-"AOW"
+"Intertemporele ruil",
+"Human capital"
 ],
 "a": 0,
 "u": "Lineaire hypotheek: Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen."
@@ -8257,9 +9112,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald.\"",
 "o": [
 "Annuïteitenhypotheek",
-"Dekkingsgraad",
-"Interest",
-"Stroomgrootheid"
+"Levensloopinkomen",
+"Huurtoeslag",
+"AOW"
 ],
 "a": 0,
 "u": "Annuïteitenhypotheek: Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald."
@@ -8272,9 +9127,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken.\"",
 "o": [
 "Hypotheekrenteaftrek",
-"Kapitaaldekkingsstelsel",
-"Voorraadgrootheid",
-"Intertemporele budgetlijn"
+"Intergenerationele ruil",
+"Reële rente",
+"Omslagstelsel"
 ],
 "a": 0,
 "u": "Hypotheekrenteaftrek: Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken."
@@ -8287,9 +9142,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Inkomensafhankelijke bijdrage van de overheid in de huurkosten.\"",
 "o": [
 "Huurtoeslag",
-"Intertemporele budgetlijn",
-"Human capital",
-"Sociaal kapitaal"
+"Hypotheekgever",
+"Annuïteitenhypotheek",
+"AOW"
 ],
 "a": 0,
 "u": "Huurtoeslag: Inkomensafhankelijke bijdrage van de overheid in de huurkosten."
@@ -8302,9 +9157,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen.\"",
 "o": [
 "Scheefwonen",
-"Dekkingsgraad",
-"Human capital",
-"Enkelvoudige rente"
+"Franchise",
+"Intertemporele budgetlijn",
+"Omslagstelsel"
 ],
 "a": 0,
 "u": "Scheefwonen: Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen."
@@ -8440,9 +9295,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft.\"",
 "o": [
 "AOW",
-"Financiële levenscyclus",
-"Kapitaaldekkingsstelsel",
-"Pensioengrondslag"
+"Omslagstelsel",
+"Intergenerationele ruil",
+"Dekkingsgraad"
 ],
 "a": 0,
 "u": "AOW: Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft."
@@ -8455,9 +9310,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu.\"",
 "o": [
 "Omslagstelsel",
-"Dekkingsgraad",
-"Stroomgrootheid",
-"Samengestelde rente"
+"Huurtoeslag",
+"Human capital",
+"Pensioengrondslag"
 ],
 "a": 0,
 "u": "Omslagstelsel: Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu."
@@ -8470,9 +9325,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen.\"",
 "o": [
 "Kapitaaldekkingsstelsel",
-"Reële rente",
-"Omslagstelsel",
-"Voorraadgrootheid"
+"Interest",
+"Hypotheeknemer",
+"Human capital"
 ],
 "a": 0,
 "u": "Kapitaaldekkingsstelsel: Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen."
@@ -8485,9 +9340,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheveling van inkomen tussen generaties, zoals bij de AOW.\"",
 "o": [
 "Intergenerationele ruil",
-"Sociaal kapitaal",
-"Intertemporele ruil",
-"Dekkingsgraad"
+"Kapitaaldekkingsstelsel",
+"Contante waarde",
+"Samengestelde rente"
 ],
 "a": 0,
 "u": "Intergenerationele ruil: Overheveling van inkomen tussen generaties, zoals bij de AOW."
@@ -8500,9 +9355,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt.\"",
 "o": [
 "Franchise",
-"Lineaire hypotheek",
-"Sociaal kapitaal",
-"Contante waarde"
+"Hypotheekrenteaftrek",
+"Samengestelde rente",
+"Intertemporele budgetlijn"
 ],
 "a": 0,
 "u": "Franchise: Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt."
@@ -8515,9 +9370,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd.\"",
 "o": [
 "Pensioengrondslag",
-"AOW",
-"Stroomgrootheid",
-"Enkelvoudige rente"
+"Hypotheekrenteaftrek",
+"Reële rente",
+"Interest"
 ],
 "a": 0,
 "u": "Pensioengrondslag: Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd."
@@ -8530,9 +9385,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%.\"",
 "o": [
 "Dekkingsgraad",
-"Hypothecaire lening",
-"Nominale rente",
-"Annuïteitenhypotheek"
+"Huurtoeslag",
+"AOW",
+"Stroomgrootheid"
 ],
 "a": 0,
 "u": "Dekkingsgraad: Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%."
@@ -8545,9 +9400,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald.\"",
 "o": [
 "Contante waarde",
-"Omslagstelsel",
-"Reële rente",
-"Hypotheekgever"
+"Hypotheekgever",
+"Samengestelde rente",
+"Voorraadgrootheid"
 ],
 "a": 0,
 "u": "Contante waarde: De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald."
@@ -8685,9 +9540,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen.\"",
 "o": [
 "Collectieve sector",
-"EMU-normen",
-"Staatsobligatie",
-"Harberger-driehoek"
+"Profijtbeginsel",
+"Directe belasting",
+"EMU-schuld"
 ],
 "a": 0,
 "u": "Collectieve sector: De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen."
@@ -8700,9 +9555,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten.\"",
 "o": [
 "Quasi-collectief goed",
-"Overheidsinvesteringen",
-"Staatsobligatie",
-"Noemereffect"
+"Overheidsbestedingen",
+"EMU-saldo",
+"Harberger-driehoek"
 ],
 "a": 0,
 "u": "Quasi-collectief goed: Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten."
@@ -8715,9 +9570,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB.\"",
 "o": [
 "ZBO",
-"Volksverzekering",
 "Wig",
-"Directe belasting"
+"EMU-saldo",
+"EMU-schuld"
 ],
 "a": 0,
 "u": "ZBO: Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB."
@@ -8730,9 +9585,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW.\"",
 "o": [
 "Volksverzekering",
-"Directe belasting",
-"Collectieve uitgavenquote",
-"Harberger-driehoek"
+"Overdrachtsuitgaven",
+"EMU-schuld",
+"Gemiddelde belastingdruk"
 ],
 "a": 0,
 "u": "Volksverzekering: Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW."
@@ -8745,9 +9600,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW.\"",
 "o": [
 "Werknemersverzekering",
-"Overheidsinvesteringen",
-"Quasi-collectief goed",
-"EMU-saldo"
+"ZBO",
+"Harberger-driehoek",
+"Directe belasting"
 ],
 "a": 0,
 "u": "Werknemersverzekering: Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW."
@@ -8760,9 +9615,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort.\"",
 "o": [
 "Retributie",
-"Niet-belastingmiddelen",
-"Gemiddelde belastingdruk",
-"EMU-schuld"
+"Solidariteitsbeginsel",
+"Overheidsbestedingen",
+"EMU-normen"
 ],
 "a": 0,
 "u": "Retributie: Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort."
@@ -8775,9 +9630,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes.\"",
 "o": [
 "Niet-belastingmiddelen",
-"Solidariteitsbeginsel",
-"Collectieve lastendruk",
-"Quasi-collectief goed"
+"EMU-schuld",
+"Overheidsinvesteringen",
+"Overdrachtsuitgaven"
 ],
 "a": 0,
 "u": "Niet-belastingmiddelen: Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes."
@@ -8934,9 +9789,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen.\"",
 "o": [
 "Directe belasting",
-"Indirecte belasting",
-"Overheidsbestedingen",
-"Harberger-driehoek"
+"Volksverzekering",
+"Collectieve sector",
+"Solidariteitsbeginsel"
 ],
 "a": 0,
 "u": "Directe belasting: Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen."
@@ -8949,9 +9804,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Kostprijsverhogende belasting op bestedingen, zoals btw en accijns.\"",
 "o": [
 "Indirecte belasting",
-"Marginaal belastingtarief",
-"Staatsobligatie",
-"EMU-schuld"
+"Draagkrachtbeginsel",
+"Noemereffect",
+"Collectieve sector"
 ],
 "a": 0,
 "u": "Indirecte belasting: Kostprijsverhogende belasting op bestedingen, zoals btw en accijns."
@@ -8964,9 +9819,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting.\"",
 "o": [
 "Draagkrachtbeginsel",
-"Overheidsinvesteringen",
-"Profijtbeginsel",
-"Gemiddelde belastingdruk"
+"EMU-schuld",
+"Collectieve lastendruk",
+"Solidariteitsbeginsel"
 ],
 "a": 0,
 "u": "Draagkrachtbeginsel: Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting."
@@ -8979,9 +9834,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor.\"",
 "o": [
 "Profijtbeginsel",
-"Quasi-collectief goed",
-"EMU-schuld",
-"Collectieve lastendruk"
+"Draagkrachtbeginsel",
+"Noemereffect",
+"Collectieve sector"
 ],
 "a": 0,
 "u": "Profijtbeginsel: Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor."
@@ -8994,9 +9849,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico.\"",
 "o": [
 "Solidariteitsbeginsel",
-"Noemereffect",
 "Werknemersverzekering",
-"Staatsobligatie"
+"Collectieve sector",
+"EMU-normen"
 ],
 "a": 0,
 "u": "Solidariteitsbeginsel: Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico."
@@ -9009,9 +9864,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belastingen en sociale premies als percentage van het bbp.\"",
 "o": [
 "Collectieve lastendruk",
-"Indirecte belasting",
-"Collectieve uitgavenquote",
-"Collectieve sector"
+"Noemereffect",
+"Overheidsbestedingen",
+"Werknemersverzekering"
 ],
 "a": 0,
 "u": "Collectieve lastendruk: Belastingen en sociale premies als percentage van het bbp."
@@ -9024,9 +9879,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat.\"",
 "o": [
 "Harberger-driehoek",
-"EMU-saldo",
-"Overheidsinvesteringen",
-"Volksverzekering"
+"Marginaal belastingtarief",
+"Wig",
+"Directe belasting"
 ],
 "a": 0,
 "u": "Harberger-driehoek: Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat."
@@ -9039,9 +9894,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.\"",
 "o": [
 "Wig",
-"Solidariteitsbeginsel",
-"Noemereffect",
-"Collectieve uitgavenquote"
+"Collectieve uitgavenquote",
+"EMU-normen",
+"Indirecte belasting"
 ],
 "a": 0,
 "u": "Wig: Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer."
@@ -9054,9 +9909,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het belastingpercentage over een extra verdiende euro.\"",
 "o": [
 "Marginaal belastingtarief",
-"Gemiddelde belastingdruk",
-"EMU-schuld",
-"Volksverzekering"
+"EMU-saldo",
+"EMU-normen",
+"Staatsobligatie"
 ],
 "a": 0,
 "u": "Marginaal belastingtarief: Het belastingpercentage over een extra verdiende euro."
@@ -9069,9 +9924,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het percentage van het inkomen dat in totaal aan belasting wordt betaald.\"",
 "o": [
 "Gemiddelde belastingdruk",
-"Overdrachtsuitgaven",
-"Niet-belastingmiddelen",
-"EMU-schuld"
+"Profijtbeginsel",
+"Wig",
+"Overheidsbestedingen"
 ],
 "a": 0,
 "u": "Gemiddelde belastingdruk: Het percentage van het inkomen dat in totaal aan belasting wordt betaald."
@@ -9244,9 +10099,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen.\"",
 "o": [
 "Overheidsbestedingen",
-"Profijtbeginsel",
 "Collectieve sector",
-"Wig"
+"Harberger-driehoek",
+"Werknemersverzekering"
 ],
 "a": 0,
 "u": "Overheidsbestedingen: Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen."
@@ -9259,9 +10114,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente.\"",
 "o": [
 "Overdrachtsuitgaven",
-"Indirecte belasting",
-"Werknemersverzekering",
-"Noemereffect"
+"Wig",
+"Niet-belastingmiddelen",
+"Marginaal belastingtarief"
 ],
 "a": 0,
 "u": "Overdrachtsuitgaven: Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente."
@@ -9274,9 +10129,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De collectieve uitgaven als percentage van het bbp.\"",
 "o": [
 "Collectieve uitgavenquote",
-"Niet-belastingmiddelen",
-"Volksverzekering",
-"Noemereffect"
+"Marginaal belastingtarief",
+"Overheidsbestedingen",
+"EMU-saldo"
 ],
 "a": 0,
 "u": "Collectieve uitgavenquote: De collectieve uitgaven als percentage van het bbp."
@@ -9289,9 +10144,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Uitgaven van de overheid aan infrastructuur en gebouwen.\"",
 "o": [
 "Overheidsinvesteringen",
-"EMU-saldo",
+"Directe belasting",
 "Collectieve lastendruk",
-"Harberger-driehoek"
+"Collectieve uitgavenquote"
 ],
 "a": 0,
 "u": "Overheidsinvesteringen: Uitgaven van de overheid aan infrastructuur en gebouwen."
@@ -9402,9 +10257,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar.\"",
 "o": [
 "EMU-saldo",
-"ZBO",
-"Quasi-collectief goed",
-"Directe belasting"
+"Indirecte belasting",
+"Directe belasting",
+"Noemereffect"
 ],
 "a": 0,
 "u": "EMU-saldo: Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar."
@@ -9417,9 +10272,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden.\"",
 "o": [
 "EMU-schuld",
-"Gemiddelde belastingdruk",
-"Profijtbeginsel",
-"Marginaal belastingtarief"
+"Overheidsbestedingen",
+"Draagkrachtbeginsel",
+"Retributie"
 ],
 "a": 0,
 "u": "EMU-schuld: De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden."
@@ -9434,7 +10289,7 @@ LEVELS.E.push(...[
 "EMU-normen",
 "ZBO",
 "EMU-schuld",
-"Gemiddelde belastingdruk"
+"Noemereffect"
 ],
 "a": 0,
 "u": "EMU-normen: Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp."
@@ -9447,9 +10302,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De schuldquote daalt doordat het bbp sneller groeit dan de schuld.\"",
 "o": [
 "Noemereffect",
-"Overheidsbestedingen",
-"EMU-schuld",
-"Gemiddelde belastingdruk"
+"Marginaal belastingtarief",
+"ZBO",
+"Harberger-driehoek"
 ],
 "a": 0,
 "u": "Noemereffect: De schuldquote daalt doordat het bbp sneller groeit dan de schuld."
@@ -9462,9 +10317,9 @@ LEVELS.E.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Schuldbewijs waarmee de overheid geld leent.\"",
 "o": [
 "Staatsobligatie",
-"ZBO",
-"Harberger-driehoek",
-"Directe belasting"
+"Noemereffect",
+"Collectieve uitgavenquote",
+"Collectieve sector"
 ],
 "a": 0,
 "u": "Staatsobligatie: Schuldbewijs waarmee de overheid geld leent."
@@ -11052,9 +11907,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.\"",
 "o": [
 "Pareto-optimum",
-"Rivaliteit",
-"Nash-evenwicht",
-"Gevangenendilemma"
+"Herhaald spel",
+"Clubgoed",
+"Individuele goederen"
 ],
 "a": 0,
 "u": "Pareto-optimum: Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat."
@@ -11067,9 +11922,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken.\"",
 "o": [
 "Coördinatiespel",
-"Nash-evenwicht",
-"Uitsluitbaarheid",
-"Collectieve dwang"
+"Laagsteprijsgarantie",
+"Prijskartel",
+"Clubgoed"
 ],
 "a": 0,
 "u": "Coördinatiespel: Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken."
@@ -11082,9 +11937,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren.\"",
 "o": [
 "Achterwaartse inductie",
-"Pareto-optimum",
-"Geloofwaardige dreiging",
-"Grim trigger"
+"Individuele goederen",
+"Laagsteprijsgarantie",
+"Tit-for-tatstrategie"
 ],
 "a": 0,
 "u": "Achterwaartse inductie: Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren."
@@ -11097,9 +11952,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Tabel met de strategieën en uitkomsten van een simultaan spel.\"",
 "o": [
 "Pay-offmatrix",
-"Clubgoed",
-"Meeliftersgedrag",
-"Achterwaartse inductie"
+"Gemeenschappelijke middelen",
+"Clementieregeling",
+"Collectieve dwang"
 ],
 "a": 0,
 "u": "Pay-offmatrix: Tabel met de strategieën en uitkomsten van een simultaan spel."
@@ -11112,9 +11967,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.\"",
 "o": [
 "Dominante strategie",
-"Grim trigger",
-"Meeliftersgedrag",
-"Clubgoed"
+"Clementieregeling",
+"Zelfbinding",
+"Reputatie"
 ],
 "a": 0,
 "u": "Dominante strategie: Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest."
@@ -11127,9 +11982,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.\"",
 "o": [
 "Gevangenendilemma",
-"Zelfbinding",
-"Niet-coöperatief spel",
-"Meeliftersgedrag"
+"Grim trigger",
+"Prijzenoorlog",
+"Coördinatiespel"
 ],
 "a": 0,
 "u": "Gevangenendilemma: Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken."
@@ -11142,9 +11997,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.\"",
 "o": [
 "Simultaan spel",
+"Geloofwaardige dreiging",
 "Gemeenschappelijke middelen",
-"Individuele goederen",
-"Emissierechten"
+"Internaliseren"
 ],
 "a": 0,
 "u": "Simultaan spel: Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen."
@@ -11157,9 +12012,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Spel waarin de spelers geen bindende afspraken kunnen maken.\"",
 "o": [
 "Niet-coöperatief spel",
-"Emissierechten",
-"Clubgoed",
-"Pay-offmatrix"
+"Nash-evenwicht",
+"Grim trigger",
+"Emissierechten"
 ],
 "a": 0,
 "u": "Niet-coöperatief spel: Spel waarin de spelers geen bindende afspraken kunnen maken."
@@ -11172,9 +12027,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.\"",
 "o": [
 "Nash-evenwicht",
-"Clubgoed",
-"Coördinatiespel",
-"Simultaan spel"
+"Tit-for-tatstrategie",
+"Herhaald spel",
+"Uitsluitbaarheid"
 ],
 "a": 0,
 "u": "Nash-evenwicht: Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken."
@@ -11187,9 +12042,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.\"",
 "o": [
 "Tit-for-tatstrategie",
-"Nash-evenwicht",
-"Gemeenschappelijke middelen",
-"Herhaald spel"
+"Internaliseren",
+"Achterwaartse inductie",
+"Uitsluitbaarheid"
 ],
 "a": 0,
 "u": "Tit-for-tatstrategie: Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed."
@@ -11303,9 +12158,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt.\"",
 "o": [
 "Grim trigger",
-"Coördinatiespel",
-"Prijskartel",
-"Zelfbinding"
+"Tit-for-tatstrategie",
+"Prijzenoorlog",
+"Internaliseren"
 ],
 "a": 0,
 "u": "Grim trigger: Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt."
@@ -11318,9 +12173,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is.\"",
 "o": [
 "Geloofwaardige dreiging",
-"Prijzenoorlog",
-"Niet-coöperatief spel",
-"Gevangenendilemma"
+"Pareto-optimum",
+"Emissierechten",
+"Simultaan spel"
 ],
 "a": 0,
 "u": "Geloofwaardige dreiging: Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is."
@@ -11333,9 +12188,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag.\"",
 "o": [
 "Reputatie",
-"Collectieve dwang",
-"Rivaliteit",
-"Herhaald spel"
+"Clubgoed",
+"Clementieregeling",
+"Simultaan spel"
 ],
 "a": 0,
 "u": "Reputatie: Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag."
@@ -11348,9 +12203,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden.\"",
 "o": [
 "Herhaald spel",
-"Geloofwaardige dreiging",
-"Nash-evenwicht",
-"Internaliseren"
+"Laagsteprijsgarantie",
+"Meeliftersgedrag",
+"Prijskartel"
 ],
 "a": 0,
 "u": "Herhaald spel: Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden."
@@ -11506,9 +12361,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is.\"",
 "o": [
 "Laagsteprijsgarantie",
-"Achterwaartse inductie",
-"Dominante strategie",
-"Nash-evenwicht"
+"Tit-for-tatstrategie",
+"Coördinatiespel",
+"Prijzenoorlog"
 ],
 "a": 0,
 "u": "Laagsteprijsgarantie: Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is."
@@ -11521,9 +12376,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.\"",
 "o": [
 "Prijzenoorlog",
-"Reputatie",
-"Laagsteprijsgarantie",
-"Individuele goederen"
+"Gevangenendilemma",
+"Meeliftersgedrag",
+"Clementieregeling"
 ],
 "a": 0,
 "u": "Prijzenoorlog: Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen."
@@ -11536,9 +12391,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.\"",
 "o": [
 "Clementieregeling",
-"Grim trigger",
-"Simultaan spel",
-"Dominante strategie"
+"Pareto-optimum",
+"Dominante strategie",
+"Emissierechten"
 ],
 "a": 0,
 "u": "Clementieregeling: Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt."
@@ -11551,9 +12406,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.\"",
 "o": [
 "Zelfbinding",
+"Meeliftersgedrag",
 "Internaliseren",
-"Herhaald spel",
-"Individuele goederen"
+"Grim trigger"
 ],
 "a": 0,
 "u": "Zelfbinding: Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken."
@@ -11566,9 +12421,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Kartel waarin ondernemingen afspraken maken over de verkoopprijs.\"",
 "o": [
 "Prijskartel",
-"Grim trigger",
-"Collectieve dwang",
-"Zelfbinding"
+"Gevangenendilemma",
+"Gemeenschappelijke middelen",
+"Simultaan spel"
 ],
 "a": 0,
 "u": "Prijskartel: Kartel waarin ondernemingen afspraken maken over de verkoopprijs."
@@ -11749,9 +12604,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander.\"",
 "o": [
 "Rivaliteit",
-"Grim trigger",
-"Achterwaartse inductie",
-"Tit-for-tatstrategie"
+"Simultaan spel",
+"Prijskartel",
+"Gemeenschappelijke middelen"
 ],
 "a": 0,
 "u": "Rivaliteit: Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander."
@@ -11764,9 +12619,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen die niet betalen kunnen van het gebruik worden uitgesloten.\"",
 "o": [
 "Uitsluitbaarheid",
-"Grim trigger",
-"Zelfbinding",
-"Individuele goederen"
+"Individuele goederen",
+"Prijskartel",
+"Geloofwaardige dreiging"
 ],
 "a": 0,
 "u": "Uitsluitbaarheid: Mensen die niet betalen kunnen van het gebruik worden uitgesloten."
@@ -11779,9 +12634,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst.\"",
 "o": [
 "Clubgoed",
-"Coördinatiespel",
-"Geloofwaardige dreiging",
-"Rivaliteit"
+"Grim trigger",
+"Nash-evenwicht",
+"Pareto-optimum"
 ],
 "a": 0,
 "u": "Clubgoed: Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst."
@@ -11794,9 +12649,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan.\"",
 "o": [
 "Gemeenschappelijke middelen",
-"Achterwaartse inductie",
-"Simultaan spel",
-"Grim trigger"
+"Reputatie",
+"Internaliseren",
+"Collectieve dwang"
 ],
 "a": 0,
 "u": "Gemeenschappelijke middelen: Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan."
@@ -11809,8 +12664,8 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing.\"",
 "o": [
 "Internaliseren",
-"Gemeenschappelijke middelen",
-"Herhaald spel",
+"Dominante strategie",
+"Prijzenoorlog",
 "Clubgoed"
 ],
 "a": 0,
@@ -11824,9 +12679,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten.\"",
 "o": [
 "Emissierechten",
-"Internaliseren",
-"Pay-offmatrix",
-"Clubgoed"
+"Geloofwaardige dreiging",
+"Niet-coöperatief spel",
+"Uitsluitbaarheid"
 ],
 "a": 0,
 "u": "Emissierechten: Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten."
@@ -11839,9 +12694,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Profiteren van een goed of voorziening zonder eraan mee te betalen.\"",
 "o": [
 "Meeliftersgedrag",
-"Herhaald spel",
-"Internaliseren",
-"Tit-for-tatstrategie"
+"Nash-evenwicht",
+"Pareto-optimum",
+"Geloofwaardige dreiging"
 ],
 "a": 0,
 "u": "Meeliftersgedrag: Profiteren van een goed of voorziening zonder eraan mee te betalen."
@@ -11854,9 +12709,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.\"",
 "o": [
 "Collectieve dwang",
-"Gevangenendilemma",
-"Clementieregeling",
-"Coördinatiespel"
+"Meeliftersgedrag",
+"Herhaald spel",
+"Tit-for-tatstrategie"
 ],
 "a": 0,
 "u": "Collectieve dwang: Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen."
@@ -11869,9 +12724,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.\"",
 "o": [
 "Individuele goederen",
-"Clementieregeling",
-"Zelfbinding",
-"Reputatie"
+"Meeliftersgedrag",
+"Laagsteprijsgarantie",
+"Coördinatiespel"
 ],
 "a": 0,
 "u": "Individuele goederen: Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten."
@@ -12067,8 +12922,8 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper.\"",
 "o": [
 "Onderhandelingsruimte",
-"Prijscompensatie",
-"Centraal akkoord",
+"Wig",
+"Incidentele loonstijging",
 "Loonruimte"
 ],
 "a": 0,
@@ -12082,8 +12937,8 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Investering die alleen waarde heeft binnen één bepaalde samenwerking.\"",
 "o": [
 "Relatiespecifieke investering",
-"Monopsonie",
-"Secundaire arbeidsvoorwaarden",
+"Berovingsprobleem",
+"Contractloonstijging",
 "Prijscompensatie"
 ],
 "a": 0,
@@ -12097,9 +12952,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Marktvorm met één vrager tegenover veel aanbieders.\"",
 "o": [
 "Monopsonie",
-"Incidentele loonstijging",
-"Relatiespecifieke investering",
-"Secundaire arbeidsvoorwaarden"
+"Wig",
+"Berovingsprobleem",
+"Primaire arbeidsvoorwaarden"
 ],
 "a": 0,
 "u": "Monopsonie: Marktvorm met één vrager tegenover veel aanbieders."
@@ -12112,9 +12967,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samengaan van bedrijven uit opeenvolgende schakels van de productieketen.\"",
 "o": [
 "Verticale integratie",
-"Algemeen verbindend verklaren",
-"Relatiespecifieke investering",
-"Incidentele loonstijging"
+"Loonruimte",
+"Primaire arbeidsvoorwaarden",
+"Monopsonie"
 ],
 "a": 0,
 "u": "Verticale integratie: Samengaan van bedrijven uit opeenvolgende schakels van de productieketen."
@@ -12127,8 +12982,8 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.\"",
 "o": [
 "Berovingsprobleem",
-"Cao",
-"Armoedeval",
+"Loonruimte",
+"Algemeen verbindend verklaren",
 "Secundaire arbeidsvoorwaarden"
 ],
 "a": 0,
@@ -12142,9 +12997,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.\"",
 "o": [
 "Werknemerssurplus",
-"Secundaire arbeidsvoorwaarden",
-"Centraal akkoord",
-"Onderhandelingsruimte"
+"Relatiespecifieke investering",
+"Reserveringsloon",
+"Incidentele loonstijging"
 ],
 "a": 0,
 "u": "Werknemerssurplus: Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken."
@@ -12157,9 +13012,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.\"",
 "o": [
 "Werkgeverssurplus",
-"Verticale integratie",
-"Armoedeval",
-"Centraal akkoord"
+"Relatiespecifieke investering",
+"Monopsonie",
+"Prijscompensatie"
 ],
 "a": 0,
 "u": "Werkgeverssurplus: Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt."
@@ -12429,9 +13284,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid.\"",
 "o": [
 "Centraal akkoord",
-"Incidentele loonstijging",
+"Armoedeval",
 "Werkgeverssurplus",
-"Secundaire arbeidsvoorwaarden"
+"Onderhandelingsruimte"
 ],
 "a": 0,
 "u": "Centraal akkoord: Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid."
@@ -12444,9 +13299,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De loonstijging uit de cao: prijscompensatie plus initiële loonstijging.\"",
 "o": [
 "Contractloonstijging",
-"Reserveringsloon",
-"Incidentele loonstijging",
-"Werknemerssurplus"
+"Secundaire arbeidsvoorwaarden",
+"Berovingsprobleem",
+"Reserveringsloon"
 ],
 "a": 0,
 "u": "Contractloonstijging: De loonstijging uit de cao: prijscompensatie plus initiële loonstijging."
@@ -12459,9 +13314,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen.\"",
 "o": [
 "Armoedeval",
-"Onderhandelingsruimte",
+"Werknemerssurplus",
 "Wig",
-"Reserveringsloon"
+"Loonruimte"
 ],
 "a": 0,
 "u": "Armoedeval: Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen."
@@ -12474,9 +13329,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het laagste loon waarvoor iemand bereid is te werken.\"",
 "o": [
 "Reserveringsloon",
-"Loonruimte",
-"Onderhandelingsruimte",
-"Werkgeverssurplus"
+"Berovingsprobleem",
+"Monopsonie",
+"Loonruimte"
 ],
 "a": 0,
 "u": "Reserveringsloon: Het laagste loon waarvoor iemand bereid is te werken."
@@ -12489,9 +13344,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.\"",
 "o": [
 "Cao",
-"Wig",
 "Reserveringsloon",
-"Centraal akkoord"
+"Wig",
+"Verticale integratie"
 ],
 "a": 0,
 "u": "Cao: Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers."
@@ -12504,9 +13359,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.\"",
 "o": [
 "Algemeen verbindend verklaren",
-"Loonruimte",
-"Wig",
-"Berovingsprobleem"
+"Verticale integratie",
+"Primaire arbeidsvoorwaarden",
+"Wig"
 ],
 "a": 0,
 "u": "Algemeen verbindend verklaren: Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak."
@@ -12519,9 +13374,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.\"",
 "o": [
 "Wig",
-"Incidentele loonstijging",
-"Werkgeverssurplus",
-"Verticale integratie"
+"Algemeen verbindend verklaren",
+"Centraal akkoord",
+"Armoedeval"
 ],
 "a": 0,
 "u": "Wig: Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer."
@@ -12534,9 +13389,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.\"",
 "o": [
 "Prijscompensatie",
-"Wig",
-"Loonruimte",
-"Verticale integratie"
+"Secundaire arbeidsvoorwaarden",
+"Werkgeverssurplus",
+"Werknemerssurplus"
 ],
 "a": 0,
 "u": "Prijscompensatie: Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft."
@@ -12549,9 +13404,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.\"",
 "o": [
 "Incidentele loonstijging",
-"Primaire arbeidsvoorwaarden",
-"Verticale integratie",
-"Secundaire arbeidsvoorwaarden"
+"Algemeen verbindend verklaren",
+"Berovingsprobleem",
+"Reserveringsloon"
 ],
 "a": 0,
 "u": "Incidentele loonstijging: Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar."
@@ -12564,9 +13419,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.\"",
 "o": [
 "Loonruimte",
-"Centraal akkoord",
-"Incidentele loonstijging",
-"Monopsonie"
+"Werknemerssurplus",
+"Verticale integratie",
+"Wig"
 ],
 "a": 0,
 "u": "Loonruimte: De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt."
@@ -12579,9 +13434,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Afspraken over loon en werktijden.\"",
 "o": [
 "Primaire arbeidsvoorwaarden",
-"Berovingsprobleem",
-"Contractloonstijging",
-"Prijscompensatie"
+"Loonruimte",
+"Cao",
+"Wig"
 ],
 "a": 0,
 "u": "Primaire arbeidsvoorwaarden: Afspraken over loon en werktijden."
@@ -12594,9 +13449,9 @@ LEVELS.F.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.\"",
 "o": [
 "Secundaire arbeidsvoorwaarden",
+"Centraal akkoord",
 "Wig",
-"Berovingsprobleem",
-"Prijscompensatie"
+"Cao"
 ],
 "a": 0,
 "u": "Secundaire arbeidsvoorwaarden: Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak."
@@ -13690,9 +14545,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen.\"",
 "o": [
 "Risico",
-"Sociale voorziening",
+"WA-verzekering",
 "Risiconeutraal",
-"Bonus-malussysteem"
+"Eigen risico"
 ],
 "a": 0,
 "u": "Risico: De kans dat een onzeker voorval gebeurt, gecombineerd met de omvang van de gevolgen."
@@ -13705,9 +14560,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde.\"",
 "o": [
 "Risicoavers",
-"Inboedelverzekering",
-"Risicozoekend",
-"Risicodraagvlak"
+"Polis",
+"Sociale verzekering",
+"Risiconeutraal"
 ],
 "a": 0,
 "u": "Risicoavers: Een afkeer hebben van risico en liever zekerheid kiezen bij dezelfde verwachte waarde."
@@ -13720,9 +14575,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Alleen kijken naar de verwachte waarde, niet naar de onzekerheid.\"",
 "o": [
 "Risiconeutraal",
-"Verzekeringsdruk",
-"Armoedeval",
-"Sociale voorziening"
+"Eigen risico",
+"Participatiewet",
+"Polis"
 ],
 "a": 0,
 "u": "Risiconeutraal: Alleen kijken naar de verwachte waarde, niet naar de onzekerheid."
@@ -13735,9 +14590,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bewust risico nemen, ook als de verwachte waarde ongunstig is.\"",
 "o": [
 "Risicozoekend",
-"Averechtse selectie",
-"Premiedifferentiatie",
-"Armoedeval"
+"Waardevast",
+"Risiconeutraal",
+"Acceptatieplicht"
 ],
 "a": 0,
 "u": "Risicozoekend: Bewust risico nemen, ook als de verwachte waarde ongunstig is."
@@ -13750,9 +14605,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar.\"",
 "o": [
 "Verzekering",
-"Eigen risico",
-"Acceptatieplicht",
-"Sociale verzekering"
+"Sociale voorziening",
+"Risico",
+"Inboedelverzekering"
 ],
 "a": 0,
 "u": "Verzekering: Overeenkomst waarbij je tegen premie de financiële gevolgen van een onzeker voorval afwentelt op een verzekeraar."
@@ -13765,9 +14620,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking.\"",
 "o": [
 "Polis",
-"Averechtse selectie",
-"Risicoavers",
-"Armoedeval"
+"Verzekeringsdruk",
+"Welvaartsvast",
+"Risico"
 ],
 "a": 0,
 "u": "Polis: Het schriftelijke bewijs van de verzekering met de voorwaarden en dekking."
@@ -13780,9 +14635,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting die de overheid heft over de premie van schadeverzekeringen.\"",
 "o": [
 "Assurantiebelasting",
-"WIA",
 "Armoedeval",
-"Eigen risico"
+"Risico",
+"Risicodraagvlak"
 ],
 "a": 0,
 "u": "Assurantiebelasting: Belasting die de overheid heft over de premie van schadeverzekeringen."
@@ -13970,9 +14825,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De ene partij bij een transactie heeft meer of betere informatie dan de andere.\"",
 "o": [
 "Asymmetrische informatie",
-"Risico",
-"Risicodraagvlak",
-"WA-verzekering"
+"Assurantiebelasting",
+"Welvaartsvast",
+"Armoedeval"
 ],
 "a": 0,
 "u": "Asymmetrische informatie: De ene partij bij een transactie heeft meer of betere informatie dan de andere."
@@ -13985,9 +14840,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is.\"",
 "o": [
 "Averechtse selectie",
-"Polis",
-"Welvaartsvast",
-"Asymmetrische informatie"
+"Opstalverzekering",
+"Inboedelverzekering",
+"Welvaartsvast"
 ],
 "a": 0,
 "u": "Averechtse selectie: Slechte risico's verdrijven de goede risico's van de verzekeringsmarkt doordat de gemiddelde premie voor goede risico's te hoog is."
@@ -14001,7 +14856,7 @@ LEVELS.G.push(...[
 "o": [
 "Moral hazard",
 "Assurantiebelasting",
-"Bonus-malussysteem",
+"Sociale voorziening",
 "Polis"
 ],
 "a": 0,
@@ -14015,9 +14870,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De premie laten afhangen van kenmerken die iets zeggen over het risico.\"",
 "o": [
 "Premiedifferentiatie",
-"Eigen risico",
-"Bonus-malussysteem",
-"Verzekeringsdruk"
+"Polis",
+"Moral hazard",
+"Participatiewet"
 ],
 "a": 0,
 "u": "Premiedifferentiatie: De premie laten afhangen van kenmerken die iets zeggen over het risico."
@@ -14030,9 +14885,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van de schade dat de verzekerde zelf betaalt.\"",
 "o": [
 "Eigen risico",
-"Risicozoekend",
-"WIA",
-"Risicodraagvlak"
+"Sociale voorziening",
+"Armoedeval",
+"Opstalverzekering"
 ],
 "a": 0,
 "u": "Eigen risico: Het deel van de schade dat de verzekerde zelf betaalt."
@@ -14045,9 +14900,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Premiekorting bij schadevrije jaren en een hogere premie na een claim.\"",
 "o": [
 "Bonus-malussysteem",
-"Armoedeval",
-"Participatiewet",
-"Verzekeringsdruk"
+"WIA",
+"WA-verzekering",
+"Polis"
 ],
 "a": 0,
 "u": "Bonus-malussysteem: Premiekorting bij schadevrije jaren en een hogere premie na een claim."
@@ -14060,9 +14915,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Premie aan schadeverzekeringen per inwoner als percentage van het bbp per inwoner.\"",
 "o": [
 "Verzekeringsdruk",
-"Waardevast",
-"Premiedifferentiatie",
-"Polis"
+"Moral hazard",
+"Opstalverzekering",
+"Acceptatieplicht"
 ],
 "a": 0,
 "u": "Verzekeringsdruk: Premie aan schadeverzekeringen per inwoner als percentage van het bbp per inwoner."
@@ -14252,9 +15107,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De groep verzekerden waarover de risico's worden gespreid.\"",
 "o": [
 "Risicodraagvlak",
-"Participatiewet",
-"Risiconeutraal",
-"Bonus-malussysteem"
+"Waardevast",
+"Welvaartsvast",
+"Verzekering"
 ],
 "a": 0,
 "u": "Risicodraagvlak: De groep verzekerden waarover de risico's worden gespreid."
@@ -14267,8 +15122,8 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verzekeraar moet iedereen accepteren, ongeacht leeftijd of gezondheid.\"",
 "o": [
 "Acceptatieplicht",
-"Averechtse selectie",
-"Armoedeval",
+"Welvaartsvast",
+"Verzekering",
 "Asymmetrische informatie"
 ],
 "a": 0,
@@ -14282,9 +15137,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen.\"",
 "o": [
 "Signalering",
-"Opstalverzekering",
-"Assurantiebelasting",
-"Premiedifferentiatie"
+"Acceptatieplicht",
+"Moral hazard",
+"Asymmetrische informatie"
 ],
 "a": 0,
 "u": "Signalering: Met je keuze laten zien dat je een goed risico bent, bijvoorbeeld door een hoger eigen risico te kiezen."
@@ -14297,9 +15152,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt.\"",
 "o": [
 "WA-verzekering",
-"Risico",
-"Asymmetrische informatie",
-"Risicozoekend"
+"Risicodraagvlak",
+"WIA",
+"Risicoavers"
 ],
 "a": 0,
 "u": "WA-verzekering: Verplichte verzekering voor schade die je met een motorvoertuig aan anderen toebrengt."
@@ -14313,8 +15168,8 @@ LEVELS.G.push(...[
 "o": [
 "Opstalverzekering",
 "Welvaartsvast",
-"Eigen risico",
-"Risico"
+"Risico",
+"Moral hazard"
 ],
 "a": 0,
 "u": "Opstalverzekering: Verzekering voor schade aan het huis zelf en alles wat aard- en nagelvast zit."
@@ -14327,9 +15182,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verzekering voor schade aan de verplaatsbare spullen in je huis.\"",
 "o": [
 "Inboedelverzekering",
-"Premiedifferentiatie",
-"Welvaartsvast",
-"Participatiewet"
+"Risicoavers",
+"Risiconeutraal",
+"Averechtse selectie"
 ],
 "a": 0,
 "u": "Inboedelverzekering: Verzekering voor schade aan de verplaatsbare spullen in je huis."
@@ -14483,9 +15338,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verzekering tegen inkomensderving, betaald uit premies.\"",
 "o": [
 "Sociale verzekering",
-"Risico",
-"Assurantiebelasting",
-"Armoedeval"
+"Risicodraagvlak",
+"Bonus-malussysteem",
+"Acceptatieplicht"
 ],
 "a": 0,
 "u": "Sociale verzekering: Verzekering tegen inkomensderving, betaald uit premies."
@@ -14498,9 +15353,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand.\"",
 "o": [
 "Sociale voorziening",
-"WA-verzekering",
-"Risicodraagvlak",
-"Eigen risico"
+"Welvaartsvast",
+"WIA",
+"Opstalverzekering"
 ],
 "a": 0,
 "u": "Sociale voorziening: Vangnet dat uit de algemene belastingmiddelen wordt betaald, zoals de bijstand."
@@ -14513,9 +15368,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien.\"",
 "o": [
 "Participatiewet",
-"Premiedifferentiatie",
-"Signalering",
-"Risicodraagvlak"
+"WA-verzekering",
+"Waardevast",
+"Averechtse selectie"
 ],
 "a": 0,
 "u": "Participatiewet: Wet waarmee gemeenten een minimuminkomen (bijstand) garanderen aan wie niet zelf in zijn levensonderhoud kan voorzien."
@@ -14528,9 +15383,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid.\"",
 "o": [
 "WIA",
-"Eigen risico",
-"Participatiewet",
-"Polis"
+"Sociale verzekering",
+"Inboedelverzekering",
+"Participatiewet"
 ],
 "a": 0,
 "u": "WIA: Werknemersverzekering bij langdurige ziekte of arbeidsongeschiktheid."
@@ -14543,9 +15398,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft.\"",
 "o": [
 "Waardevast",
-"WA-verzekering",
-"Risicodraagvlak",
-"Acceptatieplicht"
+"Participatiewet",
+"Risicoavers",
+"Polis"
 ],
 "a": 0,
 "u": "Waardevast: Een uitkering die meestijgt met de inflatie, zodat de koopkracht gelijk blijft."
@@ -14558,9 +15413,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een uitkering die meestijgt met de gemiddelde lonen.\"",
 "o": [
 "Welvaartsvast",
-"Sociale voorziening",
-"Risico",
-"Inboedelverzekering"
+"Waardevast",
+"Sociale verzekering",
+"Assurantiebelasting"
 ],
 "a": 0,
 "u": "Welvaartsvast: Een uitkering die meestijgt met de gemiddelde lonen."
@@ -14573,9 +15428,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Wie gaat werken of meer werkt, gaat er nauwelijks op vooruit doordat uitkeringen en toeslagen wegvallen.\"",
 "o": [
 "Armoedeval",
-"Welvaartsvast",
-"Verzekering",
-"Waardevast"
+"Risicozoekend",
+"Inboedelverzekering",
+"Risico"
 ],
 "a": 0,
 "u": "Armoedeval: Wie gaat werken of meer werkt, gaat er nauwelijks op vooruit doordat uitkeringen en toeslagen wegvallen."
@@ -14711,9 +15566,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verhandelbare waardepapieren, zoals aandelen en obligaties.\"",
 "o": [
 "Effecten",
-"Leverancierskrediet",
-"Aandelenrendement",
-"Nominale waarde"
+"Vreemd vermogen",
+"Depositogarantiestelsel",
+"Eenmanszaak"
 ],
 "a": 0,
 "u": "Effecten: Verhandelbare waardepapieren, zoals aandelen en obligaties."
@@ -14726,9 +15581,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bewijs van deelname in het eigen vermogen van een nv of bv.\"",
 "o": [
 "Aandeel",
+"Nominale waarde",
 "Besloten vennootschap",
-"Agent",
-"Efficiëntieloon"
+"Raad van commissarissen"
 ],
 "a": 0,
 "u": "Aandeel: Bewijs van deelname in het eigen vermogen van een nv of bv."
@@ -14741,9 +15596,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Dividend per aandeel als percentage van de aankoopkoers.\"",
 "o": [
 "Dividendrendement",
-"Effecten",
-"Vennootschap onder firma",
-"Besloten vennootschap"
+"Agent",
+"Onder pari",
+"Principaal"
 ],
 "a": 0,
 "u": "Dividendrendement: Dividend per aandeel als percentage van de aankoopkoers."
@@ -14756,9 +15611,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Koerswinst of -verlies als percentage van de aankoopkoers.\"",
 "o": [
 "Koersrendement",
-"Principaal-agentrelatie",
+"Prestatieloon",
 "Eigen vermogen",
-"Gedragstoezicht"
+"Depositogarantiestelsel"
 ],
 "a": 0,
 "u": "Koersrendement: Koerswinst of -verlies als percentage van de aankoopkoers."
@@ -14771,9 +15626,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Dividendrendement plus koersrendement.\"",
 "o": [
 "Aandelenrendement",
-"Eigen vermogen",
-"Leverancierskrediet",
-"Raad van commissarissen"
+"Obligatie",
+"Couponrente",
+"Besloten vennootschap"
 ],
 "a": 0,
 "u": "Aandelenrendement: Dividendrendement plus koersrendement."
@@ -14786,9 +15641,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement.\"",
 "o": [
 "Depositogarantiestelsel",
-"Aandelenrendement",
 "Efficiëntieloon",
-"Schatkistpapier"
+"Principaal-agentrelatie",
+"Agent"
 ],
 "a": 0,
 "u": "Depositogarantiestelsel: Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement."
@@ -14801,9 +15656,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Toezicht van DNB op de financiële gezondheid van banken, verzekeraars en pensioenfondsen.\"",
 "o": [
 "Prudentieel toezicht",
-"Rechtspersoon",
-"Eigen vermogen",
-"Effecten"
+"Dividendrendement",
+"Besloten vennootschap",
+"Leverancierskrediet"
 ],
 "a": 0,
 "u": "Prudentieel toezicht: Toezicht van DNB op de financiële gezondheid van banken, verzekeraars en pensioenfondsen."
@@ -14816,9 +15671,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Toezicht van de AFM op hoe financiële instellingen met klanten omgaan en op eerlijke handel.\"",
 "o": [
 "Gedragstoezicht",
-"Efficiëntieloon",
-"Aandeel",
-"Schatkistpapier"
+"Obligatie",
+"Rechtspersoon",
+"Nominale waarde"
 ],
 "a": 0,
 "u": "Gedragstoezicht: Toezicht van de AFM op hoe financiële instellingen met klanten omgaan en op eerlijke handel."
@@ -14964,9 +15819,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing.\"",
 "o": [
 "Obligatie",
-"Vreemd vermogen",
-"Prudentieel toezicht",
-"Raad van commissarissen"
+"Dividendrendement",
+"Effecten",
+"Depositogarantiestelsel"
 ],
 "a": 0,
 "u": "Obligatie: Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing."
@@ -14979,9 +15834,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De vaste rente die een obligatie elk jaar oplevert over de nominale waarde.\"",
 "o": [
 "Couponrente",
-"Agent",
-"Aandeel",
-"Effecten"
+"Naamloze vennootschap",
+"Onder pari",
+"Raad van commissarissen"
 ],
 "a": 0,
 "u": "Couponrente: De vaste rente die een obligatie elk jaar oplevert over de nominale waarde."
@@ -14994,9 +15849,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost.\"",
 "o": [
 "Nominale waarde",
-"Besloten vennootschap",
-"Onder pari",
-"Schatkistpapier"
+"Rechtspersoon",
+"Eenmanszaak",
+"Vennootschap onder firma"
 ],
 "a": 0,
 "u": "Nominale waarde: Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost."
@@ -15009,9 +15864,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Kortlopende lening van de overheid met een looptijd korter dan een jaar.\"",
 "o": [
 "Schatkistpapier",
-"Naamloze vennootschap",
+"Onder pari",
 "Vennootschap onder firma",
-"Koersrendement"
+"Prudentieel toezicht"
 ],
 "a": 0,
 "u": "Schatkistpapier: Kortlopende lening van de overheid met een looptijd korter dan een jaar."
@@ -15024,9 +15879,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De koers van een obligatie ligt onder de nominale waarde.\"",
 "o": [
 "Onder pari",
-"Effecten",
-"Leverancierskrediet",
-"Prestatieloon"
+"Besloten vennootschap",
+"Efficiëntieloon",
+"Effecten"
 ],
 "a": 0,
 "u": "Onder pari: De koers van een obligatie ligt onder de nominale waarde."
@@ -15192,9 +16047,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter.\"",
 "o": [
 "Rechtspersoon",
-"Couponrente",
-"Nominale waarde",
-"Depositogarantiestelsel"
+"Prestatieloon",
+"Effecten",
+"Gedragstoezicht"
 ],
 "a": 0,
 "u": "Rechtspersoon: Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter."
@@ -15207,9 +16062,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is.\"",
 "o": [
 "Eenmanszaak",
-"Aandeel",
+"Efficiëntieloon",
 "Vennootschap onder firma",
-"Eigen vermogen"
+"Dividendrendement"
 ],
 "a": 0,
 "u": "Eenmanszaak: Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is."
@@ -15222,9 +16077,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn.\"",
 "o": [
 "Vennootschap onder firma",
-"Raad van commissarissen",
-"Vreemd vermogen",
-"Couponrente"
+"Naamloze vennootschap",
+"Eenmanszaak",
+"Depositogarantiestelsel"
 ],
 "a": 0,
 "u": "Vennootschap onder firma: Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn."
@@ -15237,9 +16092,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen.\"",
 "o": [
 "Naamloze vennootschap",
-"Prudentieel toezicht",
 "Eenmanszaak",
-"Gedragstoezicht"
+"Couponrente",
+"Efficiëntieloon"
 ],
 "a": 0,
 "u": "Naamloze vennootschap: Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen."
@@ -15252,9 +16107,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn.\"",
 "o": [
 "Besloten vennootschap",
-"Gedragstoezicht",
-"Nominale waarde",
-"Koersrendement"
+"Principaal",
+"Eenmanszaak",
+"Gedragstoezicht"
 ],
 "a": 0,
 "u": "Besloten vennootschap: Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn."
@@ -15267,9 +16122,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten.\"",
 "o": [
 "Eigen vermogen",
-"Prudentieel toezicht",
 "Besloten vennootschap",
-"Prestatieloon"
+"Naamloze vennootschap",
+"Efficiëntieloon"
 ],
 "a": 0,
 "u": "Eigen vermogen: Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten."
@@ -15282,9 +16137,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Geleend vermogen van derden waarover rente wordt betaald en dat moet worden terugbetaald.\"",
 "o": [
 "Vreemd vermogen",
-"Dividendrendement",
-"Koersrendement",
-"Schatkistpapier"
+"Eenmanszaak",
+"Obligatie",
+"Principaal-agentrelatie"
 ],
 "a": 0,
 "u": "Vreemd vermogen: Geleend vermogen van derden waarover rente wordt betaald en dat moet worden terugbetaald."
@@ -15297,9 +16152,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Kortlopend krediet doordat een leverancier levert en de afnemer later mag betalen.\"",
 "o": [
 "Leverancierskrediet",
-"Depositogarantiestelsel",
-"Eenmanszaak",
-"Naamloze vennootschap"
+"Vreemd vermogen",
+"Besloten vennootschap",
+"Prudentieel toezicht"
 ],
 "a": 0,
 "u": "Leverancierskrediet: Kortlopend krediet doordat een leverancier levert en de afnemer later mag betalen."
@@ -15444,9 +16299,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft.\"",
 "o": [
 "Principaal-agentrelatie",
-"Besloten vennootschap",
-"Rechtspersoon",
-"Aandelenrendement"
+"Nominale waarde",
+"Aandelenrendement",
+"Couponrente"
 ],
 "a": 0,
 "u": "Principaal-agentrelatie: Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft."
@@ -15459,9 +16314,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De opdrachtgever in een principaal-agentrelatie.\"",
 "o": [
 "Principaal",
+"Aandeel",
 "Obligatie",
-"Prestatieloon",
-"Gedragstoezicht"
+"Effecten"
 ],
 "a": 0,
 "u": "Principaal: De opdrachtgever in een principaal-agentrelatie."
@@ -15474,9 +16329,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De opdrachtnemer die namens de principaal handelt.\"",
 "o": [
 "Agent",
-"Dividendrendement",
-"Naamloze vennootschap",
-"Couponrente"
+"Nominale waarde",
+"Koersrendement",
+"Aandelenrendement"
 ],
 "a": 0,
 "u": "Agent: De opdrachtnemer die namens de principaal handelt."
@@ -15489,9 +16344,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Beloning die afhangt van meetbare prestaties.\"",
 "o": [
 "Prestatieloon",
-"Agent",
-"Effecten",
-"Principaal-agentrelatie"
+"Efficiëntieloon",
+"Eenmanszaak",
+"Besloten vennootschap"
 ],
 "a": 0,
 "u": "Prestatieloon: Beloning die afhangt van meetbare prestaties."
@@ -15504,9 +16359,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet.\"",
 "o": [
 "Efficiëntieloon",
-"Agent",
+"Aandelenrendement",
 "Dividendrendement",
-"Besloten vennootschap"
+"Principaal-agentrelatie"
 ],
 "a": 0,
 "u": "Efficiëntieloon: Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet."
@@ -15519,9 +16374,9 @@ LEVELS.G.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Orgaan dat toezicht houdt op het bestuur van een nv of bv.\"",
 "o": [
 "Raad van commissarissen",
-"Leverancierskrediet",
-"Nominale waarde",
-"Rechtspersoon"
+"Prestatieloon",
+"Dividendrendement",
+"Agent"
 ],
 "a": 0,
 "u": "Raad van commissarissen: Orgaan dat toezicht houdt op het bestuur van een nv of bv."
@@ -15703,9 +16558,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik.\"",
 "o": [
 "Toegevoegde waarde",
-"Macro-economische balansvergelijking",
-"Brede welvaart",
-"Economische groei"
+"Informele economie",
+"Netto nationaal inkomen",
+"Brede welvaart"
 ],
 "a": 0,
 "u": "Toegevoegde waarde: De waarde die een bedrijf toevoegt aan ingekochte goederen en diensten: omzet min intermediair verbruik."
@@ -15718,9 +16573,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie.\"",
 "o": [
 "Intermediair verbruik",
-"Bbp tegen marktprijzen",
-"Loonkosten per product",
-"Macro-economische balansvergelijking"
+"Macro-economische balansvergelijking",
+"Productiefactoren",
+"Exportoverschot"
 ],
 "a": 0,
 "u": "Intermediair verbruik: Goederen en diensten die bedrijven bij elkaar inkopen om te verwerken in hun productie."
@@ -15733,9 +16588,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt.\"",
 "o": [
 "Bbp",
-"Productiefactoren",
+"Wellbeing Indicator",
 "Subjectieve methode",
-"Exportoverschot"
+"Afnemende meeropbrengsten"
 ],
 "a": 0,
 "u": "Bbp: De totale waarde van alle eindproducten en diensten die in een land in een periode zijn gemaakt."
@@ -15748,9 +16603,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bbp inclusief indirecte belastingen min prijsverlagende subsidies.\"",
 "o": [
 "Bbp tegen marktprijzen",
-"Wellbeing Indicator",
-"Overheidssaldo",
-"Toegevoegde waarde"
+"Brede welvaart",
+"Subjectieve methode",
+"Productiefunctie"
 ],
 "a": 0,
 "u": "Bbp tegen marktprijzen: Bbp inclusief indirecte belastingen min prijsverlagende subsidies."
@@ -15763,9 +16618,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen.\"",
 "o": [
 "Bbp tegen factorkosten",
-"Brede welvaart",
-"Informele economie",
-"Human Development Index"
+"Wellbeing Indicator",
+"Subjectieve methode",
+"Intermediair verbruik"
 ],
 "a": 0,
 "u": "Bbp tegen factorkosten: Bbp gewaardeerd tegen de beloningen van de productiefactoren plus afschrijvingen."
@@ -15778,8 +16633,8 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Alle primaire inkomens van de inwoners van een land, in binnen- en buitenland verdiend.\"",
 "o": [
 "Netto nationaal inkomen",
-"Overheidssaldo",
-"Exportoverschot",
+"Duurzame ontwikkeling",
+"Arbeidsproductiviteit",
 "Informele economie"
 ],
 "a": 0,
@@ -15793,9 +16648,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen.\"",
 "o": [
 "Objectieve methode",
-"Groen bbp",
-"Economische groei",
-"Macro-economische balansvergelijking"
+"Informele economie",
+"Brede welvaart",
+"Arbeidsproductiviteit"
 ],
 "a": 0,
 "u": "Objectieve methode: Het bbp berekenen door de toegevoegde waarden van alle bedrijfstakken en de overheid op te tellen."
@@ -15808,9 +16663,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het bbp berekenen door alle beloningen van de productiefactoren op te tellen.\"",
 "o": [
 "Subjectieve methode",
-"Exportoverschot",
-"Duurzame ontwikkeling",
-"Brede welvaart"
+"Economische groei",
+"Groen bbp",
+"Arbeidsproductiviteit"
 ],
 "a": 0,
 "u": "Subjectieve methode: Het bbp berekenen door alle beloningen van de productiefactoren op te tellen."
@@ -15823,9 +16678,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Arbeid, kapitaal, natuur en ondernemerschap.\"",
 "o": [
 "Productiefactoren",
-"Groen bbp",
-"Objectieve methode",
-"Duurzame ontwikkeling"
+"Overheidssaldo",
+"Totale factorproductiviteit",
+"Productiefunctie"
 ],
 "a": 0,
 "u": "Productiefactoren: Arbeid, kapitaal, natuur en ondernemerschap."
@@ -15969,9 +16824,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"(S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul.\"",
 "o": [
 "Macro-economische balansvergelijking",
-"Human Development Index",
-"Bbp",
-"Instituties"
+"Duurzame ontwikkeling",
+"Afnemende meeropbrengsten",
+"Human Development Index"
 ],
 "a": 0,
 "u": "Macro-economische balansvergelijking: (S − I) + (B − O) + (M − E) = 0: de saldi van particulieren, overheid en buitenland zijn samen nul."
@@ -15984,9 +16839,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de particuliere besparingen en investeringen (S − I).\"",
 "o": [
 "Nationaal spaarsaldo",
-"Exportoverschot",
-"Economische groei",
-"Netto nationaal inkomen"
+"Intermediair verbruik",
+"Subjectieve methode",
+"Informele economie"
 ],
 "a": 0,
 "u": "Nationaal spaarsaldo: Het verschil tussen de particuliere besparingen en investeringen (S − I)."
@@ -15999,9 +16854,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belastingontvangsten min overheidsbestedingen (B − O).\"",
 "o": [
 "Overheidssaldo",
-"Nationaal spaarsaldo",
-"Economische groei",
-"Productiefunctie"
+"Brede welvaart",
+"Productiefactoren",
+"Groen bbp"
 ],
 "a": 0,
 "u": "Overheidssaldo: Belastingontvangsten min overheidsbestedingen (B − O)."
@@ -16014,9 +16869,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De export is groter dan de import.\"",
 "o": [
 "Exportoverschot",
-"Bbp tegen factorkosten",
-"Productiefunctie",
-"Macro-economische balansvergelijking"
+"Bbp",
+"Duurzame ontwikkeling",
+"Arbeidsproductiviteit"
 ],
 "a": 0,
 "u": "Exportoverschot: De export is groter dan de import."
@@ -16148,9 +17003,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De procentuele stijging van het reële bbp per hoofd van de bevolking.\"",
 "o": [
 "Economische groei",
-"Arbeidsproductiviteit",
-"Bbp tegen marktprijzen",
-"Afnemende meeropbrengsten"
+"Netto nationaal inkomen",
+"Overheidssaldo",
+"Bbp tegen factorkosten"
 ],
 "a": 0,
 "u": "Economische groei: De procentuele stijging van het reële bbp per hoofd van de bevolking."
@@ -16163,9 +17018,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De productie per werkende per tijdseenheid.\"",
 "o": [
 "Arbeidsproductiviteit",
-"Nationaal spaarsaldo",
-"Exportoverschot",
-"Macro-economische balansvergelijking"
+"Loonkosten per product",
+"Bbp tegen marktprijzen",
+"Intermediair verbruik"
 ],
 "a": 0,
 "u": "Arbeidsproductiviteit: De productie per werkende per tijdseenheid."
@@ -16178,9 +17033,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Gemiddeld loon gedeeld door de arbeidsproductiviteit.\"",
 "o": [
 "Loonkosten per product",
-"Instituties",
-"Bbp",
-"Human Development Index"
+"Toegevoegde waarde",
+"Overheidssaldo",
+"Brede welvaart"
 ],
 "a": 0,
 "u": "Loonkosten per product: Gemiddeld loon gedeeld door de arbeidsproductiviteit."
@@ -16193,9 +17048,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie.\"",
 "o": [
 "Productiefunctie",
-"Economische groei",
-"Bbp tegen factorkosten",
-"Arbeidsproductiviteit"
+"Productiefactoren",
+"Netto nationaal inkomen",
+"Bbp"
 ],
 "a": 0,
 "u": "Productiefunctie: Y* = A × f(K, L): het verband tussen kapitaal, arbeid, factorproductiviteit en de potentiële productie."
@@ -16208,9 +17063,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A).\"",
 "o": [
 "Totale factorproductiviteit",
-"Duurzame ontwikkeling",
-"Productiefactoren",
-"Overheidssaldo"
+"Productiefunctie",
+"Brede welvaart",
+"Intermediair verbruik"
 ],
 "a": 0,
 "u": "Totale factorproductiviteit: De efficiëntie waarmee arbeid en kapitaal worden ingezet, door technologie, kennis en instituties (A)."
@@ -16223,9 +17078,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder.\"",
 "o": [
 "Afnemende meeropbrengsten",
-"Economische groei",
-"Bbp tegen factorkosten",
-"Instituties"
+"Toegevoegde waarde",
+"Groen bbp",
+"Loonkosten per product"
 ],
 "a": 0,
 "u": "Afnemende meeropbrengsten: Als één productiefactor toeneemt en de andere gelijk blijft, stijgt de productie steeds minder."
@@ -16238,9 +17093,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De formele en informele spelregels in een samenleving, zoals eigendomsrecht en rechtspraak.\"",
 "o": [
 "Instituties",
-"Netto nationaal inkomen",
-"Brede welvaart",
-"Macro-economische balansvergelijking"
+"Groen bbp",
+"Subjectieve methode",
+"Loonkosten per product"
 ],
 "a": 0,
 "u": "Instituties: De formele en informele spelregels in een samenleving, zoals eigendomsrecht en rechtspraak."
@@ -16433,9 +17288,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten.\"",
 "o": [
 "Informele economie",
-"Productiefunctie",
-"Groen bbp",
-"Toegevoegde waarde"
+"Arbeidsproductiviteit",
+"Human Development Index",
+"Wellbeing Indicator"
 ],
 "a": 0,
 "u": "Informele economie: Economische activiteiten die niet worden geregistreerd en dus niet in het bbp zitten."
@@ -16448,9 +17303,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs.\"",
 "o": [
 "Human Development Index",
-"Afnemende meeropbrengsten",
-"Bbp tegen factorkosten",
-"Productiefunctie"
+"Overheidssaldo",
+"Instituties",
+"Loonkosten per product"
 ],
 "a": 0,
 "u": "Human Development Index: Welvaartsmaatstaf van de VN op basis van inkomen, levensverwachting en onderwijs."
@@ -16463,8 +17318,8 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bbp gecorrigeerd voor milieuschade en de uitputting van natuurlijke hulpbronnen.\"",
 "o": [
 "Groen bbp",
-"Productiefunctie",
-"Totale factorproductiviteit",
+"Macro-economische balansvergelijking",
+"Afnemende meeropbrengsten",
 "Intermediair verbruik"
 ],
 "a": 0,
@@ -16478,9 +17333,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders.\"",
 "o": [
 "Brede welvaart",
+"Productiefunctie",
 "Economische groei",
-"Arbeidsproductiviteit",
-"Instituties"
+"Intermediair verbruik"
 ],
 "a": 0,
 "u": "Brede welvaart: Welvaart inclusief immateriële zaken zoals milieu, gezondheid, vrije tijd en verdeling, nu, later en elders."
@@ -16493,9 +17348,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen.\"",
 "o": [
 "Duurzame ontwikkeling",
-"Informele economie",
-"Bbp tegen marktprijzen",
-"Arbeidsproductiviteit"
+"Totale factorproductiviteit",
+"Intermediair verbruik",
+"Economische groei"
 ],
 "a": 0,
 "u": "Duurzame ontwikkeling: Ontwikkeling die voorziet in de behoeften van nu zonder die van toekomstige generaties in gevaar te brengen."
@@ -16508,9 +17363,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk.\"",
 "o": [
 "Wellbeing Indicator",
-"Economische groei",
-"Groen bbp",
-"Arbeidsproductiviteit"
+"Afnemende meeropbrengsten",
+"Loonkosten per product",
+"Duurzame ontwikkeling"
 ],
 "a": 0,
 "u": "Wellbeing Indicator: Brede welvaartsmaatstaf van de OESO die landen vergelijkt op onder meer inkomen, wonen, milieu en geluk."
@@ -16717,9 +17572,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid.\"",
 "o": [
 "Primair inkomen",
-"Heffingskorting",
-"Arbeidsinkomensquote",
-"Negatief vermogen"
+"Personele inkomensverdeling",
+"Degressieve belasting",
+"Deciel"
 ],
 "a": 0,
 "u": "Primair inkomen: Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid."
@@ -16732,9 +17587,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen.\"",
 "o": [
 "Secundair inkomen",
-"Personele inkomensverdeling",
+"Nivellering",
 "Negatieve inkomstenbelasting",
-"Gini-coëfficiënt"
+"Progressieve belasting"
 ],
 "a": 0,
 "u": "Secundair inkomen: Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen."
@@ -16747,9 +17602,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen.\"",
 "o": [
 "Tertiair inkomen",
-"Minimumloon",
-"Deciel",
-"Heffingskorting"
+"Gini-coëfficiënt",
+"Denivellering",
+"Arbeidsinkomensquote"
 ],
 "a": 0,
 "u": "Tertiair inkomen: Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen."
@@ -16763,8 +17618,8 @@ LEVELS.H.push(...[
 "o": [
 "Lorenzcurve",
 "Categorale inkomensverdeling",
-"Secundair inkomen",
-"Vlaktaks"
+"Vlaktaks",
+"Denivellering"
 ],
 "a": 0,
 "u": "Lorenzcurve: Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen."
@@ -16777,9 +17632,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve.\"",
 "o": [
 "Gini-coëfficiënt",
+"Primair inkomen",
 "Deciel",
-"Progressieve belasting",
-"Degressieve belasting"
+"Personele inkomensverdeling"
 ],
 "a": 0,
 "u": "Gini-coëfficiënt: Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve."
@@ -16792,8 +17647,8 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verdeling van het inkomen over personen of huishoudens.\"",
 "o": [
 "Personele inkomensverdeling",
-"Nivellering",
-"Vlaktaks",
+"Tertiair inkomen",
+"Gini-coëfficiënt",
 "Denivellering"
 ],
 "a": 0,
@@ -16807,8 +17662,8 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verdeling van het inkomen over arbeid en de andere productiefactoren.\"",
 "o": [
 "Categorale inkomensverdeling",
-"Vlaktaks",
-"Degressieve belasting",
+"Nivellering",
+"Negatief vermogen",
 "Heffingskorting"
 ],
 "a": 0,
@@ -16822,9 +17677,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het arbeidsinkomen als percentage van de toegevoegde waarde.\"",
 "o": [
 "Arbeidsinkomensquote",
-"Personele inkomensverdeling",
-"Minimumloon",
-"Primair inkomen"
+"Tertiair inkomen",
+"Heffingskorting",
+"Degressieve belasting"
 ],
 "a": 0,
 "u": "Arbeidsinkomensquote: Het arbeidsinkomen als percentage van de toegevoegde waarde."
@@ -16837,9 +17692,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen.\"",
 "o": [
 "Deciel",
-"Negatief vermogen",
-"Wet van Tinbergen",
-"Primair inkomen"
+"Denivellering",
+"Personele inkomensverdeling",
+"Secundair inkomen"
 ],
 "a": 0,
 "u": "Deciel: Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen."
@@ -16852,9 +17707,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een vijfde deel van een groep, gerangschikt van laag naar hoog inkomen.\"",
 "o": [
 "Kwintiel",
-"Categorale inkomensverdeling",
+"Heffingskorting",
 "Negatief vermogen",
-"Nivellering"
+"Denivellering"
 ],
 "a": 0,
 "u": "Kwintiel: Een vijfde deel van een groep, gerangschikt van laag naar hoog inkomen."
@@ -17023,9 +17878,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het kleiner worden van de relatieve inkomensverschillen.\"",
 "o": [
 "Nivellering",
-"Primair inkomen",
-"Wet van Tinbergen",
-"Arbeidsinkomensquote"
+"Categorale inkomensverdeling",
+"Secundair inkomen",
+"Negatief vermogen"
 ],
 "a": 0,
 "u": "Nivellering: Het kleiner worden van de relatieve inkomensverschillen."
@@ -17038,9 +17893,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het groter worden van de relatieve inkomensverschillen.\"",
 "o": [
 "Denivellering",
-"Nivellering",
-"Kwintiel",
-"Personele inkomensverdeling"
+"Categorale inkomensverdeling",
+"Personele inkomensverdeling",
+"Deciel"
 ],
 "a": 0,
 "u": "Denivellering: Het groter worden van de relatieve inkomensverschillen."
@@ -17053,9 +17908,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs.\"",
 "o": [
 "Wet van Tinbergen",
-"Nivellering",
-"Heffingskorting",
-"Arbeidsinkomensquote"
+"Gini-coëfficiënt",
+"Kwintiel",
+"Nivellering"
 ],
 "a": 0,
 "u": "Wet van Tinbergen: De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs."
@@ -17068,9 +17923,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een huishouden heeft meer schulden dan bezittingen.\"",
 "o": [
 "Negatief vermogen",
-"Primair inkomen",
-"Gini-coëfficiënt",
-"Wet van Tinbergen"
+"Heffingskorting",
+"Secundair inkomen",
+"Gini-coëfficiënt"
 ],
 "a": 0,
 "u": "Negatief vermogen: Een huishouden heeft meer schulden dan bezittingen."
@@ -17260,9 +18115,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt.\"",
 "o": [
 "Vlaktaks",
-"Degressieve belasting",
-"Deciel",
-"Nivellering"
+"Wet van Tinbergen",
+"Heffingskorting",
+"Categorale inkomensverdeling"
 ],
 "a": 0,
 "u": "Vlaktaks: Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt."
@@ -17275,9 +18130,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt.\"",
 "o": [
 "Progressieve belasting",
-"Wet van Tinbergen",
-"Negatieve inkomstenbelasting",
-"Primair inkomen"
+"Nivellering",
+"Tertiair inkomen",
+"Gini-coëfficiënt"
 ],
 "a": 0,
 "u": "Progressieve belasting: Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt."
@@ -17290,9 +18145,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt.\"",
 "o": [
 "Degressieve belasting",
-"Heffingskorting",
-"Gini-coëfficiënt",
-"Arbeidsinkomensquote"
+"Personele inkomensverdeling",
+"Nivellering",
+"Denivellering"
 ],
 "a": 0,
 "u": "Degressieve belasting: Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt."
@@ -17305,9 +18160,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen.\"",
 "o": [
 "Negatieve inkomstenbelasting",
-"Categorale inkomensverdeling",
-"Vlaktaks",
-"Denivellering"
+"Denivellering",
+"Kwintiel",
+"Heffingskorting"
 ],
 "a": 0,
 "u": "Negatieve inkomstenbelasting: Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen."
@@ -17320,9 +18175,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Bedrag dat van de te betalen belasting wordt afgetrokken.\"",
 "o": [
 "Heffingskorting",
-"Personele inkomensverdeling",
-"Deciel",
-"Nivellering"
+"Categorale inkomensverdeling",
+"Vlaktaks",
+"Wet van Tinbergen"
 ],
 "a": 0,
 "u": "Heffingskorting: Bedrag dat van de te betalen belasting wordt afgetrokken."
@@ -17335,9 +18190,9 @@ LEVELS.H.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het wettelijk laagste loon dat een werkgever mag betalen.\"",
 "o": [
 "Minimumloon",
-"Tertiair inkomen",
-"Gini-coëfficiënt",
-"Denivellering"
+"Negatieve inkomstenbelasting",
+"Degressieve belasting",
+"Personele inkomensverdeling"
 ],
 "a": 0,
 "u": "Minimumloon: Het wettelijk laagste loon dat een werkgever mag betalen."
@@ -17515,9 +18370,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verschil tussen de feitelijke productie en de potentiële productie.\"",
 "o": [
 "Output gap",
-"Marginale spaarquote",
-"Laagconjunctuur",
-"Hoogconjunctuur"
+"Uitverdieneffect",
+"Producentenvertrouwen",
+"Taylor-regel"
 ],
 "a": 0,
 "u": "Output gap: Het verschil tussen de feitelijke productie en de potentiële productie."
@@ -17530,9 +18385,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de feitelijke productie boven de potentiële productie ligt.\"",
 "o": [
 "Hoogconjunctuur",
-"Spaarlek",
-"IS-curve",
-"Conjuncturele werkloosheid"
+"Marginale consumptiequote",
+"Output gap",
+"Uitverdieneffect"
 ],
 "a": 0,
 "u": "Hoogconjunctuur: Periode waarin de feitelijke productie boven de potentiële productie ligt."
@@ -17545,9 +18400,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de feitelijke productie onder de potentiële productie ligt.\"",
 "o": [
 "Laagconjunctuur",
-"Consumentenvertrouwen",
-"Naïeve inflatieverwachting",
-"Recessie"
+"Trend",
+"Ingebouwde stabilisatoren",
+"Output gap"
 ],
 "a": 0,
 "u": "Laagconjunctuur: Periode waarin de feitelijke productie onder de potentiële productie ligt."
@@ -17560,9 +18415,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Periode waarin de economie krimpt.\"",
 "o": [
 "Recessie",
-"IS-curve",
-"Laagconjunctuur",
-"Effectieve vraag"
+"Multiplier",
+"Marginale spaarquote",
+"Output gap"
 ],
 "a": 0,
 "u": "Recessie: Periode waarin de economie krimpt."
@@ -17575,9 +18430,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie.\"",
 "o": [
 "Consumentenvertrouwen",
-"Belastinglek",
-"Recessie",
-"Marginale spaarquote"
+"Spaarlek",
+"Producentenvertrouwen",
+"IS-curve"
 ],
 "a": 0,
 "u": "Consumentenvertrouwen: Mate waarin consumenten optimistisch zijn over de economie en hun eigen financiële situatie."
@@ -17590,9 +18445,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mate waarin ondernemers optimistisch zijn over de afzet en de economie.\"",
 "o": [
 "Producentenvertrouwen",
-"Belastinglek",
-"Multiplier",
-"Conjuncturele werkloosheid"
+"Anticyclisch conjunctuurbeleid",
+"Uitverdieneffect",
+"Recessie"
 ],
 "a": 0,
 "u": "Producentenvertrouwen: Mate waarin ondernemers optimistisch zijn over de afzet en de economie."
@@ -17605,9 +18460,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De gemiddelde groei van het reële bbp over een lange periode.\"",
 "o": [
 "Trend",
-"Uitverdieneffect",
-"Hoogconjunctuur",
-"Ingebouwde stabilisatoren"
+"Output gap",
+"Ingebouwde stabilisatoren",
+"Uitverdieneffect"
 ],
 "a": 0,
 "u": "Trend: De gemiddelde groei van het reële bbp over een lange periode."
@@ -17773,8 +18628,8 @@ LEVELS.I.push(...[
 "o": [
 "Effectieve vraag",
 "Uitverdieneffect",
-"Naïeve inflatieverwachting",
-"Ingebouwde stabilisatoren"
+"Producentenvertrouwen",
+"IS-curve"
 ],
 "a": 0,
 "u": "Effectieve vraag: De totale vraag naar goederen en diensten zoals die blijkt uit de bestedingen."
@@ -17788,8 +18643,8 @@ LEVELS.I.push(...[
 "o": [
 "Marginale consumptiequote",
 "Recessie",
-"Hoogconjunctuur",
-"IS-curve"
+"Naïeve inflatieverwachting",
+"Consumentenvertrouwen"
 ],
 "a": 0,
 "u": "Marginale consumptiequote: Het deel van een extra euro besteedbaar inkomen dat wordt uitgegeven aan consumptie."
@@ -17802,9 +18657,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra euro besteedbaar inkomen dat wordt gespaard.\"",
 "o": [
 "Marginale spaarquote",
-"Belastinglek",
-"Naïeve inflatieverwachting",
-"Spaarlek"
+"Conjuncturele werkloosheid",
+"Effectieve vraag",
+"Multiplier"
 ],
 "a": 0,
 "u": "Marginale spaarquote: Het deel van een extra euro besteedbaar inkomen dat wordt gespaard."
@@ -17817,9 +18672,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost.\"",
 "o": [
 "Multiplier",
-"Hoogconjunctuur",
-"Naïeve inflatieverwachting",
-"Marginale spaarquote"
+"Output gap",
+"Marginale spaarquote",
+"Conjuncturele werkloosheid"
 ],
 "a": 0,
 "u": "Multiplier: De factor waarmee het evenwichtsinkomen verandert bij een verandering van een autonome bestedingspost."
@@ -17832,9 +18687,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen.\"",
 "o": [
 "Spaarlek",
-"Consumentenvertrouwen",
-"Effectieve vraag",
-"Ingebouwde stabilisatoren"
+"Output gap",
+"Recessie",
+"Trend"
 ],
 "a": 0,
 "u": "Spaarlek: Het deel van een extra inkomen dat wordt gespaard en dus niet terugvloeit in de bestedingen."
@@ -17847,9 +18702,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een extra inkomen dat naar de overheid gaat als belasting.\"",
 "o": [
 "Belastinglek",
-"Ingebouwde stabilisatoren",
 "Conjuncturele werkloosheid",
-"Taylor-regel"
+"Uitverdieneffect",
+"Hoogconjunctuur"
 ],
 "a": 0,
 "u": "Belastinglek: Het deel van een extra inkomen dat naar de overheid gaat als belasting."
@@ -17986,9 +18841,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag.\"",
 "o": [
 "IS-curve",
-"Belastinglek",
+"Conjuncturele werkloosheid",
 "Multiplier",
-"Consumentenvertrouwen"
+"Taylor-regel"
 ],
 "a": 0,
 "u": "IS-curve: Het verband tussen de rente en het evenwichtsinkomen waarbij de productie gelijk is aan de effectieve vraag."
@@ -18001,9 +18856,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap.\"",
 "o": [
 "Taylor-regel",
-"Multiplier",
-"Producentenvertrouwen",
-"Laagconjunctuur"
+"Conjuncturele werkloosheid",
+"Belastinglek",
+"Spaarlek"
 ],
 "a": 0,
 "u": "Taylor-regel: Vuistregel waarmee een centrale bank de rente afstemt op de inflatie en de output gap."
@@ -18016,9 +18871,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De verwachting dat de inflatie gelijk blijft aan die van de vorige periode.\"",
 "o": [
 "Naïeve inflatieverwachting",
-"Output gap",
-"Laagconjunctuur",
-"Ingebouwde stabilisatoren"
+"Multiplier",
+"Effectieve vraag",
+"Anticyclisch conjunctuurbeleid"
 ],
 "a": 0,
 "u": "Naïeve inflatieverwachting: De verwachting dat de inflatie gelijk blijft aan die van de vorige periode."
@@ -18115,9 +18970,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur.\"",
 "o": [
 "Anticyclisch conjunctuurbeleid",
-"Recessie",
-"Producentenvertrouwen",
-"Output gap"
+"Consumentenvertrouwen",
+"Effectieve vraag",
+"Inverdieneffect"
 ],
 "a": 0,
 "u": "Anticyclisch conjunctuurbeleid: Beleid dat de economie stimuleert in laagconjunctuur en afremt in hoogconjunctuur."
@@ -18130,9 +18985,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen.\"",
 "o": [
 "Ingebouwde stabilisatoren",
-"Producentenvertrouwen",
-"Spaarlek",
-"Uitverdieneffect"
+"Effectieve vraag",
+"Recessie",
+"Marginale consumptiequote"
 ],
 "a": 0,
 "u": "Ingebouwde stabilisatoren: Overheidsinkomsten en -uitgaven die automatisch tegen de conjunctuur in bewegen, zoals uitkeringen."
@@ -18146,8 +19001,8 @@ LEVELS.I.push(...[
 "o": [
 "Inverdieneffect",
 "Hoogconjunctuur",
-"Anticyclisch conjunctuurbeleid",
-"Trend"
+"Ingebouwde stabilisatoren",
+"Conjuncturele werkloosheid"
 ],
 "a": 0,
 "u": "Inverdieneffect: Het deel van extra overheidsuitgaven dat terugkomt via hogere belastingen en lagere uitkeringen."
@@ -18160,9 +19015,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt.\"",
 "o": [
 "Uitverdieneffect",
-"Trend",
-"Producentenvertrouwen",
-"Output gap"
+"Marginale spaarquote",
+"Inverdieneffect",
+"Hoogconjunctuur"
 ],
 "a": 0,
 "u": "Uitverdieneffect: Het deel van een bezuiniging dat verloren gaat doordat de economie krimpt."
@@ -18175,9 +19030,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit.\"",
 "o": [
 "Conjuncturele werkloosheid",
-"Laagconjunctuur",
-"Recessie",
-"Trend"
+"Multiplier",
+"Marginale consumptiequote",
+"Recessie"
 ],
 "a": 0,
 "u": "Conjuncturele werkloosheid: Werkloosheid doordat de effectieve vraag tekortschiet bij de bestaande productiecapaciteit."
@@ -18293,9 +19148,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn.\"",
 "o": [
 "Beroepsbevolking",
-"Verborgen werkloosheid",
 "Arbeidsmarkt",
-"Vacatures"
+"Frictiewerkloosheid",
+"Loonstarheid"
 ],
 "a": 0,
 "u": "Beroepsbevolking: Alle mensen van 15 tot 75 jaar die betaald werken of recent werk zoeken en direct beschikbaar zijn."
@@ -18309,8 +19164,8 @@ LEVELS.I.push(...[
 "o": [
 "Werkgelegenheid",
 "Kwalitatieve structurele werkloosheid",
-"Gespannen arbeidsmarkt",
-"Arbeidsjaar"
+"Beroepsbevolking",
+"Loonstarheid"
 ],
 "a": 0,
 "u": "Werkgelegenheid: De vraag naar arbeid: het aantal bezette banen plus de vacatures."
@@ -18323,9 +19178,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen die werk willen maar niet als werkzoekend staan geregistreerd.\"",
 "o": [
 "Verborgen werkloosheid",
-"Arbeidsjaar",
-"Arbeidsmarkt",
-"Frictiewerkloosheid"
+"Bruto arbeidsparticipatie",
+"Loonstarheid",
+"Kwantitatieve structurele werkloosheid"
 ],
 "a": 0,
 "u": "Verborgen werkloosheid: Mensen die werk willen maar niet als werkzoekend staan geregistreerd."
@@ -18338,9 +19193,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De beroepsbevolking als percentage van de beroepsgeschikte bevolking.\"",
 "o": [
 "Bruto arbeidsparticipatie",
-"Kwantitatieve structurele werkloosheid",
+"Frictiewerkloosheid",
 "Kwalitatieve structurele werkloosheid",
-"Arbeidsjaar"
+"Verborgen werkloosheid"
 ],
 "a": 0,
 "u": "Bruto arbeidsparticipatie: De beroepsbevolking als percentage van de beroepsgeschikte bevolking."
@@ -18353,9 +19208,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar.\"",
 "o": [
 "Arbeidsjaar",
-"Vacatures",
-"Kwantitatieve structurele werkloosheid",
-"Loonstarheid"
+"Arbeidsaanbod",
+"Bruto arbeidsparticipatie",
+"Beroepsbevolking"
 ],
 "a": 0,
 "u": "Arbeidsjaar: Maatstaf voor het arbeidsvolume: de arbeid in een voltijdbaan gedurende een jaar."
@@ -18368,9 +19223,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is.\"",
 "o": [
 "Ontmoedigingseffect",
-"Loonstarheid",
-"Seizoenswerkloosheid",
-"Arbeidsaanbod"
+"Kwalitatieve structurele werkloosheid",
+"Beroepsbevolking",
+"Seizoenswerkloosheid"
 ],
 "a": 0,
 "u": "Ontmoedigingseffect: Mensen trekken zich terug van de arbeidsmarkt omdat de kans op werk klein is."
@@ -18469,9 +19324,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures.\"",
 "o": [
 "Kwalitatieve structurele werkloosheid",
-"Arbeidsaanbod",
+"Bruto arbeidsparticipatie",
 "Ontmoedigingseffect",
-"Arbeidsmarkt"
+"Frictiewerkloosheid"
 ],
 "a": 0,
 "u": "Kwalitatieve structurele werkloosheid: Werkloosheid doordat de kenmerken van werkzoekenden niet passen bij de vacatures."
@@ -18484,9 +19339,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn.\"",
 "o": [
 "Kwantitatieve structurele werkloosheid",
-"Arbeidsjaar",
-"Seizoenswerkloosheid",
-"Frictiewerkloosheid"
+"Werkgelegenheid",
+"Gespannen arbeidsmarkt",
+"Arbeidsmarkt"
 ],
 "a": 0,
 "u": "Kwantitatieve structurele werkloosheid: Werkloosheid doordat er structureel te weinig arbeidsplaatsen zijn."
@@ -18500,8 +19355,8 @@ LEVELS.I.push(...[
 "o": [
 "Frictiewerkloosheid",
 "Vacatures",
-"Seizoenswerkloosheid",
-"Loonstarheid"
+"Werkgelegenheid",
+"Bruto arbeidsparticipatie"
 ],
 "a": 0,
 "u": "Frictiewerkloosheid: Werkloosheid door de zoektijd tussen het verlaten van de ene en het vinden van de volgende baan."
@@ -18515,8 +19370,8 @@ LEVELS.I.push(...[
 "o": [
 "Seizoenswerkloosheid",
 "Arbeidsjaar",
-"Arbeidsaanbod",
-"Vacatures"
+"Vacatures",
+"Kwantitatieve structurele werkloosheid"
 ],
 "a": 0,
 "u": "Seizoenswerkloosheid: Werkloosheid door seizoensschommelingen in de bedrijvigheid."
@@ -18529,9 +19384,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie.\"",
 "o": [
 "Natuurlijke werkloosheid",
-"Kwantitatieve structurele werkloosheid",
-"Gespannen arbeidsmarkt",
-"Ontmoedigingseffect"
+"Arbeidsaanbod",
+"Ontmoedigingseffect",
+"Frictiewerkloosheid"
 ],
 "a": 0,
 "u": "Natuurlijke werkloosheid: De werkloosheid die overblijft als de productie gelijk is aan de potentiële productie."
@@ -18642,9 +19497,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod.\"",
 "o": [
 "Gespannen arbeidsmarkt",
-"Verborgen werkloosheid",
-"Beroepsbevolking",
-"Arbeidsaanbod"
+"Werkgelegenheid",
+"Loonstarheid",
+"Natuurlijke werkloosheid"
 ],
 "a": 0,
 "u": "Gespannen arbeidsmarkt: Arbeidsmarkt waarop de vraag naar arbeid groter is dan het aanbod."
@@ -18657,9 +19512,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Openstaande banen waarvoor werkgevers personeel zoeken.\"",
 "o": [
 "Vacatures",
-"Verborgen werkloosheid",
-"Arbeidsjaar",
-"Loonstarheid"
+"Kwantitatieve structurele werkloosheid",
+"Loonstarheid",
+"Ontmoedigingseffect"
 ],
 "a": 0,
 "u": "Vacatures: Openstaande banen waarvoor werkgevers personeel zoeken."
@@ -18672,9 +19527,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De totale vraag naar en het totale aanbod van arbeid.\"",
 "o": [
 "Arbeidsmarkt",
-"Seizoenswerkloosheid",
 "Werkgelegenheid",
-"Arbeidsjaar"
+"Arbeidsjaar",
+"Frictiewerkloosheid"
 ],
 "a": 0,
 "u": "Arbeidsmarkt: De totale vraag naar en het totale aanbod van arbeid."
@@ -18687,9 +19542,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.\"",
 "o": [
 "Loonstarheid",
-"Beroepsbevolking",
-"Arbeidsmarkt",
-"Kwalitatieve structurele werkloosheid"
+"Kwantitatieve structurele werkloosheid",
+"Ontmoedigingseffect",
+"Gespannen arbeidsmarkt"
 ],
 "a": 0,
 "u": "Loonstarheid: Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden."
@@ -18702,9 +19557,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De hoeveelheid arbeid die mensen willen en kunnen verrichten.\"",
 "o": [
 "Arbeidsaanbod",
-"Frictiewerkloosheid",
+"Seizoenswerkloosheid",
 "Vacatures",
-"Verborgen werkloosheid"
+"Gespannen arbeidsmarkt"
 ],
 "a": 0,
 "u": "Arbeidsaanbod: De hoeveelheid arbeid die mensen willen en kunnen verrichten."
@@ -18818,9 +19673,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen.\"",
 "o": [
 "Consumentenprijsindex",
-"Geïmporteerde inflatie",
-"Kosteninflatie",
-"Depositogarantiestelsel"
+"Liquiditeit",
+"Quantitative easing",
+"Partiële prijsindex"
 ],
 "a": 0,
 "u": "Consumentenprijsindex: Indexcijfer dat de gemiddelde prijsontwikkeling weergeeft van wat consumenten kopen."
@@ -18833,9 +19688,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Prijsindexcijfer van één productgroep.\"",
 "o": [
 "Partiële prijsindex",
-"Monetair beleid",
-"Kosteninflatie",
-"Geldschepping"
+"Zero lower bound",
+"Geldillusie",
+"Monetair beleid"
 ],
 "a": 0,
 "u": "Partiële prijsindex: Prijsindexcijfer van één productgroep."
@@ -18849,7 +19704,7 @@ LEVELS.I.push(...[
 "o": [
 "Deflatie",
 "Monetair beleid",
-"Liquiditeit",
+"Depositogarantiestelsel",
 "Secundaire liquiditeiten"
 ],
 "a": 0,
@@ -18863,9 +19718,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft.\"",
 "o": [
 "Waardevast inkomen",
-"Geldillusie",
-"Kosteninflatie",
-"Wederzijdse schuldaanvaarding"
+"Kasreserveregeling",
+"Geldschepping",
+"Consumentenprijsindex"
 ],
 "a": 0,
 "u": "Waardevast inkomen: Een inkomen dat meestijgt met de prijzen, zodat de koopkracht gelijk blijft."
@@ -18878,8 +19733,8 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een inkomen dat meestijgt met de lonen.\"",
 "o": [
 "Welvaartsvast inkomen",
-"Secundaire liquiditeiten",
-"Geïmporteerde inflatie",
+"Liquiditeit",
+"Waardevast inkomen",
 "Kosteninflatie"
 ],
 "a": 0,
@@ -18893,9 +19748,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Letten op het nominale bedrag in plaats van op de koopkracht.\"",
 "o": [
 "Geldillusie",
-"Wederzijdse schuldaanvaarding",
-"Kosteninflatie",
-"Monetair beleid"
+"Maatschappelijke geldhoeveelheid",
+"Monetair beleid",
+"Bestedingsinflatie"
 ],
 "a": 0,
 "u": "Geldillusie: Letten op het nominale bedrag in plaats van op de koopkracht."
@@ -18981,9 +19836,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit.\"",
 "o": [
 "Bestedingsinflatie",
-"Partiële prijsindex",
 "Deflatie",
-"Kasreserveregeling"
+"Kosteninflatie",
+"Geldschepping"
 ],
 "a": 0,
 "u": "Bestedingsinflatie: Inflatie doordat de bestedingen groter zijn dan de productiecapaciteit."
@@ -18996,9 +19851,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen.\"",
 "o": [
 "Kosteninflatie",
-"Geldschepping",
-"Quantitative easing",
-"Zero lower bound"
+"Maatschappelijke geldhoeveelheid",
+"Reële rente",
+"Welvaartsvast inkomen"
 ],
 "a": 0,
 "u": "Kosteninflatie: Inflatie doordat de productiekosten stijgen en worden doorberekend in de prijzen."
@@ -19011,9 +19866,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Inflatie doordat ingevoerde goederen, zoals energie, duurder worden.\"",
 "o": [
 "Geïmporteerde inflatie",
-"Liquiditeit",
-"Monetair beleid",
-"Quantitative easing"
+"Wederzijdse schuldaanvaarding",
+"Partiële prijsindex",
+"Consumentenprijsindex"
 ],
 "a": 0,
 "u": "Geïmporteerde inflatie: Inflatie doordat ingevoerde goederen, zoals energie, duurder worden."
@@ -19131,9 +19986,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Chartaal geld plus giraal geld in handen van het publiek.\"",
 "o": [
 "Maatschappelijke geldhoeveelheid",
-"Geldschepping",
-"Kosteninflatie",
-"Depositogarantiestelsel"
+"Geldillusie",
+"Waardevast inkomen",
+"Kasreserveregeling"
 ],
 "a": 0,
 "u": "Maatschappelijke geldhoeveelheid: Chartaal geld plus giraal geld in handen van het publiek."
@@ -19146,9 +20001,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten.\"",
 "o": [
 "Secundaire liquiditeiten",
-"Wederzijdse schuldaanvaarding",
 "Consumentenprijsindex",
-"Monetair beleid"
+"Bestedingsinflatie",
+"Zero lower bound"
 ],
 "a": 0,
 "u": "Secundaire liquiditeiten: Tegoeden waarmee je niet direct kunt betalen maar die snel in geld zijn om te zetten."
@@ -19161,9 +20016,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt.\"",
 "o": [
 "Geldschepping",
-"Secundaire liquiditeiten",
-"Welvaartsvast inkomen",
-"Wederzijdse schuldaanvaarding"
+"Bestedingsinflatie",
+"Partiële prijsindex",
+"Maatschappelijke geldhoeveelheid"
 ],
 "a": 0,
 "u": "Geldschepping: Het ontstaan van nieuw geld, waardoor de geldhoeveelheid toeneemt."
@@ -19176,9 +20031,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat.\"",
 "o": [
 "Wederzijdse schuldaanvaarding",
-"Zero lower bound",
 "Depositogarantiestelsel",
-"Kosteninflatie"
+"Waardevast inkomen",
+"Monetair beleid"
 ],
 "a": 0,
 "u": "Wederzijdse schuldaanvaarding: Een bank verstrekt een lening en zet het bedrag op de rekening van de klant, waardoor nieuw geld ontstaat."
@@ -19192,8 +20047,8 @@ LEVELS.I.push(...[
 "o": [
 "Liquiditeit",
 "Welvaartsvast inkomen",
-"Quantitative easing",
-"Partiële prijsindex"
+"Kasreserveregeling",
+"Reële rente"
 ],
 "a": 0,
 "u": "Liquiditeit: De mate waarin een bank of bedrijf kan voldoen aan kortlopende verplichtingen."
@@ -19206,9 +20061,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt.\"",
 "o": [
 "Depositogarantiestelsel",
-"Liquiditeit",
-"Quantitative easing",
-"Partiële prijsindex"
+"Zero lower bound",
+"Maatschappelijke geldhoeveelheid",
+"Geldschepping"
 ],
 "a": 0,
 "u": "Depositogarantiestelsel: Regeling die spaartegoeden bij een failliete bank tot een bepaald bedrag vergoedt."
@@ -19305,9 +20160,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden.\"",
 "o": [
 "Monetair beleid",
-"Zero lower bound",
-"Geldillusie",
-"Partiële prijsindex"
+"Geïmporteerde inflatie",
+"Partiële prijsindex",
+"Waardevast inkomen"
 ],
 "a": 0,
 "u": "Monetair beleid: Beleid van de centrale bank om via de rente en de geldhoeveelheid de inflatie te beïnvloeden."
@@ -19320,9 +20175,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank.\"",
 "o": [
 "Kasreserveregeling",
-"Monetair beleid",
-"Deflatie",
-"Secundaire liquiditeiten"
+"Geldschepping",
+"Geldillusie",
+"Bestedingsinflatie"
 ],
 "a": 0,
 "u": "Kasreserveregeling: Verplichting voor banken om een deel van hun tegoeden aan te houden bij de centrale bank."
@@ -19336,8 +20191,8 @@ LEVELS.I.push(...[
 "o": [
 "Quantitative easing",
 "Kasreserveregeling",
-"Geldschepping",
-"Consumentenprijsindex"
+"Geldillusie",
+"Secundaire liquiditeiten"
 ],
 "a": 0,
 "u": "Quantitative easing: De centrale bank koopt op grote schaal obligaties op om de rente te verlagen en de economie te stimuleren."
@@ -19350,9 +20205,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen.\"",
 "o": [
 "Zero lower bound",
-"Liquiditeit",
-"Waardevast inkomen",
-"Kosteninflatie"
+"Depositogarantiestelsel",
+"Deflatie",
+"Geldillusie"
 ],
 "a": 0,
 "u": "Zero lower bound: De ondergrens van ongeveer 0% waaronder de rente nauwelijks kan dalen."
@@ -19365,9 +20220,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De nominale rente gecorrigeerd voor inflatie.\"",
 "o": [
 "Reële rente",
-"Liquiditeit",
-"Maatschappelijke geldhoeveelheid",
-"Bestedingsinflatie"
+"Kosteninflatie",
+"Partiële prijsindex",
+"Zero lower bound"
 ],
 "a": 0,
 "u": "Reële rente: De nominale rente gecorrigeerd voor inflatie."
@@ -19466,9 +20321,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overzicht van alle geldstromen tussen een land en het buitenland in een periode.\"",
 "o": [
 "Betalingsbalans",
+"Appreciatie",
 "Comparatief voordeel",
-"Financiële rekening",
-"Depreciatie"
+"Monetaire unie"
 ],
 "a": 0,
 "u": "Betalingsbalans: Overzicht van alle geldstromen tussen een land en het buitenland in een periode."
@@ -19481,9 +20336,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten.\"",
 "o": [
 "Lopende rekening",
-"Monetaire unie",
-"Revaluatie",
-"Douane-unie"
+"Trilemma",
+"Vrijhandelszone",
+"Convergentiecriteria"
 ],
 "a": 0,
 "u": "Lopende rekening: Deel van de betalingsbalans met goederen, diensten, primaire inkomens en inkomensoverdrachten."
@@ -19496,8 +20351,8 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Deel van de betalingsbalans met investeringen, effecten, kredieten en vermogensoverdrachten.\"",
 "o": [
 "Financiële rekening",
-"Vrijhandelszone",
-"Offshoring",
+"Devaluatie",
+"Appreciatie",
 "Comparatief voordeel"
 ],
 "a": 0,
@@ -19511,9 +20366,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad.\"",
 "o": [
 "Wederuitvoer",
-"Convergentiecriteria",
-"Protectie",
-"Douane-unie"
+"Betalingsbalans",
+"Trilemma",
+"Appreciatie"
 ],
 "a": 0,
 "u": "Wederuitvoer: Export van ingevoerde goederen die in het land geen of weinig bewerking hebben gehad."
@@ -19526,9 +20381,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat.\"",
 "o": [
 "Inkomensoverdrachten",
-"Betalingsbalans",
-"Appreciatie",
-"Wederuitvoer"
+"Offshoring",
+"Depreciatie",
+"Douane-unie"
 ],
 "a": 0,
 "u": "Inkomensoverdrachten: Betalingen aan of van het buitenland waar geen tegenprestatie tegenover staat."
@@ -19679,9 +20534,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie.\"",
 "o": [
 "Protectie",
-"Appreciatie",
-"Lopende rekening",
-"Gemeenschappelijke markt"
+"Depreciatie",
+"Betalingsbalans",
+"Contingentering"
 ],
 "a": 0,
 "u": "Protectie: Overheidsmaatregelen die de eigen productie beschermen tegen buitenlandse concurrentie."
@@ -19694,9 +20549,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie.\"",
 "o": [
 "Opvoedingsargument",
-"Contingentering",
-"Trilemma",
-"Lopende rekening"
+"Appreciatie",
+"Vrijhandelszone",
+"Devaluatie"
 ],
 "a": 0,
 "u": "Opvoedingsargument: Een jonge bedrijfstak tijdelijk beschermen tot die sterk genoeg is voor internationale concurrentie."
@@ -19709,9 +20564,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het beperken van de invoer tot een maximale hoeveelheid.\"",
 "o": [
 "Contingentering",
-"Vrijhandelszone",
-"Financiële rekening",
-"Opvoedingsargument"
+"Depreciatie",
+"Opvoedingsargument",
+"Douane-unie"
 ],
 "a": 0,
 "u": "Contingentering: Het beperken van de invoer tot een maximale hoeveelheid."
@@ -19724,9 +20579,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Het verplaatsen van bedrijfsactiviteiten naar het buitenland.\"",
 "o": [
 "Offshoring",
+"Trilemma",
 "Wederuitvoer",
-"Gemeenschappelijke markt",
-"Convergentiecriteria"
+"Opvoedingsargument"
 ],
 "a": 0,
 "u": "Offshoring: Het verplaatsen van bedrijfsactiviteiten naar het buitenland."
@@ -19739,9 +20594,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een land kan een product met relatief minder opofferingen maken dan een ander land.\"",
 "o": [
 "Comparatief voordeel",
-"Douane-unie",
-"Monetaire unie",
-"Revaluatie"
+"Devaluatie",
+"Trilemma",
+"Inkomensoverdrachten"
 ],
 "a": 0,
 "u": "Comparatief voordeel: Een land kan een product met relatief minder opofferingen maken dan een ander land."
@@ -19894,9 +20749,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een waardestijging van een munt door veranderingen in vraag en aanbod.\"",
 "o": [
 "Appreciatie",
-"Devaluatie",
-"Depreciatie",
-"Betalingsbalans"
+"Contingentering",
+"Inkomensoverdrachten",
+"Comparatief voordeel"
 ],
 "a": 0,
 "u": "Appreciatie: Een waardestijging van een munt door veranderingen in vraag en aanbod."
@@ -19909,9 +20764,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een waardedaling van een munt door veranderingen in vraag en aanbod.\"",
 "o": [
 "Depreciatie",
-"Financiële rekening",
-"Convergentiecriteria",
-"Protectie"
+"Revaluatie",
+"Vrijhandelszone",
+"Appreciatie"
 ],
 "a": 0,
 "u": "Depreciatie: Een waardedaling van een munt door veranderingen in vraag en aanbod."
@@ -19924,9 +20779,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen.\"",
 "o": [
 "Devaluatie",
-"Contingentering",
-"Comparatief voordeel",
-"Convergentiecriteria"
+"Offshoring",
+"Opvoedingsargument",
+"Protectie"
 ],
 "a": 0,
 "u": "Devaluatie: Een officiële verlaging van de waarde van een munt in een stelsel van vaste koersen."
@@ -19939,9 +20794,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen.\"",
 "o": [
 "Revaluatie",
-"Financiële rekening",
-"Monetaire unie",
-"Wederuitvoer"
+"Comparatief voordeel",
+"Opvoedingsargument",
+"Depreciatie"
 ],
 "a": 0,
 "u": "Revaluatie: Een officiële verhoging van de waarde van een munt in een stelsel van vaste koersen."
@@ -19954,9 +20809,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben.\"",
 "o": [
 "Trilemma",
-"Appreciatie",
-"Betalingsbalans",
-"Lopende rekening"
+"Douane-unie",
+"Contingentering",
+"Financiële rekening"
 ],
 "a": 0,
 "u": "Trilemma: Een land kan niet tegelijk een vaste wisselkoers, eigen monetair beleid en vrij kapitaalverkeer hebben."
@@ -20082,9 +20937,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief.\"",
 "o": [
 "Douane-unie",
-"Wederuitvoer",
-"Protectie",
-"Trilemma"
+"Financiële rekening",
+"Betalingsbalans",
+"Contingentering"
 ],
 "a": 0,
 "u": "Douane-unie: Samenwerking zonder onderlinge invoerrechten en met een gemeenschappelijk buitentarief."
@@ -20097,9 +20952,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarin de landen één munt en één centrale bank hebben.\"",
 "o": [
 "Monetaire unie",
-"Revaluatie",
-"Douane-unie",
-"Depreciatie"
+"Inkomensoverdrachten",
+"Financiële rekening",
+"Betalingsbalans"
 ],
 "a": 0,
 "u": "Monetaire unie: Samenwerking waarin de landen één munt en één centrale bank hebben."
@@ -20112,9 +20967,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"De eisen waaraan een land moet voldoen om de euro in te voeren.\"",
 "o": [
 "Convergentiecriteria",
-"Appreciatie",
-"Betalingsbalans",
-"Vrijhandelszone"
+"Gemeenschappelijke markt",
+"Vrijhandelszone",
+"Opvoedingsargument"
 ],
 "a": 0,
 "u": "Convergentiecriteria: De eisen waaraan een land moet voldoen om de euro in te voeren."
@@ -20127,9 +20982,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Samenwerking waarin de landen onderling geen invoerrechten heffen.\"",
 "o": [
 "Vrijhandelszone",
-"Trilemma",
-"Appreciatie",
-"Monetaire unie"
+"Revaluatie",
+"Financiële rekening",
+"Gemeenschappelijke markt"
 ],
 "a": 0,
 "u": "Vrijhandelszone: Samenwerking waarin de landen onderling geen invoerrechten heffen."
@@ -20142,9 +20997,9 @@ LEVELS.I.push(...[
 "q": "Welk begrip hoort bij deze omschrijving?\n\"Douane-unie met ook vrij verkeer van arbeid en kapitaal.\"",
 "o": [
 "Gemeenschappelijke markt",
-"Depreciatie",
-"Financiële rekening",
-"Wederuitvoer"
+"Devaluatie",
+"Comparatief voordeel",
+"Appreciatie"
 ],
 "a": 0,
 "u": "Gemeenschappelijke markt: Douane-unie met ook vrij verkeer van arbeid en kapitaal."
@@ -20164,6 +21019,7 @@ LEVELS.I.push(...[
 ]
 }
 ]);
+LEVELS.B.begrippen = Object.assign(LEVELS.B.begrippen||{}, {"Nominaal inkomen": "Het inkomen in euro's, niet gecorrigeerd voor prijsveranderingen.", "Reëel inkomen": "Het nominale inkomen gecorrigeerd voor de stijging van het prijspeil: de koopkracht.", "Schaarste": "De spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen.", "Vrij goed": "Goed dat onbeperkt beschikbaar is zonder dat er middelen voor worden opgeofferd, zoals zonlicht.", "Economisch goed": "Goed of dienst waarvoor schaarste geldt.", "Welvaart": "De mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen.", "Alternatief aanwendbaar": "Middelen kunnen voor verschillende doelen worden gebruikt; gebruik voor het ene doel gaat ten koste van het andere.", "Budgetlijn": "Lijn met alle combinaties van twee goederen die je met je budget maximaal kunt kopen.", "Opofferingskosten": "De waarde van het beste alternatief dat je laat schieten bij een keuze.", "Arbeidsdeling": "Het verdelen van productietaken over mensen, bedrijven of landen (specialisatie).", "Arbeidsproductiviteit": "De productie per werknemer per tijdseenheid.", "Bedrijfskolom": "De reeks bedrijven die elkaar opvolgen van oerproducent tot detailhandel.", "Bedrijfstak": "Alle bedrijven in dezelfde fase van de productie die soortgelijke producten maken.", "Differentiatie": "Het opsplitsen van een fase in de bedrijfskolom in meer gespecialiseerde bedrijven.", "Transactiekosten": "De extra kosten in tijd en geld om een ruil voor te bereiden, tot stand te brengen en af te wikkelen.", "Eigendomsrecht": "Het recht om over een goed te beschikken, het te gebruiken en te verkopen.", "Directe ruil": "Goederen en diensten rechtstreeks ruilen tegen andere goederen en diensten, zonder geld.", "Indirecte ruil": "Ruilen via geld: eerst verkopen voor geld, daarna met dat geld iets anders kopen.", "Geld": "Alles wat algemeen wordt aanvaard als ruilmiddel.", "Intrinsieke waarde": "De materiaalwaarde van een munt of bankbiljet.", "Fiduciair geld": "Geld waarvan de nominale waarde hoger is dan de intrinsieke waarde en dat draait op vertrouwen.", "Wet van Gresham": "Slecht geld (lage intrinsieke waarde) verdrijft goed geld uit de omloop.", "Chartaal geld": "Munten en bankbiljetten.", "Giraal geld": "Direct opeisbare tegoeden op betaalrekeningen bij banken.", "Maatschappelijke geldhoeveelheid": "Al het chartale en girale geld in handen van het publiek, dus zonder banken en het Rijk."});
 LEVELS.D.begrippen = Object.assign(LEVELS.D.begrippen||{}, {"Betalingsbereidheid": "Het hoogste bedrag dat een consument voor een product wil betalen.", "Consumentensurplus": "Het verschil tussen wat consumenten maximaal willen betalen en wat ze werkelijk betalen.", "Vraaglijn": "Lijn die het verband weergeeft tussen de prijs van een product en de gevraagde hoeveelheid.", "Afzet": "De hoeveelheid verkochte producten in een bepaalde periode.", "Substitutiegoederen": "Goederen die elkaar volgens de consument kunnen vervangen.", "Complementaire goederen": "Goederen die elkaar aanvullen en vaak samen worden gebruikt.", "Ceteris paribus": "De aanname dat alle andere factoren gelijk blijven.", "Prijselasticiteit van de vraag": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van de prijs.", "Prijsinelastische vraag": "Vraag waarbij de gevraagde hoeveelheid procentueel minder verandert dan de prijs.", "Omzet": "Het totale geldbedrag dat de verkochte producten opleveren: prijs × afzet.", "Inkomenselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid gedeeld door de procentuele verandering van het inkomen.", "Inferieur goed": "Goed waarvan je minder koopt als je inkomen stijgt (inkomenselasticiteit kleiner dan 0).", "Luxe goed": "Goed met een inkomenselasticiteit groter dan 1.", "Noodzakelijk goed": "Goed met een inkomenselasticiteit tussen 0 en 1.", "Constante kosten": "Kosten die niet veranderen als de productie toeneemt of afneemt.", "Variabele kosten": "Kosten die meeveranderen met de omvang van de productie.", "Marginale kosten": "De extra kosten van het produceren van één product meer.", "Marginale opbrengst": "De extra opbrengst van het verkopen van één product meer.", "Gemiddelde totale kosten": "De totale kosten gedeeld door de geproduceerde hoeveelheid.", "Consumentenprijs": "De verkoopprijs inclusief btw en andere prijsverhogende belastingen.", "Break-evenafzet": "De afzet waarbij de totale opbrengst precies gelijk is aan de totale kosten.", "Break-evenomzet": "De omzet die hoort bij de break-evenafzet.", "Dekkingsbijdrage": "Prijs min gemiddelde variabele kosten: wat elk product bijdraagt aan het dekken van de constante kosten.", "Totale winst": "Totale opbrengst min totale kosten.", "Marginale winst": "De verandering van de totale winst bij één product meer: MO − MK.", "Gemiddelde winst": "De winst per product: gemiddelde opbrengst min gemiddelde totale kosten.", "Producentensurplus": "Het verschil tussen de marktprijs en de prijs waarvoor producenten minimaal willen verkopen.", "Verkoopbereidheid": "De laagste prijs waarvoor een producent een product wil verkopen.", "Collectieve aanbodlijn": "Lijn die weergeeft hoeveel alle aanbieders samen bij elke prijs willen aanbieden.", "Volledige mededinging": "Marktvorm met veel vragers en veel aanbieders van homogene producten op een volkomen en vrije markt.", "Homogene producten": "Producten die in de ogen van de koper precies hetzelfde zijn.", "Transparante markt": "Markt waarop vragers en aanbieders alle prijzen en kwaliteiten kunnen overzien.", "Abstracte markt": "Het geheel van vraag en aanbod van een product, zonder vaste plaats.", "Concrete markt": "Een aanwijsbare plaats waar kopers en verkopers producten verhandelen.", "Volkomen markt": "Markt met homogene producten, een homogene aanbieding en volledige doorzichtigheid.", "Evenwichtsprijs": "De prijs waarbij de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Evenwichtshoeveelheid": "De verhandelde hoeveelheid bij de evenwichtsprijs.", "Aanbodoverschot": "Situatie waarin bij een bepaalde prijs meer wordt aangeboden dan gevraagd.", "Bedrijfstakevenwicht": "Situatie op lange termijn waarin vraag en aanbod gelijk zijn en de bedrijven precies kostendekkend werken.", "Toetreding": "Nieuwe aanbieders die de markt opgaan, bijvoorbeeld omdat er winst te halen is.", "Uittreding": "Aanbieders die de markt verlaten, bijvoorbeeld omdat ze verlies maken.", "Optimale allocatie": "Situatie waarin de productiemiddelen zo zijn ingezet dat het totale surplus maximaal is.", "Totaal surplus": "De som van het consumentensurplus en het producentensurplus.", "Externe effecten": "Gevolgen van productie of consumptie voor anderen, die niet in de prijs zijn verrekend.", "Marketingmix": "De combinatie van product-, plaats-, promotie- en prijsbeleid van een onderneming.", "Octrooi": "Een exclusief recht op een uitvinding, waardoor anderen die niet mogen namaken of verkopen.", "Kartel": "Een afspraak tussen zelfstandige ondernemingen om de onderlinge concurrentie te beperken.", "Fusie": "Twee of meer ondernemingen die samen verdergaan als één onderneming.", "Franchising": "Samenwerking waarbij een ondernemer tegen betaling de formule en naam van een ander bedrijf gebruikt.", "Joint venture": "Een gezamenlijke onderneming die twee of meer bedrijven samen oprichten voor een bepaald project.", "Productdifferentiatie": "Een product laten verschillen van dat van concurrenten, zodat het in de ogen van de koper uniek is.", "Monopolie": "Marktvorm met één aanbieder tegenover veel vragers.", "Prijsdiscriminatie": "Hetzelfde product tegen verschillende prijzen verkopen aan verschillende groepen kopers.", "Welvaartsverlies": "Het deel van het totale surplus dat verloren gaat doordat er minder wordt geproduceerd dan bij volledige mededinging.", "Oligopolie": "Marktvorm met weinig aanbieders tegenover veel vragers.", "Monopolistische concurrentie": "Marktvorm met veel aanbieders van heterogene producten.", "Duopolie": "Marktvorm met twee aanbieders.", "Prijsleider": "De grootste aanbieder in een oligopolie, wiens prijzen door de anderen worden gevolgd.", "Collectieve goederen": "Goederen waarvan niemand kan worden uitgesloten en die niet in individuele eenheden te splitsen zijn.", "Quasi-collectieve goederen": "Individuele goederen die toch door de overheid worden geleverd, zoals onderwijs.", "Privatisering": "Het overdragen van een overheidstaak aan particuliere bedrijven.", "Deregulering": "Het verminderen van overheidsregels voor bedrijven en burgers.", "Maatschappelijke kosten": "Alle kosten van productie of consumptie, dus inclusief de kosten die bij anderen terechtkomen.", "Nationalisatie": "Het overnemen van een particulier bedrijf door de overheid.", "Maximumprijs": "De hoogste prijs die een aanbieder van de overheid mag vragen.", "Zwarte markt": "Illegale handel tegen een hogere prijs dan de toegestane prijs.", "Aanbodtekort": "Situatie waarin bij een bepaalde prijs meer wordt gevraagd dan aangeboden (vraagoverschot).", "Minimumprijs": "De laagste prijs waarvoor een product van de overheid mag worden verkocht.", "Minimumloon": "Het wettelijk vastgestelde laagste loon dat een werkgever moet betalen.", "Accijns": "Een vast bedrag aan belasting per eenheid van een product.", "Indirecte belastingen": "Belastingen die je betaalt bij de aankoop of het gebruik van goederen en diensten.", "Subsidie": "Een bijdrage van de overheid om een product goedkoper te maken of een activiteit te stimuleren.", "Quotum": "Een maximale hoeveelheid die mag worden geproduceerd, gevangen of ingevoerd.", "Autoriteit Consument en Markt": "Toezichthouder die let op eerlijke concurrentie en de belangen van consumenten beschermt.", "Zelfstandig bestuursorgaan": "Organisatie die een overheidstaak uitvoert maar niet direct onder een minister valt.", "Kruislingse prijselasticiteit": "De procentuele verandering van de gevraagde hoeveelheid van product A gedeeld door de procentuele verandering van de prijs van product B.", "Hoeveelheidseffect": "De verandering van de omzet doordat de afzet verandert na een prijsverandering.", "Wet van Engel": "Naarmate het inkomen stijgt, daalt het aandeel van het inkomen dat aan voedsel wordt uitgegeven.", "Drempelinkomen": "Het inkomen vanaf waar een consument een product gaat kopen.", "Inkomensvraaglijn": "Lijn die het verband weergeeft tussen het inkomen en de gevraagde hoeveelheid van een product.", "Sluitingspunt": "Het punt waar de prijs gelijk is aan de minimale gemiddelde variabele kosten; daaronder stopt een bedrijf met produceren.", "Capaciteitskosten": "Kosten van de productiecapaciteit, die niet veranderen met de productieomvang (constante kosten).", "Perfecte markt": "Markt waarop individuele vragers en aanbieders geen invloed hebben op de prijs.", "Niet-perfecte markt": "Markt waarop individuele vragers of aanbieders wel invloed hebben op de prijs.", "Marktvorm": "Het geheel van prijsbepalende factoren op een markt.", "Marktevenwicht": "Situatie waarin de gevraagde hoeveelheid gelijk is aan de aangeboden hoeveelheid.", "Prijsmechanisme": "Het aanpassen van de prijs aan overschotten en tekorten, totdat vraag en aanbod gelijk zijn.", "Marginale producent": "De aanbieder met de hoogste kosten die bij de huidige marktprijs nog net op de markt kan blijven.", "Bedrijfsevenwicht": "Situatie waarin een onderneming bij de marktprijs haar winst maximaliseert en geen reden heeft haar productie te veranderen.", "Pareto-optimum": "Situatie waarin niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.", "Economisch surplus": "De som van het consumentensurplus en het producentensurplus.", "Allocatie": "De verdeling van de beschikbare productiefactoren over de verschillende productiemogelijkheden.", "Heterogene producten": "Producten die in dezelfde behoefte voorzien maar in de ogen van de consument van elkaar verschillen.", "Natuurlijk monopolie": "Monopolie dat ontstaat omdat één aanbieder de markt door hoge vaste kosten het goedkoopst kan bedienen.", "Wettelijk monopolie": "Monopolie dat door de wet is beschermd, bijvoorbeeld met een octrooi.", "Collectief monopolie": "Aanbieders die samen optreden als één aanbieder, zoals de OPEC.", "Prijsdifferentiatie": "Verschillende prijzen vragen omdat de kosten van het product verschillen.", "Harberger-driehoek": "Het welvaartsverlies door een te kleine productie, als driehoek in de grafiek.", "Geknikte afzetcurve": "Afzetcurve van een oligopolist die bij de huidige prijs een knik heeft, omdat concurrenten wel meegaan met een prijsverlaging maar niet met een prijsverhoging.", "Prijsstarheid": "Prijzen die lang gelijk blijven, ook als kosten of vraag veranderen.", "Marktfalen": "Situatie waarin de markt niet tot een optimale uitkomst leidt.", "Interventieprijs": "Minimumprijs waarvoor de overheid overschotten van boeren opkoopt.", "Afwentelingspercentage": "Het deel van een heffing dat de producent via een hogere prijs doorberekent aan de consument.", "Kostprijsverlagende subsidie": "Subsidie die de productiekosten verlaagt, waardoor de aanbodlijn naar beneden verschuift.", "Concentratie": "Het verschijnsel dat beslissingen over de productie door steeds minder bedrijven worden genomen.", "Mededingingsbeleid": "Overheidsbeleid dat eerlijke concurrentie bevordert en kartels en machtsmisbruik bestrijdt.", "Quotering": "Het wettelijk vaststellen van een maximale productie- of vangsthoeveelheid."});
 LEVELS.E.begrippen = Object.assign(LEVELS.E.begrippen||{}, {"Intertemporele ruil": "Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen.", "Financiële levenscyclus": "Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven.", "Voorraadgrootheid": "Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december.", "Stroomgrootheid": "Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar.", "Human capital": "De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training.", "Sociaal kapitaal": "De waarde van sociale netwerken, relaties en onderling vertrouwen.", "Interest": "De vergoeding voor het uitlenen of de prijs voor het lenen van geld.", "Enkelvoudige rente": "Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend.", "Samengestelde rente": "Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente).", "Nominale rente": "Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie.", "Reële rente": "De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil.", "Intertemporele budgetlijn": "Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente.", "Levensloopinkomen": "Het totale inkomen dat iemand in alle perioden van zijn leven verdient.", "Hypothecaire lening": "Een geldlening met een registergoed, meestal een woning, als onderpand.", "Hypotheekgever": "De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft.", "Hypotheeknemer": "De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt.", "Lineaire hypotheek": "Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen.", "Annuïteitenhypotheek": "Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald.", "Hypotheekrenteaftrek": "Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken.", "Huurtoeslag": "Inkomensafhankelijke bijdrage van de overheid in de huurkosten.", "Scheefwonen": "Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen.", "AOW": "Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft.", "Omslagstelsel": "Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu.", "Kapitaaldekkingsstelsel": "Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen.", "Intergenerationele ruil": "Overheveling van inkomen tussen generaties, zoals bij de AOW.", "Franchise": "Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt.", "Pensioengrondslag": "Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd.", "Dekkingsgraad": "Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%.", "Contante waarde": "De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald.", "Collectieve sector": "De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen.", "Quasi-collectief goed": "Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten.", "ZBO": "Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB.", "Volksverzekering": "Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW.", "Werknemersverzekering": "Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW.", "Retributie": "Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort.", "Niet-belastingmiddelen": "Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes.", "Directe belasting": "Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen.", "Indirecte belasting": "Kostprijsverhogende belasting op bestedingen, zoals btw en accijns.", "Draagkrachtbeginsel": "Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting.", "Profijtbeginsel": "Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor.", "Solidariteitsbeginsel": "Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico.", "Collectieve lastendruk": "Belastingen en sociale premies als percentage van het bbp.", "Harberger-driehoek": "Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat.", "Wig": "Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.", "Marginaal belastingtarief": "Het belastingpercentage over een extra verdiende euro.", "Gemiddelde belastingdruk": "Het percentage van het inkomen dat in totaal aan belasting wordt betaald.", "Overheidsbestedingen": "Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen.", "Overdrachtsuitgaven": "Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente.", "Collectieve uitgavenquote": "De collectieve uitgaven als percentage van het bbp.", "Overheidsinvesteringen": "Uitgaven van de overheid aan infrastructuur en gebouwen.", "EMU-saldo": "Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar.", "EMU-schuld": "De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden.", "EMU-normen": "Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp.", "Noemereffect": "De schuldquote daalt doordat het bbp sneller groeit dan de schuld.", "Staatsobligatie": "Schuldbewijs waarmee de overheid geld leent."});
 LEVELS.F.begrippen = Object.assign(LEVELS.F.begrippen||{}, {"Dominante strategie": "Een strategie die voor een speler altijd de hoogste uitkomst geeft, wat de ander ook kiest.", "Gevangenendilemma": "Spel waarin eigenbelang beide spelers naar een uitkomst leidt die voor allebei slechter is dan samenwerken.", "Simultaan spel": "Spel waarin de spelers tegelijk kiezen zonder de keuze van de ander te kennen.", "Niet-coöperatief spel": "Spel waarin de spelers geen bindende afspraken kunnen maken.", "Nash-evenwicht": "Uitkomst waarbij geen speler zich kan verbeteren door alleen zelf een andere keuze te maken.", "Tit-for-tatstrategie": "Strategie waarbij je begint met samenwerken en daarna steeds doet wat de ander de vorige ronde deed.", "Prijzenoorlog": "Situatie waarin concurrenten elkaar steeds onderbieden met lagere prijzen.", "Clementieregeling": "Regeling waarbij een bedrijf dat een kartel meldt minder of geen boete krijgt.", "Zelfbinding": "Je eigen keuzemogelijkheden vooraf beperken om een dreiging of belofte geloofwaardig te maken.", "Prijskartel": "Kartel waarin ondernemingen afspraken maken over de verkoopprijs.", "Meeliftersgedrag": "Profiteren van een goed of voorziening zonder eraan mee te betalen.", "Collectieve dwang": "Iedereen verplichten om bij te dragen aan het algemeen belang, bijvoorbeeld via belastingen.", "Individuele goederen": "Goederen die in eenheden te verkopen zijn en waarvan niet-betalers kunnen worden uitgesloten.", "Sequentieel spel": "Spel waarin de spelers na elkaar kiezen en de keuze van de vorige speler kennen.", "Ultimatumspel": "Spel waarin één speler een verdeling voorstelt en de ander alleen kan accepteren of weigeren.", "Verzonken kosten": "Kosten die al gemaakt zijn en niet meer terug te verdienen zijn.", "Berovingsprobleem": "Na een specifieke investering staat een partij zwakker en kan de ander een deel van het rendement afpakken.", "Werknemerssurplus": "Het verschil tussen het loon dat een werknemer krijgt en het loon waarvoor hij minimaal wil werken.", "Werkgeverssurplus": "Het verschil tussen wat een werknemer de werkgever maximaal waard is en het loon dat de werkgever betaalt.", "Cao": "Collectieve afspraken over arbeidsvoorwaarden tussen vakbonden en werkgevers.", "Algemeen verbindend verklaren": "Een cao laten gelden voor alle werkgevers en werknemers in een bedrijfstak.", "Wig": "Het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.", "Prijscompensatie": "Loonstijging gelijk aan de inflatie, zodat de koopkracht gelijk blijft.", "Incidentele loonstijging": "Persoonlijke loonstijging, bijvoorbeeld door promotie of een extra ervaringsjaar.", "Loonruimte": "De ruimte voor loonstijging zonder dat het aandeel van de loonkosten in de toegevoegde waarde stijgt.", "Primaire arbeidsvoorwaarden": "Afspraken over loon en werktijden.", "Secundaire arbeidsvoorwaarden": "Overige afspraken, zoals vakantiedagen, reiskosten en een auto van de zaak.", "Diepte-investering": "Investering waarbij arbeid wordt vervangen door kapitaal, zoals machines of robots.", "Sociale partners": "De werkgeversorganisaties en vakbonden die samen overleggen over arbeidsvoorwaarden.", "Stichting van de Arbeid": "Landelijk overlegorgaan van werkgevers en werknemers.", "Arbeidsmarkt": "De totale vraag naar en het totale aanbod van arbeid.", "Loonstarheid": "Lonen passen zich niet of nauwelijks aan aan vraag en aanbod, vooral niet naar beneden.", "Arbeidsaanbod": "De hoeveelheid arbeid die mensen willen en kunnen verrichten.", "Pareto-optimum": "Uitkomst waarbij niemand erop vooruit kan gaan zonder dat een ander erop achteruitgaat.", "Coördinatiespel": "Spel zonder dominante strategie waarin spelers er belang bij hebben dezelfde keuze te maken.", "Achterwaartse inductie": "Een spelboom oplossen door bij de laatste beslissing te beginnen en terug te redeneren.", "Pay-offmatrix": "Tabel met de strategieën en uitkomsten van een simultaan spel.", "Grim trigger": "Strategie waarbij je samenwerkt tot de ander één keer valsspeelt en daarna nooit meer samenwerkt.", "Geloofwaardige dreiging": "Een dreiging die de dreigende partij ook echt wil uitvoeren als het zover is.", "Reputatie": "Het beeld van betrouwbaarheid dat een speler heeft opgebouwd door eerder gedrag.", "Herhaald spel": "Een spel dat meerdere rondes wordt gespeeld, waardoor reputatie en vergelding mogelijk worden.", "Laagsteprijsgarantie": "Belofte van een winkel om het verschil terug te betalen als een product elders goedkoper is.", "Rivaliteit": "Gebruik door de één vermindert de mogelijkheid tot gebruik door een ander.", "Uitsluitbaarheid": "Mensen die niet betalen kunnen van het gebruik worden uitgesloten.", "Clubgoed": "Goed dat uitsluitbaar maar niet rivaliserend is, zoals een streamingdienst.", "Gemeenschappelijke middelen": "Goederen die rivaliserend maar niet uitsluitbaar zijn, zoals vis in de oceaan.", "Internaliseren": "Externe kosten in de prijs opnemen, bijvoorbeeld met een heffing.", "Emissierechten": "Verhandelbare rechten om een bepaalde hoeveelheid te mogen uitstoten.", "Onderhandelingsruimte": "Het verschil tussen de maximale betalingsbereidheid van de koper en de minimale prijs van de verkoper.", "Relatiespecifieke investering": "Investering die alleen waarde heeft binnen één bepaalde samenwerking.", "Monopsonie": "Marktvorm met één vrager tegenover veel aanbieders.", "Verticale integratie": "Samengaan van bedrijven uit opeenvolgende schakels van de productieketen.", "Centraal akkoord": "Landelijke afspraken tussen werkgevers- en werknemerscentrales in de Stichting van de Arbeid.", "Contractloonstijging": "De loonstijging uit de cao: prijscompensatie plus initiële loonstijging.", "Armoedeval": "Situatie waarin meer verdienen nauwelijks iets oplevert doordat toeslagen en uitkeringen wegvallen.", "Reserveringsloon": "Het laagste loon waarvoor iemand bereid is te werken."});

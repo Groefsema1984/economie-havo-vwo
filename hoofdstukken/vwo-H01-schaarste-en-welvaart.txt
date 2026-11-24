@@ -1,0 +1,205 @@
+# HOOFDSTUK v 1 | Schaarste en welvaart
+domein: B
+hoofdvraag: Wat is welvaart en door welke factoren wordt welvaart bepaald?
+
+## § 1.1 | Inkomen en welvaart
+onderwerp: B.keuze
+deelvraag: Wat is het verschil tussen inkomen en welvaart?
+gens: reeelIndex
+### UITLEG Nominaal en reëel inkomen
+Inkomen krijg je door productiefactoren beschikbaar te stellen, bijvoorbeeld loon voor arbeid of rente over spaargeld.
+Het nominale inkomen is het bedrag in euro's. Het reële inkomen (koopkracht) is gecorrigeerd voor prijsstijgingen: hoeveel je er echt mee kunt kopen.
+Reëel indexcijfer = nominaal indexcijfer / prijsindexcijfer × 100.
+### UITLEG Behoeften en schaarste
+Behoeften bevredig je met goederen (tastbaar, zoals een fiets) en diensten (niet tastbaar, zoals een knipbeurt).
+Vrije goederen zijn er onbeperkt, zonder dat je er middelen voor opoffert (zonlicht, lucht). Voor economische goederen geldt schaarste.
+Schaarste is de spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen (tijd, geld, grondstoffen).
+Schaarste is niet hetzelfde als zeldzaamheid: een zeldzame misdruk van een postzegel die niemand wil hebben, is niet schaars.
+### UITLEG Welvaart
+Welvaart is de mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen.
+Inkomen is niet hetzelfde als welvaart: mensen stellen hun behoeften bij, en sommige schaarste (schone lucht, stilte, natuur) los je niet op met meer inkomen. Welvaart is subjectief: iedereen weegt vrije tijd, gezondheid, veiligheid en milieu anders.
+Landen met het hoogste inkomen per hoofd staan daarom niet altijd bovenaan in de HDI, waarin ook levensverwachting en scholing meetellen.
+### BEGRIPPEN
+Nominaal inkomen = Het inkomen in euro's, niet gecorrigeerd voor prijsveranderingen.
+Reëel inkomen = Het nominale inkomen gecorrigeerd voor de stijging van het prijspeil: de koopkracht.
+Schaarste = De spanning tussen onbeperkte behoeften en beperkte, alternatief aanwendbare middelen.
+Vrij goed = Goed dat onbeperkt beschikbaar is zonder dat er middelen voor worden opgeofferd, zoals zonlicht.
+Economisch goed = Goed of dienst waarvoor schaarste geldt.
+Welvaart = De mate waarin mensen hun behoeften kunnen bevredigen met schaarse middelen.
+Alternatief aanwendbaar = Middelen kunnen voor verschillende doelen worden gebruikt; gebruik voor het ene doel gaat ten koste van het andere.
+### MC
+Het nominale inkomen stijgt met 3% en de prijzen stijgen met 5%. Wat gebeurt er met de koopkracht?
+* Die daalt met ongeveer 2%
+- Die stijgt met ongeveer 2%
+- Die stijgt met 3%
+- Die blijft gelijk
+> Reëel indexcijfer: 103 / 105 × 100 = 98,1. De koopkracht daalt met 1,9%.
+### MC
+Een zeer zeldzame postzegel met een drukfout wordt door niemand gezocht. Is dit een schaars goed?
+* Nee, er is geen behoefte aan, dus er is geen schaarste
+- Ja, want hij is zeldzaam
+- Ja, want alles wat geld kost is schaars
+- Nee, want het is een dienst
+> Schaarste gaat over behoeften tegenover middelen, niet over zeldzaamheid.
+### MC
+Welk goed is een vrij goed?
+* Zonlicht op het strand
+- Leidingwater
+- Een parkeerplaats in de stad
+- Frisse lucht in een duikfles
+> Voor zonlicht hoef je geen productiemiddelen op te offeren. Leidingwater en lucht in een fles moeten worden gemaakt.
+### MC
+Waarom stijgt de welvaart niet altijd als het inkomen stijgt?
+* Mensen stellen hun behoeften bij en sommige schaarste, zoals schone lucht, los je niet op met geld
+- Omdat een hoger inkomen altijd tot inflatie leidt
+- Omdat welvaart alleen over geld gaat
+- Omdat mensen met meer inkomen minder behoeften hebben
+> Welvaart is breder en subjectiever dan inkomen.
+
+## § 1.2 | Schaarste en kiezen
+onderwerp: B.budget
+deelvraag: Op welke manier dwingt schaarste tot het maken van keuzes?
+gens: budgetMax, altKosten
+### UITLEG De budgetlijn
+Omdat je budget beperkt is, moet je kiezen. De budgetlijn geeft alle combinaties van twee goederen die je maximaal kunt kopen: Y = P₁ × Q₁ + P₂ × Q₂.
+Het snijpunt met een as vind je door het hele budget aan één goed te besteden: Q = Y / P.
+Stijgt het budget (of dalen beide prijzen evenveel), dan verschuift de lijn evenwijdig naar buiten. Verandert de prijs van één goed, dan draait de lijn om het snijpunt met de as van het andere goed.
+### UITLEG Opofferingskosten
+Kiezen is altijd iets laten schieten. De opofferingskosten (alternatieve kosten) zijn de waarde van het beste alternatief dat je opgeeft.
+Heb je meer dan twee mogelijkheden, dan tel je niet alle andere opties op: je neemt alleen het eerstvolgende beste alternatief.
+### BEGRIPPEN
+Budgetlijn = Lijn met alle combinaties van twee goederen die je met je budget maximaal kunt kopen.
+Opofferingskosten = De waarde van het beste alternatief dat je laat schieten bij een keuze.
+### MC
+Je hebt € 60. Een bioscoopkaartje kost € 12 en een pizza € 10. Welke combinatie ligt precies op je budgetlijn?
+* 0 kaartjes en 6 pizza's
+- 5 kaartjes en 1 pizza
+- 4 kaartjes en 2 pizza's
+- 2 kaartjes en 5 pizza's
+> 6 × € 10 = € 60. De andere kosten meer: 5 × 12 + 10 = 70, 4 × 12 + 20 = 68, 2 × 12 + 50 = 74.
+### MC
+De prijs van pizza daalt, de prijs van bioscoopkaartjes en het budget blijven gelijk. Wat gebeurt er met de budgetlijn?
+* Die draait naar buiten om het snijpunt met de as van de bioscoopkaartjes
+- Die verschuift evenwijdig naar buiten
+- Die verschuift evenwijdig naar binnen
+- Die verandert niet
+> Je kunt nog steeds hetzelfde maximale aantal kaartjes kopen, maar meer pizza's.
+### MC
+Sanne kan zaterdag werken (€ 80), oppassen (€ 50) of sporten. Ze kiest voor sporten. Wat zijn haar opofferingskosten?
+* € 80
+- € 130
+- € 50
+- € 0
+> Alleen het beste opgegeven alternatief telt: werken voor € 80.
+### MC
+Het budget van een consument verdubbelt en alle prijzen verdubbelen ook. Wat gebeurt er met de budgetlijn?
+* Niets: de lijn blijft op dezelfde plek
+- Die verschuift naar buiten
+- Die verschuift naar binnen
+- Die wordt steiler
+> Y / P blijft voor elk goed hetzelfde, dus de snijpunten veranderen niet.
+
+## § 1.3 | Arbeidsdeling en ruil
+onderwerp: C.spec
+deelvraag: Hoe wordt de welvaart bevorderd door arbeidsdeling en ruil?
+gens: productiviteit
+### UITLEG Arbeidsdeling
+Bij arbeidsdeling (specialisatie) wordt het werk verdeeld over mensen, bedrijven of landen, zodat ieder doet waar hij goed in is.
+Arbeidsproductiviteit is de productie per werknemer per tijdseenheid. Door specialisatie stijgt die: je wordt handiger en verliest geen tijd met wisselen. Ook scholing, mechanisering, automatisering en robotisering verhogen de productiviteit. Meer productie betekent meer welvaart.
+### UITLEG Bedrijfskolom en bedrijfstak
+De bedrijfskolom is de reeks bedrijven van oerproducent tot detailhandel. Een bedrijfstak zijn alle bedrijven in dezelfde fase die soortgelijke producten maken, zoals alle bakkerijen.
+Differentiatie: een fase wordt opgesplitst in meer gespecialiseerde bedrijven, bijvoorbeeld als een bedrijf zijn transport uitbesteedt.
+### UITLEG Ruil en transactiekosten
+Door arbeidsdeling maakt niemand meer alles zelf, dus is ruil nodig. Goed beschermde eigendomsrechten zijn daarvoor een voorwaarde.
+Transactiekosten zijn de extra kosten om een ruil tot stand te brengen: zoeken, informatie, onderhandelen en controleren. Bij een huis: makelaar, bouwkundig rapport, notaris, overdrachtsbelasting en het Kadaster.
+Hoe lager de transactiekosten, hoe makkelijker er geruild wordt en hoe hoger de welvaart.
+### BEGRIPPEN
+Arbeidsdeling = Het verdelen van productietaken over mensen, bedrijven of landen (specialisatie).
+Arbeidsproductiviteit = De productie per werknemer per tijdseenheid.
+Bedrijfskolom = De reeks bedrijven die elkaar opvolgen van oerproducent tot detailhandel.
+Bedrijfstak = Alle bedrijven in dezelfde fase van de productie die soortgelijke producten maken.
+Differentiatie = Het opsplitsen van een fase in de bedrijfskolom in meer gespecialiseerde bedrijven.
+Transactiekosten = De extra kosten in tijd en geld om een ruil voor te bereiden, tot stand te brengen en af te wikkelen.
+Eigendomsrecht = Het recht om over een goed te beschikken, het te gebruiken en te verkopen.
+### MC
+Een autofabrikant besteedt de schoonmaak van de fabriek uit aan een schoonmaakbedrijf. Hoe heet dit?
+* Differentiatie
+- Integratie
+- Een bedrijfstak
+- Directe ruil
+> Een taak wordt afgesplitst en door een gespecialiseerd bedrijf gedaan.
+### MC
+Welke kosten zijn transactiekosten bij de aankoop van een huis?
+* De kosten van de makelaar en de notaris
+- De koopsom van het huis
+- De maandelijkse rente
+- De kosten van de verbouwing na de koop
+> Transactiekosten zijn de kosten om de ruil zelf tot stand te brengen.
+### MC
+Waarom verhoogt arbeidsdeling de welvaart?
+* De arbeidsproductiviteit stijgt, zodat er meer wordt geproduceerd
+- Iedereen maakt dan alles zelf
+- De transactiekosten verdwijnen
+- Er is dan geen ruil meer nodig
+> Gespecialiseerde werkers maken meer per uur. Wel is er dan meer ruil nodig.
+### MC
+Welke groep bedrijven vormt samen een bedrijfstak?
+* Alle bakkerijen in Nederland
+- Een boer, een meelfabriek, een bakker en een supermarkt
+- Een bakker en zijn leveranciers
+- Alle bedrijven in één stad
+> Een bedrijfstak is horizontaal: dezelfde fase, soortgelijke producten. De bedrijfskolom is verticaal.
+
+## § 1.4 | Ruilen en geld
+onderwerp: C.geld
+deelvraag: Waarom vergemakkelijkt geld de ruil?
+### UITLEG Directe en indirecte ruil
+Bij directe ruil (ruil in natura) ruil je goederen rechtstreeks, bijvoorbeeld brood tegen schoenen. Daarvoor is dubbele wenselijkheid nodig: allebei moeten precies willen wat de ander heeft. Dat geeft hoge transactiekosten.
+Bij indirecte ruil ruil je eerst tegen geld en koop je daarmee iets anders. Dat verlaagt de transactiekosten enorm.
+### UITLEG Geld en zijn functies
+Geld is alles wat algemeen wordt aanvaard als ruilmiddel. De belangrijkste voorwaarde is vertrouwen.
+Drie functies: ruilmiddel, rekenmiddel (alle waarden in één eenheid uitdrukken) en oppotmiddel (koopkracht bewaren voor later).
+### UITLEG Waarde van geld
+De intrinsieke waarde is de materiaalwaarde. De nominale waarde staat erop. Bij fiduciair geld (vertrouwensgeld) is de nominale waarde veel hoger dan de intrinsieke waarde: eurobiljetten, munten en giraal geld.
+Wet van Gresham: slecht geld verdrijft goed geld. Bij twee soorten geld met dezelfde nominale waarde betalen mensen met het slechte geld en houden ze het goede (bijvoorbeeld gouden munten) zelf.
+### UITLEG Geldhoeveelheid
+Chartaal geld zijn munten en biljetten. Giraal geld zijn direct opeisbare tegoeden op betaalrekeningen.
+De maatschappelijke geldhoeveelheid is al het chartale en girale geld in handen van het publiek: gezinnen, bedrijven en lagere overheden. Geld bij banken en bij het Rijk telt niet mee.
+### BEGRIPPEN
+Directe ruil = Goederen en diensten rechtstreeks ruilen tegen andere goederen en diensten, zonder geld.
+Indirecte ruil = Ruilen via geld: eerst verkopen voor geld, daarna met dat geld iets anders kopen.
+Geld = Alles wat algemeen wordt aanvaard als ruilmiddel.
+Intrinsieke waarde = De materiaalwaarde van een munt of bankbiljet.
+Fiduciair geld = Geld waarvan de nominale waarde hoger is dan de intrinsieke waarde en dat draait op vertrouwen.
+Wet van Gresham = Slecht geld (lage intrinsieke waarde) verdrijft goed geld uit de omloop.
+Chartaal geld = Munten en bankbiljetten.
+Giraal geld = Direct opeisbare tegoeden op betaalrekeningen bij banken.
+Maatschappelijke geldhoeveelheid = Al het chartale en girale geld in handen van het publiek, dus zonder banken en het Rijk.
+### MC
+Je zet € 500 contant geld op je betaalrekening. Wat gebeurt er met de maatschappelijke geldhoeveelheid?
+* Die blijft gelijk: het chartale geld daalt en het girale geld stijgt evenveel
+- Die stijgt met € 500
+- Die daalt met € 500
+- Die stijgt met € 1.000
+> Het contante geld bij de bank telt niet meer mee, maar je girale tegoed wel. Per saldo verandert er niets.
+### MC
+Welke functie van geld gebruik je als je prijzen van twee laptops vergelijkt?
+* Rekenmiddel
+- Ruilmiddel
+- Oppotmiddel
+- Betaalmiddel bij directe ruil
+> Geld maakt het mogelijk alle waarden in één eenheid uit te drukken.
+### MC
+Waarom heeft een eurobiljet van € 50 waarde, terwijl het papier bijna niets kost?
+* Omdat het fiduciair geld is: het draait op vertrouwen
+- Omdat er goud tegenover staat
+- Omdat de intrinsieke waarde € 50 is
+- Omdat de wet van Gresham dat bepaalt
+> De nominale waarde is veel hoger dan de intrinsieke waarde. Het werkt zolang iedereen het accepteert.
+### MC
+In een land zijn zilveren en koperen munten van 1 gulden in omloop. Wat gebeurt er volgens de wet van Gresham?
+* Mensen betalen met de koperen munten en houden de zilveren zelf
+- Mensen betalen met de zilveren munten
+- Beide munten verdwijnen uit de omloop
+- De koperen munten worden meer waard
+> Slecht geld (koper) verdrijft goed geld (zilver) uit de omloop.
