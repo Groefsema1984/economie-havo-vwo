@@ -1,0 +1,254 @@
+# HOOFDSTUK h 10 | Intertemporeel: gezinnen
+domein: E
+hoofdvraag: Hoe verdelen huishoudens hun inkomen en bestedingen over de tijd?
+
+## § 10.1 | Jong geleerd, oud gedaan
+onderwerp: E.rente
+deelvraag: Waarom ruilen huishoudens bestedingen tussen nu en later?
+### UITLEG Tijdsvoorkeur
+Je tijdsvoorkeur geeft aan hoeveel je hecht aan consumeren nu in plaats van later. Wie een hoge tijdsvoorkeur heeft, wil liever nu besteden en leent sneller. Wie een lage tijdsvoorkeur heeft, kan makkelijker wachten en spaart sneller.
+Met sparen en lenen ruil je bestedingen tussen nu en later. Dat heet intertemporele ruil.
+### UITLEG Financiële levenscyclus
+- Jeugd: weinig inkomen. Je bent afhankelijk van ouders of studiefinanciering en leent soms.
+- Werkzame periode: het inkomen ligt hoger dan de bestedingen. Je lost schulden af en spaart, onder andere voor je pensioen.
+- Pensioen: het inkomen daalt. Je ontspaart, dus je teert in op wat je eerder hebt opgebouwd.
+### BEGRIPPEN
+Tijdsvoorkeur = De mate waarin iemand de voorkeur geeft aan bestedingen nu boven bestedingen later.
+Intertemporele ruil = Het ruilen van bestedingen tussen verschillende perioden door te sparen of te lenen.
+Financiële levenscyclus = Het patroon van inkomen, sparen, lenen en ontsparen in de loop van een leven.
+Ontsparen = Interen op eerder opgebouwde besparingen.
+### MC
+Lisa koopt liever nu een scooter op afbetaling dan dat ze een jaar spaart. Wat zegt dit over haar tijdsvoorkeur?
+* Die is hoog
+- Die is laag
+- Die is negatief
+- Die is gelijk aan de rente
+> Wie liever nu besteedt en daarvoor leent, heeft een hoge tijdsvoorkeur.
+### MC
+In welke fase van de financiële levenscyclus wordt meestal ontspaard?
+* Na de pensionering
+- Tijdens de studie
+- In het begin van de werkzame periode
+- Halverwege de werkzame periode
+> Na het pensioen daalt het inkomen en teren mensen in op hun spaargeld.
+### MC
+Wat is een voorbeeld van intertemporele ruil?
+* Een student leent geld om nu te studeren en betaalt later terug
+- Een consument koopt brood in plaats van melk
+- Een werknemer krijgt loon voor zijn werk
+- Een bedrijf ruilt machines met een ander bedrijf
+> Bij intertemporele ruil verschuif je bestedingen in de tijd.
+### MC
+Iemand met een lage tijdsvoorkeur krijgt een bonus. Wat ligt het meest voor de hand?
+* Hij zet het grootste deel op een spaarrekening
+- Hij geeft alles direct uit
+- Hij sluit er een extra lening bij af
+- Hij koopt een product op afbetaling
+> Een lage tijdsvoorkeur betekent dat iemand makkelijk wacht met besteden.
+
+## § 10.2 | Werken of studeren
+onderwerp: E.rente
+deelvraag: Wat levert investeren in je opleiding op?
+gens: productiviteit
+### UITLEG Investeren in human capital
+Human capital is de kennis en vaardigheden van een persoon. Door te studeren investeer je in je human capital en vergroot je je verdiencapaciteit: het inkomen dat je later kunt verdienen.
+De opofferingskosten van studeren zijn het gederfde loon (wat je had kunnen verdienen als je was gaan werken) plus de studiekosten zoals collegegeld en boeken.
+### UITLEG Opleiding en productiviteit
+Beter opgeleide werknemers hebben een hogere arbeidsproductiviteit. Dan dalen de arbeidskosten per product. Dat verhoogt de winst en verbetert de concurrentiepositie, wat goed is voor de economische groei.
+Daarom vindt de overheid onderwijs belangrijk: er is een leerplicht tot 16 jaar en een kwalificatieplicht tot 18 jaar, totdat je een startkwalificatie (havo, vwo of mbo-2) hebt. Met studiefinanciering kan iedereen studeren, ook als de ouders weinig geld hebben.
+### BEGRIPPEN
+Human capital = De kennis, vaardigheden en ervaring van een persoon.
+Verdiencapaciteit = Het inkomen dat iemand met zijn kennis en vaardigheden kan verdienen.
+Gederfd loon = Het loon dat je misloopt doordat je studeert in plaats van werkt.
+Arbeidsproductiviteit = De productie per werknemer of per gewerkt uur.
+Kwalificatieplicht = De plicht om tot je 18e naar school te gaan totdat je een startkwalificatie hebt.
+Startkwalificatie = Een diploma havo, vwo of minimaal mbo niveau 2.
+### MC
+Tom kan na de havo € 22.000 per jaar verdienen, maar gaat drie jaar studeren. Het collegegeld en de boeken kosten € 3.000 per jaar. Wat zijn de opofferingskosten van zijn studie?
+* € 75.000
+- € 66.000
+- € 9.000
+- € 25.000
+> Gederfd loon 3 × 22.000 = 66.000 plus studiekosten 3 × 3.000 = 9.000 is 75.000.
+### MC
+Waarom investeert iemand in human capital?
+* Om zijn verdiencapaciteit in de toekomst te vergroten
+- Om nu meer te kunnen consumeren
+- Om minder belasting te betalen
+- Om zijn tijdsvoorkeur te verhogen
+> Studeren kost nu geld en tijd, maar levert later een hoger inkomen op.
+### MC
+De arbeidsproductiviteit stijgt terwijl de loonkosten per werknemer gelijk blijven. Wat gebeurt er met de arbeidskosten per product?
+* Die dalen
+- Die stijgen
+- Die blijven gelijk
+- Dat hangt af van de afzet
+> Elke werknemer maakt meer producten tegen hetzelfde loon, dus elk product bevat minder loonkosten.
+### MC
+Tot wanneer geldt de kwalificatieplicht?
+* Tot je 18e of tot je een startkwalificatie hebt
+- Tot je 16e
+- Tot je een bachelordiploma hebt
+- Tot je 21e
+> De leerplicht loopt tot 16 jaar, daarna geldt de kwalificatieplicht tot 18 jaar.
+
+## § 10.3 | Sparen, beleggen en lenen
+onderwerp: E.rente
+deelvraag: Wat levert sparen of beleggen op en wat kost lenen?
+leerdoelen: ECO-FINAN-01, ECO-FINAN-02
+gens: eindwaarde, reeleRente
+### UITLEG Sparen en rente
+Rente is een vergoeding voor het uitstellen van bestedingen en voor het risico dat geld door inflatie minder waard wordt.
+- Enkelvoudige rente: je krijgt alleen rente over het oorspronkelijke bedrag.
+- Samengestelde rente: je krijgt ook rente over de rente. Eindkapitaal = K × (1 + i)^n.
+De reële rente is ongeveer de nominale rente min de inflatie. Precies: RIC = NIC / PIC × 100.
+Spaargeld bij een bank is tot € 100.000 per persoon per bank beschermd door het depositogarantiestelsel van De Nederlandsche Bank.
+### UITLEG Beleggen
+Op de effectenbeurs (Euronext Amsterdam, met de AEX-index) worden aandelen en obligaties verhandeld.
+- Aandeel: je bent mede-eigenaar van een bedrijf. Je krijgt dividend en maakt koerswinst of koersverlies. Meer risico, meer kans op rendement.
+- Obligatie: je hebt geld uitgeleend aan een bedrijf of overheid en krijgt een vaste couponrente. Stijgt de marktrente, dan daalt de koers van een bestaande obligatie.
+### UITLEG Lenen en krediet
+De rente op een lening is hoger bij een groter risico op wanbetaling, hogere verwachte inflatie en een lening zonder onderpand.
+- Rekening-courant (rood staan): flexibel, hoge variabele rente.
+- Persoonlijke lening: vast bedrag, vaste rente en vaste looptijd.
+- Doorlopend krediet: je kunt tot een limiet opnemen, met variabele rente.
+- Afbetaling of huurkoop: je wordt pas eigenaar na de laatste termijn.
+- Hypothecaire lening: een lening met het huis als onderpand.
+### BEGRIPPEN
+Samengestelde rente = Rente die ook wordt berekend over eerder ontvangen rente.
+Reële rente = De nominale rente gecorrigeerd voor inflatie.
+Depositogarantiestelsel = Regeling die spaartegoeden tot € 100.000 per persoon per bank beschermt.
+Aandeel = Bewijs van mede-eigendom van een onderneming, met recht op dividend.
+Obligatie = Bewijs van een lening aan een bedrijf of overheid, met een vaste couponrente.
+Dividend = Het deel van de winst dat aan de aandeelhouders wordt uitgekeerd.
+Doorlopend krediet = Lening tot een limiet die je steeds opnieuw kunt opnemen, met variabele rente.
+Huurkoop = Koop op afbetaling waarbij je pas eigenaar wordt na de laatste termijn.
+### MC
+Je zet € 1.000 vijf jaar vast tegen 4% samengestelde rente. Hoeveel staat er na vijf jaar op de rekening (afgerond)?
+* € 1.217
+- € 1.200
+- € 1.040
+- € 1.250
+> 1.000 × 1,04^5 = 1.216,65. Bij enkelvoudige rente was het € 1.200 geweest.
+### MC
+De marktrente stijgt van 2% naar 4%. Wat gebeurt er met de koers van een bestaande obligatie met 2% couponrente?
+* De koers daalt
+- De koers stijgt
+- De koers blijft gelijk
+- De couponrente stijgt mee
+> Nieuwe obligaties leveren meer op, dus beleggers willen minder betalen voor de oude obligatie.
+### MC
+Waarom is de rente op een persoonlijke lening hoger dan op een hypotheek?
+* Bij een persoonlijke lening is er geen onderpand, dus het risico voor de bank is groter
+- Omdat een persoonlijke lening langer loopt
+- Omdat de overheid hypotheken verbiedt
+- Omdat er bij een hypotheek geen inflatie is
+> Bij een hypotheek kan de bank het huis verkopen als de klant niet betaalt.
+### MC
+Bij welke vorm van krediet word je pas eigenaar van het product na de laatste termijn?
+* Huurkoop
+- Persoonlijke lening
+- Doorlopend krediet
+- Rekening-courant
+> Bij huurkoop blijft de verkoper eigenaar totdat alles is betaald.
+
+## § 10.4 | Huren of kopen
+onderwerp: E.rente
+deelvraag: Wat zijn de voor- en nadelen van huren en kopen van een woning?
+### UITLEG Huren
+- Sociale huur: woningen van woningcorporaties met een maximale huur die wordt bepaald met een puntensysteem (onder andere de WOZ-waarde). Je kunt huurtoeslag krijgen. Er zijn lange wachtlijsten, met een urgentieregeling voor schrijnende gevallen.
+- Vrije sector: middenhuur is gereguleerd, maar er is geen huurtoeslag. Daarboven zijn de huren hoger.
+Voordelen van huren: flexibel, weinig risico, de verhuurder doet het onderhoud. Nadelen: je bouwt geen vermogen op en de huur stijgt elk jaar.
+### UITLEG Kopen
+Bij koop teken je eerst een voorlopig koopcontract met ontbindende voorwaarden, bijvoorbeeld voor de financiering. Bij de notaris wordt de transportakte getekend en ingeschreven bij het Kadaster.
+Kosten koper (k.k.): de koper betaalt de overdrachtsbelasting en de notaris. Vrij op naam (v.o.n.): de verkoper betaalt die kosten.
+De koper is de hypotheekgever: hij geeft de bank (de hypotheeknemer) het recht van hypotheek. Wordt het huis verkocht voor minder dan de schuld, dan blijft er een restschuld. De Nationale Hypotheek Garantie (NHG) beschermt daartegen.
+- Lineaire hypotheek: elk jaar even veel aflossen, dus de maandlasten dalen.
+- Annuïteitenhypotheek: elk jaar hetzelfde bedrag aan rente plus aflossing.
+Fiscaal: het eigenwoningforfait (een percentage van de WOZ-waarde) telt op bij je inkomen, de hypotheekrente mag je aftrekken. De gemeente heft OZB. Stijgt de huizenprijs boven de schuld, dan heb je overwaarde.
+### BEGRIPPEN
+Sociale huurwoning = Huurwoning met een maximale huur, meestal van een woningcorporatie, waarvoor huurtoeslag mogelijk is.
+Kosten koper = De koper betaalt naast de prijs ook de overdrachtsbelasting en de notariskosten.
+Vrij op naam = De verkoper betaalt de overdrachtsbelasting en de notariskosten.
+Hypotheekgever = De huizenkoper die de bank het recht van hypotheek geeft.
+Restschuld = Het deel van de hypotheek dat overblijft als het huis voor minder wordt verkocht dan de schuld.
+Annuïteitenhypotheek = Hypotheek met elk jaar hetzelfde bedrag aan rente en aflossing samen.
+Lineaire hypotheek = Hypotheek waarbij elk jaar hetzelfde bedrag wordt afgelost.
+Eigenwoningforfait = Percentage van de WOZ-waarde dat bij het inkomen van de eigenaar wordt opgeteld.
+Overwaarde = Het verschil tussen de waarde van het huis en de hypotheekschuld, als de waarde hoger is.
+### MC
+Bij welke hypotheekvorm dalen de bruto maandlasten elk jaar?
+* Lineaire hypotheek
+- Annuïteitenhypotheek
+- Aflossingsvrije hypotheek
+- Hypotheek met variabele rente
+> Bij lineair los je steeds even veel af, dus de schuld en de rente dalen elk jaar.
+### MC
+Een huis te koop staat voor € 350.000 k.k. Wat betekent dat?
+* De koper betaalt naast € 350.000 ook de overdrachtsbelasting en de notaris
+- De verkoper betaalt alle bijkomende kosten
+- De prijs is inclusief makelaarskosten
+- De koper krijgt korting van de verkoper
+> K.k. staat voor kosten koper.
+### MC
+Wie is bij een hypotheek de hypotheekgever?
+* De koper van het huis
+- De bank
+- De notaris
+- Het Kadaster
+> De koper geeft de bank het recht van hypotheek op zijn huis.
+### MC
+Wat is een nadeel van huren ten opzichte van kopen?
+* Je bouwt geen vermogen op in de woning
+- Je moet zelf het groot onderhoud betalen
+- Je loopt risico op een restschuld
+- Je moet een eigenwoningforfait betalen
+> Een koper lost af en kan overwaarde krijgen, een huurder niet.
+
+## § 10.5 | Ouderdomspensioen
+onderwerp: E.pensioen
+deelvraag: Hoe is het pensioen in Nederland geregeld?
+### UITLEG Drie pijlers
+- Pijler 1, AOW: een volksverzekering voor iedereen vanaf de AOW-leeftijd. Gefinancierd met het omslagstelsel: de werkenden van nu betalen de AOW van de ouderen van nu. Dat is intergenerationele ruil.
+- Pijler 2, aanvullend pensioen via de werkgever: gefinancierd met het kapitaaldekkingsstelsel. Je spaart zelf voor je pensioen in een pensioenfonds. Over de pensioengrondslag betaal je premie: pensioengrondslag = brutoloon − franchise. De franchise is het deel waarover je al AOW krijgt.
+- Pijler 3, vrijwillig: zelf extra sparen, bijvoorbeeld met een lijfrente, een koopsompolis of de overwaarde van je huis.
+### UITLEG Vergrijzing
+Door vergrijzing (meer ouderen) en ontgroening (minder jongeren) zijn er per gepensioneerde steeds minder werkenden. De premiedruk in het omslagstelsel stijgt. Oplossingen zijn een hogere AOW-leeftijd, hogere premies, een lagere AOW of meer betalen uit belastingen.
+Naast geld helpt ook sociaal kapitaal: een netwerk van familie en vrienden die bijvoorbeeld mantelzorg geven.
+### BEGRIPPEN
+Omslagstelsel = Financiering waarbij de premies van de werkenden direct worden gebruikt voor de uitkeringen van nu.
+Kapitaaldekkingsstelsel = Financiering waarbij iedereen premie spaart voor zijn eigen latere uitkering.
+Intergenerationele ruil = Ruil tussen generaties, waarbij de werkenden van nu betalen voor de ouderen van nu.
+Franchise = Het deel van het loon waarover geen pensioenpremie wordt betaald, omdat je daarover al AOW krijgt.
+Pensioengrondslag = Brutoloon min franchise: het deel van het loon waarover pensioen wordt opgebouwd.
+Vergrijzing = Toename van het aandeel ouderen in de bevolking.
+Ontgroening = Afname van het aandeel jongeren in de bevolking.
+Lijfrente = Vrijwillige pensioenvoorziening die later periodieke uitkeringen oplevert.
+### MC
+Iemand verdient € 45.000 bruto per jaar. De franchise is € 17.000 en de pensioenpremie 20% van de pensioengrondslag. Hoeveel premie betaalt hij per jaar?
+* € 5.600
+- € 9.000
+- € 3.400
+- € 12.400
+> Pensioengrondslag 45.000 − 17.000 = 28.000. 20% daarvan is € 5.600.
+### MC
+Waarom staat de AOW onder druk door vergrijzing?
+* Er zijn steeds minder werkenden per AOW'er, dus de premiedruk stijgt
+- De pensioenfondsen beleggen slechter
+- De rente daalt
+- Ouderen sparen te weinig
+> De AOW wordt met het omslagstelsel betaald door de werkenden van nu.
+### MC
+Welk stelsel hoort bij het pensioen via de werkgever (tweede pijler)?
+* Het kapitaaldekkingsstelsel
+- Het omslagstelsel
+- De volksverzekering
+- Het eigenwoningforfait
+> Je spaart via het pensioenfonds voor je eigen pensioen.
+### MC
+Wat is een voorbeeld van de derde pijler?
+* Een lijfrenteverzekering die je zelf afsluit
+- De AOW
+- Het pensioen via het pensioenfonds van je werkgever
+- De bijstand
+> De derde pijler is vrijwillig en individueel.

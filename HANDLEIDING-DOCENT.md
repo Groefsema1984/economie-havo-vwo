@@ -10,7 +10,7 @@
 - Per domein nu een **startset** met basisbegrippen (8 tot 11 vragen) en een **rekenlab** met sommen die steeds nieuwe getallen
   krijgen (elasticiteit, evenwicht, break-even, MO = MK, contante waarde, reële groei, werkloosheid, enzovoort).
   Domein J is nog leeg en staat op "Komt binnenkort".
-- Per domein staan de **hoofdstukken van Economie Integraal** als aparte groep: havo H2 t/m H9 en vwo H1 t/m H18 (vwo H1 en H9 t/m H14 komen uit de samenvattingen die op 24 november in de Drive zijn gezet; uitleg, begrippen en vragen zijn daarop gebaseerd en door Claude uitgeschreven, lees ze na).
+- Per domein staan de **hoofdstukken van Economie Integraal** als aparte groep: havo H1 t/m H11 en vwo H1 t/m H18 (havo H1, H10 en H11 en vwo H1 en H9 t/m H14 komen uit de samenvattingen die op 24 november in de Drive zijn gezet; uitleg, begrippen en vragen zijn daarop gebaseerd en door Claude uitgeschreven, lees ze na).
   Elke paragraaf is een level met eerst uitleg en daarna vragen. Welke hoofdstukken nog ontbreken staat in het overzicht in Claude Docs.
 - Alles van de mavo-app werkt hier ook: medailles (brons 6/8, zilver 7/8, goud 8/8), domeintoets met diploma, herhaalronde,
   vaardigheden per onderwerp (0-100), begrippenkaarten, badges, munten, thema's en het docentendashboard met oefentijd,

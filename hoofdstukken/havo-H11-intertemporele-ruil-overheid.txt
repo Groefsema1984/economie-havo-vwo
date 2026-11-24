@@ -1,0 +1,226 @@
+# HOOFDSTUK h 11 | Intertemporele ruil van de overheid
+domein: E
+hoofdvraag: Waaruit bestaan de uitgaven en inkomsten van de collectieve sector, en hoe worden tekorten gefinancierd?
+
+## § 11.1 | Collectieve en particuliere sector
+onderwerp: F.coll
+deelvraag: In welke opzichten verschilt de collectieve sector van de particuliere sector?
+### UITLEG Twee sectoren
+De particuliere sector bestaat uit gezinnen en particuliere bedrijven. Zij handelen vanuit eigenbelang of winststreven.
+De collectieve sector bestaat uit:
+- de overheid: de rijksoverheid (kabinet, ministeries, Rijkswaterstaat) en de lagere overheden. Provincies doen ruimtelijke ordening, natuur en regionale wegen. Gemeenten doen lokale wegen, afval en de bijstand. Waterschappen zorgen voor dijken en waterbeheer.
+- de sociale verzekeringsfondsen, uitgevoerd door de SVB (AOW, kinderbijslag) en het UWV (WW, WIA).
+- zelfstandige bestuursorganen (zbo's) zoals DNB, CBS, CPB, de KvK, de ACM en de AFM.
+De collectieve sector dient het algemeen belang en wordt betaald uit belastingen en premies. Meebetalen is verplicht: collectieve dwang.
+### UITLEG Soorten producten
+- Collectieve producten zijn niet-uitsluitbaar, niet-splitsbaar en niet-rivaliserend, zoals dijken, defensie en straatverlichting. De markt levert ze niet, dus de overheid doet het.
+- Individuele producten zijn uitsluitbaar en splitsbaar, zoals brood of een fiets.
+- Quasi-collectieve producten zijn wel uitsluitbaar en splitsbaar, maar de overheid betaalt (een deel) vanwege positieve externe effecten, zoals onderwijs en zorg.
+### UITLEG Overheid en markt
+Regulering is regels maken om markten te sturen, deregulering is regels afschaffen. Bij privatisering gaan overheidstaken naar de particuliere sector, bij collectivisatie gebeurt het omgekeerde. Bij publiek-private samenwerking (pps) werken overheid en bedrijven samen aan grote projecten.
+Bij collectieve voorzieningen dreigt meeliftgedrag (free-riders): wel profiteren, niet betalen. Met collectieve dwang doorbreekt de overheid dit gevangenendilemma.
+### BEGRIPPEN
+Collectieve sector = De overheid, de sociale verzekeringsfondsen en de zelfstandige bestuursorganen samen.
+Particuliere sector = Alle gezinnen en particuliere ondernemingen samen.
+Collectief product = Product dat niet-uitsluitbaar, niet-splitsbaar en niet-rivaliserend is.
+Quasi-collectief product = Product dat uitsluitbaar en splitsbaar is, maar door de overheid wordt betaald vanwege het maatschappelijk belang.
+Zelfstandig bestuursorgaan = Organisatie die een publieke taak uitvoert, maar niet direct onder een minister valt.
+Privatisering = Het overdragen van overheidstaken of staatsbedrijven aan de particuliere sector.
+Deregulering = Het verminderen of afschaffen van overheidsregels om marktwerking te bevorderen.
+Meeliftgedrag = Wel profiteren van een voorziening, maar er niet aan meebetalen.
+Collectieve dwang = De wettelijke verplichting om mee te betalen aan collectieve voorzieningen.
+### MC
+Welk product is een collectief product?
+* Een dijk die een polder beschermt
+- Een abonnement op de sportschool
+- Een treinkaartje
+- Een fiets
+> Niemand in de polder kan worden uitgesloten van de bescherming van de dijk.
+### MC
+Waarom betaalt de overheid mee aan onderwijs, terwijl je mensen kunt uitsluiten?
+* Onderwijs heeft positieve externe effecten voor de hele samenleving
+- Onderwijs is niet-splitsbaar
+- Scholen maken geen kosten
+- Bedrijven mogen geen onderwijs aanbieden
+> Onderwijs is een quasi-collectief product.
+### MC
+De overheid verkoopt een staatsbedrijf aan particuliere beleggers. Hoe heet dit?
+* Privatisering
+- Collectivisatie
+- Regulering
+- Publiek-private samenwerking
+> Bij privatisering gaat een overheidstaak naar de particuliere sector.
+### MC
+Waarom wordt defensie niet door de markt geleverd?
+* Door meeliftgedrag: iedereen profiteert, ook wie niet betaalt
+- Omdat defensie te goedkoop is
+- Omdat er geen vraag naar is
+- Omdat bedrijven geen wapens mogen maken
+> Een collectief product is niet-uitsluitbaar, dus niemand wil er vrijwillig voor betalen.
+
+## § 11.2 | Begroting en schuld van de collectieve sector
+onderwerp: E.overheid
+deelvraag: Hoe ontstaan tekorten en welke invloed hebben die op de schuld?
+gens: begrotingssaldo
+### UITLEG Begroting en inkomsten
+Op Prinsjesdag (de derde dinsdag van september) presenteert het kabinet de rijksbegroting en de Miljoenennota.
+Inkomsten van de collectieve sector:
+- Directe belastingen op inkomen, winst en vermogen (inkomstenbelasting, vennootschapsbelasting).
+- Indirecte belastingen op bestedingen, bezit of gebruik (btw, accijns, bpm, motorrijtuigenbelasting).
+- Sociale premies voor de volksverzekeringen, werknemersverzekeringen en de zorgverzekering.
+- Niet-belastingmiddelen, zoals aardgasbaten en boetes.
+Collectieve lastendruk = (belastingen + sociale premies) / bbp × 100%.
+### UITLEG Belastingbeginselen
+- Draagkrachtbeginsel: wie meer heeft, betaalt relatief meer.
+- Profijtbeginsel: wie gebruikmaakt van een voorziening, betaalt ervoor.
+- Solidariteitsbeginsel: sterkeren dragen bij voor zwakkeren.
+### UITLEG Uitgaven
+- Overheidsbestedingen: overheidsconsumptie (salarissen van ambtenaren, materiaal) en overheidsinvesteringen (wegen, dijken, gebouwen).
+- Overdrachtsuitgaven, zonder directe tegenprestatie: uitkeringen en toeslagen (inkomensoverdrachten) en investeringssubsidies (vermogensoverdrachten).
+- Rente-uitgaven over de staatsschuld.
+### UITLEG EMU-saldo en EMU-schuld
+Het EMU-saldo is inkomsten min uitgaven van de hele collectieve sector in één jaar. Positief is een overschot, negatief een tekort.
+Bij een tekort leent de overheid, bijvoorbeeld met staatsobligaties, en stijgt de EMU-schuld.
+De Europese normen: het tekort mag maximaal 3% van het bbp zijn en de schuld maximaal 60% van het bbp.
+Een tekort is uitgestelde belastingheffing: wij profiteren nu, later betalen belastingbetalers rente en aflossing. Een overschot is vooruitontvangen belasting. Zo is er intertemporele ruil tussen generaties.
+### BEGRIPPEN
+Miljoenennota = De toelichting van de regering op de rijksbegroting, gepresenteerd op Prinsjesdag.
+Directe belastingen = Belastingen die rechtstreeks worden geheven over inkomen, winst of vermogen.
+Indirecte belastingen = Kostprijsverhogende belastingen op de aanschaf, het bezit of het gebruik van producten.
+Collectieve lastendruk = De belastingen en sociale premies als percentage van het bbp.
+Draagkrachtbeginsel = Wie meer inkomen of vermogen heeft, betaalt naar verhouding meer belasting.
+Profijtbeginsel = Wie profiteert van een overheidsvoorziening, betaalt daarvoor.
+Overdrachtsuitgaven = Uitgaven van de collectieve sector zonder directe tegenprestatie, zoals uitkeringen en subsidies.
+EMU-saldo = Inkomsten min uitgaven van de hele collectieve sector in een jaar.
+EMU-schuld = De totale opgebouwde schuld van de hele collectieve sector.
+### MC
+De collectieve lasten zijn € 400 miljard en het bbp is € 1.000 miljard. Hoe hoog is de collectieve lastendruk?
+* 40%
+- 60%
+- 2,5%
+- 4%
+> 400 / 1.000 × 100% = 40%.
+### MC
+Een land heeft een bbp van € 800 miljard en een EMU-tekort van € 32 miljard. Voldoet het aan de Europese norm?
+* Nee, het tekort is 4% van het bbp en de norm is maximaal 3%
+- Ja, het tekort is minder dan 60% van het bbp
+- Ja, het tekort is 3% van het bbp
+- Nee, want een tekort is nooit toegestaan
+> 32 / 800 × 100% = 4%, dat is meer dan 3%.
+### MC
+Welke uitgave is een overdrachtsuitgave?
+* De WW-uitkering
+- Het salaris van een politieagent
+- De aanleg van een snelweg
+- De aankoop van computers voor een ministerie
+> Tegenover een uitkering staat geen directe tegenprestatie.
+### MC
+Waarom wordt een overheidstekort uitgestelde belastingheffing genoemd?
+* Toekomstige belastingbetalers moeten de rente en aflossing van de lening betalen
+- De belasting wordt een jaar later geïnd
+- De overheid verlaagt de belasting tijdelijk
+- Het tekort wordt betaald uit aardgasbaten
+> De generatie van nu profiteert, de generatie van later betaalt.
+
+## § 11.3 | Loon- en inkomstenbelasting
+onderwerp: H.belasting
+deelvraag: Hoe bereken je de te betalen loon- en inkomstenbelasting?
+leerdoelen: ECO-ALGEM-10, ECO-BELAS-01
+### UITLEG Drie boxen
+- Box 1, werk en woning: bruto-inkomen + eigenwoningforfait − aftrekposten (zoals hypotheekrente en giften) = belastbaar inkomen. Daarover betaal je belasting volgens schijven. In de eerste schijf zitten ook de premies volksverzekeringen.
+- Box 2, aanmerkelijk belang: belasting over dividend en verkoopwinst als je minstens 5% van de aandelen van een bv of nv hebt.
+- Box 3, sparen en beleggen: belasting over een fictief (forfaitair) rendement op je vermogen boven het heffingsvrij vermogen.
+### UITLEG Tarieven en kortingen
+- Progressief: het gemiddelde tarief stijgt met het inkomen (draagkrachtbeginsel).
+- Proportioneel (vlaktaks): iedereen hetzelfde percentage.
+- Degressief: het gemiddelde tarief daalt als het inkomen stijgt.
+Gemiddeld tarief = totale belasting / inkomen × 100%. Het marginale tarief is het tarief over de laatst verdiende euro: het tarief van de hoogste schijf waarin je inkomen valt.
+Te betalen belasting = belasting volgens de schijven − heffingskortingen (algemene heffingskorting en arbeidskorting). De arbeidskorting maakt werken aantrekkelijker.
+### BEGRIPPEN
+Belastbaar inkomen = Bruto-inkomen plus bijtellingen min aftrekposten.
+Aftrekpost = Kosten die je van je bruto-inkomen mag aftrekken, zoals hypotheekrente.
+Schijventarief = Stelsel waarbij het inkomen in schijven wordt verdeeld met per schijf een eigen percentage.
+Marginaal belastingtarief = Het belastingpercentage over een extra verdiende euro.
+Gemiddeld belastingtarief = De totale belasting als percentage van het inkomen.
+Arbeidskorting = Heffingskorting voor mensen die werken.
+Vermogensrendementsheffing = De belasting in box 3 over het fictieve rendement uit sparen en beleggen.
+Aanmerkelijk belang = Bezit van minstens 5% van de aandelen van een bv of nv (box 2).
+### MC
+Stel: tot € 40.000 betaal je 37% en daarboven 50%. Hoeveel belasting betaalt iemand met een belastbaar inkomen van € 50.000 vóór heffingskortingen?
+* € 19.800
+- € 18.500
+- € 25.000
+- € 23.500
+> 37% van 40.000 = 14.800, plus 50% van 10.000 = 5.000, samen € 19.800.
+### MC
+Tot € 40.000 betaal je 37% en daarboven 50%. Iemand verdient € 50.000 en betaalt € 19.800. Wat is zijn marginale tarief?
+* 50%
+- 39,6%
+- 37%
+- 43,5%
+> Het marginale tarief is het tarief van de hoogste schijf waarin het inkomen valt. Het gemiddelde tarief is 39,6%.
+### MC
+In welke box betaalt iemand belasting over zijn spaargeld?
+* Box 3
+- Box 1
+- Box 2
+- In geen enkele box
+> Box 3 belast het fictieve rendement op sparen en beleggen.
+### MC
+Waarom bestaat de arbeidskorting?
+* Om werken aantrekkelijker te maken dan een uitkering
+- Om werkgevers minder premie te laten betalen
+- Om de btw te verlagen
+- Om het vermogen van spaarders te beschermen
+> Werkenden houden netto meer over, dus de prikkel om te werken wordt groter.
+
+## § 11.4 | Btw, accijnzen en autobelastingen
+onderwerp: D.heffing
+deelvraag: Waarom heft de overheid belasting op aanschaf, bezit of gebruik van producten?
+leerdoelen: ECO-BELAS-02
+### UITLEG Btw en accijns
+Btw (omzetbelasting): het algemene tarief is 21%, het verlaagde tarief 9% (onder andere voeding en boeken) en er is een 0%-tarief. Ondernemers dragen de btw over hun verkopen af en trekken de btw over hun inkopen (voorbelasting) daarvan af.
+Prijs exclusief btw = prijs inclusief btw / 1,21 (bij 21%).
+Accijns is een extra belasting op alcohol, tabak en brandstof. Doel: het gebruik afremmen vanwege negatieve externe effecten en geld binnenhalen. Over de prijs inclusief accijns wordt ook nog btw geheven.
+### UITLEG Autobelastingen
+- Bpm: eenmalig bij aanschaf van een nieuwe auto, vooral op basis van de CO2-uitstoot.
+- Motorrijtuigenbelasting: periodiek, voor het bezit van een auto.
+- Rekeningrijden of kilometerheffing: betalen voor het gebruik, per gereden kilometer.
+### UITLEG Europa
+Binnen de EU is er vrij verkeer van goederen. Grote verschillen in btw en accijns leiden tot grenseffecten: mensen tanken of winkelen over de grens. Daarom streeft de EU naar harmonisatie van tarieven, bijvoorbeeld met minimumtarieven.
+### BEGRIPPEN
+Btw = Belasting over de toegevoegde waarde, geheven bij de verkoop van goederen en diensten.
+Voorbelasting = De btw die een ondernemer bij inkoop betaalt en mag aftrekken.
+Accijns = Extra belasting op specifieke producten zoals alcohol, tabak en brandstof.
+Bpm = Eenmalige belasting bij de aanschaf van een nieuwe auto of motor.
+Motorrijtuigenbelasting = Periodieke belasting op het bezit van een motorrijtuig.
+Kilometerheffing = Belasting op het gebruik van de auto, per gereden kilometer.
+Harmonisatie = Het op elkaar afstemmen van belastingtarieven tussen landen.
+### MC
+Een broek kost € 60,50 inclusief 21% btw. Wat is de prijs exclusief btw?
+* € 50,00
+- € 47,80
+- € 39,50
+- € 73,21
+> 60,50 / 1,21 = 50,00.
+### MC
+Welke autobelasting betaal je voor het gebruik van de auto?
+* Kilometerheffing
+- Bpm
+- Motorrijtuigenbelasting
+- Btw bij aanschaf
+> Bij kilometerheffing betaal je per gereden kilometer.
+### MC
+Nederland verhoogt de accijns op benzine sterk, terwijl Duitsland dat niet doet. Wat is een waarschijnlijk gevolg?
+* Mensen in de grensstreek gaan in Duitsland tanken
+- De Nederlandse belastingopbrengst stijgt precies evenveel als de accijns
+- Duitse automobilisten gaan in Nederland tanken
+- De btw op benzine daalt
+> Dit is een grenseffect. Daarom streeft de EU naar harmonisatie.
+### MC
+Een ondernemer verkoopt voor € 10.000 exclusief btw en koopt in voor € 6.000 exclusief btw, beide tegen 21%. Hoeveel btw draagt hij af?
+* € 840
+- € 2.100
+- € 1.260
+- € 4.000
+> Btw over verkoop 2.100 min voorbelasting 1.260 = € 840.

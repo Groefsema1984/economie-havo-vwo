@@ -1,0 +1,254 @@
+# HOOFDSTUK h 1 | Schaarste en welvaart
+domein: B
+hoofdvraag: Wat is het verband tussen inkomen, prijzen, welvaart en geld?
+
+## § 1.1 | Inkomen en welvaart
+onderwerp: B.keuze
+deelvraag: Hoe bepalen inkomen en koopkracht de welvaart?
+gens: reeelIndex
+### UITLEG Nominaal en reëel inkomen
+De koopkracht van je inkomen is hoeveel goederen en diensten je ermee kunt kopen.
+Het nominale inkomen is het bedrag in euro's. Het reële inkomen is gecorrigeerd voor prijsstijgingen, gemeten met de consumentenprijsindex (CPI).
+Indexcijfer reëel inkomen = indexcijfer nominaal inkomen / CPI × 100. De verandering van de koopkracht is dat indexcijfer min 100.
+### UITLEG Schaarste en zeldzaamheid
+Behoeften bevredig je met goederen (tastbaar, zoals kleding) en diensten (niet tastbaar, zoals de dierenarts).
+Schaarste: met de beperkte, alternatief aanwendbare productiemiddelen kun je niet genoeg maken voor al onze behoeften.
+Schaarste is niet hetzelfde als zeldzaamheid:
+- Niet zeldzaam, wel schaars: fietsen, brood.
+- Wel zeldzaam, niet schaars: een mislukte tekening waar niemand behoefte aan heeft.
+- Zeldzaam en schaars: goud, een Rembrandt.
+- Niet zeldzaam en niet schaars: vrije goederen zoals zonlicht en buitenlucht.
+### UITLEG Welvaart en welzijn
+Welvaart is de mate waarin je in je behoeften kunt voorzien.
+Welvaart in enge zin (materiële welvaart): de koopkracht van het gemiddelde inkomen per inwoner.
+Welvaart in ruime zin (brede welvaart): ook zaken die niet in geld zijn uitgedrukt, zoals vrije tijd, mantelzorg, veiligheid en een schoon milieu.
+Welzijn is hoe gelukkig je je voelt.
+### BEGRIPPEN
+Koopkracht = De hoeveelheid goederen en diensten die je met je inkomen kunt kopen.
+Nominaal inkomen = Het inkomen in euro's, zonder rekening te houden met prijsstijgingen.
+Reëel inkomen = Het nominale inkomen gecorrigeerd voor prijsstijgingen.
+Consumentenprijsindexcijfer = Indexcijfer van de gemiddelde prijsontwikkeling van wat een gemiddeld huishouden koopt.
+Schaarste = Met beperkte productiemiddelen kun je niet genoeg maken om alle behoeften te vervullen.
+Vrij goed = Goed dat onbeperkt beschikbaar is zonder dat er productiemiddelen voor nodig zijn, zoals zonlicht.
+Welvaart in enge zin = De koopkracht van het gemiddelde inkomen per inwoner.
+Welvaart in ruime zin = De mate waarin mensen in al hun behoeften kunnen voorzien, ook in niet-materiële.
+Welzijn = De mate waarin je je gelukkig voelt.
+### MC
+Het indexcijfer van je nominale inkomen is 104 en de CPI is 102. Wat is er met je koopkracht gebeurd?
+* Die is met ongeveer 2% gestegen
+- Die is met 4% gestegen
+- Die is met 2% gedaald
+- Die is gelijk gebleven
+> 104 / 102 × 100 = 102,0. Dat is 2,0% meer koopkracht.
+### MC
+In welke combinatie past een fiets?
+* Niet zeldzaam, wel schaars
+- Wel zeldzaam, niet schaars
+- Zeldzaam en schaars
+- Niet zeldzaam en niet schaars
+> Er zijn veel fietsen, maar er zijn schaarse productiemiddelen nodig om ze te maken.
+### MC
+Een buurt krijgt meer groen en wordt veiliger, terwijl de inkomens gelijk blijven. Wat gebeurt er?
+* De welvaart in ruime zin stijgt
+- De welvaart in enge zin stijgt
+- De koopkracht stijgt
+- Er verandert niets aan de welvaart
+> Groen en veiligheid zijn niet-materiële zaken die meetellen in de brede welvaart.
+### MC
+Iemand zorgt elke week voor zijn zieke moeder (mantelzorg). Wat doet dit met de welvaart in ruime zin?
+* Die stijgt, ook al wordt er niets voor betaald
+- Die daalt, want er wordt niets verdiend
+- Er verandert niets, want het is geen werk
+- Alleen de welvaart in enge zin stijgt
+> Mantelzorg voorziet in behoeften, ook al zit het niet in het inkomen.
+
+## § 1.2 | Schaarste en kiezen
+onderwerp: B.budget
+deelvraag: Op welke manier leidt schaarste tot het maken van keuzes?
+gens: budgetMax, altKosten
+### UITLEG Kiezen en opofferingskosten
+Middelen zoals geld en tijd zijn beperkt en alternatief aanwendbaar. Daarom moeten consumenten, bedrijven en de overheid kiezen.
+Opofferingskosten zijn de waarde van het beste alternatief dat je niet kiest. Voorbeelden: een avond vrij kost het loon dat je had kunnen verdienen. Meer geld voor onderwijs betekent minder voor politie of wegen.
+### UITLEG De budgetlijn
+De budgetlijn geeft alle combinaties die je met je budget maximaal kunt kopen: Y = P₁ × Q₁ + P₂ × Q₂.
+Tekenen: bereken de snijpunten met de assen (Q₁ = Y / P₁ en Q₂ = Y / P₂) en verbind ze met een rechte lijn.
+Combinaties op en links onder de lijn zijn betaalbaar, combinaties rechts boven de lijn niet.
+### BEGRIPPEN
+Alternatief aanwendbaar = Middelen die op verschillende manieren gebruikt kunnen worden; het ene gebruik sluit het andere uit.
+Opofferingskosten = De waarde of opbrengst van het beste niet-gekozen alternatief.
+Budgetlijn = Lijn met alle productcombinaties die je bij gegeven prijzen en budget maximaal kunt kopen.
+### MC
+Je hebt € 60. Een bioscoopkaartje kost € 12 en een pizza € 10. Welke combinatie ligt precies op je budgetlijn?
+* 0 kaartjes en 6 pizza's
+- 5 kaartjes en 1 pizza
+- 4 kaartjes en 2 pizza's
+- 2 kaartjes en 5 pizza's
+> 6 × € 10 = € 60. De andere kosten meer: 5 × 12 + 10 = 70, 4 × 12 + 20 = 68, 2 × 12 + 50 = 74.
+### MC
+Je budget is € 40. Een T-shirt kost € 10 en een pet € 8. Kun je 2 T-shirts en 3 petten kopen?
+* Nee, dat kost € 44 en ligt rechts boven de budgetlijn
+- Ja, dat kost precies € 40
+- Ja, dat kost € 36
+- Nee, dat kost € 50
+> 2 × 10 + 3 × 8 = 44. Dat is meer dan je budget.
+### MC
+Tim kan zaterdag werken (€ 70), bij de buren oppassen (€ 40) of voetballen. Hij gaat voetballen. Wat zijn zijn opofferingskosten?
+* € 70
+- € 110
+- € 40
+- € 0
+> Alleen het beste niet-gekozen alternatief telt: werken voor € 70.
+### MC
+De gemeente gebruikt een budget voor een nieuw zwembad in plaats van voor extra politie. Wat zijn de opofferingskosten?
+* De extra veiligheid die de politie had opgeleverd
+- De bouwkosten van het zwembad
+- De entreeprijs van het zwembad
+- Er zijn geen opofferingskosten, want het is overheidsgeld
+> Ook de overheid moet kiezen: het geld kan maar één keer worden uitgegeven.
+
+## § 1.3 | Arbeidsverdeling, welvaart en ruil
+onderwerp: C.spec
+deelvraag: Hoe leidt een toename van arbeidsverdeling tot meer ruil en welvaart?
+gens: productiviteit
+### UITLEG Arbeidsverdeling
+Bij arbeidsverdeling (specialisatie) legt ieder zich toe op waar hij het beste in is. Je wordt handiger en verliest geen tijd met wisselen, dus stijgt de arbeidsproductiviteit (productie per werkende per tijdseenheid).
+Ook landen specialiseren zich: Nederland in tulpen, Brazilië in koffie.
+### UITLEG Ruil en transactiekosten
+Door arbeidsverdeling ben je afhankelijk van anderen: er ontstaat ruil.
+Transactiekosten zijn de bijkomende kosten naast de prijs: transport, zoeken, onderhandelen, makelaar en notaris.
+Betere infrastructuur en ICT verlagen de transactiekosten. Dan wordt er meer geruild en stijgt de welvaart.
+### BEGRIPPEN
+Arbeidsverdeling = Het verdelen van werk over personen, bedrijven of landen (specialisatie).
+Arbeidsproductiviteit = De productie per werkende per tijdseenheid.
+Transactiekosten = De bijkomende kosten om een aankoop of verkoop tot stand te brengen, naast de prijs zelf.
+### MC
+Waarom stijgt de arbeidsproductiviteit door specialisatie?
+* Je wordt handiger en verliest geen tijd met het wisselen van taken
+- Je gaat langer werken
+- Er zijn minder werknemers nodig voor ruil
+- De transactiekosten stijgen
+> Wie steeds dezelfde taak doet, wordt er sneller en beter in.
+### MC
+Welke kosten zijn transactiekosten bij het kopen van een tweedehands auto via internet?
+* De reiskosten om de auto te bekijken en op te halen
+- De prijs van de auto
+- De benzine die je daarna verbruikt
+- De wegenbelasting
+> Transactiekosten maak je om de ruil tot stand te brengen, bovenop de prijs.
+### MC
+Wat is het gevolg van lagere transactiekosten door internet en betere wegen?
+* Er wordt meer geruild en de welvaart stijgt
+- Er wordt minder geruild
+- De arbeidsproductiviteit daalt
+- Specialisatie wordt minder nuttig
+> Als ruilen goedkoper wordt, loont specialiseren en handelen meer.
+### MC
+Waardoor ontstaat ruil?
+* Door arbeidsverdeling maakt niemand meer alles zelf
+- Door schaarste aan geld
+- Door de wet van Gresham
+- Door hogere transactiekosten
+> Wie zich specialiseert, moet de rest van zijn behoeften via ruil vervullen.
+
+## § 1.4 | Ruilen en geld
+onderwerp: C.geld
+deelvraag: Hoe bevordert geld de ruil en wat zijn de eigenschappen van geld?
+### UITLEG Directe en indirecte ruil
+Bij directe ruil (ruil in natura) ruil je producten rechtstreeks, bijvoorbeeld graan tegen brood. Dat is omslachtig: beide partijen moeten precies willen wat de ander heeft.
+Bij indirecte ruil ruil je via geld. Dat verlaagt de transactiekosten.
+### UITLEG Geldhoeveelheid en functies
+Chartaal geld zijn munten en biljetten. Giraal geld is het tegoed op betaalrekeningen en direct opvraagbare spaarrekeningen.
+Het publiek zijn alle gezinnen, bedrijven en lagere overheden, maar niet de banken en de Rijksoverheid. De maatschappelijke geldhoeveelheid is al het chartale en girale geld van het publiek.
+Functies van geld: ruilmiddel, rekenmiddel (alles in euro's vergelijken) en oppotmiddel (koopkracht bewaren).
+### UITLEG Vertrouwen en veiligheid
+De intrinsieke waarde is de materiaalwaarde, de nominale waarde staat erop. Fiduciair geld (vertrouwensgeld) heeft een nominale waarde die hoger is dan de intrinsieke waarde: het werkt omdat iedereen het accepteert.
+Wet van Gresham: slecht geld verdrijft goed geld, omdat mensen het waardevolle geld oppotten.
+Cybercrime bedreigt giraal geld: phishing (valse mails en websites), smishing (via sms of WhatsApp), quishing (valse QR-codes), skimming (betaalpas kopiëren) en ransomware (gijzelsoftware).
+### BEGRIPPEN
+Directe ruil = Producten rechtstreeks ruilen tegen andere producten, zonder geld.
+Indirecte ruil = Producten ruilen tegen geld en met dat geld andere producten kopen.
+Chartaal geld = Munten en bankbiljetten in handen van het publiek.
+Giraal geld = Tegoeden op betaalrekeningen en direct opvraagbare spaarrekeningen van het publiek.
+Publiek = Alle huishoudens, bedrijven en lagere overheden, zonder de banken en de Rijksoverheid.
+Maatschappelijke geldhoeveelheid = Al het chartale en girale geld in handen van het publiek.
+Fiduciair geld = Geld met een nominale waarde die hoger is dan de intrinsieke waarde, dat werkt op vertrouwen.
+Intrinsieke waarde = De materiaalwaarde van een munt of bankbiljet.
+Phishing = Via valse e-mails of websites inloggegevens of pincodes stelen.
+Skimming = Het ongemerkt kopiëren van betaalpasgegevens en afkijken van de pincode.
+Ransomware = Gijzelsoftware die een computer blokkeert tot er losgeld is betaald.
+### MC
+Je neemt € 100 contant op bij de geldautomaat. Wat gebeurt er met de maatschappelijke geldhoeveelheid?
+* Die blijft gelijk
+- Die stijgt met € 100
+- Die daalt met € 100
+- Die stijgt met € 200
+> Je giraal geld daalt met € 100 en je chartaal geld stijgt met € 100.
+### MC
+Welke functie van geld gebruik je als je spaart voor een scooter?
+* De oppotfunctie
+- De ruilfunctie
+- De rekenfunctie
+- De wisselfunctie
+> Je bewaart koopkracht om later iets te kopen.
+### MC
+Je krijgt een sms van "je bank" met een link om in te loggen. Hoe heet deze vorm van fraude?
+* Smishing
+- Skimming
+- Ransomware
+- Quishing
+> Phishing via sms of een berichtenapp heet smishing.
+### MC
+Waarom accepteert iedereen een eurobiljet, terwijl het papier bijna niets waard is?
+* Omdat het fiduciair geld is: iedereen vertrouwt erop dat anderen het accepteren
+- Omdat er goud tegenover staat
+- Omdat de intrinsieke waarde hoog is
+- Omdat het chartaal geld is
+> De nominale waarde is veel hoger dan de intrinsieke waarde. Het draait om vertrouwen.
+
+## § 1.5 | Vreemd geld
+onderwerp: C.intl
+deelvraag: Hoe betaal je in het buitenland met vreemd geld?
+gens: wisselkoers
+### UITLEG Wisselkoers
+De wisselkoers is de prijs van een munt uitgedrukt in een andere munt, bijvoorbeeld € 1 = $ 1,10.
+Bij een wisselkantoor geldt een verkoopkoers (de bank verkoopt jou vreemd geld als je op reis gaat) en een aankoopkoers (de bank koopt het terug als je terugkomt). Het verschil is de winst van de bank. Vaak betaal je ook nog transactiekosten.
+### UITLEG Appreciatie en depreciatie
+Appreciatie is een waardestijging van een munt. Als de euro appreciëert, worden onze exportproducten duurder voor het buitenland (de export daalt) en wordt import goedkoper (de import stijgt en de geïmporteerde inflatie daalt).
+Depreciatie is een waardedaling. Dan wordt onze export goedkoper (de export stijgt) en import duurder.
+Onzekerheid over de wisselkoers remt de handel. Daarom is in Europa de euro ingevoerd.
+### UITLEG Wisselkoersstelsels
+Bij flexibele (zwevende) koersen bepalen vraag en aanbod de koers, zoals bij de euro en de dollar. Bij vaste koersen grijpen centrale banken in om de koers stabiel te houden.
+### BEGRIPPEN
+Wisselkoers = De prijs van een munt uitgedrukt in een andere munt.
+Appreciatie = Waardestijging van een munt bij flexibele wisselkoersen.
+Depreciatie = Waardedaling van een munt bij flexibele wisselkoersen.
+Flexibele wisselkoers = Wisselkoers die vrij tot stand komt door vraag en aanbod op de valutamarkt.
+Vaste wisselkoers = Afgesproken koers die centrale banken stabiel houden door in te grijpen.
+### MC
+De koers is € 1 = $ 1,25. Je wisselt € 200 om. Hoeveel dollar krijg je (zonder kosten)?
+* $ 250
+- $ 160
+- $ 200
+- $ 225
+> 200 × 1,25 = $ 250.
+### MC
+De euro appreciëert ten opzichte van de dollar. Wat is het gevolg voor Nederlandse exporteurs naar de VS?
+* Hun producten worden duurder in dollars, zodat de export daalt
+- Hun producten worden goedkoper in dollars
+- Er verandert niets voor exporteurs
+- Ze betalen meer voor hun import uit de VS
+> Een Amerikaan moet meer dollars betalen voor dezelfde euro-prijs.
+### MC
+Waarom krijg je bij het terugwisselen van vreemd geld minder euro's dan je ervoor betaalde?
+* De bank koopt tegen een lagere koers terug dan ze verkoopt, en rekent soms kosten
+- Omdat de euro altijd depreciëert
+- Omdat vreemd geld fiduciair geld is
+- Omdat de wisselkoers vast is
+> Het verschil tussen verkoop- en aankoopkoers is de winst van de bank.
+### MC
+Waarom hebben Europese landen de euro ingevoerd?
+* Om wisselkoersonzekerheid tussen die landen weg te nemen en handel te bevorderen
+- Om de inflatie te verhogen
+- Om de export naar de VS te verlagen
+- Om flexibele koersen in te voeren
+> Zonder eigen munten kunnen koersen tussen eurolanden niet meer schommelen.
