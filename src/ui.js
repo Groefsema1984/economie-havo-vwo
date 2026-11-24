@@ -112,6 +112,7 @@ home(){
     <div class="kaart"><h3 class="zijkop">Je uitdagingen</h3>
      ${exOpen?`<button class="uitdaging" onclick="go('examen')"><span class="thumb" style="${foto('examen',200)}"><span>🎓</span></span><span><b>Eindexamentrainer</b><small>${ok} van ${exVragen().length} examenvragen beheerst</small></span></button>
      <button class="uitdaging" onclick="startSprint()"><span class="thumb" style="${foto('sprint',200)}"><span>⚡</span></span><span><b>Examensprint</b><small>15 vragen tegen de klok · record ${(S.sprint||{}).best||0}</small></span></button>`:''}
+     <button class="uitdaging" onclick="startSlim()"><span class="thumb" style="${foto('vaardig',200)}"><span>🎯</span></span><span><b>Slim oefenen</b><small>Extra vragen over je zwakste onderwerpen</small></span></button>
      <button class="uitdaging" onclick="go('herhaal')"><span class="thumb" style="${foto('herhaal',200)}"><span>🔁</span></span><span><b>Herhaalronde</b><small>${nh?nh+' vragen om opnieuw te doen':'Geen foute vragen, goed bezig!'}</small></span></button>
     </div>
     <div class="kaart"><h3 class="zijkop">Je badges</h3><div class="badges">${badges}</div>
@@ -167,7 +168,7 @@ vaardig(){
        return `<button class="lv" onclick="startEindterm('${k}')"><span class="med" style="font-size:14px;color:${c}">●</span><span style="flex:1"><b style="font-weight:600">${esc(EINDTERMEN[k].t)}</b><small>${s==null?'Nog niet genoeg geoefend':'Score '+s}</small></span><span class="zacht">›</span></button>`}).join('');
     return `<div class="kaart" style="margin-bottom:12px"><div class="domein" style="border:0"><span style="font-size:26px">${d.icoon}</span><div><b>${d.naam}</b><div class="balk" style="margin-top:6px"><i style="width:${sc||0}%;background:${kl}"></i></div></div><span class="pct">${sc==null?'–':sc}</span></div>
      ${n?`<button class="knop zacht vol" style="margin:6px 0" onclick="startDomein('${d.id}')">Oefen ${d.naam.toLowerCase()}</button>`:'<p class="zacht" style="margin:4px 0">Komt erbij met de volgende hoofdstukken.</p>'}${sub}</div>`}).join('');
-  return `<div class="wrap">${kop('Vaardigheden','go(\'home\')')}<p class="zacht">Je score per onderdeel telt je laatste 20 antwoorden. Recente antwoorden tellen zwaarder. Groen is 75 of hoger.</p>${doms}</div>`;
+  return `<div class="wrap">${kop('Vaardigheden','go(\'home\')')}<div class="kaart" style="margin-bottom:12px"><b>🎯 Slim oefenen</b><p class="zacht" style="margin:4px 0 8px">10 vragen uit de onderwerpen waar je nu het zwakst in bent${zwaksteOnderwerpen(4).length?': '+zwaksteOnderwerpen(4).map(k=>esc(EINDTERMEN[k].t)).join(', '):''}.</p><button class="knop" onclick="startSlim()">Start slim oefenen</button></div><p class="zacht">Je score per onderdeel telt je laatste 20 antwoorden. Recente antwoorden tellen zwaarder. Groen is 75 of hoger.</p>${doms}</div>`;
 },
 herhaal(){
   const n=S.herhaal.length;
@@ -280,6 +281,38 @@ function startDomein(d){ const ets=Object.keys(EINDTERMEN).filter(k=>EINDTERMEN[
   if(!v.length){melding('Hier zijn nog geen vragen voor');return}
   const D=DOMEINEN.find(x=>x.id===d); Q={modus:'domein',titel:D.naam,kleur:D.kleur,vragen:shuffle(v),i:0,res:[],terug:"go('vaardig')"}; go('quiz') }
 
+// ===== Adaptief oefenen =====
+// Na een fout antwoord krijgt de leerling een extra vraag over hetzelfde onderwerp (steunvraag), maximaal 3 per ronde.
+// Steunvragen tellen niet mee voor de medaille van een level, wel voor de vaardigheidsscore.
+const STEUN_MAX=3, STEUN_MODI=['level','et','domein','herhaal','slim'];
+const autoNakijk = v => ['mc','wo','ex','reken','koppel'].includes(v.t);
+function steunvraag(v){
+  if(!Q||!STEUN_MODI.includes(Q.modus)||!v.e||(Q.nSteun||0)>=STEUN_MAX) return;
+  const al=new Set(Q.vragen.map(x=>x.id));
+  const recentGoed=x=>{const r=S.vr[x.id]; return r&&r.g>0&&r.t&&Date.now()-r.t<3*864e5};
+  let kand=alleVragen().filter(x=>x.e===v.e&&vrNiv(x)&&autoNakijk(x)&&!al.has(x.id));
+  kand=shuffle(kand).sort((a,b)=>(recentGoed(a)?1:0)-(recentGoed(b)?1:0));
+  let nw=kand[0];
+  if(!nw){ const g=Object.keys(GENS).filter(n=>{try{return maakGen(n).e===v.e}catch(e){return false}}); if(g.length) nw=maakGen(pick(g)) }
+  if(!nw) return;
+  nw=Object.assign({},nw,{_steun:true}); delete nw._mix;
+  Q.vragen.splice(Math.min(Q.i+2,Q.vragen.length),0,nw); Q.nSteun=(Q.nSteun||0)+1;
+  const fb=$('#fb'); if(fb) fb.insertAdjacentHTML('beforeend',`<p class="zacht" style="font-size:14px;margin:6px 0 0">➕ Je krijgt zo een extra vraag over ${esc((EINDTERMEN[v.e]||{}).t||'dit onderwerp')}.</p>`);
+}
+// Slim oefenen: 10 vragen uit de onderwerpen waar de leerling het zwakst op scoort (plus foute vragen uit de herhaalronde)
+function zwaksteOnderwerpen(n){
+  const metVragen=new Set(alleVragen().filter(x=>vrNiv(x)&&autoNakijk(x)&&x.e).map(x=>x.e));
+  const gespeeld=Object.keys(S.et).filter(k=>metVragen.has(k)&&EINDTERMEN[k]);
+  return gespeeld.map(k=>[k,etScore(k)??60]).filter(x=>x[1]<80).sort((a,b)=>a[1]-b[1]).slice(0,n).map(x=>x[0]);
+}
+function startSlim(){
+  const ets=zwaksteOnderwerpen(4);
+  let v=S.herhaal.map(vraagById).filter(x=>x&&autoNakijk(x)&&vrNiv(x)); v=shuffle(v).slice(0,3);
+  const al=new Set(v.map(x=>x.id));
+  ets.forEach((k,i)=>{ const per=i===0?3:2; shuffle(alleVragen().filter(x=>x.e===k&&vrNiv(x)&&autoNakijk(x)&&!al.has(x.id))).slice(0,per).forEach(x=>{v.push(x);al.add(x.id)}) });
+  if(v.length<5){ melding('Oefen eerst een paar levels. Daarna weet de app waar je extra oefening nodig hebt.',4000); return }
+  Q={modus:'slim',titel:'Slim oefenen',vragen:shuffle(v).slice(0,10),i:0,res:[],terug:"go('vaardig')"}; go('quiz') }
+
 // ===== Quiz-engine =====
 let antw=null;
 function tekenVraag(){
@@ -295,7 +328,7 @@ function tekenVraag(){
   else if(v.t==='open') body=`<textarea id="oIn" rows="5" style="width:100%;font:inherit;padding:10px;border-radius:12px;border:1px solid var(--lijn)" placeholder="Schrijf je antwoord op, zoals op het examen." oninput="antw=this.value"></textarea><p class="zacht" style="font-size:14px">Daarna zie je het antwoordmodel en kijk je zelf na.${v.pnt?` Maximaal ${v.pnt} punt${v.pnt>1?'en':''}.`:''}</p>`;
   else if(v.t==='reken') body=`<div class="reken">${v.eh==='€'?'€':''}<input type="text" id="rIn" inputmode="decimal" autocomplete="off" oninput="antw=this.value;$('#ok').disabled=!this.value.trim()" onkeydown="if(event.key==='Enter'&&!$('#ok').disabled)controleer()">${v.eh==='%'?'%':''}</div><p class="zacht" style="font-size:14px">Gebruik een komma voor decimalen. ${v.eh==='€'?'Rond af op 2 decimalen.':'Rond af op 1 decimaal.'}</p>`;
   $('#qz').innerHTML=`<div class="top"><button class="terug" onclick="if(confirm('Stoppen? Deze ronde telt dan niet mee.'))${Q.terug.replace(/"/g,'&quot;')}">‹ Stop</button><h1 style="font-size:18px">${esc(Q.titel)}</h1><span class="chip">${Q.i+1} / ${Q.vragen.length}</span></div>
-   <div class="voortgang">${bol}</div><div class="kaart">${v.ctx?`<p class="zacht" style="margin-top:0;font-size:14px">${esc(v.ctx)}</p>`:''}<div class="vraag${v.q.length>180?' lang':''}">${esc(v.q)}</div>${body}<div id="fb"></div>
+   <div class="voortgang">${bol}</div><div class="kaart">${v._steun?`<p class="chip" style="display:inline-block;margin:0 0 8px">➕ Extra oefenvraag</p>`:''}${v.ctx?`<p class="zacht" style="margin-top:0;font-size:14px">${esc(v.ctx)}</p>`:''}<div class="vraag${v.q.length>180?' lang':''}">${esc(v.q)}</div>${body}<div id="fb"></div>
    <div class="voet"><button class="knop" id="ok" disabled onclick="controleer()">Controleer</button></div></div>`;
   if(v.t==='reken') setTimeout(()=>$('#rIn')&&$('#rIn').focus(),50);
   if(v.t==='open') $('#ok').disabled=false, $('#ok').textContent='Toon antwoordmodel';
@@ -327,6 +360,7 @@ function afronden(v){
     if(v.t==='open') $('#fb').innerHTML=`<div class="fb ${goed?'goed':'fout'}"><b>${goed?'Mooi!':'Deze komt terug in je herhaalronde.'}</b><div style="white-space:pre-line;margin-top:6px">${esc(v.model||'')}</div>${v.u?'<br>'+esc(v.u):''}</div>`; else
     $('#fb').innerHTML=`<div class="fb ${goed?'goed':'fout'}"><b>${goed?pick(['Goed zo!','Klopt!','Top!','Helemaal goed!']):'Niet goed.'}</b> ${goed?'':'Het juiste antwoord: <b>'+esc(juistTekst(v))+'</b>. '}${v.u?'<br>'+esc(v.u):''}${nk?`<br>🃏 Nieuwe kaart: <b>${esc(v.b)}</b>`:''}</div>`;
   }
+  if(!goed) steunvraag(v);
   document.querySelectorAll('.optie').forEach(x=>x.disabled=true);
   const laatste=Q.i===Q.vragen.length-1; const ok=$('#ok'); ok.disabled=false; ok.textContent=laatste?'Bekijk resultaat':'Volgende'; ok.onclick=volgende;
   if(toets) volgende(); else bewaar();
@@ -334,7 +368,9 @@ function afronden(v){
 function volgende(){ if(Q.i<Q.vragen.length-1){ Q.i++; tekenVraag() } else klaar() }
 
 function klaar(){
-  oefenActief=false; const n=Q.res.filter(Boolean).length, tot=Q.vragen.length; let extra='', titel='', icoon='🎉';
+  oefenActief=false; let n=Q.res.filter(Boolean).length, tot=Q.vragen.length; let extra='', titel='', icoon='🎉';
+  const nS=Q.vragen.filter(v=>v._steun).length;
+  if(nS){ n=Q.res.filter((g,i)=>g&&!Q.vragen[i]._steun).length; tot=tot-nS; const sg=Q.res.filter((g,i)=>g&&Q.vragen[i]._steun).length; extra+=`<p class="zacht">Extra oefenvragen: ${sg} van ${nS} goed.</p>` }
   if(Q.modus==='level'){
     const n8=Math.round(n/tot*VRAGEN_PER_LEVEL); // score omgerekend naar 8, zodat levels met meer of minder vragen eerlijk tellen
     const oud=(S.lv[Q.lid]||{}).best; const r=S.lv[Q.lid]||{best:0,n:0}; r.n++; r.best=Math.max(r.best||0,n8); r.laatst=n8; S.lv[Q.lid]=r;

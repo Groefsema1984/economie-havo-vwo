@@ -23,6 +23,13 @@
   meerkeuzevragen per open plek, zodat leerlingen die ook automatisch nagekeken kunnen oefenen.
   Figuren, grafieken en bronnen uit de bijlage zitten nog niet in de app: bij zo'n vraag staat de hint om het examen erbij te pakken.
 
+- **Adaptief oefenen**:
+  - Bij een fout antwoord krijgt de leerling in dezelfde ronde een extra vraag over hetzelfde onderwerp. Dat zijn er maximaal 3 per ronde.
+    Dit gebeurt in levels, bij oefenen per onderwerp of domein en in de herhaalronde. Bij domeintoetsen, examens en de sprint gebeurt het niet.
+    Deze extra vragen tellen niet mee voor de medaille, maar wel voor de vaardigheidsscore.
+  - **Slim oefenen** (op Start en onder Vaardigheden) kiest 10 vragen uit de onderwerpen waar de leerling het zwakst scoort, plus een paar foute vragen uit de herhaalronde.
+  - "Oefen dit domein" geeft voorrang aan de zwakste onderwerpen.
+
 Let op: de onderwerpen per domein (bijvoorbeeld "D.elas Elasticiteit") zijn werktitels, geen officiële syllabuscodes.
 Ze staan in `src/data-basis.js` en zijn makkelijk aan te passen of uit te breiden.
 
