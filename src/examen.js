@@ -13,11 +13,12 @@ let exTab='jaar';
 SCHERMEN.examen = function(){
   const tot=exVragen().length, ok=exVragen().filter(beheerst).length;
   if(!tot) return `<div class="wrap">${kop('Eindexamentrainer',"go('home')")}<div class="kaart"><p style="margin:0">Er staan nog geen examenvragen voor ${NIVEAUS[niv()]} klaar. Ze komen hier zodra ze zijn toegevoegd.</p></div></div>`;
-  const tabs=[['jaar','Per examen'],['domein','Per domein'],['print','Printen']].map(([k,t])=>`<button class="knop ${exTab===k?'':'zacht'}" onclick="exTab='${k}';go('examen')">${t}</button>`).join('');
+  const tabs=[['jaar','Per examen'],['domein','Per domein'],['tijd','Op tijd maken'],['print','Printen']].map(([k,t])=>`<button class="knop ${exTab===k?'':'zacht'}" onclick="exTab='${k}';go('examen')">${t}</button>`).join('');
   let inhoud='';
   if(exTab==='jaar') inhoud=`<div class="kaart">${exLijst().map(({c,v})=>{const b=v.filter(beheerst).length; return `<button class="lv" onclick="startExamen('${c}')"><span class="med">${b===v.length?'🏆':'📄'}</span><span style="flex:1"><b>Examen ${exNaam(c)}</b><small>${v.length} vragen · ${b} beheerst</small><div class="balk" style="margin-top:6px"><i style="width:${Math.round(b/v.length*100)}%"></i></div></span><span class="zacht">›</span></button>`}).join('')}</div>`;
   else if(exTab==='domein') inhoud=`<div class="kaart">${exDomeinen().map(d=>{const v=exVragen().filter(x=>x.d===d.id); const b=v.filter(beheerst).length; return `<button class="lv" onclick="startExDomein('${d.id}')"><span class="med">${d.icoon}</span><span style="flex:1"><b>${d.naam}</b><small>${v.length} vragen · ${b} beheerst · 10 per ronde, je zwakke vragen eerst</small><div class="balk" style="margin-top:6px"><i style="width:${Math.round(b/v.length*100)}%;background:${d.kleur}"></i></div></span><span class="zacht">›</span></button>`}).join('')}
      <button class="lv" onclick="startExMix()"><span class="med">🎲</span><span style="flex:1"><b>Alles door elkaar</b><small>10 willekeurige examenvragen</small></span><span class="zacht">›</span></button></div>`;
+  else if(exTab==='tijd') inhoud=exTijdLijst();
   else inhoud=`<div class="kaart"><p style="margin-top:0">Kies wat je wilt printen. Je krijgt de vragen met de examenpagina's en bronnen, een antwoordblad en een antwoordenlijst voor de docent.</p>
      <label class="label">Examen</label><select id="prSel"><option value="">Alle examens per domein…</option>${exLijst().map(({c,v})=>`<option value="${c}">Examen ${exNaam(c)} (${v.length} vragen)</option>`).join('')}</select>
      <label class="label">Of een domein</label><select id="prDom"><option value="">–</option>${exDomeinen().map(d=>`<option value="${d.id}">${d.naam}</option>`).join('')}</select>

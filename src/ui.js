@@ -17,7 +17,7 @@ function nav(){
   const m=$('#menu'), p=$('#profiel'); if(!m) return;
   if(!S||!S.naam||scherm==='quiz'||scherm==='welkom'){ m.innerHTML=''; p.innerHTML=''; return }
   const exOpen=exVragen().length>0;
-  const items=[['home','Start'],exOpen?['examen','Eindexamen']:null,['vaardig','Vaardigheden'],['herhaal','Herhalen'+(S.herhaal.length?` (${S.herhaal.length})`:'')],['collectie','Collectie'],['account','Account']].filter(Boolean);
+  const items=[['home','Start'],['leren','Leren'],exOpen?['examen','Eindexamen']:null,['vaardig','Vaardigheden'],['herhaal','Herhalen'+(S.herhaal.length?` (${S.herhaal.length})`:'')],['collectie','Collectie'],['account','Account']].filter(Boolean);
   const actief=scherm==='wereld'||scherm==='resultaat'?'home':scherm;
   m.innerHTML=items.map(([s,t])=>`<button class="${actief===s?'aan':''}" onclick="go('${s}')">${t}</button>`).join('');
   p.innerHTML=`<button class="profiel" onclick="go('account')"><span class="avatar">${esc(initialen(S.naam))}</span><span>${esc(S.naam)}</span></button>`+(exOpen?`<button class="ikoonknop" onclick="startSprint()">⚡<span class="t">Sprint</span></button>`:'');
@@ -112,6 +112,8 @@ home(){
     <div class="kaart"><h3 class="zijkop">Je uitdagingen</h3>
      ${exOpen?`<button class="uitdaging" onclick="go('examen')"><span class="thumb" style="${foto('examen',200)}"><span>🎓</span></span><span><b>Eindexamentrainer</b><small>${ok} van ${exVragen().length} examenvragen beheerst</small></span></button>
      <button class="uitdaging" onclick="startSprint()"><span class="thumb" style="${foto('sprint',200)}"><span>⚡</span></span><span><b>Examensprint</b><small>15 vragen tegen de klok · record ${(S.sprint||{}).best||0}</small></span></button>`:''}
+     <button class="uitdaging" onclick="go('flits')"><span class="thumb" style="${foto('collectie',200)}"><span>🃏</span></span><span><b>Flitskaarten</b><small>${fkDue().length?fkDue().length+' begrippen om te herhalen':'Leer de begrippen met herhaling op afstand'}</small></span></button>
+     <button class="uitdaging" onclick="go('proef')"><span class="thumb" style="${foto('herhaal',200)}"><span>⏱️</span></span><span><b>Proeftoets</b><small>Per hoofdstuk, op tijd, met een cijfer</small></span></button>
      <button class="uitdaging" onclick="startSlim()"><span class="thumb" style="${foto('vaardig',200)}"><span>🎯</span></span><span><b>Slim oefenen</b><small>Extra vragen over je zwakste onderwerpen</small></span></button>
      <button class="uitdaging" onclick="go('herhaal')"><span class="thumb" style="${foto('herhaal',200)}"><span>🔁</span></span><span><b>Herhaalronde</b><small>${nh?nh+' vragen om opnieuw te doen':'Geen foute vragen, goed bezig!'}</small></span></button>
     </div>
@@ -318,7 +320,7 @@ let antw=null;
 function tekenVraag(){
   const v=Q.vragen[Q.i]; antw=null; Q.fase='vraag';
   if(v.t==='mc'&&!v._mix){ const ord=shuffle(v.o.map((_,i)=>i)); v._mix=ord }
-  const bol=Q.vragen.map((x,i)=>`<i class="${i<Q.res.length?(Q.modus==='toets'?'nu':(Q.res[i]?'g':'f')):(i===Q.i?'nu':'')}"></i>`).join('');
+  const bol=Q.vragen.map((x,i)=>`<i class="${i<Q.res.length?((Q.modus==='toets'||Q.geenFb)?'nu':(Q.res[i]?'g':'f')):(i===Q.i?'nu':'')}"></i>`).join('');
   let body='';
   if(v.t==='mc') body=`<div class="opties">${v._mix.map((oi,k)=>`<button class="optie" data-k="${oi}" onclick="kies(this,${oi})"><span class="l">${'ABCD'[k]}</span><span>${esc(v.o[oi])}</span></button>`).join('')}</div>`;
   else if(v.t==='ex') body=`${v.bron?`<div class="kaart" style="margin-bottom:12px;font-size:15px;white-space:pre-wrap">${esc(v.bron)}</div>`:''}<div class="opties">${v.o.map((o,k)=>`<button class="optie" data-k="${k}" onclick="kies(this,${k})"><span class="l">${'ABCDE'[k]}</span><span>${esc(o)}</span></button>`).join('')}</div>`;
@@ -360,7 +362,7 @@ function geefPunten(p){ if(Q.fase!=='zelf') return; const v=Q.vragen[Q.i]; const
 function zelfOordeel(g){ geefPunten(g?(Q.vragen[Q.i].pnt||1):0) }
 function afronden(v){
   const goed=nakijken(v,antw); Q.res.push(goed); const nk=registreer(v,goed); if(nk) Q.kaartGemeld=(Q.kaartGemeld||[]).concat(nk); Q.fase='fb';
-  const toets=Q.modus==='toets';
+  const toets=Q.modus==='toets'||!!Q.geenFb;
   if(!toets){
     if(v.t==='mc'||v.t==='wo'||v.t==='ex') document.querySelectorAll('.optie').forEach(x=>{ const k=x.dataset.k; const isJ=String(v.a)===k; if(isJ) x.classList.add('goed'); else if(x.classList.contains('kies')) x.classList.add('fout') });
     if(v.t==='koppel') document.querySelectorAll('.koppel select').forEach(s=>{ s.classList.add(s.value===v.p[s.dataset.i][1]?'goed':'fout'); s.disabled=true });

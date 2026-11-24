@@ -30,6 +30,24 @@
   - **Slim oefenen** (op Start en onder Vaardigheden) kiest 10 vragen uit de onderwerpen waar de leerling het zwakst scoort, plus een paar foute vragen uit de herhaalronde.
   - "Oefen dit domein" geeft voorrang aan de zwakste onderwerpen.
 
+- **Leren** (nieuw menu-item) bundelt vijf extra's:
+  - **Flitskaarten**: alle begrippen per domein. De leerling draait de kaart om en kiest Wist ik niet, Twijfel of Wist ik.
+    Gekende kaarten komen terug na 1, 3, 7, 14, 30 en 60 dagen (herhaling op afstand). Ook andersom te oefenen (betekenis → begrip).
+  - **Formulekaart en rekenhulp**: 22 formules per domein met uitleg, een uitgewerkt voorbeeld, een rekenhulp om de eigen berekening
+    te controleren en een knop om te oefenen met sommen die steeds andere getallen krijgen.
+  - **Grafiektraining**: de leerling klikt in een marktdiagram op het evenwicht, het consumenten- of producentensurplus, de verhandelde
+    hoeveelheid bij een maximum- of minimumprijs, het nieuwe evenwicht na een accijns, de vraag- of aanbodlijn en het punt van maximale omzet.
+    Deze grafiekvragen komen ook voor bij oefenen per onderwerp onder Vaardigheden.
+  - **Proeftoets per hoofdstuk**: 15 automatisch na te kijken vragen uit één hoofdstuk, ongeveer 75 seconden per vraag, zonder
+    tussentijdse feedback. Daarna een cijfer (1 + 9 × score) met uitleg bij de fouten. Foute vragen gaan naar de herhaalronde.
+  - **Examen op tijd** (ook onder Eindexamen → Op tijd maken): een heel oud examen op één pagina met 180 minuten (eventueel +30 min extra tijd).
+    Antwoorden worden steeds bewaard, de klok loopt door. Na inleveren kijkt de leerling na met het antwoordmodel (meerkeuze gaat vanzelf,
+    deelscores met rekenuitkomsten worden alvast aangevinkt) en krijgt een cijferschatting met N = 1,0 en de punten per domein.
+- **Docentendashboard → Klassikaal**: per klas de zwakste onderwerpen (met de namen van leerlingen onder de 50), de vragen die de
+  meeste leerlingen fout hadden, de gemiddelde proeftoetscijfers per hoofdstuk en de laatst gemaakte examens op tijd.
+  Voor de proeftoets- en examencijfers in het dashboard moet de nieuwste `server/Code.gs` in Apps Script staan
+  (plakken, opslaan, Implementeren → Implementaties beheren → bewerken → Nieuwe versie). De rest werkt ook zonder.
+
 Let op: de onderwerpen per domein (bijvoorbeeld "D.elas Elasticiteit") zijn werktitels, geen officiële syllabuscodes.
 Ze staan in `src/data-basis.js` en zijn makkelijk aan te passen of uit te breiden.
 

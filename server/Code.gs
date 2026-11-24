@@ -199,7 +199,7 @@ function samenvat_(s) {
   return { id: s.id, naam: s.naam, klas: s.klas, laatst: s.upd || 0, tijd: s.tijd || 0, tijdWeek: (s.week || {})[weekId_()] || 0,
     xp: s.xp || 0, lv: lv, toets: toets, dom: dom, fout: fout, et: et,
     vr: s.vr || {}, week: s.week || {}, dag: s.dag || {}, nk: (s.kaarten || []).length, badges: s.badges || [],
-    sprint: s.sprint || null, herhaal: (s.herhaal || []).length, aangemaakt: s.aangemaakt || 0, munten: (s.mVerd || 0) - (s.mUit || 0),
+    sprint: s.sprint || null, pt: s.pt || {}, exr: s.exr || {}, herhaal: (s.herhaal || []).length, aangemaakt: s.aangemaakt || 0, munten: (s.mVerd || 0) - (s.mUit || 0),
     brons: Object.keys(lv).filter(function (k) { return lv[k].best >= 6; }).length,
     toetsen: Object.keys(toets).filter(function (k) { return toets[k].klaar; }).length };
 }
