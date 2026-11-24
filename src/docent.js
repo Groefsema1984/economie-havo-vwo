@@ -125,7 +125,7 @@ function dKlassikaal(sp){
     const pt={}; l.forEach(s=>Object.entries(s.pt||{}).forEach(([key,r])=>{ (pt[key]=pt[key]||[]).push(r.l!=null?r.l:r.b) }));
     const ptl=Object.entries(pt).map(([key,a])=>({key,n:a.length,c:gem(a)})).sort((a,b)=>a.c-b.c);
     const exr=l.flatMap(s=>Object.entries(s.exr||{}).map(([c,r])=>({s,c,r}))).sort((a,b)=>b.r.t-a.r.t);
-    return `<div class="sectie">${esc(k)} · ${l.length} leerlingen</div>
+    return `<div class="sectie">${esc(k)} · ${l.length} leerlingen</div>${typeof dKlasModusBlok==='function'?dKlasModusBlok(k,l):''}
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px">
      <div class="kaart"><b>Zwakste onderwerpen van de klas</b> <span class="zacht" style="font-size:13px">(gemiddelde score, minstens ${minN} lln)</span>
       ${ond.length?ond.map(x=>`<div class="rij" style="display:block">${balk(x.v,`<span style="font-size:14px">${esc(EINDTERMEN[x.c].t)}</span>`).replace('class="domein"','class="domein" style="grid-template-columns:minmax(150px,1.3fr) 1fr 44px;border:0;padding:0"')}
@@ -172,7 +172,7 @@ function dLeerling(s){
     ${tegel(minuten(s.tijdWeek)+' min','deze week')}${tegel(minuten(s.tijd)+' min','totaal geoefend')}
     ${tegel(bronsN(s)+'/'+alleLevels(s).length,'levels brons+')}${tegel(diplomaN(s)+'/'+dWerelden().length,'diploma\'s')}
     ${exN&&s.vr?tegel(exBeheerst(s)+'/'+exN,'examenvragen beheerst'):''}${s.sprint?tegel((s.sprint.best||0)+'/15','sprintrecord',(s.sprint.n||0)+' sprints'):''}
-    ${s.herhaal!=null?tegel(s.herhaal,'in herhaalronde','foute vragen nog open'):''}${s.nk!=null?tegel(s.nk,'begrippenkaarten',(s.badges||[]).length+' badges · '+(s.munten||0)+' munten'):''}</div>
+    ${Array.isArray(s.kv)&&s.kv[1]?tegel(s.kv[0]+'/'+s.kv[1],'kernbegrippen vast','oefenmodus: '+(s.lmodus==='examen'||s.lmodus==='toets'?s.lmodus+' (eigen keuze)':'volgt de klas')):''}${s.herhaal!=null?tegel(s.herhaal,'in herhaalronde','foute vragen nog open'):''}${s.nk!=null?tegel(s.nk,'begrippenkaarten',(s.badges||[]).length+' badges · '+(s.munten||0)+' munten'):''}</div>
    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px">
     <div class="kaart"><b>Oefentijd per week</b> <span class="zacht" style="font-size:13px">(minuten)</span>${staven(weken,'min')}</div>
     ${s.dag?`<div class="kaart"><b>Oefentijd per dag</b> <span class="zacht" style="font-size:13px">(laatste 14 dagen)</span>${staven(dagen,'min')}</div>`:''}

@@ -84,9 +84,25 @@ def lees(pad):
         h['par'].append(par)
     return h
 
+def lees_lagen():
+    """hoofdstukken/lagen.txt -> {'h': {begrip: 'k'|'v'}, 'v': {...}}; alles wat er niet in staat is 'm' (methode)."""
+    uit, sectie = {'h': {}, 'v': {}}, None
+    pad = os.path.join(ROOT, 'hoofdstukken', 'lagen.txt')
+    if not os.path.exists(pad): return uit
+    for r in open(pad, encoding='utf-8'):
+        r = r.strip()
+        if not r or r.startswith('#'): continue
+        m = re.match(r'\[(havo|vwo) (kern|verdieping)\]', r)
+        if m: sectie = (m.group(1)[0], m.group(2)[0]); continue
+        if sectie: uit[sectie[0]][r] = sectie[1]
+    return uit
+
+BESTE = {'k': 0, 'm': 1, 'v': 2}
+
 def main():
     random.seed(7)
-    hst = [lees(f) for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith('LEESMIJ')]
+    lagen = lees_lagen(); laag_niv = {'h': {}, 'v': {}}
+    hst = [lees(f) for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith(('LEESMIJ', 'LAGEN'))]
     index = {(h['niv'], p['nr']): p for h in hst for p in h['par']}
     bibv = bibliotheek_vragen()
     core = open(os.path.join(ROOT, 'src', 'core.js'), encoding='utf-8').read()
@@ -111,18 +127,20 @@ def main():
             for i, m in enumerate(p['_mc'], 1):
                 vr.append({'id': f'{lid}.m{i:02d}', 't': 'mc', 'e': e, 'q': m['q'], 'o': m['o'], 'a': m['a'], 'u': m['u']})
             bg = p['_b']
-            for b, o in bg: begrippen.setdefault(d, {})[b] = o
+            lg = lambda b: lagen[niv].get(b, 'm')
+            for b, o in bg: begrippen.setdefault(d, {})[b] = o; laag_niv[niv][b] = lg(b)
             # koppelvragen: per drie begrippen
             for i in range(0, len(bg) - 2, 3):
                 trio = bg[i:i + 3]
                 vr.append({'id': f'{lid}.k{i // 3 + 1:02d}', 't': 'koppel', 'e': e, 'q': 'Koppel elk begrip aan de juiste omschrijving.',
-                           'p': [[b, o] for b, o in trio], 'u': ' '.join(f'{b}: {o}' for b, o in trio)})
+                           'p': [[b, o] for b, o in trio], 'u': ' '.join(f'{b}: {o}' for b, o in trio),
+                           'lg': min((lg(b) for b, _ in trio), key=BESTE.get)})
             # welk begrip hoort bij deze omschrijving (afleiders uit het hele hoofdstuk)
             for i, (b, o) in enumerate(bg, 1):
                 andere = [x for x, _ in alle_b if x != b and x.lower() not in o.lower()]
                 if len(andere) < 3: continue
                 vr.append({'id': f'{lid}.b{i:02d}', 't': 'mc', 'e': e, 'b': b, 'q': f'Welk begrip hoort bij deze omschrijving?\n"{o}"',
-                           'o': [b] + random.sample(sorted(set(andere)), 3), 'a': 0, 'u': f'{b}: {o}'})
+                           'o': [b] + random.sample(sorted(set(andere)), 3), 'a': 0, 'u': f'{b}: {o}', 'lg': lg(b)})
             # oefenopgaven en examenvragen van de gekoppelde leerdoelen
             codes = [c.strip() for c in p.get('leerdoelen', '').split(',') if c.strip()]
             oef, ex = [], []
@@ -137,7 +155,7 @@ def main():
                 v.update(id=f'{lid}.{re.sub(r"[^A-Za-z0-9]", "", x["bron"])}', e=e)
                 vr.append(v)
             lvl = {'id': lid, 'hfd': hfd, 'niv': niv, 'naam': f'§{p["nr"]} {p["titel"]}', 'kort': p.get('kort', h.get('hoofdvraag', '')),
-                   'vragen': vr, 'gens': [g.strip() for g in p.get('gens', '').split(',') if g.strip()]}
+                   'vragen': vr, 'bg': [b for b, _ in bg], 'gens': [g.strip() for g in p.get('gens', '').split(',') if g.strip()]}
             if p.get('deelvraag'): lvl['doel'] = p['deelvraag']; lvl['kort'] = p['deelvraag']
             if p['uitleg']: lvl['uitleg'] = p['uitleg']
             for g in lvl['gens']:
@@ -150,6 +168,17 @@ def main():
         out.append(f'LEVELS.{d}.push(...{json.dumps(levels[d], ensure_ascii=False, indent=0)});')
     for d in sorted(begrippen):
         out.append(f'LEVELS.{d}.begrippen = Object.assign(LEVELS.{d}.begrippen||{{}}, {json.dumps(begrippen[d], ensure_ascii=False)});')
+    # lagen: alle begrippen van de hoofdstukken per niveau, plus de begrippen uit lagen.txt die alleen in de basisdata staan
+    basis = set()
+    for f in glob.glob(os.path.join(ROOT, 'src', 'data-[A-J].js')):
+        for blok in re.findall(r'BEGRIPPEN_\w+\s*=\s*\{(.*?)\n\};', open(f, encoding='utf-8').read(), re.S):
+            basis |= {a or b for a, b in re.findall(r"^\s*(?:'([^']+)'|\"([^\"]+)\")\s*:", blok, re.M)}
+    for n in ('h', 'v'):
+        for b, l in lagen[n].items():
+            if b in laag_niv[n]: continue
+            if b in basis: laag_niv[n][b] = l
+            else: fouten.append(f'lagen.txt: "{b}" ({n}) komt niet voor als begrip')
+    out.append('const BEGRIP_LAAG = ' + json.dumps(laag_niv, ensure_ascii=False, sort_keys=True) + ';')
     open(os.path.join(ROOT, 'src', 'data-hoofdstukken.js'), 'w', encoding='utf-8').write('\n'.join(out) + '\n')
     n = sum(len(l['vragen']) for v in levels.values() for l in v)
     print(f'{len(hst)} hoofdstukken, {sum(len(v) for v in levels.values())} paragraaf-levels, {n} vragen, {sum(len(b) for b in begrippen.values())} begrippen')

@@ -305,3 +305,11 @@ th{font:800 12px var(--kop);text-transform:uppercase;letter-spacing:.05em;color:
 .exvModel{margin-top:10px;border-left:4px solid var(--goed);padding:6px 12px;background:color-mix(in srgb,var(--goed) 8%,var(--kaart));border-radius:0 12px 12px 0}
 .exvModel summary{font-weight:700;cursor:pointer}
 @media print{.exvBalk{position:static}}
+
+/* lagen: kern, methode, verdieping */
+.lagen{display:flex;flex-wrap:wrap;gap:4px 8px;margin:6px 0 2px;font-size:12px}
+.laag{border-radius:999px;padding:1px 8px;font-size:12px;font-weight:600;white-space:nowrap}
+.laag.k{background:color-mix(in srgb,var(--goed) 18%,transparent);color:var(--ink)}
+.laag.m{background:color-mix(in srgb,var(--acc) 15%,transparent);color:var(--ink)}
+.laag.v{background:color-mix(in srgb,var(--zacht,#888) 18%,transparent);color:var(--ink)}
+.chip.laag{font-size:13px}

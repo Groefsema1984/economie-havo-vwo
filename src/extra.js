@@ -9,7 +9,7 @@ SCHERMEN.leren = function(){
   const due=fkDue().length, nieuw=fkNieuw().length;
   const exOpen=exVragen().length>0;
   const tegel=(ic,t,s,on)=>`<button class="uitdaging" onclick="${on}"><span class="thumb" style="background:var(--bg);display:grid;place-items:center;font-size:28px">${ic}</span><span><b>${t}</b><small>${s}</small></span></button>`;
-  return `<div class="wrap" style="max-width:760px">${kop('Leren en toetsen',"go('home')")}<div class="kaart">
+  return `<div class="wrap" style="max-width:760px">${kop('Leren en toetsen',"go('home')")}${typeof modusKeuze==='function'?modusKeuze():''}<div class="kaart">
    ${tegel('🃏','Flitskaarten',due?`${due} begrippen om nu te herhalen`:`${nieuw} nieuwe begrippen om te leren`,"go('flits')")}
    ${tegel('📕','Foutenschrift',(()=>{const g=foutGroepen(S.vr,S.herhaal).filter(x=>x.open);return g.length?`${g.reduce((a,x)=>a+x.open,0)} fouten open bij ${g.length} leerdoelen`:'Al je fouten per leerdoel, zodat je weet waar je aan moet werken'})(),"go('fouten')")}
    ${tegel('🧮','Formulekaart en rekenhulp','Alle formules met een uitgewerkt voorbeeld en een rekenhulp',"go('formules')")}
@@ -39,7 +39,10 @@ SCHERMEN.flits = function(){
   return `<div class="wrap" style="max-width:760px">${kop('Flitskaarten',"go('leren')")}
    <div class="kaart" style="margin-bottom:14px"><p style="margin:0">Je ziet een begrip. Bedenk de betekenis, draai de kaart om en zeg eerlijk of je hem wist. Kaarten die je weet komen later terug (na 1, 3, 7, 14, 30 en 60 dagen), kaarten die je niet weet komen meteen nog een keer.</p>
    <label class="label" style="margin-top:10px"><input type="checkbox" ${fkOm?'checked':''} onchange="fkOm=this.checked"> Andersom oefenen: je ziet de betekenis en noemt het begrip</label></div>
-   <div class="kaart">${rij('','Alle domeinen door elkaar','🃏')}${WERELDEN.map(w=>rij(w.id,'Domein '+w.nr+' · '+w.naam,w.icoon)).join('')}</div></div>${VOET()}`;
+   ${typeof modusKeuze==='function'?modusKeuze():''}
+   ${typeof kernStand==='function'?(()=>{const [v,t]=kernStand(); return t?`<div class="kaart" style="margin-bottom:14px"><b>🎯 Kernbegrippen: ${v} van ${t} zitten vast</b><div class="balk" style="margin-top:8px"><i style="width:${Math.round(v/t*100)}%"></i></div><small class="zacht">Kernbegrippen zijn de examenstof. Een kaart zit vast als je hem vier keer achter elkaar wist.</small></div>`:''})():''}
+   <div class="kaart">${rij('',typeof oefenModus==='function'&&oefenModus()==='examen'?'Alle kernbegrippen door elkaar':'Alle begrippen door elkaar','🃏')}${WERELDEN.map(w=>rij(w.id,'Domein '+w.nr+' · '+w.naam,w.icoon)).join('')}</div>
+   ${typeof hfdGroepen==='function'&&oefenModus()==='toets'?`<div class="sectie">Per hoofdstuk (voor de schooltoets: kern en methode)</div><div class="kaart">${hfdGroepen().map(h=>rij('P:'+h.key,h.hfd,'📘')).join('')}</div>`:''}</div>${VOET()}`;
 };
 SCHERMEN.flitsen = function(){
   if(!FK) return SCHERMEN.flits();

@@ -7,6 +7,7 @@ collectie, speler-ID met herstelcode en een docentendashboard.
 - App: `index.html` (één bestand, wordt gebouwd uit `src/` met `python3 src/build.py`)
 - Inhoud per domein: `src/data-A.js` t/m `src/data-J.js`
 - Flitskaarten, formulekaart, grafiekvragen, proeftoets en examen op tijd: `src/extra.js` (klassenoverzicht in `src/docent.js`)
+- Lagen kern / methode / verdieping en examen- of toetsmodus: `src/lagen.js`, indeling in `hoofdstukken/lagen.txt`
 - Hoofdstukken Economie Integraal: `hoofdstukken/*.txt` → `tools/hoofdstukken.py`
 - Examens havo en vwo 2018-2026 (compleet): `bron-ruw/` → `tools/examen_pdf.py` → `src/data-examen.js`
 - Losse oefenopgaven en eerder bewerkte examenvragen: `bibliotheek/*.txt` → `tools/bibliotheek.py`

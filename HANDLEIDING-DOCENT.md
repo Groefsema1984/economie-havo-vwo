@@ -54,6 +54,20 @@
 Let op: de onderwerpen per domein (bijvoorbeeld "D.elas Elasticiteit") zijn werktitels, geen officiële syllabuscodes.
 Ze staan in `src/data-basis.js` en zijn makkelijk aan te passen of uit te breiden.
 
+## Kern, methode en verdieping
+
+Elk begrip op de site heeft per niveau een laag. De indeling komt uit de essentie-analyse (eindtermen tegenover Economie Integraal) en staat in `hoofdstukken/lagen.txt`.
+
+- **🎯 Kern (examen):** stof van het centraal examen, ongeveer 140 begrippen per niveau inclusief synoniemen. Altijd in de flitskaarten en de eindtermoefeningen. In een level hebben kernvragen de grootste kans om te komen.
+- **📘 Methode (toets):** de overige begrippen uit Economie Integraal. Komen terug als de leerling een hoofdstuk oefent, in de proeftoets en in de flitskaarten in toetsmodus.
+- **🔭 Verdieping:** extra stof die niet in toets of examen komt, zoals soorten geld, rechtsvormen, cao-vaktermen en pensioendetails. Er wordt niets geschrapt: de uitleg blijft staan, maar de vragen en flitskaarten verschijnen pas als de leerling "Ook verdieping" aanzet.
+
+De leerling kiest bij Leren of bij de flitskaarten tussen **Examenmodus** (alleen kern) en **Toetsmodus** (kern en methode). In toetsmodus kun je ook flitskaarten per hoofdstuk oefenen. Jij zet de standaard per klas in het dashboard onder **Klassikaal → Oefenmodus**. Zonder instelling krijgen H5 en V6 examenmodus en de andere klassen toetsmodus. Leerlingen kunnen het zelf nog aanpassen. Bij elke leerling zie je hoeveel kernbegrippen vastzitten (een flitskaart zit vast als hij vier keer achter elkaar goed is).
+
+Een begrip in een andere laag zetten: verplaats het in `hoofdstukken/lagen.txt` en draai `python3 tools/hoofdstukken.py` en `python3 src/build.py`. Alles wat niet in die lijst staat, is methode.
+
+**Let op:** de instelling per klas werkt pas als de nieuwe `server/Code.gs` online staat (Implementeren → Nieuwe versie).
+
 ## Inhoud toevoegen
 
 Elk domein heeft een eigen bestand: `src/data-A.js` t/m `src/data-J.js`. Een hoofdstuk van Economie Integraal toevoegen

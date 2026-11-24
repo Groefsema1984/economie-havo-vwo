@@ -1,0 +1,507 @@
+# Lagen van de begrippen per niveau (gebruikt door tools/hoofdstukken.py)
+#
+# Kern        = examenstof: staat in de CE-syllabus en komt terug in de eindexamens 2018-2026.
+#               Standaard in flitskaarten en eindtermoefeningen, telt het zwaarst in de voortgang.
+# Methode     = alles wat hier niet staat: begrippen uit Economie Integraal die je nodig hebt voor de
+#               schooltoets. Komen terug als je het hoofdstuk oefent, in de proeftoets en in de toetsmodus.
+# Verdieping  = niet nodig voor examen of toets (extra stof). Alleen te zien als de leerling 'verdieping' aanzet.
+#
+# Bron: de essentie-analyse "eindtermen vs. Economie Integraal" (kern / ondersteunend / extra per begrip).
+# Ondersteunend valt onder Methode. Schoolexamenstof (domein B en C) is nooit kern, behalve rekenbegrippen van A.
+# Eén begrip per regel, precies zoals in de BEGRIPPEN-lijst. Een begrip dat niet bestaat geeft een waarschuwing.
+
+[havo kern]
+Procentpunt
+Indexcijfer
+Basisjaar
+Nominaal
+Reëel
+Koopkracht
+Nominaal inkomen
+Reëel inkomen
+Consumentenprijsindexcijfer
+Betalingsbereidheid
+Consumentensurplus
+Vraaglijn
+Substitutiegoederen
+Complementaire goederen
+Prijselasticiteit van de vraag
+Prijselasticiteit
+Prijsinelastische vraag
+Omzet
+Constante kosten
+Variabele kosten
+Marginale kosten
+Marginale opbrengst
+Gemiddelde totale kosten
+Totale winst
+Producentensurplus
+Volledige mededinging
+Volkomen concurrentie
+Homogene producten
+Transparante markt
+Evenwichtsprijs
+Evenwichtshoeveelheid
+Aanbodoverschot
+Aanbodtekort
+Totaal surplus
+Externe effecten
+Extern effect
+Monopolie
+Prijsdiscriminatie
+Oligopolie
+Monopolistische concurrentie
+Maximumprijs
+Minimumprijs
+Quotum
+Accijns
+Indirecte belastingen
+Subsidie
+Arbeidsmarkt
+Minimumloon
+Tijdsvoorkeur
+Intertemporele ruil
+Financiële levenscyclus
+Rente
+Omslagstelsel
+Kapitaaldekkingsstelsel
+Vergrijzing
+Collectieve sector
+Directe belastingen
+Collectieve lastendruk
+Overdrachtsuitgaven
+EMU-saldo
+EMU-schuld
+Begrotingssaldo
+Dominante strategie
+Gevangenendilemma
+Simultaan spel
+Sequentieel spel
+Zelfbinding
+Meeliftersgedrag
+Meeliftgedrag
+Free rider
+Collectieve dwang
+Verzonken kosten
+Risicoaversie
+Risicomijdend
+Verzekeringspremie
+Eigen risico
+Moral hazard
+Moreel risico
+Averechtse selectie
+Asymmetrische informatie
+Bonus-malusregeling
+Bbp
+Bruto toegevoegde waarde
+Netto toegevoegde waarde
+Economische kringloop
+Particulier spaarsaldo
+Nationaal spaarsaldo
+Saldo lopende rekening
+Nominale groei
+Reële groei
+Economische groei in enge zin
+Economische groei in ruime zin
+Grijs circuit
+Zwart circuit
+Arbeidsproductiviteit
+Procesinnovatie
+Octrooi
+Primair inkomen
+Secundair inkomen
+Tertiair inkomen
+Lorenzkromme
+Nivellering
+Denivellering
+Progressief belastingtarief
+Progressief tarief
+Proportioneel tarief
+Degressief belastingtarief
+Marginaal belastingtarief
+Gemiddeld belastingtarief
+Aftrekpost
+Arbeidskorting
+Protectie
+Invoerrecht
+Importcontingent
+Vrijhandel
+Beroepsbevolking
+Werkzame beroepsbevolking
+Werkloze beroepsbevolking
+Werkloosheidspercentage
+Structurele werkloosheid
+Kwantitatieve structurele werkloosheid
+Kwalitatieve structurele werkloosheid
+Frictiewerkloosheid
+Conjuncturele werkloosheid
+Conjunctuur
+Effectieve vraag
+Onderbesteding
+Overbesteding
+Recessie
+Conjunctuurklok
+Conjunctuurbeleid
+Anticyclisch beleid
+Procyclisch beleid
+Automatische stabilisator
+Automatische stabilisatoren
+Inflatie
+Deflatie
+Consumentenprijsindex
+Monetair beleid
+ECB
+Betalingsbalans
+Lopende rekening
+
+[havo verdieping]
+Chartaal geld
+Giraal geld
+Publiek
+Maatschappelijke geldhoeveelheid
+Fiduciair geld
+Intrinsieke waarde
+Phishing
+Skimming
+Ransomware
+Wisselkoers
+Appreciatie
+Depreciatie
+Flexibele wisselkoers
+Vaste wisselkoers
+Dekkingsbijdrage
+Break-evenomzet
+Abstracte markt
+Concrete markt
+Volkomen markt
+Marketingmix
+Fusie
+Franchising
+Joint venture
+Zwarte markt
+Privatisering
+Deregulering
+Nationalisatie
+Zelfstandig bestuursorgaan
+Tit-for-tatstrategie
+Clementieregeling
+Prijskartel
+Berovingsprobleem
+Algemeen verbindend verklaren
+Prijscompensatie
+Incidentele loonstijging
+Loonruimte
+Primaire arbeidsvoorwaarden
+Secundaire arbeidsvoorwaarden
+Sociale partners
+Stichting van de Arbeid
+Vereveningsfonds
+Risicoselectie
+Onderverzekering
+Inboedelverzekering
+Opstalverzekering
+Nominale zorgpremie
+Kostendelersnorm
+Participatiewet
+Sociaal minimum
+Samengestelde rente
+Depositogarantiestelsel
+Aandeel
+Obligatie
+Dividend
+Doorlopend krediet
+Huurkoop
+Sociale huurwoning
+Kosten koper
+Vrij op naam
+Hypotheekgever
+Restschuld
+Eigenwoningforfait
+Overwaarde
+Franchise
+Pensioengrondslag
+Lijfrente
+Miljoenennota
+Draagkrachtbeginsel
+Profijtbeginsel
+Vermogensrendementsheffing
+Aanmerkelijk belang
+Schijventarief
+Voorbelasting
+Bpm
+Motorrijtuigenbelasting
+Kilometerheffing
+Harmonisatie
+Gini-coëfficiënt
+Basisinkomen
+Breedte-investering
+Diepte-investering
+Mechanisatiegraad
+Kapitaalintensief
+Structuurbeleid
+Loonmatiging
+Loonkostensubsidie
+Bedrijfstijd
+Ontmoedigingseffect
+Aanzuigeffect
+Bruto participatiegraad
+Netto participatiegraad
+I/a-ratio
+Verborgen werkgelegenheid
+Grijze druk
+Groene druk
+Demografische druk
+Afgeleide CPI
+HICP
+Loonkosteninflatie
+Winstmarge-inflatie
+Krimpflatie
+Herfinancieringsrente
+Depositorente
+Marginale beleningsrente
+Kasreserveregeling
+Kwantitatieve verruiming
+Euribor
+
+[vwo kern]
+Procentpunt
+Indexcijfer
+Basisjaar
+Nominaal
+Reëel
+Koopkracht
+Nominaal inkomen
+Reëel inkomen
+Betalingsbereidheid
+Consumentensurplus
+Vraaglijn
+Substitutiegoederen
+Complementaire goederen
+Prijselasticiteit van de vraag
+Prijselasticiteit
+Prijsinelastische vraag
+Omzet
+Constante kosten
+Variabele kosten
+Marginale kosten
+Marginale opbrengst
+Gemiddelde totale kosten
+Totale winst
+Producentensurplus
+Volledige mededinging
+Volkomen concurrentie
+Homogene producten
+Transparante markt
+Marktvorm
+Evenwichtsprijs
+Evenwichtshoeveelheid
+Marktevenwicht
+Totaal surplus
+Economisch surplus
+Externe effecten
+Extern effect
+Monopolie
+Prijsdiscriminatie
+Prijsdifferentiatie
+Welvaartsverlies
+Harberger-driehoek
+Oligopolie
+Monopolistische concurrentie
+Accijns
+Indirecte belastingen
+Subsidie
+Kostprijsverlagende subsidie
+Afwentelingspercentage
+Arbeidsmarkt
+Minimumloon
+Intertemporele ruil
+Financiële levenscyclus
+Rente
+Interest
+Nominale rente
+Reële rente
+Contante waarde
+Eindwaarde
+Omslagstelsel
+Kapitaaldekkingsstelsel
+Intergenerationele ruil
+Welvaartsvast
+Waardevast
+Welvaartsvast inkomen
+Waardevast inkomen
+EMU-saldo
+EMU-schuld
+Overheidssaldo
+Pay-offmatrix
+Dominante strategie
+Gevangenendilemma
+Nash-evenwicht
+Herhaald spel
+Reputatie
+Zelfbinding
+Geloofwaardige dreiging
+Berovingsprobleem
+Relatiespecifieke investering
+Internaliseren
+Emissierechten
+Principaal-agentrelatie
+Principaal-agentprobleem
+Principaal
+Agent
+Prestatieloon
+Risico
+Risicoavers
+Risicomijdend
+Asymmetrische informatie
+Averechtse selectie
+Moral hazard
+Moreel risico
+Premiedifferentiatie
+Eigen risico
+Bonus-malussysteem
+Aandeel
+Obligatie
+Toegevoegde waarde
+Bbp
+Objectieve methode
+Subjectieve methode
+Macro-economische balansvergelijking
+Nationaal spaarsaldo
+Economische groei
+Arbeidsproductiviteit
+Loonkosten per product
+Productiefunctie
+Totale factorproductiviteit
+Afnemende meeropbrengsten
+Informele economie
+Primair inkomen
+Secundair inkomen
+Tertiair inkomen
+Gini-coëfficiënt
+Arbeidsinkomensquote
+Nivellering
+Denivellering
+Vlaktaks
+Progressieve belasting
+Progressief tarief
+Degressieve belasting
+Heffingskorting
+Wig
+Marginaal belastingtarief
+Gemiddelde belastingdruk
+Armoedeval
+Beroepsbevolking
+Werkgelegenheid
+Vacatures
+Kwalitatieve structurele werkloosheid
+Kwantitatieve structurele werkloosheid
+Frictiewerkloosheid
+Natuurlijke werkloosheid
+Conjuncturele werkloosheid
+Output gap
+Hoogconjunctuur
+Laagconjunctuur
+Consumentenvertrouwen
+Producentenvertrouwen
+Effectieve vraag
+Marginale consumptiequote
+Marginale spaarquote
+Multiplier
+Spaarlek
+Belastinglek
+IS-curve
+Anticyclisch conjunctuurbeleid
+Ingebouwde stabilisatoren
+Automatische stabilisatoren
+Inverdieneffect
+Uitverdieneffect
+Deflatie
+Consumentenprijsindex
+Monetair beleid
+ECB
+Quantitative easing
+Zero lower bound
+Geldschepping
+Depositogarantiestelsel
+Betalingsbalans
+Lopende rekening
+Financiële rekening
+Appreciatie
+Depreciatie
+Devaluatie
+Revaluatie
+Trilemma
+
+[vwo verdieping]
+Chartaal geld
+Giraal geld
+Fiduciair geld
+Intrinsieke waarde
+Wet van Gresham
+Dekkingsbijdrage
+Break-evenomzet
+Sluitingspunt
+Capaciteitskosten
+Abstracte markt
+Concrete markt
+Volkomen markt
+Bedrijfstakevenwicht
+Toetreding
+Uittreding
+Marketingmix
+Fusie
+Franchising
+Joint venture
+Productdifferentiatie
+Natuurlijk monopolie
+Wettelijk monopolie
+Collectief monopolie
+Geknikte afzetcurve
+Prijsstarheid
+Interventieprijs
+Privatisering
+Deregulering
+Nationalisatie
+Zelfstandig bestuursorgaan
+ZBO
+Autoriteit Consument en Markt
+Tit-for-tatstrategie
+Coördinatiespel
+Achterwaartse inductie
+Grim trigger
+Clementieregeling
+Prijskartel
+Laagsteprijsgarantie
+Monopsonie
+Verticale integratie
+Algemeen verbindend verklaren
+Prijscompensatie
+Incidentele loonstijging
+Loonruimte
+Primaire arbeidsvoorwaarden
+Secundaire arbeidsvoorwaarden
+Centraal akkoord
+Contractloonstijging
+Scheefwonen
+Hypotheekgever
+Hypotheeknemer
+Franchise
+Pensioengrondslag
+Dekkingsgraad
+Acceptatieplicht
+WA-verzekering
+Opstalverzekering
+Inboedelverzekering
+Participatiewet
+WIA
+Rechtspersoon
+Eenmanszaak
+Vennootschap onder firma
+Naamloze vennootschap
+Besloten vennootschap
+Prudentieel toezicht
+Gedragstoezicht
+Raad van commissarissen
+Wet van Tinbergen
+Negatieve inkomstenbelasting
+Offshoring

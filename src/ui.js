@@ -132,7 +132,7 @@ wereld(w){
   const paneel=lvs.map((l,i)=>{const r=S.lv[l.id]||{}; const m=r.best!=null?medaille(r.best):null; return `<button onclick="${actie(l,i)}"><span>${levelOpen(w,i)?(m?m.e:'○'):'🔒'}</span><span>${esc(l.naam)}</span></button>`}).join('');
   const kaart=(l,i)=>{const r=S.lv[l.id]||{}; const open=levelOpen(w,i); const m=r.best!=null?medaille(r.best):null;
     return `<button class="levelkaart ${open?'':'dicht'}" onclick="${actie(l,i)}"><span class="boven"><span>${l.id.endsWith('.r')?'Rekenlab':l.hfd?'Level':'Start'}${l.niv?' · '+NIVEAUS[l.niv]:''}</span><span>${open?(m?m.e:'⚪'):'🔒'}</span></span>
-      <h3>${esc(l.naam)}</h3><p>${esc(l.kort)}</p>
+      <h3>${esc(l.naam)}</h3><p>${esc(l.kort)}</p>${typeof lagenRegel==='function'?lagenRegel(l):''}
       <span class="onder"><span>${r.best!=null?`Beste score ${r.best}/${VRAGEN_PER_LEVEL}`:open?'Nog niet gespeeld':'Op slot'}</span><span>${open?(r.best!=null?'Opnieuw ›':'Start ›'):''}</span></span></button>`};
   // levels gegroepeerd: eerst de basis (startset en rekenlab), dan per hoofdstuk van Economie Integraal
   const groepen=[]; lvs.forEach((l,i)=>{ const g=l.hfd||''; let x=groepen.find(y=>y.g===g); if(!x){ x={g,h:[]}; groepen.push(x) } x.h.push(kaart(l,i)) });
@@ -181,7 +181,7 @@ herhaal(){
 },
 collectie(){
   const blok=WERELDEN.filter(w=>LEVELS[w.id]&&Object.keys(LEVELS[w.id].begrippen||{}).length).map(w=>{const b=LEVELS[w.id].begrippen; const ks=Object.keys(b).sort((a,c)=>a.localeCompare(c,'nl'));
-    return `<div class="sectie">Domein ${w.nr} · ${esc(w.naam)} · ${ks.filter(k=>S.kaarten.includes(k)).length} van ${ks.length} kaarten</div><div class="kaarten">${ks.map(k=>S.kaarten.includes(k)?`<div class="bk"><b>${esc(k)}</b>${esc(b[k])}</div>`:`<div class="bk nee"><b>?</b>.</div>`).join('')}</div>`}).join('');
+    return `<div class="sectie">Domein ${w.nr} · ${esc(w.naam)} · ${ks.filter(k=>S.kaarten.includes(k)).length} van ${ks.length} kaarten</div><div class="kaarten">${ks.map(k=>S.kaarten.includes(k)?`<div class="bk"><b>${esc(k)}</b>${esc(b[k])}${(()=>{const g=typeof laagVan==='function'?laagVan(k):null; return g?`<small class="laag ${g}" style="display:block;margin-top:6px">${LAGEN[g].i} ${LAGEN[g].n}</small>`:''})()}</div>`:`<div class="bk nee"><b>?</b>.</div>`).join('')}</div>`}).join('');
   const bad=BADGES.map(x=>{const heb=S.badges.includes(x.id); return `<div class="bk" style="${heb?'':'opacity:.4'}"><b>${x.i} ${esc(x.n)}</b>${esc(x.o)}</div>`}).join('');
   const markt=THEMAS.map(t=>{const heb=S.gekocht.includes(t.id); return `<div class="bk"><b>${t.i} ${esc(t.n)}</b>${heb?(S.thema===t.id?'In gebruik':`<button class="knop zacht" style="min-height:38px;padding:6px 12px;margin-top:6px" onclick="kiesThema('${t.id}')">Gebruik</button>`):`<button class="knop" style="min-height:38px;padding:6px 12px;margin-top:6px" onclick="koopThema('${t.id}')">🪙 ${t.p}</button>`}</div>`}).join('');
   return `<div class="wrap">${kop('Collectie','go(\'home\')')}<p class="zacht">Elke begrippenvraag die je goed hebt levert een kaart op. Verzamel ze allemaal!</p>
@@ -274,7 +274,7 @@ function startToets(w){ const W=WERELDEN.find(x=>x.id===w); const lvs=lvsVoor(w)
   Q={modus:'toets',titel:`Domeintoets ${W.nr}`,w,kleur:W.kleur,vragen:shuffle(pool),i:0,res:[],ronde:1,terug:`go('wereld','${w}')`}; go('quiz') }
 function startHerhaal(){ const v=shuffle(S.herhaal).slice(0,10).map(vraagById).filter(Boolean); if(!v.length){go('herhaal');return}
   Q={modus:'herhaal',titel:'Herhaalronde',vragen:v,i:0,res:[],terug:"go('herhaal')"}; go('quiz') }
-function startEindterm(k){ let v=shuffle(alleVragen().filter(x=>x.e===k&&vrNiv(x))).slice(0,8); const g=Object.keys(GENS).filter(n=>maakGen(n).e===k);
+function startEindterm(k){ let v=shuffle(alleVragen().filter(x=>x.e===k&&vrNiv(x)&&(typeof laagTelt!=='function'||laagTelt(x.lg)))).slice(0,8); const g=Object.keys(GENS).filter(n=>maakGen(n).e===k);
   while(v.length<6&&g.length) v.push(maakGen(pick(g))); if(!v.length){melding('Hier zijn nog geen vragen voor');return}
   Q={modus:'et',titel:EINDTERMEN[k].t,vragen:shuffle(v),i:0,res:[],terug:"go('vaardig')"}; go('quiz') }
 function startDomein(d){ const ets=Object.keys(EINDTERMEN).filter(k=>EINDTERMEN[k].d===d);
@@ -432,7 +432,7 @@ function samenvatLokaal(){ return samenvat(S) }
 function samenvat(s){ // zelfde berekening als op de server
   const dom={}; DOMEINEN.forEach(d=>{ const sc=Object.keys(EINDTERMEN).filter(k=>EINDTERMEN[k].d===d.id).map(k=>{const et=(s.et||{})[k]; if(!et||et.r.length<3) return null; let a=0,w=0; et.r.forEach((x,i)=>{a+=x*(i+1);w+=i+1}); return Math.round(a/w*100)}).filter(x=>x!==null); dom[d.id]=sc.length?Math.round(sc.reduce((a,b)=>a+b,0)/sc.length):null });
   const fout={}; Object.entries(s.vr||{}).forEach(([k,r])=>{ if(r.f) fout[k]=r.f });
-  return {id:s.id,naam:s.naam,klas:s.klas,code:s.code,laatst:s.upd,tijd:s.tijd||0,tijdWeek:(s.week||{})[weekId()]||0,xp:s.xp||0,lv:s.lv||{},toets:s.toets||{},dom,fout,et:s.et||{},vr:s.vr||{},week:s.week||{},dag:s.dag||{},nk:(s.kaarten||[]).length,badges:s.badges||[],sprint:s.sprint||null,herhaal:(s.herhaal||[]).length,aangemaakt:s.aangemaakt||0,munten:(s.mVerd||0)-(s.mUit||0)};
+  return {id:s.id,naam:s.naam,klas:s.klas,code:s.code,laatst:s.upd,tijd:s.tijd||0,tijdWeek:(s.week||{})[weekId()]||0,xp:s.xp||0,lv:s.lv||{},toets:s.toets||{},dom,fout,et:s.et||{},vr:s.vr||{},week:s.week||{},dag:s.dag||{},nk:(s.kaarten||[]).length,badges:s.badges||[],sprint:s.sprint||null,kv:s.kv||(typeof kernStand==='function'&&s===S?kernStand():null),lmodus:s.lmodus||null,herhaal:(s.herhaal||[]).length,aangemaakt:s.aangemaakt||0,munten:(s.mVerd||0)-(s.mUit||0)};
 }
 async function laadDocent(){ const c=$('#dCode').value.trim(); try{ const j=await api('overzicht',{docentcode:c}); toonDocent(j) }catch(e){ melding(e.message,4000) } }
 let D=null, dKlas='alle', dSort='week';

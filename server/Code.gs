@@ -50,6 +50,7 @@ function doPost(e) {
       case 'herstel': return uit_(herstel_(d));
       case 'sync': return uit_(sync_(d));
       case 'overzicht': return uit_(overzicht_(d));
+      case 'klasmodus': return uit_(klasmodus_(d));
       default: return uit_({ ok: false, fout: 'Onbekende actie' });
     }
   } catch (err) {
@@ -98,6 +99,7 @@ function sync_(d) {
     .concat(DOMEIN_IDS.map(function (k) { return sam.dom[k]; })).map(function (x) { return x === null ? '' : x; });
   sp.getRange(r.rij, 6, 1, rij.length).setValues([rij]);
   const terug = JSON.parse(JSON.stringify(nieuw)); terug.code = String(d.code);
+  terug.kmodus = leesKlasModus_()[r.klas] || '';               // oefenmodus die de docent voor de klas heeft gekozen
   return { ok: true, staat: terug };
 }
 
@@ -112,7 +114,18 @@ function overzicht_(d) {
     const s = data[x[0]] || {}; s.id = x[0]; s.naam = x[1]; s.klas = x[2];
     const sam = samenvat_(s); sam.code = String(x[3]).replace(/^'/, ''); return sam;
   });
-  return { ok: true, spelers: spelers };
+  return { ok: true, spelers: spelers, klasmodus: leesKlasModus_() };
+}
+
+// ---------- Oefenmodus per klas (examen = alleen kernbegrippen, toets = kern en methode) ----------
+function leesKlasModus_() { try { return JSON.parse(PropertiesService.getScriptProperties().getProperty('KLASMODUS') || '{}'); } catch (e) { return {}; } }
+function klasmodus_(d) {
+  if (String(d.docentcode) !== String(CFG.DOCENT_CODE)) { Utilities.sleep(1500); throw new Error('Onjuiste docentcode'); }
+  if (CFG.KLASSEN.indexOf(d.klas) < 0) throw new Error('Onbekende klas');
+  const m = leesKlasModus_();
+  if (d.modus === 'examen' || d.modus === 'toets') m[d.klas] = d.modus; else delete m[d.klas];
+  PropertiesService.getScriptProperties().setProperty('KLASMODUS', JSON.stringify(m));
+  return { ok: true, klasmodus: m };
 }
 
 // ---------- Opslag ----------
@@ -199,7 +212,7 @@ function samenvat_(s) {
   return { id: s.id, naam: s.naam, klas: s.klas, laatst: s.upd || 0, tijd: s.tijd || 0, tijdWeek: (s.week || {})[weekId_()] || 0,
     xp: s.xp || 0, lv: lv, toets: toets, dom: dom, fout: fout, et: et,
     vr: s.vr || {}, week: s.week || {}, dag: s.dag || {}, nk: (s.kaarten || []).length, badges: s.badges || [],
-    sprint: s.sprint || null, pt: s.pt || {}, exr: s.exr || {}, herhaal: (s.herhaal || []).length, aangemaakt: s.aangemaakt || 0, munten: (s.mVerd || 0) - (s.mUit || 0),
+    sprint: s.sprint || null, pt: s.pt || {}, exr: s.exr || {}, kv: s.kv || null, lmodus: s.lmodus || null, herhaal: (s.herhaal || []).length, aangemaakt: s.aangemaakt || 0, munten: (s.mVerd || 0) - (s.mUit || 0),
     brons: Object.keys(lv).filter(function (k) { return lv[k].best >= 6; }).length,
     toetsen: Object.keys(toets).filter(function (k) { return toets[k].klaar; }).length };
 }
