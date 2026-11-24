@@ -43704,7 +43704,8 @@ herhaal(){
   const n=S.herhaal.length;
   return `<div class="wrap">${kop('Herhaalronde','go(\'home\')')}<div class="kaart mid"><div class="groot">🔁</div>
    <p>${n?`Er staan <b>${n}</b> vragen klaar die je eerder fout had. Een vraag verdwijnt als je hem twee keer goed hebt.`:'Je hebt geen foute vragen openstaan.'}</p>
-   ${n?`<button class="knop" onclick="startHerhaal()">Start herhaalronde</button>`:''}</div></div>`;
+   ${n?`<button class="knop" onclick="startHerhaal()">Start herhaalronde</button>`:''}</div>
+   <div class="kaart" style="margin-top:12px"><b>📕 Foutenschrift</b><p class="zacht" style="margin:4px 0 8px">Al je fouten per leerdoel, zodat je ziet waar je specifiek aan moet werken.</p><button class="knop zacht" onclick="go('fouten')">Open je foutenschrift</button></div></div>`;
 },
 collectie(){
   const blok=WERELDEN.filter(w=>LEVELS[w.id]&&Object.keys(LEVELS[w.id].begrippen||{}).length).map(w=>{const b=LEVELS[w.id].begrippen; const ks=Object.keys(b).sort((a,c)=>a.localeCompare(c,'nl'));
@@ -44249,7 +44250,8 @@ function dLeerling(s){
    <div class="sectie">Domeinen en levels</div><div class="kaart"><p class="zacht" style="margin:0 0 6px;font-size:13px">Per level de beste medaille (🥉 6, 🥈 7, 🥇 8 van 8). Een getal is een beste score zonder medaille, een punt is nog niet gespeeld.</p>${werelden}</div>
    <div class="sectie">Vaardigheden per eindterm</div><div class="kaart">${etRijen}</div>
    <div class="sectie">Vragen die het vaakst fout gingen</div><div class="kaart">${(fout.length?fout:foutOud).length?(fout.length?fout:foutOud).map(x=>`<div class="rij" style="display:block"><b>${x.r.f}× fout${x.r.g?', '+x.r.g+'× goed':''}</b> · <span class="zacht" style="font-size:13px">${esc(x.v.w==='ex'?'Examen '+x.v.jaar+' tv'+x.v.tv+' vraag '+x.v.nr:(WERELDEN.find(w=>w.id===x.v.w)||{}).naam||'')}</span><br>${esc(x.v.q)}<br><span class="zacht">Juist: ${esc(juistTekst(x.v))}</span></div>`).join(''):'<p class="zacht">Nog geen foute vragen.</p>'}</div>
-   ${exRijen?`<div class="sectie">Examentrainer per examen</div><div class="kaart">${exRijen}</div>`:''}`;
+   ${exRijen?`<div class="sectie">Examentrainer per examen</div><div class="kaart">${exRijen}</div>`:''}
+   ${s.vr?`<div class="sectie">Foutenschrift per leerdoel</div><div class="kaart"><p class="zacht" style="margin:0 0 6px;font-size:13px">Leerdoelen met de meeste fouten die nog open staan (vaker fout dan goed). Klik op een regel voor de vragen.</p>${foutenschriftDocent(s)}</div>`:''}`;
 }
 
 function dVragen(sp){
@@ -44306,7 +44308,7 @@ function dCsv(){
 // 1 flitskaarten met herhaling op afstand, 2 formulekaart en rekenhulp, 3 grafiekvragen (klikken in een grafiek),
 // 4 proeftoets per hoofdstuk, 6 een heel examen op tijd. (5, het klassenoverzicht, staat in docent.js.)
 const DAG=864e5;
-Object.assign(FOTO,{leren:FOTO.vaardig,flits:FOTO.collectie,flitsen:FOTO.collectie,formules:FOTO.A,proef:FOTO.herhaal,exvol:FOTO.examen});
+Object.assign(FOTO,{fouten:FOTO.herhaal,leren:FOTO.vaardig,flits:FOTO.collectie,flitsen:FOTO.collectie,formules:FOTO.A,proef:FOTO.herhaal,exvol:FOTO.examen});
 
 // ---------- Leren: overzicht van alle extra's ----------
 SCHERMEN.leren = function(){
@@ -44315,6 +44317,7 @@ SCHERMEN.leren = function(){
   const tegel=(ic,t,s,on)=>`<button class="uitdaging" onclick="${on}"><span class="thumb" style="background:var(--bg);display:grid;place-items:center;font-size:28px">${ic}</span><span><b>${t}</b><small>${s}</small></span></button>`;
   return `<div class="wrap" style="max-width:760px">${kop('Leren en toetsen',"go('home')")}<div class="kaart">
    ${tegel('🃏','Flitskaarten',due?`${due} begrippen om nu te herhalen`:`${nieuw} nieuwe begrippen om te leren`,"go('flits')")}
+   ${tegel('📕','Foutenschrift',(()=>{const g=foutGroepen(S.vr,S.herhaal).filter(x=>x.open);return g.length?`${g.reduce((a,x)=>a+x.open,0)} fouten open bij ${g.length} leerdoelen`:'Al je fouten per leerdoel, zodat je weet waar je aan moet werken'})(),"go('fouten')")}
    ${tegel('🧮','Formulekaart en rekenhulp','Alle formules met een uitgewerkt voorbeeld en een rekenhulp',"go('formules')")}
    ${tegel('📈','Grafiektraining','Klik in de grafiek: evenwicht, surplus, maximumprijs, accijns',"startGrafiek()")}
    ${tegel('⏱️','Proeftoets per hoofdstuk','Toets op tijd met een cijfer, zonder hulp tussendoor',"go('proef')")}
@@ -44654,6 +44657,50 @@ function exvUitslag(c,l,E){
    <div class="voet" style="justify-content:center"><button class="knop zacht" onclick="S.exvol=null;bewaar();exTab='tijd';go('examen')">Terug naar de examens</button><button class="knop" onclick="S.exvol=null;bewaar();startHerhaal()">Oefen je fouten</button></div></div>
    <div class="sectie">Punten per domein</div><div class="kaart">${doms}</div></div>`;
 }
+
+// ---------- Foutenschrift ----------
+// Alle vragen die de leerling ooit fout had, gegroepeerd per leerdoel (eindterm/onderwerp). 'Open' = nog niet weggewerkt:
+// staat nog in de herhaalronde (leerling) of vaker fout dan goed (docent). Rekensommen met wisselende getallen tellen per soort.
+function foutGroepen(vr, herhaal){
+  const g={};
+  Object.entries(vr||{}).forEach(([id,r])=>{ if(!r||!r.f) return; let v;
+    if(id.startsWith('gen.')){ try{ v=maakGen(id.slice(4)) }catch(e){ return } } else v=vraagById(id);
+    if(!v||!v.e) return; const open=herhaal&&!v.gen?herhaal.includes(id):r.f>(r.g||0);
+    (g[v.e]=g[v.e]||{e:v.e,items:[]}).items.push({id,v,r,open}) });
+  return Object.values(g).map(x=>{ x.items.sort((a,b)=>(b.open-a.open)||(b.r.f-a.r.f)); x.open=x.items.filter(i=>i.open).length; x.tot=x.items.length; return x })
+    .sort((a,b)=>b.open-a.open||b.tot-a.tot);
+}
+const ldNaam = e => (EINDTERMEN[e]||{}).t||e;
+const ldDomein = e => DOMEINEN.find(d=>d.id===(EINDTERMEN[e]||{}).d)||{icoon:'',naam:''};
+let fsAlles=false;
+SCHERMEN.fouten = function(){
+  const gr=foutGroepen(S.vr,S.herhaal).filter(x=>fsAlles||x.open);
+  const nOpen=gr.reduce((a,x)=>a+x.open,0);
+  const item=i=>{ const v=i.v; const q=v.gen?'Rekensom: '+v.q:v.q;
+    return `<div class="rij fsItem" style="display:block"><div style="display:flex;gap:8px;align-items:baseline"><span>${i.open?'🔴':'✅'}</span><span style="flex:1">${esc(q.length>260?q.slice(0,260)+'…':q)}</span></div>
+     <div class="zacht" style="font-size:13px;margin:2px 0 0 26px">${i.r.f}× fout${i.r.g?' · '+i.r.g+'× goed':''}${v.w==='ex'&&v.jaar?` · examen ${v.jaar} tijdvak ${v.tv} vraag ${v.nr}`:''}${i.open?'':' · weggewerkt'}</div>
+     <div style="margin:4px 0 0 26px;font-size:14px">${v.t==='open'?`<details><summary style="cursor:pointer;color:var(--acc);font-weight:700">Antwoordmodel</summary>${fmt(v.model||'')}</details>`:`Juist: <b>${esc(v.gen?'(steeds andere getallen)':String(juistTekst(v)))}</b>${v.u?`<br><span class="zacht">${esc(v.u)}</span>`:''}`}</div></div>` };
+  const blok=gr.map(x=>{ const D=ldDomein(x.e), sc=etScore(x.e);
+    const items=x.items.filter(i=>fsAlles||i.open);
+    return `<div class="kaart fsLd" style="margin-bottom:12px"><div style="display:flex;gap:12px;align-items:center;flex-wrap:wrap"><span style="font-size:26px">${D.icoon}</span>
+      <span style="flex:1;min-width:200px"><span class="zacht" style="font-size:13px">${esc(D.naam)} · leerdoel</span><br><b>${esc(ldNaam(x.e))}</b></span>
+      <span style="text-align:right"><b style="color:${x.open?'var(--fout)':'var(--goed)'}">${x.open} open</b><br><span class="zacht" style="font-size:13px">${x.tot} ooit fout${sc!=null?' · score '+sc:''}</span></span></div>
+      <div class="voet" style="justify-content:flex-start;flex-wrap:wrap;margin:10px 0 4px">${x.open?`<button class="knop klein" onclick="startFoutLd('${x.e}')">Oefen deze foute vragen</button>`:''}<button class="knop zacht klein" onclick="${x.e.startsWith('EX.')?`startExDomein('${x.e.slice(3)}')`:`startEindterm('${x.e}')`}">Nieuwe vragen over dit leerdoel</button></div>
+      <details ${gr.length<=3?'open':''}><summary style="cursor:pointer;font-weight:700">Bekijk de ${items.length} vragen</summary>${items.map(item).join('')}</details></div>` }).join('');
+  return `<div class="wrap" style="max-width:860px">${kop('Foutenschrift',"go('leren')")}
+   <div class="kaart" style="margin-bottom:14px"><p style="margin:0 0 8px">Hier staan alle vragen die je fout had, per leerdoel. Bovenaan staan de leerdoelen waar je nog de meeste fouten open hebt: daar moet je dus specifiek aan werken. Een fout is weggewerkt als je de vraag daarna twee keer goed hebt.</p>
+   <p style="margin:0 0 10px"><b>${nOpen}</b> fouten nog open, verdeeld over <b>${gr.filter(x=>x.open).length}</b> leerdoelen.</p>
+   <div class="voet" style="justify-content:flex-start;flex-wrap:wrap;margin:0"><label class="label" style="margin:0"><input type="checkbox" ${fsAlles?'checked':''} onchange="fsAlles=this.checked;go('fouten')"> Ook weggewerkte fouten tonen</label><span style="flex:1"></span><button class="knop zacht klein" onclick="document.querySelectorAll('.fsLd details').forEach(d=>d.open=true);window.print()">Afdrukken</button></div></div>
+   ${blok||'<div class="kaart"><p class="zacht" style="margin:0">Nog geen fouten. Goed bezig, of nog niet genoeg geoefend!</p></div>'}</div>${VOET()}`;
+};
+function startFoutLd(e){ const gr=foutGroepen(S.vr,S.herhaal).find(x=>x.e===e); if(!gr) return;
+  const v=gr.items.filter(i=>i.open).map(i=>i.v.gen?maakGen(i.id.slice(4)):i.v).slice(0,12).map(x=>{ const c=Object.assign({},x); delete c._mix; return c });
+  Q={modus:'herhaal',titel:'Foutenschrift · '+ldNaam(e),vragen:shuffle(v),i:0,res:[],terug:"go('fouten')"}; go('quiz') }
+// voor het docentendashboard: compact overzicht per leerdoel
+function foutenschriftDocent(s){ const gr=foutGroepen(s.vr); if(!gr.length) return '<p class="zacht" style="margin:0">Nog geen fouten.</p>';
+  return gr.slice(0,15).map(x=>{ const D=ldDomein(x.e); const sc=etPct((s.et||{})[x.e]);
+    return `<details class="rij" style="display:block"><summary style="cursor:pointer;display:flex;gap:10px;align-items:center"><span>${D.icoon}</span><span style="flex:1;font-size:14px">${esc(ldNaam(x.e))}</span><b style="color:${x.open?'var(--fout)':'var(--goed)'}">${x.open} open</b><span class="zacht" style="font-size:13px;min-width:70px;text-align:right">${x.tot} ooit fout</span>${dc(sc)}</summary>
+     ${x.items.slice(0,8).map(i=>`<div style="font-size:13px;margin:4px 0 0 30px">${i.open?'🔴':'✅'} ${esc((i.v.gen?'Rekensom: ':'')+(i.v.q.length>180?i.v.q.slice(0,180)+'…':i.v.q))} <span class="zacht">(${i.r.f}× fout${i.r.g?', '+i.r.g+'× goed':''})</span></div>`).join('')}</details>` }).join('') }
 
 start();
 </script>

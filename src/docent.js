@@ -180,7 +180,8 @@ function dLeerling(s){
    <div class="sectie">Domeinen en levels</div><div class="kaart"><p class="zacht" style="margin:0 0 6px;font-size:13px">Per level de beste medaille (🥉 6, 🥈 7, 🥇 8 van 8). Een getal is een beste score zonder medaille, een punt is nog niet gespeeld.</p>${werelden}</div>
    <div class="sectie">Vaardigheden per eindterm</div><div class="kaart">${etRijen}</div>
    <div class="sectie">Vragen die het vaakst fout gingen</div><div class="kaart">${(fout.length?fout:foutOud).length?(fout.length?fout:foutOud).map(x=>`<div class="rij" style="display:block"><b>${x.r.f}× fout${x.r.g?', '+x.r.g+'× goed':''}</b> · <span class="zacht" style="font-size:13px">${esc(x.v.w==='ex'?'Examen '+x.v.jaar+' tv'+x.v.tv+' vraag '+x.v.nr:(WERELDEN.find(w=>w.id===x.v.w)||{}).naam||'')}</span><br>${esc(x.v.q)}<br><span class="zacht">Juist: ${esc(juistTekst(x.v))}</span></div>`).join(''):'<p class="zacht">Nog geen foute vragen.</p>'}</div>
-   ${exRijen?`<div class="sectie">Examentrainer per examen</div><div class="kaart">${exRijen}</div>`:''}`;
+   ${exRijen?`<div class="sectie">Examentrainer per examen</div><div class="kaart">${exRijen}</div>`:''}
+   ${s.vr?`<div class="sectie">Foutenschrift per leerdoel</div><div class="kaart"><p class="zacht" style="margin:0 0 6px;font-size:13px">Leerdoelen met de meeste fouten die nog open staan (vaker fout dan goed). Klik op een regel voor de vragen.</p>${foutenschriftDocent(s)}</div>`:''}`;
 }
 
 function dVragen(sp){

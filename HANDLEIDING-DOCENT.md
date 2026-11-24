@@ -31,6 +31,9 @@
   - "Oefen dit domein" geeft voorrang aan de zwakste onderwerpen.
 
 - **Leren** (nieuw menu-item) bundelt vijf extra's:
+  - **Foutenschrift**: alle vragen die de leerling fout had, per leerdoel (onderwerp/eindterm), met bovenaan de leerdoelen met de
+    meeste open fouten. Per leerdoel: de foute vragen opnieuw oefenen of nieuwe vragen over dat leerdoel. Ook af te drukken.
+    In het docentendashboard staat bij elke leerling een foutenschrift per leerdoel.
   - **Flitskaarten**: alle begrippen per domein. De leerling draait de kaart om en kiest Wist ik niet, Twijfel of Wist ik.
     Gekende kaarten komen terug na 1, 3, 7, 14, 30 en 60 dagen (herhaling op afstand). Ook andersom te oefenen (betekenis → begrip).
   - **Formulekaart en rekenhulp**: 22 formules per domein met uitleg, een uitgewerkt voorbeeld, een rekenhulp om de eigen berekening
