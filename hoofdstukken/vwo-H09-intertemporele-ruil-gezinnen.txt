@@ -1,0 +1,221 @@
+# HOOFDSTUK v 9 | Intertemporele ruil gezinnen
+domein: E
+hoofdvraag: Hoe ruilen gezinnen over de tijd door te sparen, te lenen, een woning te kopen en te zorgen voor later?
+
+## § 9.1 | Jong geleerd, oud gedaan
+onderwerp: E.rente
+deelvraag: Welke vormen van ruil over de tijd kunnen we in gezinnen aantreffen?
+### UITLEG De financiële levenscyclus
+Gezinnen ruilen over de tijd (intertemporele ruil): ze stemmen inkomsten en uitgaven af op hun levensfase.
+- Jeugd en studie: weinig inkomen, eventueel lenen om te investeren in human capital.
+- Begin van de loopbaan: het inkomen stijgt en de vermogensopbouw begint.
+- Eigen woning: een grote schuld (hypotheek), daarna aflossen en zo vermogen opbouwen.
+- Pensioen: het arbeidsinkomen valt weg. Je ontvangt pensioen en teert in op je vermogen (ontsparen).
+### UITLEG Voorraad en stroom
+Een voorraadgrootheid meet je op een tijdstip, bijvoorbeeld het spaarsaldo op 1 januari of de hypotheekschuld.
+Een stroomgrootheid meet je over een periode, bijvoorbeeld het inkomen per maand of de stortingen per jaar.
+De voorraad verandert door de stromen: spaarsaldo eind = saldo begin + stortingen − opnames.
+### UITLEG Kapitaal en human capital
+Er zijn vier vormen van kapitaal: fysieke kapitaalgoederen (machines, gebouwen), geldkapitaal, sociaal kapitaal (netwerken en vertrouwen) en human capital (kennis, vaardigheden, ervaring en gezondheid).
+Een opleiding is een investering in human capital: nu kosten en gederfd inkomen, later een hoger inkomen en minder kans op werkloosheid.
+Onderwijs heeft positieve externe effecten (hogere productiviteit, meer belastinginkomsten, minder criminaliteit, betere gezondheid). Daarom subsidieert de overheid onderwijs.
+### BEGRIPPEN
+Intertemporele ruil = Ruilen over de tijd: consumptie naar voren halen door te lenen of uitstellen door te sparen.
+Financiële levenscyclus = Het verloop van inkomen, consumptie, sparen, lenen en vermogen in de verschillende fasen van een leven.
+Voorraadgrootheid = Grootheid die op een bepaald tijdstip wordt gemeten, zoals het spaarsaldo op 31 december.
+Stroomgrootheid = Grootheid die over een periode wordt gemeten, zoals het inkomen per jaar.
+Human capital = De kennis, vaardigheden en ervaring van mensen, opgebouwd via onderwijs en training.
+Sociaal kapitaal = De waarde van sociale netwerken, relaties en onderling vertrouwen.
+### MC
+Welke van deze grootheden is een voorraadgrootheid?
+* De hypotheekschuld op 1 januari
+- Het nettoloon per maand
+- De rentebetalingen per jaar
+- De stortingen op een spaarrekening per jaar
+> Een voorraad meet je op één tijdstip. De andere drie meet je over een periode.
+### MC
+Een student van 22 jaar leent geld om een master te volgen. Wat is de beste economische omschrijving?
+* Hij investeert in human capital en haalt consumptie naar voren door te lenen
+- Hij investeert in fysiek kapitaal
+- Hij spaart voor later
+- Hij ontspaart, omdat zijn vermogen daalt door pensioen
+> Opleiding = investeren in human capital. Lenen = intertemporele ruil: later betaal je terug uit een hoger inkomen.
+### MC
+Waarom subsidieert de overheid onderwijs?
+* Onderwijs heeft positieve externe effecten voor de hele samenleving
+- Onderwijs is een collectief goed waarvoor niemand wil betalen
+- Studenten hebben geen human capital
+- Zonder subsidie zou niemand een opleiding volgen
+> De maatschappelijke opbrengst is groter dan de individuele opbrengst: denk aan productiviteit, belastinginkomsten en gezondheid.
+### MC
+In welke fase van de financiële levenscyclus ontspaart een huishouden meestal?
+* Na pensionering
+- Tijdens de studie
+- Aan het begin van de loopbaan
+- Tijdens het aflossen van de hypotheek
+> Na het pensioen valt het arbeidsinkomen weg en teert men in op het opgebouwde vermogen.
+
+## § 9.2 | Sparen en lenen
+onderwerp: E.rente
+deelvraag: Op welke manier beïnvloeden sparen en lenen onze huidige en toekomstige bestedingsmogelijkheden?
+leerdoelen: ECO-FINAN-01
+gens: reeleRente, eindwaarde, contanteWaarde
+### UITLEG Rente
+Rente (interest) is de vergoeding voor het uitlenen of de prijs voor het lenen van geld.
+- Enkelvoudige rente: alleen over het oorspronkelijke bedrag.
+- Samengestelde rente (rente op rente): ook over eerder bijgeschreven rente. Eindwaarde = K × (1 + r)ⁿ.
+- Nominale rente: het afgesproken percentage. Reële rente: gecorrigeerd voor inflatie.
+Reëel indexcijfer = nominaal indexcijfer / prijsindexcijfer × 100. Bij benadering: reële rente ≈ nominale rente − inflatie.
+### UITLEG Waarom bestaat rente?
+1. Beloning voor uitgestelde consumptie (mensen consumeren liever nu dan later: tijdsvoorkeur).
+2. Beloning voor het risico dat de lener niet terugbetaalt.
+3. Compensatie voor inflatie.
+"Dé" rente bestaat niet: het tarief hangt af van looptijd, risico en onderpand.
+### UITLEG De intertemporele budgetlijn
+We kijken naar twee perioden: nu en later. Het levensloopinkomen is het inkomen in beide perioden samen.
+De intertemporele budgetlijn geeft alle combinaties van consumptie nu en consumptie later.
+Wie spaart, consumeert nu minder dan zijn inkomen en later meer (spaarbedrag + rente). Wie leent, consumeert nu meer en later minder (lening + rente terugbetalen).
+Hoe hoger de rente, hoe steiler de lijn: sparen levert meer op en lenen kost meer.
+### BEGRIPPEN
+Interest = De vergoeding voor het uitlenen of de prijs voor het lenen van geld.
+Enkelvoudige rente = Rente die alleen over het oorspronkelijke spaar- of leenbedrag wordt berekend.
+Samengestelde rente = Rente die ook over eerder bijgeschreven rente wordt berekend (rente op rente).
+Nominale rente = Het afgesproken rentepercentage, niet gecorrigeerd voor inflatie.
+Reële rente = De nominale rente gecorrigeerd voor de stijging van het algemeen prijspeil.
+Intertemporele budgetlijn = Lijn met alle combinaties van maximale consumptie nu en later bij een gegeven levensloopinkomen en rente.
+Levensloopinkomen = Het totale inkomen dat iemand in alle perioden van zijn leven verdient.
+### MC
+De nominale rente is 3% en de inflatie is 5%. Wat gebeurt er met de koopkracht van je spaargeld?
+* Die daalt met ongeveer 2% per jaar
+- Die stijgt met ongeveer 2% per jaar
+- Die stijgt met 3% per jaar
+- Die blijft gelijk
+> Reële rente ≈ 3 − 5 = −2%. Exact: 103 / 105 × 100 = 98,1.
+### MC
+Welke reden voor het bestaan van rente verklaart dat een lening zonder onderpand een hogere rente heeft?
+* De beloning voor het risico dat de lener niet terugbetaalt
+- De beloning voor uitgestelde consumptie
+- De compensatie voor inflatie
+- De tijdsvoorkeur van de lener
+> Zonder onderpand loopt de geldgever meer risico en vraagt daarvoor een hogere vergoeding.
+### MC
+Iemand verdient nu € 30.000 en later € 30.000 en consumeert nu € 35.000. Wat geldt?
+* Hij leent nu en kan later minder dan € 25.000 consumeren
+- Hij spaart nu en kan later meer dan € 30.000 consumeren
+- Hij leent nu en kan later precies € 25.000 consumeren
+- Zijn levensloopinkomen stijgt
+> Hij leent € 5.000. Later moet hij € 5.000 plus rente terugbetalen, dus blijft er minder dan € 25.000 over.
+### MC
+Wat gebeurt er met de intertemporele budgetlijn als de rente stijgt?
+* De lijn wordt steiler: sparen levert later meer op, lenen kost meer
+- De lijn verschuift evenwijdig naar buiten
+- De lijn wordt vlakker
+- Er verandert niets, want het inkomen blijft gelijk
+> Elke euro die je nu niet uitgeeft, levert later meer op. De lijn draait om het punt waar je niet spaart en niet leent.
+
+## § 9.3 | Kopen of huren
+onderwerp: E.rente
+deelvraag: Welke motieven spelen een rol als het gaat om kopen of huren van een woning?
+### UITLEG Huren
+Sociale huurwoningen zijn voor lagere inkomens. De overheid stelt een maximale huur en een maximale huurstijging vast. Huurders kunnen huurtoeslag krijgen.
+Door de maximale huur is de vraag groter dan het aanbod: lange wachtlijsten en scheefwonen (huurders met een inmiddels hoog inkomen blijven in een goedkope woning).
+In de vrije sector bepalen vraag en aanbod de huur en is er geen huurtoeslag. Liberalisering geeft hogere huren en op termijn meer aanbod en kortere wachtlijsten, maar slechtere betaalbaarheid voor middeninkomens.
+### UITLEG Kopen met een hypotheek
+Een koopwoning is een consumptiegoed (om in te wonen) en een belegging (aflossen en waardestijging).
+Een hypothecaire lening is een lening met de woning als onderpand. De huiseigenaar is de hypotheekgever, de bank de hypotheeknemer.
+- Lineair: elke periode een gelijk bedrag aflossen. De schuld en de rente dalen, dus de maandlasten dalen.
+- Annuïteit: elke periode hetzelfde totaalbedrag. Eerst veel rente en weinig aflossing, later andersom.
+Hypotheekrenteaftrek: de betaalde rente mag (onder voorwaarden) van het inkomen in box 1 worden afgetrokken.
+### UITLEG Kopen of huren?
+Huren: flexibel, geen onderhoud, geen risico op waardedaling. Kopen: vermogensopbouw, vrijheid, geen huurstijgingen, fiscaal voordeel.
+Stijgen de huizenprijzen, dan ontstaat overwaarde. Dalen ze, dan kan een restschuld ontstaan: de woning staat "onder water".
+### BEGRIPPEN
+Hypothecaire lening = Een geldlening met een registergoed, meestal een woning, als onderpand.
+Hypotheekgever = De huiseigenaar die een hypothecaire lening afsluit en zijn woning als onderpand geeft.
+Hypotheeknemer = De geldverstrekker, meestal de bank, die het recht van hypotheek krijgt.
+Lineaire hypotheek = Hypotheek waarbij elke periode een gelijk bedrag wordt afgelost, zodat de maandlasten dalen.
+Annuïteitenhypotheek = Hypotheek waarbij elke periode een vast totaalbedrag aan rente en aflossing wordt betaald.
+Hypotheekrenteaftrek = Regeling waarbij betaalde hypotheekrente van het belastbaar inkomen mag worden afgetrokken.
+Huurtoeslag = Inkomensafhankelijke bijdrage van de overheid in de huurkosten.
+Scheefwonen = Huurders met een inmiddels te hoog inkomen blijven in een goedkope sociale huurwoning wonen.
+### MC
+Waarom ontstaan er wachtlijsten voor sociale huurwoningen?
+* Door de maximale huurprijs is de gevraagde hoeveelheid groter dan de aangeboden hoeveelheid
+- Door de huurtoeslag daalt de vraag
+- Omdat de huur in de vrije sector lager is
+- Omdat corporaties te veel woningen bouwen
+> Een maximumprijs onder de evenwichtsprijs geeft een tekort. Dat tekort uit zich in wachtlijsten.
+### MC
+Bij welke hypotheekvorm dalen de bruto maandlasten gedurende de looptijd?
+* De lineaire hypotheek
+- De annuïteitenhypotheek
+- Bij beide even snel
+- Bij geen van beide
+> Bij lineair los je steeds hetzelfde af. De schuld daalt en dus de rente, terwijl de aflossing gelijk blijft.
+### MC
+Wie is bij een hypothecaire lening de hypotheekgever?
+* De huiseigenaar die de lening afsluit
+- De bank
+- De notaris
+- De overheid
+> De huiseigenaar geeft het recht van hypotheek op zijn woning aan de bank (de hypotheeknemer).
+### MC
+De huizenprijzen dalen sterk. Wat kan het gevolg zijn voor een huiseigenaar die net heeft gekocht?
+* Een restschuld bij verkoop: de woning staat onder water
+- Overwaarde bij verkoop
+- Een lagere hypotheekschuld
+- Recht op huurtoeslag
+> Als de woning minder waard is dan de schuld, blijft er na verkoop een schuld over.
+
+## § 9.4 | De oudedagsvoorziening
+onderwerp: E.pensioen
+deelvraag: Op welke manieren kunnen we voorzien in een inkomen na het bereiken van de pensioengerechtigde leeftijd?
+gens: contanteWaarde
+### UITLEG Vergrijzing
+Door een hogere levensverwachting en minder geboorten neemt de vergrijzing toe: er komen meer ouderen per werkende. Daarom stijgt de AOW-leeftijd en werken mensen langer door.
+### UITLEG Drie pijlers
+Pijler 1: AOW, de basisvoorziening van de overheid. Alleenstaanden krijgen 70% en samenwonenden ieder 50% van het nettominimumloon. Je bouwt in de 50 jaar voor de AOW-leeftijd elk jaar 2% op.
+De AOW werkt met een omslagstelsel: de uitkeringen van nu worden betaald uit de premies van de werkenden van nu. Dat is intergenerationele ruil en het is gevoelig voor vergrijzing.
+Pijler 2: bedrijfspensioen via de werkgever en een pensioenfonds. Dit werkt met een kapitaaldekkingsstelsel: je eigen premies worden belegd voor je eigen pensioen.
+Pensioengrondslag = bruto jaarloon − franchise. Over de franchise bouw je geen pensioen op, omdat je later AOW krijgt.
+Pijler 3: eigen besparingen, zoals sparen, beleggen, lijfrente of de eigen woning.
+### UITLEG Dekkingsgraad
+Dekkingsgraad = huidige waarde van de beleggingen / contante waarde van de toekomstige verplichtingen × 100%.
+De toekomstige verplichtingen worden contant gemaakt met de rekenrente. Een lagere rekenrente maakt de contante waarde van de verplichtingen hoger, dus de dekkingsgraad daalt.
+### BEGRIPPEN
+AOW = Wettelijke basisverzekering die iedereen vanaf de AOW-leeftijd een basispensioen geeft.
+Omslagstelsel = Stelsel waarbij de uitkeringen van nu worden betaald uit de premies van de werkenden van nu.
+Kapitaaldekkingsstelsel = Stelsel waarbij de premies worden belegd om daaruit later de eigen uitkering te betalen.
+Intergenerationele ruil = Overheveling van inkomen tussen generaties, zoals bij de AOW.
+Franchise = Deel van het brutoloon waarover geen bedrijfspensioen wordt opgebouwd, omdat men later AOW krijgt.
+Pensioengrondslag = Bruto jaarloon min de franchise: het deel van het loon waarover pensioen wordt opgebouwd.
+Dekkingsgraad = Huidige vermogen van een pensioenfonds gedeeld door de contante waarde van de toekomstige verplichtingen, maal 100%.
+Contante waarde = De huidige waarde van een bedrag dat pas in de toekomst wordt ontvangen of betaald.
+### MC
+Waarom is de AOW gevoelig voor vergrijzing?
+* Omdat de AOW via een omslagstelsel wordt betaald door de werkenden van nu
+- Omdat de AOW-premies worden belegd
+- Omdat pensioenfondsen een lage dekkingsgraad hebben
+- Omdat ouderen geen belasting betalen
+> Bij vergrijzing moeten minder werkenden de uitkeringen van meer ouderen opbrengen.
+### MC
+Een werknemer verdient € 45.000 bruto per jaar. De franchise is € 17.000. Wat is de pensioengrondslag?
+* € 28.000
+- € 45.000
+- € 62.000
+- € 17.000
+> Pensioengrondslag = 45.000 − 17.000 = € 28.000.
+### MC
+De rekenrente van pensioenfondsen daalt. Wat gebeurt er met de dekkingsgraad als de beleggingen gelijk blijven?
+* De dekkingsgraad daalt, omdat de contante waarde van de verplichtingen stijgt
+- De dekkingsgraad stijgt, omdat de verplichtingen dalen
+- De dekkingsgraad blijft gelijk
+- De dekkingsgraad stijgt, omdat de beleggingen meer opleveren
+> Bij een lagere rente moet je nu meer geld hebben om later hetzelfde te kunnen betalen.
+### MC
+Een pensioenfonds heeft € 120 miljard belegd. De contante waarde van de verplichtingen is € 100 miljard. Wat is de dekkingsgraad?
+* 120%
+- 83%
+- 20%
+- 100%
+> 120 / 100 × 100% = 120%. Het fonds heeft meer dan genoeg om de verplichtingen te dekken.

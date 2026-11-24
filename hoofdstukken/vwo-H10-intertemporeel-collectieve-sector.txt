@@ -1,0 +1,207 @@
+# HOOFDSTUK v 10 | Intertemporeel: de collectieve sector
+domein: E
+hoofdvraag: Hoe ziet de financiële huishouding van de collectieve sector eruit?
+
+## § 10.1 | De collectieve sector
+onderwerp: F.coll
+deelvraag: Wat zijn de voornaamste kenmerken van de collectieve sector?
+### UITLEG Collectief en particulier
+De collectieve (publieke) sector bestaat uit de overheid en de sociale verzekeringsfondsen. De particuliere sector bestaat uit gezinnen en bedrijven.
+Collectieve goederen zijn niet-uitsluitbaar en niet-rivaliserend, bijvoorbeeld dijken, straatverlichting en defensie. De markt levert ze niet door meeliftersgedrag (free riders), dus de overheid doet het.
+Quasi-collectieve goederen kunnen wel individueel geleverd worden, maar de overheid biedt ze (deels) aan of subsidieert ze vanwege positieve externe effecten, bijvoorbeeld onderwijs, zorg en openbaar vervoer.
+### UITLEG Opbouw van de collectieve sector
+- Centrale overheid (het Rijk): ministeries.
+- Decentrale overheden: provincies (ruimtelijke ordening, regionaal vervoer), gemeenten (bijstand, lokale wegen, afval), waterschappen (waterbeheer en dijken).
+- Zelfstandige bestuursorganen (ZBO's): de SVB voert volksverzekeringen uit (AOW, Anw, kinderbijslag), het UWV werknemersverzekeringen (WW, WIA, Ziektewet).
+Volksverzekeringen zijn verplicht voor alle ingezetenen. Werknemersverzekeringen zijn verplicht voor werknemers in loondienst.
+### UITLEG Financiering
+Belastingen zijn verplichte afdrachten zonder directe individuele tegenprestatie. Sociale premies geven recht op een uitkering. Niet-belastingmiddelen zijn bijvoorbeeld aardgasbaten, winst van staatsdeelnemingen, boetes en retributies (zoals leges voor een paspoort).
+Bij de financiering van collectieve goederen ontstaat een gevangenendilemma: niet bijdragen (meeliften) is voor iedereen dominant, maar dan komt het goed er niet. Verplichte belasting lost dat op.
+### BEGRIPPEN
+Collectieve sector = De centrale overheid, decentrale overheden en de sociale verzekeringsfondsen samen.
+Quasi-collectief goed = Goed dat individueel geleverd kan worden, maar door de overheid (deels) wordt aangeboden vanwege positieve externe effecten.
+ZBO = Zelfstandig bestuursorgaan dat op afstand van een ministerie publieke taken uitvoert, zoals het UWV en de SVB.
+Volksverzekering = Sociale verzekering die verplicht is voor iedere ingezetene, zoals de AOW.
+Werknemersverzekering = Sociale verzekering die verplicht is voor werknemers in loondienst, zoals de WW.
+Retributie = Betaling aan de overheid voor een concrete individuele dienst, zoals leges voor een paspoort.
+Niet-belastingmiddelen = Overheidsinkomsten die geen belasting of premie zijn, zoals aardgasbaten, dividenden en boetes.
+### MC
+Welke combinatie van kenmerken hoort bij een collectief goed?
+* Niet-uitsluitbaar en niet-rivaliserend
+- Uitsluitbaar en rivaliserend
+- Uitsluitbaar en niet-rivaliserend
+- Niet-uitsluitbaar en rivaliserend
+> Niemand kan worden uitgesloten en gebruik door de een gaat niet ten koste van een ander.
+### MC
+Waarom levert de markt een dijk niet vanzelf?
+* Omdat niemand kan worden uitgesloten, zodat iedereen wil meeliften en niemand wil betalen
+- Omdat een dijk een quasi-collectief goed is
+- Omdat er te veel vraag naar dijken is
+- Omdat waterschappen dat verbieden
+> Free-ridergedrag: je profiteert ook als je niet betaalt. Dan is niet betalen de dominante strategie.
+### MC
+Welke organisatie voert de WW uit?
+* Het UWV
+- De SVB
+- De gemeente
+- Het waterschap
+> Het UWV voert de werknemersverzekeringen uit. De SVB voert de volksverzekeringen uit.
+### MC
+Je betaalt leges voor een nieuw rijbewijs. Wat is dat?
+* Een retributie
+- Een directe belasting
+- Een sociale premie
+- Een accijns
+> Je betaalt voor een concrete dienst van de overheid aan jou persoonlijk.
+
+## § 10.2 | Inkomsten van de collectieve sector
+onderwerp: H.belasting
+deelvraag: Op welke manier komt de collectieve sector aan middelen?
+leerdoelen: ECO-ALGEM-10, ECO-BELAS-01
+### UITLEG Soorten belastingen en premies
+- Directe belastingen: over inkomen, winst en vermogen, zoals loon- en inkomstenbelasting (de grootste post) en vennootschapsbelasting.
+- Indirecte belastingen: kostprijsverhogend, zoals btw, accijnzen (op tabak, alcohol en brandstof) en overdrachtsbelasting.
+- Sociale premies: premies volksverzekeringen, werknemersverzekeringen en de bijdrage voor de Zorgverzekeringswet.
+### UITLEG Belastingbeginselen en lastendruk
+Draagkrachtbeginsel: de sterkste schouders dragen de zwaarste lasten (progressieve belasting). Profijtbeginsel: wie profiteert, betaalt (accijns op benzine, collegegeld). Solidariteitsbeginsel: sterkeren betalen mee voor zwakkeren.
+Collectieve lastendruk = (belastingen + sociale premies) / bbp × 100%. In Nederland bijna 40%.
+### UITLEG Gevolgen van belastingen
+Een indirecte belasting verschuift de aanbodlijn omhoog. De consument betaalt meer, de producent ontvangt minder en de hoeveelheid daalt. Het verlies aan surplus dat niet naar de overheid gaat, is de Harberger-driehoek (welvaartsverlies).
+De wig is het verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer. Een grote wig geeft welvaartsverlies op de arbeidsmarkt.
+### UITLEG Het boxenstelsel en belastingdruk
+Box 1: inkomen uit werk en woning, met schijven (progressief), eigenwoningforfait, hypotheekrenteaftrek en heffingskortingen. Box 2: aanmerkelijk belang (minstens 5% van de aandelen van een bv of nv). Box 3: sparen en beleggen, met een fictief rendement.
+Gemiddelde belastingdruk = betaalde belasting / bruto-inkomen × 100%. Het marginale tarief is het tarief over de laatst verdiende euro. Bij een progressief stelsel ligt het marginale tarief boven de gemiddelde druk.
+### BEGRIPPEN
+Directe belasting = Belasting die rechtstreeks wordt geheven over inkomen, winst of vermogen.
+Indirecte belasting = Kostprijsverhogende belasting op bestedingen, zoals btw en accijns.
+Draagkrachtbeginsel = Wie een hoger inkomen of vermogen heeft, betaalt naar verhouding meer belasting.
+Profijtbeginsel = Wie profijt heeft van een overheidsvoorziening, betaalt daarvoor.
+Solidariteitsbeginsel = Mensen met een hoog inkomen of laag risico betalen mee voor mensen met een laag inkomen of hoog risico.
+Collectieve lastendruk = Belastingen en sociale premies als percentage van het bbp.
+Harberger-driehoek = Welvaartsverlies door een belasting: verloren surplus dat ook niet naar de overheid gaat.
+Wig = Verschil tussen de loonkosten voor de werkgever en het nettoloon van de werknemer.
+Marginaal belastingtarief = Het belastingpercentage over een extra verdiende euro.
+Gemiddelde belastingdruk = Het percentage van het inkomen dat in totaal aan belasting wordt betaald.
+### MC
+Welk belastingbeginsel past het best bij een accijns op benzine voor weggebruikers?
+* Het profijtbeginsel
+- Het draagkrachtbeginsel
+- Het solidariteitsbeginsel
+- Het verzekeringsbeginsel
+> Wie meer rijdt en dus meer van de wegen gebruikmaakt, betaalt meer.
+### MC
+Iemand verdient € 60.000 en betaalt € 18.000 belasting. Over de laatst verdiende euro betaalt hij 49,5%. Wat klopt?
+* De gemiddelde druk is 30% en het marginale tarief 49,5%: het stelsel werkt progressief
+- De gemiddelde druk is 49,5%
+- Het marginale tarief is 30%
+- Het stelsel is degressief
+> 18.000 / 60.000 × 100% = 30%. Het marginale tarief ligt hoger dan de gemiddelde druk.
+### MC
+Wat is de Harberger-driehoek?
+* Het welvaartsverlies doordat er na een belasting minder wordt verhandeld
+- De opbrengst van de belasting voor de overheid
+- Het consumentensurplus na de belasting
+- Het verschil tussen bruto- en nettoloon
+> Een deel van het verloren surplus gaat naar de overheid. De driehoek is het deel dat helemaal verdwijnt.
+### MC
+In welke box valt dividend van een directeur-grootaandeelhouder met 40% van de aandelen in zijn bv?
+* Box 2
+- Box 1
+- Box 3
+- Geen box: dividend is onbelast
+> Bij een aanmerkelijk belang (minstens 5%) valt het inkomen in box 2.
+
+## § 10.3 | Uitgaven van de collectieve sector
+onderwerp: E.overheid
+deelvraag: Hoe geeft de collectieve sector zijn middelen uit?
+### UITLEG Bestedingen en overdrachten
+Overheidsbestedingen nemen direct productiefactoren in beslag en tellen mee in het bbp:
+- Overheidsconsumptie: ambtenarensalarissen en materiële uitgaven (energie, kantoorartikelen, defensiematerieel).
+- Overheidsinvesteringen: wegen, bruggen, dijken en gebouwen.
+Overdrachtsuitgaven zijn inkomensoverdrachten zonder directe tegenprestatie: bijstand, subsidies, rente op de staatsschuld en uitkeringen zoals AOW, WW en WIA.
+### UITLEG Functionele indeling en uitgavenquote
+Naar beleidsdoel zijn sociale zekerheid en zorg de grootste posten. Door vergrijzing stijgen ze sterk. Daarna komt onderwijs.
+Collectieve uitgavenquote = collectieve uitgaven / bbp × 100%. Die steeg na 2000, onder meer door de kredietcrisis, de coronacrisis en hogere zorgkosten.
+### BEGRIPPEN
+Overheidsbestedingen = Uitgaven van de overheid aan goederen, diensten en ambtenarensalarissen: overheidsconsumptie en overheidsinvesteringen.
+Overdrachtsuitgaven = Uitgaven zonder directe economische tegenprestatie, zoals uitkeringen, subsidies en rente.
+Collectieve uitgavenquote = De collectieve uitgaven als percentage van het bbp.
+Overheidsinvesteringen = Uitgaven van de overheid aan infrastructuur en gebouwen.
+### MC
+Welke uitgave is een overdrachtsuitgave?
+* Een bijstandsuitkering
+- Het salaris van een politieagent
+- De aanleg van een nieuwe snelweg
+- De aankoop van een fregat voor de marine
+> Bij een uitkering staat er geen productie tegenover. De andere drie zijn overheidsbestedingen.
+### MC
+Waarom telt de rente op de staatsschuld niet mee als overheidsbesteding?
+* Omdat er geen productie tegenover staat: het is een inkomensoverdracht
+- Omdat rente geen uitgave is
+- Omdat de rente door de ECB wordt betaald
+- Omdat het een investering is
+> Rente is een overdracht van de overheid naar de geldgevers, geen aankoop van goederen of diensten.
+### MC
+De collectieve uitgaven zijn € 450 miljard en het bbp is € 1.000 miljard. Wat is de collectieve uitgavenquote?
+* 45%
+- 4,5%
+- 55%
+- 222%
+> 450 / 1.000 × 100% = 45%.
+### MC
+Welke uitgavenposten stijgen vooral door de vergrijzing?
+* Sociale zekerheid en zorg
+- Defensie en infrastructuur
+- Onderwijs en cultuur
+- Rente en subsidies aan bedrijven
+> Meer ouderen betekent meer AOW-uitkeringen en hogere zorgkosten.
+
+## § 10.4 | EMU-saldo en schuld
+onderwerp: E.overheid
+deelvraag: Hoe ontstaan het saldo van de collectieve sector en de staatsschuld?
+gens: begrotingssaldo
+### UITLEG EMU-saldo
+Het EMU-saldo is het verschil tussen de inkomsten en de uitgaven van de hele collectieve sector in een jaar. Inkomsten groter dan uitgaven: overschot. Kleiner: tekort.
+EMU-saldoquote = EMU-saldo / bbp × 100%.
+### UITLEG Van tekort naar schuld
+Een tekort wordt gefinancierd door te lenen, bijvoorbeeld met staatsobligaties. Daardoor stijgt de EMU-schuld. Met een overschot kan schuld worden afgelost.
+EMU-schuldquote = EMU-schuld / bbp × 100%.
+EMU-normen: tekort maximaal 3% van het bbp, schuld maximaal 60% van het bbp.
+Noemereffect: groeit het bbp harder dan de schuld, dan daalt de schuldquote zonder dat er wordt afgelost.
+### UITLEG Is een tekort erg?
+Een tekort kan nuttig zijn om te investeren in de toekomst (onderwijs, infrastructuur) of om in een recessie de economie te stimuleren (anticyclisch beleid). Bij een lage rente is lenen goedkoop.
+De schuld is een last voor later als het geld is gebruikt voor consumptie of als de schuld vooral in buitenlandse handen is. Minder als het geld productief is geïnvesteerd of de schuld in handen is van binnenlandse spaarders en pensioenfondsen.
+### BEGRIPPEN
+EMU-saldo = Het verschil tussen de totale inkomsten en uitgaven van de collectieve sector in een jaar.
+EMU-schuld = De totale schuld van de collectieve sector, opgebouwd door tekorten uit het verleden.
+EMU-normen = Europese regels: een tekort van maximaal 3% en een schuld van maximaal 60% van het bbp.
+Noemereffect = De schuldquote daalt doordat het bbp sneller groeit dan de schuld.
+Staatsobligatie = Schuldbewijs waarmee de overheid geld leent.
+### MC
+Het bbp is € 1.000 miljard, de EMU-schuld € 500 miljard en het tekort € 20 miljard. Voldoet het land aan de EMU-normen?
+* Ja: het tekort is 2% en de schuld 50% van het bbp
+- Nee: het tekort is te groot
+- Nee: de schuld is te groot
+- Nee: allebei te groot
+> 20 / 1.000 = 2% (maximaal 3%) en 500 / 1.000 = 50% (maximaal 60%).
+### MC
+De staatsschuld stijgt met 2%, het nominale bbp met 5%. Wat gebeurt er met de EMU-schuldquote?
+* Die daalt door het noemereffect
+- Die stijgt met 2%
+- Die stijgt met 3%
+- Die blijft gelijk
+> De noemer (bbp) groeit sneller dan de teller (schuld), dus de breuk wordt kleiner.
+### MC
+Wanneer is een staatsschuld het minst een last voor toekomstige generaties?
+* Als met het geleende geld productief is geïnvesteerd in bijvoorbeeld onderwijs en infrastructuur
+- Als het geld is gebruikt voor hogere uitkeringen
+- Als de schuld vooral in buitenlandse handen is
+- Als de rente sterk stijgt
+> Productieve investeringen vergroten het toekomstige bbp, waaruit de rente en aflossing betaald kunnen worden.
+### MC
+Waarom laat de overheid in een recessie soms bewust een tekort ontstaan?
+* Om de bestedingen te stimuleren (anticyclisch beleid)
+- Omdat de EMU-normen dat verplichten
+- Om de inflatie te verhogen
+- Om de staatsschuld te verlagen
+> In een recessie vallen de bestedingen terug. Extra overheidsbestedingen of lagere belastingen houden de vraag op peil.

@@ -1,0 +1,210 @@
+# HOOFDSTUK v 12 | Risico, beleggen en ondernemen
+domein: G
+hoofdvraag: Welke risico's en voordelen zijn er bij beleggen in activiteiten van ondernemingen?
+
+## § 12.1 | Beleggen in aandelen
+onderwerp: G.finan
+deelvraag: Wat zijn de voor- en nadelen van beleggen in aandelen?
+leerdoelen: ECO-FINAN-02
+### UITLEG Sparen of beleggen
+Een spaarrekening heeft weinig risico en weinig rendement. Door het depositogarantiestelsel is je tegoed tot € 100.000 per persoon per bank gegarandeerd.
+Effecten zijn verhandelbare waardepapieren, zoals aandelen en obligaties. De AEX is de beursindex van de 25 grootste Nederlandse beursfondsen.
+### UITLEG Aandelen
+Een aandeel is een bewijs van deelname in het eigen vermogen van een nv of bv: je bent mede-eigenaar. Van de winst wordt een deel uitgekeerd (dividend) en een deel gereserveerd.
+Stijgt de rente, dan dalen aandelenkoersen meestal: sparen en obligaties worden aantrekkelijker en lenen wordt duurder voor bedrijven. Daalt de rente, dan stijgen ze meestal.
+### UITLEG Rendement
+Dividendrendement = dividend per aandeel / aankoopkoers × 100%.
+Koersrendement = (verkoopkoers − aankoopkoers) / aankoopkoers × 100%.
+Aandelenrendement = dividendrendement + koersrendement.
+Aandelen zijn risicovol (koersrisico; bij faillissement zijn aandeelhouders als laatste aan de beurt), maar leveren op lange termijn gemiddeld meer op dan sparen.
+### UITLEG Toezicht
+Bescherming (zoals depositogarantie of reddingen door de overheid) kan leiden tot moral hazard: banken nemen dan te veel risico.
+Twin Peaks-model: DNB houdt prudentieel toezicht (zijn banken, verzekeraars en pensioenfondsen financieel gezond?). De AFM houdt gedragstoezicht (gaan instellingen eerlijk met klanten om en is de handel ordelijk?).
+### BEGRIPPEN
+Effecten = Verhandelbare waardepapieren, zoals aandelen en obligaties.
+Aandeel = Bewijs van deelname in het eigen vermogen van een nv of bv.
+Dividendrendement = Dividend per aandeel als percentage van de aankoopkoers.
+Koersrendement = Koerswinst of -verlies als percentage van de aankoopkoers.
+Aandelenrendement = Dividendrendement plus koersrendement.
+Depositogarantiestelsel = Regeling die spaartegoeden tot € 100.000 per persoon per bank garandeert bij een faillissement.
+Prudentieel toezicht = Toezicht van DNB op de financiële gezondheid van banken, verzekeraars en pensioenfondsen.
+Gedragstoezicht = Toezicht van de AFM op hoe financiële instellingen met klanten omgaan en op eerlijke handel.
+### MC
+Je koopt een aandeel voor € 40. Je ontvangt € 2 dividend en verkoopt het aandeel na een jaar voor € 44. Wat is je aandelenrendement?
+* 15%
+- 10%
+- 5%
+- 6%
+> Dividendrendement 2/40 = 5%, koersrendement 4/40 = 10%, samen 15%.
+### MC
+De ECB verhoogt de rente sterk. Wat gebeurt er waarschijnlijk met de aandelenkoersen?
+* Die dalen
+- Die stijgen
+- Die blijven gelijk
+- Alleen het dividend stijgt
+> Sparen en obligaties worden aantrekkelijker en bedrijven betalen meer rente, dus hun verwachte winst daalt.
+### MC
+Welke instantie controleert of een bank klanten eerlijk informeert over een beleggingsproduct?
+* De AFM (gedragstoezicht)
+- DNB (prudentieel toezicht)
+- De ECB
+- Het UWV
+> De AFM let op het gedrag van financiële instellingen tegenover klanten.
+### MC
+Waarom kan het depositogarantiestelsel leiden tot moral hazard?
+* Spaarders letten minder op hoe veilig hun bank is, zodat banken meer risico kunnen nemen
+- Banken moeten daardoor minder rente betalen
+- Spaarders sparen daardoor minder
+- De overheid moet daardoor alle banken bezitten
+> Omdat het geld toch gegarandeerd is, heeft de spaarder weinig prikkel om een voorzichtige bank te kiezen.
+
+## § 12.2 | Beleggen in obligaties
+onderwerp: G.finan
+deelvraag: Wat zijn de voor- en nadelen van beleggen in obligaties?
+leerdoelen: ECO-FINAN-02
+gens: reeleRente, contanteWaarde
+### UITLEG Obligaties
+Een obligatie is een verhandelbaar schuldbewijs van een langlopende lening. De obligatiehouder is schuldeiser en krijgt elk jaar een vaste couponrente en aan het eind de nominale waarde terug.
+Kortlopende staatsleningen (korter dan 1 jaar) heten schatkistpapier.
+Obligaties zijn veiliger dan aandelen: bij faillissement gaan schuldeisers voor de aandeelhouders.
+### UITLEG Koers en marktrente
+De waarde van een obligatie is de contante waarde van de toekomstige couponbetalingen en de aflossing, berekend met de actuele marktrente.
+Is de marktrente hoger dan de couponrente, dan ligt de koers onder de nominale waarde (onder pari). Is de marktrente lager, dan ligt de koers boven pari.
+Stijgt de marktrente, dan daalt dus de koers van bestaande obligaties.
+### UITLEG Reële rente
+Ook bij obligaties telt de reële rente: reëel indexcijfer = nominaal indexcijfer / prijsindexcijfer × 100.
+### BEGRIPPEN
+Obligatie = Verhandelbaar schuldbewijs van een langlopende lening met een vaste couponrente en aflossing.
+Couponrente = De vaste rente die een obligatie elk jaar oplevert over de nominale waarde.
+Nominale waarde = Het bedrag op een obligatie dat aan het eind van de looptijd wordt afgelost.
+Schatkistpapier = Kortlopende lening van de overheid met een looptijd korter dan een jaar.
+Onder pari = De koers van een obligatie ligt onder de nominale waarde.
+### MC
+Een obligatie heeft een couponrente van 2%. De marktrente stijgt naar 4%. Wat gebeurt er met de koers van deze obligatie?
+* Die daalt onder de nominale waarde
+- Die stijgt boven de nominale waarde
+- Die blijft gelijk aan de nominale waarde
+- De couponrente stijgt mee naar 4%
+> Niemand betaalt de volle prijs voor 2% als nieuwe leningen 4% opleveren.
+### MC
+Waarom is een obligatie minder risicovol dan een aandeel van hetzelfde bedrijf?
+* De obligatiehouder krijgt een vaste rente en gaat bij faillissement voor de aandeelhouders
+- De obligatiehouder is eigenaar van het bedrijf
+- Obligaties hebben geen koers
+- Obligaties worden door DNB gegarandeerd
+> Obligatiehouders zijn schuldeisers; aandeelhouders krijgen pas iets als alle schulden betaald zijn.
+### MC
+Een obligatie met een couponrente van 3% heeft een nominale waarde van € 1.000. Hoeveel rente ontvang je per jaar?
+* € 30
+- € 3
+- € 300
+- Dat hangt af van de koers
+> De couponrente gaat over de nominale waarde: 3% × 1.000 = € 30.
+### MC
+Wat is schatkistpapier?
+* Een kortlopende lening van de overheid, korter dan een jaar
+- Een aandeel van een staatsbedrijf
+- Een obligatie zonder rente
+- Bankbiljetten die DNB in reserve houdt
+> Voor korte financiering geeft de overheid schatkistpapier uit, voor lange staatsobligaties.
+
+## § 12.3 | Ondernemingen en risico
+onderwerp: G.finan
+deelvraag: Hoe gaan ondernemingen om met risico?
+leerdoelen: ECO-FINAN-01
+### UITLEG Risico's en winst
+Bedrijven lopen economische risico's (conjunctuur, vraag, concurrentie), personele risico's (ziekte, krapte) en schaderisico's (brand, diefstal, aansprakelijkheid).
+Winst is de beloning voor het ondernemersrisico en nodig om buffers en investeringen te betalen.
+### UITLEG Rechtsvormen
+Een rechtspersoon is zelf drager van rechten en plichten, los van de eigenaren.
+- Eenmanszaak (geen rechtspersoon): één eigenaar, ook met privévermogen aansprakelijk. Winst belast in box 1.
+- Vof (geen rechtspersoon): meerdere vennoten, allemaal hoofdelijk aansprakelijk, ook privé. Ieder betaalt inkomstenbelasting over zijn winstaandeel.
+- Nv (rechtspersoon): vrij verhandelbare aandelen, minimumkapitaal € 45.000, aandeelhouders beperkt aansprakelijk. De nv betaalt vennootschapsbelasting.
+- Bv (rechtspersoon): aandelen op naam, niet vrij verhandelbaar (blokkeringsregeling), minimumkapitaal € 0,01, beperkte aansprakelijkheid, vennootschapsbelasting.
+### UITLEG Vreemd vermogen en zekerheden
+Naast eigen vermogen gebruiken bedrijven vreemd vermogen. Geldgevers eisen vaak zekerheden: een onderhandse lening op maat, een hypothecaire lening met het pand als onderpand, een obligatielening, of leverancierskrediet (later betalen).
+Een lening zonder onderpand is riskanter voor de geldgever en heeft daarom een hogere rente.
+### BEGRIPPEN
+Rechtspersoon = Organisatie die zelfstandig drager is van rechten en plichten, los van de personen erachter.
+Eenmanszaak = Onderneming zonder rechtspersoonlijkheid met één eigenaar die ook privé volledig aansprakelijk is.
+Vennootschap onder firma = Onderneming zonder rechtspersoonlijkheid van twee of meer vennoten die hoofdelijk aansprakelijk zijn.
+Naamloze vennootschap = Rechtspersoon waarvan het eigen vermogen is verdeeld in vrij verhandelbare aandelen.
+Besloten vennootschap = Rechtspersoon waarvan de aandelen op naam staan en niet vrij verhandelbaar zijn.
+Eigen vermogen = Vermogen dat de eigenaren of aandeelhouders zelf inbrengen, plus ingehouden winsten.
+Vreemd vermogen = Geleend vermogen van derden waarover rente wordt betaald en dat moet worden terugbetaald.
+Leverancierskrediet = Kortlopend krediet doordat een leverancier levert en de afnemer later mag betalen.
+### MC
+Een vof gaat failliet. Een van de vennoten heeft een groot privévermogen. Wat geldt?
+* Hij is hoofdelijk aansprakelijk, ook met zijn privévermogen
+- Hij is alleen aansprakelijk voor zijn inbreng
+- Alleen de vof zelf is aansprakelijk
+- Alleen de vennoot die de schuld aanging is aansprakelijk
+> Bij een vof zijn alle vennoten hoofdelijk aansprakelijk met zakelijk en privévermogen.
+### MC
+Waarom kiezen ondernemers met een riskant bedrijf vaak voor een bv?
+* Omdat de aandeelhouders dan beperkt aansprakelijk zijn
+- Omdat een bv geen belasting betaalt
+- Omdat de aandelen dan vrij op de beurs verhandelbaar zijn
+- Omdat een bv minstens € 45.000 kapitaal nodig heeft
+> Bij een bv is je privévermogen beschermd: je verliest hooguit je inbreng.
+### MC
+Welke rechtsvorm heeft vrij verhandelbare aandelen die aan de beurs genoteerd kunnen zijn?
+* De nv
+- De bv
+- De vof
+- De eenmanszaak
+> Alleen aandelen van een (beursgenoteerde) nv zijn voor iedereen vrij te koop.
+### MC
+Waarom vraagt een bank een hogere rente voor een lening zonder onderpand?
+* Het risico dat de bank haar geld niet terugkrijgt is groter
+- Omdat de inflatie dan hoger is
+- Omdat de looptijd dan korter is
+- Omdat de AFM dat voorschrijft
+> Zonder onderpand kan de bank bij wanbetaling niets verkopen. Dat risico laat ze betalen via de rente.
+
+## § 12.4 | Principaal-agentrelatie
+onderwerp: F.pa
+deelvraag: Wat is een principaal-agentrelatie en hoe kan de informatieachterstand van de principaal worden verkleind?
+leerdoelen: ECO-INFOR-01, ECO-INFOR-02
+### UITLEG Principaal en agent
+Een principaal (opdrachtgever) laat een agent (opdrachtnemer) namens hem handelen. Voorbeelden: werkgever en werknemer, aandeelhouders en directie, verzekeraar en verzekerde, belegger en vermogensbeheerder.
+Het probleem: de belangen lopen uiteen en de agent weet meer over zijn eigen inzet dan de principaal (asymmetrische informatie). Zo ontstaat moral hazard, bijvoorbeeld lijntrekken of handelen in eigen belang.
+### UITLEG Oplossingen
+- Prestatieloon: beloning koppelen aan prestaties (stukloon, provisie, bonus, aandelenopties). Nadelen: prestaties zijn niet altijd meetbaar, bij groepsbeloning ontstaat meeliften en risicoaverse werknemers willen liever een vast loon.
+- Efficiëntieloon: een loon boven het marktloon. De baan wordt waardevol, dus de werknemer wil niet ontslagen worden en zet zich in.
+- Toezicht en controle: functioneringsgesprekken, controle, een raad van commissarissen.
+### BEGRIPPEN
+Principaal-agentrelatie = Een opdrachtgever (principaal) laat een opdrachtnemer (agent) namens hem handelen, terwijl de agent meer informatie heeft.
+Principaal = De opdrachtgever in een principaal-agentrelatie.
+Agent = De opdrachtnemer die namens de principaal handelt.
+Prestatieloon = Beloning die afhangt van meetbare prestaties.
+Efficiëntieloon = Loon boven het marktloon, zodat de werknemer zijn baan niet wil verliezen en zich extra inzet.
+Raad van commissarissen = Orgaan dat toezicht houdt op het bestuur van een nv of bv.
+### MC
+Wie is de principaal in de relatie tussen aandeelhouders en de directie van een nv?
+* De aandeelhouders
+- De directie
+- De raad van commissarissen
+- De werknemers
+> De aandeelhouders zijn eigenaar en laten de directie namens hen het bedrijf leiden.
+### MC
+Een bedrijf betaalt zijn werknemers 20% meer dan concurrenten om ze gemotiveerd te houden. Hoe heet dit?
+* Efficiëntieloon
+- Prestatieloon
+- Minimumloon
+- Stukloon
+> Het hoge loon maakt ontslag duur voor de werknemer, dus doet hij zijn best.
+### MC
+Wat is een nadeel van prestatieloon voor een team?
+* Teamleden kunnen meeliften op de inzet van anderen
+- Teamleden gaan minder verdienen
+- Er is dan geen asymmetrische informatie meer
+- Het werkt alleen bij overheidspersoneel
+> Als de beloning van het hele team afhangt, kan een individu minder doen en toch meeprofiteren.
+### MC
+Waardoor ontstaat het principaal-agentprobleem?
+* Door uiteenlopende belangen en asymmetrische informatie
+- Doordat de principaal te veel weet
+- Doordat de agent geen loon krijgt
+- Door een te hoge rente
+> Als de principaal de inzet van de agent kon zien en de belangen gelijk waren, was er geen probleem.

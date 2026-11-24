@@ -1,0 +1,158 @@
+# HOOFDSTUK v 14 | Verdelingsvraagstukken
+domein: H
+hoofdvraag: Hoe worden inkomens en vermogen verdeeld, en hoe probeert de overheid de inkomensverdeling te beïnvloeden?
+
+## § 14.1 | Het meten van inkomensverdeling
+onderwerp: H.verdeling
+deelvraag: Op welke manieren kan de inkomensverdeling worden gemeten?
+leerdoelen: ECO-ALGEM-08, ECO-ALGEM-09
+### UITLEG Drie inkomensbegrippen
+- Primair inkomen: wat je verdient met productiefactoren (loon, rente, pacht, dividend, huur, winst).
+- Secundair (besteedbaar) inkomen = primair inkomen − directe belastingen en premies + uitkeringen en toeslagen.
+- Tertiair inkomen = secundair inkomen − indirecte belastingen + profijt van gesubsidieerde voorzieningen (onderwijs, cultuur).
+### UITLEG Lorenzcurve en Gini
+De personele inkomensverdeling is de verdeling over personen of huishoudens. In de Lorenzcurve staat horizontaal het cumulatieve percentage huishoudens (van laag naar hoog inkomen) en verticaal het cumulatieve percentage van het inkomen.
+De diagonaal is volkomen gelijkheid. Hoe verder de curve doorbuigt, hoe ongelijker.
+Gini-coëfficiënt = A / (A + B), met A het oppervlak tussen diagonaal en curve en B het oppervlak onder de curve. 0 = volkomen gelijk, 1 = volkomen ongelijk. Vermogen is veel ongelijker verdeeld dan inkomen.
+Je kunt ook kwartielen (4 groepen), kwintielen (5) of decielen (10) vergelijken.
+### UITLEG Categorale verdeling en AIQ
+De categorale inkomensverdeling is de verdeling over arbeid en de andere productiefactoren.
+AIQ = (looninkomen + toegerekend loon zelfstandigen) / toegevoegde waarde × 100%. In Nederland daalde de AIQ van ongeveer 83% (1970) naar ongeveer 75%.
+Stijgt de AIQ sterk, dan dalen de winsten. Gevolgen: minder investeringen, faillissementen, minder krediet van banken en vooral arbeidsbesparende investeringen of verplaatsing naar lagelonenlanden. De werkgelegenheid komt onder druk.
+### BEGRIPPEN
+Primair inkomen = Het bruto inkomen uit productiefactoren, vóór ingrijpen van de overheid.
+Secundair inkomen = Primair inkomen min directe belastingen en premies, plus uitkeringen en toeslagen.
+Tertiair inkomen = Secundair inkomen min indirecte belastingen, plus het profijt van gesubsidieerde overheidsvoorzieningen.
+Lorenzcurve = Grafiek met cumulatieve percentages huishoudens tegen cumulatieve percentages van het inkomen.
+Gini-coëfficiënt = Getal tussen 0 en 1 dat de ongelijkheid van een verdeling aangeeft, berekend uit de Lorenzcurve.
+Personele inkomensverdeling = De verdeling van het inkomen over personen of huishoudens.
+Categorale inkomensverdeling = De verdeling van het inkomen over arbeid en de andere productiefactoren.
+Arbeidsinkomensquote = Het arbeidsinkomen als percentage van de toegevoegde waarde.
+Deciel = Een tiende deel van een groep, gerangschikt van laag naar hoog inkomen.
+Kwintiel = Een vijfde deel van een groep, gerangschikt van laag naar hoog inkomen.
+### MC
+De laagste 40% van de huishoudens ontvangt 20% van het inkomen. Hoe lees je dat af?
+* Bij 40% op de horizontale as ligt de Lorenzcurve op 20%
+- Bij 20% op de horizontale as ligt de Lorenzcurve op 40%
+- De Gini-coëfficiënt is 0,2
+- De Gini-coëfficiënt is 0,4
+> Horizontaal: cumulatief deel van de huishoudens. Verticaal: cumulatief deel van het inkomen.
+### MC
+Bij een Lorenzcurve is oppervlak A 0,15 en oppervlak B 0,35. Wat is de Gini-coëfficiënt?
+* 0,30
+- 0,43
+- 0,15
+- 0,50
+> Gini = A / (A + B) = 0,15 / 0,50 = 0,30.
+### MC
+Een student ontvangt studiefinanciering en betaalt minder collegegeld door overheidssubsidie. In welk inkomensbegrip zit het voordeel van die subsidie?
+* In het tertiair inkomen
+- In het primair inkomen
+- Alleen in het secundair inkomen
+- In geen enkel inkomensbegrip
+> Profijt van gesubsidieerde voorzieningen telt pas mee in het tertiair inkomen.
+### MC
+De AIQ in een bedrijfstak stijgt van 80% naar 95%. Wat is een waarschijnlijk gevolg?
+* Bedrijven investeren minder of vooral in arbeidsbesparende machines
+- De winsten stijgen sterk
+- Banken lenen meer uit aan deze bedrijven
+- De werkgelegenheid groeit snel
+> Bij een hoge AIQ blijft er weinig winst over voor investeringen en wordt arbeid relatief duur.
+
+## § 14.2 | Nivellering en denivellering
+onderwerp: H.verdeling
+deelvraag: Door welke oorzaken kan de inkomensverdeling veranderen?
+leerdoelen: ECO-ALGEM-09
+### UITLEG Begrippen
+Nivellering: de relatieve inkomensverschillen worden kleiner. De Lorenzcurve schuift naar de diagonaal en de Gini daalt.
+Denivellering: de verschillen worden groter. De Gini stijgt.
+### UITLEG Oorzaken in Nederland
+Wet van Tinbergen: de verdeling is een wedloop tussen technologie (meer vraag naar hoogopgeleiden: denivellering) en onderwijs (meer aanbod van hoogopgeleiden: nivellering). Na de Tweede Wereldoorlog steeg het opleidingsniveau sterk: nivellering.
+De uitbouw van de sociale zekerheid (AOW, WW, bijstand) en progressieve belastingen verkleinden de verschillen in secundair inkomen.
+Vermogen is veel ongelijker verdeeld dan inkomen. Een deel van de huishoudens heeft zelfs een negatief vermogen, bijvoorbeeld door een studieschuld of restschuld.
+### UITLEG Internationaal
+De wereld-Gini bestaat uit ongelijkheid binnen landen en tussen landen. Door de snelle groei van China en India is de ongelijkheid tussen landen afgenomen, terwijl die binnen veel westerse landen licht is toegenomen.
+### BEGRIPPEN
+Nivellering = Het kleiner worden van de relatieve inkomensverschillen.
+Denivellering = Het groter worden van de relatieve inkomensverschillen.
+Wet van Tinbergen = De inkomensverdeling is een wedloop tussen technologische ontwikkeling en onderwijs.
+Negatief vermogen = Een huishouden heeft meer schulden dan bezittingen.
+### MC
+De vraag naar ict-specialisten stijgt sterk door technologische ontwikkeling, terwijl het aantal afgestudeerden gelijk blijft. Wat verwacht je volgens Tinbergen?
+* Denivellering
+- Nivellering
+- Geen verandering in de verdeling
+- Een lagere Gini-coëfficiënt
+> De lonen van hoogopgeleiden stijgen harder, dus worden de verschillen groter.
+### MC
+De Gini-coëfficiënt van een land daalt van 0,32 naar 0,28. Wat is er gebeurd?
+* Nivellering: de inkomensverschillen zijn kleiner geworden
+- Denivellering
+- Het gemiddelde inkomen is gedaald
+- Het bbp is gestegen
+> Een lagere Gini betekent dat de Lorenzcurve dichter bij de diagonaal ligt.
+### MC
+Waarom is de ongelijkheid tussen landen in de wereld de laatste decennia afgenomen?
+* Door de snelle economische groei in opkomende landen zoals China en India
+- Doordat alle westerse landen armer zijn geworden
+- Doordat de ongelijkheid binnen landen overal is gedaald
+- Door de invoering van een wereldwijde vlaktaks
+> Grote, arme landen groeiden veel sneller dan rijke landen.
+### MC
+Welke verdeling is in Nederland het meest ongelijk?
+* De vermogensverdeling
+- De verdeling van het secundair inkomen
+- De verdeling van het tertiair inkomen
+- De verdeling van de AOW-uitkeringen
+> Vermogen stapelt zich op over generaties en sommige huishoudens hebben negatief vermogen.
+
+## § 14.3 | Overheidsingrepen en de inkomensverdeling
+onderwerp: H.belasting
+deelvraag: Op welke manier kan de overheid de inkomensverdeling beïnvloeden?
+leerdoelen: ECO-ALGEM-11, ECO-ALGEM-12, ECO-BELAS-01
+### UITLEG Ingrijpen op drie niveaus
+- Primair: wettelijk minimumloon en maximuminkomens (Wet normering topinkomens).
+- Secundair: progressieve inkomstenbelasting, uitkeringen en toeslagen, heffingskortingen (nivellerend) en aftrekposten zoals hypotheekrenteaftrek (vaak denivellerend).
+- Tertiair: indirecte belastingen (vaak licht denivellerend, want lage inkomens consumeren een groter deel van hun inkomen) en gesubsidieerde voorzieningen.
+### UITLEG Belastingstelsels
+- Progressief: het gemiddelde tarief stijgt met het inkomen. Het marginale tarief ligt boven het gemiddelde. Nivellerend.
+- Proportioneel (vlaktaks): iedereen betaalt hetzelfde percentage. Met een heffingskorting of belastingvrije voet werkt een vlaktaks toch licht nivellerend.
+- Degressief: het gemiddelde tarief daalt met het inkomen. Denivellerend.
+- Negatieve inkomstenbelasting: onder een grens krijg je geld van de overheid, dat geleidelijk wordt afgebouwd als je meer verdient.
+### UITLEG Rechtvaardigheid tegenover doelmatigheid
+Sterk nivelleren (hoge marginale tarieven en hoge uitkeringen) maakt de verdeling rechtvaardiger, maar kan de prikkel om te werken, te leren en te ondernemen verkleinen (armoedeval). Dan groeit de economische taart minder hard.
+### BEGRIPPEN
+Vlaktaks = Proportionele belasting waarbij voor elk inkomen hetzelfde tarief geldt.
+Progressieve belasting = Belasting waarbij het gemiddelde tarief stijgt als het inkomen stijgt.
+Degressieve belasting = Belasting waarbij het gemiddelde tarief daalt als het inkomen stijgt.
+Negatieve inkomstenbelasting = Stelsel waarbij huishoudens onder een inkomensgrens geld van de overheid ontvangen.
+Heffingskorting = Bedrag dat van de te betalen belasting wordt afgetrokken.
+Minimumloon = Het wettelijk laagste loon dat een werkgever mag betalen.
+### MC
+Een vlaktaks van 37% gaat samen met een vaste heffingskorting van € 3.000 voor iedereen. Hoe werkt dit stelsel?
+* Licht progressief: het gemiddelde tarief stijgt met het inkomen
+- Precies proportioneel
+- Degressief
+- Het heeft geen effect op de verdeling
+> Bij een laag inkomen is € 3.000 korting relatief veel, dus het gemiddelde tarief ligt dan lager.
+### MC
+Waarom werkt de hypotheekrenteaftrek vaak denivellerend?
+* Hogere inkomens hebben vaak duurdere huizen en een hoger tarief, dus meer voordeel
+- Omdat alleen lage inkomens een hypotheek hebben
+- Omdat de aftrek een indirecte belasting is
+- Omdat huurders ook aftrek krijgen
+> Een aftrekpost levert meer op naarmate de aftrek groter is en het tarief waartegen je aftrekt hoger.
+### MC
+Welke maatregel beïnvloedt de primaire inkomensverdeling?
+* Een verhoging van het wettelijk minimumloon
+- Een hogere huurtoeslag
+- Een hogere btw
+- Een hoger tarief in de inkomstenbelasting
+> Het minimumloon verandert het bruto inkomen uit arbeid, nog vóór belastingen en toeslagen.
+### MC
+Wat is het belangrijkste nadeel van sterk nivelleren met hoge marginale tarieven?
+* Het verkleint de prikkel om te werken, te leren en te ondernemen
+- De inkomensverschillen worden groter
+- De Gini-coëfficiënt stijgt
+- De overheid ontvangt minder belasting van hoge inkomens
+> Rechtvaardigheid en doelmatigheid kunnen botsen: als extra werk weinig oplevert, werken mensen minder.
