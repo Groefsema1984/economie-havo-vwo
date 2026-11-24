@@ -1,0 +1,170 @@
+# HOOFDSTUK h 14 | Structuur en conjunctuur
+domein: I
+hoofdvraag: Hoe kun je de conjuncturele en structurele economische ontwikkelingen verklaren?
+
+## § 14.1 | Productiecapaciteit en productiestructuur
+onderwerp: H.groei
+deelvraag: Waardoor wordt de productiecapaciteit bepaald?
+leerdoelen: ECO-GROEI-01
+gens: productiviteit
+### UITLEG Productiecapaciteit
+De productiecapaciteit (bbp-max) is de maximale productie van een land als alle productiefactoren volledig en efficiënt worden ingezet. Dit is de aanbodkant van de economie. De ontwikkeling ervan op lange termijn heet de structurele ontwikkeling.
+De productiecapaciteit hangt af van de omvang en kwaliteit van arbeid, kapitaal, natuur en ondernemerschap.
+### UITLEG Arbeid
+- De beroepsbevolking is in Nederland gegroeid tot ruim 10 miljoen mensen.
+- Het arbeidsvolume is de hoeveelheid gewerkte arbeid in arbeidsjaren (fte) of uren. Twee halve banen zijn samen 1 arbeidsjaar.
+- De kwaliteit van arbeid is het human capital: kennis, vaardigheden en gezondheid.
+Arbeidsproductiviteit = productie / arbeidsvolume.
+### UITLEG Kapitaal
+Bedrijven investeren meer bij goede winstverwachtingen, een te kleine capaciteit, een lage rente, stijgende loonkosten ten opzichte van kapitaalkosten, nieuwe technologie (procesinnovatie), investeringssubsidies of een gunstig belastingklimaat.
+- Breedte-investeringen: machines en werknemers groeien in dezelfde verhouding. De mechanisatiegraad blijft gelijk.
+- Diepte-investeringen: meer kapitaal per werknemer. De productie wordt kapitaalintensiever en arbeidsextensiever, de mechanisatiegraad stijgt.
+Kapitaalproductiviteit is de productie per eenheid kapitaal. Nieuwe productiemethoden worden vaak beschermd met octrooien.
+### UITLEG AIQ en buitenland
+Stijgt de arbeidsinkomensquote in een bedrijfstak, dan dalen de winsten. Gevolgen: minder investeringen, faillissementen, minder krediet van banken en vooral arbeidsbesparende diepte-investeringen of verplaatsing naar lagelonenlanden.
+Een betere concurrentiepositie vergroot de buitenlandse vraag. Goede winstverwachtingen trekken multinationals aan. Open grenzen zorgen voor arbeidsmigratie.
+### BEGRIPPEN
+Productiecapaciteit = De maximale productie van een land bij volledige en efficiënte inzet van alle productiefactoren.
+Structurele ontwikkeling = De ontwikkeling van de productiecapaciteit op lange termijn.
+Arbeidsvolume = De totale hoeveelheid verrichte arbeid in arbeidsjaren of uren.
+Arbeidsproductiviteit = De productie per werkende of per gewerkt uur.
+Breedte-investering = Uitbreidingsinvestering waarbij kapitaal en arbeid in dezelfde verhouding toenemen.
+Diepte-investering = Investering waarbij de hoeveelheid kapitaal per werknemer toeneemt.
+Mechanisatiegraad = De hoeveelheid kapitaalgoederen per werknemer.
+Kapitaalintensief = Productie waarbij naar verhouding veel kapitaal en weinig arbeid wordt gebruikt.
+Procesinnovatie = Het toepassen van nieuwe, efficiëntere productiemethoden.
+Multinational = Onderneming met vestigingen in meerdere landen.
+### MC
+In een bedrijf werken twee mensen voltijds en vier mensen in een halve baan. Hoe groot is het arbeidsvolume?
+* 4 arbeidsjaren
+- 6 arbeidsjaren
+- 3 arbeidsjaren
+- 2 arbeidsjaren
+> 2 × 1 + 4 × 0,5 = 4 arbeidsjaren.
+### MC
+Een fabriek vervangt tien inpakkers door één inpakrobot. Wat voor investering is dit?
+* Een diepte-investering
+- Een breedte-investering
+- Een vervangingsinvestering
+- Een overheidsinvestering
+> Er komt meer kapitaal per werknemer, dus de mechanisatiegraad stijgt.
+### MC
+Waardoor gaan bedrijven meer investeren?
+* Door een daling van de rente
+- Door een daling van de winstverwachtingen
+- Door een stijging van de rente
+- Door overcapaciteit
+> Investeringen worden vaak met geleend geld betaald, dus een lagere rente maakt ze goedkoper.
+### MC
+In een bedrijfstak stijgen de lonen veel sneller dan de productiviteit. Wat is een waarschijnlijk gevolg?
+* Bedrijven doen vooral arbeidsbesparende investeringen of verhuizen naar lagelonenlanden
+- De winsten stijgen sterk
+- Er komen veel nieuwe banen bij
+- Banken lenen meer uit aan deze bedrijven
+> De AIQ stijgt en de winst daalt, dus arbeid wordt relatief duur.
+
+## § 14.2 | Conjunctuur en bestedingen
+onderwerp: I.conj
+deelvraag: Hoe hebben de bestedingen invloed op het binnenlands product en inkomen?
+leerdoelen: ECO-ALGEM-04
+### UITLEG Effectieve vraag en multiplier
+Op korte termijn bepaalt de totale vraag hoeveel er wordt geproduceerd. Dat is de effectieve vraag: EV = C + I + O + (E − M).
+Multipliereffect: een eerste extra besteding, bijvoorbeeld extra export, levert inkomen op dat weer deels wordt uitgegeven. Zo stijgt het nationaal inkomen uiteindelijk meer dan de eerste extra besteding.
+### UITLEG Conjunctuur en bezettingsgraad
+Conjunctuur is de schommeling op korte termijn van de feitelijke productie rond de trend van de productiecapaciteit.
+Bezettingsgraad = feitelijke productie / productiecapaciteit × 100%.
+- Onderbesteding (laagconjunctuur): EV is kleiner dan de productiecapaciteit. Er is overcapaciteit, conjuncturele werkloosheid en lage inflatie.
+- Bestedingsevenwicht: EV past bij de productiecapaciteit.
+- Overbesteding (hoogconjunctuur): EV is groter dan de productiecapaciteit. Er is krapte op de arbeidsmarkt en bestedingsinflatie.
+Een recessie is in de praktijk minstens twee kwartalen achter elkaar krimp.
+De conjunctuurklok van het CBS laat met ongeveer vijftien indicatoren zien hoe de economie ervoor staat, zoals consumentenvertrouwen, investeringen, vacatures, faillissementen en werkloosheid.
+### BEGRIPPEN
+Effectieve vraag = De totale vraag naar goederen en diensten: C + I + O + E − M.
+Multipliereffect = Een eerste extra besteding leidt tot een grotere stijging van het nationaal inkomen.
+Conjunctuur = Schommelingen op korte termijn van de productie rond de trend.
+Bezettingsgraad = De feitelijke productie als percentage van de productiecapaciteit.
+Onderbesteding = De effectieve vraag is kleiner dan de productiecapaciteit.
+Overbesteding = De effectieve vraag is groter dan de productiecapaciteit.
+Bestedingsinflatie = Prijsstijging doordat de effectieve vraag groter is dan de productiecapaciteit.
+Conjuncturele werkloosheid = Werkloosheid door een tekort aan effectieve vraag.
+Recessie = Een periode van krimp, in de praktijk minstens twee kwartalen achter elkaar.
+Conjunctuurklok = Overzicht van het CBS met indicatoren die laten zien in welke fase de economie zit.
+### MC
+De productiecapaciteit is € 800 miljard en de feitelijke productie € 760 miljard. Hoe groot is de bezettingsgraad?
+* 95%
+- 105%
+- 5%
+- 76%
+> 760 / 800 × 100% = 95%.
+### MC
+De effectieve vraag is groter dan de productiecapaciteit. Wat verwacht je?
+* Bestedingsinflatie en krapte op de arbeidsmarkt
+- Conjuncturele werkloosheid
+- Overcapaciteit bij bedrijven
+- Dalende prijzen
+> Bij overbesteding kunnen bedrijven niet aan de vraag voldoen en stijgen de prijzen.
+### MC
+De export stijgt met € 2 miljard. Uiteindelijk stijgt het nationaal inkomen met € 3 miljard. Hoe heet dit?
+* Het multipliereffect
+- Bestedingsinflatie
+- Een diepte-investering
+- Een automatische stabilisator
+> Het extra inkomen wordt deels opnieuw besteed, waardoor het inkomen meer stijgt dan de eerste impuls.
+### MC
+Welke indicator wijst op een laagconjunctuur?
+* Een stijgend aantal faillissementen
+- Een stijgend aantal vacatures
+- Een stijgend consumentenvertrouwen
+- Meer gewerkte uren in de uitzendbranche
+> Bij laagconjunctuur dalen de winsten en gaan meer bedrijven failliet.
+
+## § 14.3 | Conjunctuur- en structuurbeleid
+onderwerp: I.beleid
+deelvraag: Wat is de invloed van het overheidsbeleid op de groei van de economie?
+gens: begrotingssaldo
+### UITLEG Conjunctuurbeleid
+Conjunctuurbeleid is gericht op de vraagkant en de korte termijn. Het doel is de schommelingen dempen.
+Anticyclisch beleid gaat tegen de conjunctuur in:
+- Bij laagconjunctuur verhoogt de overheid de bestedingen of verlaagt de belastingen. Het begrotingstekort loopt op.
+- Bij hoogconjunctuur verlaagt de overheid de bestedingen of verhoogt de belastingen. Er ontstaat een overschot.
+Automatische stabilisatoren werken zonder nieuw besluit: bij groei stijgen de belastingontvangsten door het progressieve tarief sneller dan het inkomen, en bij een recessie vangen WW-uitkeringen een deel van de koopkrachtdaling op.
+Procyclisch beleid versterkt de schommelingen, bijvoorbeeld bezuinigen in een recessie om aan de EMU-norm van 3% te voldoen.
+### UITLEG Structuurbeleid
+Structuurbeleid is gericht op de aanbodkant en de lange termijn: de productiecapaciteit vergroten en verbeteren.
+- Arbeid: goed onderwijs, betaalbare kinderopvang en belastingmaatregelen die werken lonender maken.
+- Kapitaal en innovatie: infrastructuur, subsidie voor onderzoek en ontwikkeling en een goed vestigingsklimaat.
+- Natuur en duurzaamheid: subsidie voor windturbines, zonnepanelen en groene technologie.
+### BEGRIPPEN
+Conjunctuurbeleid = Beleid dat de effectieve vraag op korte termijn beïnvloedt om schommelingen te dempen.
+Anticyclisch beleid = Beleid dat tegen de conjunctuur ingaat: stimuleren bij laagconjunctuur, afremmen bij hoogconjunctuur.
+Procyclisch beleid = Beleid dat de conjunctuurschommelingen versterkt.
+Automatische stabilisator = Onderdeel van de begroting dat zonder nieuw besluit de conjunctuur dempt, zoals de WW.
+Structuurbeleid = Beleid dat de productiecapaciteit op lange termijn vergroot en verbetert.
+### MC
+Er is een diepe recessie. Welke maatregel past bij anticyclisch beleid?
+* De overheid verhoogt de overheidsinvesteringen
+- De overheid verhoogt de btw
+- De overheid bezuinigt op uitkeringen
+- De overheid lost extra staatsschuld af
+> Bij onderbesteding stimuleert de overheid de effectieve vraag.
+### MC
+Waarom is de WW een automatische stabilisator?
+* Bij een recessie stijgen de uitkeringen vanzelf, waardoor de bestedingen minder dalen
+- De WW wordt elk jaar door het parlement verhoogd
+- De WW verlaagt de inflatie bij hoogconjunctuur
+- Werklozen betalen meer belasting
+> Er is geen nieuw besluit nodig: meer werklozen betekent automatisch meer uitkeringen.
+### MC
+De overheid investeert in beter beroepsonderwijs. Wat voor beleid is dit?
+* Structuurbeleid
+- Conjunctuurbeleid
+- Procyclisch beleid
+- Monetair beleid
+> Het vergroot op lange termijn het human capital en daarmee de productiecapaciteit.
+### MC
+Een land bezuinigt tijdens een recessie om onder de EMU-tekortnorm te blijven. Hoe heet dit beleid?
+* Procyclisch beleid
+- Anticyclisch beleid
+- Structuurbeleid
+- Een automatische stabilisator
+> Bezuinigen in een recessie versterkt de daling van de bestedingen.
