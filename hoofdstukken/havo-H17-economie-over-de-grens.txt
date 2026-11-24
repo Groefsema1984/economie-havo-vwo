@@ -1,0 +1,174 @@
+# HOOFDSTUK h 17 | Economie over de grens
+domein: I
+hoofdvraag: Hoe dragen internationale handel en samenwerking bij aan de welvaart?
+
+## § 17.1 | Nederland in de wereld
+onderwerp: I.saldi
+deelvraag: Hoe groot is de betekenis van internationale handel voor Nederland?
+leerdoelen: ECO-ALGEM-02
+### UITLEG Open economie
+Nederland heeft een zeer open economie: het handelt veel met het buitenland, dankzij de ligging aan zee, de haven van Rotterdam, Schiphol en een kleine thuismarkt. Een gesloten economie handelt nauwelijks met het buitenland. Volledige zelfvoorziening heet autarkie.
+- Exportquote = export / bbp × 100%.
+- Importquote = import / bbp × 100%.
+De belangrijkste handelspartners zijn EU-landen zoals Duitsland en België, daarna de VS en Azië.
+Nederland exporteert vooral voedingsmiddelen, machines, chemie en veel wederuitvoer, en diensten zoals vervoer, zakelijke diensten, baggerwerk en toerisme. Het importeert grondstoffen, olie en gas, halffabricaten, transportmiddelen en kleding.
+### UITLEG De lopende rekening
+De betalingsbalans geeft alle geldstromen tussen een land en het buitenland weer. De lopende rekening bestaat uit:
+- de goederenrekening: export min import van goederen;
+- de dienstenrekening: export min import van diensten;
+- de inkomensrekening: lonen van grensarbeiders, rente en dividend, en overdrachten zoals ontwikkelingshulp, EU-afdrachten en geld dat migranten naar huis sturen.
+Nederland heeft al jaren een groot overschot. Oorzaken: een hoog kennisniveau, lage loonkosten per product door hoge productiviteit en loonmatiging, en soms een lage eurokoers.
+Een exportoverschot verhoogt de effectieve vraag en dus productie en werkgelegenheid. Bij overbesteding kan het ook bijdragen aan krapte en inflatie.
+### BEGRIPPEN
+Open economie = Een economie die veel handel drijft met het buitenland.
+Autarkie = Volledige zelfvoorziening van een land, zonder internationale handel.
+Exportquote = De export als percentage van het bbp.
+Importquote = De import als percentage van het bbp.
+Wederuitvoer = Ingevoerde goederen die zonder of met weinig bewerking weer worden uitgevoerd.
+Betalingsbalans = Overzicht van alle geldtransacties tussen een land en het buitenland in een periode.
+Lopende rekening = Deel van de betalingsbalans met goederen, diensten en inkomensoverdrachten.
+### MC
+Een land heeft een bbp van € 900 miljard en een export van € 720 miljard. Hoe groot is de exportquote?
+* 80%
+- 125%
+- 20%
+- 72%
+> 720 / 900 × 100% = 80%.
+### MC
+Een Duitse toerist overnacht in een hotel in Zeeland. Hoe staat dit op de Nederlandse betalingsbalans?
+* Als export van diensten
+- Als import van diensten
+- Als export van goederen
+- Als inkomensoverdracht
+> Er komt geld uit het buitenland binnen voor een dienst die in Nederland is geleverd.
+### MC
+Nederland betaalt ontwikkelingshulp aan een Afrikaans land. Op welke deelrekening staat dit?
+* De inkomensrekening (overdrachten)
+- De goederenrekening
+- De dienstenrekening
+- Die staat niet op de betalingsbalans
+> Ontwikkelingshulp is een inkomensoverdracht zonder tegenprestatie.
+### MC
+Wat is een oorzaak van het grote Nederlandse exportoverschot?
+* Lage loonkosten per product door een hoge arbeidsproductiviteit
+- Een hoge inflatie in Nederland
+- Een sterke stijging van de eurokoers
+- Hoge invoerrechten in Nederland
+> Een goede prijs-kwaliteitverhouding maakt Nederlandse producten aantrekkelijk.
+
+## § 17.2 | Protectie, vrijhandel en globalisering
+onderwerp: C.intl
+deelvraag: Wat zijn de voor- en nadelen van vrije internationale handel?
+leerdoelen: ECO-PROTE-01, ECO-PROTE-02
+gens: comparatief
+### UITLEG Protectie
+Protectie beschermt de eigen productie en werkgelegenheid tegen buitenlandse concurrentie.
+- Import beperken: invoerrechten, importquota (contingenten), een importverbod of strenge regels voor veiligheid, gezondheid en milieu.
+- Export stimuleren: exportsubsidies, belastingvoordelen, handelsmissies en exportkredietverzekeringen.
+Nadelen: het buitenland wordt benadeeld, import wordt duurder, andere landen nemen tegenmaatregelen (handelsoorlog), productie vindt niet meer plaats waar het het goedkoopst kan en de wereldwelvaart daalt.
+### UITLEG Vrijhandel
+Bij vrijhandel specialiseren landen zich in wat zij relatief het goedkoopst maken: comparatieve kostenvoordelen. Oorzaken van kostenverschillen: loonkosten per product, kennis en technologie, klimaat, grondstoffen en ligging.
+Voordelen: efficiëntere productie en lagere prijzen, meer productie en werkgelegenheid door grotere markten en schaalvoordelen, meer koopkracht, meer keuze, meer samenwerking en meer wereldwelvaart.
+De WTO houdt toezicht op handelsafspraken, probeert handelsbelemmeringen af te bouwen en beslecht conflicten.
+### UITLEG Globalisering
+Globalisering is de toenemende wereldwijde verwevenheid van economieën. Oorzaken: vrijere handel, goedkope ICT, goedkoper transport, outsourcing (uitbesteden) en offshoring (verplaatsen naar het buitenland).
+Knelpunten: verlies van laaggeschoolde banen in het westen, een ongelijke verdeling van de winst, milieubelasting en slechte arbeidsomstandigheden in lagelonenlanden.
+Deglobalisering: door geopolitieke spanningen en handelsoorlogen neemt de verwevenheid weer af. Bedrijven halen productie terug (reshoring) om minder kwetsbaar te zijn.
+### BEGRIPPEN
+Protectie = Het beschermen van de eigen economie tegen buitenlandse concurrentie met handelsbelemmeringen.
+Invoerrecht = Belasting op ingevoerde goederen.
+Importcontingent = Een maximale hoeveelheid of waarde van een product die mag worden ingevoerd.
+Vrijhandel = Internationale handel zonder handelsbelemmeringen.
+Comparatief kostenvoordeel = Een land kan een product relatief goedkoper maken dan een ander land.
+WTO = De Wereldhandelsorganisatie, die streeft naar vrijhandel en handelsconflicten beslecht.
+Globalisering = De toenemende wereldwijde verwevenheid van economieën en samenlevingen.
+Outsourcing = Het uitbesteden van bedrijfsactiviteiten aan een ander bedrijf.
+Offshoring = Het verplaatsen van bedrijfsactiviteiten naar het buitenland vanwege lagere kosten.
+Reshoring = Het terughalen van productie naar het eigen land of de eigen regio.
+### MC
+De VS heffen 25% invoerrecht op Europees staal. Wat is een waarschijnlijk gevolg?
+* Europese landen nemen tegenmaatregelen tegen Amerikaanse producten
+- Amerikaanse consumenten betalen minder voor staal
+- De wereldwelvaart stijgt
+- Europese staalbedrijven exporteren meer naar de VS
+> Protectie roept vaak vergelding op, wat kan uitlopen op een handelsoorlog.
+### MC
+Welke maatregel is een vorm van exportbevordering?
+* Een exportkredietverzekering van de overheid
+- Een importquotum
+- Een invoerrecht
+- Een importverbod
+> De overheid dekt het risico af dat een buitenlandse klant niet betaalt.
+### MC
+Een Nederlands bedrijf verplaatst zijn klantenservice naar India omdat de lonen daar lager zijn. Hoe heet dit?
+* Offshoring
+- Reshoring
+- Protectie
+- Autarkie
+> Bij offshoring gaat een bedrijfsactiviteit naar het buitenland vanwege lagere kosten.
+### MC
+Waarom leidt vrijhandel tot lagere prijzen voor consumenten?
+* Producten worden gemaakt waar dat relatief het goedkoopst kan
+- De overheid geeft meer subsidie
+- Er worden minder producten gemaakt
+- Invoerrechten worden hoger
+> Specialisatie op basis van comparatieve voordelen maakt de productie efficiënter.
+
+## § 17.3 | Europese integratie en de euro
+onderwerp: C.intl
+deelvraag: Wat zijn de voor- en nadelen van Europese samenwerking en de euro?
+### UITLEG Stadia van integratie
+Handelsverdragen zijn bilateraal (twee landen) of multilateraal (meer landen). Integratie gaat in stappen:
+1. Vrijhandelsgebied: geen onderlinge invoerrechten, wel een eigen buitentarief per land.
+2. Douane-unie: plus een gemeenschappelijk buitentarief.
+3. Gemeenschappelijke markt: plus vrij verkeer van goederen, diensten, personen en kapitaal.
+4. Economische unie: plus afstemming van economisch beleid.
+5. Monetaire unie: plus één munt en één monetair beleid, zoals de eurozone.
+6. Politieke unie: ook buitenlands beleid, defensie en rechtspraak samen.
+### UITLEG Voor- en nadelen van de EU en de euro
+Voordelen: geen wisselkoersrisico en omwisselkosten, vergelijkbare prijzen en dus meer concurrentie, één grote thuismarkt met schaalvoordelen, een sterke onderhandelingspositie, en lage inflatie en rente door de ECB.
+Nadelen: een euroland kan zijn munt niet meer laten dalen om de concurrentiepositie te herstellen, één rente past niet bij alle landen, belastingen en sociale zekerheid verschillen nog, er is discussie tussen netto-betalers zoals Nederland en netto-ontvangers, en landen verliezen beleidsruimte (wat meespeelde bij de Brexit).
+### UITLEG Toetredingseisen
+Voor de EU gelden de Kopenhagen-criteria: Europese wetgeving overnemen en uitvoeren, een stabiele democratie en rechtsstaat, en een markteconomie die de concurrentie aankan.
+Voor de euro gelden de convergentiecriteria:
+- inflatie maximaal 1,5 procentpunt boven het gemiddelde van de drie EU-landen met de laagste inflatie;
+- lange rente maximaal 2 procentpunt boven het gemiddelde van die landen;
+- begrotingstekort maximaal 3% van het bbp;
+- overheidsschuld maximaal 60% van het bbp;
+- twee jaar een stabiele wisselkoers ten opzichte van de euro.
+### BEGRIPPEN
+Vrijhandelsgebied = Landen zonder onderlinge invoerrechten, maar met elk een eigen buitentarief.
+Douane-unie = Vrijhandelsgebied met een gemeenschappelijk buitentarief.
+Gemeenschappelijke markt = Douane-unie met vrij verkeer van goederen, diensten, personen en kapitaal.
+Economische unie = Gemeenschappelijke markt waarin ook het economisch beleid wordt afgestemd.
+Monetaire unie = Economische unie met één munt en één monetair beleid.
+Convergentiecriteria = De vijf eisen waaraan een EU-land moet voldoen om de euro in te voeren.
+Netto-betaler = Een EU-land dat meer aan de EU afdraagt dan het terugkrijgt.
+### MC
+Een groep landen heft onderling geen invoerrechten en heeft een gemeenschappelijk buitentarief, maar mensen mogen niet vrij in elkaars land werken. Welk stadium is dit?
+* Douane-unie
+- Vrijhandelsgebied
+- Gemeenschappelijke markt
+- Monetaire unie
+> Er is een gemeenschappelijk buitentarief, maar nog geen vrij verkeer van personen.
+### MC
+Een land heeft een bbp van € 400 miljard en een overheidsschuld van € 280 miljard. Voldoet het aan het schuldcriterium voor de euro?
+* Nee, de schuld is 70% van het bbp en de norm is maximaal 60%
+- Ja, de schuld is minder dan het bbp
+- Ja, de schuld is 60% van het bbp
+- Nee, de schuld mag maximaal 3% van het bbp zijn
+> 280 / 400 × 100% = 70%.
+### MC
+Wat is een nadeel van de euro voor een land met hoge loonkosten?
+* Het kan zijn munt niet meer laten dalen om goedkoper te exporteren
+- Het krijgt meer wisselkoersrisico
+- De prijzen worden minder vergelijkbaar
+- Het moet omwisselkosten betalen
+> Zonder eigen munt moet het land de concurrentiepositie herstellen via lagere loonkosten.
+### MC
+Waarom past één ECB-rente niet altijd bij alle eurolanden?
+* De landen kunnen in verschillende fasen van de conjunctuur zitten
+- Elk land heeft een eigen munt
+- De ECB mag de rente niet veranderen
+- De rente wordt per land door de regering vastgesteld
+> Het ene land kan een lagere rente nodig hebben terwijl het andere land oververhit is.
