@@ -267,3 +267,41 @@ th{font:800 12px var(--kop);text-transform:uppercase;letter-spacing:.05em;color:
 .deel input{width:20px;height:20px;margin-top:2px;flex:none}
 .deel .auto{color:var(--goed);font-weight:600}
 .vtekst p.vnoot{font-size:14px;color:var(--zacht,#666);margin-top:10px}
+
+/* ===== Extra: flitskaarten, formulekaart, grafieken, proeftoets, examen op tijd ===== */
+.flitskaart{display:flex;flex-direction:column;align-items:center;justify-content:center;gap:14px;width:100%;min-height:300px;padding:28px 24px;border:1px solid var(--lijn);border-top:6px solid var(--k);border-radius:var(--r);background:var(--kaart);box-shadow:var(--schaduw);text-align:center;cursor:pointer;color:inherit;font:inherit}
+.flitskaart small{color:var(--zacht);font-size:13px}
+.flitskaart .voor{font:800 26px/1.25 var(--kop)}
+.flitskaart.om .voor{font-size:18px;color:var(--zacht)}
+.flitskaart .achter{font-size:19px;line-height:1.45;border-top:1px dashed var(--lijn);padding-top:14px}
+.fkknoppen{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:14px}
+.knop.klein{min-height:40px;padding:6px 14px;font-size:15px}
+.formules{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.formule .fbox{font:700 17px/1.4 var(--kop);background:var(--bg);border-radius:12px;padding:10px 12px}
+.formule details{margin:6px 0;border-top:1px solid var(--lijn);padding-top:6px}
+.formule summary{cursor:pointer;font-weight:700;color:var(--acc)}
+.formule .vb{white-space:pre-line;font-size:15px;margin:6px 0;background:var(--bg);border-radius:10px;padding:8px 10px}
+.formule .rh{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-top:8px}
+.formule .rh label{font-size:13px;color:var(--zacht);display:flex;flex-direction:column;gap:3px}
+.formule .rh input{padding:8px;border-radius:10px;border:1px solid var(--lijn);font:inherit;background:var(--kaart);color:inherit}
+.rhUit{font-size:15px;margin:8px 0 0}
+.graf{max-width:560px;margin:10px auto 0}
+.graf svg{width:100%;height:auto;display:block;cursor:crosshair;background:var(--kaart);border:1px solid var(--lijn);border-radius:12px;touch-action:manipulation}
+.graf .rast{stroke:var(--lijn);stroke-width:1}
+.graf .ax{stroke:currentColor;stroke-width:2}
+.graf .as{fill:var(--zacht)}
+#klok.bijna,#exKlok.bijna{color:var(--fout)}
+.cijfer{display:inline-grid;place-items:center;min-width:110px;height:110px;border-radius:50%;font:800 44px/1 var(--kop);color:#fff;background:var(--fout)}
+.cijfer.vold{background:var(--goed)}
+.cijfer.klein{min-width:52px;height:52px;font-size:19px}
+.exvTitel{margin:16px 0 8px}.exvTitel h1{margin:2px 0 6px}
+.exvBalk{position:sticky;top:0;z-index:5;display:flex;gap:12px;align-items:center;flex-wrap:wrap;background:var(--kaart);border:1px solid var(--lijn);border-radius:14px;padding:10px 14px;margin:0 0 14px;box-shadow:var(--schaduw)}
+.exvOpgave{font-size:22px;margin:26px 0 8px}
+.exvCtx{font-size:15px;background:var(--bg);border-radius:12px;padding:12px 14px;margin-bottom:10px}
+.exvVraag{margin-bottom:12px}
+.exvKop{display:flex;gap:10px;align-items:baseline;margin-bottom:6px}.exvPnt{margin-left:auto}
+.exvVraag textarea{width:100%;font:inherit;padding:10px;border-radius:12px;border:1px solid var(--lijn);margin-top:10px;background:var(--kaart);color:inherit}
+.exvMijn{white-space:pre-wrap;background:var(--bg);border-radius:12px;padding:10px 12px;margin-top:10px}
+.exvModel{margin-top:10px;border-left:4px solid var(--goed);padding:6px 12px;background:color-mix(in srgb,var(--goed) 8%,var(--kaart));border-radius:0 12px 12px 0}
+.exvModel summary{font-weight:700;cursor:pointer}
+@media print{.exvBalk{position:static}}

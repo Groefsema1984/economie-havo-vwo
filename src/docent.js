@@ -58,7 +58,7 @@ function tekenDocent(){
   const o=$('#dOut'); if(!o||!D) return;
   const klassen=[...new Set(D.spelers.map(s=>s.klas))].sort();
   const sp=D.spelers.filter(s=>dKlas==='alle'||s.klas===dKlas);
-  const tabs=[['overzicht','Overzicht'],['leerlingen','Leerlingen'],['vragen','Vragen'],['eindtermen','Eindtermen'],['examen','Examentrainer']];
+  const tabs=[['overzicht','Overzicht'],['klas','Klassikaal'],['leerlingen','Leerlingen'],['vragen','Vragen'],['eindtermen','Eindtermen'],['examen','Examentrainer']];
   const kopbalk=`<div class="voet" style="justify-content:flex-start;margin:0 0 12px;align-items:center">
     <select style="max-width:170px" onchange="dKlas=this.value;dSel=null;tekenDocent()"><option value="alle">Alle groepen</option>${klassen.map(k=>`<option ${k===dKlas?'selected':''}>${esc(k)}</option>`).join('')}</select>
     ${tabs.map(([k,t])=>`<button class="knop ${dTab===k&&!dSel?'':'zacht'}" style="min-height:44px;padding:8px 14px" onclick="dTab='${k}';dSel=null;tekenDocent()">${t}</button>`).join('')}
@@ -70,7 +70,7 @@ function tekenDocent(){
     <button class="knop zacht" style="min-height:44px;padding:8px 14px" onclick="dUitloggen()">Uitloggen</button></div>`;
   let inhoud;
   if(dSel){ const s=D.spelers.find(x=>x.id===dSel); inhoud=s?dLeerling(s):'' }
-  else inhoud = {overzicht:dOverzicht,leerlingen:dLeerlingen,vragen:dVragen,eindtermen:dEindtermen,examen:dExamen}[dTab](sp);
+  else inhoud = {overzicht:dOverzicht,klas:dKlassikaal,leerlingen:dLeerlingen,vragen:dVragen,eindtermen:dEindtermen,examen:dExamen}[dTab](sp);
   o.innerHTML=kopbalk+(sp.length||dSel?inhoud:'<div class="kaart"><p class="zacht" style="margin:0">Nog geen leerlingen in deze groep.</p></div>');
 }
 
@@ -109,6 +109,34 @@ function dOverzicht(sp){
     <div class="kaart"><b>Lage domeinscores (onder 50)</b>${zwak.length?zwak.slice(0,12).map(x=>`<div class="rij">${lnk(x.s)}<span style="flex:1;font-size:14px">${x.d.icoon} ${x.d.naam}</span>${dc(x.v)}</div>`).join(''):'<p class="zacht">Geen scores onder de 50.</p>'}</div>
     <div class="kaart"><b>Veel foute vragen open (10 of meer)</b>${veelHerhaal.length?veelHerhaal.slice(0,12).map(s=>`<div class="rij">${lnk(s)}<span style="flex:1"></span><span class="zacht" style="font-size:13px">${s.herhaal} in herhaalronde</span></div>`).join(''):'<p class="zacht">Niemand heeft een lange herhaallijst.</p>'}</div>
    </div>`;
+}
+
+// Klassikaal: per klas de onderwerpen waar de groep het zwakst op scoort, de vaakst foute vragen en de toetscijfers.
+// Bedoeld om te kiezen wat je in de les nog eens klassikaal behandelt.
+function dKlassikaal(sp){
+  const klassen=[...new Set(sp.map(s=>s.klas))].sort();
+  const lnk=s=>`<a href="#" onclick="dSel='${esc(s.id)}';tekenDocent();return false" style="color:var(--acc)">${esc(s.naam)}</a>`;
+  const gem=a=>a.length?Math.round(a.reduce((x,y)=>x+y,0)/a.length*10)/10:null;
+  return klassen.map(k=>{ const l=sp.filter(s=>s.klas===k); const minN=Math.max(2,Math.ceil(l.length*0.25));
+    const ond=Object.keys(EINDTERMEN).map(c=>{ const sc=l.map(s=>({s,v:etPct((s.et||{})[c])})).filter(x=>x.v!=null); return {c,n:sc.length,v:sc.length?Math.round(sc.reduce((a,x)=>a+x.v,0)/sc.length):null,laag:sc.filter(x=>x.v<50).map(x=>x.s)} })
+      .filter(x=>x.n>=minN).sort((a,b)=>a.v-b.v).slice(0,6);
+    const tel={}; l.forEach(s=>Object.entries(s.vr||{}).forEach(([id,r])=>{ if(id.startsWith('gen.')) return; const t=tel[id]||(tel[id]={g:0,f:0,ll:new Set()}); t.g+=r.g||0; t.f+=r.f||0; if(r.f) t.ll.add(s.id) }));
+    const vr=Object.entries(tel).filter(([id,t])=>t.ll.size>=minN&&vraagById(id)).map(([id,t])=>({v:vraagById(id),t,p:Math.round(t.f/(t.g+t.f)*100)})).sort((a,b)=>b.t.ll.size-a.t.ll.size||b.p-a.p).slice(0,6);
+    const pt={}; l.forEach(s=>Object.entries(s.pt||{}).forEach(([key,r])=>{ (pt[key]=pt[key]||[]).push(r.l!=null?r.l:r.b) }));
+    const ptl=Object.entries(pt).map(([key,a])=>({key,n:a.length,c:gem(a)})).sort((a,b)=>a.c-b.c);
+    const exr=l.flatMap(s=>Object.entries(s.exr||{}).map(([c,r])=>({s,c,r}))).sort((a,b)=>b.r.t-a.r.t);
+    return `<div class="sectie">${esc(k)} · ${l.length} leerlingen</div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));gap:14px">
+     <div class="kaart"><b>Zwakste onderwerpen van de klas</b> <span class="zacht" style="font-size:13px">(gemiddelde score, minstens ${minN} lln)</span>
+      ${ond.length?ond.map(x=>`<div class="rij" style="display:block">${balk(x.v,`<span style="font-size:14px">${esc(EINDTERMEN[x.c].t)}</span>`).replace('class="domein"','class="domein" style="grid-template-columns:minmax(150px,1.3fr) 1fr 44px;border:0;padding:0"')}
+        <div class="zacht" style="font-size:13px">${x.n} lln met score${x.laag.length?` · onder 50: ${x.laag.slice(0,8).map(lnk).join(', ')}${x.laag.length>8?' en '+(x.laag.length-8)+' meer':''}`:''}</div></div>`).join(''):'<p class="zacht">Nog te weinig gegevens.</p>'}</div>
+     <div class="kaart"><b>Vragen die veel leerlingen fout hadden</b>
+      ${vr.length?vr.map(x=>`<div class="rij" style="display:block"><b style="color:var(--fout)">${x.t.ll.size} lln fout</b> <span class="zacht" style="font-size:13px">· ${x.p}% van de pogingen fout · ${esc((EINDTERMEN[x.v.e]||{}).t||'')}</span><div style="font-size:14px;margin-top:2px">${esc(x.v.q.length>220?x.v.q.slice(0,220)+'…':x.v.q)}</div><div class="zacht" style="font-size:13px">Juist: ${esc(String(juistTekst(x.v)||'').slice(0,160))}</div></div>`).join(''):'<p class="zacht">Nog te weinig gegevens.</p>'}</div>
+     <div class="kaart"><b>Proeftoetsen</b> <span class="zacht" style="font-size:13px">(gemiddeld laatste cijfer)</span>
+      ${ptl.length?ptl.map(x=>`<div class="rij"><span style="flex:1;font-size:14px">${esc(x.key.split('|')[1])}</span><span class="zacht" style="font-size:13px">${x.n} lln</span><b style="min-width:40px;text-align:right;color:${x.c>=5.5?'var(--goed)':'var(--fout)'}">${String(x.c).replace('.',',')}</b></div>`).join(''):'<p class="zacht">Nog geen proeftoetsen gemaakt (of de server heeft de nieuwste Code.gs nog niet).</p>'}
+      <div style="margin-top:12px"><b>Examens op tijd</b></div>
+      ${exr.length?exr.slice(0,10).map(x=>`<div class="rij">${lnk(x.s)}<span style="flex:1;font-size:13px" class="zacht">${esc(exNaam(x.c))}</span><span style="font-size:13px">${x.r.p}/${x.r.m}</span><b style="min-width:40px;text-align:right;color:${x.r.cf>=5.5?'var(--goed)':'var(--fout)'}">${String(x.r.cf).replace('.',',')}</b></div>`).join(''):'<p class="zacht">Nog geen examens op tijd gemaakt.</p>'}</div>
+    </div>`; }).join('')||'<div class="kaart"><p class="zacht" style="margin:0">Nog geen leerlingen.</p></div>';
 }
 
 function dLeerlingen(sp){
