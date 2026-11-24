@@ -49768,6 +49768,418 @@ function printExamen(){
   w.document.close();
 }
 
+// ===== Vaste begrippencombinaties uit de correctievoorschriften (CE economie havo/vwo 2018-2026) =====
+// Per begrip de elementen die in het antwoord terug moeten komen om de scorepunten te halen.
+//  id, b: begrip, niv: 'hv' (beide) | 'h' | 'v', kort: de combinatie in één regel,
+//  el: verplichte elementen (in deze volgorde opschrijven), vk: waar leerlingen punten laten liggen (uit de CV-opmerkingen),
+//  zoek: regex waarmee de examenvragen bij dit begrip gevonden worden (vraag + antwoordmodel),
+//  mark: regex van de sleutelwoorden die in het antwoordmodel gemarkeerd worden,
+//  fout: plausibele maar onjuiste elementen (afleiders voor de oefening).
+const COMBINATIES = [
+{id:'groei', b:'Economische groei', niv:'hv', kort:'Economische groei = toename van de (reële) productie / het bbp',
+ el:['de productie / het bbp neemt toe','(bij een verklaring) via de keten: bestedingen ↑ → productie ↑ → economische groei'],
+ vk:'Zonder het woord productie of bbp geen punten: "Voor toekenning van scorepunten is het noodzakelijk dat economische groei gekoppeld wordt aan productie" (havo 2022-I vr. 1). Ook havo 2023-II vr. 5: productie of bbp niet genoemd → maximaal 1 punt.',
+ zoek:'economische groei', mark:'economische groei|productie|bbp',
+ fout:['de prijzen stijgen','de consumenten worden rijker','de werkloosheid stijgt']},
+{id:'werkl', b:'Werkloosheid via de bestedingen', niv:'hv', kort:'Bestedingen ↓ → productie ↓ → vraag naar arbeid ↓ → werkloosheid ↑',
+ el:['bestedingen / vraag naar producten verandert','productie verandert','vraag naar arbeid (werkgelegenheid) verandert → werkloosheid'],
+ vk:'"Voor het toekennen van het tweede scorepunt moet productie zijn verwoord" (havo 2026-I vr. 20 en 25; vwo 2018-II vr. 23 en 25: productie niet verwoord → maximaal 1 punt). De stap bestedingen → werkloosheid zonder productie kost een punt.',
+ zoek:'vraag naar arbeid|werkgelegenheid', mark:'productie|vraag naar arbeid|werkgelegenheid|bestedingen',
+ fout:['het aanbod van arbeid stijgt','de lonen dalen automatisch','de inflatie stijgt']},
+{id:'extern', b:'Negatief extern effect', niv:'hv', kort:'Negatief extern effect = nadeel voor anderen (derden / samenleving) + niet verrekend in de prijs → maatschappelijke kosten',
+ el:['nadeel / kosten voor anderen dan de veroorzaker (derden, samenleving)','die kosten zitten niet in de prijs (worden niet door de veroorzaker betaald)','gevolg: maatschappelijke kosten'],
+ vk:'Beide kenmerken zijn nodig: "kosten niet verwerkt in de prijs" en "ten laste van anderen" (havo 2026-I vr. 2, vwo 2019-II vr. 1). Internaliseren = de kosten alsnog in de prijs opnemen (de vervuiler betaalt).',
+ zoek:'extern[e]? effect', mark:'extern[e]? effect(en)?|maatschappelijke kosten|niet in de prijs|in de prijs|ten laste van anderen|geïnternaliseerd|internalis\\w*',
+ fout:['de producent maakt hogere kosten','de prijs van het product stijgt','de consument betaalt de volle prijs']},
+{id:'pextern', b:'Positief extern effect', niv:'hv', kort:'Positief extern effect = voordeel voor anderen + niet in de prijs verrekend → maatschappelijke baten',
+ el:['voordeel / baten voor anderen dan de producent of gebruiker','niet in de prijs inbegrepen','gevolg: maatschappelijke baten (bijv. hoger bbp, meer belastingopbrengsten)'],
+ vk:'vwo 2022-II vr. 17 en 2025-II vr. 17: "baten die niet in de prijs zijn inbegrepen". Subsidie internaliseert het positieve externe effect.',
+ zoek:'positie\\w* extern', mark:'positie\\w* extern\\w* effect\\w*|maatschappelijke baten|niet in de prijs',
+ fout:['de producent maakt meer winst','de prijs daalt','de overheid betaalt de kosten']},
+{id:'asym', b:'Asymmetrische informatie', niv:'hv', kort:'Asymmetrische informatie = de ene partij heeft meer / betere informatie dan de andere',
+ el:['benoem welke partij meer weet (bijv. de verzekerde kent het eigen risico / gedrag beter dan de verzekeraar)','en waarover (risico vóór het contract, of gedrag na het contract)'],
+ vk:'Altijd beide partijen noemen. Havo 2023-II vr. 29: "Beide vormen van asymmetrische informatie moeten worden verwoord" (vóór en na het afsluiten).',
+ zoek:'asymmetrisch|informatieasymmetrie', mark:'asymmetrische informatie|informatieasymmetrie|meer informatie|minder informatie|niet controleren',
+ fout:['beide partijen weten evenveel','de prijs is voor iedereen gelijk','er zijn veel aanbieders']},
+{id:'avsel', b:'Averechtse selectie', niv:'hv', kort:'Averechtse selectie = goede risico’s haken af → relatief veel slechte risico’s → premie stijgt (verder)',
+ el:['bij een (gemiddelde) premie vinden goede risico’s de verzekering te duur en haken af','de verzekeraar houdt relatief veel slechte risico’s over','de premie moet stijgen (en nog meer goede risico’s haken af)'],
+ vk:'Oplossingen werken via de goede risico’s: verplichte verzekering of premiedifferentiatie / vrijwillig eigen risico → goede risico’s blijven verzekerd (vwo 2023-I vr. 14, havo 2026-I vr. 4). Niet verwarren met moral hazard (gedrag ná het afsluiten).',
+ zoek:'averechtse selectie', mark:'averechtse selectie|goede risico’?s?|slechte risico’?s?|premie\\w*',
+ fout:['verzekerden gaan zich na het afsluiten roekeloos gedragen','de verzekeraar weet meer dan de klant','alle klanten betalen een lagere premie']},
+{id:'moral', b:'Moral hazard', niv:'hv', kort:'Moral hazard = na het verzekeren risicovoller / nalatiger gedrag, omdat je de (financiële) gevolgen niet zelf draagt',
+ el:['ná het afsluiten van de verzekering / het contract','gaat de verzekerde zich risicovoller / nalatiger gedragen of meer gebruiken','omdat hij de (financiële) gevolgen niet (volledig) zelf draagt → schadelast en premie stijgen'],
+ vk:'Oplossing = de verzekerde zelf laten meebetalen: eigen risico, eigen bijdrage, bonus-malus (vwo 2023-I vr. 13, havo 2026-I vr. 5: "financieel nadeel van roekeloos gedrag"). vwo 2022-II vr. 9: de kosten moeten bij de agent komen te liggen.',
+ zoek:'moral hazard|moreel risico', mark:'moral hazard|roekeloos|nalatig\\w*|risicovoller|eigen risico|eigen bijdrage|zelf (deels )?(gaan )?betal\\w*',
+ fout:['vóór het afsluiten kiezen vooral slechte risico’s de verzekering','de premie is te hoog voor goede risico’s','de verzekeraar heeft meer informatie']},
+{id:'pa', b:'Principaal-agentprobleem', niv:'v', kort:'Principaal-agentprobleem = tegengestelde belangen + asymmetrische informatie',
+ el:['benoem principaal en agent (de agent handelt in opdracht van de principaal)','tegengestelde belangen: principaal wil …, agent wil …','asymmetrische informatie: de principaal kan niet (volledig) controleren wat de agent doet','oplossing vermindert de tegengestelde belangen en/of de informatieasymmetrie (toezicht, contractclausule, prestatiebeloning)'],
+ vk:'vwo 2026-II vr. 29 geeft per element 1 punt: tegengestelde belangen, asymmetrische informatie en een oplossing die beide vermindert. Een zzp’er is principaal én agent, dus geen probleem (vwo 2024-II vr. 23).',
+ zoek:'principaal', mark:'principaal|agent(en)?|tegengestelde belangen|verschillende doelstellingen|asymmetrische informatie|informatieasymmetrie|toezicht',
+ fout:['de agent heeft dezelfde belangen als de principaal','er zijn veel aanbieders op de markt','de principaal weet precies wat de agent doet']},
+{id:'risico', b:'Risico en risicohouding', niv:'hv', kort:'Risico (verwachte schade) = kans × schadebedrag; risico-avers = bereid méér premie te betalen dan de verwachte schade',
+ el:['verwachte schade = kans × omvang van de schade','risico-avers: premie > verwachte schade en toch verzekeren','risiconeutraal: maximaal de verwachte schade willen betalen'],
+ vk:'Havo 2023-II vr. 25: eerst de verwachte schade berekenen (kans × schade), dan vergelijken met de premie. vwo 2022-I vr. 8: "onzekerheid" moet verwoord zijn, anders maximaal 1 punt.',
+ zoek:'verwacht[e]? (schade|waarde)|kans op (een )?(schade|wanbetaling|hack)|risico.?(avers|mijdend|neutraal|zoekend|minnend)|risicoaver', mark:'verwacht\\w* schade\\w*|verwachte waarde|kans|risico-?avers|risicomijdend|risico-?neutraal|onzekerheid',
+ fout:['risico = premie × kans','risico-avers: nooit een verzekering afsluiten','risiconeutraal: altijd meer betalen dan de verwachte schade']},
+{id:'dom', b:'Dominante strategie', niv:'hv', kort:'Dominante strategie = de beste keuze, ongeacht wat de ander kiest (met getallen aantonen)',
+ el:['voor elke keuze van de ander de uitkomsten vergelijken (twee vergelijkingen met getallen)','de strategie is in beide gevallen het beste → dominant','dit voor beide spelers aantonen'],
+ vk:'"Voor het volledig toekennen van de eerste twee scorepunten moet een bewijs worden gegeven van beide dominante strategieën" (havo 2019-I vr. 24, 2019-II vr. 28).',
+ zoek:'dominante strategie', mark:'dominante strategie\\w*|ongeacht',
+ fout:['de keuze met de hoogste gezamenlijke winst','de keuze die de ander maakt nadoen','de keuze met de laagste kosten']},
+{id:'gd', b:'Gevangenendilemma', niv:'hv', kort:'Gevangenendilemma = beide spelers volgen hun dominante strategie + die uitkomst is suboptimaal (beide kunnen samen beter)',
+ el:['beide spelers hebben een dominante strategie (met getallen)','de uitkomst daarvan (het Nash-evenwicht) is suboptimaal','er is een andere uitkomst waarbij béíde beter af zijn'],
+ vk:'Is de dominante uitkomst óók de beste uitkomst voor beide, dan is er géén gevangenendilemma (havo 2018-II vr. 28, 2021-I vr. 10, 2025-I vr. 16).',
+ zoek:'gevangenendilemma|prisoner', mark:'gevangenendilemma|suboptima\\w*|dominante strategie\\w*|beide (partijen|spelers)',
+ fout:['één speler wint en de ander verliest','er is geen dominante strategie','de spelers maken bindende afspraken']},
+{id:'nash', b:'Nash-evenwicht', niv:'hv', kort:'Nash-evenwicht = geen van de spelers kan zijn uitkomst verbeteren door eenzijdig een andere keuze te maken',
+ el:['gegeven de keuze van de ander is elke speler op zijn best','niemand heeft reden om eenzijdig af te wijken','in een spelboom: terugredeneren vanaf het einde (met getallen)'],
+ vk:'Alleen de spelers tellen: "de maatschappij is geen speler" (vwo 2026-I vr. 17). Een Nash-evenwicht kan suboptimaal zijn, en er kunnen er twee zijn (vwo 2021-I vr. 17).',
+ zoek:'nash', mark:'Nash-?evenwicht\\w*|eenzijdig',
+ fout:['de uitkomst met de hoogste totale winst','beide spelers verliezen altijd','één speler bepaalt de uitkomst']},
+{id:'zelfb', b:'Geloofwaardige zelfbinding / dreiging', niv:'hv', kort:'Zelfbinding = je vooraf vastleggen op een keuze, met een nadeel bij afwijken, zodat de ander je gelooft',
+ el:['een afspraak / maatregel die je vooraf vastlegt','met een negatieve consequentie als je je er niet aan houdt','daardoor loont afwijken niet meer en is de belofte / dreiging geloofwaardig'],
+ vk:'"Uit de beschrijving van het voorbeeld moet blijken welke negatieve consequentie verbonden is aan het kiezen van de dominante strategie" (havo 2023-II vr. 24). Een dreiging is alleen geloofwaardig als uitvoeren voor de dreiger ook het beste is.',
+ zoek:'zelfbinding|geloofwaardig', mark:'zelfbinding|geloofwaardig\\w*|consequentie|boete',
+ fout:['een mondelinge belofte zonder gevolgen','de ander laten kiezen','de prijs verlagen']},
+{id:'cs', b:'Consumenten- en producentensurplus', niv:'hv', kort:'Consumentensurplus = betalingsbereidheid − prijs; producentensurplus = prijs − leveringsbereidheid (MK)',
+ el:['consumentensurplus: verschil tussen betalingsbereidheid en de (te betalen) prijs, opgeteld over alle kopers','producentensurplus: verschil tussen de prijs en de leveringsbereidheid / marginale kosten','totaal surplus = consumentensurplus + producentensurplus'],
+ vk:'Bij uitleg altijd "betalingsbereidheid" noemen (havo 2023-I, vwo 2021-II). Bij perfecte prijsdiscriminatie is het consumentensurplus nul (vwo 2022-II vr. 20).',
+ zoek:'consumentensurplus|producentensurplus|totale surplus', mark:'consumentensurplus|producentensurplus|totale surplus|betalingsbereidheid|leveringsbereidheid',
+ fout:['opbrengst − kosten van de producent','prijs × hoeveelheid','de winst van de consument']},
+{id:'momk', b:'Maximale totale winst', niv:'hv', kort:'Maximale totale winst ⇔ MO = MK',
+ el:['stel MO = MK en bereken Q','vul Q in de prijsafzetfunctie in voor de prijs'],
+ vk:'"Het toepassen van MO = MK is noodzakelijk voor het toekennen van scorepunten" (havo 2018-I vr. 2, 2019-II vr. 4, 2023-II vr. 17).',
+ zoek:'MO\\s*=\\s*MK|maximale totale winst', mark:'MO\\s*=\\s*MK|maximale (totale )?winst',
+ fout:['MO = 0','GO = GTK','P = GVK']},
+{id:'pd', b:'Prijsdiscriminatie', niv:'hv', kort:'Prijsdiscriminatie lukt alleen als: deelmarkten te scheiden zijn + doorverkoop niet mogelijk is',
+ el:['de markt is te splitsen in deelmarkten met een verschillende betalingsbereidheid / prijsgevoeligheid','onderlinge doorverkoop tussen de deelmarkten is niet mogelijk','(dan kan de aanbieder per deelmarkt een andere prijs vragen)'],
+ vk:'Beide voorwaarden toetsen en een conclusie trekken (vwo 2024-II, havo 2025-I). Eén voorwaarde niet voldaan → geen prijsdiscriminatie.',
+ zoek:'prijsdiscrimin|doorverk', mark:'prijsdiscriminatie|deelmarkt\\w*|doorverk\\w*|betalingsbereidheid',
+ fout:['alle klanten betalen dezelfde prijs','de producent heeft hoge vaste kosten','er zijn veel concurrenten']},
+{id:'coll', b:'Collectief goed en meeliftgedrag', niv:'hv', kort:'Collectief goed = niet-rivaliserend + niet-uitsluitbaar; meeliften = profiteren zonder bij te dragen',
+ el:['niet-rivaliserend: gebruik door de één gaat niet ten koste van de ander','niet-uitsluitbaar: niet-betalers kun je niet uitsluiten','daardoor meeliftgedrag (free rider): wel profiteren, niet betalen'],
+ vk:'Bij "is het een collectief goed?" één kenmerk toetsen en concluderen (havo 2022-II, vwo 2025-I). Meeliftgedrag: havo 2024-I vr. 6 (cao geldt ook voor niet-leden).',
+ zoek:'collectie(f|ve) go|meelift|free.?rid|rivaliser', mark:'collectie\\w* go\\w*|rivaliser\\w*|uitgesloten|uitsluit\\w*|meelift\\w*',
+ fout:['de overheid levert het goed','het goed is gratis','het goed is schaars']},
+{id:'lkpp', b:'Loonkosten per product en concurrentiepositie', niv:'hv', kort:'Lonen ↑ sneller dan arbeidsproductiviteit → loonkosten per product ↑ → prijs ↑ → internationale concurrentiepositie ↓ → export ↓',
+ el:['vergelijk loonstijging met de stijging van de arbeidsproductiviteit','→ loonkosten per product stijgen / dalen','→ (doorberekend in) de verkoopprijs','→ internationale concurrentiepositie verslechtert / verbetert → export'],
+ vk:'Havo 2024-II geeft aparte punten voor "loonkosten → loonkosten per product" en "loonkosten per product → concurrentiepositie". Sla de stap via de prijs niet over.',
+ zoek:'loonkosten per|arbeidsproductiviteit', mark:'loonkosten per (eenheid )?product|arbeidsproductiviteit|concurrentiepositie|verkoopprijs\\w*',
+ fout:['hogere lonen verbeteren altijd de concurrentiepositie','de werkloosheid daalt','de import stijgt door hogere productiviteit']},
+{id:'koop', b:'Koopkracht en reëel inkomen', niv:'hv', kort:'% verandering reëel inkomen ≈ % nominaal − % inflatie; exact: RIC = NIC / PIC × 100',
+ el:['bereken de nominale verandering (in %)','trek de inflatie eraf (benadering) of deel de indexcijfers (exact)','conclusie: koopkracht stijgt / daalt'],
+ vk:'Bij nivellering en koopkracht gaat het om relatieve (procentuele) veranderingen. Werken met procentpunten levert maximaal 1 punt (havo 2026-I vr. 10).',
+ zoek:'koopkracht|re[eë]le? (inkomen|loon|lonen|loonstijging)', mark:'koopkracht\\w*|reële? (inkomen|loon|lonen)|nominale? \\w+|inflatie|NIC|PIC|RIC',
+ fout:['reëel = nominaal + inflatie','reëel = nominaal × inflatie','koopkracht = bruto-inkomen']},
+{id:'rrente', b:'Reële rente', niv:'hv', kort:'Reële rente ≈ nominale rente − inflatie; inflatie maakt een schuld reëel minder waard',
+ el:['reële rente = nominale rente − inflatie','hogere inflatie → reële waarde van een schuld daalt (gunstig voor de lener)','reële rente ↓ → lenen aantrekkelijker / sparen minder → consumptie en investeringen ↑'],
+ vk:'Bij deflatie is de reële rente hoger dan de nominale (havo 2019-II vr. 21). vwo: reële rente is de rente in het GA-MB-model.',
+ zoek:'re[eë]le (rente|waarde)', mark:'reële (rente|waarde)|nominale rente|inflatie|deflatie',
+ fout:['reële rente = nominale rente + inflatie','inflatie maakt een schuld zwaarder','reële rente is altijd positief']},
+{id:'wk', b:'Wisselkoers en handel', niv:'hv', kort:'Koers eigen munt ↓ → export goedkoper voor het buitenland (concurrentiepositie ↑) + import duurder (geïmporteerde inflatie)',
+ el:['koers ↓: eigen producten worden goedkoper in buitenlandse valuta → export ↑','koers ↓: import wordt duurder → geïmporteerde inflatie','koers ↑: omgekeerd; koers wordt bepaald door vraag en aanbod van de valuta (rente, kapitaalverkeer)'],
+ vk:'Eerst het prijseffect noemen (goedkoper / duurder voor wie?), dan het gevolg voor export, import of prijspeil (havo 2022-I vr. 24, vwo).',
+ zoek:'wisselkoers|koers van de|koersdaling|koersstijging|appreciatie|depreciatie|apprecieer|deprecieer', mark:'wisselkoers|koers\\w*|apprecia\\w*|deprecia\\w*|geïmporteerde inflatie|concurrentiepositie|export|import',
+ fout:['een koersdaling maakt de import goedkoper','een koersstijging verhoogt de export','de wisselkoers bepaalt de inkomstenbelasting']},
+{id:'niv', b:'Nivellering', niv:'hv', kort:'Nivellering = de relatieve (procentuele) inkomensverschillen worden kleiner; denivellering = groter',
+ el:['vergelijk de procentuele verandering van lage en hoge inkomens (of de ratio hoog/laag)','lage inkomens stijgen relatief meer → verschillen kleiner → nivellering'],
+ vk:'"Voor het toekennen van de eerste deelscore moet relatieve inkomensstijging zijn verwoord" (havo 2024-I vr. 1). Een gelijk bedrag in euro’s voor iedereen is wél nivellerend (relatief meer voor lage inkomens).',
+ zoek:'nivell', mark:'nivell\\w*|denivell\\w*|relatie\\w*|inkomensverschillen|ratio',
+ fout:['iedereen krijgt hetzelfde percentage erbij','de hoogste inkomens stijgen het meest','het gemiddelde inkomen stijgt']},
+{id:'gini', b:'Lorenzcurve en Gini-coëfficiënt', niv:'hv', kort:'Gelijkere inkomensverdeling → Lorenzcurve dichter bij de gelijkheidslijn → Gini-coëfficiënt lager',
+ el:['gelijkere verdeling: Lorenzcurve schuift naar de diagonaal','Gini-coëfficiënt daalt (0 = volkomen gelijk, 1 = volkomen ongelijk)','secundaire verdeling is gelijker dan primaire (door belastingen en uitkeringen)'],
+ vk:'Bij de vergelijking van twee landen of jaren expliciet zeggen welke curve dichter bij de diagonaal ligt.',
+ zoek:'gini|lorenz', mark:'Lorenz-?curve\\w*|Gini-?coëfficiënt|gelijker|ongelijk\\w*',
+ fout:['hogere Gini betekent gelijkere verdeling','Lorenzcurve verder van de diagonaal = gelijker','Gini meet het gemiddelde inkomen']},
+{id:'solid', b:'Omslagstelsel en solidariteit', niv:'hv', kort:'Omslagstelsel = werkenden betalen nu de uitkeringen van de huidige ouderen (solidariteit tussen generaties); kapitaaldekking = sparen voor je eigen pensioen',
+ el:['omslagstelsel: premies van werkenden → uitkeringen van de huidige gepensioneerden','vergrijzing: minder werkenden per gepensioneerde → premies ↑ of uitkeringen ↓','dat zet de solidariteit tussen generaties onder druk'],
+ vk:'Verplichte solidariteit (sociale verzekering) voorkomt averechtse selectie (havo 2023-I vr. 1).',
+ zoek:'solidariteit|omslagstelsel|kapitaaldekking', mark:'omslagstelsel|kapitaaldekking\\w*|solidariteit|generatie\\w*|vergrijzing',
+ fout:['iedereen spaart voor zijn eigen AOW','de overheid belegt de premies','gepensioneerden betalen voor werkenden']},
+{id:'ruil', b:'Ruilen over de tijd', niv:'hv', kort:'Ruilen over de tijd = consumptie verschuiven: sparen = koopkracht naar later, lenen = koopkracht naar nu; rente = prijs',
+ el:['sparen: nu minder consumeren, later meer','lenen: consumptie uit de toekomst naar voren halen','de rente is de prijs van ruilen over de tijd'],
+ vk:'Passief sparen (het inkomen gewoon niet uitgeven) is géén bewust ruilen over de tijd (havo 2022-II). vwo: tijdsvoorkeur bepaalt hoeveel je nu wilt consumeren.',
+ zoek:'ruilen over de tijd|intertemporele|tijdsvoorkeur', mark:'ruilen over de tijd|intertemporele ruil|tijdsvoorkeur|sparen|lenen|rente',
+ fout:['sparen haalt consumptie naar voren','rente is de beloning voor arbeid','lenen verschuift koopkracht naar later']},
+{id:'inv', b:'Investeringen: twee effecten', niv:'hv', kort:'Investeringen = bestedingseffect (conjunctuur, korte termijn) + capaciteitseffect (structuur, productiecapaciteit)',
+ el:['bestedingseffect: investeringen zijn bestedingen → vraag en productie ↑ (conjunctuur)','capaciteitseffect: meer kapitaalgoederen → productiecapaciteit / productiviteit ↑ (structuur)'],
+ vk:'Bij "via de structuurzijde" moet productiecapaciteit genoemd worden, bij "via de conjunctuurzijde" de bestedingen / effectieve vraag (havo 2026-I vr. 11-12).',
+ zoek:'productiecapaciteit|capaciteitseffect|bestedingseffect|structuurzijde|conjunctuurzijde|structurele economische groei', mark:'productiecapaciteit|capaciteitseffect|bestedingseffect|bestedingen|effectieve vraag|productiviteit|structu\\w*|conjunctu\\w*',
+ fout:['investeringen verlagen altijd de productie','alleen consumptie telt als besteding','investeringen verlagen de productiecapaciteit']},
+{id:'sschuld', b:'Staatsschuldquote', niv:'hv', kort:'Staatsschuldquote = staatsschuld / bbp × 100%; groei verlaagt de quote via teller én noemer',
+ el:['teller: economische groei → belastingontvangsten ↑ / uitkeringen ↓ → tekort ↓ → schuld groeit minder','noemer: economische groei → bbp ↑','dus de quote daalt'],
+ vk:'Bij de redenering expliciet zeggen of het via de schuld (teller) of het bbp (noemer) loopt (havo 2022-I vr. 28: per weg 1 punt).',
+ zoek:'schuldquote|staatsschuld|overheidsschuld', mark:'staatsschuld\\w*|overheidsschuld|schuldquote|overheidstekort|begrotingstekort|bbp',
+ fout:['schuldquote = tekort / bbp','groei verhoogt altijd de schuldquote','de quote hangt alleen af van de rente']},
+{id:'mon', b:'Monetair beleid (rente)', niv:'hv', kort:'Rente ↓ → lenen goedkoper / sparen minder aantrekkelijk → consumptie en investeringen ↑ → productie ↑ (en inflatie ↑)',
+ el:['de centrale bank verlaagt / verhoogt de (beleids)rente','lenen wordt goedkoper / sparen minder aantrekkelijk (of omgekeerd)','consumptie en investeringen veranderen → productie / prijspeil'],
+ vk:'Monetair beleid voert de centrale bank, niet de regering: "Het voeren van monetair beleid is onjuist" bij een vraag naar overheidsbeleid (havo 2025-I vr. 6).',
+ zoek:'monetair beleid|beleidsrente|renteverlaging|renteverhoging', mark:'monetair\\w* beleid|beleidsrente|renteverlaging|renteverhoging|lenen|sparen|centrale bank|ECB',
+ fout:['de regering verlaagt de rente','een renteverhoging stimuleert de bestedingen','monetair beleid verlaagt de belastingen']},
+{id:'defl', b:'Deflatie', niv:'hv', kort:'Verwachte deflatie → aankopen uitstellen → bestedingen ↓ → productie ↓ (→ economische groei ↓, werkloosheid ↑)',
+ el:['consumenten verwachten verdere prijsdaling en stellen aankopen uit','bestedingen dalen','productie daalt'],
+ vk:'"De cursief gedrukte aspecten moeten genoemd of verwoord zijn" (havo 2023-I vr. 17): uitstel van aankopen én daling van bestedingen en productie.',
+ zoek:'deflatie', mark:'deflatie|uitstel\\w*|bestedingen|productie',
+ fout:['deflatie verhoogt de bestedingen','bij deflatie daalt de reële rente','deflatie verhoogt de koopkracht en dus de productie']},
+{id:'binfl', b:'Bestedings- en kosteninflatie', niv:'hv', kort:'Bestedingsinflatie = bestedingen > productiecapaciteit (krapte); loonkosteninflatie = lonen ↑ > productiviteit; geïmporteerde inflatie = duurdere import',
+ el:['bestedingsinflatie: vraag groter dan productiecapaciteit (overbezetting / krapte) → prijzen ↑','loonkosteninflatie: loonkosten per product ↑ doorberekend in prijzen','geïmporteerde inflatie: importprijzen ↑ (bijv. door koersdaling)'],
+ vk:'Bij bestedingsinflatie altijd de grens van de productiecapaciteit noemen.',
+ zoek:'bestedingsinflatie|kosteninflatie|ge[iï]mporteerde inflatie|loon.?prijs', mark:'bestedingsinflatie|loonkosteninflatie|geïmporteerde inflatie|productiecapaciteit|krapte|overbezetting',
+ fout:['inflatie ontstaat door lagere lonen','inflatie ontstaat door hogere werkloosheid','krapte verlaagt de prijzen']},
+{id:'anti', b:'Anticyclisch begrotingsbeleid', niv:'hv', kort:'Anticyclisch = tegen de conjunctuur in: laagconjunctuur → overheidsuitgaven ↑ / belastingen ↓ (tekort) → bestedingen ↑ → productie ↑',
+ el:['laagconjunctuur: overheid verhoogt uitgaven of verlaagt belastingen (tekort accepteren)','bestedingen stijgen → productie / werkgelegenheid stijgen','hoogconjunctuur: omgekeerd (overschot)'],
+ vk:'Bij EMU-vragen: anticyclisch beleid in andere landen werkt via hun import (= onze export) door (havo 2025-I).',
+ zoek:'anticyclisch|procyclisch|automatische stabilisator', mark:'anticyclisch\\w*|procyclisch\\w*|laagconjunctuur|hoogconjunctuur|overheidsuitgaven|bestedingen',
+ fout:['in een laagconjunctuur bezuinigen','de rente verlagen','belastingen verhogen in een recessie']},
+{id:'elas', b:'Prijselasticiteit en omzet', niv:'hv', kort:'Ev = % verandering hoeveelheid / % verandering prijs; inelastisch (|Ev| < 1): prijs ↑ → omzet ↑',
+ el:['Ev = %ΔQ / %ΔP','|Ev| < 1 inelastisch: hoeveelheid reageert relatief weinig → prijsverhoging verhoogt de omzet','|Ev| > 1 elastisch: prijsverhoging verlaagt de omzet'],
+ vk:'Eerst de procentuele verandering van de vraag juist berekenen; die is voorwaardelijk voor het volgende punt (havo 2023-II vr. 7).',
+ zoek:'elasticiteit|prijsgevoelig', mark:'elastic\\w*|prijsgevoelig\\w*|omzet',
+ fout:['Ev = %ΔP / %ΔQ','inelastisch: prijs ↑ → omzet ↓','elastisch betekent dat de vraag niet reageert']},
+{id:'marktv', b:'Marktvorm herkennen', niv:'hv', kort:'Marktvorm = kies de marktvorm + onderbouw met een kenmerk uit de context',
+ el:['noem de marktvorm (volkomen concurrentie, monopolistische concurrentie, oligopolie, monopolie)','onderbouw met een kenmerk: aantal aanbieders, homogeen/heterogeen, toetreding, transparantie'],
+ vk:'Het kenmerk moet bij de context passen (havo 2018-I vr. 1: drogisterijen → heterogeen assortiment / dienstverlening).',
+ zoek:'volkomen concurrentie|volledige mededinging|monopolistische concurrentie|oligopolie|monopolie', mark:'volkomen concurrentie|volledige mededinging|monopolistische concurrentie|oligopolie|monopolie|homogeen|heterogeen|toetred\\w*|transparan\\w*',
+ fout:['de prijs is hoog','er is overheidsbemoeienis','het bedrijf maakt winst']},
+{id:'gamb', b:'GA-MB-model', niv:'v', kort:'GA (bestedingen) en MB (centrale bank) bepalen samen evenwichtsinflatie en reële rente; benoem verschuiving + nieuwe evenwichtswaarden',
+ el:['welke curve verschuift en waarom (bestedingen → GA, beleid centrale bank / inflatiedoel → MB)','richting en grootte van de verschuiving','nieuwe evenwichtswaarden van inflatie en reële rente (en inkomen)'],
+ vk:'Bij de tekenvragen krijg je per curve en voor de evenwichtswaarden een apart punt (vwo 2024-I, 2026-I).',
+ zoek:'GA-curve|MB-curve|\\bGA1\\b|\\bMB1\\b|output gap', mark:'GA-?curve|MB-?curve|GA1|MB1|evenwicht\\w*|reële rente|output gap',
+ fout:['de MB-curve verschuift door hogere consumptie','de GA-curve wordt door de centrale bank bepaald','alleen de nominale rente telt']},
+];
+
+// ===== Vaste begrippencombinaties: markeren in antwoordmodellen + oefenen =====
+// Data staat in data-combinaties.js (COMBINATIES). Dit bestand voegt toe:
+//  1. in elk antwoordmodel van een examenvraag de sleutelwoorden markeren + een kader met de vaste combinatie(s);
+//  2. een scherm 'combi' (Begrippencombinaties) met uitleg per begrip, oefenrondes en examenvragen per combinatie.
+const cbNiv = c => c.niv==='hv' || c.niv===niv();
+const cbLijst = () => (typeof COMBINATIES==='undefined'?[]:COMBINATIES).filter(cbNiv);
+const _cbRe = {}; const cbRe = (c,k) => _cbRe[c.id+k] || (_cbRe[c.id+k]=new RegExp(c[k],'i'));
+// welke combinaties horen bij een examenvraag (vraag + antwoordmodel), alleen voor het niveau van de vraag
+function cbVanVraag(v){
+  if(!v||typeof COMBINATIES==='undefined') return [];
+  if(v._cb) return v._cb;
+  const t=(v.q||'')+' '+(v.model||'');
+  return v._cb=COMBINATIES.filter(c=>(c.niv==='hv'||c.niv===v.niv)&&cbRe(c,'zoek').test(t));
+}
+// examenvragen (open) per combinatie, voor het eigen niveau
+function cbExamen(c,n=niv()){ return exVragen(n).filter(v=>v.t==='open'&&cbVanVraag(v).includes(c)) }
+
+document.head.insertAdjacentHTML('beforeend',`<style>
+ mark.cbm{background:rgba(240,138,9,.28);color:inherit;border-radius:4px;padding:0 2px}
+ .cbkader{margin-top:10px;border:2px solid #f08a09;border-radius:12px;padding:10px 12px;background:rgba(240,138,9,.07);font-size:15px}
+ .cbkader .cbitem{margin-top:8px} .cbkader .cbkort{font-weight:700} .cbkader ol{margin:4px 0 0;padding-left:22px}
+ .cbkaart small{display:block}
+</style>`);
+// --- 1. Markeren in het antwoordmodel ---
+let _cbModel=null;
+function cbModelVraag(t){
+  if(!_cbModel){ _cbModel=new Map(); (typeof EXAMEN==='undefined'?[]:EXAMEN.vragen).forEach(v=>{ if(!v.model) return;
+    const m=String(v.model); _cbModel.set(m,v); _cbModel.set(m.split(/\n\s*Puntenverdeling:?/)[0],v) }) }
+  return _cbModel.get(String(t));
+}
+function cbMarkeer(html,cs){
+  if(!cs.length) return html;
+  const re=new RegExp('('+cs.map(c=>c.mark).join('|')+')','gi');
+  return html.split(/(<[^>]+>)/).map(s=>s.startsWith('<')?s:s.replace(re,'<mark class="cbm">$1</mark>')).join('');
+}
+function cbKader(cs){
+  if(!cs.length) return '';
+  return `<div class="cbkader"><b>🔑 Vaste combinatie${cs.length>1?'s':''} in deze vraag</b>${cs.map(c=>`<div class="cbitem"><div class="cbkort">${esc(c.kort)}</div><ol>${c.el.map(e=>`<li>${esc(e)}</li>`).join('')}</ol></div>`).join('')}<button class="knop zacht" style="min-height:36px;padding:4px 12px;font-size:14px;margin-top:6px" onclick="cbOpen('${cs[0].id}')">Oefen deze combinatie${cs.length>1?'s':''}</button></div>`;
+}
+const _fmtCb = fmt;
+fmt = function(t,opdracht){
+  const html=_fmtCb(t,opdracht); if(opdracht||t==null) return html;
+  const v=cbModelVraag(t); if(!v) return html;
+  const cs=cbVanVraag(v); return cbMarkeer(html,cs)+cbKader(cs);
+};
+
+// --- 2. Oefenvragen maken ---
+const cbSchoon = s => String(s).replace(/^\(|\)$/g,'').replace(/^\((.*?)\)\s*/,'$1 ');
+function cbOefenvragen(c){
+  const alle=cbLijst(), anderen=alle.filter(x=>x.id!==c.id), out=[];
+  // a. examenstijl: schrijf de combinatie op en kijk na per element (deelscores)
+  out.push({id:`cb.${c.id}.open`,gen:true,t:'open',niv:null,q:`Examentraining: wat moet er in je antwoord staan als je "${c.b.toLowerCase()}" moet uitleggen? Schrijf de vaste combinatie op met alle elementen die een corrector wil zien.`,
+    model:c.el.map(e=>`• ${e} (1p)`).join('\n')+`\nLet op: ${c.vk}`,pnt:c.el.length,_cbid:c.id});
+  // b. meerkeuze: welk element hoort erbij?
+  c.el.forEach((e,k)=>{ if(k>1) return; const f=shuffle(c.fout.slice()).slice(0,3);
+    out.push({id:`cb.${c.id}.mc${k}`,gen:true,t:'mc',q:`Welk element hoort in een goed antwoord bij "${c.b}"?`,o:[cbSchoon(e)].concat(f),a:0,u:c.kort,_cbid:c.id}) });
+  // c. waar / niet waar
+  out.push({id:`cb.${c.id}.wo1`,gen:true,t:'wo',q:`Bij "${c.b}" hoort in het correctiemodel: ${cbSchoon(pick(c.fout))}.`,a:false,u:c.kort,_cbid:c.id});
+  out.push({id:`cb.${c.id}.wo2`,gen:true,t:'wo',q:`Bij "${c.b}" hoort in het correctiemodel: ${cbSchoon(pick(c.el))}.`,a:true,u:c.kort,_cbid:c.id});
+  // d. koppelen: begrip ↔ combinatie (met drie andere begrippen)
+  if(anderen.length>=3){ const set=[c].concat(shuffle(anderen.slice()).slice(0,3));
+    out.push({id:`cb.${c.id}.kop`,gen:true,t:'koppel',q:'Koppel elk begrip aan de vaste combinatie uit het correctiemodel.',p:shuffle(set.map(x=>[x.b,x.kort.replace(/^[^=]*=\s*/,'')])),_cbid:c.id}) }
+  return out;
+}
+function cbScore(c){ let g=0,f=0; for(const k in S.vr) if(k.startsWith('cb.'+c.id+'.')){ g+=S.vr[k].g; f+=S.vr[k].f } return {g,f,n:g+f} }
+const cbBeheerst = c => { const s=cbScore(c); return s.g>=3&&s.g>=2*s.f };
+function cbSet(v,titel){ Q={modus:'combi',titel,kleur:'#1f2430',vragen:v,i:0,res:[],terug:"go('combi')"}; go('quiz') }
+function cbStartEen(id){ const c=COMBINATIES.find(x=>x.id===id); cbSet(shuffle(cbOefenvragen(c)),c.b) }
+function cbStartMix(){
+  // zwakste combinaties eerst, uit elke combinatie één of twee vragen
+  const cs=cbLijst().slice().sort((a,b)=>{const s=x=>{const r=cbScore(x); return r.n?r.g/r.n:-1}; return s(a)-s(b)}).slice(0,8);
+  const v=[]; cs.forEach((c,i)=>{ const q=cbOefenvragen(c).filter(x=>x.t!=='open'); const types=shuffle([...new Set(q.map(x=>x.t))]); types.slice(0,i<2?2:1).forEach(t=>v.push(pick(q.filter(x=>x.t===t)))) });
+  cbSet(shuffle(v).slice(0,10),'Begrippencombinaties door elkaar');
+}
+function cbStartExamen(id){
+  const c=id&&COMBINATIES.find(x=>x.id===id);
+  const pool=c?cbExamen(c):exVragen().filter(v=>v.t==='open'&&cbVanVraag(v).length);
+  if(!pool.length){ melding('Hier staan nog geen examenvragen bij'); return }
+  exSet(zwakFirst(pool).slice(0,10),c?'Examenvragen · '+c.b:'Examenvragen met vaste combinaties',{terug:"go('combi')"});
+}
+// toelichting na een gemaakte oefenvraag: toon de hele combinatie
+const _cbControleer = controleer;
+controleer = function(){
+  _cbControleer.apply(this,arguments);
+  const v=Q&&Q.vragen&&Q.vragen[Q.i]; if(!v||!v._cbid||Q.fase==='zelf') return;
+  const fb=$('#fb'); if(fb&&!fb.querySelector('.cbkader')) fb.insertAdjacentHTML('beforeend',cbKader([COMBINATIES.find(x=>x.id===v._cbid)]).replace(/<button[^]*<\/button>/,''));
+};
+
+// --- 3. Scherm ---
+let cbOpenId=null;
+function cbOpen(id){ cbOpenId=id; go('combi') }
+SCHERMEN.combi = function(){
+  const L=cbLijst(), ok=L.filter(cbBeheerst).length;
+  const kaart=c=>{ const nh=cbExamen(c,'h').length, nv=cbExamen(c,'v').length, n=niv()==='v'?nv:nh, s=cbScore(c), open=cbOpenId===c.id;
+    const exs=[...new Set(cbExamen(c).map(v=>v.ex))].sort().map(e=>`${2000+ +e.slice(1,3)}-${e.slice(4)}`);
+    return `<div class="kaart cbkaart" id="cb-${c.id}"><button class="lv" style="border:0;padding:0" onclick="cbOpenId=cbOpenId==='${c.id}'?null:'${c.id}';go('combi')"><span class="med">${cbBeheerst(c)?'🏆':'🔑'}</span><span style="flex:1;text-align:left"><b>${esc(c.b)}</b><small>${esc(c.kort)}</small><small>${n} examenvra${n===1?'ag':'gen'} ${NIVEAUS[niv()]}${s.n?` · ${s.g} goed, ${s.f} fout`:''}</small></span><span class="zacht">${open?'⌃':'›'}</span></button>
+     ${open?`<div style="margin-top:10px"><p style="margin:0 0 4px"><b>Dit moet in je antwoord:</b></p><ol style="margin:0 0 8px;padding-left:22px">${c.el.map(e=>`<li>${esc(e)}</li>`).join('')}</ol>
+       <p class="vnoot" style="margin:0 0 8px">⚠️ ${esc(c.vk)}</p>${exs.length?`<p class="zacht" style="font-size:13px;margin:0 0 8px">Kwam voor in de examens ${NIVEAUS[niv()]}: ${exs.join(', ')}</p>`:''}
+       <div class="voet" style="justify-content:flex-start"><button class="knop" onclick="cbStartEen('${c.id}')">Oefen</button>${n?`<button class="knop zacht" onclick="cbStartExamen('${c.id}')">Examenvragen (${n})</button>`:''}</div></div>`:''}</div>` };
+  setTimeout(()=>{ if(cbOpenId){ const e=document.getElementById('cb-'+cbOpenId); if(e) e.scrollIntoView({block:'center'}) } },30);
+  return `<div class="wrap">${kop('Begrippencombinaties',"go('examen')")}
+   <div class="kaart" style="margin-bottom:14px"><b>${ok} van ${L.length}</b> combinaties beheerst<div class="balk" style="margin-top:8px"><i style="width:${L.length?Math.round(ok/L.length*100):0}%"></i></div>
+   <p class="zacht" style="margin:8px 0 0;font-size:14px">In de correctievoorschriften van het eindexamen komen steeds dezelfde vaste combinaties terug. Je krijgt pas de punten als je álle elementen noemt. Voorbeeld: economische groei = toename van de productie / het bbp. Deze lijst komt uit alle examens ${NIVEAUS[niv()]} van 2018 tot en met 2026.</p></div>
+   <div class="voet" style="justify-content:flex-start;margin-bottom:12px"><button class="knop" onclick="cbStartMix()">🎯 Oefen door elkaar</button><button class="knop zacht" onclick="cbStartExamen()">📄 Examenvragen met combinaties</button></div>
+   ${L.map(kaart).join('')}</div>`;
+};
+// ingang vanuit de eindexamentrainer
+const _cbExamenScherm = SCHERMEN.examen;
+SCHERMEN.examen = function(){
+  const html=_cbExamenScherm.apply(this,arguments);
+  if(!exVragen().length||!cbLijst().length) return html;
+  const kaart=`<button class="lv kaart" style="margin-bottom:14px;width:100%" onclick="cbOpenId=null;go('combi')"><span class="med">🔑</span><span style="flex:1;text-align:left"><b>Begrippencombinaties</b><small>De vaste combinaties uit de correctiemodellen (bijv. principaal-agent = tegengestelde belangen + asymmetrische informatie). Train ze, dan haal je meer punten.</small></span><span class="zacht">›</span></button>`;
+  const i=html.indexOf('<div class="voet"'); return i>0?html.slice(0,i)+kaart+html.slice(i):html.replace(/<\/div>$/,kaart+'</div>');
+};
+
+// ===== Examenonderwerpen: fijnere indeling van de examenvragen dan het domein =====
+// Een vraag kan bij meer onderwerpen horen. 'zoek' werkt op vraag + antwoordmodel; levert dat niets op, dan op opgavetitel + context.
+// Gebruikt door de examenanalyse en de adaptieve examensprint (sprint.js).
+const EX_ONDERWERPEN = [
+ {id:'markt', t:'Marktvormen, kosten en winst', d:'D', zoek:'volkomen concurrentie|volledige mededinging|monopol|oligopol|MO\\s*=\\s*MK|marginale (kosten|opbrengst)|\\bMK\\b|\\bMO\\b|\\bGTK\\b|\\bGVK\\b|break-?even|totale winst|constante kosten|vaste kosten|variabele kosten'},
+ {id:'surplus', t:'Consumenten- en producentensurplus, marktwerking', d:'D', zoek:'surplus|betalingsbereidheid|leveringsbereidheid|evenwichtsprijs|marktevenwicht|aanbodlijn|vraaglijn|collectieve vraag|collectief aanbod'},
+ {id:'elas', t:'Elasticiteiten', d:'D', zoek:'elastic|prijsgevoelig'},
+ {id:'overheidmarkt', t:'Overheid op de markt (heffing, subsidie, prijsregulering)', d:'D', zoek:'accijns|heffing|subsidie|minimumprijs|maximumprijs|quotum|prijsplafond|mededinging|ACM|kartel'},
+ {id:'extern', t:'Externe effecten en collectieve goederen', d:'D', zoek:'extern\\w* effect|maatschappelijke kosten|collectie\\w* go|meelift|rivaliser|emissierecht|vervuil'},
+ {id:'spel', t:'Speltheorie', d:'F', zoek:'dominante strategie|gevangenendilemma|nash|spelboom|matrix|pay-?off|zelfbinding|geloofwaardig|herhaald spel'},
+ {id:'pa', t:'Principaal-agent en onderhandelen', d:'F', zoek:'principaal|agent\\b|onderhandel|cao|vakbond'},
+ {id:'verzek', t:'Verzekeren: averechtse selectie, moral hazard, premie', d:'G', zoek:'verzeker|premie|eigen risico|averechtse selectie|moral hazard|asymmetrisch'},
+ {id:'risico', t:'Risico, verwachte waarde en rendement', d:'G', zoek:'verwacht\\w* (schade|waarde|rendement)|risico-?avers|risicomijdend|risico-?neutraal|kans op|beleggen|aandelen|obligatie|rendement'},
+ {id:'sparen', t:'Sparen, lenen en rente (ruilen over de tijd)', d:'E', zoek:'sparen|spaar|lening|lenen|hypothe|ruilen over de tijd|tijdsvoorkeur|annuïteit|contante waarde|eindwaarde|krediet|studieschuld'},
+ {id:'pensioen', t:'Pensioen, vergrijzing en sociale zekerheid', d:'E', zoek:'pensioen|AOW|vergrijzing|omslagstelsel|kapitaaldekking|uitkering|sociale zekerheid|solidariteit'},
+ {id:'inkverd', t:'Inkomensverdeling en belastingen', d:'H', zoek:'nivell|lorenz|gini|inkomensverdeling|inkomensverschil|belastingtarief|schijf|heffingskorting|progressie|progressief|degressief|proportioneel|belastingdruk|primair inkomen|secundair inkomen'},
+ {id:'groei', t:'Economische groei, productiviteit en welvaart', d:'H', zoek:'economische groei|arbeidsproductiviteit|productiecapaciteit|structurele groei|welvaart|\\bbbp\\b|menselijk kapitaal|innovatie'},
+ {id:'arbeid', t:'Arbeidsmarkt en werkloosheid', d:'H', zoek:'werkloos|arbeidsmarkt|vraag naar arbeid|aanbod van arbeid|beroepsbevolking|participatie|minimumloon|loonkosten|lonen'},
+ {id:'handel', t:'Internationale handel en betalingsbalans', d:'C', zoek:'export|import|handel|protectionis|invoerheffing|importheffing|lopende rekening|betalingsbalans|specialisatie|comparatie|concurrentiepositie'},
+ {id:'wk', t:'Wisselkoersen', d:'I', zoek:'wisselkoers|koers van de|koersdaling|koersstijging|apprecia|deprecia|revaluatie|devaluatie|valuta'},
+ {id:'conj', t:'Conjunctuur en bestedingen', d:'I', zoek:'conjunct|bestedingen|effectieve vraag|multiplier|geaggregeerde vraag|hoogconjunctuur|laagconjunctuur|recessie|output gap'},
+ {id:'infl', t:'Inflatie, koopkracht en deflatie', d:'I', zoek:'inflatie|deflatie|koopkracht|prijspeil|prijsindex|\\bCPI\\b|reële? (rente|inkomen|loon|lonen|waarde)'},
+ {id:'monetair', t:'Geld, banken en monetair beleid', d:'I', zoek:'monetair|centrale bank|\\bECB\\b|\\bFED\\b|beleidsrente|geldschepping|geldhoeveelheid|MB-?curve|GA-?curve'},
+ {id:'overheid', t:'Overheidsfinanciën en begrotingsbeleid', d:'I', zoek:'begroting|overheidstekort|financieringstekort|staatsschuld|overheidsschuld|schuldquote|\\bEMU\\b|anticyclisch|procyclisch|overheidsuitgaven|belastingontvangsten'},
+];
+
+// ===== Adaptieve examensprint + examenanalyse =====
+// De sprint kiest 15 examenvragen met een gewicht per vraag:
+//  gewicht = hoe vaak het onderwerp op het examen terugkomt (aandeel punten, per niveau)
+//          × hoe zwak de leerling op dat onderwerp scoort (fouten op examenvragen tellen zwaarder)
+//          × hoe de leerling deze vraag zelf deed (nieuw 1, fout 2, beheerst 0,25).
+// Alles komt uit S.vr (examenvragen), dat al met de server wordt gesynchroniseerd: Code.gs hoeft niet te veranderen.
+const _exTagCache = {};
+const _exOndRe = {};
+const exOndRe = o => _exOndRe[o.id] || (_exOndRe[o.id]=new RegExp(o.zoek,'i'));
+function exTags(v){
+  if(_exTagCache[v.id]) return _exTagCache[v.id];
+  if(typeof EX_ONDERWERPEN==='undefined') return [];
+  const kern=[v.q,v.model,(v.o||[]).join(' ')].join(' ');
+  let t=EX_ONDERWERPEN.filter(o=>exOndRe(o).test(kern));
+  if(!t.length) t=EX_ONDERWERPEN.filter(o=>exOndRe(o).test([v.titel,v.ctx].join(' ')));
+  return _exTagCache[v.id]=t;
+}
+const exPunten = v => v.t==='open'?(v.pnt||1):1;
+// aandeel van elk onderwerp in de examenpunten van dit niveau (som 1)
+const _exGew = {};
+function exGewicht(n=niv()){
+  if(_exGew[n]) return _exGew[n];
+  const g={}; let tot=0;
+  exVragen(n).forEach(v=>{ const t=exTags(v), p=exPunten(v); tot+=p; if(!t.length){ g._geen=(g._geen||0)+p; return } t.forEach(o=>g[o.id]=(g[o.id]||0)+p/t.length) });
+  for(const k in g) g[k]/=tot||1;
+  const ex=new Set(exVragen(n).map(v=>v.ex)).size, inEx={};
+  exVragen(n).forEach(v=>exTags(v).forEach(o=>(inEx[o.id]=inEx[o.id]||new Set()).add(v.ex)));
+  return _exGew[n]={g,ex,inEx};
+}
+// score van de leerling per onderwerp (op basis van examenvragen)
+function exOndScore(){
+  const s={};
+  exVragen().forEach(v=>{ const r=S.vr[v.id]; if(!r) return; const t=exTags(v); t.forEach(o=>{ const a=s[o.id]=s[o.id]||{g:0,f:0,n:0}; a.g+=r.g/t.length; a.f+=r.f/t.length; a.n++ }) });
+  return s;
+}
+const exFoutkans = a => a? (a.f+1)/(a.g+a.f+2) : 0.5;   // 0..1, onbekend = 0,5
+function exSprintGewicht(v,G,sc){
+  const t=exTags(v);
+  const ond = t.length ? t.reduce((s,o)=>s+(G.g[o.id]||0)*(0.4+1.6*exFoutkans(sc[o.id])),0)/t.length : (G.g._geen||0.02)*0.5;
+  const r=S.vr[v.id]; const eigen = !r ? 1 : (r.g>=r.f&&r.g>0 ? 0.25 : 2);
+  return ond*eigen;
+}
+function kiesGewogen(lijst,gew,n,mag){
+  const pool=lijst.map((v,i)=>({v,w:Math.max(gew[i],1e-6)})), uit=[];
+  while(uit.length<n&&pool.length){
+    const som=pool.reduce((s,x)=>s+x.w,0); let r=Math.random()*som, i=0;
+    while(i<pool.length-1&&(r-=pool[i].w)>0) i++;
+    const [x]=pool.splice(i,1); if(!mag||mag(x.v,uit)) uit.push(x.v);
+  }
+  return uit;
+}
+startSprint = function(){
+  if(!exVragen().length){ melding('Er zijn nog geen examenvragen'); return }
+  const G=exGewicht(), sc=exOndScore(), lijst=exVragen();
+  const gew=lijst.map(v=>exSprintGewicht(v,G,sc));
+  // spreiding: hoogstens 2 vragen uit dezelfde opgave en 4 met hetzelfde hoofdonderwerp
+  const v=kiesGewogen(lijst,gew,15,(x,uit)=>{ const opg=x.ex+'|'+x.titel, h=(exTags(x)[0]||{}).id;
+    return uit.filter(y=>y.ex+'|'+y.titel===opg).length<2 && (!h||uit.filter(y=>(exTags(y)[0]||{}).id===h).length<4) });
+  v.sort((a,b)=>a.ex<b.ex?-1:a.ex>b.ex?1:a.nr-b.nr);
+  exSet(v,'Examensprint',{modus:'sprint',eind:Date.now()+20*60*1000});
+  clearInterval(sprintTimer); sprintTimer=setInterval(()=>{ if(scherm!=='quiz'||Q.modus!=='sprint'){clearInterval(sprintTimer);return}
+    const s=Math.max(0,Math.round((Q.eind-Date.now())/1000)); const el=$('#klok'); if(el) el.textContent=`⏱️ ${Math.floor(s/60)}:${String(s%60).padStart(2,'0')}`;
+    if(s<=0){ clearInterval(sprintTimer); while(Q.res.length<Q.vragen.length){ Q.res.push(false) } klaar() } },1000);
+};
+
+// --- Scherm: examenanalyse (wat komt vaak terug, en hoe sta jij ervoor) ---
+SCHERMEN.exanalyse = function(){
+  const G=exGewicht(), sc=exOndScore();
+  const rijen=EX_ONDERWERPEN.map(o=>({o,g:G.g[o.id]||0,ex:(G.inEx[o.id]||new Set()).size,s:sc[o.id]})).sort((a,b)=>b.g-a.g);
+  const max=rijen[0]?rijen[0].g:1;
+  const doms=DOMEINEN.map(d=>{ const v=exVragen().filter(x=>x.d===d.id); const p=v.reduce((s,x)=>s+exPunten(x),0); return {d,p} }).filter(x=>x.p);
+  const tp=doms.reduce((s,x)=>s+x.p,0);
+  const rij=r=>{ const pct=Math.round(r.g*100), sc=r.s&&(r.s.g+r.s.f)>=1?Math.round(r.s.g/(r.s.g+r.s.f)*100):null;
+    return `<div style="margin:0 0 12px"><div style="display:flex;justify-content:space-between;gap:8px"><b style="font-size:15px">${esc(r.o.t)}</b><span class="zacht" style="font-size:14px;white-space:nowrap">${pct}% · ${r.ex}/${G.ex}</span></div>
+     <div class="balk" style="margin-top:4px"><i style="width:${Math.round(r.g/max*100)}%"></i></div>
+     <small class="zacht">${sc===null?'Nog niet geoefend':`Jij: ${sc}% goed`}${sc!==null&&sc<60?' · krijgt extra aandacht in de sprint':''}</small></div>` };
+  return `<div class="wrap">${kop('Wat komt vaak terug?',"go('examen')")}
+   <div class="kaart" style="margin-bottom:14px"><p style="margin:0">Analyse van alle ${G.ex} centrale examens ${NIVEAUS[niv()]} van 2018 tot en met 2026. Per onderwerp zie je welk deel van de examenpunten erover ging en in hoeveel examens het voorkwam. De examensprint kiest vaker vragen over onderwerpen die vaak terugkomen, en nog vaker over onderwerpen waar jij fouten maakt.</p>
+   <div class="voet" style="justify-content:flex-start"><button class="knop" onclick="startSprint()">⚡ Start examensprint</button></div></div>
+   <div class="kaart" style="margin-bottom:14px"><h3 style="margin:0 0 10px">Per onderwerp</h3>${rijen.map(rij).join('')}</div>
+   <div class="kaart"><h3 style="margin:0 0 10px">Per domein</h3>${doms.sort((a,b)=>b.p-a.p).map(x=>`<div style="margin:0 0 10px"><div style="display:flex;justify-content:space-between"><b style="font-size:15px">${x.d.icoon} ${esc(x.d.naam)}</b><span class="zacht" style="font-size:14px">${Math.round(x.p/tp*100)}%</span></div><div class="balk" style="margin-top:4px"><i style="width:${Math.round(x.p/doms[0].p*100)}%;background:${x.d.kleur}"></i></div></div>`).join('')}</div></div>`;
+};
+// ingang in de eindexamentrainer, naast de kaart Begrippencombinaties
+const _spExamenScherm = SCHERMEN.examen;
+SCHERMEN.examen = function(){
+  const html=_spExamenScherm.apply(this,arguments);
+  if(!exVragen().length||typeof EX_ONDERWERPEN==='undefined') return html;
+  const kaart=`<button class="lv kaart" style="margin-bottom:14px;width:100%" onclick="go('exanalyse')"><span class="med">📊</span><span style="flex:1;text-align:left"><b>Wat komt vaak terug?</b><small>Analyse van alle examens 2018-2026 en jouw score per onderwerp. De examensprint oefent vooral de onderwerpen die vaak terugkomen en waar jij nog fouten maakt.</small></span><span class="zacht">›</span></button>`;
+  const i=html.indexOf('<div class="voet"'); return i>0?html.slice(0,i)+kaart+html.slice(i):html;
+};
+
 // ===== Docentendashboard =====
 // Haalt alle leerlingen op via de server (actie 'overzicht') en toont ze in tabbladen.
 // Werkt ook met een oudere server: velden die ontbreken worden overgeslagen.

@@ -4,6 +4,10 @@ r=lambda f:open(os.path.join(d,f),encoding='utf-8').read()
 # Volgorde is belangrijk: eerst de basis, dan de domeinen A t/m J, dan de examens en de app zelf.
 domeinen=['data-%s.js'%x for x in 'ABCDEFGHIJ']
 js_files=['data-basis.js']+domeinen+['data-examen.js','data-hoofdstukken.js','data-bibliotheek.js','core.js','ui.js','examen.js','docent.js','extra.js']
+# Begrippencombinaties (data + markering/oefenen) na de examentrainer
+js_files.insert(js_files.index('examen.js')+1,'data-combinaties.js'); js_files.insert(js_files.index('data-combinaties.js')+1,'combinaties.js')
+# Examenanalyse en adaptieve examensprint
+js_files.insert(js_files.index('combinaties.js')+1,'data-onderwerpen.js'); js_files.insert(js_files.index('data-onderwerpen.js')+1,'sprint.js')
 js='\n'.join(r(f) for f in js_files if os.path.exists(os.path.join(d,f)))
 out=r('shell.html').replace('/*CSS*/',r('app.css')).replace('/*JS*/',js)
 url=os.environ.get('ENDPOINT','')
