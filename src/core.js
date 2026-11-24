@@ -1,6 +1,6 @@
 // ===== Instellingen =====
 // URL van het Apps Script (web-app, eindigt op /exec). Leeg = alleen opslag op dit apparaat (testmodus).
-const DATA_ENDPOINT_URL = "";
+const DATA_ENDPOINT_URL = "https://script.google.com/macros/s/AKfycbwV3G5c62GrNdCaRJ1mYkD1U4AVyC-K48KHPt3GDfSP5Ib6zwaP4p4VNVuECXmM9faPzA/exec";
 const KLASSEN = ['H4','H5','V4','V5','V6'];  // klassen waaruit leerlingen kiezen (eerste letter H = havo, V = vwo)
 const KEY = 'ecohv-v1';                  // opslagsleutel op het apparaat
 const VERSIE = '0.1';
