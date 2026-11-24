@@ -1,0 +1,155 @@
+# HOOFDSTUK h 13 | Inkomensverdeling
+domein: H
+hoofdvraag: Hoe ontstaan inkomensverschillen en hoe vindt herverdeling van inkomen plaats?
+
+## § 13.1 | Inkomensbronnen en verschillen
+onderwerp: H.verdeling
+deelvraag: Welke inkomensbronnen zijn er en waarom bestaan er inkomensverschillen?
+leerdoelen: ECO-ALGEM-08
+### UITLEG Inkomensbronnen
+Primair inkomen ontvang je voor het ter beschikking stellen van productiefactoren:
+- Arbeidsinkomen: loon, salaris, honorarium, courtage en ondernemersloon.
+- Vermogensinkomen: winst, rente, huur, pacht en dividend.
+Overdrachtsinkomen krijg je zonder directe tegenprestatie: uitkeringen van volksverzekeringen (AOW, Anw, kinderbijslag), werknemersverzekeringen (WW, WIA) en sociale voorzieningen (bijstand, Wajong), en toeslagen (zorgtoeslag, huurtoeslag, kinderopvangtoeslag, kindgebonden budget).
+### UITLEG Primair, secundair en tertiair
+- Primair inkomen + overdrachtsinkomen = totaal bruto inkomen.
+- Bruto inkomen − directe belastingen en premies = secundair (besteedbaar) inkomen.
+- Secundair inkomen − indirecte belastingen (btw, accijns) + profijt van gesubsidieerde voorzieningen = tertiair inkomen.
+### UITLEG Oorzaken en gevolgen van verschillen
+Oorzaken van inkomensverschillen: opleiding, verantwoordelijkheid, productiviteit en prestaties, leeftijd en ervaring, risico en zwaarte van het werk, talent, vermogensbezit, schaarste op de arbeidsmarkt, wel of geen baan of uitkering, en discriminatie.
+Gevolgen: persoonlijk (kansen, gezondheid, wonen), maatschappelijk (spanningen tussen arm en rijk) en structureel (productie verhuist naar lagelonenlanden, arbeidsmigratie).
+Vermogensverschillen ontstaan door erfenissen en schenkingen, doordat hogere inkomens meer kunnen sparen en beleggen, en door eigenwoningbezit: kopers profiteren van waardestijging, huurders niet.
+### BEGRIPPEN
+Primair inkomen = Bruto inkomen uit het ter beschikking stellen van productiefactoren, vóór ingrijpen van de overheid.
+Arbeidsinkomen = Beloning voor arbeid, zoals loon, salaris en honorarium.
+Vermogensinkomen = Beloning voor kapitaal en natuur, zoals rente, huur, pacht en dividend.
+Overdrachtsinkomen = Inkomen zonder directe tegenprestatie, zoals uitkeringen en toeslagen.
+Secundair inkomen = Primair inkomen plus overdrachtsinkomen min directe belastingen en premies (besteedbaar inkomen).
+Tertiair inkomen = Secundair inkomen min indirecte belastingen plus het profijt van gesubsidieerde voorzieningen.
+### MC
+Een huishouden heeft een primair inkomen van € 40.000, ontvangt € 3.000 aan toeslagen en betaalt € 12.000 aan directe belastingen en premies. Hoe hoog is het secundair inkomen?
+* € 31.000
+- € 25.000
+- € 28.000
+- € 55.000
+> 40.000 + 3.000 − 12.000 = 31.000.
+### MC
+Welk inkomen is een vermogensinkomen?
+* Huur die je ontvangt voor een appartement
+- Het salaris van een docent
+- Het honorarium van een tandarts
+- Een WW-uitkering
+> Huur is de beloning voor het ter beschikking stellen van kapitaal.
+### MC
+Welke ontvangst is een overdrachtsinkomen?
+* Kinderbijslag
+- Dividend
+- Pacht
+- Ondernemersloon
+> Tegenover kinderbijslag staat geen productieve tegenprestatie.
+### MC
+Waarom vergroot eigenwoningbezit de vermogensverschillen?
+* Huiseigenaren profiteren van de waardestijging van hun huis, huurders niet
+- Huurders betalen meer belasting
+- Huiseigenaren krijgen huurtoeslag
+- Huurders mogen niet sparen
+> Bij stijgende huizenprijzen groeit het vermogen van eigenaren via overwaarde.
+
+## § 13.2 | De Lorenzkromme
+onderwerp: H.verdeling
+deelvraag: Hoe worden inkomensverschillen gemeten?
+leerdoelen: ECO-ALGEM-08
+### UITLEG Lorenzkromme
+De Lorenzkromme laat de personele inkomens- of vermogensverdeling zien.
+- Horizontaal: het cumulatieve percentage huishoudens, van laag naar hoog inkomen.
+- Verticaal: het cumulatieve percentage van het totale inkomen.
+- De diagonaal is volkomen gelijke verdeling. Hoe verder de kromme doorbuigt, hoe ongelijker.
+In ontwikkelingslanden ligt de kromme veel verder van de diagonaal dan in Nederland. In Nederland ligt de secundaire verdeling dichter bij de diagonaal dan de primaire, door belastingen en uitkeringen. Vermogen is veel ongelijker verdeeld dan inkomen.
+### UITLEG Gini-coëfficiënt
+Gini = A / (A + B). A is het oppervlak tussen de diagonaal en de kromme, B het oppervlak onder de kromme.
+0 betekent volkomen gelijk, 1 volkomen ongelijk.
+### BEGRIPPEN
+Lorenzkromme = Grafiek met het cumulatieve percentage huishoudens tegen het cumulatieve percentage inkomen.
+Gini-coëfficiënt = Getal tussen 0 en 1 dat aangeeft hoe ongelijk de verdeling is.
+Personele inkomensverdeling = De verdeling van het inkomen over personen of huishoudens.
+Categorale inkomensverdeling = De verdeling van het inkomen over de productiefactoren.
+### MC
+De armste 20% van de huishoudens ontvangt 8% van het inkomen. Welk punt ligt op de Lorenzkromme?
+* Horizontaal 20%, verticaal 8%
+- Horizontaal 8%, verticaal 20%
+- Horizontaal 80%, verticaal 92%
+- Horizontaal 20%, verticaal 20%
+> Horizontaal staan de huishoudens, verticaal het inkomen.
+### MC
+Oppervlak A is 0,12 en oppervlak B is 0,38. Wat is de Gini-coëfficiënt?
+* 0,24
+- 0,32
+- 0,12
+- 0,50
+> 0,12 / (0,12 + 0,38) = 0,12 / 0,50 = 0,24.
+### MC
+Waarom ligt in Nederland de Lorenzkromme van het secundaire inkomen dichter bij de diagonaal dan die van het primaire inkomen?
+* Door herverdeling via progressieve belastingen en uitkeringen
+- Omdat de lonen hoger zijn
+- Door de btw
+- Omdat vermogen ongelijker is verdeeld
+> Belastingen en uitkeringen verkleinen de verschillen in besteedbaar inkomen.
+### MC
+Land X heeft een Gini van 0,25 en land Y een Gini van 0,55. Wat kun je zeggen?
+* In land Y is het inkomen ongelijker verdeeld
+- In land X is het inkomen ongelijker verdeeld
+- Land Y is rijker dan land X
+- In land X is het gemiddelde inkomen hoger
+> Een hogere Gini betekent meer ongelijkheid. Het zegt niets over het niveau van het inkomen.
+
+## § 13.3 | Nivellering en overheidsbeleid
+onderwerp: H.belasting
+deelvraag: Worden inkomensverschillen door overheidsbeleid groter of kleiner?
+leerdoelen: ECO-ALGEM-09, ECO-ALGEM-11, ECO-BELAS-01
+gens: procVerandering
+### UITLEG Nivellering en denivellering
+Nivellering: de relatieve inkomensverschillen worden kleiner. De Lorenzkromme schuift naar de diagonaal en de Gini daalt.
+Denivellering: de relatieve verschillen worden groter en de Gini stijgt.
+Let op: stijgen alle inkomens met hetzelfde percentage, dan blijven de verhoudingen gelijk. Krijgt iedereen hetzelfde bedrag erbij, dan stijgt het laagste inkomen procentueel het meest: nivellering.
+### UITLEG Overheidsingrepen
+- Primair: minimumloon en minimumjeugdloon, normering van topinkomens (Balkenendenorm), gelijke behandeling en gesubsidieerd onderwijs.
+- Secundair: progressieve belasting en uitkeringen en toeslagen werken sterk nivellerend. Sociale premies werken vaak licht denivellerend, omdat boven een maximuminkomen geen premie meer wordt geheven.
+- Tertiair: indirecte belastingen werken licht denivellerend, want lage inkomens geven een groter deel van hun inkomen uit. Subsidies op bijvoorbeeld openbaar vervoer, cultuur en sport en kortingen zoals een studentenreisproduct beïnvloeden ook het tertiair inkomen.
+Een basisinkomen is een vast bedrag voor iedere volwassene in plaats van uitkeringen en toeslagen. Voordelen: eenvoudig en geen armoedeval. Nadelen: heel duur en mogelijk minder prikkel om te werken.
+Ook buiten de overheid wordt herverdeeld: binnen gezinnen, via alimentatie, schenkingen, erfenissen en giften, en over je eigen levensloop via sparen, verzekeren en pensioen.
+### BEGRIPPEN
+Nivellering = Het kleiner worden van de relatieve inkomensverschillen.
+Denivellering = Het groter worden van de relatieve inkomensverschillen.
+Progressief belastingtarief = Tarief waarbij het belastingpercentage stijgt als het inkomen stijgt.
+Proportioneel tarief = Tarief waarbij voor iedereen hetzelfde percentage geldt (vlaktaks).
+Degressief belastingtarief = Tarief waarbij het belastingpercentage daalt als het inkomen stijgt.
+Basisinkomen = Een vast maandbedrag van de overheid voor iedere volwassene, zonder voorwaarden.
+Armoedeval = Situatie waarin meer verdienen weinig oplevert doordat uitkeringen en toeslagen wegvallen.
+### MC
+Iedereen krijgt er € 100 per maand bij. Ilse verdient € 2.000 en Kees € 5.000 per maand. Wat is het effect op de verdeling?
+* Nivellering, want Ilse gaat er procentueel meer op vooruit
+- Denivellering, want Kees verdient meer
+- Geen effect, want iedereen krijgt hetzelfde bedrag
+- Denivellering, want de Gini stijgt
+> Ilse +5%, Kees +2%. De relatieve verschillen worden kleiner.
+### MC
+Alle lonen stijgen met 3%. Wat gebeurt er met de inkomensverdeling?
+* Die blijft gelijk
+- Er is nivellering
+- Er is denivellering
+- De Gini-coëfficiënt daalt
+> Bij een gelijke procentuele stijging blijven de verhoudingen hetzelfde.
+### MC
+Welke maatregel beïnvloedt de tertiaire inkomensverdeling?
+* Een verhoging van de btw
+- Een verhoging van het minimumloon
+- Een hogere zorgtoeslag
+- Een hoger tarief in de inkomstenbelasting
+> Indirecte belastingen en subsidies op producten tellen pas mee in het tertiair inkomen.
+### MC
+Waarom werken sociale premies vaak licht denivellerend?
+* Boven een maximuminkomen wordt geen premie meer geheven
+- Alleen hoge inkomens betalen premie
+- De premie stijgt met het inkomen
+- Premies worden betaald uit de btw
+> Wie boven de grens verdient, betaalt procentueel minder premie over zijn totale inkomen.
