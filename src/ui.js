@@ -211,7 +211,8 @@ docent(){
 };
 
 // ===== Account =====
-let accountBezig=false;
+let accountBezig=false, WEES=null;   // WEES = voortgang op dit apparaat zonder speler-ID
+function neemWeesMee(){ if(!WEES) return; const k={id:S.id,code:S.code,naam:S.naam,klas:S.klas}; S=Object.assign(mergeStaat(S,WEES),k); WEES=null }
 async function nieuwAccount(){
   if(accountBezig) return;                       // nog een tik terwijl de server bezig is: negeren
   const naam=$('#wNaam').value.trim().replace(/\s+/g,' '), klas=$('#wKlas').value;
@@ -222,7 +223,7 @@ async function nieuwAccount(){
     try{
       const j=await api('nieuw',{naam,klas});
       if(!j.id||!j.code) throw new Error('de server gaf geen speler-ID terug');
-      st.id=String(j.id); st.code=String(j.code); S=st; bewaar(false);
+      st.id=String(j.id); st.code=String(j.code); S=st; neemWeesMee(); bewaar(false);
       await sync(); S.id=S.id||st.id; S.code=S.code||st.code;   // id en code nooit kwijtraken door de sync
       go('code');
     }catch(e){ S=null; melding('Het account is niet gemaakt. Probeer het opnieuw. ('+e.message+')',5000); if(knop){ knop.disabled=false; knop.textContent='Account maken' } }
@@ -232,7 +233,7 @@ async function nieuwAccount(){
 async function herstelAccount(){
   const id=$('#hId').value.trim().toUpperCase(), code=$('#hCode').value.trim();
   if(!id||!/^\d{6}$/.test(code)){ melding('Vul je speler-ID en de 6 cijfers in'); return }
-  try{ const j=await api('herstel',{id,code}); S=Object.assign(nieuweStaat(),j.staat); S.id=id; S.code=code; bewaar(false); zetThema(); melding('Welkom terug, je voortgang is hersteld!'); go('home') }
+  try{ const j=await api('herstel',{id,code}); S=Object.assign(nieuweStaat(),j.staat); S.id=id; S.code=code; neemWeesMee(); bewaar(false); zetThema(); melding('Welkom terug, je voortgang is hersteld!'); go('home') }
   catch(e){ melding(e.message,4000) }
 }
 function exportBestand(){
@@ -453,5 +454,7 @@ function toonDocent(j){ D=j; tekenDocent() }
 function start(){
   laad(); zetThema();
   toonSyncStatus=()=>{ const el=$('#syncStat'); if(el&&scherm==='account') go('account') };
-  if(!S||!S.naam) go('welkom'); else { go('home'); if(serverModus()) sync(); }
+  if(serverModus()&&S&&S.naam&&!S.id){ WEES=S; S=null }   // account zonder speler-ID (mislukt aanmaken): opnieuw koppelen
+  if(!S||!S.naam){ go('welkom'); if(WEES) melding('Je account is niet goed aangemaakt. Vul hieronder je speler-ID en herstelcode in (je docent kan ze opzoeken) of maak opnieuw een account. Je voortgang op deze iPad blijft bewaard.',9000) }
+  else { go('home'); if(serverModus()) sync(); }
 }
