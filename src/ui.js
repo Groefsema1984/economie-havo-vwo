@@ -22,7 +22,7 @@ function nav(){
   m.innerHTML=items.map(([s,t])=>`<button class="${actief===s?'aan':''}" onclick="go('${s}')">${t}</button>`).join('');
   p.innerHTML=`<button class="profiel" onclick="go('account')"><span class="avatar">${esc(initialen(S.naam))}</span><span>${esc(S.naam)}</span></button>`+(exOpen?`<button class="ikoonknop" onclick="startSprint()">⚡<span class="t">Sprint</span></button>`:'');
 }
-function kop(titel,terug){ return `<div class="foto paginakop" style="${foto(scherm,1400)}"><div class="bovenin">${terug?`<button class="terug" onclick="${terug}">‹ Terug</button>`:''}<span class="chip">🪙 ${munten()}</span><span class="chip">⭐ ${S.xp}</span><span class="chip">⏱️ ${minuten(S.tijd)} min</span></div><span class="eyebrow" style="color:var(--acc)">${esc(vakLabel())}</span><h1>${titel}</h1></div>` }
+function kop(titel,terug){ return `<div class="foto paginakop" style="${foto(scherm,1400)}"><div class="bovenin">${terug?`<button class="terug" onclick="${terug}">‹ Terug</button>`:''}${S?`<span class="chip">🪙 ${munten()}</span><span class="chip">⭐ ${S.xp}</span><span class="chip">⏱️ ${minuten(S.tijd)} min</span>`:''}</div><span class="eyebrow" style="color:var(--acc)">${esc(vakLabel())}</span><h1>${titel}</h1></div>` }
 
 // --- voortgang per wereld ---
 function wereldStand(w){
@@ -454,7 +454,7 @@ function toonDocent(j){ D=j; tekenDocent() }
 function start(){
   laad(); zetThema();
   toonSyncStatus=()=>{ const el=$('#syncStat'); if(el&&scherm==='account') go('account') };
-  if(serverModus()&&S&&S.naam&&!S.id){ WEES=S; S=null }   // account zonder speler-ID (mislukt aanmaken): opnieuw koppelen
+  if(serverModus()&&S&&S.naam&&!S.id&&!S.demo){ WEES=S; S=null }   // account zonder speler-ID (mislukt aanmaken): opnieuw koppelen
   if(!S||!S.naam){ go('welkom'); if(WEES) melding('Je account is niet goed aangemaakt. Vul hieronder je speler-ID en herstelcode in (je docent kan ze opzoeken) of maak opnieuw een account. Je voortgang op deze iPad blijft bewaard.',9000) }
   else { go('home'); if(serverModus()) sync(); }
 }

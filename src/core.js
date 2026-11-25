@@ -112,7 +112,7 @@ function bewaar(sync=true){
   try{ const oud=localStorage.getItem(KEY); if(oud) localStorage.setItem(KEY+'-reserve',oud); localStorage.setItem(KEY,JSON.stringify(S)); }catch(e){}
   if(sync){ vuil=true; planSync(); }
 }
-const munten = ()=>Math.max(0,(S.mVerd||0)-(S.mUit||0));
+const munten = ()=>S?Math.max(0,(S.mVerd||0)-(S.mUit||0)):0;
 
 // ===== Server (Apps Script) =====
 const serverModus = ()=>!!DATA_ENDPOINT_URL;
