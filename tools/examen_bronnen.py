@@ -9,8 +9,8 @@ Uitvoer:
 
 Per vraag:
   - met bronnenboekje: de pagina's van die opgave uit de bijlage, plus de pagina van de vraag zelf;
-  - zonder bronnenboekje (vwo, havo 2026): de pagina's van het opgavenboekje vanaf het begin van de opgave
-    tot en met de pagina van de vraag (daar staan de figuren en tabellen);
+  - zonder bronnenboekje (vwo, havo 2026): alle pagina's van die opgave in het opgavenboekje
+    (daar staan de figuren en tabellen, soms ook na de vraag);
   - de pagina van de uitwerkbijlage als de vraag daarin staat.
 Gebruik: python3 tools/examen_bronnen.py  (daarna python3 src/build.py)
 """
@@ -63,9 +63,9 @@ def main():
                 if m:
                     nr = int(m.group(1)); vraag_pag.setdefault(nr, i + 1)
                     vraag_opg.setdefault(nr, opg if opg is not None else (oop[i][-1] if oop[i] else None))
-        start = {}
+        start, eind = {}, {}
         for i, lijst in enumerate(oop):
-            for g in lijst: start.setdefault(g, i + 1)
+            for g in lijst: start.setdefault(g, i + 1); eind[g] = i + 1
         bpag = {}
         if os.path.exists(b):
             for i, lijst in enumerate(opgave_per_pagina(paginas(b))):
@@ -84,8 +84,8 @@ def main():
             if bpag.get(g):
                 lijst += [f'{c}-b-{x}' for x in bpag[g]] + [f'{c}-o-{p}']
             else:
-                van = start.get(g, p)
-                lijst += [f'{c}-o-{x}' for x in range(min(van, p), p + 1)]
+                van, tot = start.get(g, p), eind.get(g, p)
+                lijst += [f'{c}-o-{x}' for x in range(min(van, p), max(tot, p) + 1)]
             if nr in upag: lijst.append(f'{c}-u-{upag[nr]}')
             per[nr] = lijst; nodig.update(lijst)
         alles[c] = per
