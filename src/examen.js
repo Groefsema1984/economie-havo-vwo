@@ -12,16 +12,17 @@ function bronLabel(s){ const m=s.match(/-(\w)-(\d+)$/); if(!m) return '📄 Exam
 const exNaam = c => { const m=/^([hv])(\d\d)-(\d)$/.exec(c)||[]; return `${NIVEAUS[m[1]]||''} ${2000+ +m[2]} tijdvak ${m[3]}` };
 function exLijst(n){ const m={}; exVragen(n).forEach(v=>{ (m[v.ex]=m[v.ex]||[]).push(v) }); return Object.keys(m).sort().reverse().map(c=>({c,v:m[c]})) }
 const beheerst = v => { const r=S.vr[v.id]; return r && r.g>0 && (r.t? true:true) && r.g>=r.f };
-let exTab='jaar';
+let exTab='top';
 
 SCHERMEN.examen = function(){
   const tot=exVragen().length, ok=exVragen().filter(beheerst).length;
   if(!tot) return `<div class="wrap">${kop('Eindexamentrainer',"go('home')")}<div class="kaart"><p style="margin:0">Er staan nog geen examenvragen voor ${NIVEAUS[niv()]} klaar. Ze komen hier zodra ze zijn toegevoegd.</p></div></div>`;
-  const tabs=[['jaar','Per examen'],['domein','Per domein'],['tijd','Op tijd maken'],['print','Printen']].map(([k,t])=>`<button class="knop ${exTab===k?'':'zacht'}" onclick="exTab='${k}';go('examen')">${t}</button>`).join('');
+  const tabs=[['top','🔥 Toponderwerpen'],['jaar','Per examen'],['domein','Per domein'],['tijd','Op tijd maken'],['print','Printen']].map(([k,t])=>`<button class="knop ${exTab===k?'':'zacht'}" onclick="exTab='${k}';go('examen')">${t}</button>`).join('');
   let inhoud='';
   if(exTab==='jaar') inhoud=`<div class="kaart">${exLijst().map(({c,v})=>{const b=v.filter(beheerst).length; return `<button class="lv" onclick="startExamen('${c}')"><span class="med">${b===v.length?'🏆':'📄'}</span><span style="flex:1"><b>Examen ${exNaam(c)}</b><small>${v.length} vragen · ${b} beheerst</small><div class="balk" style="margin-top:6px"><i style="width:${Math.round(b/v.length*100)}%"></i></div></span><span class="zacht">›</span></button>`}).join('')}</div>`;
   else if(exTab==='domein') inhoud=`<div class="kaart">${exDomeinen().map(d=>{const v=exVragen().filter(x=>x.d===d.id); const b=v.filter(beheerst).length; return `<button class="lv" onclick="startExDomein('${d.id}')"><span class="med">${d.icoon}</span><span style="flex:1"><b>${d.naam}</b><small>${v.length} vragen · ${b} beheerst · 10 per ronde, je zwakke vragen eerst</small><div class="balk" style="margin-top:6px"><i style="width:${Math.round(b/v.length*100)}%;background:${d.kleur}"></i></div></span><span class="zacht">›</span></button>`}).join('')}
      <button class="lv" onclick="startExMix()"><span class="med">🎲</span><span style="flex:1"><b>Alles door elkaar</b><small>10 willekeurige examenvragen</small></span><span class="zacht">›</span></button></div>`;
+  else if(exTab==='top') inhoud=exTopLijst();
   else if(exTab==='tijd') inhoud=exTijdLijst();
   else inhoud=`<div class="kaart"><p style="margin-top:0">Kies wat je wilt printen. Je krijgt de vragen met de examenpagina's en bronnen, een antwoordblad en een antwoordenlijst voor de docent.</p>
      <label class="label">Examen</label><select id="prSel"><option value="">Alle examens per domein…</option>${exLijst().map(({c,v})=>`<option value="${c}">Examen ${exNaam(c)} (${v.length} vragen)</option>`).join('')}</select>
@@ -33,6 +34,34 @@ SCHERMEN.examen = function(){
    <p class="zacht" style="margin:8px 0 0;font-size:14px">Vragen uit de centrale examens economie ${NIVEAUS[niv()]}. Bij open vragen kijk je zelf na met het antwoordmodel. Een vraag is beheerst als je hem vaker goed dan fout hebt. Sprintrecord: ${(S.sprint||{}).best||0} van 15.</p></div>
    <div class="voet" style="justify-content:flex-start;margin-bottom:12px">${tabs}<button class="knop zacht" onclick="startSprint()">⚡ Examensprint</button></div>${inhoud}</div>`;
 };
+
+// Toponderwerpen: welke onderwerpen leveren de meeste examenpunten op in de centrale examens van het eigen niveau
+function exOnderwerpen(v){
+  if(v.top) return v.top; if(typeof TOP_ONDERWERPEN==='undefined') return (v.top=[]);
+  if(!TOP_ONDERWERPEN[0].re) TOP_ONDERWERPEN.forEach(o=>{ o.re=new RegExp(o.zoek,'gi') });
+  const tel=t=>TOP_ONDERWERPEN.map(o=>({id:o.id,n:(String(t).match(o.re)||[]).length})).filter(x=>x.n).sort((a,b)=>b.n-a.n).slice(0,2).map(x=>x.id);
+  let top=tel((v.q||'')+' '+(v.o||[]).join(' ')+' '+(v.model||'')); if(!top.length) top=tel((v.titel||'')+' '+(v.ctx||''));
+  return (v.top=top);
+}
+function exTop(){
+  if(typeof TOP_ONDERWERPEN==='undefined') return [];
+  const vs=exVragen(), examens=new Set(vs.map(v=>v.ex)).size, totP=vs.reduce((a,v)=>a+(v.pnt||1),0);
+  return TOP_ONDERWERPEN.map(o=>{ const v=vs.filter(x=>exOnderwerpen(x).includes(o.id)); const ex=new Set(v.map(x=>x.ex)).size;
+      const p=v.reduce((a,x)=>a+(x.pnt||1)/(x.top.length||1),0); const recent=new Set(v.filter(x=>x.jaar>=2024).map(x=>x.ex)).size;
+      return Object.assign({},o,{v,ex,examens,p,pct:Math.round(p/totP*1000)/10,recent,b:v.filter(beheerst).length}) })
+    .filter(o=>o.v.length).sort((a,b)=>b.p-a.p);
+}
+function exTopLijst(){
+  const top=exTop(); if(!top.length) return '<div class="kaart"><p>Nog geen onderwerpen.</p></div>';
+  const alle=exVragen(), nRecent=new Set(alle.filter(v=>v.jaar>=2024).map(v=>v.ex)).size, jaren=alle.map(v=>v.jaar);
+  return `<div class="kaart"><p style="margin-top:0;font-size:14px" class="zacht">Alle ${top[0].examens} centrale examens economie ${NIVEAUS[niv()]} van ${Math.min(...jaren)} tot en met ${Math.max(...jaren)} zijn per vraag ingedeeld in onderwerpen. Bovenaan staat wat de meeste punten oplevert. Train de bovenste onderwerpen eerst: dat zijn de punten die elk jaar terugkomen.</p>
+   <button class="lv" onclick="startExTopMix()"><span class="med">🎯</span><span style="flex:1"><b>Mix van de top 5</b><small>10 vragen uit de vijf onderwerpen met de meeste punten, je zwakke vragen eerst</small></span><span class="zacht">›</span></button>
+   ${top.map((o,i)=>{ const d=DOMEINEN.find(x=>x.id===o.d)||{}; const theorie=typeof WERELDEN!=='undefined'&&WERELDEN.some(w=>w.id===o.d);
+     return `<div class="lv" style="cursor:default"><span class="med" style="font-size:15px;font-weight:700">${i+1}</span><span style="flex:1"><b>${esc(o.t)}</b><small>${o.pct}% van de punten · in ${o.ex} van ${o.examens} examens${nRecent?` (${o.recent} van de ${nRecent} sinds 2024)`:''} · ${o.v.length} vragen · ${o.b} beheerst</small><div class="balk" style="margin-top:6px"><i style="width:${Math.round(o.b/o.v.length*100)}%;background:${d.kleur||''}"></i></div>
+       <span style="display:flex;gap:8px;margin-top:8px;flex-wrap:wrap"><button class="knop" style="min-height:36px;padding:4px 12px;font-size:14px" onclick="startExOnderwerp('${o.id}')">Oefen examenvragen</button>${theorie?`<button class="knop zacht" style="min-height:36px;padding:4px 12px;font-size:14px" onclick="go('wereld','${o.d}')">📖 Theorie: ${esc(d.naam||o.d)}</button>`:''}</span></span></div>` }).join('')}</div>`;
+}
+function startExOnderwerp(id){ const o=exTop().find(x=>x.id===id); if(!o) return; exSet(zwakFirst(o.v).slice(0,10),'Examen · '+o.t) }
+function startExTopMix(){ const v=[...new Set(exTop().slice(0,5).flatMap(o=>o.v))]; exSet(zwakFirst(v).slice(0,10),'Examen · top 5 onderwerpen') }
 
 function exSet(v,titel,extra){ Q=Object.assign({modus:'examen',titel,kleur:'#1f2430',vragen:v,i:0,res:[],terug:"go('examen')"},extra||{}); go('quiz') }
 function startExamen(c){ exSet(exVragen().filter(v=>v.ex===c).sort((a,b)=>a.nr-b.nr),'Examen '+exNaam(c)) }
