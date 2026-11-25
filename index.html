@@ -61949,7 +61949,8 @@ function tekenDocent(){
     <button class="knop zacht" style="min-height:44px;padding:8px 14px" onclick="dVernieuw()">↻ Vernieuwen</button>
     <button class="knop zacht" style="min-height:44px;padding:8px 14px" onclick="dCsv()">CSV</button>
     <button class="knop zacht" style="min-height:44px;padding:8px 14px" onclick="window.print()">Afdrukken</button>
-    <button class="knop zacht" style="min-height:44px;padding:8px 14px" onclick="dUitloggen()">Uitloggen</button></div>`;
+    <button class="knop zacht" style="min-height:44px;padding:8px 14px" onclick="dUitloggen()">Uitloggen</button>
+    ${typeof startDemo==='function'?`<select style="max-width:230px;min-height:44px;font-weight:700" onchange="if(this.value)startDemo(this.value)"><option value="">👁 Bekijk als leerling…</option>${KLASSEN.map(k=>`<option value="${k}">${esc(klasLabel(k))}</option>`).join('')}</select>`:''}</div>`;
   let inhoud;
   if(dSel){ const s=D.spelers.find(x=>x.id===dSel); inhoud=s?dLeerling(s):'' }
   else inhoud = {overzicht:dOverzicht,klas:dKlassikaal,leerlingen:dLeerlingen,vragen:dVragen,eindtermen:dEindtermen,examen:dExamen}[dTab](sp);
