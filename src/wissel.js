@@ -19,9 +19,11 @@ function stopDemo(){
 }
 
 let uitlogStap=false;
+// oud lokaal account (van voor de server), of een account dat de server niet kent: voortgang kan niet naar de server, dus niet op de sync wachten
+const geenServerAccount = () => !S||!S.id||!S.code||/^LOKAAL-/i.test(S.id);
 async function uitloggen(){
   if(!uitlogStap){ uitlogStap=true; go('account'); return }
-  if(serverModus()&&S&&S.id){ await sync(); if(syncStatus!=='ok'){ melding('Je voortgang is nog niet opgeslagen op de server. Zorg voor internet en probeer het opnieuw.',5000); return } }
+  if(serverModus()&&S&&!geenServerAccount()){ await sync(); if(syncStatus!=='ok'&&!/Onbekend speler-ID/i.test(syncFout||'')){ melding('Je voortgang is nog niet opgeslagen op de server. Zorg voor internet en probeer het opnieuw.',5000); return } }
   uitlogStap=false; S=null; lsWeg(KEY); lsWeg(KEY+'-reserve'); lsWeg(KEY_EIGEN); go('welkom'); melding('Je bent uitgelogd.');
 }
 
@@ -46,7 +48,7 @@ SCHERMEN.account = function(){
     <p class="zacht" style="margin-bottom:6px">Wissel van klas</p><div class="voet" style="justify-content:flex-start;gap:8px;flex-wrap:wrap;margin:0">${klasKnoppen(kijkKlas(),'wisselDocKlas')}</div></div>$1`);
   const blok = uitlogStap
     ? `<div class="kaart" style="border:2px solid var(--fout)"><h3 style="margin-top:0">Weet je het zeker?</h3>
-       <p>Schrijf eerst je gegevens op. Zonder speler-ID en herstelcode kun je je voortgang niet terughalen.</p>
+       ${geenServerAccount()||/Onbekend speler-ID/i.test(syncFout||'')?'<p>Dit account staat niet op de server. Na het uitloggen is de voortgang op dit apparaat weg en kun je die niet terughalen.</p>':'<p>Schrijf eerst je gegevens op. Zonder speler-ID en herstelcode kun je je voortgang niet terughalen.</p>'}
        <p style="font-size:18px">Speler-ID <b>${esc(S.id||'–')}</b> · Herstelcode <b>${esc(S.code||'–')}</b></p>
        <div class="voet" style="justify-content:flex-start;gap:8px"><button class="knop" style="background:var(--fout)" onclick="uitloggen()">Ja, uitloggen</button><button class="knop zacht" onclick="uitlogStap=false;go('account')">Annuleer</button></div></div>`
     : `<div class="kaart"><p class="zacht" style="margin-top:0">Wil iemand anders deze iPad gebruiken? Log dan uit. Je voortgang blijft op de server bewaard.</p><button class="knop zacht" onclick="uitloggen()">Uitloggen</button></div>`;
