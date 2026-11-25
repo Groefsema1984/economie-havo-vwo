@@ -2585,30 +2585,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 23",
-"q": "(Examen havo 2018-I, vraag 23)\nEen econoom stelt dat mensen vanaf 300 euro prijsgevoeliger zijn. Past een prijselasticiteit van 0,1 of 0,2 (bij (a) in de bron) beter bij zijn voorstel? Licht je keuze toe.",
+"titel": "Zekerheidszoekers in de zorg",
+"q": "Gebruik het voorstel van de econoom en bron 3.\nPast een prijselasticiteitscoëfficiënt van -0,1 of van -0,2 (bij (a) in bron 3) beter bij het voorstel van de econoom? Licht je keuze toe.",
 "model": "De waarde 0,2 (−0,2). Verzekerden reageren bij het startpunt van € 300 prijsgevoeliger, waardoor de vraag naar zorg elastischer is dan bij een startpunt van € 0.",
 "pnt": 2,
 "id": "D.h2.3.h2018I23",
-"e": "D.elas"
+"e": "D.elas",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 23,
+"ctx": "In een actualiteitenprogramma discussiëren een minister, een Kamerlid en een econoom over het eigen risico. Enkele kijkers reageren via Twitter (zie bron 2). - de minister: “Ik stel voor het eigen risico met € 100 te verhogen. Hierdoor nemen de collectieve zorguitgaven af.” - het Kamerlid: “Nee hoor, de collectieve zorguitgaven gaan op langere termijn juist stijgen, doordat verzekerden zorg zullen mijden of uitstellen. Om die reden stelt mijn partij voor het eigen risico met € 100 te verlagen.” - de econoom: “Ik stel een verschoven eigen risico voor. Uit onderzoek blijkt namelijk dat mensen vanaf een bedrag van € 300 bewuster omgaan met hun zorgkosten en dus prijsgevoeliger zijn.”"
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 26",
-"q": "(Examen havo 2018-II, vraag 26)\nDe eigenaar zegt dat een prijsverlaging bij zijn parkeergelegenheid tot meer omzet leidt. Gaat hij uit van een prijselastische of prijsinelastische vraag? Licht je keuze toe.",
+"titel": "Prijzenoorlog",
+"q": "Gaat Victor Valet uit van een prijselastische of prijsinelastische vraag naar parkeren bij hun parkeergelegenheid? Licht je keuze toe.",
 "model": "Prijselastisch. Een prijsverlaging geeft meer omzet. Hij gaat er dus van uit dat de afzet meer dan evenredig stijgt.",
 "pnt": 2,
 "id": "D.h2.3.h2018II26",
-"e": "D.elas"
+"e": "D.elas",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 26,
+"ctx": "uit een krant, februari 2017: Er is een parkeertarievenoorlog uitgebroken tussen de twee parkeergelegenheden bij vliegveld Aeroport. Vorige week opende prijsvechter Budget Parking (BP) de slagbomen van haar gloednieuwe parkeergelegenheid, een kilometer verwijderd van het vliegveld. Nog geen week later heeft BP haar parkeertarieven al verlaagd. Victor Valet, eigenaar van BP: “Bij ons leidt een prijsverlaging tot meer omzet. Onze parkeergelegenheid ligt iets verder van het vliegveld af dan die van onze concurrent Central Parking (CP), maar de consument let bij parkeren uitsluitend op de prijs en zal daarom massaal kiezen voor BP. En massa is kassa. Acht uur parkeren is bij BP bijna 80% goedkoper dan bij CP.” De woordvoerder van CP kondigt aan dat CP zal reageren met een tariefsverlaging."
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 3",
-"q": "(Examen havo 2019-I, vraag 3)\nDe prijs van het papierplus-abonnement van de Krant van Vandaag steeg tussen 2013 en 2014. Bereken met bron 2 het aantal papierplus-abonnementen in 2014.",
+"titel": "Papier hier!",
+"q": "Gebruik bron 2.\nBereken het aantal papierplus-abonnementen van de Krant van Vandaag in 2014.",
 "model": "Prijsstijging 2013-2014 = 2,8% (1 punt). Afzetverandering = −1,1 × 2,8 = −3,1% (1 punt). Afzet 2014 = 696.600 × 0,969 = 675.005 (1 punt). Een andere afronding is ook goed.",
 "pnt": 3,
 "id": "D.h2.3.h2019I3",
-"e": "D.elas"
+"e": "D.elas",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 3,
+"ctx": "Vanaf 2012 verkoopt de Krant van Vandaag zowel een papierplus-abonnement als een digitaal abonnement. Door stijgende papierprijzen en toenemende distributiekosten is het papierplus-abonnement in de periode 2012-2014 duurder geworden (zie bron 2), terwijl de prijs van een digitaal abonnement gelijk is gebleven (zie bron 3). Een marketingmedewerker van de Krant van Vandaag doet de volgende uitspraken: 1 “De vraaglijn van een digitaal abonnement is in de periode 2012-2014 verschoven, omdat de prijs van een papierplus-abonnement is gestegen.” 2 “Hierdoor is het consumentensurplus op de markt van digitale abonnementen toegenomen.”"
 }
 ],
 "bg": [
@@ -3690,30 +3705,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 1",
-"q": "(Examen havo 2018-I, vraag 1)\nDrogisterijen verkopen een slaappil en zijn vergelijkbare winkels. Bepaal of zij op een markt van volkomen concurrentie of monopolistische concurrentie actief zijn. Licht de keuze toe met een kenmerk van die marktvorm.",
+"titel": "Slapend rijk worden?",
+"q": "Zijn drogisterijen actief op een markt van volkomen concurrentie of op een markt van monopolistische concurrentie? Licht je keuze toe aan de hand van een kenmerk van de gekozen marktvorm.",
 "model": "Monopolistische concurrentie. Een juist kenmerk is bijvoorbeeld een heterogeen assortiment, heterogene dienstverlening of geringe transparantie van de markt.",
 "pnt": 2,
 "id": "D.h4.1.h2018I1",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 1,
+"ctx": "De Nederlandse onderneming Pil&Pill (P&P) is van plan het product Metolani op de markt te brengen. Metolani is een pil om slaapproblemen te verhelpen. Het product is beschermd met een Europees octrooi. Metolani zal, zonder doktersrecept, uitsluitend verkrijgbaar zijn bij drogisterijen in Nederland en Duitsland. Drogisterijen in Nederland en Duitsland zijn vergelijkbare winkels."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 1",
-"q": "(Examen havo 2021-I, vraag 1)\nInvulvraag over de garnalenveiling: is het product homogeen of heterogeen, welke marktvorm hoort bij veel aanbieders zonder toetredingsbarrières, en kunnen individuele vissers de prijs beïnvloeden? Drie open plekken met keuzes.",
+"titel": "Zo goud als een garnaal",
+"q": "Maak van onderstaande zinnen een economisch juiste tekst.\n\n- Hollandse garnalen die op de visveiling worden aangeboden zijn\n\n…(1)… goederen. - Omdat op deze markt veel individuele aanbieders actief zijn en er geen belemmeringen voor nieuwe aanbieders zijn, kan de marktvorm het best omschreven worden als …(2)…. - De individuele aanbieders, zoals Rinus, kunnen de marktprijs …(3)…\n\nbeïnvloeden. Kies uit: bij (1) homogene / heterogene bij (2) volkomen concurrentie / monopolie / monopolistische concurrentie / oligopolie bij (3) niet / wel",
 "model": "(1) homogene, (2) volkomen concurrentie, (3) niet. Drie goed = 2 punten, twee goed = 1 punt, anders 0.",
 "pnt": 2,
 "id": "D.h4.1.h2021I1",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 1,
+"ctx": "uit een krant: Een garnalenkotter uit Arnemuiden vangt dagelijks duizenden kilo’s Hollandse garnalen. Op dit moment zijn ze “goud” waard. De prijzen rijzen de pan uit. “Ik heb dit nog nooit meegemaakt”, zegt schipper Rinus. “Verse garnalen zijn kort houdbaar. We brengen onze vangst altijd meteen naar de visveiling en hopen op een goede prijs. We hadden verwacht ongeveer € 3,50 per kilo te krijgen, nu stopt de veilingklok op € 8.” Rinus vermoedt dat de prijsstijging te maken heeft met de verminderde garnalenstand in de Noordzee als gevolg van ongunstige weersomstandigheden."
 },
 {
 "t": "open",
-"titel": "Examen havo 2024-II, vraag 1",
-"q": "(Examen havo 2024-II, vraag 1)\nCashewboeren in Tanzania verkopen een uniforme oogst op een veiling met dalende klokprijs. Welke marktvorm is dit? Noem twee kenmerken van die marktvorm.",
+"titel": "Cashewnoten",
+"q": "Van welke marktvorm is sprake op de cashewnotenmarkt? Geef twee kenmerken van deze marktvorm.",
 "model": "Volledige mededinging. Kenmerken, bijvoorbeeld: veel aanbieders, homogeen product, transparantie, vrije toe- en uittreding, aanbieders zijn prijsnemers. Volledige mededinging met twee kenmerken geeft 2 punten.",
 "pnt": 2,
 "id": "D.h4.1.h2024II1",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 1,
+"ctx": "Cashewnoten zijn een belangrijk exportproduct voor Tanzania en een belangrijke bron van inkomsten voor de vele cashewnotenboeren in dat land. De cashewnotenboeren bieden hun oogst aan op een veiling. De veilingklok laat een hoge startprijs zien. Daarna zakt de prijs per kilogram, totdat een koper akkoord is en de cashewnoten koopt voor de aangegeven prijs. Alle cashewnoten zijn van dezelfde soort en kwaliteit."
 }
 ],
 "bg": [
@@ -4167,21 +4197,31 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 26",
-"q": "(Examen havo 2021-I, vraag 26)\nLeg met het begrip externe effecten uit hoe rijden op fossiele brandstof de welvaart beïnvloedt. Gebruik bron 1.",
+"titel": "Stimuleren zonder effect",
+"q": "Leg met behulp van het begrip externe effecten uit hoe het rijden op fossiele brandstof de welvaart beïnvloedt.",
 "model": "Rijden op fossiele brandstof veroorzaakt vervuiling of uitputting van natuurlijke hulpbronnen en dus extra kosten. Die effecten zijn extern: ze raken anderen of de samenleving en zitten niet in de prijs.",
 "pnt": 2,
 "id": "D.h4.4.h2021I26",
-"e": "D.falen"
+"e": "D.falen",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 26,
+"ctx": "Nederland heeft ruim acht miljoen personenauto’s, die kunnen worden ingedeeld in de volgende categorieën: - auto’s die volledig elektrisch rijden (stekkerauto’s); - auto’s die uitsluitend op fossiele brandstof (benzine, gas en diesel) rijden; - hybride auto’s die zowel op elektriciteit als op fossiele brandstof kunnen rijden. uit een tijdschrift, december 2016: Ruim een miljoen Nederlanders rijden een ‘auto van de zaak’, beter bekend als een zakelijke leaseauto. Een leaseauto is een auto die tegen een vaste vergoeding voor langere tijd ter beschikking wordt gesteld aan een gebruiker. Bij zakelijke lease betaalt de werkgever de volledige rekening van het leasen, inclusief kosten van onderhoud, brandstof, verzekering en wegenbelasting. De werknemer hoeft dan zelf niets meer te betalen voor het gebruik van de auto. De werknemer moet wel extra inkomstenbelasting betalen over een bepaald percentage van de waarde van de leaseauto, de zogenaamde fiscale bijtelling. De overheid heeft de afgelopen jaren de CO2-uitstoot van fossiele brandstoffen proberen te beperken via lagere fiscale bijtellingen voor elektrische en hybride leaseauto’s. Als gevolg van dit belastingvoordeel worden er fors meer hybride auto’s geleaset. Toch blijven leaserijders met een hybride leaseauto nog te veel op fossiele brandstoffen rijden in plaats van op elektriciteit, omdat er met een volle tank nu eenmaal meer kilometers kunnen worden gereden dan met een volle batterij. De overheid heeft besloten om, vanwege het tegenvallende klimaateffect van de stimuleringsmaatregel, de fiscale bijtellingen voor de periode 2017–2020 via nieuwe wetgeving aan te passen."
 },
 {
 "t": "open",
-"titel": "Examen havo 2024-I, vraag 29",
-"q": "(Examen havo 2024-I, vraag 29)\nLeg uit dat een concentratie van toerisme op bepaalde plekken in Nederland kan leiden tot negatieve externe effecten.",
+"titel": "Toerisme",
+"q": "Leg uit dat een concentratie van toerisme op bepaalde plekken in Nederland kan leiden tot negatieve externe effecten.",
 "model": "De leefbaarheid daalt door bijvoorbeeld afval, geluidsoverlast of overbelaste wegen. Dit zijn maatschappelijke kosten voor anderen dan de aanbieders aan toeristen en ze zitten niet in de prijs, dus het zijn externe effecten.",
 "pnt": 2,
 "id": "D.h4.4.h2024I29",
-"e": "D.falen"
+"e": "D.falen",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 29,
+"ctx": "Op plekken in Nederland waar het toerisme zich vooral concentreert, treden negatieve externe effecten op."
 }
 ],
 "bg": [
@@ -4592,30 +4632,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 2",
-"q": "(Examen havo 2018-I, vraag 2)\nEen fabrikant verkoopt een pil in Nederland en Duitsland. In Duitsland worden alleen de variabele kosten gedekt, in Nederland wordt de winst gemaximaliseerd. Bereken met de gegeven bronnen de prijs per verpakking in Nederland.",
+"titel": "Slapend rijk worden?",
+"q": "Gebruik bron 1 en 2.\nBereken wat de prijs per verpakking Metolani op de Nederlandse markt wordt als het voorstel van de financieel manager wordt uitgevoerd.",
 "model": "MO = MK: −50Q + 230 = 50, dus Q = 3,6 miljoen verpakkingen (1 punt). Prijs: P = −25 × 3,6 + 230 = € 140 (1 punt). Het toepassen van MO = MK is verplicht.",
 "pnt": 2,
 "id": "D.h5.2.h2018I2",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 2,
+"ctx": "P&P wil Metolani in verpakkingen van duizend pillen aan de drogisterijen verkopen. Concurrenten van P&P bieden in Duitsland echter ook pillen met een vergelijkbare werking aan drogisterijen aan. Daarom stelt de financieel manager van P&P het volgende voor: - Op de Duitse markt hoeven alleen de variabele kosten terugverdiend te worden, zodat we in Duitsland een lagere prijs kunnen vragen dan in Nederland. De vaste (constante) kosten (zie bron 1) zullen dan op de Nederlandse markt terugverdiend moeten worden. - Op de Nederlandse markt vragen we een prijs waarbij er maximale totale winst wordt behaald."
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-II, vraag 5",
-"q": "(Examen havo 2019-II, vraag 5)\nBereken met bron 1 het bedrag waarmee de winst van de vleesproducent verandert door de heffing.",
+"titel": "Vlees belast",
+"q": "Bereken het bedrag van de verandering van de winst als gevolg van de heffing.",
 "model": "Nieuwe situatie: TO = 4,25 × 3.500.000 = € 14.875.000; TK = 2,5 × 3.500.000 + 2.250.000 = € 11.000.000; winst € 3.875.000 (1). Oude winst € 5.750.000, dus winst daalt met € 1.875.000 (1). Doorwerkfouten uit vraag 3 of 4 niet aanrekenen.",
 "pnt": 2,
 "id": "D.h5.2.h2019II5",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 5,
+"ctx": "De directie van vleesproducent Kuus bv heeft een onderzoeksrapport over de vleestaks bestudeerd. Daarin staat dat een vaste heffing op vlees van € 0,50 per kilo kan zorgen voor een flinke reductie van de uitstoot van CO2. De financieel directeur krijgt de opdracht door te rekenen welke invloed de invoering van deze heffing heeft op de winst van Kuus bv. De bedrijfsdoelstelling blijft maximale totale winst. De financieel directeur heeft de huidige financiële gegevens in een overzicht en in een figuur gezet (zie bron 1)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2022-I, vraag 9",
-"q": "(Examen havo 2022-I, vraag 9)\nGebruik bron 2. Toon met een berekening aan dat Koko de prijs van een pakje kokosbrood met 5 eurocent moet verhogen om de winst te maximaliseren.",
+"titel": "Koko ziet er brood in",
+"q": "Toon met een berekening aan dat Koko de prijs van een pakje kokosbrood met 5 eurocent zou moeten verhogen om maximale winst te behalen.",
 "model": "MK = 0,5 (1p). MO = MK: −0,4Q + 2 = 0,5, dus Q = 3,75 miljoen pakjes (1p). P = −0,2 × 3,75 + 2 = € 1,25; dat is € 0,05 meer dan € 1,20 (1p).",
 "pnt": 3,
 "id": "D.h5.2.h2022I9",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 9,
+"ctx": "De supermarktketens zullen minder pakjes kokosbrood inkopen als hun inkoopprijs is gestegen. De financieel directeur van Koko heeft de verwachte financiële gevolgen uitgewerkt. Hij stelt dat de prijs van een pakje kokosbrood niet met 10 eurocent moet worden verhoogd maar met 5 eurocent."
 }
 ],
 "bg": [
@@ -4783,30 +4838,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 28",
-"q": "(Examen havo 2018-II, vraag 28)\nTwee aanbieders staan voor de eenmalige, gelijktijdige keuze om het tarief wel of niet te verlagen. Heeft de interviewer gelijk dat het een gevangenendilemma is? Gebruik het schema en licht je keuze toe.",
+"titel": "Prijzenoorlog",
+"q": "Gebruik bron 2.\nHeeft de interviewer gelijk met zijn uitspraak over het gevangenendilemma? Licht je keuze toe.",
 "model": "Nee. Tarief verlagen is voor beide partijen de dominante strategie en tevens de optimale uitkomst. Beide krijgen een hogere winst dan bij handhaven, dus geen gevangenendilemma.",
 "pnt": 2,
 "id": "D.h5.3.h2018II28",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 28,
+"ctx": "Op de lokale omroep wordt een econoom geïnterviewd over de werking van de prijzenoorlog. - De econoom: “Stel dat BP en CP de tariefsverlaging nog niet hebben ingevoerd en voor de eenmalige en gelijktijdige beslissing staan: wel of geen tariefsverlaging. Deze situatie heb ik in een schema gezet (bron 2) en zoals u ziet ….” - De interviewer: “Ja, ik zie het al. Er is hier sprake van een gevangenendilemma ….”"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 24",
-"q": "(Examen havo 2019-I, vraag 24)\nBeide energieleveranciers overwegen een callcenter in te huren om klanten van elkaar over te halen (pay-offmatrix in bron 2). Leg uit hoe de dominante strategie van elk bedrijf ontstaat en beredeneer of er een gevangenendilemma is.",
+"titel": "Dat kost energie",
+"q": "Gebruik bron 2.\nKomen beide energieleveranciers door deze ontwikkeling in een gevangenendilemma terecht? Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de bedrijven tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.",
 "model": "Ja. Voor beide bedrijven is 'wel inhuren' dominant: −2 > −4 als de ander inhuurt, en +2 > 0 als de ander niet inhuurt (2 punten, bewijs voor beide bedrijven nodig). Het evenwicht −2;−2 is suboptimaal, want 0;0 is beter voor beiden (1 punt).",
 "pnt": 3,
 "id": "D.h5.3.h2019I24",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 24,
+"ctx": "Energie + Gratis Cadeau Tablet Laptop Kadobon ... Beide bedrijven willen klanten van elkaar wegkapen en overwegen om een callcenter in te huren. Medewerkers van zo’n callcenter bellen klanten van de concurrent en proberen deze over te halen over te stappen. De resultaten van het al dan niet inhuren van een callcenter zijn zichtbaar gemaakt in een pay-offmatrix (zie bron 2)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-II, vraag 28",
-"q": "(Examen havo 2019-II, vraag 28)\nGebruik de pay-offmatrix in bron 1. Leg uit hoe de dominante strategie van elke verzekeraar ontstaat en beredeneer dan of er sprake is van een gevangenendilemma.",
+"titel": "Wie zorgt er voor de zorgkosten?",
+"q": "Gebruik bron 1.\nBeredeneer of beide verzekeraars inderdaad in deze situatie in een gevangenendilemma terecht komen. Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de verzekeraars tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.",
 "model": "Beide verzekeraars hebben als dominante strategie 'eigen risico verlagen': Anderzorg 1 > 0,6 en 0,5 > 0,2; Beterzorg 1,1 > 1,0 en 0,8 > 0,2 (2, bewijs voor beide nodig). Evenwicht (0,5; 0,8) is slechter dan handhaven (0,6; 1,0): dus gevangenendilemma (1).",
 "pnt": 3,
 "id": "D.h5.3.h2019II28",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 28,
+"ctx": "Harry Klein heeft ter onderbouwing van bovenstaande uitspraak in het krantenbericht een pay-offmatrix gemaakt. Hierin wordt de winstverandering bij de mogelijke keuzes van beide zorgverzekeraars weergegeven (zie bron 1)."
 }
 ],
 "bg": [
@@ -5046,21 +5116,31 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 26",
-"q": "(Examen havo 2021-I, vraag 26)\nLeg met het begrip externe effecten uit hoe rijden op fossiele brandstof de welvaart beïnvloedt. Gebruik bron 1.",
+"titel": "Stimuleren zonder effect",
+"q": "Leg met behulp van het begrip externe effecten uit hoe het rijden op fossiele brandstof de welvaart beïnvloedt.",
 "model": "Rijden op fossiele brandstof veroorzaakt vervuiling of uitputting van natuurlijke hulpbronnen en dus extra kosten. Die effecten zijn extern: ze raken anderen of de samenleving en zitten niet in de prijs.",
 "pnt": 2,
 "id": "D.h6.1.h2021I26",
-"e": "D.falen"
+"e": "D.falen",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 26,
+"ctx": "Nederland heeft ruim acht miljoen personenauto’s, die kunnen worden ingedeeld in de volgende categorieën: - auto’s die volledig elektrisch rijden (stekkerauto’s); - auto’s die uitsluitend op fossiele brandstof (benzine, gas en diesel) rijden; - hybride auto’s die zowel op elektriciteit als op fossiele brandstof kunnen rijden. uit een tijdschrift, december 2016: Ruim een miljoen Nederlanders rijden een ‘auto van de zaak’, beter bekend als een zakelijke leaseauto. Een leaseauto is een auto die tegen een vaste vergoeding voor langere tijd ter beschikking wordt gesteld aan een gebruiker. Bij zakelijke lease betaalt de werkgever de volledige rekening van het leasen, inclusief kosten van onderhoud, brandstof, verzekering en wegenbelasting. De werknemer hoeft dan zelf niets meer te betalen voor het gebruik van de auto. De werknemer moet wel extra inkomstenbelasting betalen over een bepaald percentage van de waarde van de leaseauto, de zogenaamde fiscale bijtelling. De overheid heeft de afgelopen jaren de CO2-uitstoot van fossiele brandstoffen proberen te beperken via lagere fiscale bijtellingen voor elektrische en hybride leaseauto’s. Als gevolg van dit belastingvoordeel worden er fors meer hybride auto’s geleaset. Toch blijven leaserijders met een hybride leaseauto nog te veel op fossiele brandstoffen rijden in plaats van op elektriciteit, omdat er met een volle tank nu eenmaal meer kilometers kunnen worden gereden dan met een volle batterij. De overheid heeft besloten om, vanwege het tegenvallende klimaateffect van de stimuleringsmaatregel, de fiscale bijtellingen voor de periode 2017–2020 via nieuwe wetgeving aan te passen."
 },
 {
 "t": "open",
-"titel": "Examen havo 2024-I, vraag 29",
-"q": "(Examen havo 2024-I, vraag 29)\nLeg uit dat een concentratie van toerisme op bepaalde plekken in Nederland kan leiden tot negatieve externe effecten.",
+"titel": "Toerisme",
+"q": "Leg uit dat een concentratie van toerisme op bepaalde plekken in Nederland kan leiden tot negatieve externe effecten.",
 "model": "De leefbaarheid daalt door bijvoorbeeld afval, geluidsoverlast of overbelaste wegen. Dit zijn maatschappelijke kosten voor anderen dan de aanbieders aan toeristen en ze zitten niet in de prijs, dus het zijn externe effecten.",
 "pnt": 2,
 "id": "D.h6.1.h2024I29",
-"e": "D.falen"
+"e": "D.falen",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 29,
+"ctx": "Op plekken in Nederland waar het toerisme zich vooral concentreert, treden negatieve externe effecten op."
 }
 ],
 "bg": [
@@ -5518,30 +5598,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2023-II, vraag 10",
-"q": "(Examen havo 2023-II, vraag 10)\nBereken met de gegeven vraag- en aanbodvergelijking welk percentage van de taks van € 7,50 de luchtvaartmaatschappij zelf draagt.",
+"titel": "Vliegtaks",
+"q": "Bereken hoeveel procent van de vliegtaks voor rekening van de luchtvaartmaatschappijen komt. Bereken daartoe eerst de oude en de nieuwe evenwichtsprijs.",
 "model": "Evenwicht vóór: −P + 480 = 2P − 105, P = € 195 (1). Na: −P + 480 = 2P − 120, P = € 200 (1). Maatschappij draagt 7,50 − (200 − 195) = € 2,50, dus 2,50 : 7,50 × 100% = 33,3% / 33% (1).",
 "pnt": 3,
 "id": "D.h6.4.h2023II10",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 10,
+"ctx": "De luchtvaartmaatschappijen protesteren tegen de voorgestelde vliegtaks van € 7,50 per vliegticket, en stellen dat deze taks ten koste gaat van hun winst en alleen goed is voor de Nederlandse schatkist. Om het effect op de winst te verklaren, tonen zij een marktmodel met een vraag- en aanbodfunctie. Marktmodel met vraag- en aanbodfuncties Qv = −P + 480 Qavóór invoering vliegtaks = 2P – 105 Qana invoering vliegtaks = 2P – 120 Er geldt dat Qv = Qa P = gemiddelde prijs van een vliegticket in euro’s Q = aantal vliegtickets vanuit Nederlandse luchthavens x 10.000 Op basis van dit marktmodel stellen de luchtvaartmaatschappijen dat ze de vliegtaks niet volledig kunnen doorberekenen in de prijs van een vliegticket."
 },
 {
 "t": "open",
-"titel": "Examen havo 2025-II, vraag 10",
-"q": "(Examen havo 2025-II, vraag 10)\nGeef met letters in bron 2 de oppervlakken aan voor consumentensurplus, producentensurplus en accijnsopbrengst na het heffen van de accijns. Vul de tabel aan op het antwoordblad.",
+"titel": "Neem accijns met een korreltje suiker",
+"q": "Gebruik bron 2.\nGeef met letters het oppervlak aan dat het consumenten- en producentensurplus weergeeft en het oppervlak dat de accijnsopbrengst weergeeft na het heffen van de suikeraccijns. Neem daarvoor onderstaande tabel over op het antwoordblad en vul aan op de stippellijnen.\noppervlak consumentensurplus ……….. oppervlak producentensurplus ……….. oppervlak accijnsopbrengst ………..",
 "model": "Consumentensurplus: ABC. Producentensurplus: HIJ (of BCD). Accijnsopbrengst: BCIH (of DCIJ). Eén punt per juist onderdeel.",
 "pnt": 3,
 "id": "D.h6.4.h2025II10",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "h25-2",
+"jaar": 2025,
+"tv": 2,
+"nr": 10,
+"ctx": "De invoering van de suikeraccijns heeft gevolgen voor zowel het consumentensurplus als het producentensurplus op de markt van suiker (zie bron 2)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2026-I, vraag 26",
-"q": "(Examen havo 2026-I, vraag 26)\nInvulvraag met vijf open plekken over het effect van een heffing op suikerhoudende voeding: producenten-, consumentensurplus en overheidsinkomsten (drie keuzes), soort goed en teken van de inkomenselasticiteit.",
+"titel": "Suikertaks",
+"q": "Maak van de onderstaande tekst een economisch juiste redenering.\n\nDoor de suikertaks zal het producentensurplus …(1)… en zal het consumentensurplus …(2)… op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen …(3)…. Als het inkomen van consumenten stijgt, leidt dit tot een relatief kleine toename van de vraag naar suikerhoudende voeding. Consumenten zien deze goederen als … (4)… goederen. Er is dan sprake van een … (5) … inkomenselasticiteit. Kies uit: bij (1) afnemen / toenemen / gelijk blijven bij (2) afnemen / toenemen / gelijk blijven bij (3) afnemen / toenemen / gelijk blijven bij (4) inferieure / primaire / luxe bij (5) positieve / negatieve",
 "model": "(1) afnemen; (2) afnemen; (3) toenemen; (4) primaire; (5) positieve. Vijf juist 3p, drie of vier juist 2p, twee juist 1p.",
 "pnt": 3,
 "id": "D.h6.4.h2026I26",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "h26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 26,
+"ctx": "Een gezondheidsbureau in Groot-Brittannië onderzoekt een heffing op suikerhoudende voeding (de suikertaks)."
 }
 ],
 "bg": [
@@ -6321,30 +6416,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-II, vraag 13",
-"q": "(Examen vwo 2019-II, vraag 13)\nDe spitsprijs stijgt 10% en de dalprijs daalt 10%. De prijselasticiteit in de spits is −0,2 en de kruislingse elasticiteit +0,3. De huidige bezetting is 109%. Bereken de bezettingsgraad in de spits.",
+"titel": "Drukte in de spits",
+"q": "Bereken aan de hand van tabel 2 de bezettingsgraad tijdens de spits als gevolg van het prijsvoorstel.",
 "model": "Eigen prijs: −0,2 × 10% = −2% (1). Kruislings: +0,3 × −10% = −3% (1). Bezetting 109 × 0,98 × 0,97 ≈ 103,62 of 109 × 0,95 = 103,55 (1).",
 "pnt": 3,
 "id": "D.v2.3.v2019II13",
-"e": "D.elas"
+"e": "D.elas",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 13,
+"ctx": "De minister van Verkeer hoort veel klachten over de kwaliteit van het treinvervoer. Uit tabel 1 blijkt dat de treinen tijdens de spits steeds overvol zijn en reizigers dan moeten staan. De minister wil dat daar iets aan gebeurt. tabel 1 bezettingsgraad van vervoersmaatschappij Trains bezettingsgraad gedurende de dag spitsuren daluren spitsuren daluren 06:00 uur tot 10:00 uur 10:00 uur tot 16:00 uur 16:00 uur tot 19:00 uur na 19:00 uur 109%* 45% 109%* 30% *Er zijn gemiddeld 9% meer reizigers dan er zitplaatsen beschikbaar zijn. De directie van Trains buigt zich over de kritiek. Een directielid stelt voor om reizen tijdens de spitsuren 10% duurder te maken en reizen tijdens de daluren 10% goedkoper: “Reizigers zullen voor hun reis steeds meer de spits mijden en voor de daluren kiezen, waardoor de overbezetting tijdens de spitsuren vermindert. Bovendien is tijdens de daluren extra afzet te verwachten door een toeloop van extra reizigers.” De minister betwijfelt of dit voorstel het probleem kan oplossen: “Berekening op basis van prijselasticiteiten (tabel 2) laat zien dat er bij dit prijsvoorstel sprake blijft van overbezetting tijdens de spits.” tabel 2 prijselasticiteiten van de vraag naar treinreizen prijselasticiteit van de vraag naar reizen tijdens spitsuren kruislingse prijselasticiteit van de vraag naar reizen tijdens spitsuren als reactie op de prijs van reizen tijdens daluren - 0,2 + 0,3"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 19",
-"q": "(Examen vwo 2021-I, vraag 19)\nBij de prijselasticiteit van de export staat de prijs in vreemde valuta in de noemer, bij de import de prijs in eigen valuta. Verklaar dit verschil.",
+"titel": "Devaluatie van de wal in de sloot",
+"q": "Verklaar dit verschil in de noemers.",
 "model": "De vraag naar importgoederen komt van binnen het land. Die vragers reageren op de prijs in eigen valuta. De vraag naar export komt uit het buitenland. Buitenlandse vragers reageren op de prijs in hun eigen valuta.",
 "pnt": 1,
 "id": "D.v2.3.v2021I19",
-"e": "D.elas"
+"e": "D.elas",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 19,
+"ctx": "In het land Imareca zijn presidentsverkiezingen. Centraal in de campagne staat het stimuleren van de zwakke economie. De werkloosheid neemt toe en de lopende rekening van de betalingsbalans met de belangrijkste handelspartner, het land Nachi, vertoont een groot tekort. De valuta van Imareca heeft een vaste wisselkoers ten opzichte van die van Nachi. Een kandidaat kondigt aan dat hij als president onmiddellijk over zal gaan tot een devaluatie van 20% ten opzichte van de valuta van Nachi. Dit zou volgens hem zowel het tekort op de lopende rekening van de betalingsbalans met Nachi als de binnenlandse werkloosheid verminderen. Econoom Paulus stelt: “Devaluatie zal op korte termijn juist nadelig zijn voor de economie van Imareca. Dit heeft te maken met de prijselasticiteiten van de import en van de export. De importwaarde, gemeten in eigen valuta, kan op korte termijn stijgen waardoor het tekort op de lopende rekening met Nachi verder zal toenemen.” De formules van de prijselasticiteiten van de export en van de import van goederen en diensten luiden: prijselasticiteit van de export = % verandering exportvolume % verandering exportprijs in vreemde valuta prijselasticiteit van de import = % verandering importvolume % verandering importprijs in eigen valuta Analyses wijzen uit dat op korte termijn de prijselasticiteit van de export - 0,5 bedraagt en de prijselasticiteit van de import - 0,4. Beide formules zijn varianten op de prijselasticiteit van de vraag. Bij de prijselasticiteit van de export staat in de noemer de prijs in vreemde valuta, terwijl bij de prijselasticiteit van de import in de noemer de prijs is genoteerd in eigen (binnenlandse) valuta."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 20",
-"q": "(Examen vwo 2021-I, vraag 20)\nEen land devalueert 20%. De prijselasticiteit van de export is −0,5 en die van de import −0,4. Toon met een berekening aan dat de importwaarde in eigen valuta sterker toeneemt dan de exportwaarde.",
+"titel": "Devaluatie van de wal in de sloot",
+"q": "Toon met een berekening op basis van bovenstaande prijselasticiteiten aan dat een devaluatie van 20% leidt tot een sterkere toename van de importwaarde dan van de exportwaarde van Imareca, beide gemeten in de eigen valuta.",
 "model": "Exportprijs in vreemde valuta −20%, dus exportvolume +10% (1). Importprijs in eigen valuta 1 : 0,8 = 1,25, dus +25%, importvolume −10% (1). Exportwaarde: 100 × 1,1 = 110. Importwaarde: 100 × 0,9 × 1,25 = 112,5. Importwaarde stijgt dus meer (1).",
 "pnt": 3,
 "id": "D.v2.3.v2021I20",
-"e": "D.elas"
+"e": "D.elas",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 20,
+"ctx": "In het land Imareca zijn presidentsverkiezingen. Centraal in de campagne staat het stimuleren van de zwakke economie. De werkloosheid neemt toe en de lopende rekening van de betalingsbalans met de belangrijkste handelspartner, het land Nachi, vertoont een groot tekort. De valuta van Imareca heeft een vaste wisselkoers ten opzichte van die van Nachi. Een kandidaat kondigt aan dat hij als president onmiddellijk over zal gaan tot een devaluatie van 20% ten opzichte van de valuta van Nachi. Dit zou volgens hem zowel het tekort op de lopende rekening van de betalingsbalans met Nachi als de binnenlandse werkloosheid verminderen. Econoom Paulus stelt: “Devaluatie zal op korte termijn juist nadelig zijn voor de economie van Imareca. Dit heeft te maken met de prijselasticiteiten van de import en van de export. De importwaarde, gemeten in eigen valuta, kan op korte termijn stijgen waardoor het tekort op de lopende rekening met Nachi verder zal toenemen.” De formules van de prijselasticiteiten van de export en van de import van goederen en diensten luiden: prijselasticiteit van de export = % verandering exportvolume % verandering exportprijs in vreemde valuta prijselasticiteit van de import = % verandering importvolume % verandering importprijs in eigen valuta Analyses wijzen uit dat op korte termijn de prijselasticiteit van de export - 0,5 bedraagt en de prijselasticiteit van de import - 0,4. Beide formules zijn varianten op de prijselasticiteit van de vraag. Bij de prijselasticiteit van de export staat in de noemer de prijs in vreemde valuta, terwijl bij de prijselasticiteit van de import in de noemer de prijs is genoteerd in eigen (binnenlandse) valuta."
 }
 ],
 "bg": [
@@ -7711,21 +7821,31 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 4",
-"q": "(Examen vwo 2022-II, vraag 4)\nEen model met volledige mededinging zou volgens de onderzoekers alleen gelden voor laaggeschoolde arbeid. Verklaar deze stelling.",
+"titel": "Zelfstandigen zonder personeel",
+"q": "Verklaar de stelling van Jan en Samira.",
 "model": "Laaggeschoolde arbeid is vrij homogeen, dus het uurtarief volgt uit vraag en aanbod van alle zzp'ers samen. Hooggeschoolde diensten zijn heterogeen, dus daar is geen volledige mededinging.",
 "pnt": 2,
 "id": "D.v4.1.v2022II4",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 4,
+"ctx": "De onderzoekers hebben een model gemaakt voor de markt van zzp’ers in 2022 om de gevolgen van hun voorstel te analyseren: Qv = -30U + 630 Totaal gevraagd aantal uren naar zzp’ers in miljoenen per jaar Qa = +20U – 50 Totaal aangeboden aantal uren door zzp’ers in miljoenen per jaar U Uurtarief in euro’s Jan en Samira beseffen dat hun model een forse vereenvoudiging is van de realiteit. Het model gaat uit van een arbeidsmarkt van volledige mededinging: ze stellen daarom dat dit model alleen voor laaggeschoolde arbeid geldt en niet voor hooggeschoolde arbeid."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2026-I, vraag 16",
-"q": "(Examen vwo 2026-I, vraag 16)\nEen houthandelsmarkt heeft homogeen hout en geen eigendomsrechten. Leg met twee kenmerken uit van welke marktvorm sprake is.",
+"titel": "Kappen met kappen",
+"q": "Gebruik bovenstaande tekst.\nLeg met behulp van twee kenmerken uit van welke marktvorm er sprake is bij kaphout.",
 "model": "Twee kenmerken, bijvoorbeeld homogeen product, vrije toetreding of veel aanbieders. Conclusie: volledige mededinging (volkomen concurrentie).",
 "pnt": 2,
 "id": "D.v4.1.v2026I16",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 16,
+"ctx": "In Zuid-Amerika verdwijnt door houtkap steeds meer tropisch regenwoud. Een econoom maakt een model en onderzoekt de houtkap voor een gedeelte van het tropisch regenwoud. De econoom gaat uit van een aantal aannames: - Al het gekapte hout is van dezelfde kwaliteit en wordt grotendeels geëxporteerd naar de Verenigde Staten en Europa. - Een werkend systeem van eigendomsrechten voor dit gedeelte van het tropische regenwoud ontbreekt."
 }
 ],
 "bg": [
@@ -8364,12 +8484,17 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 26",
-"q": "(Examen vwo 2022-II, vraag 26)\nVerklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"titel": "Zoet gedronken zuur betaald",
+"q": "Verklaar dat de consumptie van suikerhoudende frisdranken kan leiden tot negatieve externe effecten.",
 "model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
 "pnt": 2,
 "id": "D.v4.4.v2022II26",
-"e": "D.falen"
+"e": "D.falen",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 26,
+"ctx": "Onderzoekers van de Wereldgezondheidsorganisatie hebben aangetoond dat overmatige consumptie van suikerhoudende frisdranken leidt tot veel overgewicht en diabetes in de Filipijnen. De Filipijnse overheid heeft daarom een heffing van 13% op de prijs van 45 peso’s per liter suikerhoudende frisdrank gelegd."
 }
 ],
 "bg": [
@@ -8954,30 +9079,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-II, vraag 3",
-"q": "(Examen vwo 2019-II, vraag 3)\nMores heeft een prijs-afzetfunctie en een kostenfunctie. De accijns stijgt met € 2 per pakje (scenario 2). Toon met een berekening aan dat de winst maximaal is bij 10 miljoen pakjes.",
+"titel": "Rookremmers",
+"q": "Toon met een berekening aan dat Mores in scenario 2 maximale totale winst behaalt bij een productie van 10 miljoen pakjes.",
 "model": "MO = −0,08q + 16 (1); MK = 0,02q + 4 + 2 (1); MO = MK geeft q = 100, dus 100 × 100.000 = 10 miljoen pakjes (1). De aanvulling kent de derde deelscore altijd toe en accepteert ook MK met factor 100.000 als alternatief.",
 "pnt": 3,
 "id": "D.v5.2.v2019II3",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 3,
+"ctx": "De overheid van het land heeft sigaretten belast met € 2,50 accijns per pakje. De onderzoeker heeft berekend dat zonder verder ontmoedigend beleid de maatschappelijke kosten de baten zullen blijven overtreffen. Hij presenteert in tabel 1 scenario’s van antirookbeleid. Hieruit blijkt dat de verhoging van de accijns met nog eens € 2, eventueel in combinatie met aanvullende maatregelen, de negatieve balans tussen maatschappelijke kosten en baten positief kan doen omslaan. tabel 1 scenario’s van een antirookbeleid scenario omschrijving MKBA 1 voortzetting van het huidige beleid - € 1,2 miljard* 2 € 2 extra accijnsverhoging op een pakje sigaretten + € 2,5 miljard 3 scenario 2 + aanvullende maatregelen (rookverboden, marketingbeperkingen) + € 1,7 miljard * Per saldo zijn de kosten hoger dan de baten. De directie van sigarettenproducent Mores bestudeert de voorgestelde scenario’s om de gevolgen voor de eigen bedrijfsvoering door te rekenen. De financieel directeur stelt daartoe tabel 2 op, met de huidige financiële gegevens, en hij geeft een grafische weergave daarvan in figuur 1. Daarin schetst hij de marginale kostenlijn zonder accijns en de marginale kostenlijnen van scenario 1 en 2. Hij schetst ook de marginale opbrengstenlijn waar hij ervan uitgaat dat die niet verandert in scenario 2 ten opzichte van scenario 1. Mores kan in deze markt van heterogene producten enige invloed uitoefenen op de prijs van zijn eigen sigaretten. tabel 2 financiële gegevens Mores in 2017 (scenario 1) verkoopprijs € 11,20 afzet q = 120 totale omzet € 134,4 miljoen totale winst € 62 miljoen totale kosten in euro’s (inclusief € 2,50 accijns) TK = ( 0,01q² + 4q + 100 ) × 100.000 prijs-afzetfunctie P = -0,04q + 16 q is het aantal pakjes sigaretten (× 100.000) figuur 1 kosten en opbrengsten voor Mores, scenario 1 en 2 16MO, MK, P (€ per pakje sigaretten) 4 1,50 0 120 200 400 q (x 100.000 pakjes sigaretten)"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-II, vraag 4",
-"q": "(Examen vwo 2019-II, vraag 4)\nBereken de maximale totale winst van Mores in scenario 2.",
+"titel": "Rookremmers",
+"q": "Bereken de maximale totale winst voor Mores in scenario 2.",
 "model": "P = −0,04 × 100 + 16 = € 12; TO = 12 × 100 × 100.000 = € 120 miljoen (1). TK = (0,01 × 100² + 6 × 100 + 100) × 100.000 = € 80 miljoen, dus TW = € 40 miljoen (1). Doorwerkfouten uit vraag 3 worden niet gestraft.",
 "pnt": 2,
 "id": "D.v5.2.v2019II4",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 4,
+"ctx": "De overheid van het land heeft sigaretten belast met € 2,50 accijns per pakje. De onderzoeker heeft berekend dat zonder verder ontmoedigend beleid de maatschappelijke kosten de baten zullen blijven overtreffen. Hij presenteert in tabel 1 scenario’s van antirookbeleid. Hieruit blijkt dat de verhoging van de accijns met nog eens € 2, eventueel in combinatie met aanvullende maatregelen, de negatieve balans tussen maatschappelijke kosten en baten positief kan doen omslaan. tabel 1 scenario’s van een antirookbeleid scenario omschrijving MKBA 1 voortzetting van het huidige beleid - € 1,2 miljard* 2 € 2 extra accijnsverhoging op een pakje sigaretten + € 2,5 miljard 3 scenario 2 + aanvullende maatregelen (rookverboden, marketingbeperkingen) + € 1,7 miljard * Per saldo zijn de kosten hoger dan de baten. De directie van sigarettenproducent Mores bestudeert de voorgestelde scenario’s om de gevolgen voor de eigen bedrijfsvoering door te rekenen. De financieel directeur stelt daartoe tabel 2 op, met de huidige financiële gegevens, en hij geeft een grafische weergave daarvan in figuur 1. Daarin schetst hij de marginale kostenlijn zonder accijns en de marginale kostenlijnen van scenario 1 en 2. Hij schetst ook de marginale opbrengstenlijn waar hij ervan uitgaat dat die niet verandert in scenario 2 ten opzichte van scenario 1. Mores kan in deze markt van heterogene producten enige invloed uitoefenen op de prijs van zijn eigen sigaretten. tabel 2 financiële gegevens Mores in 2017 (scenario 1) verkoopprijs € 11,20 afzet q = 120 totale omzet € 134,4 miljoen totale winst € 62 miljoen totale kosten in euro’s (inclusief € 2,50 accijns) TK = ( 0,01q² + 4q + 100 ) × 100.000 prijs-afzetfunctie P = -0,04q + 16 q is het aantal pakjes sigaretten (× 100.000) figuur 1 kosten en opbrengsten voor Mores, scenario 1 en 2 16MO, MK, P (€ per pakje sigaretten) 4 1,50 0 120 200 400 q (x 100.000 pakjes sigaretten)"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 15",
-"q": "(Examen vwo 2021-I, vraag 15)\nEen verfbedrijf heeft een prijsafzetfunctie met de eigen prijs en de prijs van de concurrent (€ 12). MK is € 8. Toon met een berekening aan dat het bedrijf bij maximale winst € 11 per liter vraagt.",
+"titel": "Prijsbeleid in de verf gezet",
+"q": "Toon met behulp van een berekening aan dat IC 11 euro vraagt voor een liter verf bij de gegeven prijs van Farbo.",
 "model": "Invullen pfb = 12 geeft q = −2p + 28, dus p = −0,5q + 14 (1). TO = −0,5q² + 14q, dus MO = −q + 14 (1). MO = MK: −q + 14 = 8, q = 6, p = −0,5 × 6 + 14 = 11 (1).",
 "pnt": 3,
 "id": "D.v5.2.v2021I15",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 15,
+"ctx": "Het verfbedrijf International Colors (IC) produceert een verfsoort voor roestend metaal. De directie bespreekt tijdens een vergadering de strategische keuzes die het bedrijf heeft om de winstgevendheid van de productie van deze specifieke verfsoort te verhogen. IC heeft op deze markt alleen concurrentie van Farbo die een vergelijkbare verfsoort op de markt brengt. Farbo streeft net als IC naar maximale totale winst en hanteert een prijs van 12 euro per liter verf. De prijsafzetfunctie van IC luidt als volgt: qic = -2 pic + 2 pfb + 4 qic = hoeveelheid verkochte liters verf (× 100.000) pic = prijs van IC verf per liter in euro’s pfb = prijs van Farbo verf per liter in euro’s Verder geldt voor IC: MK (marginale kosten) = 8 euro"
 }
 ],
 "bg": [
@@ -9228,30 +9368,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 13",
-"q": "(Examen vwo 2019-I, vraag 13)\nBeargumenteer met de pay-offmatrix wat er gebeurt met het verschil in collegegeld tussen BSA en BSB.",
+"titel": "Markt voor hoger onderwijs",
+"q": "Beargumenteer wat op basis van de pay-off matrix zal gebeuren met het verschil in collegegeld tussen BSA en BSB.",
 "model": "Voor BSA is verhogen dominant (0,57 > 0 en 6,86 > 5,71). Voor BSB is gelijk houden dominant (0 > −1,48 en 6,52 > 5,70). BSA startte met het laagste collegegeld (€ 15.000), dus het verschil wordt kleiner.",
 "pnt": 3,
 "id": "D.v5.3.v2019I13",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 13,
+"ctx": "Voor het komende collegejaar overwegen de directies van BSA en BSB onafhankelijk van elkaar om de collegegelden te verhogen met 10%. Op basis van bovenstaande functies is onderstaande pay-off matrix opgesteld. Matrix 1 procentuele veranderingen van de totale opbrengsten aan collegegelden ten opzichte van de huidige situatie BSB houdt collegegeld gelijk BSB verhoogt collegegeld met 10% BSA houdt collegegeld gelijk (0, 0) (+5,71, -1,48) BSA verhoogt collegegeld met 10% (+0,57, +6,52) (+6,86, +5,70)"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 24",
-"q": "(Examen vwo 2019-I, vraag 24)\nDe directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.",
+"titel": "Wie krijgt de opslag?",
+"q": "Leg de gedachtegang van de directrice uit.",
 "model": "OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.",
 "pnt": 2,
 "id": "D.v5.3.v2019I24",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 24,
+"ctx": "De directrice van WOP stelt: “Gegeven het Nash-evenwicht in de spelboom, stel ik voor om zo snel mogelijk te melden. Anders is straks de stijging van onze omzet geheel tenietgedaan door de boete van de LMA.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 5",
-"q": "(Examen vwo 2021-I, vraag 5)\nEen voorstel van de directie bevat voorwaarden: tweemaal akkoord geeft 20% werk bij de dochter, één weigering geeft die vakbond 30% en de ander maximaal 10%, tweemaal weigeren geeft faillissement. Gaan beide vakbonden akkoord? Licht toe door hun strategieën te vergelijken.",
+"titel": "AnyWay van de grond",
+"q": "Zullen beide vakbonden, uitsluitend op basis van bovenstaand voorstel en de betreffende aanscherping van de directie, akkoord gaan? Licht je antwoord toe door strategieën van beide vakbonden te vergelijken.",
 "model": "Ja. Gaat de ander niet akkoord, dan is akkoord beter, want 10% bij de dochter is beter dan faillissement. Gaat de ander wel akkoord, dan is akkoord beter, want 20% is beter dan 30%. Akkoord is dominante strategie voor beide. Een toelichting met matrix mag ook. Alleen 0 of 2 punten.",
 "pnt": 2,
 "id": "D.v5.3.v2021I5",
-"e": "D.vorm"
+"e": "D.vorm",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 5,
+"ctx": "De directie stelt voor om alle EAC-piloten een nieuw contract aan te bieden bij CAS, waarbij ze 20% van de uren voor AnyWay vliegen voor 10% lager loon. Om dit voorstel aan te scherpen stelt de directie de volgende voorwaarden: - Het voorstel geldt alleen bij een akkoord van beide vakbonden. - Als één van de vakbonden niet akkoord gaat, zullen de daarbij aangesloten piloten een contract krijgen waarbij ze 30% bij AnyWay vliegen en de piloten van de vakbond die wel akkoord is, een contract waarbij ze maximaal 10% bij AnyWay vliegen. In beide gevallen ontvangen ze voor hun vluchten bij AnyWay 10% minder loon. - Als beide vakbonden niet akkoord gaan, is het plan van de baan en dreigt er een faillissement van EAC. De directie weet dat alle piloten zijn aangesloten bij één van de twee vakbonden en dat beide vakbonden ongeveer even groot zijn. De vakbonden en de directie kunnen samen tot afspraken komen en zijn niet gebonden aan een cao. De vakbonden besluiten onafhankelijk van elkaar."
 }
 ],
 "bg": [
@@ -9523,12 +9678,17 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 26",
-"q": "(Examen vwo 2022-II, vraag 26)\nVerklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"titel": "Zoet gedronken zuur betaald",
+"q": "Verklaar dat de consumptie van suikerhoudende frisdranken kan leiden tot negatieve externe effecten.",
 "model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
 "pnt": 2,
 "id": "D.v6.1.v2022II26",
-"e": "D.falen"
+"e": "D.falen",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 26,
+"ctx": "Onderzoekers van de Wereldgezondheidsorganisatie hebben aangetoond dat overmatige consumptie van suikerhoudende frisdranken leidt tot veel overgewicht en diabetes in de Filipijnen. De Filipijnse overheid heeft daarom een heffing van 13% op de prijs van 45 peso’s per liter suikerhoudende frisdrank gelegd."
 }
 ],
 "bg": [
@@ -9909,30 +10069,45 @@ LEVELS.D.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-II, vraag 5",
-"q": "(Examen vwo 2019-II, vraag 5)\nBereken hoeveel procent van de accijnsverhoging Mores bij winstmaximalisatie in scenario 2 in de verkoopprijs doorberekent.",
+"titel": "Rookremmers",
+"q": "Bereken hoeveel procent van de accijnsverhoging door Mores wordt doorberekend in de verkoopprijs bij winstmaximalisatie in scenario 2.",
 "model": "(12,00 − 11,20) : 2 × 100% = 40%. Bij een foutieve prijs uit vraag 4 kan het punt alsnog worden toegekend.",
 "pnt": 1,
 "id": "D.v6.3.v2019II5",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 5,
+"ctx": "De overheid van het land heeft sigaretten belast met € 2,50 accijns per pakje. De onderzoeker heeft berekend dat zonder verder ontmoedigend beleid de maatschappelijke kosten de baten zullen blijven overtreffen. Hij presenteert in tabel 1 scenario’s van antirookbeleid. Hieruit blijkt dat de verhoging van de accijns met nog eens € 2, eventueel in combinatie met aanvullende maatregelen, de negatieve balans tussen maatschappelijke kosten en baten positief kan doen omslaan. tabel 1 scenario’s van een antirookbeleid scenario omschrijving MKBA 1 voortzetting van het huidige beleid - € 1,2 miljard* 2 € 2 extra accijnsverhoging op een pakje sigaretten + € 2,5 miljard 3 scenario 2 + aanvullende maatregelen (rookverboden, marketingbeperkingen) + € 1,7 miljard * Per saldo zijn de kosten hoger dan de baten. De directie van sigarettenproducent Mores bestudeert de voorgestelde scenario’s om de gevolgen voor de eigen bedrijfsvoering door te rekenen. De financieel directeur stelt daartoe tabel 2 op, met de huidige financiële gegevens, en hij geeft een grafische weergave daarvan in figuur 1. Daarin schetst hij de marginale kostenlijn zonder accijns en de marginale kostenlijnen van scenario 1 en 2. Hij schetst ook de marginale opbrengstenlijn waar hij ervan uitgaat dat die niet verandert in scenario 2 ten opzichte van scenario 1. Mores kan in deze markt van heterogene producten enige invloed uitoefenen op de prijs van zijn eigen sigaretten. tabel 2 financiële gegevens Mores in 2017 (scenario 1) verkoopprijs € 11,20 afzet q = 120 totale omzet € 134,4 miljoen totale winst € 62 miljoen totale kosten in euro’s (inclusief € 2,50 accijns) TK = ( 0,01q² + 4q + 100 ) × 100.000 prijs-afzetfunctie P = -0,04q + 16 q is het aantal pakjes sigaretten (× 100.000) figuur 1 kosten en opbrengsten voor Mores, scenario 1 en 2 16MO, MK, P (€ per pakje sigaretten) 4 1,50 0 120 200 400 q (x 100.000 pakjes sigaretten)"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-III, vraag 15",
-"q": "(Examen vwo 2021-III, vraag 15)\nDe taks is 2,5% van de prijs, de prijselasticiteit van de vraag is −2 en de hoeveelheid daalt met 4,3%. Toon met een berekening aan of meer dan driekwart van de taks wordt doorberekend.",
+"titel": "Een CO2-taks",
+"q": "Toon met een berekening aan of de bewering van de DNB-econoom juist is.",
 "model": "Prijsstijging = −4,3 : −2 = 2,15%. Doorberekend: 2,15 : 2,5 × 100% = 86%. Dat is meer dan 75%, dus de bewering klopt.",
 "pnt": 2,
 "id": "D.v6.3.v2021III15",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 15,
+"ctx": "In een vraag- en aanbodmodel van de chemische sector berekent de DNB-econoom het effect van de CO2-taks van 2,5% op de evenwichtsprijs. Hieruit blijkt dat, gegeven een prijselasticiteit van de vraag van -2, de gevraagde hoeveelheid zal dalen met 4,3%. De DNB-econoom beweert dat meer dan driekwart van de CO2-taks uiteindelijk zal worden doorberekend aan de consument."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2024-I, vraag 2",
-"q": "(Examen vwo 2024-I, vraag 2)\nGebruik figuur 1 (markt A met en zonder heffing). Bereken hoeveel procent van de heffing in de prijs van product A wordt doorberekend.",
+"titel": "Duurzaamheid stimuleren",
+"q": "Bereken hoeveel procent van de heffing wordt doorberekend in de prijs van product A.",
 "model": "Prijs stijgt van € 18 naar € 20 (+ € 2); de heffing is € 4 per stuk, af te lezen uit de verschuiving van de aanbodlijn (1). Doorberekend: 2 : 4 × 100% = 50% (1).",
 "pnt": 2,
 "id": "D.v6.3.v2024I2",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 2,
+"ctx": "De overheid van een land heeft met de overheden van andere landen een afspraak gemaakt om de CO2-uitstoot aanzienlijk te verminderen. Een politicus stelt een combinatie van maatregelen voor om het afgesproken doel te behalen: het instellen van heffingen op vervuilende productie (markt A) en het subsidiëren van schone productie (markt B). Een econoom onderzoekt deze twee markten van volledige mededinging. Figuur 1 Marktsituatie van A, met en zonder heffing: Figuur 2 Marktsituatie van B, met en zonder subsidie: De vervuilende productie van product A leidt tot maatschappelijke kosten."
 }
 ],
 "bg": [
@@ -10815,30 +10990,45 @@ LEVELS.E.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-II, vraag 20",
-"q": "(Examen havo 2019-II, vraag 20)\nLeg uit waarom banken op hypothecaire leningen een lager rentepercentage rekenen dan op consumptieve leningen.",
+"titel": "Huis en hypotheek",
+"q": "Leg uit waarom banken op hypothecaire leningen een lager rentepercentage rekenen dan op consumptieve leningen.",
 "model": "Bij een hypotheek is er onderpand, bij een consumptieve lening niet (1). Daardoor is het risico voor de bank lager en kan zij een lagere rente rekenen (1).",
 "pnt": 2,
 "id": "E.h10.3.h2019II20",
-"e": "E.rente"
+"e": "E.rente",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 20,
+"ctx": "De aankoop van een woning wordt vaak gefinancierd met een hypothecaire lening. Bij een hypothecaire lening is het rentepercentage dat de bank rekent lager dan bij een consumptieve lening. De laatste 30 jaar is het nominale rentepercentage op hypothecaire leningen gedaald. In 2016 bereikte dat rentepercentage zelfs een laagterecord (zie bron 1)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-III, vraag 16",
-"q": "(Examen havo 2021-III, vraag 16)\nBanken geven rentekorting op een hypotheek bij energielabel A. Leg uit waarom dat kan. Gebruik het begrip risico.",
+"titel": "Eigen energiecentrale",
+"q": "Leg uit waarom de banken een rentekorting kunnen bieden aan klanten die energielabel A bij hun woning hebben. Betrek het begrip risico in je uitleg.",
 "model": "Een woning met label A is beter verkoopbaar, dus de bank loopt minder risico op een te lage opbrengst van het onderpand bij gedwongen verkoop. Daarom kan zij een lagere rente vragen, passend bij de lagere risicokosten.",
 "pnt": 2,
 "id": "E.h10.3.h2021III16",
-"e": "E.rente"
+"e": "E.rente",
+"ex": "h21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 16,
+"ctx": "De meeste huiseigenaren hebben hun woning gefinancierd met een hypothecaire lening. Verschillende banken bieden klanten een korting op de hypotheekrente van 0,2 procentpunt bij aanschaf van een systeem voor duurzame energieopwekking voor de woning."
 },
 {
 "t": "open",
-"titel": "Examen havo 2026-II, vraag 19",
-"q": "(Examen havo 2026-II, vraag 19)\nEen land heeft een negatief overheidssaldo en particulier spaarsaldo. Maak een juiste redenering over het saldo lopende rekening, rentebetalingen, de rente op nieuwe staatsobligaties en het effect van een onderpand.",
+"titel": "Venezuela",
+"q": "Maak van onderstaande tekst een economisch juiste redenering.\n\nVenezuela heeft een negatief overheidssaldo en een negatief particulier spaarsaldo. Hierdoor is het saldo lopende rekening van de betalingsbalans …(1)…. Door hogere rentebetalingen aan het buitenland zal het saldo lopende rekening van de betalingsbalans …(2)…. Internationale beleggers hebben geen vertrouwen in de Venezolaanse overheid. Hierdoor zal de rente op nieuwe staatsobligaties …(3).... Als de overheid een geloofwaardig onderpand kan aanbieden, zal de rente …(4)…. Kies uit: bij (1) negatief / positief bij (2) verslechteren / niet veranderen / verbeteren bij (3) dalen / stijgen bij (4) dalen / stijgen",
 "model": "(1) negatief, (2) verslechteren, (3) stijgen, (4) dalen. Eén punt voor (1) en (2) juist, één punt voor (3) en (4) juist.",
 "pnt": 2,
 "id": "E.h10.3.h2026II19",
-"e": "E.rente"
+"e": "E.rente",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 19,
+"ctx": "De centrale bank van Venezuela besluit om in te grijpen om de hoge inflatie te bestrijden."
 }
 ],
 "bg": [
@@ -12302,30 +12492,45 @@ LEVELS.E.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 29",
-"q": "(Examen havo 2021-I, vraag 29)\nEen werkneemster met een hybride leaseauto van € 45.000 overweegt private lease. Toon met een berekening van de maandelijkse kosten aan welke keuze voor 2018 het best is. Gebruik de bronnen over bijtelling, tarieven en de advertentie.",
+"titel": "Stimuleren zonder effect",
+"q": "Gebruik het tijdschriftartikel, voorgaande tekst, en bron 1, 2 en 3.\nToon met een berekening van de maandelijkse kosten aan wat de beste keuze voor Jolanda van Dijk is voor 2018: private lease of zakelijke lease. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.",
 "model": "Private lease. Zakelijk: 51,95% van 22% van € 45.000 = € 5.143 extra belasting per jaar, dus € 428 per maand. Private lease kost € 415 per maand en is dus goedkoper.",
 "pnt": 2,
 "id": "E.h11.3.h2021I29",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 29,
+"ctx": "In 2017 rijdt Jolanda van Dijk een hybride leaseauto van de zaak met een aanschafwaarde van € 45.000. Ze heeft geen andere fiscale bijtellingen of aftrekposten. Haar brutojaarinkomen bedraagt € 69.000 in 2018. Vanwege de gestegen fiscale bijtelling vraagt Jolanda zich af of ze beter voor private lease in plaats van voor zakelijke lease kan kiezen. Ze bekijkt de voorwaarden van private lease van hetzelfde type auto in een advertentie (zie bron 2). Ook in het geval dat Jolanda kiest voor private lease blijft haar werkgever de kosten van brandstof en/of elektriciteit vergoeden."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-II, vraag 21",
-"q": "(Examen havo 2021-II, vraag 21)\nBereken met bron 2 hoeveel minder inkomensheffing Zacharia als startende zelfstandige betaalt dan Willem, bij een inkomen van € 33.333 voor beiden. Alleen de aftrekposten uit de bron tellen.",
+"titel": "Zelfstandigen niet solidair?",
+"q": "Gebruik bron 2.\nBereken hoeveel minder Zacharia als startende zelfstandige betaalt aan inkomensheffing vergeleken met Willem als ze beiden € 33.333 per jaar zouden verdienen. Je hoeft geen rekening te houden met andere aftrekposten dan in de bron genoemd.",
 "model": "Aftrek 7.280 + 2.123 + 0,14 × (33.333 − 7.280 − 2.123) = € 12.753,20 (1). Beiden vallen in de tweede schijf van 40,85% (1). Voordeel = 40,85% × 12.753,20 = € 5.209,68 (1).",
 "pnt": 3,
 "id": "E.h11.3.h2021II21",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 21,
+"ctx": "De buurmannen Zacharia (53 jaar) en Willem (50 jaar) werken allebei in de bouwsector. In 2018 was er een sterke productiegroei in deze sector en gaf Zacharia zijn baan in loondienst op. Hij werd zzp’er in de bouw, terwijl Willem ervoor koos werknemer te blijven. De bouw kent een cao met een bedrijfspensioen. Zacharia en Willem hebben het krantenartikel gelezen en zijn met elkaar daarover in discussie geraakt. - Uitspraak 1 – Zacharia: “Ik begrijp niet dat jij werknemer blijft. Mijn inkomen is dankzij de groei in de bouwsector hoger dan dat van jou. Mijn inkomen past zich snel aan de marktsituatie aan. En dan heb ik ook nog belastingvoordelen die jij niet hebt.” - Uitspraak 2 – Willem: “Ik blijf liever werknemer. Dan weet ik beter waar ik financieel aan toe ben en bovendien ben ik verzekerd tegen arbeidsongeschiktheid en ziekte. Jij mag dat zelf regelen, wat je trouwens nog steeds niet hebt gedaan. En dat terwijl het werken in de bouw niet zonder gevaren is….” - Uitspraak 3 – Zacharia: “Particuliere verzekeringsmaatschappijen werken met risicogroepen waar ze de premies op afstemmen. Dan is de zelfstandige advocaat beter af dan ik. Er zijn overheidsplannen om te komen tot een verplichte collectieve verzekering tegen arbeidsongeschiktheid en ziekte voor alle zzp’ers in Nederland. Daar wacht ik op, omdat dat veel gunstiger is voor mij. Leve de verplichte solidariteit!” - Uitspraak 4 – Willem: “Solidair? Jij hebt over enkele jaren net zoveel pensioen als ik, zonder dat je daarvoor betaalt. Dat noem ik geen solidariteit.” - Uitspraak 5 – Zacharia: “Wat je nu zegt over pensioen klopt niet. Je vergist je!”"
 },
 {
 "t": "open",
-"titel": "Examen havo 2022-III, vraag 2",
-"q": "(Examen havo 2022-III, vraag 2)\nEen werknemer heeft een belastbaar arbeidsinkomen van € 40.000 en geen aftrekposten. Onder het oude stelsel was de gemiddelde belastingdruk 27,9%. Toon met een berekening aan of de gemiddelde belastingdruk onder het nieuwe stelsel is gedaald (gebruik bron 1 en 2).",
+"titel": "Van drie naar twee schijven!",
+"q": "Gebruik bron 1 en 2.\nToon aan de hand van een berekening aan of bij een belastbaar inkomen uit arbeid van € 40.000 de gemiddelde belastingdruk onder het nieuwe belastingsysteem is gedaald.",
 "model": "Tarief 36,93% geeft € 14.772 belasting. Min heffingskortingen € 1.406 en € 2.857 geeft € 10.509 te betalen. Gemiddelde druk: 10.509 : 40.000 × 100% = 26,3%. Dat is lager dan 27,9%, dus de druk is gedaald.",
 "pnt": 2,
 "id": "E.h11.3.h2022III2",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "h22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 2,
+"ctx": "Een medewerker van een politieke partij wil nagaan of de gemiddelde belastingdruk op arbeid bij werknemers in de middengroep inderdaad daalt onder het nieuwe inkomstenbelastingstelsel. De medewerker berekent dat bij een belastbaar inkomen uit arbeid van € 40.000 en zonder aftrekposten, de gemiddelde belastingdruk bij het oude belastingsysteem 27,9% was. te betalen belasting De gemiddelde belastingdruk 100% belastbaar inkomen = ×"
 }
 ],
 "bg": [
@@ -12599,12 +12804,17 @@ LEVELS.E.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2023-II, vraag 10",
-"q": "(Examen havo 2023-II, vraag 10)\nBereken met de gegeven vraag- en aanbodvergelijking welk percentage van de taks van € 7,50 de luchtvaartmaatschappij zelf draagt.",
+"titel": "Vliegtaks",
+"q": "Bereken hoeveel procent van de vliegtaks voor rekening van de luchtvaartmaatschappijen komt. Bereken daartoe eerst de oude en de nieuwe evenwichtsprijs.",
 "model": "Evenwicht vóór: −P + 480 = 2P − 105, P = € 195 (1). Na: −P + 480 = 2P − 120, P = € 200 (1). Maatschappij draagt 7,50 − (200 − 195) = € 2,50, dus 2,50 : 7,50 × 100% = 33,3% / 33% (1).",
 "pnt": 3,
 "id": "E.h11.4.h2023II10",
-"e": "D.heffing"
+"e": "D.heffing",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 10,
+"ctx": "De luchtvaartmaatschappijen protesteren tegen de voorgestelde vliegtaks van € 7,50 per vliegticket, en stellen dat deze taks ten koste gaat van hun winst en alleen goed is voor de Nederlandse schatkist. Om het effect op de winst te verklaren, tonen zij een marktmodel met een vraag- en aanbodfunctie. Marktmodel met vraag- en aanbodfuncties Qv = −P + 480 Qavóór invoering vliegtaks = 2P – 105 Qana invoering vliegtaks = 2P – 120 Er geldt dat Qv = Qa P = gemiddelde prijs van een vliegticket in euro’s Q = aantal vliegtickets vanuit Nederlandse luchthavens x 10.000 Op basis van dit marktmodel stellen de luchtvaartmaatschappijen dat ze de vliegtaks niet volledig kunnen doorberekenen in de prijs van een vliegticket."
 }
 ],
 "bg": [
@@ -13083,12 +13293,17 @@ LEVELS.E.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-I, vraag 7",
-"q": "(Examen vwo 2022-I, vraag 7)\nUit de tabellen blijkt dat de hypotheekrente stijgt als de H/A-verhouding stijgt. Leg uit waarom.",
+"titel": "Een eigen huis",
+"q": "Leg uit waarom de hypotheekrente stijgt bij een toenemende H/A- verhouding.",
 "model": "Bij een hogere H/A-verhouding loopt de bank meer risico op een restschuld, want de schuld kan groter worden dan de woningwaarde als de huizenprijzen dalen. De bank vraagt daarom een hogere rente als compensatie voor dat risico.",
 "pnt": 2,
 "id": "E.v9.2.v2022I7",
-"e": "E.rente"
+"e": "E.rente",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 7,
+"ctx": "Beau oriënteert zich op de kredietverstrekking van de banken BNA en GNI. Tabellen 1 en 2 tonen de gevonden informatie. Daarin staan de hypotheekrentes, gebaseerd op de H/A-verhouding: H/A-verhouding = het de bedrag aankoopsom van de van hypotheeklening de woning x 100% Tabel 1 Rentepercentages bij verschillende H/A-verhoudingen en een rentevaste periode van 1 jaar bank H/A-verhouding = 60% H/A-verhouding = 80% H/A-verhouding = 100% BNA 1,05% 1,15% 1,60% GNI 1,25% 1,44% 1,64% Tabel 2 Rentepercentages bij verschillende H/A verhoudingen en een rentevaste periode van 10 jaar bank H/A-verhouding = 60% H/A-verhouding = 80% H/A-verhouding = 100% BNA 1,45% 1,81% 2,17% GNI 1,70% 1,90% 2,22% Toelichting: een rentevaste periode is een periode waarin de rente niet wordt gewijzigd. Uit de tabellen blijkt dat de hypotheekrente stijgt naarmate de H/A-verhouding stijgt en naarmate de rentevaste periode langer is."
 }
 ],
 "bg": [
@@ -14213,30 +14428,45 @@ LEVELS.E.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 26",
-"q": "(Examen vwo 2021-I, vraag 26)\nTarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
+"titel": "Gelijkheid en groei",
+"q": "Bereken onder welke hoogte van het primaire jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
 "model": "Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.",
 "pnt": 2,
 "id": "E.v10.2.v2021I26",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 26,
+"ctx": "Pikets meent dat de bijstandswet ongewenste effecten kan hebben: “Sommige mensen met inkomen uit arbeid of vermogen zijn nu door de werking van het belastingstelsel slechter af dan mensen met een bijstandsuitkering.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-III, vraag 25",
-"q": "(Examen vwo 2022-III, vraag 25)\nBereken het belastingvoordeel voor een modale werknemer (€ 38.500) door het nieuwe stelsel, met drie schijven en een afbouwende arbeidskorting ten opzichte van het oude stelsel met vier schijven en een vaste korting.",
+"titel": "Activerend arbeidsmarktbeleid",
+"q": "Bereken het belastingvoordeel door de stelselherziening voor de modale werknemer.",
 "model": "Oud: 12.000 × 0,37 + 25.000 × 0,41 + 1.500 × 0,42 − 1.000 = € 14.320. Nieuw: 20.000 × 0,35 + 18.500 × 0,40 = € 14.400 (1p). Arbeidskorting 1.500 − 23,5 × 40 = € 560 (1p). Nieuw € 13.840; voordeel € 480 (1p). Het voorschrift noemt de korting foutief 940; 560 klopt met 13.840.",
 "pnt": 3,
 "id": "E.v10.2.v2022III25",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "v22-3",
+"jaar": 2022,
+"tv": 3,
+"nr": 25,
+"ctx": "De voorgestelde verandering van de wet inkomstenbelasting heeft niet alleen gevolgen voor de groep inactieven. De minister van Sociale Zaken wil ook weten wat de gevolgen zijn voor de huidige actieven. Hij verwacht namelijk dat de actieven zich hierdoor minder zullen aanbieden op de arbeidsmarkt. In het land geldt dat het modale belastbaar arbeidsinkomen € 38.500 is per jaar."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-II, vraag 21",
-"q": "(Examen vwo 2021-II, vraag 21)\nDividend wordt belast met 15% boven een vrijstelling van € 10.000. Is dit een degressieve, progressieve of proportionele belasting? Motiveer.",
+"titel": "Dividendbelasting",
+"q": "Is de dividendbelasting in 2019 een voorbeeld van een degressieve, een progressieve of een proportionele belasting? Motiveer je keuze.",
 "model": "Progressief. Het tarief is proportioneel maar de vaste vrijstelling levert bij hoger dividend relatief minder voordeel op, dus het gemiddelde heffingspercentage stijgt met het dividend. Een juiste berekening mag ook.",
 "pnt": 2,
 "id": "E.v10.2.v2021II21",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 21,
+"ctx": "In een euroland belast de overheid in 2019 de winstuitkeringen (dividenden) van binnenlandse en buitenlandse beleggers met een tarief van 15%. De eerste € 10.000 wordt vrijgesteld van belasting."
 }
 ],
 "bg": [
@@ -14853,30 +15083,45 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 28",
-"q": "(Examen havo 2018-II, vraag 28)\nTwee aanbieders staan voor de eenmalige, gelijktijdige keuze om het tarief wel of niet te verlagen. Heeft de interviewer gelijk dat het een gevangenendilemma is? Gebruik het schema en licht je keuze toe.",
+"titel": "Prijzenoorlog",
+"q": "Gebruik bron 2.\nHeeft de interviewer gelijk met zijn uitspraak over het gevangenendilemma? Licht je keuze toe.",
 "model": "Nee. Tarief verlagen is voor beide partijen de dominante strategie en tevens de optimale uitkomst. Beide krijgen een hogere winst dan bij handhaven, dus geen gevangenendilemma.",
 "pnt": 2,
 "id": "F.h7.1.h2018II28",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 28,
+"ctx": "Op de lokale omroep wordt een econoom geïnterviewd over de werking van de prijzenoorlog. - De econoom: “Stel dat BP en CP de tariefsverlaging nog niet hebben ingevoerd en voor de eenmalige en gelijktijdige beslissing staan: wel of geen tariefsverlaging. Deze situatie heb ik in een schema gezet (bron 2) en zoals u ziet ….” - De interviewer: “Ja, ik zie het al. Er is hier sprake van een gevangenendilemma ….”"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 24",
-"q": "(Examen havo 2019-I, vraag 24)\nBeide energieleveranciers overwegen een callcenter in te huren om klanten van elkaar over te halen (pay-offmatrix in bron 2). Leg uit hoe de dominante strategie van elk bedrijf ontstaat en beredeneer of er een gevangenendilemma is.",
+"titel": "Dat kost energie",
+"q": "Gebruik bron 2.\nKomen beide energieleveranciers door deze ontwikkeling in een gevangenendilemma terecht? Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de bedrijven tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.",
 "model": "Ja. Voor beide bedrijven is 'wel inhuren' dominant: −2 > −4 als de ander inhuurt, en +2 > 0 als de ander niet inhuurt (2 punten, bewijs voor beide bedrijven nodig). Het evenwicht −2;−2 is suboptimaal, want 0;0 is beter voor beiden (1 punt).",
 "pnt": 3,
 "id": "F.h7.1.h2019I24",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 24,
+"ctx": "Energie + Gratis Cadeau Tablet Laptop Kadobon ... Beide bedrijven willen klanten van elkaar wegkapen en overwegen om een callcenter in te huren. Medewerkers van zo’n callcenter bellen klanten van de concurrent en proberen deze over te halen over te stappen. De resultaten van het al dan niet inhuren van een callcenter zijn zichtbaar gemaakt in een pay-offmatrix (zie bron 2)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-II, vraag 28",
-"q": "(Examen havo 2019-II, vraag 28)\nGebruik de pay-offmatrix in bron 1. Leg uit hoe de dominante strategie van elke verzekeraar ontstaat en beredeneer dan of er sprake is van een gevangenendilemma.",
+"titel": "Wie zorgt er voor de zorgkosten?",
+"q": "Gebruik bron 1.\nBeredeneer of beide verzekeraars inderdaad in deze situatie in een gevangenendilemma terecht komen. Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de verzekeraars tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.",
 "model": "Beide verzekeraars hebben als dominante strategie 'eigen risico verlagen': Anderzorg 1 > 0,6 en 0,5 > 0,2; Beterzorg 1,1 > 1,0 en 0,8 > 0,2 (2, bewijs voor beide nodig). Evenwicht (0,5; 0,8) is slechter dan handhaven (0,6; 1,0): dus gevangenendilemma (1).",
 "pnt": 3,
 "id": "F.h7.1.h2019II28",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 28,
+"ctx": "Harry Klein heeft ter onderbouwing van bovenstaande uitspraak in het krantenbericht een pay-offmatrix gemaakt. Hierin wordt de winstverandering bij de mogelijke keuzes van beide zorgverzekeraars weergegeven (zie bron 1)."
 }
 ],
 "bg": [
@@ -15068,21 +15313,31 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 28",
-"q": "(Examen havo 2021-I, vraag 28)\nWerknemers spreken af meer elektrisch te rijden en houden hun brandstofverbruik bij op een lijstje bij de koffieautomaat. Is hier sprake van zelfbinding? Leg je antwoord uit.",
+"titel": "Stimuleren zonder effect",
+"q": "Is in het bedrijf van Jolanda van Dijk sprake van zelfbinding? Leg je antwoord uit.",
 "model": "Ja: ze veranderen vrijwillig hun gedrag en zijn gebonden door de afspraak, doordat ze elkaar via het lijstje kunnen controleren. Volgens de aanvulling mag ook 'nee' punten opleveren bij een juiste duiding van zelfbinding en een consistente onderbouwing met de casus.",
 "pnt": 2,
 "id": "F.h7.2.h2021I28",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 28,
+"ctx": "In het bedrijf van Jolanda van Dijk willen werknemers een positieve bijdrage leveren aan het klimaat. Daarom spreken de werknemers met elkaar af dat ze meer elektrisch gaan rijden met de zakelijke hybride leaseauto in plaats van op fossiele brandstof. Ze hangen een lijstje bij de koffieautomaat waar ze ieders brandstofverbruik op bijhouden."
 },
 {
 "t": "open",
-"titel": "Examen havo 2023-II, vraag 24",
-"q": "(Examen havo 2023-II, vraag 24)\nGeef een maatregel waarmee ABC geloofwaardig kan beloven nooit losgeld te betalen.",
+"titel": "Verzekerd van data",
+"q": "Noem een voorbeeld van geloofwaardige zelfbinding waarmee bedrijf ABC bedrijf XYZ kan overtuigen dat het zich aan de afspraak zal houden.",
 "model": "ABC maakt publiek bekend nooit te betalen, zodat betalen reputatieschade geeft. Of ABC sluit vooraf een controleerbaar servicecontract af, zodat betalen die kosten nutteloos maakt. De negatieve gevolgen van betalen moeten blijken.",
 "pnt": 1,
 "id": "F.h7.2.h2023II24",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 24,
+"ctx": "Stel dat ABC en XYZ een afspraak maken dat als ze beide gehackt worden, dat beide bedrijven dan zullen kiezen voor de strategie die een beter resultaat oplevert voor beide. Maar XYZ twijfelt of ABC zich wel aan de afspraak zal houden."
 }
 ],
 "bg": [
@@ -15363,30 +15618,45 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2024-I, vraag 12",
-"q": "(Examen havo 2024-I, vraag 12)\nGebruik bron 2. Welke bedragen horen op plaats (1) en (2) in de beslisboom? Leg je keuze uit. Het budget is € 6.000 per fiets en de marginale kosten zijn € 3.500.",
+"titel": "Speedpedelec",
+"q": "Gebruik bron 2.\nWelke bedragen moeten op plaats (1) en (2) in de beslisboom staan? Leg je keuze uit.",
 "model": "Bij (1) € 1.500: Snel houdt over € 6.000 − € 4.500. Bij (2) € 1.000: Sprinter houdt over € 4.500 − € 3.500 (marginale kosten), als Sprinter het voorstel accepteert.",
 "pnt": 2,
 "id": "F.h7.4.h2024I12",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 12,
+"ctx": "In bron 2 staan drie keuzeopties van het spel beschreven in een beslisboom. De uitkomsten geven de verdeling van het restbedrag na aftrek van de variabele productiekosten."
 },
 {
 "t": "open",
-"titel": "Examen havo 2024-I, vraag 13",
-"q": "(Examen havo 2024-I, vraag 13)\nGebruik bron 2. Leg uit welke van de drie verdelingen ontstaat als Sprinter en Snel allebei zo veel mogelijk euro's voor zichzelf willen.",
+"titel": "Speedpedelec",
+"q": "Gebruik bron 2.\nLeg uit welke van de drie verdelingen uit bron 2 tot stand zal komen, als Sprinter en Snel streven naar een zo hoog mogelijke eigen opbrengst in euro’s.",
 "model": "Sprinter accepteert elk voorstel met een opbrengst boven € 0 (dus boven de minimale leveringsbereidheid). Snel kent dat en doet het voorstel dat de eigen opbrengst maximaal maakt, € 3.501. De verdeling wordt € 2.499 voor Snel en € 1 voor Sprinter. Best-responsmethode is ook goed.",
 "pnt": 2,
 "id": "F.h7.4.h2024I13",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 13,
+"ctx": "In bron 2 staan drie keuzeopties van het spel beschreven in een beslisboom. De uitkomsten geven de verdeling van het restbedrag na aftrek van de variabele productiekosten."
 },
 {
 "t": "open",
-"titel": "Examen havo 2024-II, vraag 25",
-"q": "(Examen havo 2024-II, vraag 25)\nBouwrijk doet Schot in de Zaak een eenmalig voorstel voor de verdeling van een aanneemsom van € 485.000; bij weigering vervalt de opdracht. Startkosten: € 12.500 en € 25.000. Leg uit welk bedrag Schot in de Zaak minimaal accepteert bij puur eigenbelang op korte termijn.",
+"titel": "Aanbesteding",
+"q": "Leg uit welk verdelingsvoorstel (uitgedrukt in hele euro’s) aannemer Schot in de Zaak minimaal zal accepteren, als deze uitsluitend het eigenbelang op korte termijn nastreeft.",
 "model": "Schot in de Zaak accepteert elke verdeling waarmee hij zijn eigen startkosten terugverdient. Het minimale voorstel is € 25.000 (of € 25.001).",
 "pnt": 2,
 "id": "F.h7.4.h2024II25",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h24-2",
+"jaar": 2024,
+"tv": 2,
+"nr": 25,
+"ctx": "De gemeente wil een nieuw gemeentehuis laten bouwen. Gezien de complexiteit van de bouw, wil de gemeente de opdracht aan twee aannemers (Bouwrijk en Schot in de Zaak) gunnen. De gemeente zal de totale aanneemsom betalen aan aannemer Bouwrijk. Vooraf stelt de gemeente de volgende voorwaarde: Bouwrijk stelt een verdeling van het bedrag voor. Vervolgens moet Schot in de Zaak besluiten om in te stemmen of te weigeren. Er is geen mogelijkheid voor onderhandelen, omdat de gemeente snel een antwoord verwacht. Bij weigering gaat de opdracht naar twee andere aannemers. Aannemer Bouwrijk gaat voortvarend te werk en doet Schot in de Zaak een voorstel voor een verdeling van de totale aanneemsom. De totale aanneemsom en de startkosten voor beide bedrijven zijn als volgt: totale aanneemsom startkosten Bouwrijk startkosten Schot in de Zaak € 485.000 € 12.500 € 25.000"
 }
 ],
 "bg": [
@@ -15559,30 +15829,45 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2023-II, vraag 19",
-"q": "(Examen havo 2023-II, vraag 19)\nLeg uit dat de kosten van medicijnontwikkeling verzonken kosten zijn.",
+"titel": "De prijs van medicijnen",
+"q": "Gebruik het bovenstaande krantenartikel.\nLeg uit dat er bij de investeringen die door Fluid zijn gedaan voor medicijnontwikkeling sprake kan zijn van verzonken kosten.",
 "model": "Fabrikanten doen specifieke investeringen om een medicijn te ontwikkelen (1). Die kosten zijn verzonken, want ze zijn alleen terug te verdienen via verkoop, ook niet als de FDA geen toestemming geeft (1).",
 "pnt": 2,
 "id": "F.h8.1.h2023II19",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 19,
+"ctx": "Uit een krant: Medicijnfabrikant Fluid legt uit waarom ze veel winst op het medicijn Antibio moet maken. Dankzij het patent op dit medicijn verdient het bedrijf niet alleen de ontwikkelkosten terug, maar kan het ook winst maken. Met deze winst kan de ontwikkeling van weer andere, nieuwe medicijnen worden gefinancierd. Voordat een medicijnfabrikant een nieuw medicijn op de Amerikaanse markt mag brengen, moet het eerst worden goedgekeurd door de U.S Food and Drug Administration (FDA)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2025-I, vraag 17",
-"q": "(Examen havo 2025-I, vraag 17)\nDuurzame investeringen geven hoge verzonken kosten, waardoor bedrijven nieuwe markten zoeken. Leg uit dat de totale CO2-uitstoot daardoor niet hoeft te dalen.",
+"titel": "CO2-rechten",
+"q": "Leg uit dat de hoge verzonken kosten ervoor kunnen zorgen dat de totale CO2-uitstoot niet daalt.",
 "model": "Bedrijven investeren alleen als ze verzonken kosten kunnen terugverdienen, dus ze zoeken meer afzet en nieuwe markten (1). De productie stijgt zo sterk dat de uitstoot ondanks schonere productie gelijk kan blijven of toenemen (1).",
 "pnt": 2,
 "id": "F.h8.1.h2025I17",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 17,
+"ctx": "Investeringen in duurzame productiemethoden leiden tot hoge verzonken kosten. Hierdoor gaan bedrijven op zoek naar nieuwe markten, waardoor de totale CO2-uitstoot niet daalt."
 },
 {
 "t": "open",
-"titel": "Examen havo 2026-II, vraag 30",
-"q": "(Examen havo 2026-II, vraag 30)\nEen werkgever investeert in de opleiding van werknemers en kan daardoor verzonken kosten hebben. Leg uit hoe hij verzonken kosten kan voorkomen.",
+"titel": "Baanpolarisatie",
+"q": "Leg uit hoe de werkgever ervoor kan zorgen dat er geen verzonken kosten optreden.",
 "model": "De werkgever neemt een clausule in het contract op dat de werknemer een minimale periode in dienst blijft. Zo verdient hij de investering terug, dus er zijn geen verzonken kosten.",
 "pnt": 2,
 "id": "F.h8.1.h2026II30",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "h26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 30,
+"ctx": "Investeringen in menselijk kapitaal kunnen ook door de werkgever gedaan worden. Deze investeringen kunnen leiden tot verzonken kosten voor de werkgever."
 }
 ],
 "bg": [
@@ -16445,30 +16730,45 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 13",
-"q": "(Examen vwo 2019-I, vraag 13)\nBeargumenteer met de pay-offmatrix wat er gebeurt met het verschil in collegegeld tussen BSA en BSB.",
+"titel": "Markt voor hoger onderwijs",
+"q": "Beargumenteer wat op basis van de pay-off matrix zal gebeuren met het verschil in collegegeld tussen BSA en BSB.",
 "model": "Voor BSA is verhogen dominant (0,57 > 0 en 6,86 > 5,71). Voor BSB is gelijk houden dominant (0 > −1,48 en 6,52 > 5,70). BSA startte met het laagste collegegeld (€ 15.000), dus het verschil wordt kleiner.",
 "pnt": 3,
 "id": "F.v7.1.v2019I13",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 13,
+"ctx": "Voor het komende collegejaar overwegen de directies van BSA en BSB onafhankelijk van elkaar om de collegegelden te verhogen met 10%. Op basis van bovenstaande functies is onderstaande pay-off matrix opgesteld. Matrix 1 procentuele veranderingen van de totale opbrengsten aan collegegelden ten opzichte van de huidige situatie BSB houdt collegegeld gelijk BSB verhoogt collegegeld met 10% BSA houdt collegegeld gelijk (0, 0) (+5,71, -1,48) BSA verhoogt collegegeld met 10% (+0,57, +6,52) (+6,86, +5,70)"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 24",
-"q": "(Examen vwo 2019-I, vraag 24)\nDe directrice van WOP wil volgens het Nash-evenwicht zo snel mogelijk melden, omdat anders de boete de extra omzet tenietdoet. Leg haar gedachtegang uit.",
+"titel": "Wie krijgt de opslag?",
+"q": "Leg de gedachtegang van de directrice uit.",
 "model": "OBX heeft melden als dominante strategie (100% < 400% en 0% < 300% boete). WOP kiest dan tussen melden (0% boete) en niet melden (400%) en kiest melden. WOP wil OBX voor zijn om de boete van 100% als tweede melder te ontlopen.",
 "pnt": 2,
 "id": "F.v7.1.v2019I24",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 24,
+"ctx": "De directrice van WOP stelt: “Gegeven het Nash-evenwicht in de spelboom, stel ik voor om zo snel mogelijk te melden. Anders is straks de stijging van onze omzet geheel tenietgedaan door de boete van de LMA.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 5",
-"q": "(Examen vwo 2021-I, vraag 5)\nEen voorstel van de directie bevat voorwaarden: tweemaal akkoord geeft 20% werk bij de dochter, één weigering geeft die vakbond 30% en de ander maximaal 10%, tweemaal weigeren geeft faillissement. Gaan beide vakbonden akkoord? Licht toe door hun strategieën te vergelijken.",
+"titel": "AnyWay van de grond",
+"q": "Zullen beide vakbonden, uitsluitend op basis van bovenstaand voorstel en de betreffende aanscherping van de directie, akkoord gaan? Licht je antwoord toe door strategieën van beide vakbonden te vergelijken.",
 "model": "Ja. Gaat de ander niet akkoord, dan is akkoord beter, want 10% bij de dochter is beter dan faillissement. Gaat de ander wel akkoord, dan is akkoord beter, want 20% is beter dan 30%. Akkoord is dominante strategie voor beide. Een toelichting met matrix mag ook. Alleen 0 of 2 punten.",
 "pnt": 2,
 "id": "F.v7.1.v2021I5",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 5,
+"ctx": "De directie stelt voor om alle EAC-piloten een nieuw contract aan te bieden bij CAS, waarbij ze 20% van de uren voor AnyWay vliegen voor 10% lager loon. Om dit voorstel aan te scherpen stelt de directie de volgende voorwaarden: - Het voorstel geldt alleen bij een akkoord van beide vakbonden. - Als één van de vakbonden niet akkoord gaat, zullen de daarbij aangesloten piloten een contract krijgen waarbij ze 30% bij AnyWay vliegen en de piloten van de vakbond die wel akkoord is, een contract waarbij ze maximaal 10% bij AnyWay vliegen. In beide gevallen ontvangen ze voor hun vluchten bij AnyWay 10% minder loon. - Als beide vakbonden niet akkoord gaan, is het plan van de baan en dreigt er een faillissement van EAC. De directie weet dat alle piloten zijn aangesloten bij één van de twee vakbonden en dat beide vakbonden ongeveer even groot zijn. De vakbonden en de directie kunnen samen tot afspraken komen en zijn niet gebonden aan een cao. De vakbonden besluiten onafhankelijk van elkaar."
 }
 ],
 "bg": [
@@ -16650,21 +16950,31 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 8",
-"q": "(Examen vwo 2022-II, vraag 8)\nLeport legt een pijpleiding aan en de bedrijven bouwen afvanginstallaties. Verklaar dat Leport een berovingsprobleem kan krijgen en dat de dreiging van de bedrijven om op te zeggen niet geloofwaardig is.",
+"titel": "CO2 ondergronds",
+"q": "Verklaar de conclusies van Dumas.",
 "model": "De pijpleiding is een specifieke investering die Leport niet anders kan terugverdienen, dus Leport kan worden beroofd (2). De bedrijven hebben zelf verzonken kosten van € 39 miljoen, dus hun dreiging met opzeggen is niet geloofwaardig (1).",
 "pnt": 3,
 "id": "F.v7.2.v2022II8",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 8,
+"ctx": "Als een van de bedrijven zich na de aanleg van de installaties zou terugtrekken zou dit voor de overgebleven bedrijven betekenen dat ze elk een hoger transporttarief moeten gaan betalen, zodat Leport de pijpleiding kostendekkend houdt. Bij een mogelijke verhoging van het tarief kunnen de deelnemende bedrijven dreigen met opzegging van de samenwerking. Dumas concludeert: i Leport kan te maken krijgen met een berovingsprobleem. ii De dreiging om de samenwerking op te zeggen is niet geloofwaardig."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2025-I, vraag 16",
-"q": "(Examen vwo 2025-I, vraag 16)\nGuarda adverteert met een vaste prijs voor 2025 plus een laagsteprijsgarantie: bij een lagere prijs bij de concurrent krijgt de klant 25% korting op die lagere prijs. Leg uit dat dit het risico op een prijzenoorlog beperkt.",
+"titel": "IJssalon",
+"q": "Leg uit dat door deze manier van zelfbinding het risico op een prijzenoorlog wordt beperkt.",
 "model": "Guarda is gebonden aan het volgen van de prijsverlaging van de concurrent (1). De concurrent weet dat zijn omzet of winst bij een prijsverlaging daalt en heeft dus geen prikkel om de prijs te verlagen (1).",
 "pnt": 2,
 "id": "F.v7.2.v2025I16",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 16,
+"ctx": "Guarda wil een prijzenoorlog vermijden. Guarda past zelfbinding toe door advertenties op sociale media te plaatsen. In deze advertenties staat een vaste verkoopprijs voor 2025, in combinatie met een laagsteprijsgarantie. Dit houdt het volgende in: als consumenten een ijsje voor een lagere prijs kunnen krijgen bij concurrent Orso Bianco, dan geeft Guarda een korting van 25% op die lagere prijs."
 }
 ],
 "bg": [
@@ -17202,12 +17512,17 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 26",
-"q": "(Examen vwo 2022-II, vraag 26)\nVerklaar dat het drinken van suikerhoudende frisdrank negatieve externe effecten kan veroorzaken.",
+"titel": "Zoet gedronken zuur betaald",
+"q": "Verklaar dat de consumptie van suikerhoudende frisdranken kan leiden tot negatieve externe effecten.",
 "model": "Frisdrank veroorzaakt overgewicht en diabetes, waardoor de vraag naar zorg en de zorgkosten stijgen (1). Deze kosten worden niet of maar deels door de consumenten zelf betaald (1).",
 "pnt": 2,
 "id": "F.v7.4.v2022II26",
-"e": "F.coll"
+"e": "F.coll",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 26,
+"ctx": "Onderzoekers van de Wereldgezondheidsorganisatie hebben aangetoond dat overmatige consumptie van suikerhoudende frisdranken leidt tot veel overgewicht en diabetes in de Filipijnen. De Filipijnse overheid heeft daarom een heffing van 13% op de prijs van 45 peso’s per liter suikerhoudende frisdrank gelegd."
 }
 ],
 "bg": [
@@ -17510,30 +17825,45 @@ LEVELS.F.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-II, vraag 27",
-"q": "(Examen vwo 2021-II, vraag 27)\nVerklaar dat het zuiveringsbedrijf bij de onderhandelingen met de vier grote bedrijven met een berovingsprobleem te maken heeft.",
+"titel": "Afvalwater, een schone zaak",
+"q": "Verklaar dat ZW bij de onderhandelingen te maken heeft met een berovingsprobleem.",
 "model": "Het zuiveringsbedrijf heeft specifieke investeringen gedaan (verzonken kosten) die het alleen terugverdient met voldoende afvalwater. Daardoor kunnen de vier bedrijven het dwingen akkoord te gaan met een korting op de heffing.",
 "pnt": 2,
 "id": "F.v8.1.v2021II27",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 27,
+"ctx": "In een gemeente zuivert waterzuiveringsbedrijf Zuiverwater (ZW) afvalwater dat door bedrijven in het riool is geloosd. Bedrijven betalen voor elke liter afvalwater een heffing van 70 euro per vervuilingseenheid (VE). ZW heeft specifieke investeringen gedaan en heeft als bedrijfsdoelstelling break-even draaien. Bedrijven kunnen ervoor kiezen om zelf hun afvalwater te zuiveren. Een groep van vier grote bedrijven (de G4) die samen op een bedrijventerrein zijn gevestigd overweegt een eigen zuiveringsinstallatie te bouwen. De G4 brengt ZW hiervan op de hoogte. ZW ziet zijn break-even doelstelling in gevaar komen en zal moeten onderhandelen met de G4 om tot een oplossing te komen."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-III, vraag 5",
-"q": "(Examen vwo 2021-III, vraag 5)\nEen club investeert in jeugdspeelsters, maar die kunnen vroeg vertrekken. De maatregel is dat vroege vertrekkers een vergoeding aan de club betalen. Leg uit hoe dit het berovingsprobleem deels beperkt.",
+"titel": "Vrouwenvoetbal",
+"q": "Leg uit hoe de maatregel van directeur Verheijen het berovingsprobleem deels kan beperken.",
 "model": "De investering is specifiek en niet terug te verdienen bij vroeg vertrek, wat een berovingsprobleem geeft. De vergoeding dekt de kosten deels, dus het probleem wordt deels voorkomen.",
 "pnt": 2,
 "id": "F.v8.1.v2021III5",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 5,
+"ctx": "Directeur Verheijen ziet graag jeugdspeelsters doorgroeien van het jeugdteam naar het betaalde elftal. Hij wil extra investeren in de jeugdopleiding door middel van betere faciliteiten en een betere begeleiding. Hij voorziet wel een berovingsprobleem. Hij denkt dit probleem te kunnen beperken door de volgende maatregel: speelsters die voor hun 20ste levensjaar vertrekken bij de club moeten VV een vergoeding betalen."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-III, vraag 19",
-"q": "(Examen vwo 2021-III, vraag 19)\nDe redactrice verwacht dat verzekeraars na 2021 een lagere prijs afdwingen. Leg uit dat het ziekenhuis daarom een meerjarig contract moet eisen om een berovingsprobleem te vermijden.",
+"titel": "Gezonde zorg",
+"q": "Leg uit dat het ziekenhuis een meerjarig contract moet eisen om een berovingsprobleem te vermijden.",
 "model": "De investering is specifiek: bij overstap naar een ander ziekenhuis blijven vaste kosten onterugverdiend. Een meerjarig contract geeft zekerheid over opbrengsten en voorkomt het berovingsprobleem.",
 "pnt": 2,
 "id": "F.v8.1.v2021III19",
-"e": "F.spel"
+"e": "F.spel",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 19,
+"ctx": "De redactrice schrijft: “Ik verwacht dat als het ziekenhuis akkoord gaat met de voorwaarden voor alleen het aankomende jaar, dat de zorgverzekeraars na 2021 mogelijk een lagere prijs per behandeling afdwingen door te dreigen een ander ziekenhuis in de regio te benaderen om in de toekomst deze behandeling uit te voeren. Het ziekenhuis zal een meerjarig contract moeten eisen.”"
 }
 ],
 "bg": [
@@ -18148,30 +18478,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 18",
-"q": "(Examen havo 2018-I, vraag 18)\nMaak een economisch juiste redenering over de verplichte basiszorgverzekering. Kies bij (1) tussen asymmetrische informatie en risico-aversie, bij (2) tussen belastingheffing en solidariteit, bij (3) tussen asymmetrische informatie en averechtse selectie, bij (4) tussen hoog en laag.",
+"titel": "Zekerheidszoekers in de zorg",
+"q": "Maak van de onderstaande tekst een economisch juiste redenering.\n\nBij verzekeringen in het algemeen hangt de keuze van de consument voor het afsluiten van een verzekering onder andere af van de mate van …(1)…. Bij de basiszorgverzekering is er daarom sprake van verplichte …(2)…, waarbij de premie voor iedereen gelijk kan blijven. De verplichting voorkomt dat er …(3)… optreedt, waarbij onevenredig veel mensen met een …(4)… gezondheidsrisico zich zouden verzekeren. Kies uit: bij (1) asymmetrische informatie / risico-aversie bij (2) belastingheffing / solidariteit bij (3) asymmetrische informatie / averechtse selectie bij (4) hoog / laag",
 "model": "(1) risico-aversie, (2) solidariteit, (3) averechtse selectie, (4) hoog. Punten: (1) 1, (2) 1, (3) en (4) samen 1.",
 "pnt": 3,
 "id": "G.h9.1.h2018I18",
-"e": "G.risico"
+"e": "G.risico",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 18,
+"ctx": "Sinds 2006 is de verzekering tegen zorgkosten in Nederland geprivatiseerd. Om hoge zorgpremies te voorkomen is in de Zorgverzekeringswet (Zvw) geregeld dat iedereen die in Nederland woont verplicht een basiszorgverzekering moet afsluiten. Volgens een onderzoeksbureau is een mogelijk gevolg van deze verplichte verzekering een toename van moral hazard, waardoor de collectieve zorguitgaven en uiteindelijk de zorgpremies alsnog kunnen stijgen."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-II, vraag 3",
-"q": "(Examen havo 2021-II, vraag 3)\nBron 2: steeds meer verzekerden kiezen vrijwillig een hoger eigen risico. Bron 3: er worden minder aanvullende verzekeringen afgesloten. Leg voor elk van de twee bronnen uit hoe je eruit kunt afleiden dat de risico-aversie van verzekerden toeneemt of afneemt.",
+"titel": "Eigen risico en aanvullende verzekering",
+"q": "Gebruik bron 2 en bron 3.\nLeg voor elk van de bronnen uit hoe je hieruit een toename ofwel een afname van risico-aversie bij verzekerden kunt afleiden.",
 "model": "Bron 2: steeds meer verzekerden kiezen vrijwillig een hoger eigen risico, dus ze zijn minder risico-avers. Bron 3: er worden minder aanvullende verzekeringen afgesloten, dus mensen dragen vaker zelf het risico. Per bron 1 punt.",
 "pnt": 2,
 "id": "G.h9.1.h2021II3",
-"e": "G.risico"
+"e": "G.risico",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 3,
+"ctx": "Het veranderende klantgedrag kan duiden op een verandering in risico-aversie bij verzekerden (zie bron 2 en bron 3)."
 },
 {
 "t": "open",
-"titel": "Examen havo 2022-II, vraag 4",
-"q": "(Examen havo 2022-II, vraag 4)\nHeeft risicoaversie van consumenten een positief of negatief effect op de vraag naar schadepolissen? Leg je keuze uit.",
+"titel": "Zonder risico geen verzekering",
+"q": "Gebruik bron 1, pijl 4.\nHeeft risicoaversie van consumenten een positief of een negatief effect op de vraag naar schadepolissen? Leg je keuze uit.",
 "model": "Positief effect. Risicoaverse consumenten willen risico vermijden en dekken zich met een polis in. Daardoor willen zij bij elke premie meer of vaker verzekeringen afsluiten, dus de vraag neemt toe.",
 "pnt": 2,
 "id": "G.h9.1.h2022II4",
-"e": "G.risico"
+"e": "G.risico",
+"ex": "h22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 4,
+"ctx": "Een econoom heeft onderzoek gedaan naar de vraag naar schade-polissen en presenteert de bevindingen in een schema (zie bron 1)."
 }
 ],
 "bg": [
@@ -18427,30 +18772,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 13",
-"q": "(Examen havo 2018-II, vraag 13)\nDe basisverzekering is verplicht om averechtse selectie te voorkomen. Leg uit dat averechtse selectie tot hogere premies kan leiden.",
+"titel": "Zorgeloos kiezen?",
+"q": "Leg uit dat averechtse selectie tot een stijging van de premies kan leiden.",
 "model": "Mensen met een laag risico op zorgkosten verzekeren zich niet, omdat ze de premie te hoog vinden. Alleen de slechte risico's blijven over. De premie moet stijgen om de schadelast te dekken.",
 "pnt": 2,
 "id": "G.h9.2.h2018II13",
-"e": "G.info"
+"e": "G.info",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 13,
+"ctx": "Met de komst van de Zorgverzekeringswet (2006) is elke Nederlander wettelijk verplicht een basisverzekering af te sluiten bij een zorgverzekeraar. Elke zorgverzekeraar heeft een acceptatieplicht en mag dus niemand weigeren. De basisverzekering is verplicht gesteld om te voorkomen dat er averechtse selectie optreedt. Averechtse selectie kan ertoe leiden dat de premies gaan stijgen. Verder regelt de wet dat iedere verzekerde een eigen risico heeft, om moral hazard te beperken. Dit verplichte eigen risico kent een minimumbedrag, maar de verzekerde kan dit eigen risico wel verhogen in ruil voor een lagere premie."
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 13",
-"q": "(Examen havo 2019-I, vraag 13)\nBij een PHYD-autoverzekering (Pay How You Drive) krijg je korting bij goed rijgedrag. Een econoom zegt dat deze verzekering voor verzekeraars een maatregel is tegen averechtse selectie. Leg deze uitspraak uit.",
+"titel": "De verzekeraar rijdt met u mee!",
+"q": "Leg uitspraak 1 uit.",
 "model": "De verzekering geeft korting bij goed gedrag en past premiedifferentiatie toe tussen goede en slechte risico's (1). Daardoor blijven goede risico's verzekerd of worden ze aangetrokken, dus averechtse selectie wordt tegengegaan (1).",
 "pnt": 2,
 "id": "G.h9.2.h2019I13",
-"e": "G.info"
+"e": "G.info",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 13,
+"ctx": "Een verzekeringseconoom reageert op de opkomst van de PHYD-autoverzekering en doet de volgende twee uitspraken: 1 “De PHYD-autoverzekering is voor verzekeraars een maatregel om averechtse selectie tegen te gaan.” 2 “Het mooie van de PHYD-autoverzekering is dat behalve de verzekerden en de verzekeraars de gehele maatschappij kan profiteren, doordat de maatschappelijke kosten van het autorijden afnemen.”"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-II, vraag 26",
-"q": "(Examen havo 2019-II, vraag 26)\nLeg uit dat het verlagen van het eigen risico door een zorgverzekeraar op termijn tot een hogere premie kan leiden.",
+"titel": "Wie zorgt er voor de zorgkosten?",
+"q": "Gebruik het krantenbericht.\nLeg uit dat de verlaging van het eigen risico door Anderzorg op termijn tot premieverhoging kan leiden.",
 "model": "Meer en/of hogere uitkeringen aan klanten, ook door het aantrekken van 'slechte' risico's van de concurrent (1). De premie moet op termijn omhoog om de extra zorgkosten te dekken (1).",
 "pnt": 2,
 "id": "G.h9.2.h2019II26",
-"e": "G.info"
+"e": "G.info",
+"ex": "h19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 26,
+"ctx": "uit een krant, 14 november 2017: Anderzorg heeft de voorwaarden voor zijn ziektekostenverzekering voor komend jaar bekendgemaakt. De jaarpremie voor 2018 is vastgesteld op € 1.290 en daalt daarmee met 0,5% ten opzichte van 2017. Bovendien verlaagt Anderzorg het eigen risico van € 485 naar € 375. Gezondheidseconoom Harry Klein zegt in een interview met deze krant dat dit hem verbaast. “Gezien de stijgende zorgkosten had ik juist een premieverhoging van 10% en een verhoging van het eigen risico verwacht.” Een woordvoerder van Anderzorg bevestigt de nieuwe voorwaarden en zegt hierover: “Door schaalvoordelen zijn onze gemiddelde kosten gedaald en dat leidt tot een premieverlaging. Het eigen risico hebben wij verlaagd, omdat mensen niet altijd invloed hebben op hun zorgkosten en wij van mening zijn dat je deze ‘slechte’ risico’s niet mag benadelen. Wij pleiten voor het volledig afschaffen van het eigen risico.”"
 }
 ],
 "bg": [
@@ -19244,30 +19604,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-II, vraag 6",
-"q": "(Examen vwo 2021-II, vraag 6)\nVerzekerden willen 120% van de verwachte schade als premie betalen. Zijn ze risico-zoekend, risiconeutraal of risico-avers? Licht toe.",
+"titel": "Verzekeren op maat",
+"q": "Zijn de potentiële verzekerden volgens de aannames risico-zoekend, risiconeutraal of risico-avers? Licht je antwoord toe.",
 "model": "Risico-avers. Ze willen meer betalen dan het verwachte schadebedrag, namelijk 120%, om het risico kwijt te zijn.",
 "pnt": 1,
 "id": "G.v11.1.v2021II6",
-"e": "G.risico"
+"e": "G.risico",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 6,
+"ctx": "Verzekeringsmaatschappij YouSure wil autoverzekeringen aanbieden voor jongeren die voor het eerst een eigen autoverzekering afsluiten: de StartPolis. Deze verzekering zal de schade aan de eigen auto dekken en kan worden afgesloten naast de verplichte verzekering voor wettelijke aansprakelijkheid (WA), die alleen de schade aan de tegenpartij dekt. Per jaar bedragen de gemiddelde verwachte variabele poliskosten voor de Startpolis (exclusief schade-uitkering) € 25 en de totale verwachte constante kosten € 500.000. YouSure streeft naar maximale winst. Om een indruk te krijgen van de winstgevendheid van de StartPolis heeft een onderzoeker van YouSure een simulatie uitgevoerd. In deze simulatie wordt uitgegaan van één doelgroep, opgedeeld in twee risicogroepen: risicogroep A en risicogroep B (tabel 1). Tabel 1 Aannames over risicogroepen van autobezitters risicogroep kans op schade per jaar gemiddeld schadebedrag aantal autobezitters in de groep A 10% € 6.000 10.000 B 7% € 5.500 15.000 Overige aannames bij de simulatie: - De maatschappij weet van een individuele verzekerde niet tot welke risicogroep die behoort. Alle verzekerden hebben zelf wel een juist beeld van hun eigen kans op schade en de gemiddelde hoogte van de schade. - De maatschappij gaat ervan uit dat de betalingsbereidheid van alle verzekerden gelijk is aan 120% van het gemiddelde verwachte schadebedrag dat voor hen van toepassing is."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-I, vraag 23",
-"q": "(Examen vwo 2022-I, vraag 23)\nDNB zegt dat de vraaglijn naar uitvaartverzekeringen geleidelijk verschuift, zodat verzekeraar Funus bij een hogere premie toch meer omzet kan halen. Beargumenteer die stelling.",
+"titel": "Uitvaartverzekering",
+"q": "Beargumenteer de stelling van DNB.",
 "model": "Er komen meer ouderen en zij zijn meer risico-avers. Bij dezelfde premie stijgt de vraag: de vraaglijn verschuift naar rechts. Funus kan de premie verhogen zonder klanten te verliezen, de omzet stijgt, het vermogen en de dekkingsgraad verbeteren.",
 "pnt": 2,
 "id": "G.v11.1.v2022I23",
-"e": "G.risico"
+"e": "G.risico",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 23,
+"ctx": "Uit onderzoek blijkt dat de dekkingsgraad verhoogd kan worden door een verhoging van de premie. De bevolking vergrijst en van ouderen is bekend dat zij meer risico-avers zijn dan jongeren. DNB stelt: “De vraaglijn van uitvaartverzekeringen zal daarom geleidelijk verschuiven, waardoor Funus, zelfs bij een hogere premie, een hogere omzet kan behalen en zo de dekkingsgraad verbetert.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-II, vraag 7",
-"q": "(Examen vwo 2021-II, vraag 7)\nDe uniforme premie wordt verlaagd tot de betalingsbereidheid van groep B (120% van de verwachte schade bij een kans van 7% op € 5.500). Bereken het resultaat van de verzekeraar. Kansen, schadebedragen, aantallen, poliskosten en constante kosten staan in de bron.",
+"titel": "Verzekeren op maat",
+"q": "Bereken het resultaat bij stelling ii.",
 "model": "Premie = 1,20 × 0,07 × 5.500 = € 462; beide groepen verzekeren zich. Omzet 462 × 25.000 = € 11.550.000. Kosten = 10.000 × 600 + 15.000 × 385 + 25.000 × 25 + 500.000 = € 12.900.000. Resultaat is € −1.350.000 (verlies).",
 "pnt": 2,
 "id": "G.v11.1.v2021II7",
-"e": "G.risico"
+"e": "G.risico",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 7,
+"ctx": "Een optie is om de StartPolis aan beide doelgroepen aan te bieden met een uniforme premie. Een manager van YouSure stelt: i Als de StartPolis wordt aangeboden voor een premie die gelijk is aan de betalingsbereidheid van autobezitters uit groep A, dan zal deze winstgevend zijn. ii Als de uniforme premie wordt verlaagd tot de betalingsbereidheid van autobezitters in groep B, dan zal verlies worden gemaakt."
 }
 ],
 "bg": [
@@ -19542,30 +19917,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-II, vraag 7",
-"q": "(Examen vwo 2019-II, vraag 7)\nDe zorgverzekering wordt verplicht. Leg uit dat zonder verzekeringsplicht averechtse selectie kan optreden.",
+"titel": "Eigen duit in zakje van de zorg",
+"q": "Leg uit dat zonder verzekeringsplicht voor burgers de verzekeringsmaatschappijen te maken kunnen krijgen met een proces van averechtse selectie.",
 "model": "Goede risico's laten zich niet verzekeren, waardoor de verzekeraar vooral slechte risico's overhoudt en de premie moet stijgen (1). Daardoor vallen nog meer goede risico's af (1).",
 "pnt": 2,
 "id": "G.v11.2.v2019II7",
-"e": "G.info"
+"e": "G.info",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 7,
+"ctx": "De overheid van een land overweegt de zorgverzekering voortaan te laten uitvoeren door particuliere verzekeringsmaatschappijen zonder winstoogmerk. Daarbij zal iedere burger verplicht zijn om zich te verzekeren met een basispakket voor medische zorg. De verzekeringsmaatschappijen zullen niemand mogen uitsluiten van dit basispakket."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-II, vraag 9",
-"q": "(Examen vwo 2021-II, vraag 9)\nLeg uit dat het totale surplus op de verzekeringsmarkt stijgt als ook mensen met een laag risico zich verzekeren.",
+"titel": "Verzekeren op maat",
+"q": "Leg de stelling van de onderzoeker uit.",
 "model": "Deze mensen krijgen nu consumentensurplus op de verzekeringsmarkt, dus het totale surplus stijgt. Of: er zijn meer verzekerden, de verzekeraars verkopen meer polissen en het producentensurplus stijgt, dus ook het totale surplus.",
 "pnt": 2,
 "id": "G.v11.2.v2021II9",
-"e": "G.info"
+"e": "G.info",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 9,
+"ctx": "Door premiedifferentiatie toe te passen hoopt de onderzoeker dat verzekerden uit groep B zich ook gaan verzekeren. De onderzoeker stelt: “Als mensen met een laag risico zich verzekeren, heeft dit een positief effect op het totale surplus op dit deel van de verzekeringsmarkt.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-III, vraag 2",
-"q": "(Examen vwo 2021-III, vraag 2)\nEen club biedt speelsters een vast salaris of een laag vast salaris plus een bedrag per gespeelde wedstrijd. De directeur verwacht dat averechtse selectie eerder bij het vaste salaris optreedt. Leg die verwachting uit.",
+"titel": "Vrouwenvoetbal",
+"q": "Leg de verwachting van directeur Verheijen uit.",
 "model": "Het vaste salaris hangt niet af van fitheid of prestaties. Vooral minder fitte speelsters melden zich aan, omdat ze daar meer verdienen dan bij een variabele beloning.",
 "pnt": 2,
 "id": "G.v11.2.v2021III2",
-"e": "G.info"
+"e": "G.info",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 2,
+"ctx": "Voetbalclub VV (Vrouwen Vooruit) heeft een betaald team dat speelt in de hoogste divisie. De club heeft als doelstelling om dit jaar kampioen te worden en wil een ervaren speelster aantrekken. Tot op heden hebben speelsters een vast salaris (variant 1), maar bij het aantrekken van een nieuwe speelster overweegt directeur Verheijen ook een variabele variant: - Variant 1: een vast salaris van € 30.000 per jaar. - Variant 2: een vast salaris van € 12.000 per jaar + € 1.100 per gespeelde wedstrijd. In de competitie worden 30 wedstrijden gespeeld. De speelsters worden vier dagdelen per week op de club verwacht voor trainingen. Zij worden daarnaast geacht zelfstandig te trainen om hun conditie op peil te houden om wedstrijden te kunnen spelen. De meeste speelsters hebben naast inkomsten uit het voetbal nog andere inkomsten. Directeur Verheijen verwacht dat er bij het aanbieden van variant 1 eerder averechtse selectie kan optreden dan bij variant 2."
 }
 ],
 "bg": [
@@ -20324,30 +20714,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 29",
-"q": "(Examen vwo 2019-I, vraag 29)\nEen adviseur raadt jongeren aandelen aan en ouderen geleidelijk obligaties of een betaalrekening. Verklaar dit verschil in advies.",
+"titel": "Een welverdiende oude dag",
+"q": "Verklaar dit verschil in advies aan jongere en oudere werknemers.",
 "model": "Jongeren beleggen nog lang, kunnen koersdalingen opvangen en profiteren van het hogere verwachte rendement van aandelen (2 punten). Ouderen hebben een korte horizon waarin dalingen niet te herstellen zijn, dus kiezen ze veiliger beleggingen zoals obligaties (1 punt).",
 "pnt": 3,
 "id": "G.v12.1.v2019I29",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 29,
+"ctx": "De politicus pleit ervoor dat werknemers zelf via beleggingen een aanvullende oudedagsvoorziening regelen. Een beleggingsadviseur stelt dat in dat geval jonge werknemers vooral zouden moeten kiezen voor het hoge rendement van aandelen, ondanks het relatief hoge koersrisico. Naarmate de pensioenleeftijd dichterbij komt gaat volgens hem dit risico zwaarder wegen en hij raadt de dan inmiddels oudere werknemers aan om gaandeweg over te stappen op obligaties, of zelfs om een deel van het vermogen op een betaalrekening te houden."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 4",
-"q": "(Examen vwo 2021-I, vraag 4)\nLeg uit dat een te sterke loonsverhoging het succes van de uitgifte van nieuwe aandelen van het concern in gevaar kan brengen.",
+"titel": "AnyWay van de grond",
+"q": "Leg uit dat een te sterke loonsverhoging het succes van een aandelenuitgifte van CAS in gevaar kan brengen.",
 "model": "Een te hoge loonsverhoging kan de verwachte winst te laag maken (1). Beleggers verwachten dan te weinig dividend, een dalende koers of een lager rendement op het aandeel. Ze tonen daardoor te weinig interesse in de aandelenuitgifte (1).",
 "pnt": 2,
 "id": "G.v12.1.v2021I4",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 4,
+"ctx": "De directie reageert: “Een te grote loonsverhoging brengt de opstart van de nieuwe bedrijfsstructuur in gevaar. De uitgifte van extra aandelen heeft alleen kans van slagen bij voldoende interesse van de kant van beleggers.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 12",
-"q": "(Examen vwo 2021-I, vraag 12)\nEen pensioenfonds belegt de eerste twintig jaar vooral in aandelen, daarna vooral in staatsobligaties. De financieel directeur zegt dat dit over de hele periode een relatief hoog rendement bij laag risico geeft. Leg haar argumentatie uit.",
+"titel": "Op weg naar het pensioen",
+"q": "Leg de argumentatie van de financieel directeur uit.",
 "model": "Aandelen geven een hoog rendement en hoog risico, maar over twintig jaar is er tijd om een negatieve schok goed te maken (2). Obligaties geven laag rendement en laag risico. Over de hele periode is het rendement dus relatief hoog bij laag risico (1).",
 "pnt": 3,
 "id": "G.v12.1.v2021I12",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 12,
+"ctx": "Het pensioenfonds belegt het grootste deel van de ontvangen premies de eerste twintig jaar in aandelen. Daarna zal het grootste deel vooral in staatsobligaties worden belegd. Financieel directeur Hajar beargumenteert dat deze keuze, over de hele beleggingsperiode, zorgt voor een relatief hoog rendement in combinatie met een laag risico."
 }
 ],
 "bg": [
@@ -20548,30 +20953,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 29",
-"q": "(Examen vwo 2019-I, vraag 29)\nEen adviseur raadt jongeren aandelen aan en ouderen geleidelijk obligaties of een betaalrekening. Verklaar dit verschil in advies.",
+"titel": "Een welverdiende oude dag",
+"q": "Verklaar dit verschil in advies aan jongere en oudere werknemers.",
 "model": "Jongeren beleggen nog lang, kunnen koersdalingen opvangen en profiteren van het hogere verwachte rendement van aandelen (2 punten). Ouderen hebben een korte horizon waarin dalingen niet te herstellen zijn, dus kiezen ze veiliger beleggingen zoals obligaties (1 punt).",
 "pnt": 3,
 "id": "G.v12.2.v2019I29",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 29,
+"ctx": "De politicus pleit ervoor dat werknemers zelf via beleggingen een aanvullende oudedagsvoorziening regelen. Een beleggingsadviseur stelt dat in dat geval jonge werknemers vooral zouden moeten kiezen voor het hoge rendement van aandelen, ondanks het relatief hoge koersrisico. Naarmate de pensioenleeftijd dichterbij komt gaat volgens hem dit risico zwaarder wegen en hij raadt de dan inmiddels oudere werknemers aan om gaandeweg over te stappen op obligaties, of zelfs om een deel van het vermogen op een betaalrekening te houden."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 4",
-"q": "(Examen vwo 2021-I, vraag 4)\nLeg uit dat een te sterke loonsverhoging het succes van de uitgifte van nieuwe aandelen van het concern in gevaar kan brengen.",
+"titel": "AnyWay van de grond",
+"q": "Leg uit dat een te sterke loonsverhoging het succes van een aandelenuitgifte van CAS in gevaar kan brengen.",
 "model": "Een te hoge loonsverhoging kan de verwachte winst te laag maken (1). Beleggers verwachten dan te weinig dividend, een dalende koers of een lager rendement op het aandeel. Ze tonen daardoor te weinig interesse in de aandelenuitgifte (1).",
 "pnt": 2,
 "id": "G.v12.2.v2021I4",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 4,
+"ctx": "De directie reageert: “Een te grote loonsverhoging brengt de opstart van de nieuwe bedrijfsstructuur in gevaar. De uitgifte van extra aandelen heeft alleen kans van slagen bij voldoende interesse van de kant van beleggers.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 12",
-"q": "(Examen vwo 2021-I, vraag 12)\nEen pensioenfonds belegt de eerste twintig jaar vooral in aandelen, daarna vooral in staatsobligaties. De financieel directeur zegt dat dit over de hele periode een relatief hoog rendement bij laag risico geeft. Leg haar argumentatie uit.",
+"titel": "Op weg naar het pensioen",
+"q": "Leg de argumentatie van de financieel directeur uit.",
 "model": "Aandelen geven een hoog rendement en hoog risico, maar over twintig jaar is er tijd om een negatieve schok goed te maken (2). Obligaties geven laag rendement en laag risico. Over de hele periode is het rendement dus relatief hoog bij laag risico (1).",
 "pnt": 3,
 "id": "G.v12.2.v2021I12",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 12,
+"ctx": "Het pensioenfonds belegt het grootste deel van de ontvangen premies de eerste twintig jaar in aandelen. Daarna zal het grootste deel vooral in staatsobligaties worden belegd. Financieel directeur Hajar beargumenteert dat deze keuze, over de hele beleggingsperiode, zorgt voor een relatief hoog rendement in combinatie met een laag risico."
 }
 ],
 "bg": [
@@ -20838,12 +21258,17 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-I, vraag 7",
-"q": "(Examen vwo 2022-I, vraag 7)\nUit de tabellen blijkt dat de hypotheekrente stijgt als de H/A-verhouding stijgt. Leg uit waarom.",
+"titel": "Een eigen huis",
+"q": "Leg uit waarom de hypotheekrente stijgt bij een toenemende H/A- verhouding.",
 "model": "Bij een hogere H/A-verhouding loopt de bank meer risico op een restschuld, want de schuld kan groter worden dan de woningwaarde als de huizenprijzen dalen. De bank vraagt daarom een hogere rente als compensatie voor dat risico.",
 "pnt": 2,
 "id": "G.v12.3.v2022I7",
-"e": "G.finan"
+"e": "G.finan",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 7,
+"ctx": "Beau oriënteert zich op de kredietverstrekking van de banken BNA en GNI. Tabellen 1 en 2 tonen de gevonden informatie. Daarin staan de hypotheekrentes, gebaseerd op de H/A-verhouding: H/A-verhouding = het de bedrag aankoopsom van de van hypotheeklening de woning x 100% Tabel 1 Rentepercentages bij verschillende H/A-verhoudingen en een rentevaste periode van 1 jaar bank H/A-verhouding = 60% H/A-verhouding = 80% H/A-verhouding = 100% BNA 1,05% 1,15% 1,60% GNI 1,25% 1,44% 1,64% Tabel 2 Rentepercentages bij verschillende H/A verhoudingen en een rentevaste periode van 10 jaar bank H/A-verhouding = 60% H/A-verhouding = 80% H/A-verhouding = 100% BNA 1,45% 1,81% 2,17% GNI 1,70% 1,90% 2,22% Toelichting: een rentevaste periode is een periode waarin de rente niet wordt gewijzigd. Uit de tabellen blijkt dat de hypotheekrente stijgt naarmate de H/A-verhouding stijgt en naarmate de rentevaste periode langer is."
 }
 ],
 "bg": [
@@ -21078,30 +21503,45 @@ LEVELS.G.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-II, vraag 12",
-"q": "(Examen vwo 2019-II, vraag 12)\nTrains is wettelijk monopolist en moet prijsstijgingen vooraf onderbouwen tegenover de overheid. Leg uit dat er een principaal-agentprobleem kan zijn en hoe de overeenkomst dit vermindert.",
+"titel": "Drukte in de spits",
+"q": "Leg uit dat een principaal-agentprobleem tussen de overheid en Trains kan optreden, en leg uit hoe de overeenkomst dit probleem vermindert.",
 "model": "Overheid (principaal) en Trains (agent) hebben andere doelen: reizigersbelang tegenover winst (1). De overheid kent de kosten en opbrengsten van Trains slecht: informatie-asymmetrie (1). De overeenkomst geeft de overheid deels dezelfde informatie (1).",
 "pnt": 3,
 "id": "G.v12.4.v2019II12",
-"e": "F.pa"
+"e": "F.pa",
+"ex": "v19-2",
+"jaar": 2019,
+"tv": 2,
+"nr": 12,
+"ctx": "Vervoersmaatschappij Trains heeft het wettelijk monopolie op het verzorgen van het treinvervoer in een land gekregen. In een overeenkomst heeft de overheid opgenomen dat Trains voorafgaand aan een geplande prijsstijging eerst de noodzaak daarvan moet aantonen."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 9",
-"q": "(Examen vwo 2021-I, vraag 9)\nEen gemeente verleent een concessie voor elektrische bussen met vijf voorwaarden over reistijd, vertraging, inzet van dieselbussen, gps-tracking en maximumprijs. Leg uit dat een principaal-agentprobleem kan optreden en welke twee voorwaarden dit probleem verminderen.",
+"titel": "Groene bussen",
+"q": "Leg uit dat een principaal-agentprobleem tussen de gemeente en de busonderneming kan optreden, en leg uit welke twee voorwaarden uit de overeenkomst dit probleem kunnen verminderen.",
 "model": "Principaal (gemeente) en agent (busbedrijf) hebben verschillende doelen: winst tegenover reizigersbelang (1). De gemeente ziet de ritten en kosten beperkt: informatie-asymmetrie (1). Voorwaarde iv (gps) geeft direct inzicht in vertraging en uitval (1). Voorwaarde v (maximumprijs) beperkt winstmaximalisatie ten koste van reizigers (1).",
 "pnt": 4,
 "id": "G.v12.4.v2021I9",
-"e": "F.pa"
+"e": "F.pa",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 9,
+"ctx": "Door het toekennen van een concessie ontstaat er een tijdelijk wettelijk monopolie. Voor de concessie stelt de gemeente daarbij de volgende voorwaarden: i. 98% van de ritten van inwoners van de gemeente naar het centrum mag niet langer dan veertig minuten duren. ii. Maximaal 6% van de busritten mag vertraging hebben. iii. Alleen bij overmacht, zoals defecte bussen of stroomstoringen, mogen alsnog dieselbussen ingezet worden. iv. Alle bussen moeten voorzien zijn van een gps-trackingsysteem, waardoor een controlebureau van de gemeente te allen tijde de posities van de gebruikte bussen kan aflezen. v. Aan reizigers mag een prijs van maximaal € 0,11 per kilometer worden berekend."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-I, vraag 20",
-"q": "(Examen vwo 2022-I, vraag 20)\nLeg uit dat er bij de uitvaartverzekering een principaal-agentprobleem is tussen verzekeraar en verzekerden. Leg ook uit hoe toezicht door DNB dit probleem kan verminderen.",
+"titel": "Uitvaartverzekering",
+"q": "Leg uit dat er een principaal-agent probleem is tussen verzekeraar en verzekerden bij de uitvaartverzekering en leg uit hoe toezicht hierop door DNB dit kan verminderen.",
 "model": "Verzekerde is principaal, verzekeraar agent. De verzekerde wil een volledige uitvaart, de verzekeraar maximale winst. De verzekerde weet niet of de premie zo wordt belegd dat de verzekeraar kan leveren (informatieachterstand). DNB kent alle informatie, kan ingrijpen en geeft vertrouwen.",
 "pnt": 3,
 "id": "G.v12.4.v2022I20",
-"e": "F.pa"
+"e": "F.pa",
+"ex": "v22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 20,
+"ctx": "Uitvaartonderneming Funus biedt een verzekering aan waarbij Funus de complete uitvaart verzorgt en betaalt. Klanten kunnen kiezen om maandelijks een premie te betalen of om eenmalig een bedrag te betalen (een afkoopsom). De hoogte van de premie of afkoopsom is mede afhankelijk van de leeftijd van de klant. Funus belegt de betaalde premies en afkoopsommen in aandelen en staatsobligaties. Funus adverteert met een kwalitatief goede verzorging van uitvaarten. In 2019 is Funus in financiële problemen gekomen. Oorzaken hiervan waren de aanhoudend lage rente en de sterker dan verwacht stijgende kosten van uitvaarten. Hierdoor heeft Funus te weinig vermogen om te voldoen aan zijn verplichtingen. De Nederlandsche Bank (DNB) is toezichthouder en maakt zich zorgen over de (toekomstige) dienstverlening door Funus, want de dekkingsgraad van Funus van 85% is lager dan de minimale eis van 130%. huidig vermogen dekkingsgraad = x 100% huidige waarde toekomstige verplichtingen Een van de redenen om toezicht te houden op de bedrijfsvoering van uitvaartverzekeraars is het bestaan van een principaal-agentprobleem tussen verzekeraar en verzekerden."
 }
 ],
 "bg": [
@@ -21391,30 +21831,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 6",
-"q": "(Examen havo 2018-I, vraag 6)\nGeef bij negatieve externe effecten, productie in het zwarte circuit en vrijwilligerswerk aan of de welvaart, gemeten met het bbp, wordt onderschat of overschat.",
+"titel": "Van nationaal rekenen naar nationaal beleid",
+"q": "Geef bij elk verschijnsel aan of het verschijnsel voor een onderschatting of een overschatting van de welvaart zorgt als deze gemeten wordt via het bbp.",
 "model": "Negatieve externe effecten: overschatting. Zwarte circuit: onderschatting. Vrijwilligerswerk: onderschatting. Drie juist is 2 punten, twee juist 1 punt, minder dan twee juist 0 punten.",
 "pnt": 2,
 "id": "H.h12.1.h2018I6",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 6,
+"ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk"
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 7",
-"q": "(Examen havo 2018-I, vraag 7)\nMaak een economisch juiste tekst over het bbp van Nederland in 2013. Kies bij (1) tussen nominale waarde en totaal surplus, bij (2) tussen koopkracht en totale bruto toegevoegde waarde, bij (3) tussen groter en kleiner.",
+"titel": "Van nationaal rekenen naar nationaal beleid",
+"q": "Gebruik bron 1.\nMaak van de onderstaande zinnen een economisch juiste tekst.\n\n- Het bbp van € 642,9 miljard geeft …(1)… weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de …(2)… genoemd. - Het bbp is de productiewaarde op Nederlands grondgebied. Het bruto nationaal inkomen (bni) is de productiewaarde voortgebracht door alle Nederlanders. Omdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland …(3)… dan de betaalde primaire inkomens aan het buitenland. Kies uit: bij (1) de nominale waarde / het totale surplus bij (2) koopkracht / totale bruto toegevoegde waarde bij (3) groter / kleiner",
 "model": "(1) de nominale waarde, (2) totale bruto toegevoegde waarde, (3) groter. Elke juiste keuze levert 1 punt op.",
 "pnt": 3,
 "id": "H.h12.1.h2018I7",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 7,
+"ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 25",
-"q": "(Examen havo 2019-I, vraag 25)\nEen Amerikaans bedrijf heeft een vestiging in de Rotterdamse haven. Telt de productiewaarde van die vestiging mee in het Nederlandse of het Amerikaanse bbp? Kies.",
+"titel": "80 jaar bbp, 80 jaar discussie",
+"q": "Wordt de productiewaarde van deze vestiging meegenomen in de berekening van het Nederlandse bbp of het Amerikaanse bbp? Maak een keuze.",
 "model": "In het Nederlandse bbp. Bij het bbp gaat het om de locatie van de productie, niet om de nationaliteit van het bedrijf.",
 "pnt": 1,
 "id": "H.h12.1.h2019I25",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 25,
+"ctx": "uit een krant, januari 2014: Tachtig jaar geleden werd het bruto nationaal product (bnp) voor het eerst gepresenteerd. De econoom Kuznets bedacht in 1934 een systeem om aan de hand van macro-economische grootheden zoals consumptie, besparingen en investeringen de omvang van de economie te meten. Hiermee kon ook het verloop van de economie worden gevolgd, dat wil zeggen de groei of de krimp. Enkele jaren na invoering van het bnp verloor de maatstaf als gevolg van globalisering een groot deel van zijn bruikbaarheid. Niet de nationaliteit, maar de locatie van de productie werd het uitgangspunt: het bruto binnenlands product (bbp). Dow Chemical, een Amerikaans bedrijf, heeft een vestiging in de Rotterdamse haven."
 }
 ],
 "bg": [
@@ -21826,30 +22281,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-II, vraag 8",
-"q": "(Examen havo 2021-II, vraag 8)\nLeg uit hoe innovatie het tekort op de lopende rekening van de VS wel structureel kan oplossen.",
+"titel": "Een handelsoorlog",
+"q": "Leg uit hoe door innovatie het tekort op de lopende rekening wél structureel opgelost kan worden.",
 "model": "Innovatie verhoogt de arbeidsproductiviteit, waardoor de concurrentiepositie van de VS verbetert (1). Dit geeft meer export met hogere ontvangsten of minder import met lagere uitgaven, dus een kleiner tekort (1).",
 "pnt": 2,
 "id": "H.h12.3.h2021II8",
-"e": "H.groei"
+"e": "H.groei",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 8,
+"ctx": "Volgens econoom Babs Snoeks lost het opleggen van importheffingen niet structureel het grote tekort op de lopende rekening van de VS op. Zij is namelijk van mening dat het tekort grotendeels veroorzaakt wordt door achterblijvende innovatie van de Amerikaanse industrie."
 },
 {
 "t": "open",
-"titel": "Examen havo 2022-I, vraag 1",
-"q": "(Examen havo 2022-I, vraag 1)\nVerklaar dat economische groei in Nederland wordt bevorderd als meer jongeren een studie volgen.",
+"titel": "Studeren loont",
+"q": "Leg uit dat het de economische groei in Nederland bevordert als jongeren studeren.",
 "model": "Studeren verhoogt het opleidingsniveau en de arbeidsproductiviteit (1p). Daardoor stijgt de productie, dus het bbp (1p). Aanvulling: groei moet aan productie gekoppeld zijn.",
 "pnt": 2,
 "id": "H.h12.3.h2022I1",
-"e": "H.groei"
+"e": "H.groei",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 1,
+"ctx": "Voor de economische ontwikkeling van Nederland is het nodig dat jongeren verder studeren. Een studiefinancieringsstelsel bevordert dat het hoger onderwijs voor zo veel mogelijk jongeren toegankelijk is."
 },
 {
 "t": "open",
-"titel": "Examen havo 2023-I, vraag 14",
-"q": "(Examen havo 2023-I, vraag 14)\nLeg uit dat de nieuwe regeling voor fiscale bijtelling gunstig kan werken op innovatie en daarmee op structurele economische groei.",
+"titel": "Auto van de zaak",
+"q": "Leg uit dat de nieuwe regeling van fiscale bijtelling een gunstig effect kan hebben op innovatie en daarmee op de structurele groei van de economie.",
 "model": "Werknemers kiezen een auto met lage uitstoot, dus autofabrikanten ontwikkelen schonere technieken. Nieuwe technieken verhogen kwaliteit of kwantiteit van de productiefactoren en geven structurele groei.",
 "pnt": 2,
 "id": "H.h12.3.h2023I14",
-"e": "H.groei"
+"e": "H.groei",
+"ex": "h23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 14,
+"ctx": "Uit een krant, december 2022: Als een werknemer zijn auto van de zaak ook privé gebruikt, wordt dat door de belastingdienst gezien als extra inkomen uit arbeid. Daarom moet een bepaald percentage van de aanschafwaarde van de auto jaarlijks bij het bruto jaarinkomen worden opgeteld, waardoor het belastbaar inkomen stijgt: de zogenoemde fiscale bijtelling. De overheid van een land houdt zich aan het klimaatakkoord. Daarom zal vanaf 1 januari 2023 deze fiscale bijtelling afhankelijk worden van de CO2- uitstoot van de auto en het type brandstof dat de auto verbruikt. Volgens de overheid heeft deze nieuwe regeling ook een gunstig effect op de technologische vooruitgang en daarmee op de structurele groei van de economie."
 }
 ],
 "bg": [
@@ -22110,30 +22580,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 6",
-"q": "(Examen havo 2018-I, vraag 6)\nGeef bij negatieve externe effecten, productie in het zwarte circuit en vrijwilligerswerk aan of de welvaart, gemeten met het bbp, wordt onderschat of overschat.",
+"titel": "Van nationaal rekenen naar nationaal beleid",
+"q": "Geef bij elk verschijnsel aan of het verschijnsel voor een onderschatting of een overschatting van de welvaart zorgt als deze gemeten wordt via het bbp.",
 "model": "Negatieve externe effecten: overschatting. Zwarte circuit: onderschatting. Vrijwilligerswerk: onderschatting. Drie juist is 2 punten, twee juist 1 punt, minder dan twee juist 0 punten.",
 "pnt": 2,
 "id": "H.h12.4.h2018I6",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 6,
+"ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 26",
-"q": "(Examen havo 2019-I, vraag 26)\nEr zijn drie argumenten genoemd waarom het nominale bbp een beperkte welvaartsmaatstaf is. Noem een ander argument.",
+"titel": "80 jaar bbp, 80 jaar discussie",
+"q": "Noem een ander argument dan in deze opgave genoemd waarom de omvang van het bbp een beperkte welvaartsmaatstaf is.",
 "model": "Bijvoorbeeld: het nominale bbp is niet gecorrigeerd voor bevolkingsgroei. Of: het bbp geeft geen informatie over de bijdrage van de informele economie aan de welvaart.",
 "pnt": 1,
 "id": "H.h12.4.h2019I26",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 26,
+"ctx": "Het bbp meet economische groei, maar wordt ook gebruikt als welvaartsmaatstaf. Daar is veel discussie over. In 2014 steeg het bbp van de Verenigde Staten van Amerika (VS) met 2,8%, maar het is de vraag of de inwoners van de VS in dat jaar ook 2,8% welvarender zijn geworden. Argumenten waarom het nominale bbp een beperkte welvaartsmaatstaf is, zijn: - Een stijging van het nominale bbp kan ook veroorzaakt zijn door prijsstijgingen. - Het bbp meet geen welzijn, zoals gezondheid en geluk. - Het bbp geeft geen informatie over de verdeling van de welvaart."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 6",
-"q": "(Examen havo 2021-I, vraag 6)\nNoem één argument waarom het nominale bbp per hoofd een gebrekkige maatstaf is voor de welvaart in een land.",
+"titel": "Meer vrijhandel, meer groei",
+"q": "Noem een argument waarom het nominale bbp per hoofd van de bevolking een gebrekkige maatstaf kan zijn voor het meten van de welvaart in een land.",
 "model": "Bijvoorbeeld: zegt niets over de verdeling van het inkomen, de koopkracht, de welvaart in ruime zin of de informele economie.",
 "pnt": 1,
 "id": "H.h12.4.h2021I6",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 6,
+"ctx": "In de periode 2012–2017 was India een van de snelst groeiende economieën van de wereld. Het nominale bruto binnenlands product (bbp) per hoofd van de bevolking is in die periode bijna verdubbeld. De groei van het nominale bbp is voornamelijk te verklaren door een toename van de consumptie van de middenklasse en door een toename van de buitenlandse investeringen. Een Indiase econoom stelt: 1 “Hoewel het nominale bbp per hoofd van de bevolking bijna is verdubbeld, betekent dat niet dat de welvaart in India ook bijna twee keer zo groot is.” 2 “Het belangrijkste probleem in India is de matige infrastructuur. Daarom moet de overheid daar fors in investeren.”"
 }
 ],
 "bg": [
@@ -22393,30 +22878,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 19",
-"q": "(Examen havo 2018-II, vraag 19)\nToon met een berekening aan dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is. Gebruik de tabel met de verdeling van het secundaire inkomen.",
+"titel": "Eilanden van verschil",
+"q": "Gebruik bron 3.\nToon aan met een berekening dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is.",
 "model": "Het 4e kwartiel heeft 100% − 44,8% = 55,2%. Het 1e kwartiel heeft 5,1%. 55,2 : 5,1 geeft een verhouding van 1 : 10,8.",
 "pnt": 2,
 "id": "H.h13.1.h2018II19",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 19,
+"ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)"
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 20",
-"q": "(Examen havo 2018-II, vraag 20)\nBereken het coördinaat van punt A in de Lorenzcurve van Saba. Gebruik de verhoudingstabel en de Lorenzcurve.",
+"titel": "Eilanden van verschil",
+"q": "Gebruik bron 1 en 3.\nBereken het coördinaat van punt A in bron 2.",
 "model": "Secundair inkomen van het 4e kwartiel: 5,5 × 9,8 = 53,9%. Dus punt A heeft coördinaat (75 ; 46,1).",
 "pnt": 2,
 "id": "H.h13.1.h2018II20",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 20,
+"ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 28",
-"q": "(Examen havo 2019-I, vraag 28)\nIn 2014 kwam 25% van het Amerikaanse bbp ten goede aan 1% van de bevolking. Welke grafiek in bron 2 geeft de Amerikaanse Lorenzcurve van 2014 juist weer?",
+"titel": "80 jaar bbp, 80 jaar discussie",
+"q": "Gebruik bovenstaande tekst en bron 2.\nIn welke grafiek is de Amerikaanse Lorenzcurve van 2014 juist weergegeven?",
 "model": "Grafiek 3.",
 "pnt": 1,
 "id": "H.h13.1.h2019I28",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 28,
+"ctx": "In 2014 kwam 25% van het Amerikaanse bbp ten goede aan slechts 1% procent van de bevolking."
 }
 ],
 "bg": [
@@ -22622,30 +23122,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 19",
-"q": "(Examen havo 2018-II, vraag 19)\nToon met een berekening aan dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is. Gebruik de tabel met de verdeling van het secundaire inkomen.",
+"titel": "Eilanden van verschil",
+"q": "Gebruik bron 3.\nToon aan met een berekening dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is.",
 "model": "Het 4e kwartiel heeft 100% − 44,8% = 55,2%. Het 1e kwartiel heeft 5,1%. 55,2 : 5,1 geeft een verhouding van 1 : 10,8.",
 "pnt": 2,
 "id": "H.h13.2.h2018II19",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 19,
+"ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)"
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 20",
-"q": "(Examen havo 2018-II, vraag 20)\nBereken het coördinaat van punt A in de Lorenzcurve van Saba. Gebruik de verhoudingstabel en de Lorenzcurve.",
+"titel": "Eilanden van verschil",
+"q": "Gebruik bron 1 en 3.\nBereken het coördinaat van punt A in bron 2.",
 "model": "Secundair inkomen van het 4e kwartiel: 5,5 × 9,8 = 53,9%. Dus punt A heeft coördinaat (75 ; 46,1).",
 "pnt": 2,
 "id": "H.h13.2.h2018II20",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 20,
+"ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 28",
-"q": "(Examen havo 2019-I, vraag 28)\nIn 2014 kwam 25% van het Amerikaanse bbp ten goede aan 1% van de bevolking. Welke grafiek in bron 2 geeft de Amerikaanse Lorenzcurve van 2014 juist weer?",
+"titel": "80 jaar bbp, 80 jaar discussie",
+"q": "Gebruik bovenstaande tekst en bron 2.\nIn welke grafiek is de Amerikaanse Lorenzcurve van 2014 juist weergegeven?",
 "model": "Grafiek 3.",
 "pnt": 1,
 "id": "H.h13.2.h2019I28",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 28,
+"ctx": "In 2014 kwam 25% van het Amerikaanse bbp ten goede aan slechts 1% procent van de bevolking."
 }
 ],
 "bg": [
@@ -22915,30 +23430,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 18",
-"q": "(Examen havo 2018-II, vraag 18)\nMaak een economisch juiste tekst over inkomens uit het ter beschikking stellen van productiefactoren, een voorbeeld daarvan en de methode waarmee het bbp wordt berekend uit de optelsom van deze inkomens.",
+"titel": "Eilanden van verschil",
+"q": "Maak de onderstaande tekst economisch correct.\n\nInkomens die in een land worden verdiend met het ter beschikking stellen van productiefactoren worden …(1)… genoemd. Een voorbeeld daarvan is …(2)…. De optelsom van al deze inkomens vormt het bruto binnenlands product van een land, berekend via de …(3)… methode. Kies uit: bij (1) overdrachtsinkomens / primaire inkomens / secundaire inkomens bij (2) rente / subsidie / uitkering bij (3) objectieve / subjectieve",
 "model": "(1) primaire inkomens, (2) rente, (3) subjectieve. Drie juist: 2 punten; twee juist: 1; minder: 0.",
 "pnt": 2,
 "id": "H.h13.3.h2018II18",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 18,
+"ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)"
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 21",
-"q": "(Examen havo 2018-II, vraag 21)\nLigt de Lorenzcurve van Bonaire links of rechts van die van Saba? Licht je keuze toe met de gegeven verhoudingen.",
+"titel": "Eilanden van verschil",
+"q": "Gebruik bron 1 en 2.\nZal de Lorenzcurve van de secundaire-inkomensverdeling van Bonaire links of rechts van de Lorenzcurve van Saba liggen? Licht je keuze toe.",
 "model": "Links. Volgens de aanvulling is de verhouding van Saba 1 : 9,8 en van Bonaire 1 : 9,1. Het inkomen op Bonaire is gelijker verdeeld, dus de curve ligt links van die van Saba.",
 "pnt": 2,
 "id": "H.h13.3.h2018II21",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 21,
+"ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)"
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-II, vraag 22",
-"q": "(Examen havo 2018-II, vraag 22)\nBereken de secundaire-inkomensverhouding van de drie BES-eilanden samen. Ga ervan uit dat het inkomen per hoofd gelijk is en de huishoudens even groot zijn. Gebruik de bronnen met de verhoudingen en de verdeling van huishoudens.",
+"titel": "Eilanden van verschil",
+"q": "Gebruik bovenstaande tekst en bron 1 en 4.\nBereken de secundaire-inkomensverhouding van de BES-eilanden gezamenlijk.",
 "model": "Gewogen gemiddelde: (80 × 9,1 + 13 × 10,8 + 7 × 9,8) : 100 = 9,4. De verhouding is 1 : 9,4. Een ongewogen gemiddelde levert geen punten op.",
 "pnt": 2,
 "id": "H.h13.3.h2018II22",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "h18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 22,
+"ctx": "Nuestra en Mateo willen het verschil in de secundaire-inkomensverhouding tussen de BES-eilanden gezamenlijk en ‘Europees’ Nederland bepalen. De secundaire-inkomensverhouding van ‘Europees’ Nederland hebben ze gevonden op internet. Deze is 1 : 6,7 (zie bron 1), die van de BES-eilanden gezamenlijk moeten ze nog uitrekenen. Mateo: “We gaan er daarbij van uit dat het inkomen per hoofd van de bevolking van de BES-eilanden gelijk is en de huishoudens even groot zijn.”"
 }
 ],
 "bg": [
@@ -23713,30 +24243,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 27",
-"q": "(Examen vwo 2021-I, vraag 27)\nEen overheid voert een leerplicht in en ondersteunt scholing financieel. Leg uit hoe de leerplicht heeft geleid tot meer economische groei.",
+"titel": "Gelijkheid en groei",
+"q": "Leg uit hoe het invoeren van de leerplicht heeft geleid tot een toename van de economische groei.",
 "model": "Jongeren gaan langer naar school en bouwen meer kennis op, dus de arbeidsproductiviteit stijgt. Dit geeft meer productie, eventueel hogere lonen. Of: lagere loonkosten per product, betere concurrentiepositie, meer export en meer productie. Zo neemt de groei toe. Volgens de aanvulling is het woord arbeidsproductiviteit niet verplicht.",
 "pnt": 2,
 "id": "H.v13.3.v2021I27",
-"e": "H.groei"
+"e": "H.groei",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 27,
+"ctx": "In de jaren 1980-1990 behoorde Alpha tot de groep landen met de laagste inkomens ter wereld. De overheid van Alpha heeft daarom in 1990 besloten om een leerplicht in te voeren en scholing financieel te ondersteunen. Deze investeringen hebben geleid tot een toename van de economische groei."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2023-II, vraag 5",
-"q": "(Examen vwo 2023-II, vraag 5)\nOnderzoekers stellen dat extra investeringen in R&D bij dezelfde inzet van productiefactoren de structurele groei verhogen. Leg dit uit en betrek de totale factorproductiviteit.",
+"titel": "Macro-economische ontwikkelingen",
+"q": "Leg de conclusie van de onderzoekers uit. Betrek de totale factorproductiviteit in je antwoord.",
 "model": "R&D verhoogt de productiviteit van kapitaal en arbeid, dus de totale factorproductiviteit stijgt (1). Bij gelijke inzet groeit daardoor de productiecapaciteit en dus de structurele groei (1).",
 "pnt": 2,
 "id": "H.v13.3.v2023II5",
-"e": "H.groei"
+"e": "H.groei",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 5,
+"ctx": "De onderzoekers concluderen: “Bij eenzelfde inzet van productiefactoren kan door extra investeringen in R&D de structurele groei van de economie worden bevorderd.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2024-I, vraag 29",
-"q": "(Examen vwo 2024-I, vraag 29)\nLeg uit dat stimulering van R&D-investeringen de totale factorproductiviteit op lange termijn kan verhogen en de productiefunctie van Y1 naar Y2 verschuift.",
+"titel": "Groeien tot de top",
+"q": "Leg de conclusie van de econoom uit.",
 "model": "R&D versnelt productieprocessen, dus de totale factorproductiviteit stijgt (1). Bij elke inzet van arbeid is de productie hoger, dus de productiefunctie verschuift van Y1 naar Y2 (1).",
 "pnt": 2,
 "id": "H.v13.3.v2024I29",
-"e": "H.groei"
+"e": "H.groei",
+"ex": "v24-1",
+"jaar": 2024,
+"tv": 1,
+"nr": 29,
+"ctx": "De econoom concludeert: “Door de R&D-investeringen te stimuleren, kan de totale factorproductiviteit op lange termijn stijgen. Daardoor zal de productiefunctie in figuur 2 van Y1 naar Y2 verschuiven.”"
 }
 ],
 "bg": [
@@ -24000,30 +24545,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2023-I, vraag 25",
-"q": "(Examen vwo 2023-I, vraag 25)\nMilieueconomen stellen dat een circulaire economie het groen bbp kan verhogen. Leg uit dat dit klopt.",
+"titel": "Circulaire economie",
+"q": "Leg uit dat een circulaire economie het groen bbp kan verhogen.",
 "model": "Meer productie met gerecyclede grondstoffen is minder milieuvervuilend (1). De monetaire milieuschade daalt bij gelijkblijvende productie, waardoor het groen bbp kan stijgen (1).",
 "pnt": 2,
 "id": "H.v13.4.v2023I25",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "v23-1",
+"jaar": 2023,
+"tv": 1,
+"nr": 25,
+"ctx": "Milieueconomen pleiten voor een circulaire economie. Bij een circulaire economie wordt afval zoveel mogelijk vermeden en het afval dat nog ontstaat, wordt hergebruikt. Een onderzoeksbureau analyseert de mogelijkheden om de economie meer circulair te maken (zie figuur 1). Het onderzoeksbureau neemt aan dat recycling minder milieuvervuilend is dan productie met niet-hernieuwbare grondstoffen. Figuur 1 de lineaire en circulaire economie Milieueconomen stellen: een circulaire economie kan in de toekomst het groen bbp verhogen."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2023-II, vraag 10",
-"q": "(Examen vwo 2023-II, vraag 10)\nHet Plan Bureau stelt dat subsidie op hoger onderwijs een positief extern effect heeft en de brede welvaart verhoogt. Leg deze stelling uit.",
+"titel": "Markt voor hoger onderwijs",
+"q": "Leg de stelling van het PB uit.",
 "model": "Meer opgeleiden geven hogere productiviteit of betere producten, of beter inzicht in milieu en gezondheid (1). Die opbrengsten zitten niet in de prijs van onderwijs en zijn niet voor de student zelf, maar voor de samenleving, dus de brede welvaart stijgt (1).",
 "pnt": 2,
 "id": "H.v13.4.v2023II10",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 10,
+"ctx": "Het PB stelt: “Bij het hoger onderwijs treedt door de subsidie een positief extern effect op waardoor de maatschappelijke (brede) welvaart stijgt.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2025-I, vraag 22",
-"q": "(Examen vwo 2025-I, vraag 22)\nOm een negatieve output gap te bestrijden verhoogt de overheid de bestedingen. Leg uit dat het groen bbp hierdoor zowel kan dalen als stijgen.",
+"titel": "Groen ontgroeien",
+"q": "Leg uit dat door de hogere overheidsbestedingen het groen bbp zowel kan dalen als kan stijgen.",
 "model": "De bestedingen verhogen het bbp. Is het saldo van milieuverbetering en milieuschade (in geld) positief, nul of negatief maar kleiner dan de bbp-stijging, dan stijgt het groen bbp (1). Is de netto milieuschade groter dan de bbp-stijging, dan daalt het (1).",
 "pnt": 2,
 "id": "H.v13.4.v2025I22",
-"e": "H.bbp"
+"e": "H.bbp",
+"ex": "v25-1",
+"jaar": 2025,
+"tv": 1,
+"nr": 22,
+"ctx": "Door de gedragsverandering ontstaat een negatieve output gap. De econoom analyseert twee maatregelen: het voeren van begrotingsbeleid of monetair beleid. De overheid kan de overheidsbestedingen verhogen. Dit heeft twee gevolgen voor het groen bbp."
 }
 ],
 "bg": [
@@ -24365,30 +24925,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 1",
-"q": "(Examen vwo 2022-II, vraag 1)\nEen deel van de zzp'ers heeft een te laag uurtarief om de kosten te dekken. Leg uit hoe de Lorenzcurve van de primaire inkomens daarop moet worden aangepast.",
+"titel": "Zelfstandigen zonder personeel",
+"q": "Leg uit hoe de Lorenzcurve van de primaire inkomens kan worden gecorrigeerd om aan Samira’s kanttekening tegemoet te komen.",
 "model": "Verlieslijdende zzp'ers hebben een negatief primair inkomen (1). De curve begint daardoor onder de horizontale as en komt pas bij 20% van de personen weer boven die as (1).",
 "pnt": 2,
 "id": "H.v14.1.v2022II1",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 1,
+"ctx": "Onderzoekers Jan en Samira analyseren de groei van de groep zelfstandigen zonder personeel (zzp’ers) in een land. De groei betreft zowel het aantal zzp’ers als hun aandeel in de beroepsbevolking. In de juridische of ICT-sector werken zzp’ers met hoge uurtarieven, maar in de horeca, postbezorging of de schoonmaaksector werken veel zelfstandigen voor lage uurtarieven. Een aanzienlijk deel van de zzp’ers leeft onder of rond de armoedegrens. Jan heeft daarom een Lorenzcurve opgesteld van de primaire en secundaire inkomensverdeling van de zzp’ers in 2019. Samira plaatst een kanttekening: “De Lorenzcurve van de primaire inkomensverdeling is niet helemaal correct geschetst, want als bijvoorbeeld het laagste kwintiel van de zzp’ers in 2019 een te laag uurtarief heeft om kostendekkend te zijn, klopt de curve niet.” Figuur 1 Lorenzcurven van zzp’ers in 2019"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2018-II, vraag 5",
-"q": "(Examen vwo 2018-II, vraag 5)\nEen journaliste zegt dat een systeem met een eigen risico de beschikbare inkomens na zorgbijdragen kan denivelleren. Leg deze stelling uit.",
+"titel": "Hoe verdelen we de zorgkosten?",
+"q": "Leg deze stelling van de journaliste uit.",
 "model": "Het eigen risico is een groter percentage van een laag inkomen dan van een hoog inkomen, dus lage inkomens gaan procentueel meer achteruit. Of: lage inkomens zijn vaker ongezond, doen vaker een beroep op zorg en betalen vaker het eigen risico.",
 "pnt": 1,
 "id": "H.v14.1.v2018II5",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "v18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 5,
+"ctx": "De journaliste voorziet echter een effect waaraan in het rapport geen aandacht is geschonken: “Een systeem met een eigen risico kan leiden tot denivellering van de beschikbare inkomens van gezinshuishoudingen na aftrek van betaalde bijdragen aan de zorg.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 25",
-"q": "(Examen vwo 2021-I, vraag 25)\nIn een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"titel": "Gelijkheid en groei",
+"q": "Is de Ginicoëfficiënt in dit land lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten voor je keuze.",
 "model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
 "pnt": 2,
 "id": "H.v14.1.v2021I25",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 25,
+"ctx": "Econoom Pikets onderzoekt primaire en secundaire inkomensverschillen, maar ook de inkomensontwikkeling in het land Alpha. In zijn onderzoek zijn alle geldbedragen genoteerd in de valuta van Alpha, de Alphaanse dollar (A$). Tabel 1 schetst de primaire inkomensverdeling in 2016. Tabel 1 primaire inkomensverdeling in land Alpha in 2016 inkomensklasse aantal personen gemiddeld primair jaarinkomen in A$ per persoon 1 3 mln. 2.500 2 2 mln. 7.500 3 1 mln. 15.000 4 0,75 mln. 30.000 5 0,25 mln. 50.000 Voor de inkomstenbelasting geldt één algemeen tarief van 30% voor primaire jaarinkomens en één algemene heffingskorting van A$ 250 per belastingplichtige. Mensen zonder enig primair inkomen kunnen in dit land aanspraak maken op een bijstandsuitkering van A$ 1.200 per jaar. De bijstandsuitkering is belastingvrij. De financiering loopt via de begroting van de overheid. Als maatstaf voor inkomensongelijkheid gebruikt Pikets de Ginicoëfficiënt."
 }
 ],
 "bg": [
@@ -24598,30 +25173,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2018-II, vraag 5",
-"q": "(Examen vwo 2018-II, vraag 5)\nEen journaliste zegt dat een systeem met een eigen risico de beschikbare inkomens na zorgbijdragen kan denivelleren. Leg deze stelling uit.",
+"titel": "Hoe verdelen we de zorgkosten?",
+"q": "Leg deze stelling van de journaliste uit.",
 "model": "Het eigen risico is een groter percentage van een laag inkomen dan van een hoog inkomen, dus lage inkomens gaan procentueel meer achteruit. Of: lage inkomens zijn vaker ongezond, doen vaker een beroep op zorg en betalen vaker het eigen risico.",
 "pnt": 1,
 "id": "H.v14.2.v2018II5",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "v18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 5,
+"ctx": "De journaliste voorziet echter een effect waaraan in het rapport geen aandacht is geschonken: “Een systeem met een eigen risico kan leiden tot denivellering van de beschikbare inkomens van gezinshuishoudingen na aftrek van betaalde bijdragen aan de zorg.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 25",
-"q": "(Examen vwo 2021-I, vraag 25)\nIn een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"titel": "Gelijkheid en groei",
+"q": "Is de Ginicoëfficiënt in dit land lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten voor je keuze.",
 "model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
 "pnt": 2,
 "id": "H.v14.2.v2021I25",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 25,
+"ctx": "Econoom Pikets onderzoekt primaire en secundaire inkomensverschillen, maar ook de inkomensontwikkeling in het land Alpha. In zijn onderzoek zijn alle geldbedragen genoteerd in de valuta van Alpha, de Alphaanse dollar (A$). Tabel 1 schetst de primaire inkomensverdeling in 2016. Tabel 1 primaire inkomensverdeling in land Alpha in 2016 inkomensklasse aantal personen gemiddeld primair jaarinkomen in A$ per persoon 1 3 mln. 2.500 2 2 mln. 7.500 3 1 mln. 15.000 4 0,75 mln. 30.000 5 0,25 mln. 50.000 Voor de inkomstenbelasting geldt één algemeen tarief van 30% voor primaire jaarinkomens en één algemene heffingskorting van A$ 250 per belastingplichtige. Mensen zonder enig primair inkomen kunnen in dit land aanspraak maken op een bijstandsuitkering van A$ 1.200 per jaar. De bijstandsuitkering is belastingvrij. De financiering loopt via de begroting van de overheid. Als maatstaf voor inkomensongelijkheid gebruikt Pikets de Ginicoëfficiënt."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-II, vraag 25",
-"q": "(Examen vwo 2021-II, vraag 25)\nSchrijf namens de minister van Sociale Zaken een reactie waarin je twee beweringen toelicht. De eerste: buitenlandse beleggers komen sowieso al, blijkens de arbeidsinkomensquote. De tweede: het effect op de secundaire inkomensverdeling is ongewenst.",
+"titel": "Dividendbelasting",
+"q": "Schrijf de reactie namens minister Dams.",
 "model": "De AIQ in het eigen land daalt en in de buurlanden niet, dus de winstquote stijgt en beleggen is al aantrekkelijker (2p). Hoge inkomens beleggen meer, dus ze profiteren meer en er komt denivellering (1p). De Gini steeg al, dus de kloof groeit verder (1p).",
 "pnt": 4,
 "id": "H.v14.2.v2021II25",
-"e": "H.verdeling"
+"e": "H.verdeling",
+"ex": "v21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 25,
+"ctx": "Minister Dams van Sociale Zaken is tegen het voorstel van haar collega van Financiën. Minister Dams kijkt daarbij naar de volgende tabellen: Tabel 1 ontwikkeling arbeidsinkomensquote in het land en in vier buurlanden 2000 2005 2010 2015 2019 AIQ in eigen land 0,74 0,73 0,71 0,69 0,68 Gemiddelde AIQ in vier buurlanden 0,87 0,88 0,89 0,90 0,90 Tabel 2 ontwikkeling van de Gini-coëfficiënt van de secundaire inkomensverdeling in het land 2000 2005 2010 2015 2019 0,49 0,52 0,52 0,55 0,56 Minister Dams beweert onder meer met verwijzing naar bovenstaande tabellen het volgende: - “Buitenlandse ondernemingen zouden sowieso meer beleggen in ons land zonder het afschaffen van de dividendbelasting. Een aanwijzing hiervoor is de structurele ontwikkeling van de arbeidsinkomensquote.” - “Ik vind het verwachte gevolg van het afschaffen van de dividendbelasting op de secundaire inkomensverdeling in het land hoogst ongewenst.” Minister Dams schrijft een reactie aan haar collega van Financiën om haar twee beweringen voor de volgende kabinetsvergadering alvast uit te leggen."
 }
 ],
 "bg": [
@@ -24879,30 +25469,45 @@ LEVELS.H.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 25",
-"q": "(Examen vwo 2021-I, vraag 25)\nIn een land met één belastingtarief van 30%, een algemene heffingskorting en een belastingvrije bijstandsuitkering: is de Gini-coëfficiënt lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten.",
+"titel": "Gelijkheid en groei",
+"q": "Is de Ginicoëfficiënt in dit land lager bij de primaire of bij de secundaire inkomensverdeling? Geef twee argumenten voor je keuze.",
 "model": "Lager bij de secundaire verdeling. Bijstand gaat naar mensen zonder primair inkomen, dus de verdeling wordt gelijker (1). De algemene heffingskorting is relatief gunstiger voor de laagste inkomens, dus de secundaire verdeling is gelijker (1). Kiest iemand primair maar werkt beide argumenten juist uit, dan maximaal 1 punt.",
 "pnt": 2,
 "id": "H.v14.3.v2021I25",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 25,
+"ctx": "Econoom Pikets onderzoekt primaire en secundaire inkomensverschillen, maar ook de inkomensontwikkeling in het land Alpha. In zijn onderzoek zijn alle geldbedragen genoteerd in de valuta van Alpha, de Alphaanse dollar (A$). Tabel 1 schetst de primaire inkomensverdeling in 2016. Tabel 1 primaire inkomensverdeling in land Alpha in 2016 inkomensklasse aantal personen gemiddeld primair jaarinkomen in A$ per persoon 1 3 mln. 2.500 2 2 mln. 7.500 3 1 mln. 15.000 4 0,75 mln. 30.000 5 0,25 mln. 50.000 Voor de inkomstenbelasting geldt één algemeen tarief van 30% voor primaire jaarinkomens en één algemene heffingskorting van A$ 250 per belastingplichtige. Mensen zonder enig primair inkomen kunnen in dit land aanspraak maken op een bijstandsuitkering van A$ 1.200 per jaar. De bijstandsuitkering is belastingvrij. De financiering loopt via de begroting van de overheid. Als maatstaf voor inkomensongelijkheid gebruikt Pikets de Ginicoëfficiënt."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 26",
-"q": "(Examen vwo 2021-I, vraag 26)\nTarief 30%, heffingskorting A$ 250 per persoon, bijstandsuitkering A$ 1.200 belastingvrij. Bereken onder welk primair jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
+"titel": "Gelijkheid en groei",
+"q": "Bereken onder welke hoogte van het primaire jaarinkomen iemand na aftrek van inkomstenbelasting minder ontvangt dan een bijstandsuitkering.",
 "model": "Grens: 1.200 = primair inkomen × (1 − 0,3) + 250. Dan 0,7 × primair inkomen = 950, dus primair inkomen = A$ 1.357,14. Onder dat inkomen is de uitkering hoger.",
 "pnt": 2,
 "id": "H.v14.3.v2021I26",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 26,
+"ctx": "Pikets meent dat de bijstandswet ongewenste effecten kan hebben: “Sommige mensen met inkomen uit arbeid of vermogen zijn nu door de werking van het belastingstelsel slechter af dan mensen met een bijstandsuitkering.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2022-II, vraag 2",
-"q": "(Examen vwo 2022-II, vraag 2)\nDe heffingskorting voor zelfstandigen gaat € 2.000 omlaag in een progressief stelsel. Beargumenteer hoe de Lorenzcurve van de secundaire inkomens van zzp'ers verschuift.",
+"titel": "Zelfstandigen zonder personeel",
+"q": "Beargumenteer hoe de Lorenzcurve van de secundaire inkomens van de zzp’ers in 2022 zal verschuiven ten opzichte van 2019 door de verlaging van de heffingskorting.",
 "model": "Lage inkomens betalen relatief meer belasting dan hoge, dus de inkomensverschillen worden groter (1). Door deze denivellering schuift de Lorenzcurve van de secundaire inkomens naar buiten (1).",
 "pnt": 2,
 "id": "H.v14.3.v2022II2",
-"e": "H.belasting"
+"e": "H.belasting",
+"ex": "v22-2",
+"jaar": 2022,
+"tv": 2,
+"nr": 2,
+"ctx": "Samira verwacht dat in 2022 de heffingskorting voor zelfstandigen met € 2.000 wordt verlaagd. Er is sprake van een progressief belastingstelsel."
 }
 ],
 "bg": [
@@ -25575,30 +26180,45 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 8",
-"q": "(Examen havo 2018-I, vraag 8)\nBereken met de gegeven bronnen de procentuele verandering van de consumentenprijsindex in 2013 in Nederland. Rond af op twee decimalen.",
+"titel": "Van nationaal rekenen naar nationaal beleid",
+"q": "Gebruik bron 1 en 2.\nBereken de procentuele verandering van de consumentenprijsindex in 2013 in Nederland en rond af op twee decimalen nauwkeurig.",
 "model": "Nominale verandering bbp: (642,9 − 640,6) : 640,6 × 100% = 0,36%. Daarna 100,36 : 99,3 × 100 = 101,07, dus mutatie CPI 1,07%.",
 "pnt": 2,
 "id": "I.h14.2.h2018I8",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 8,
+"ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk"
 },
 {
 "t": "open",
-"titel": "Examen havo 2019-I, vraag 27",
-"q": "(Examen havo 2019-I, vraag 27)\nHet nominale Amerikaanse bbp steeg in 2014 met 2,8%. Bereken met bron 1 de reële groei van het bbp in 2014 ten opzichte van 2013.",
+"titel": "80 jaar bbp, 80 jaar discussie",
+"q": "Gebruik bron 1.\nBereken de reële groei van het Amerikaanse bbp in 2014 ten opzichte van 2013.",
 "model": "Nominaal 2,8%, inflatie via de prijsindex 2,6% (1 punt). Reëel: 102,8 : 102,6 × 100 = 100,19, dus reële groei is 0,2% (1 punt). Aftrekken 102,8 − 102,6 mag ook voor het tweede punt.",
 "pnt": 2,
 "id": "I.h14.2.h2019I27",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "h19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 27,
+"ctx": "Het bbp meet economische groei, maar wordt ook gebruikt als welvaartsmaatstaf. Daar is veel discussie over. In 2014 steeg het bbp van de Verenigde Staten van Amerika (VS) met 2,8%, maar het is de vraag of de inwoners van de VS in dat jaar ook 2,8% welvarender zijn geworden. Argumenten waarom het nominale bbp een beperkte welvaartsmaatstaf is, zijn: - Een stijging van het nominale bbp kan ook veroorzaakt zijn door prijsstijgingen. - Het bbp meet geen welzijn, zoals gezondheid en geluk. - Het bbp geeft geen informatie over de verdeling van de welvaart."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 8",
-"q": "(Examen havo 2021-I, vraag 8)\nToon met een berekening aan dat het nominale bbp per hoofd in India tussen 2012 en 2017 bijna is verdubbeld. Gebruik de gegevens over reële groei, inflatie en bevolking uit bron 1.",
+"titel": "Meer vrijhandel, meer groei",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat het nominale bbp per hoofd van de bevolking in India in de periode 2012–2017 bijna is verdubbeld.",
 "model": "Nominaal bbp: 148,2 × 140,8 : 100 = 208,7. Bevolking: 1.342 : 1.264 × 100 = 106,2. Per hoofd: 208,7 : 106,2 × 100 = 196,5, dus +96,5%: bijna verdubbeld. De benadering met optellen mag ook.",
 "pnt": 3,
 "id": "I.h14.2.h2021I8",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 8,
+"ctx": "In de periode 2012–2017 was India een van de snelst groeiende economieën van de wereld. Het nominale bruto binnenlands product (bbp) per hoofd van de bevolking is in die periode bijna verdubbeld. De groei van het nominale bbp is voornamelijk te verklaren door een toename van de consumptie van de middenklasse en door een toename van de buitenlandse investeringen. Een Indiase econoom stelt: 1 “Hoewel het nominale bbp per hoofd van de bevolking bijna is verdubbeld, betekent dat niet dat de welvaart in India ook bijna twee keer zo groot is.” 2 “Het belangrijkste probleem in India is de matige infrastructuur. Daarom moet de overheid daar fors in investeren.”"
 }
 ],
 "bg": [
@@ -27861,30 +28481,45 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2018-I, vraag 10",
-"q": "(Examen havo 2018-I, vraag 10)\nBereken met de bron het nationaal spaaroverschot van Nederland in 2013.",
+"titel": "Van nationaal rekenen naar nationaal beleid",
+"q": "Gebruik bron 2.\nBereken het nationaal spaaroverschot van Nederland in 2013.",
 "model": "E − M = 533,2 − 466,8 = 66,4 miljard euro. Ook goed: (B − O) + (S − I) = (139,1 − 192,6) + (214,2 − 94,3) = 66,4. Uitkomst als tekort: 0 punten.",
 "pnt": 2,
 "id": "I.h17.1.h2018I10",
-"e": "I.saldi"
+"e": "I.saldi",
+"ex": "h18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 10,
+"ctx": "Als gevolg van de kredietcrisis en de daaropvolgende eurocrisis is het consumenten- en producentenvertrouwen in Nederland in 2013 laag. Dat uit zich in afnemende particuliere bestedingen (consumptie en investeringen), een toenemend nationaal spaaroverschot en een dalende inflatie. Een econoom stelt: “Op basis van deze gegevens zou de Nederlandse overheid er verstandig aan doen conjunctuurbeleid te voeren. Maar omdat Nederland zich moet houden aan het Stabiliteitspact van de Economische en Monetaire Unie (EMU), is conjunctuurbeleid vrijwel onmogelijk geworden.”"
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-II, vraag 8",
-"q": "(Examen havo 2021-II, vraag 8)\nLeg uit hoe innovatie het tekort op de lopende rekening van de VS wel structureel kan oplossen.",
+"titel": "Een handelsoorlog",
+"q": "Leg uit hoe door innovatie het tekort op de lopende rekening wél structureel opgelost kan worden.",
 "model": "Innovatie verhoogt de arbeidsproductiviteit, waardoor de concurrentiepositie van de VS verbetert (1). Dit geeft meer export met hogere ontvangsten of minder import met lagere uitgaven, dus een kleiner tekort (1).",
 "pnt": 2,
 "id": "I.h17.1.h2021II8",
-"e": "I.saldi"
+"e": "I.saldi",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 8,
+"ctx": "Volgens econoom Babs Snoeks lost het opleggen van importheffingen niet structureel het grote tekort op de lopende rekening van de VS op. Zij is namelijk van mening dat het tekort grotendeels veroorzaakt wordt door achterblijvende innovatie van de Amerikaanse industrie."
 },
 {
 "t": "open",
-"titel": "Examen havo 2022-I, vraag 25",
-"q": "(Examen havo 2022-I, vraag 25)\nGebruik bron 1. Toon met een berekening aan dat het begrote overheidstekort van Italië in 2019 hoger is dan de afgesproken 1,6% van het bbp.",
+"titel": "Repareer het dak wanneer de zon schijnt",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat het begrote overheidstekort van Italië in 2019 hoger is dan 1,6% van het bbp.",
 "model": "Tekort = uitgaven − belastingontvangsten = 820 − 770 = € 50 miljard (1p). Als percentage van het bbp: 50 : 1.730 × 100% = 2,89%, dat is meer dan 1,6% (1p).",
 "pnt": 2,
 "id": "I.h17.1.h2022I25",
-"e": "I.saldi"
+"e": "I.saldi",
+"ex": "h22-1",
+"jaar": 2022,
+"tv": 1,
+"nr": 25,
+"ctx": "Uit een tijdschrift, december 2018: In het stabiliteitspact van de EMU zijn normen afgesproken voor het overheidstekort en de staatsschuld van de lidstaten. De ontwerpbegrotingen van de lidstaten worden ter beoordeling voorgelegd aan de Europese Commissie. De afspraken met Italië zijn dat het overheidstekort in 2019 maximaal 1,6% van het bbp mag bedragen en dat de staatschuldquote moet worden verlaagd. In 2018 is de Italiaanse staatschuld 130% van het bbp. De regering van Italië wil de overheidsuitgaven in 2019 met 35 miljard euro verhogen tot 820 miljard euro (zie bron 1). Het overheidstekort in 2019 wordt hierdoor hoger dan wat met de EMU was afgesproken. De regering van Italië is niet van plan de begroting aan te passen en doet de volgende 3 beweringen: 1 Een hoger tekort op de begroting in 2019 zal leiden tot meer economische groei. 2 Hogere economische groei leidt in de toekomst tot een lager overheidstekort. 3 Hogere economische groei leidt op twee manieren tot een lagere staatsschuldquote."
 }
 ],
 "bg": [
@@ -28227,21 +28862,31 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-I, vraag 9",
-"q": "(Examen havo 2021-I, vraag 9)\nEuropese auto's krijgen in India 120% invoerrechten. Bereken met hoeveel procent ze goedkoper worden als deze rechten worden afgeschaft.",
+"titel": "Meer vrijhandel, meer groei",
+"q": "Bereken hoeveel procent Europese auto’s goedkoper worden in India als de invoerrechten worden afgeschaft.",
 "model": "De huidige prijs is 220% van de nieuwe prijs. Verandering = (100 − 220) : 220 × 100% = −54,5%, dus 54,5% goedkoper.",
 "pnt": 1,
 "id": "I.h17.2.h2021I9",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "h21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 9,
+"ctx": "Door de hoge economische groei is India voor de Europese Unie (EU) een potentieel grote afzetmarkt. Maar als gevolg van protectionistische maatregelen blijft de handel tussen India en de EU beperkt. Zo hebben Europese exporteurs van auto’s te maken met 120% invoerrechten in India. De EU is nu met India in onderhandeling over het afschaffen van invoerrechten op Europese producten in ruil voor minder strenge Europese regelgeving voor producten uit India."
 },
 {
 "t": "open",
-"titel": "Examen havo 2021-II, vraag 7",
-"q": "(Examen havo 2021-II, vraag 7)\nLeg uit hoe de VS met importheffingen op staal een tekort op de lopende rekening kunnen verkleinen.",
+"titel": "Een handelsoorlog",
+"q": "Leg uit hoe de VS door middel van importheffingen op staal een tekort op de lopende rekening kunnen tegengaan.",
 "model": "De heffing maakt buitenlands staal duurder, dus de VS importeren minder (1). De uitgaven op de lopende rekening dalen, dus het tekort wordt kleiner bij gelijkblijvende export (1).",
 "pnt": 2,
 "id": "I.h17.2.h2021II7",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "h21-2",
+"jaar": 2021,
+"tv": 2,
+"nr": 7,
+"ctx": "uit een krant, 2018: Volgens de Verenigde Staten (VS) dumpt het buitenland staal op de Amerikaanse markt, waardoor de werkgelegenheid in deze sector in de VS onder druk staat. Deze dumping wordt mogelijk gemaakt door de exportsubsidies die buitenlandse overheden aan hun staalproducenten geven. Dumping is een van de oorzaken van het tekort op de lopende rekening van de betalingsbalans van de VS. De VS willen met protectionistische maatregelen proberen dit tekort tegen te gaan én de eigen werkgelegenheid te beschermen. Met ingang van 1 juni 2018 stellen de VS daarom een importheffing in van 25% op staal uit onder andere de Europese Unie (EU). Een aantal maanden eerder hebben de VS deze heffing al doorgevoerd op staal uit China. Het opleggen van importheffingen door de VS wordt gezien als de start van een wereldwijde handelsoorlog. De buitenlandse handelspartners hebben namelijk plannen voor tegenmaatregelen, waarbij importheffingen geheven zullen worden op specifieke Amerikaanse producten."
 }
 ],
 "bg": [
@@ -28755,21 +29400,31 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2026-I, vraag 27",
-"q": "(Examen vwo 2026-I, vraag 27)\nBereken met tabel 1 (hypotheekschuld in euro's en als % van het bbp, reële groei 2021 en 2022) de inflatie van begin 2021 tot eind 2022.",
+"titel": "De prijs van woningbezit",
+"q": "Bereken op basis van tabel 1 de inflatie in de periode begin 2021 tot eind 2022.",
 "model": "Bbp oud = 740,1 : 0,93 = 795,81 mld; bbp nieuw = 797,6 : 0,83 = 960,96 mld, dus nominaal +20,8%. Reëel: 1,049 × 1,045 → +9,6%. Inflatie = 120,8 : 109,6 × 100 = 110,2, dus 10,2%.",
 "pnt": 3,
 "id": "I.v15.1.v2026I27",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "v26-1",
+"jaar": 2026,
+"tv": 1,
+"nr": 27,
+"ctx": "Stelling: “Bij een hogere hypotheekrente stijgt het risico van wanbetaling. Hierdoor verlaagt DNB de inkomenstoets.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2026-II, vraag 2",
-"q": "(Examen vwo 2026-II, vraag 2)\nEen tabel geeft de rijstprijsindex (gewicht 20%), het nominaal bbp per hoofd en de stijging van de overige prijzen met 15%. Bereken de verandering van de koopkracht over 2019-2022 en beargumenteer of de voedselzekerheid is gestegen of gedaald.",
+"titel": "Indiase rijst",
+"q": "Bereken de verandering van de koopkracht in de periode 2019-2022 en beargumenteer of de voedselzekerheid is toegenomen of afgenomen.",
 "model": "Prijsindex: 151 × 0,20 + 115 × 0,80 = 122,2. Nominale groei: (2288 − 2050) : 2050 = 11,6%, index 111,6. Reëel: 111,6 : 122,2 × 100 = 91,3. Koopkracht gedaald, dus voedselzekerheid afgenomen. Drie scorepunten bij vier juiste elementen.",
 "pnt": 3,
 "id": "I.v15.1.v2026II2",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "v26-2",
+"jaar": 2026,
+"tv": 2,
+"nr": 2,
+"ctx": "Een econoom onderzoekt de voedselzekerheid in India (zie tabel 1). Tabel 1 Gegevens van India 2019 2020 2021 2022 prijsindex van rijst (basisjaar 2019) 100 103,1 132,2 151,0 wegingsfactor rijst als aandeel van het totale uitgavenpakket 20% 20% 20% 20% nominaal bbp per hoofd van de bevolking (in US$) $ 2.050 $ 1.913 $ 2.238 $ 2.288 In de periode 2019–2022 stegen de overige prijzen in India met 15%."
 }
 ],
 "bg": [
@@ -29014,30 +29669,45 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2018-I, vraag 15",
-"q": "(Examen vwo 2018-I, vraag 15)\nTabel met consumptie, investeringen, overheidsbestedingen, invoer en bbp voor 2015 (uitvoer ontbreekt); 2014: 10,73%. Toon met een berekening aan dat het uitvoersaldo in 2015 een hoger percentage van het bbp is.",
+"titel": "Hun probleem ons probleem?",
+"q": "Toon met een berekening aan dat volgens de ramingen het uitvoersaldo van Nederland als percentage van het bbp in 2015 hoger is dan in 2014.",
 "model": "667,7 = 298,9 + 101,5 + 194,1 + uitvoer − 491,1, dus uitvoer = 564,3. Saldo (564,3 − 491,1) : 667,7 × 100% = 10,96%, hoger dan 10,73%.",
 "pnt": 2,
 "id": "I.v15.2.v2018I15",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 15,
+"ctx": "Met behulp van tabel 1 kan berekend worden dat het positieve uitvoersaldo van Nederland over 2014 10,73% van het bbp bedroeg."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 23",
-"q": "(Examen vwo 2021-I, vraag 23)\nGegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.",
+"titel": "Devaluatie van de wal in de sloot",
+"q": "Bereken de omvang van de particuliere besparingen in 2019 in procenten van het bbp.",
 "model": "S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.",
 "pnt": 2,
 "id": "I.v15.2.v2021I23",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 23,
+"ctx": "Econoom Liman stelt binnenlands beleid voor. “Als we gebruikmaken van het kringloopmodel, is te zien dat er in Imareca sprake is van een overheidstekort dat niet wordt opgevangen door een particulier spaaroverschot. Ik stel voor dat de overheid gaat bezuinigen om daarmee ook het tekort op de lopende rekening te verlagen.” Liman onderbouwt zijn visie met gegevens uit tabel 1. Tabel 1 macro-economische gegevens van Imareca in 2019 variabele in procenten van het bbp overheidstekort 2,6 particuliere besparingen (S) … particuliere investeringen (I) 20,3 tekort op de lopende rekening 3,2"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2023-II, vraag 1",
-"q": "(Examen vwo 2023-II, vraag 1)\nLaat met een berekening zien dat het nationaal inkomen in 2000 € 350 miljard bedraagt, aan de hand van de bedragen in het kringloopmodel.",
+"titel": "Macro-economische ontwikkelingen",
+"q": "Laat met een berekening zien dat het nationaal inkomen € 350 miljard bedraagt in 2000.",
 "model": "Y = C + I + O + E − M = 199 + 28 + 106 + 197 − 180 = 350 (miljard euro).",
 "pnt": 1,
 "id": "I.v15.2.v2023II1",
-"e": "I.conj"
+"e": "I.conj",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 1,
+"ctx": "De Ministers van Economische Zaken en Financiën willen van het Nationaal Bureau voor de Statistiek (NBS) weten hoe de macro-economische ontwikkeling van het land is geweest. Daarom hebben onderzoekers van het NBS een drietal onderzoeksvragen geformuleerd: 1 Heeft de economie van het land in de periode 2000-2019 beter of slechter gepresteerd dan de trendmatige groei van de voornaamste handelspartners? Het nationaal inkomen van de handelspartners groeide gemiddeld met 1% per jaar. 2 Wat is de invloed van de overheid op de conjunctuur geweest? 3 Hoe kan de structurele groei worden bevorderd? De onderzoekers hebben een macro-economisch kringloopmodel ontwikkeld (zie figuur 1) voor de jaren 2000 en 2019. In beide onderzochte jaren was er sprake van bestedingsevenwicht. Figuur 1 Kringloopmodel in 2000 (en 2019 tussen haakjes) in miljarden euro’s B = belastingen C = particuliere consumptie E = export van goederen en diensten I = bedrijfsinvesteringen M = import van goederen en diensten O = overheidsbestedingen S = particuliere besparingen Y = nationaal inkomen (vervangingsinvesteringen en afschrijvingen blijven buiten beschouwing)"
 }
 ],
 "bg": [
@@ -30825,30 +31495,45 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-I, vraag 23",
-"q": "(Examen vwo 2021-I, vraag 23)\nGegeven zijn voor 2019 in procenten van het bbp: overheidstekort 2,6, particuliere investeringen 20,3 en tekort op de lopende rekening 3,2. Bereken de particuliere besparingen in procenten van het bbp.",
+"titel": "Devaluatie van de wal in de sloot",
+"q": "Bereken de omvang van de particuliere besparingen in 2019 in procenten van het bbp.",
 "model": "S − I = (E − M) − (B − O). Hier is B − O = −2,6 en E − M = −3,2, dus S − I = −3,2 + 2,6 = −0,6. Dan S = 20,3 − 0,6 = 19,7% van het bbp. Een juiste berekening met woorden in plaats van symbolen mag ook.",
 "pnt": 2,
 "id": "I.v18.1.v2021I23",
-"e": "I.saldi"
+"e": "I.saldi",
+"ex": "v21-1",
+"jaar": 2021,
+"tv": 1,
+"nr": 23,
+"ctx": "Econoom Liman stelt binnenlands beleid voor. “Als we gebruikmaken van het kringloopmodel, is te zien dat er in Imareca sprake is van een overheidstekort dat niet wordt opgevangen door een particulier spaaroverschot. Ik stel voor dat de overheid gaat bezuinigen om daarmee ook het tekort op de lopende rekening te verlagen.” Liman onderbouwt zijn visie met gegevens uit tabel 1. Tabel 1 macro-economische gegevens van Imareca in 2019 variabele in procenten van het bbp overheidstekort 2,6 particuliere besparingen (S) … particuliere investeringen (I) 20,3 tekort op de lopende rekening 3,2"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2021-III, vraag 7",
-"q": "(Examen vwo 2021-III, vraag 7)\nEen politicus wil de pensioenleeftijd verlagen. Geef twee oorzaken waarom dit het overheidssaldo kan verslechteren.",
+"titel": "Pensioenleeftijd",
+"q": "Geef twee oorzaken waarom het verlagen van de pensioenleeftijd kan leiden tot een verslechtering van het overheidssaldo.",
 "model": "Ouderen betalen minder jaren premie, dus de inkomsten van de overheid dalen. Ze ontvangen langer AOW, dus de uitgaven stijgen.",
 "pnt": 2,
 "id": "I.v18.1.v2021III7",
-"e": "I.saldi"
+"e": "I.saldi",
+"ex": "v21-3",
+"jaar": 2021,
+"tv": 3,
+"nr": 7,
+"ctx": "Om de betaalbaarheid van de AOW te verbeteren is enige tijd geleden de AOW gekoppeld aan de gemiddelde levensverwachting: voor elk jaar dat de gemiddelde levensverwachting stijgt, wordt de AOW-leeftijd met acht maanden verhoogd. Een politicus wil deze koppeling in 2022 afschaffen en bovendien de pensioenleeftijd verlagen. De econoom verwacht dat het overheidssaldo zal verslechteren door deze maatregel."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2023-II, vraag 3",
-"q": "(Examen vwo 2023-II, vraag 3)\nLeg met het kringloopmodel uit of de overheid in 2019 positief of negatief heeft bijgedragen aan het totaal van de bestedingen.",
+"titel": "Macro-economische ontwikkelingen",
+"q": "Leg aan de hand van het kringloopmodel uit of de overheid in 2019 een positieve of negatieve bijdrage heeft geleverd aan het totaal van de bestedingen.",
 "model": "Overheidssaldo B − O = 160 − 135 = 25 miljard. Belastingen onttrekken vraag, overheidsbestedingen scheppen vraag. De belastingen zijn groter, dus de bijdrage aan de bestedingen is negatief.",
 "pnt": 2,
 "id": "I.v18.1.v2023II3",
-"e": "I.saldi"
+"e": "I.saldi",
+"ex": "v23-2",
+"jaar": 2023,
+"tv": 2,
+"nr": 3,
+"ctx": "De Ministers van Economische Zaken en Financiën willen van het Nationaal Bureau voor de Statistiek (NBS) weten hoe de macro-economische ontwikkeling van het land is geweest. Daarom hebben onderzoekers van het NBS een drietal onderzoeksvragen geformuleerd: 1 Heeft de economie van het land in de periode 2000-2019 beter of slechter gepresteerd dan de trendmatige groei van de voornaamste handelspartners? Het nationaal inkomen van de handelspartners groeide gemiddeld met 1% per jaar. 2 Wat is de invloed van de overheid op de conjunctuur geweest? 3 Hoe kan de structurele groei worden bevorderd? De onderzoekers hebben een macro-economisch kringloopmodel ontwikkeld (zie figuur 1) voor de jaren 2000 en 2019. In beide onderzochte jaren was er sprake van bestedingsevenwicht. Figuur 1 Kringloopmodel in 2000 (en 2019 tussen haakjes) in miljarden euro’s B = belastingen C = particuliere consumptie E = export van goederen en diensten I = bedrijfsinvesteringen M = import van goederen en diensten O = overheidsbestedingen S = particuliere besparingen Y = nationaal inkomen (vervangingsinvesteringen en afschrijvingen blijven buiten beschouwing)"
 }
 ],
 "bg": [
@@ -31051,30 +31736,45 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2018-I, vraag 2",
-"q": "(Examen vwo 2018-I, vraag 2)\nNoem de letter(s) van het vlak of de vlakken die het welvaartsverlies weergeven dat ontstaat door het importverbod.",
+"titel": "Zakelijk boeren",
+"q": "Noem de letter(s) van het vlak / de vlakken waarmee het welvaartsverlies in dit land wordt weergegeven dat ontstaat door de instelling van het importverbod.",
 "model": "F. Alleen de juiste letter mag genoemd zijn.",
 "pnt": 1,
 "id": "I.v18.2.v2018I2",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 2,
+"ctx": "Een land importeert een groot deel van het benodigde voedsel. Een econome meent dat in dit land de productiekosten van voedsel relatief hoog zijn doordat de voedselproductie minder kapitaalintensief is dan in andere landen. Dit kan volgens haar veranderen als voor de voornaamste landbouwproducten tijdelijk een importverbod wordt ingesteld. Dat gaat weliswaar tijdelijk ten koste van de welvaart van de consumenten, maar geeft binnenlandse producenten de gelegenheid om in de periode waarin het importverbod van kracht is, hun productie efficiënter te maken. De econome hanteert het onderstaande model voor de binnenlandse vraag en het binnenlands aanbod op de markt voor één van de betreffende landbouwproducten. De valuta van het land is de UR. Qv = -2P + 100 Qa = 4P - 80 Qa = Qv P = prijs per ton in UR Qv = binnenlandse vraag in duizenden tonnen Qa = binnenlands aanbod in duizenden tonnen De situatie op de betreffende markt met import bij een prijs op de wereldmarkt van 25 UR per ton is in figuur 1 weergegeven. Figuur 1 marktsituatie voor het geselecteerde landbouwproduct 25 hoeveelheid prijs A B CDE F G URH binnenlands aanbod wereldmarkt-prijs binnenlandse vraag"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2018-I, vraag 3",
-"q": "(Examen vwo 2018-I, vraag 3)\nQv = −2P + 100 en Qa = 4P − 80 (in duizenden tonnen); wereldprijs 25 UR. De prijs mag door een importquotum 10% stijgen. Bereken hoeveel import dan nog is toegestaan.",
+"titel": "Zakelijk boeren",
+"q": "Bereken bij welke hoogte van de toegestane hoeveelheid import de prijsstijging 10% bedraagt.",
 "model": "Prijs 1,1 × 25 = 27,50. Qa = 4 × 27,50 − 80 = 30. Qv = −2 × 27,50 + 100 = 45. Import 45 − 30 = 15 (duizend ton).",
 "pnt": 2,
 "id": "I.v18.2.v2018I3",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "v18-1",
+"jaar": 2018,
+"tv": 1,
+"nr": 3,
+"ctx": "Een compleet importverbod op de voornaamste landbouwproducten zou volgens een woordvoerster van de Consumentenbond de voedselprijzen teveel doen stijgen. De Consumentenbond adviseert de regering om de import van dit specifieke product gedeeltelijk te beperken tot een maximaal toegestane hoeveelheid waarbij de prijsstijging slechts 10% bedraagt."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 15",
-"q": "(Examen vwo 2019-I, vraag 15)\nLeg uit dat verhoging van importheffingen de vraag naar importen kan beperken.",
+"titel": "Protectie een lapmiddel?",
+"q": "Leg uit dat importheffingen de vraag naar importen kunnen beperken.",
 "model": "Door de heffing worden geïmporteerde goederen duurder dan binnenlandse substituten. Daardoor daalt de vraag naar importen.",
 "pnt": 1,
 "id": "I.v18.2.v2019I15",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 15,
+"ctx": "De overheid van het ontwikkelingsland Pesthan gebruikte van 1995 tot 2015 het infant industry argument om de importen te beperken. Zij verhoogde daartoe de importheffingen en stelde importquota in. De nationale munt, de pesto, is vrij inwisselbaar."
 }
 ],
 "bg": [
@@ -31252,30 +31952,45 @@ LEVELS.I.push(...[
 },
 {
 "t": "open",
-"titel": "Examen vwo 2018-II, vraag 19",
-"q": "(Examen vwo 2018-II, vraag 19)\nVerklaar dat vóór de muntunie een verslechterde concurrentiepositie in het Zuiden via de wisselkoers in zekere mate kon worden tegengegaan.",
+"titel": "Armer door muntunie",
+"q": "Verklaar dat, vóórdat de muntunie werd ingesteld, een verslechtering van de concurrentiepositie in het Zuiden, via een verandering van de wisselkoers, in zekere mate kon worden tegengegaan.",
 "model": "Door de slechtere concurrentiepositie daalt de export, dus de vraag naar de eigen valuta en de wisselkoers. Export wordt in vreemde valuta goedkoper en import in eigen valuta duurder, waardoor de concurrentiepositie kan verbeteren.",
 "pnt": 2,
 "id": "I.v18.3.v2018II19",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "v18-2",
+"jaar": 2018,
+"tv": 2,
+"nr": 19,
+"ctx": "Een journalist vat de analyse van Stiglitz samen: Voor de invoering van de euro kende het Zuiden gemiddeld genomen een lagere groei van de arbeidsproductiviteit dan het Noorden, met als gevolg een verslechtering van de concurrentiepositie van het Zuiden. Dit effect kon op korte termijn worden verminderd door een aantal aanpassingsmechanismen. Na invoering van de euro zijn deze niet meer beschikbaar: - Er is geen onderlinge wisselkoers meer, zodat aanpassing van de wisselkoers niet meer mogelijk is. - Door het gezamenlijk rentebeleid is het voor landen niet meer mogelijk om een eigen rentebeleid te voeren. - Door het Groei- en Stabiliteitspact is het nog maar beperkt mogelijk om begrotingsbeleid te voeren."
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 3",
-"q": "(Examen vwo 2019-I, vraag 3)\nLeg uit dat een hogere rente in de VS via de kapitaalrekening de dollarkoers beïnvloedt en daarmee via de lopende rekening de bbp-groei kan afremmen.",
+"titel": "Rek in het arbeidsaanbod",
+"q": "Leg uit dat verhoging van de rente in de VS via de kapitaalrekening de wisselkoers van de US dollar beïnvloedt, en daarmee via de lopende rekening de groei van het bbp in de VS kan beperken.",
 "model": "Hogere rente maakt beleggen in de VS aantrekkelijk, dus er is meer vraag naar dollars en de koers stijgt. Amerikaanse producten worden voor het buitenland duurder, de export daalt en de bbp-groei kan afnemen. Twee punten per deel.",
 "pnt": 4,
 "id": "I.v18.3.v2019I3",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 3,
+"ctx": "Janets verwacht dat in de periode vanaf 2015 de groei van het arbeidsaanbod zal afnemen. Bij aanhoudende groei van het reële bbp kan volgens haar de inflatie dan weer hoger uitvallen dan wenselijk. Het lijkt haar raadzaam dat de rente wordt verhoogd, omdat daarmee op termijn de groei van het bbp kan worden beperkt: “Een renteverhoging heeft via de kapitaalrekening van de betalingsbalans effect op de wisselkoers van de US dollar, en daarmee op de lopende rekening. Dit kan leiden tot de gewenste afname van de groei van het bbp.”"
 },
 {
 "t": "open",
-"titel": "Examen vwo 2019-I, vraag 18",
-"q": "(Examen vwo 2019-I, vraag 18)\nLeg uitsluitend met informatie uit tabel 1 uit dat de stijging van de exportwaarde 1995-2015 door een waardeverandering van de pesto kan komen.",
+"titel": "Protectie een lapmiddel?",
+"q": "Leg uitsluitend met behulp van informatie uit tabel 1 uit dat de stijging van de exportwaarde in de periode 1995-2015 veroorzaakt zou kunnen zijn door een waardeverandering van de pesto.",
 "model": "De importwaarde is groter dan de exportwaarde, dus het saldo op de lopende rekening is negatief. Er worden meer pesto's aangeboden dan gevraagd, dus de pesto daalt in waarde. Producten uit Pesthan worden goedkoper voor het buitenland en de export stijgt.",
 "pnt": 2,
 "id": "I.v18.3.v2019I18",
-"e": "C.intl"
+"e": "C.intl",
+"ex": "v19-1",
+"jaar": 2019,
+"tv": 1,
+"nr": 18,
+"ctx": "Het EA stelt: “De stijging van de exportwaarde van goederen en diensten is niet alleen een gevolg van het protectionistische beleid, gericht op versterking van opkomende bedrijven. Het kan ook zijn veroorzaakt door een waardeverandering van de pesto. Deze waardeverandering kan ook hebben bijgedragen aan de stijging van het binnenlandse prijsniveau.”"
 }
 ],
 "bg": [

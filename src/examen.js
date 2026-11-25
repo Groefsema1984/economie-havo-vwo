@@ -5,6 +5,10 @@ DOMEINEN.forEach(d=>{ EINDTERMEN['EX.'+d.id]={d:d.id,t:'Examenvragen '+d.naam.to
 const exVragen = (n=niv()) => (typeof EXAMEN==='undefined'?[]:EXAMEN.vragen).filter(v=>!n||v.niv===n);
 const exDomeinen = () => DOMEINEN.filter(d=>exVragen().some(v=>v.d===d.id));
 const EX_IMG = 'examens/img/';
+// examenpagina's met de bronnen bij een vraag (EX_BRON komt uit tools/examen_bronnen.py)
+function exBron(v){ if(v.img&&v.img.length) return v.img; const e=typeof EX_BRON!=='undefined'&&v.ex&&EX_BRON[v.ex]; return (e&&e[v.nr])||[] }
+function bronLabel(s){ const m=s.match(/-(\w)-(\d+)$/); if(!m) return '📄 Examenpagina';
+  return m[1]==='b'?`📊 Bronnen blz. ${m[2]}`:m[1]==='u'?'✏️ Uitwerkbijlage':`📄 Examen blz. ${m[2]}` }
 const exNaam = c => { const m=/^([hv])(\d\d)-(\d)$/.exec(c)||[]; return `${NIVEAUS[m[1]]||''} ${2000+ +m[2]} tijdvak ${m[3]}` };
 function exLijst(n){ const m={}; exVragen(n).forEach(v=>{ (m[v.ex]=m[v.ex]||[]).push(v) }); return Object.keys(m).sort().reverse().map(c=>({c,v:m[c]})) }
 const beheerst = v => { const r=S.vr[v.id]; return r && r.g>0 && (r.t? true:true) && r.g>=r.f };
@@ -55,12 +59,12 @@ tekenVraag = function(){
   const kopTxt=`<p class="zacht" style="margin-top:0;font-size:13px">Examen ${v.jaar} tijdvak ${v.tv} · vraag ${v.nr}${v.titel?' · '+esc(v.titel):''}</p>`;
   const oud=kaart.querySelector(':scope > .vctx'); if(oud&&v.ctx) oud.remove();
   const ctx=v.ctx?`<div style="font-size:15px;background:var(--bg);border-radius:12px;padding:10px 12px;margin-bottom:12px">${fmt(v.ctx)}</div>`:'';
-  const imgs=(v.img||[]).map((s,i)=>`<button class="knop zacht" style="min-height:40px;padding:6px 12px;font-size:14px" onclick="toonImg('${s}')">${s.includes('-b-')?'📊 Informatiebron':'📄 Examenpagina'}</button>`).join(' ');
+  const bl=exBron(v), imgs=bl.map(s=>`<button class="knop zacht" style="min-height:40px;padding:6px 12px;font-size:14px" onclick="toonImg('${s}')">${bronLabel(s)}</button>`).join(' ');
   kaart.insertAdjacentHTML('afterbegin',kopTxt+ctx+(imgs?`<div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:10px">${imgs}</div><div id="imgBox"></div>`:''));
   if(!$('#qz .vraag .vtekst')) $('#qz .vraag').style.whiteSpace='pre-line';
   // toon bij een bron-vraag direct de eerste informatiebron, anders de examenpagina als er een figuur in staat
-  const bron=(v.img||[]).find(s=>s.includes('-b-')); const fig=/grafiek|figuur|tabel|afbeelding|hieronder|lijn |oppervlakte|curve/i.test(v.q+' '+(v.o||[]).join(' '));
-  if(bron) toonImg(bron); else if(fig&&(v.img||[]).length) toonImg(v.img[0]);
+  const bron=bl.find(s=>s.includes('-b-')); const fig=/grafiek|figuur|tabel|afbeelding|hieronder|lijn |oppervlakte|curve|bron|gegeven|gebruik/i.test(v.q+' '+(v.ctx||'')+' '+(v.o||[]).join(' '));
+  if(bron) toonImg(bron); else if(fig&&bl.length) toonImg(bl[0]);
 };
 function toonImg(s){ const b=$('#imgBox'); if(!b) return; if(b.dataset.s===s){ b.innerHTML=''; b.dataset.s=''; return }
   b.dataset.s=s; b.innerHTML=`<div style="overflow:auto;max-height:70vh;border:1px solid var(--lijn);border-radius:12px;margin-bottom:12px;background:#fff"><img src="${EX_IMG}${s}.jpg" alt="Examenpagina" style="width:100%;display:block" onerror="this.parentNode.innerHTML='<p style=&quot;padding:12px&quot;>Afbeelding niet beschikbaar zonder internet.</p>'"></div>` }
@@ -78,7 +82,7 @@ function printExamen(){
   let v = c ? exVragen().filter(x=>x.ex===c).sort((a,b)=>a.nr-b.nr) : d ? exVragen().filter(x=>x.d===d).sort((a,b)=>a.ex<b.ex?-1:a.ex>b.ex?1:a.nr-b.nr) : null;
   if(!v){ melding('Kies een examen of een domein'); return }
   const titel = c ? 'Examen economie '+exNaam(c) : 'Examenvragen '+DOMEINEN.find(x=>x.id===d).naam;
-  const imgs=[...new Set(v.flatMap(x=>x.img||[]))];
+  const imgs=[...new Set(v.flatMap(x=>exBron(x)))];
   const w=window.open('','_blank'); if(!w){ melding('Sta pop-ups toe om te printen'); return }
   const L='ABCDE';
   w.document.write(`<!doctype html><html lang="nl"><head><meta charset="utf-8"><title>${esc(titel)}</title><style>

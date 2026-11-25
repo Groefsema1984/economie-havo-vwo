@@ -295,7 +295,7 @@ SCHERMEN.exvol = function(c){
   const blokken=l.map((v,i)=>{ let h='';
     if(v.titel&&v.titel!==vorigeTitel){ h+=`<h2 class="exvOpgave">${esc(v.titel)}</h2>`; vorigeTitel=v.titel }
     if(v.ctx&&v.ctx!==vorigeCtx){ h+=`<div class="exvCtx">${fmt(v.ctx)}</div>`; vorigeCtx=v.ctx }
-    const imgs=(v.img||[]).map(s=>`<button class="knop zacht klein" onclick="exvImg(${i},'${s}')">${s.includes('-b-')?'📊 Informatiebron':'📄 Examenpagina'}</button>`).join(' ');
+    const imgs=exBron(v).map(s=>`<button class="knop zacht klein" onclick="exvImg(${i},'${s}')">${bronLabel(s)}</button>`).join(' ');
     const a=E.antw[v.id];
     let inv;
     if(v.t==='ex') inv=`<div class="opties">${v.o.map((o,k)=>`<button class="optie ${a===k?'kies':''} ${nakijk?(k===v.a?'goed':a===k?'fout':''):''}" ${nakijk?'disabled':''} onclick="exvMc(${i},${k})"><span class="l">${'ABCDE'[k]}</span><span>${esc(o)}</span></button>`).join('')}</div>`;

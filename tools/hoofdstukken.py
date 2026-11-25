@@ -105,6 +105,10 @@ def main():
     hst = [lees(f) for f in sorted(glob.glob(os.path.join(ROOT, 'hoofdstukken', '*.txt'))) if not os.path.basename(f).upper().startswith(('LEESMIJ', 'LAGEN'))]
     index = {(h['niv'], p['nr']): p for h in hst for p in h['par']}
     bibv = bibliotheek_vragen()
+    exdata = {}
+    t = open(os.path.join(ROOT, 'src', 'data-examen.js'), encoding='utf-8').read()
+    for blok in re.findall(r'EXAMEN\.vragen\.push\(\.\.\.(\[.*?\n\])\);', t, re.S):
+        for x in json.loads(blok): exdata.setdefault((x['ex'], x['nr']), x)
     core = open(os.path.join(ROOT, 'src', 'core.js'), encoding='utf-8').read()
     gens_ok = set(re.findall(r'^\s+(\w+)\(\)\s*\{', core, re.M))
     levels, begrippen, fouten = {}, {}, []
@@ -153,6 +157,15 @@ def main():
                 gezien.add(x['bron'])
                 v = {k: x[k] for k in ('t', 'titel', 'q', 'model', 'pnt')}
                 v.update(id=f'{lid}.{re.sub(r"[^A-Za-z0-9]", "", x["bron"])}', e=e)
+                mb = re.match(r'([hv])(\d\d)(\d\d)-(I{1,3})-(\d+)$', x['bron'])
+                if mb:   # examenvraag: koppel aan het examen, zodat de context en de bronnen (EX_BRON) erbij komen
+                    code = f'{mb.group(1)}{mb.group(3)}-{len(mb.group(4))}'
+                    v.update(ex=code, jaar=int(mb.group(2) + mb.group(3)), tv=len(mb.group(4)), nr=int(mb.group(5)))
+                    v['q'] = re.sub(r'^\(Examen [^)]*\)\n', '', v['q'])
+                    orig = exdata.get((code, v['nr']))
+                    v['titel'] = orig.get('titel', '') if orig else ''
+                    if orig and orig.get('ctx'): v['ctx'] = orig['ctx']
+                    if orig and orig.get('t') == 'open' and orig.get('q'): v['q'] = orig['q']   # de echte vraagtekst uit het examen
                 vr.append(v)
             lvl = {'id': lid, 'hfd': hfd, 'niv': niv, 'naam': f'§{p["nr"]} {p["titel"]}', 'kort': p.get('kort', h.get('hoofdvraag', '')),
                    'vragen': vr, 'bg': [b for b, _ in bg], 'gens': [g.strip() for g in p.get('gens', '').split(',') if g.strip()]}

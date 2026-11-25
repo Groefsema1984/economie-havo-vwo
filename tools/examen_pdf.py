@@ -262,8 +262,7 @@ def main():
             d = bib.get(eid) or domein(v['q'], v['opgave'] + ' ' + v['ctx'])
             basis = {'niv': niv, 'ex': ex, 'jaar': jaar, 'tv': tv, 'titel': v['opgave'], 'd': d, 'e': 'EX.' + d}
             q = v['q']
-            if re.search(r'Gebruik[^.]*\bbron', q): q += '\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)'
-            elif re.search(r'Gebruik[^.]*\b(figuur|tabel|grafiek)', q) or re.search(r'\b(figuur|grafiek|spelboom)\b', q, re.I): q += '\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)'
+            # bronnen en figuren: de app toont de examenpagina's zelf (tools/examen_bronnen.py)
             if re.fullmatch(r'[A-F]', a.strip()): a = 'MC:' + a.strip()
             if a.startswith('MC:'):   # echte meerkeuzevraag uit het examen
                 mm = re.search(r'^(.*?)\s+A\s+(.+?)\s+B\s+(.+?)(?:\s+C\s+(.+?))?(?:\s+D\s+(.+?))?(?:\s+E\s+(.+?))?\s*$', v['q'], re.S)

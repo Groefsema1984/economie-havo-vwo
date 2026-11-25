@@ -37,7 +37,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "P&P wil Metolani in verpakkingen van duizend pillen aan de drogisterijen verkopen. Concurrenten van P&P bieden in Duitsland echter ook pillen met een vergelijkbare werking aan drogisterijen aan. Daarom stelt de financieel manager van P&P het volgende voor: - Op de Duitse markt hoeven alleen de variabele kosten terugverdiend te worden, zodat we in Duitsland een lagere prijs kunnen vragen dan in Nederland. De vaste (constante) kosten (zie bron 1) zullen dan op de Nederlandse markt terugverdiend moeten worden. - Op de Nederlandse markt vragen we een prijs waarbij er maximale totale winst wordt behaald.",
-"q": "Gebruik bron 1 en 2.\nBereken wat de prijs per verpakking Metolani op de Nederlandse markt wordt als het voorstel van de financieel manager wordt uitgevoerd.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nBereken wat de prijs per verpakking Metolani op de Nederlandse markt wordt als het voorstel van de financieel manager wordt uitgevoerd.",
 "model": "Een voorbeeld van een juiste berekening is:\n• MO = MK −50Q + 230 = 50 Q = 3,6 miljoen verpakkingen (1p)\n• P = −25 × 3,6 + 230 = € 140 (1p)\nOpmerking Het toepassen van MO = MK is noodzakelijk voor het toekennen van scorepunten.",
 "pnt": 2
 },
@@ -53,7 +53,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "P&P wil Metolani in verpakkingen van duizend pillen aan de drogisterijen verkopen. Concurrenten van P&P bieden in Duitsland echter ook pillen met een vergelijkbare werking aan drogisterijen aan. Daarom stelt de financieel manager van P&P het volgende voor: - Op de Duitse markt hoeven alleen de variabele kosten terugverdiend te worden, zodat we in Duitsland een lagere prijs kunnen vragen dan in Nederland. De vaste (constante) kosten (zie bron 1) zullen dan op de Nederlandse markt terugverdiend moeten worden. - Op de Nederlandse markt vragen we een prijs waarbij er maximale totale winst wordt behaald.",
-"q": "Gebruik bron 1 en 3.\nBereken de omzet die P&P op de Duitse markt zal behalen als het voorstel van de financieel manager wordt uitgevoerd.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 3.\nBereken de omzet die P&P op de Duitse markt zal behalen als het voorstel van de financieel manager wordt uitgevoerd.",
 "model": "Een voorbeeld van een juiste berekening is: € 50 × 5 miljoen = € 250 miljoen Alleen de GVK hoeven gedekt te worden, dus P = € 50 en Q = 5 miljoen verpakkingen (aflezen uit de grafiek).",
 "pnt": 2
 },
@@ -85,7 +85,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Nog voordat Metolani wordt geïntroduceerd, blijkt volgens Europese richtlijnen dat de hoeveelheid werkzame stof per pil Metolani te hoog is om de pillen vrij te mogen verkopen bij drogisterijen. Er wordt besloten dat Metolani zowel in Nederland als in Duitsland uitsluitend op doktersrecept bij apotheken mag worden verkocht.",
-"q": "Gebruik bron 3.\nZal de vraaglijn van apotheken naar Metolani ten opzichte van de vraaglijn van drogisterijen naar Metolani meer naar links of meer naar rechts liggen? Licht je keuze toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nZal de vraaglijn van apotheken naar Metolani ten opzichte van de vraaglijn van drogisterijen naar Metolani meer naar links of meer naar rechts liggen? Licht je keuze toe.",
 "model": "meer naar links Een voorbeeld van een juiste toelichting is:\n• Duitse consumenten zullen minder vraag uitoefenen nu Metolani niet meer vrij verkrijgbaar is bij drogisterijen, (1p)\n• waardoor de vraag van Duitse apothekers bij elke prijs lager zal zijn dan de vraag van Duitse drogisterijen (1p)",
 "pnt": 2
 },
@@ -117,7 +117,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 7,
 "ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk",
-"q": "Gebruik bron 1.\nMaak van de onderstaande zinnen een economisch juiste tekst.\n\n- Het bbp van € 642,9 miljard geeft …(1)… weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de …(2)… genoemd. - Het bbp is de productiewaarde op Nederlands grondgebied. Het bruto nationaal inkomen (bni) is de productiewaarde voortgebracht door alle Nederlanders. Omdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland …(3)… dan de betaalde primaire inkomens aan het buitenland. Kies uit: bij (1) de nominale waarde / het totale surplus bij (2) koopkracht / totale bruto toegevoegde waarde bij (3) groter / kleiner\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nMaak van de onderstaande zinnen een economisch juiste tekst.\n\n- Het bbp van € 642,9 miljard geeft …(1)… weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de …(2)… genoemd. - Het bbp is de productiewaarde op Nederlands grondgebied. Het bruto nationaal inkomen (bni) is de productiewaarde voortgebracht door alle Nederlanders. Omdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland …(3)… dan de betaalde primaire inkomens aan het buitenland. Kies uit: bij (1) de nominale waarde / het totale surplus bij (2) koopkracht / totale bruto toegevoegde waarde bij (3) groter / kleiner",
 "model": "• bij (1) de nominale waarde (1p)\n• bij (2) totale bruto toegevoegde waarde (1p)\n• bij (3) groter (1p)",
 "pnt": 3
 },
@@ -193,7 +193,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk",
-"q": "Gebruik bron 1 en 2.\nBereken de procentuele verandering van de consumentenprijsindex in 2013 in Nederland en rond af op twee decimalen nauwkeurig.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nBereken de procentuele verandering van de consumentenprijsindex in 2013 in Nederland en rond af op twee decimalen nauwkeurig.",
 "model": "Een voorbeeld van een juiste berekening is: nominale verandering bbp: 642,9 640,6\n− 640,6\n× 100% = 0,36%\n100,36\n99,3 × 100 = 101,07 Mutatie CPI is 1,07%.",
 "pnt": 2
 },
@@ -209,7 +209,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "De staat van middelen en bestedingen kan ook worden weergegeven in een geldkringloop (zie bron 3).",
-"q": "Gebruik bron 2 en 3.\nWelke getallen moeten worden ingevuld bij (a), (b), (c) en (d) in bron 3?\nNoteer je antwoord als volgt: bij (a) … bij (b) … bij (c) … bij (d) …\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2 en 3.\nWelke getallen moeten worden ingevuld bij (a), (b), (c) en (d) in bron 3?\nNoteer je antwoord als volgt: bij (a) … bij (b) … bij (c) … bij (d) …",
 "model": "bij (a) 533,2 bij (b) 466,8 bij (c) 214,2 bij (d) 139,1\n• (a) en (b) juist (1p)\n• (c) juist (1p)\n• (d) juist (1p)",
 "pnt": 3
 },
@@ -225,7 +225,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "Als gevolg van de kredietcrisis en de daaropvolgende eurocrisis is het consumenten- en producentenvertrouwen in Nederland in 2013 laag. Dat uit zich in afnemende particuliere bestedingen (consumptie en investeringen), een toenemend nationaal spaaroverschot en een dalende inflatie. Een econoom stelt: “Op basis van deze gegevens zou de Nederlandse overheid er verstandig aan doen conjunctuurbeleid te voeren. Maar omdat Nederland zich moet houden aan het Stabiliteitspact van de Economische en Monetaire Unie (EMU), is conjunctuurbeleid vrijwel onmogelijk geworden.”",
-"q": "Gebruik bron 2.\nBereken het nationaal spaaroverschot van Nederland in 2013.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nBereken het nationaal spaaroverschot van Nederland in 2013.",
 "model": "De juiste berekening is: E − M = 533,2 − 466,8 = 66,4 miljard euro\nOpmerkingen − Als een kandidaat geantwoord heeft volgens de berekening:\n(B − O) + (S − I) = (139,1 − 192,6) + (214,2 − 94,3) = 66,4 miljard euro mag het volledige aantal punten worden toegekend. − Als de kandidaat uitkomt op een tekort, dan geen scorepunten\ntoekennen.",
 "pnt": 2
 },
@@ -257,7 +257,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "Als gevolg van de kredietcrisis en de daaropvolgende eurocrisis is het consumenten- en producentenvertrouwen in Nederland in 2013 laag. Dat uit zich in afnemende particuliere bestedingen (consumptie en investeringen), een toenemend nationaal spaaroverschot en een dalende inflatie. Een econoom stelt: “Op basis van deze gegevens zou de Nederlandse overheid er verstandig aan doen conjunctuurbeleid te voeren. Maar omdat Nederland zich moet houden aan het Stabiliteitspact van de Economische en Monetaire Unie (EMU), is conjunctuurbeleid vrijwel onmogelijk geworden.”",
-"q": "Gebruik bron 3 en 4.\nLeg uit met behulp van een berekening dat de Nederlandse overheid in 2013, binnen de regels van het Stabiliteitspact, geen anticyclisch conjunctuurbeleid kan voeren.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3 en 4.\nLeg uit met behulp van een berekening dat de Nederlandse overheid in 2013, binnen de regels van het Stabiliteitspact, geen anticyclisch conjunctuurbeleid kan voeren.",
 "model": "Voorbeeld van een juiste berekening is:\n• Het overheidstekort in 2013 bedraagt: 53,5\n642,9 × 100% = 8,3% van het bbp (1p)\n• Het overheidstekort is dus hoger dan het toegestane percentage van 3% binnen de regels van het Stabiliteitspact (1p)",
 "pnt": 2
 },
@@ -289,7 +289,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 14,
 "ctx": "uit een krant, december 2015: Suriname wil weer gaan meetellen als producent van suiker. Suikerriet wordt sinds 1980 nog maar mondjesmaat verbouwd in Suriname, terwijl Suriname gedurende een lange periode daarvoor een belangrijke suikerproducent was. Suikerriet is een grondstof voor suiker, maar van suikerriet kan ook biobrandstof worden gemaakt. Biobrandstof wordt gebruikt als energiebron voor bijvoorbeeld auto’s en elektriciteitscentrales. De Staatsolie Maatschappij Suriname (SMS) heeft al fors geïnvesteerd om vanaf 2016 suikerriet te kunnen omzetten in suiker en/of biobrandstof. Dat blijkt uit het SMS-ondernemingsplan van 2013 (zie bron 1).",
-"q": "Gebruik bron 1 en 2.\nBereken hoeveel US dollar er door SMS in 2013 is geïnvesteerd in het suikerrietproject.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nBereken hoeveel US dollar er door SMS in 2013 is geïnvesteerd in het suikerrietproject.",
 "model": "Een voorbeeld van een juiste berekening is: 1.000 miljoen SRD × 1,37\n4,24 = 323,1 miljoen USD",
 "pnt": 2
 },
@@ -305,7 +305,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Op de wereldmarkt wordt suiker gemeten in de Engelse inhoudsmaat pound. SMS waardeert in haar ondernemingsplan van 2013 de opbrengst van suiker in kilogrammen (kg).",
-"q": "Gebruik bron 3.\nWordt in 2013 voldaan aan de voorwaarde van een minimale opbrengst van 760 US dollar per ton suiker? Toon dit aan met een berekening.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nWordt in 2013 voldaan aan de voorwaarde van een minimale opbrengst van 760 US dollar per ton suiker? Toon dit aan met een berekening.",
 "model": "Nee, er wordt niet aan de voorwaarde voldaan. Een voorbeeld van een juiste berekening is: wereldmarktprijs van suiker in 2013:\n0,14 0,454 = 0,31 US dollar per kilo = 310 US dollar per ton",
 "pnt": 2
 },
@@ -321,7 +321,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Landbouweconoom Schers doet over het SMS-ondernemingsplan de volgende uitspraak: “Vanwege de wisselkoersontwikkeling tussen 2011 en 2015 en het feit dat de wereldmarktprijs van suiker is uitgedrukt in US dollar, zal de export van door SMS geproduceerde suiker naar de EU toenemen.”",
-"q": "Gebruik bovenstaande uitspraak en bron 2.\nLeg uit dat de export van door SMS geproduceerde suiker naar de EU zal toenemen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande uitspraak en bron 2.\nLeg uit dat de export van door SMS geproduceerde suiker naar de EU zal toenemen.",
 "model": "Een voorbeeld van een juiste uitleg is: Uit bron 2 blijkt dat de wisselkoers van de euro ten opzichte van de US dollar is gestegen, wat betekent dat suiker relatief goedkoper is geworden voor afnemers uit de EU.",
 "pnt": 2
 },
@@ -337,7 +337,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Landbouweconoom Schers doet over het SMS-ondernemingsplan de volgende uitspraak: “Vanwege de wisselkoersontwikkeling tussen 2011 en 2015 en het feit dat de wereldmarktprijs van suiker is uitgedrukt in US dollar, zal de export van door SMS geproduceerde suiker naar de EU toenemen.”",
-"q": "Gebruik bron 1.\nLeg uit dat uit het ondernemingsplan blijkt dat SMS het ondernemingsrisico wil beperken.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat uit het ondernemingsplan blijkt dat SMS het ondernemingsrisico wil beperken.",
 "model": "Een voorbeeld van een juiste uitleg is: Suikerriet wordt verwerkt tot suiker, maar kan bij onvoldoende opbrengst / lage wereldmarktprijzen van suiker / hoge wisselkoersschommelingen ook tot biobrandstof worden verwerkt.",
 "pnt": 2
 },
@@ -465,7 +465,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "Om moral hazard te beperken heeft de regering in 2008 een verplicht eigen risico ingevoerd. Een verandering of verschuiving van dit eigen risico heeft invloed op de collectieve zorguitgaven. In 2016 bedraagt het eigen risico € 385. Bij een verschuiving wordt het beginpunt van het eigen risico verschoven van € 0 naar € 300 en moet de verzekerde de zorgkosten van € 300 tot € 685 zelf betalen (zie bron 1).",
-"q": "Gebruik bovenstaande informatie en bron 1.\nBereken de vergoeding, bij een verschuiving van het eigen risico, die de verzekeraar in 2016 zou uitkeren aan een verzekerde die € 2.100 aan totale zorgkosten heeft.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande informatie en bron 1.\nBereken de vergoeding, bij een verschuiving van het eigen risico, die de verzekeraar in 2016 zou uitkeren aan een verzekerde die € 2.100 aan totale zorgkosten heeft.",
 "model": "Een voorbeeld van een juiste berekening is: € 2.100 − € 385 = € 1.715 wordt vergoed",
 "pnt": 1
 },
@@ -481,7 +481,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "In een actualiteitenprogramma discussiëren een minister, een Kamerlid en een econoom over het eigen risico. Enkele kijkers reageren via Twitter (zie bron 2). - de minister: “Ik stel voor het eigen risico met € 100 te verhogen. Hierdoor nemen de collectieve zorguitgaven af.” - het Kamerlid: “Nee hoor, de collectieve zorguitgaven gaan op langere termijn juist stijgen, doordat verzekerden zorg zullen mijden of uitstellen. Om die reden stelt mijn partij voor het eigen risico met € 100 te verlagen.” - de econoom: “Ik stel een verschoven eigen risico voor. Uit onderzoek blijkt namelijk dat mensen vanaf een bedrag van € 300 bewuster omgaan met hun zorgkosten en dus prijsgevoeliger zijn.”",
-"q": "Gebruik bron 3.\nBereken het aantal mensen dat een verplichte zorgverzekering heeft.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nBereken het aantal mensen dat een verplichte zorgverzekering heeft.",
 "model": "Een voorbeeld van een juiste berekening is:\n€ 670 mln\n€ 50 = 13,4 mln",
 "pnt": 1
 },
@@ -497,7 +497,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "In een actualiteitenprogramma discussiëren een minister, een Kamerlid en een econoom over het eigen risico. Enkele kijkers reageren via Twitter (zie bron 2). - de minister: “Ik stel voor het eigen risico met € 100 te verhogen. Hierdoor nemen de collectieve zorguitgaven af.” - het Kamerlid: “Nee hoor, de collectieve zorguitgaven gaan op langere termijn juist stijgen, doordat verzekerden zorg zullen mijden of uitstellen. Om die reden stelt mijn partij voor het eigen risico met € 100 te verlagen.” - de econoom: “Ik stel een verschoven eigen risico voor. Uit onderzoek blijkt namelijk dat mensen vanaf een bedrag van € 300 bewuster omgaan met hun zorgkosten en dus prijsgevoeliger zijn.”",
-"q": "Gebruik het voorstel van de econoom en bron 3.\nPast een prijselasticiteitscoëfficiënt van -0,1 of van -0,2 (bij (a) in bron 3) beter bij het voorstel van de econoom? Licht je keuze toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het voorstel van de econoom en bron 3.\nPast een prijselasticiteitscoëfficiënt van -0,1 of van -0,2 (bij (a) in bron 3) beter bij het voorstel van de econoom? Licht je keuze toe.",
 "model": "−0,2 Een voorbeeld van een juiste toelichting is: Verzekerden reageren bij het startpunt van € 300 prijsgevoeliger (waardoor hun vraag naar zorg elastischer is dan bij het startpunt van € 0).",
 "pnt": 2
 },
@@ -513,7 +513,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "De onderzoekers schrijven in hun rapport: “Opvallend is dat bij het voorstel van de minister de daling van de collectieve uitgaven groter is dan de stijging van de eigen betalingen. Daarnaast valt op dat bij het voorstel van de econoom de collectieve zorguitgaven stijgen ondanks een stijging van de eigen betalingen. Een mogelijke verklaring voor beide ontwikkelingen is ….”",
-"q": "Gebruik bron 3.\nSchrijf het vervolg van de conclusie van de onderzoekers. In het vervolg moeten de volgende aspecten aan bod komen. 1 Een verklaring waaruit blijkt dat bij een verhoging van het eigen risico (voorstel minister) de daling van de collectieve uitgaven groter is dan de stijging van de eigen betalingen. 2 Een verklaring waaruit blijkt dat bij het verschoven eigen risico (voorstel econoom) de collectieve zorguitgaven stijgen ondanks een stijging van de eigen betalingen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nSchrijf het vervolg van de conclusie van de onderzoekers. In het vervolg moeten de volgende aspecten aan bod komen. 1 Een verklaring waaruit blijkt dat bij een verhoging van het eigen risico (voorstel minister) de daling van de collectieve uitgaven groter is dan de stijging van de eigen betalingen. 2 Een verklaring waaruit blijkt dat bij het verschoven eigen risico (voorstel econoom) de collectieve zorguitgaven stijgen ondanks een stijging van de eigen betalingen.",
 "model": "Een voorbeeld van een juiste verklaring is:\n• 1 De zorgvraag van verzekerden is afgenomen, doordat de\nverzekerden een financiële prikkel hebben de kosten te beperken (1p)\n• 2 − De zorgvraag wordt groter (drempel om zorg te consumeren\nkleiner), omdat er voor de eerste € 300 geen eigen risico geldt. Daarnaast zullen verzekerden met zorgkosten tussen € 300 en € 685 mogelijk minder zorg consumeren vanwege een hoger kostenbewustzijn 1 − De collectieve zorguitgaven zullen echter toch stijgen, omdat\nzorg boven € 685 relatief duur is (specialistische zorg) en/of niet te vermijden is (als je ziek bent heb je geen echte keuze) (1p)",
 "pnt": 3
 },
@@ -545,7 +545,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 26,
 "ctx": "uit een tijdschrift: Een onderzoek naar mogelijke gevolgen van de invoering van het minimumloon in de Verenigde Staten (VS) toont aan dat de maatregel kan leiden tot extra werkgelegenheid. Een minimumloon van 10 dollar per uur betekent een loonsverhoging voor 27,8 miljoen werknemers. Na aftrek van belastingen levert dat 35 miljard dollar extra inkomen op voor deze groep. Volgens de onderzoekers vloeit een deel van dat bedrag weer terug in de Amerikaanse economie.",
-"q": "Gebruik bovenstaand bericht uit het tijdschrift en bron 1. In de VS leidt 35 miljard dollar extra inkomen na belasting tot slechts 22 miljard dollar verhoging van het bbp.\nWelke krantenkop geeft hiervoor een verklaring? Maak een keuze tussen krantenkop 1 en krantenkop 2 en licht je keuze toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaand bericht uit het tijdschrift en bron 1. In de VS leidt 35 miljard dollar extra inkomen na belasting tot slechts 22 miljard dollar verhoging van het bbp.\nWelke krantenkop geeft hiervoor een verklaring? Maak een keuze tussen krantenkop 1 en krantenkop 2 en licht je keuze toe.",
 "model": "krantenkop 2 Een voorbeeld van een juiste toelichting is: Bij een verhoging van de totale loonsom in de VS wordt een groot deel besteed aan import.",
 "pnt": 2
 },
@@ -561,7 +561,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "In een actualiteitenprogramma komen drie tegenstanders van de invoering van het minimumloon aan het woord.",
-"q": "Maak van de uitspraak in tekstwolk 1 uit de afbeelding (op de vorige pagina) een economisch juiste redenering. Kies daarbij uit de volgende begrippen: bij (1) prijsregulering / zelfbinding bij (2) marktmechanisme / meeliftgedrag bij (3) het aanbod van arbeid / de vraag naar arbeid Gebruik tekstwolk 2 en bron 2.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Maak van de uitspraak in tekstwolk 1 uit de afbeelding (op de vorige pagina) een economisch juiste redenering. Kies daarbij uit de volgende begrippen: bij (1) prijsregulering / zelfbinding bij (2) marktmechanisme / meeliftgedrag bij (3) het aanbod van arbeid / de vraag naar arbeid Gebruik tekstwolk 2 en bron 2.",
 "model": "bij (1) prijsregulering bij (2) marktmechanisme bij (3) de vraag naar arbeid\nindien drie juist 2 indien twee juist 1 indien minder dan twee juist 0",
 "pnt": 2
 },
@@ -593,7 +593,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 29,
 "ctx": "In een actualiteitenprogramma komen drie tegenstanders van de invoering van het minimumloon aan het woord.",
-"q": "Gebruik tekstwolk 3 en bron 3. Onderstaande tekst is een toelichting op de grafiek uit bron 3.\nMaak van deze tekst een economisch juiste tekst en gebruik hierbij tekstwolk 3. Na invoering van het minimumloon in de VS zal het werkgeverssurplus bestaan uit het vlak / de vlakken …(1)…. Het werknemerssurplus zal bestaan uit het vlak / de vlakken …(2)…. Het totale surplus op de arbeidsmarkt als gevolg van invoering van het minimumloon is dus afgenomen met het vlak / de vlakken …(3)…. Kies uit: bij (1) K / L / M / N / O / P / Q (één of meer letters zijn mogelijk) bij (2) K / L / M / N / O / P / Q (één of meer letters zijn mogelijk) bij (3) K / L / M / N / O / P / Q (één of meer letters zijn mogelijk)\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tekstwolk 3 en bron 3. Onderstaande tekst is een toelichting op de grafiek uit bron 3.\nMaak van deze tekst een economisch juiste tekst en gebruik hierbij tekstwolk 3. Na invoering van het minimumloon in de VS zal het werkgeverssurplus bestaan uit het vlak / de vlakken …(1)…. Het werknemerssurplus zal bestaan uit het vlak / de vlakken …(2)…. Het totale surplus op de arbeidsmarkt als gevolg van invoering van het minimumloon is dus afgenomen met het vlak / de vlakken …(3)…. Kies uit: bij (1) K / L / M / N / O / P / Q (één of meer letters zijn mogelijk) bij (2) K / L / M / N / O / P / Q (één of meer letters zijn mogelijk) bij (3) K / L / M / N / O / P / Q (één of meer letters zijn mogelijk)",
 "model": "bij (1) K bij (2) L / M / N bij (3) O / P\n• (1) en (2) juist (1p)\n• (3) juist (1p)",
 "pnt": 2
 },
@@ -641,7 +641,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Tijdens een vergadering van de feestcommissie wordt er gediscussieerd over de prijs van het toegangskaartje. - De voorzitter: “Mijn voorstel is om iedereen die lid is van onze vereniging een korting te geven op het toegangskaartje.” - De secretaris: “Ik stel voor de prijs vast te stellen op € 25, dan is er sprake van een break-even situatie.” - De locatiebeheerder: “Maar dan hebben we een capaciteitsprobleem. Ik stel voor de prijs zodanig vast te stellen dat de Brabantse Avond wordt uitverkocht, zonder vraagoverschot.” - De penningmeester: “Ik stel voor de winst te maximaliseren. Maar dan wordt de capaciteit van de locatie maar voor 87,5% benut.”",
-"q": "Gebruik de uitspraak van de secretaris en bron 1.\nToon aan met een berekening dat de verwachte totale constante kosten van de Brabantse Avond € 123.750 bedragen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de uitspraak van de secretaris en bron 1.\nToon aan met een berekening dat de verwachte totale constante kosten van de Brabantse Avond € 123.750 bedragen.",
 "model": "Een voorbeeld van een juiste berekening is:\n• bij P = € 25 geldt GO = GTK GTK = GVK + GCK € 25 = € 10 + GCK GCK = € 15 (1p)\n• bij P = € 25 geldt Qv = 8.250 TCK = € 15 × 8.250 = € 123.750 (1p)",
 "pnt": 2
 },
@@ -657,7 +657,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Tijdens een vergadering van de feestcommissie wordt er gediscussieerd over de prijs van het toegangskaartje. - De voorzitter: “Mijn voorstel is om iedereen die lid is van onze vereniging een korting te geven op het toegangskaartje.” - De secretaris: “Ik stel voor de prijs vast te stellen op € 25, dan is er sprake van een break-even situatie.” - De locatiebeheerder: “Maar dan hebben we een capaciteitsprobleem. Ik stel voor de prijs zodanig vast te stellen dat de Brabantse Avond wordt uitverkocht, zonder vraagoverschot.” - De penningmeester: “Ik stel voor de winst te maximaliseren. Maar dan wordt de capaciteit van de locatie maar voor 87,5% benut.”",
-"q": "Gebruik bron 1.\nBereken de winst van de Brabantse avond bij het voorstel van de locatiebeheerder.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken de winst van de Brabantse avond bij het voorstel van de locatiebeheerder.",
 "model": "Een voorbeeld van een juiste berekening is:\n• bij Q = 6.000 geldt (6.000 = −150P + 12.000 →) P = € 40 (1p)\n• TW = TO − TK TO = € 40 × 6.000 = € 240.000 TK = (€ 10 × 6.000) + € 123.750 = € 183.750 TW = € 56.250 (1p)",
 "pnt": 2
 },
@@ -673,7 +673,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Tijdens een vergadering van de feestcommissie wordt er gediscussieerd over de prijs van het toegangskaartje. - De voorzitter: “Mijn voorstel is om iedereen die lid is van onze vereniging een korting te geven op het toegangskaartje.” - De secretaris: “Ik stel voor de prijs vast te stellen op € 25, dan is er sprake van een break-even situatie.” - De locatiebeheerder: “Maar dan hebben we een capaciteitsprobleem. Ik stel voor de prijs zodanig vast te stellen dat de Brabantse Avond wordt uitverkocht, zonder vraagoverschot.” - De penningmeester: “Ik stel voor de winst te maximaliseren. Maar dan wordt de capaciteit van de locatie maar voor 87,5% benut.”",
-"q": "Gebruik bron 1.\nToon aan met een berekening dat de locatie bij het voorstel van de penningmeester maar voor 87,5% wordt benut.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon aan met een berekening dat de locatie bij het voorstel van de penningmeester maar voor 87,5% wordt benut.",
 "model": "Een voorbeeld van een juiste berekening is: aantal verkochte kaartjes bij MO = MK (maximale totale winst): 5.250 (aflezen) huidige capaciteit van de locatie: 6.000 bezettingsgraad is 5.250\n6.000 × 100% = 87,5%",
 "pnt": 2
 },
@@ -689,7 +689,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 6,
 "ctx": "De voorzitter: “Wij hebben te maken met een tegenvaller. De verwachte vraag naar onze toegangskaartjes is bepaald vóórdat de datum van de finale van het Europees Kampioenschap (EK) voetbal bekend werd.” De voorzitter vervolgt zijn betoog.",
-"q": "Gebruik bron 1.\nMaak van het verdere betoog van de voorzitter een economisch juiste redenering. “Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de …(1)… voor de Brabantse Avond afnemen omdat de EK-finale een …(2)… goed is van onze Brabantse Avond. We moeten de vraagvergelijking dus aanpassen naar …(3)…. Dat betekent dat bij elke prijs het …(4)… surplus zal afnemen.” Kies uit: bij (1) betalingsbereidheid / inkomenselasticiteit bij (2) complementair / inferieur / substitutie bij (3) Qv = -150P + 11.000 / Qv = -150P + 13.000 bij (4) consumenten- / producenten- / totale\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nMaak van het verdere betoog van de voorzitter een economisch juiste redenering. “Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de …(1)… voor de Brabantse Avond afnemen omdat de EK-finale een …(2)… goed is van onze Brabantse Avond. We moeten de vraagvergelijking dus aanpassen naar …(3)…. Dat betekent dat bij elke prijs het …(4)… surplus zal afnemen.” Kies uit: bij (1) betalingsbereidheid / inkomenselasticiteit bij (2) complementair / inferieur / substitutie bij (3) Qv = -150P + 11.000 / Qv = -150P + 13.000 bij (4) consumenten- / producenten- / totale",
 "model": "bij (1) betalingsbereidheid bij (2) substitutie bij (3) Qv = −150P + 11.000 bij (4) totale\nindien vier juist 3 indien drie juist 2 indien twee juist 1 indien minder dan twee juist 0",
 "pnt": 3
 },
@@ -819,7 +819,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "Een toerist uit Nederland en een toerist uit de Verenigde Staten (VS) zijn voor een stedentrip in Londen. Beiden wisselen op 24 juni 2016, na de uitslag van het referendum, hun eigen valuta om in Britse ponden.",
-"q": "Gebruik bron 1.\nToon aan met een berekening dat de toerist uit de VS het meeste financiële voordeel heeft van de koersdaling van het Britse pond.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon aan met een berekening dat de toerist uit de VS het meeste financiële voordeel heeft van de koersdaling van het Britse pond.",
 "model": "Een voorbeeld van een juiste berekening is:\n• waardestijging euro t.o.v. het Britse pond: 0,813 − 0,761\n0,761\n× 100% = 6,8% (1p)\n• 1 dollar wordt 1,112 0,813\n= 0,73 Britse pond\n1 dollar was 1,142 0,761\n= 0,67 Britse pond\nwaardestijging dollar t.o.v. het Britse pond\n0,73 − 0,67\n0,67× 100% = 8,96% de Amerikaanse toerist heeft het meeste voordeel (8,96% > 6,8%) (1p)\nOpmerking Voor een andere juiste manier van tussentijds afronden ook scorepunten toekennen.",
 "pnt": 2
 },
@@ -915,7 +915,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Bij zorgverzekeraar Personis is de hoogte van de maandpremie van de basisverzekering afhankelijk van twee factoren, namelijk: - de gekozen polis (zie bron 1A) - het gekozen eigen risico (zie bron 1B)",
-"q": "Gebruik bron 1A.\nVerklaar dat de zorgverzekeraar de Zilverpolis goedkoper kan aanbieden dan de Platinapolis.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1A.\nVerklaar dat de zorgverzekeraar de Zilverpolis goedkoper kan aanbieden dan de Platinapolis.",
 "model": "Een voorbeeld van een juiste verklaring is: Bij de Zilverpolis laat de verzekerde de keuze van zorgverlening en apotheek over aan de zorgverzekeraar, waardoor deze de zorg efficiënter en goedkoper kan inkopen.",
 "pnt": 2
 },
@@ -931,7 +931,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Bij zorgverzekeraar Personis is de hoogte van de maandpremie van de basisverzekering afhankelijk van twee factoren, namelijk: - de gekozen polis (zie bron 1A) - het gekozen eigen risico (zie bron 1B)",
-"q": "Gebruik bron 1B.\nLeg uit dat de keuzemogelijkheid voor een verhoogd eigen risico een manier is om asymmetrische informatie te beperken.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1B.\nLeg uit dat de keuzemogelijkheid voor een verhoogd eigen risico een manier is om asymmetrische informatie te beperken.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• Verzekerden met een lage kans op zorgkosten zullen eerder een verzekering kiezen met een hoog eigen risico / verzekerden met een hoge kans op zorgkosten zullen eerder een verzekering kiezen met een laag eigen risico (1p)\n• zodat de verzekeraar inzicht krijgt in het risicoprofiel van de verzekerden (1p)",
 "pnt": 2
 },
@@ -947,7 +947,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Karin van Lier heeft afgelopen jaar bij zorgverzekeraar Personis een Platinapolis met het minimale eigen risico afgesloten (zie bron 2). Voor het komende jaar wil ze op haar jaarpremie besparen en is daarom bereid te veranderen van polis en van eigen risico. Het komende jaar: - vindt ze het niet meer noodzakelijk terecht te kunnen bij een zorgverlener in de buurt, maar wil ze wel graag haar medicijnen kunnen ophalen bij de plaatselijke apotheek. - heeft zij voldoende spaargeld om onverwachte zorgkosten op te vangen zodat ze kan kiezen voor het maximale eigen risico.",
-"q": "Gebruik bovenstaande tekst en bron 1A, 1B en 2.\nBereken of het bedrag dat Karin maximaal aan jaarpremie kan besparen, hoger of lager is dan de extra benodigde hoeveelheid spaargeld.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en bron 1A, 1B en 2.\nBereken of het bedrag dat Karin maximaal aan jaarpremie kan besparen, hoger of lager is dan de extra benodigde hoeveelheid spaargeld.",
 "model": "(Karin kiest voor een Goudpolis met maximaal eigen risico.) Een voorbeeld van een juiste berekening is:\n• besparing jaarpremie: (€ 120 − € 75) × 12 = € 540 (1p)\n• extra benodigde hoeveelheid spaargeld (€ 875 − € 375 extra benodigde eigen risico): € 500 De besparing is dus hoger (1p)",
 "pnt": 2
 },
@@ -1041,7 +1041,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)",
-"q": "Gebruik bron 3.\nToon aan met een berekening dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nToon aan met een berekening dat de secundaire-inkomensverhouding van St. Eustatius 1 : 10,8 is.",
 "model": "Een voorbeeld van een juiste berekening is: 4e kwartiel: (100% − 44,8%) = 55,2%\n55,2%\n5,1% = een verhouding van 1 : 10,8",
 "pnt": 2
 },
@@ -1057,7 +1057,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)",
-"q": "Gebruik bron 1 en 3.\nBereken het coördinaat van punt A in bron 2.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 3.\nBereken het coördinaat van punt A in bron 2.",
 "model": "Een voorbeeld van een juiste berekening is:\n• secundair inkomen van het 4e kwartiel: 5,5 × 9,8 = 53,9% (1p)\n• coördinaat (75 ; 46,1) (1p)",
 "pnt": 2
 },
@@ -1073,7 +1073,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)",
-"q": "Gebruik bron 1 en 2.\nZal de Lorenzcurve van de secundaire-inkomensverdeling van Bonaire links of rechts van de Lorenzcurve van Saba liggen? Licht je keuze toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nZal de Lorenzcurve van de secundaire-inkomensverdeling van Bonaire links of rechts van de Lorenzcurve van Saba liggen? Licht je keuze toe.",
 "model": "links Een voorbeeld van een juiste toelichting is:\n• De secundaire-inkomensverhouding van Saba is 1 : 9,8 en de secundaire-inkomensverhouding van Bonaire is 1 : 9,1 (1p)\n• Het inkomen in Bonaire is gelijker verdeeld en de Lorenzcurve van Bonaire ligt dus links van de Lorenzcurve van Saba (1p)",
 "pnt": 2
 },
@@ -1089,7 +1089,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "Nuestra en Mateo willen het verschil in de secundaire-inkomensverhouding tussen de BES-eilanden gezamenlijk en ‘Europees’ Nederland bepalen. De secundaire-inkomensverhouding van ‘Europees’ Nederland hebben ze gevonden op internet. Deze is 1 : 6,7 (zie bron 1), die van de BES-eilanden gezamenlijk moeten ze nog uitrekenen. Mateo: “We gaan er daarbij van uit dat het inkomen per hoofd van de bevolking van de BES-eilanden gelijk is en de huishoudens even groot zijn.”",
-"q": "Gebruik bovenstaande tekst en bron 1 en 4.\nBereken de secundaire-inkomensverhouding van de BES-eilanden gezamenlijk.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en bron 1 en 4.\nBereken de secundaire-inkomensverhouding van de BES-eilanden gezamenlijk.",
 "model": "Een voorbeeld van een juiste berekening is: (80 × 9,1) + (13 × 10,8) + (7 × 9,8) 100\n= 9,4\nDe secundaire-inkomensverhouding is 1 : 9,4.\nOpmerking Als het ongewogen gemiddelde is berekend, geen scorepunten toekennen.",
 "pnt": 2
 },
@@ -1169,7 +1169,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "uit een krant, februari 2017: Er is een parkeertarievenoorlog uitgebroken tussen de twee parkeergelegenheden bij vliegveld Aeroport. Vorige week opende prijsvechter Budget Parking (BP) de slagbomen van haar gloednieuwe parkeergelegenheid, een kilometer verwijderd van het vliegveld. Nog geen week later heeft BP haar parkeertarieven al verlaagd. Victor Valet, eigenaar van BP: “Bij ons leidt een prijsverlaging tot meer omzet. Onze parkeergelegenheid ligt iets verder van het vliegveld af dan die van onze concurrent Central Parking (CP), maar de consument let bij parkeren uitsluitend op de prijs en zal daarom massaal kiezen voor BP. En massa is kassa. Acht uur parkeren is bij BP bijna 80% goedkoper dan bij CP.” De woordvoerder van CP kondigt aan dat CP zal reageren met een tariefsverlaging.",
-"q": "Gebruik bron 1.\nToon aan met een berekening dat acht uur parkeren bij BP inderdaad bijna 80% goedkoper is dan bij CP.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon aan met een berekening dat acht uur parkeren bij BP inderdaad bijna 80% goedkoper is dan bij CP.",
 "model": "Een voorbeeld van een juiste berekening is:\n• tarief BP bij 8 uur: € 10 tarief CP bij 8 uur: (3 × € 2) × 8 uur = € 48 (1p)\n• verschil: € 10 €8 48\n€ 4− × 100% = −79,2% 1",
 "pnt": 2
 },
@@ -1185,7 +1185,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 28,
 "ctx": "Op de lokale omroep wordt een econoom geïnterviewd over de werking van de prijzenoorlog. - De econoom: “Stel dat BP en CP de tariefsverlaging nog niet hebben ingevoerd en voor de eenmalige en gelijktijdige beslissing staan: wel of geen tariefsverlaging. Deze situatie heb ik in een schema gezet (bron 2) en zoals u ziet ….” - De interviewer: “Ja, ik zie het al. Er is hier sprake van een gevangenendilemma ….”",
-"q": "Gebruik bron 2.\nHeeft de interviewer gelijk met zijn uitspraak over het gevangenendilemma? Licht je keuze toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nHeeft de interviewer gelijk met zijn uitspraak over het gevangenendilemma? Licht je keuze toe.",
 "model": "De interviewer heeft geen gelijk. Een voorbeeld van een juiste toelichting is: Tarief verlagen is voor beide partijen de dominante strategie en is tevens de optimale uitkomst. Beide partijen krijgen een hogere winst dan bij tarief handhaven dus er is geen sprake van een gevangenendilemma.",
 "pnt": 2
 },
@@ -1217,7 +1217,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "In de periode 2005-2012 zagen de drie grootste dagbladaanbieders, het Hollands Dagblad, de 7Provinciën en de Krant van Vandaag, hun gezamenlijk marktaandeel veranderen.",
-"q": "Gebruik bron 1.\nBereken de procentuele verandering van het gezamenlijk marktaandeel van deze drie dagbladaanbieders in de periode 2005-2012 en geef aan of deze verandering een daling of een stijging betreft.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken de procentuele verandering van het gezamenlijk marktaandeel van deze drie dagbladaanbieders in de periode 2005-2012 en geef aan of deze verandering een daling of een stijging betreft.",
 "model": "stijging Een voorbeeld van een juiste berekening is:\n83\n5 7− 75\n× 100% = 10,67%\nOpmerking Voor een andere juiste manier van afronden ook scorepunten toekennen.",
 "pnt": 2
 },
@@ -1233,7 +1233,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Vanaf 2012 verkoopt de Krant van Vandaag zowel een papierplus-abonnement als een digitaal abonnement. Door stijgende papierprijzen en toenemende distributiekosten is het papierplus-abonnement in de periode 2012-2014 duurder geworden (zie bron 2), terwijl de prijs van een digitaal abonnement gelijk is gebleven (zie bron 3). Een marketingmedewerker van de Krant van Vandaag doet de volgende uitspraken: 1 “De vraaglijn van een digitaal abonnement is in de periode 2012-2014 verschoven, omdat de prijs van een papierplus-abonnement is gestegen.” 2 “Hierdoor is het consumentensurplus op de markt van digitale abonnementen toegenomen.”",
-"q": "Gebruik bron 2.\nBereken het aantal papierplus-abonnementen van de Krant van Vandaag in 2014.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nBereken het aantal papierplus-abonnementen van de Krant van Vandaag in 2014.",
 "model": "• prijsstijging 2013-2014: 409 − 3398\n98\n× 100% = 2,8% (1p)\n• afzetverandering: −1,1 × 2,8 = −3,1% (1p)\n• afzet 2014: 696.600 × 0,969 = 675.005 (1p)\nOpmerking Voor een andere juiste manier van afronden ook scorepunten toekennen.",
 "pnt": 3
 },
@@ -1249,7 +1249,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Vanaf 2012 verkoopt de Krant van Vandaag zowel een papierplus-abonnement als een digitaal abonnement. Door stijgende papierprijzen en toenemende distributiekosten is het papierplus-abonnement in de periode 2012-2014 duurder geworden (zie bron 2), terwijl de prijs van een digitaal abonnement gelijk is gebleven (zie bron 3). Een marketingmedewerker van de Krant van Vandaag doet de volgende uitspraken: 1 “De vraaglijn van een digitaal abonnement is in de periode 2012-2014 verschoven, omdat de prijs van een papierplus-abonnement is gestegen.” 2 “Hierdoor is het consumentensurplus op de markt van digitale abonnementen toegenomen.”",
-"q": "Gebruik uitspraak 1 en bron 3.\nGeef een andere oorzaak dan genoemd in uitspraak 1 waarom de vraaglijn van het digitale abonnement verschoven kan zijn.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik uitspraak 1 en bron 3.\nGeef een andere oorzaak dan genoemd in uitspraak 1 waarom de vraaglijn van het digitale abonnement verschoven kan zijn.",
 "model": "Voorbeelden van een juist antwoord zijn: Er zullen nieuwe abonnees op de digitale variant bij zijn gekomen, die eerder geen abonnement op een dagblad hadden / die een papierplus-abonnement hadden op een ander dagblad / door de opkomst van diverse datadragers als mobiel en tablet.",
 "pnt": 1
 },
@@ -1265,7 +1265,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Vanaf 2012 verkoopt de Krant van Vandaag zowel een papierplus-abonnement als een digitaal abonnement. Door stijgende papierprijzen en toenemende distributiekosten is het papierplus-abonnement in de periode 2012-2014 duurder geworden (zie bron 2), terwijl de prijs van een digitaal abonnement gelijk is gebleven (zie bron 3). Een marketingmedewerker van de Krant van Vandaag doet de volgende uitspraken: 1 “De vraaglijn van een digitaal abonnement is in de periode 2012-2014 verschoven, omdat de prijs van een papierplus-abonnement is gestegen.” 2 “Hierdoor is het consumentensurplus op de markt van digitale abonnementen toegenomen.”",
-"q": "Gebruik uitspraak 2 en bron 3.\nGeef met letters de toename aan van het consumentensurplus van het digitale abonnement, zoals bedoeld in uitspraak 2.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik uitspraak 2 en bron 3.\nGeef met letters de toename aan van het consumentensurplus van het digitale abonnement, zoals bedoeld in uitspraak 2.",
 "model": "IJLM\nOpmerking Uitsluitend 2 of 0 scorepunten toekennen.",
 "pnt": 2
 },
@@ -1313,7 +1313,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "CBS-persbericht, 2015: Als gevolg van de kredietcrisis die eind 2008 begon, zijn in 2012 de inkomensverschillen tussen Nederlandse huishoudens veranderd. In 2012 was het totale inkomen van huishoudens 0,7 procent lager dan in 2008, maar deze inkomensdaling was niet gelijk verdeeld over de huishoudens. Bij werknemers is de inkomensdaling beperkt gebleven dankzij ingebouwde stabilisatoren zoals werkloosheidsuitkeringen en het progressieve belastingstelsel. Daarnaast is het inkomen van werknemers als gevolg van collectieve arbeidsovereenkomsten (cao’s) meestal erg vast. Gemiddeld gingen zij er door de kredietcrisis nauwelijks op achteruit, tenzij ze bijvoorbeeld hun baan kwijtraakten.",
-"q": "Gebruik bron 1.\nZijn de inkomens van Nederlandse huishoudens na de kredietcrisis genivelleerd of gedenivelleerd? Maak een keuze en licht deze toe met behulp van getallen uit bron 1.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nZijn de inkomens van Nederlandse huishoudens na de kredietcrisis genivelleerd of gedenivelleerd? Maak een keuze en licht deze toe met behulp van getallen uit bron 1.",
 "model": "genivelleerd Een voorbeeld van een juiste toelichting is: Na de kredietcrisis verdienden de 20% huishoudens met het hoogste inkomen ongeveer 2,5 keer meer dan de 20% huishoudens met het laagste inkomen. In 2008 waren de inkomens van de meest verdiende huishoudens 2,8 keer zo groot.\nAanvulling: bij vraag 8 moet het volgende worden toegevoegd: of genivelleerd Een voorbeeld van een juiste toelichting is: In 2012 verdienden de 20% huishoudens met het hoogste inkomen ongeveer 2,5 keer meer dan de 20% huishoudens met het laagste inkomen. In 2009 waren de inkomens van de meest verdienende huishoudens 2,6 keer zo groot.",
 "pnt": 2
 },
@@ -1329,7 +1329,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "CBS-persbericht, 2015: Als gevolg van de kredietcrisis die eind 2008 begon, zijn in 2012 de inkomensverschillen tussen Nederlandse huishoudens veranderd. In 2012 was het totale inkomen van huishoudens 0,7 procent lager dan in 2008, maar deze inkomensdaling was niet gelijk verdeeld over de huishoudens. Bij werknemers is de inkomensdaling beperkt gebleven dankzij ingebouwde stabilisatoren zoals werkloosheidsuitkeringen en het progressieve belastingstelsel. Daarnaast is het inkomen van werknemers als gevolg van collectieve arbeidsovereenkomsten (cao’s) meestal erg vast. Gemiddeld gingen zij er door de kredietcrisis nauwelijks op achteruit, tenzij ze bijvoorbeeld hun baan kwijtraakten.",
-"q": "Gebruik het fragment uit het CBS-persbericht en bron 1 en 2.\nZijn de verhoudingsgetallen in bron 1 gebaseerd op het primaire huishoudinkomen of op het secundaire huishoudinkomen? Licht het antwoord toe. Ga als volgt te werk: - Leg uit welke staven in bron 2 het primaire huishoudinkomen en welke staven het secundaire huishoudinkomen weergeven. - Beredeneer vervolgens op welke huishoudinkomen de verhoudingsgetallen in bron 1 zijn gebaseerd.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het fragment uit het CBS-persbericht en bron 1 en 2.\nZijn de verhoudingsgetallen in bron 1 gebaseerd op het primaire huishoudinkomen of op het secundaire huishoudinkomen? Licht het antwoord toe. Ga als volgt te werk: - Leg uit welke staven in bron 2 het primaire huishoudinkomen en welke staven het secundaire huishoudinkomen weergeven. - Beredeneer vervolgens op welke huishoudinkomen de verhoudingsgetallen in bron 1 zijn gebaseerd.",
 "model": "secundair huishoudinkomen Een voorbeeld van een juiste toelichting is:\n• De donkere staven in bron 2 zijn het secundaire inkomen omdat het primaire inkomen bij de 20% huishoudens met het laagste inkomen lager is dan het secundaire inkomen als gevolg van het progressieve belastingstelsel en de werkloosheidsuitkeringen (1p)\n• Uit bron 1 blijkt dat in 2012 de 20% huishoudens met de hoogste inkomens 2,5 keer meer verdienden dan de 20% huishoudens met het laagste inkomen en uit bron 2 blijkt dat de donkere staven ook 2,5 keer van elkaar verschillen (1p)",
 "pnt": 2
 },
@@ -1361,7 +1361,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 11,
 "ctx": "uit een krant, 2018: De ‘Pay How You Drive’-autoverzekering (PHYD) is in opkomst: wie rustig remt en niet te hard optrekt, betaalt minder premie. Steeds meer verzekeraars lanceren deze autoverzekering. Het principe is simpel. Een app op de mobiele telefoon registreert het rijgedrag van de automobilist. Als de telefoon vastzit in een standaard zijn de meetgegevens betrouwbaar en kunnen ze worden uitgelezen door de verzekeraar. De automobilist die zeer netjes rijdt, krijgt het predicaat ‘groen’ en dat betekent een korting van 35% op de basispremie. De categorie-indeling wordt elke maand opnieuw vastgesteld. Op dit moment rijdt 10% van de PHYD-verzekerden in de categorie ‘rood’. Deze categorie ‘coureurs’ betaalt de volledige basispremie. Mevrouw Bakker heeft op 1 januari 2018 een PHYD-autoverzekering afgesloten. Ze is toen ingedeeld in de categorie rood en betaalde de volledige basispremie. Op basis van haar rijgedrag in januari is ze per 1 februari door de verzekeraar ingedeeld in de categorie oranje (zie bron 1). Begin maart ontvangt ze een bericht van de verzekeraar over haar rijgedrag in februari (zie bron 2).",
-"q": "Gebruik bron 1 en 2.\nBereken de basispremie van mevrouw Bakker op 1 januari 2018.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nBereken de basispremie van mevrouw Bakker op 1 januari 2018.",
 "model": "Een voorbeeld van juiste berekening is: 30,66 = (0,35 − 0,10) × basispremie basispremie = € 122,64",
 "pnt": 2
 },
@@ -1633,7 +1633,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "Omdat de Arubaanse overheid in 2012 de economische terugval met investeringen heeft geprobeerd te compenseren, is de overheidsschuld in 2013 sterk opgelopen.",
-"q": "Gebruik bron 2.\nBereken de Arubaanse overheidsschuld in florin in 2013.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nBereken de Arubaanse overheidsschuld in florin in 2013.",
 "model": "Een voorbeeld van een juiste berekening is:\n• bbp = $ 24.430 × 111.000 = $ 2.711.730.000 (1p)\n• $ 2.711.730.000 × 1,79 = 4.853.996.700 AWG (1p)\n• overheidsschuld = 4.853.996.700 × 0,67 = 3.252.177.789 AWG (1p)\nOpmerking Voor een andere juiste manier van afronden ook scorepunten toekennen.",
 "pnt": 3
 },
@@ -1665,7 +1665,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "Alex Veenstra wil een energiecontract voor zowel stroom als gas afsluiten bij energieleverancier EnerGas (zie bron 1). Zijn geschatte jaarlijkse energieverbruik van de twee producten bedraagt: - stroom 4.400 kWh - gas 2.350 mᵌ Alex wil een contract met vaste tarieven voor de komende drie jaar. Als ‘cadeau’ kiest hij de iSmart6s. Alex was sowieso van plan deze smartphone aan te schaffen voor € 550 en dat is nu niet meer nodig.",
-"q": "Gebruik bron 1 bij vraag 21 en 22.\nBereken het rentebedrag voor de iSmart6s dat Alex over de contractperiode van 3 jaar moet betalen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 bij vraag 21 en 22.\nBereken het rentebedrag voor de iSmart6s dat Alex over de contractperiode van 3 jaar moet betalen.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Extra vaste lasten bij Zekur-contract (3 jaar) met iSmart 6s: € 15,50 − € 7,00 = € 8,50 per product (1p)\n• Bij afname van gas én stroom zijn de extra vaste lasten 2 × € 8,50 × 36 maanden = € 612 (1p)\n• De gemiddelde winkelprijs van de iSmart 6s is € 550. Het rentebedrag dat Alex moet betalen is dus € 612 − € 550 = € 62 (1p)",
 "pnt": 3
 },
@@ -1713,7 +1713,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "Energie + Gratis Cadeau Tablet Laptop Kadobon ... Beide bedrijven willen klanten van elkaar wegkapen en overwegen om een callcenter in te huren. Medewerkers van zo’n callcenter bellen klanten van de concurrent en proberen deze over te halen over te stappen. De resultaten van het al dan niet inhuren van een callcenter zijn zichtbaar gemaakt in een pay-offmatrix (zie bron 2).",
-"q": "Gebruik bron 2.\nKomen beide energieleveranciers door deze ontwikkeling in een gevangenendilemma terecht? Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de bedrijven tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nKomen beide energieleveranciers door deze ontwikkeling in een gevangenendilemma terecht? Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de bedrijven tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.",
 "model": "ja Een voorbeeld van een juiste uitleg is:\n• de dominante strategie van EnerGas (EG) is ‘wel inhuren’ want als Green Energy (GE) ‘wel inhuurt’ dan −2 > −4 en als GE ‘niet inhuurt’ dan +2 > 0 de dominante strategie van GE is ook ‘wel inhuren’ want als EG ‘wel inhuurt’ dan −2 > −4 en als EG ‘niet inhuurt’ dan +2 > 0 (2p)\n• deze evenwichtssituatie van −2 ; −2 is een suboptimale uitkomst, omdat beide leveranciers hun pay-off kunnen vergroten door niet een callcenter in te huren 0 ; 0 (1p)\nOpmerking Voor het volledig toekennen van de eerste twee scorepunten moet een bewijs worden gegeven van beide dominante strategieën.",
 "pnt": 3
 },
@@ -1761,7 +1761,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Het bbp meet economische groei, maar wordt ook gebruikt als welvaartsmaatstaf. Daar is veel discussie over. In 2014 steeg het bbp van de Verenigde Staten van Amerika (VS) met 2,8%, maar het is de vraag of de inwoners van de VS in dat jaar ook 2,8% welvarender zijn geworden. Argumenten waarom het nominale bbp een beperkte welvaartsmaatstaf is, zijn: - Een stijging van het nominale bbp kan ook veroorzaakt zijn door prijsstijgingen. - Het bbp meet geen welzijn, zoals gezondheid en geluk. - Het bbp geeft geen informatie over de verdeling van de welvaart.",
-"q": "Gebruik bron 1.\nBereken de reële groei van het Amerikaanse bbp in 2014 ten opzichte van 2013.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken de reële groei van het Amerikaanse bbp in 2014 ten opzichte van 2013.",
 "model": "Een voorbeeld van een juist berekening is:\n• toename bbp (nominaal) 2014: 2,8% inflatie 2014: 107,6 (1p)\n10 − 04,9\n4,9\n× 100% = 2,6% (1p)\n• 102,8 102,6 × 100 = 100,19 dus de reële economische groei = 0,2% (1p)\nOpmerkingen − Voor 102,8 - 102,6 het tweede scorepunt ook toekennen. − Voor een andere juiste manier van afronden ook scorepunten\ntoekennen.",
 "pnt": 2
 },
@@ -1777,7 +1777,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 28,
 "ctx": "In 2014 kwam 25% van het Amerikaanse bbp ten goede aan slechts 1% procent van de bevolking.",
-"q": "Gebruik bovenstaande tekst en bron 2.\nIn welke grafiek is de Amerikaanse Lorenzcurve van 2014 juist weergegeven?\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en bron 2.\nIn welke grafiek is de Amerikaanse Lorenzcurve van 2014 juist weergegeven?",
 "model": "grafiek 3",
 "pnt": 1
 },
@@ -1825,7 +1825,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "De directie van vleesproducent Kuus bv heeft een onderzoeksrapport over de vleestaks bestudeerd. Daarin staat dat een vaste heffing op vlees van € 0,50 per kilo kan zorgen voor een flinke reductie van de uitstoot van CO2. De financieel directeur krijgt de opdracht door te rekenen welke invloed de invoering van deze heffing heeft op de winst van Kuus bv. De bedrijfsdoelstelling blijft maximale totale winst. De financieel directeur heeft de huidige financiële gegevens in een overzicht en in een figuur gezet (zie bron 1).",
-"q": "Gebruik bovenstaande tekst en bron 1 bij vraag 3 tot en met 6.\nLeg uit dat door invoering van de heffing op vlees (de vleestaks) de gemiddelde variabele kosten stijgen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en bron 1 bij vraag 3 tot en met 6.\nLeg uit dat door invoering van de heffing op vlees (de vleestaks) de gemiddelde variabele kosten stijgen.",
 "model": "Een voorbeeld van een juiste uitleg is: Door de invoering van de vleestaks komt er een heffing van € 0,50 op elke kilo vlees. Elke kilo wordt 50 cent duurder om aan te bieden.",
 "pnt": 2
 },
@@ -1986,7 +1986,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "Het Centraal Bureau voor de Statistiek (CBS) verzamelt en onderzoekt gegevens over vele maatschappelijke aspecten en over conjuncturele en structurele ontwikkelingen in de economie. Het betreft bijvoorbeeld macro-economische indicatoren zoals de economische groei en de consumentenprijzen, maar ook de inkomenssituatie van personen en huishoudens. Het CBS verwerkt de gegevens tot statistieken en publiceert erover. Begin 2017 staat een aantal afbeeldingen op de site van het CBS over de Nederlandse economie (zie bron 1).",
-"q": "Gebruik bron 1.\nGeef voor elke afbeelding aan of deze wel of geen effect op de structuurkant van de Nederlandse economie laat zien. Neem hiertoe de tabel over en vul deze in.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nGeef voor elke afbeelding aan of deze wel of geen effect op de structuurkant van de Nederlandse economie laat zien. Neem hiertoe de tabel over en vul deze in.",
 "model": "afbeelding wel / geen structuurkant\n1 geen\n2 wel\n3 wel\n4 geen\nOpmerking Voor elke fout één scorepunt in mindering brengen.",
 "pnt": 2
 },
@@ -2002,7 +2002,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "afbeelding wel / geen structuurkant 1 2 3 4 Het CBS publiceert ook over de Nederlandse arbeidsmarkt, waar veranderingen in vraag en aanbod mede afhankelijk zijn van conjuncturele en structurele ontwikkelingen in de economie. Begin 2009, direct na de kredietcrisis, loopt de werkloosheid op. Begin 2017 neemt de krapte op de arbeidsmarkt echter weer toe, mede als gevolg van een aanhoudende economische groei. Deze conjunctuuromslag maakt het CBS zichtbaar door middel van de conjunctuurklok (zie bron 2).",
-"q": "Gebruik bron 2.\nGeef voor begin 2017 aan of de letter A of B uit de conjunctuurklok hierbij hoort.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nGeef voor begin 2017 aan of de letter A of B uit de conjunctuurklok hierbij hoort.",
 "model": "begin 2017: B",
 "pnt": 1
 },
@@ -2214,7 +2214,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "uit een krant, mei 2017: Op 1 mei heeft het Qatarese Staatsinvesteringsfonds een deel van de aandelen van het Russische oliebedrijf Rosneft gekocht voor een bedrag van omgerekend 10,5 miljard euro. De aandelen zijn in US dollar betaald.",
-"q": "Gebruik het bovenstaande krantenbericht en bron 1 en 2.\nBereken de aankoopwaarde in US dollar van de aandelen Rosneft die het Qatarese Staatsinvesteringsfonds heeft gekocht.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het bovenstaande krantenbericht en bron 1 en 2.\nBereken de aankoopwaarde in US dollar van de aandelen Rosneft die het Qatarese Staatsinvesteringsfonds heeft gekocht.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Op 1 mei is 1 euro 3,98 riyal aankoop op 1 mei: 10,5 miljard euro × 3,98 = 41,79 miljard riyal (1p)\n• Op 1 mei is 1 US dollar 3,64 riyal dus 1 riyal is (1p)\n3,64 = 0,27 US dollar aankoop op 1 mei in US dollar: 41,79 miljard × 0,27 = 11,28 = 11,28 miljard US dollar (1p)\nOpmerkingen − Voor een andere juiste manier van afronden ook scorepunten\ntoekennen. − Als een afwijkend antwoord is verkregen op basis van juiste\nberekeningen met meer dan twee decimalen, dienen scorepunten te worden toegekend.",
 "pnt": 2
 },
@@ -2230,7 +2230,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Irak Sudan Perzische golf Iran Qatar Eritrea Ethiopië Qatar Golf van Oman Saudi-Arabië Jemen V.A.E. Oman Rode zee Golf van Aden Arabische zee In juni 2017 maakt de koers van de riyal een daling door ten opzichte van de US dollar. twee fragmenten uit een krant, juni 2017: - fragment 1 De centrale bank van Qatar greep in op de valutamarkt om de koersdaling van de riyal ten opzichte van de US dollar tegen te gaan. - fragment 2 Qatar wordt sinds mei 2017 geconfronteerd met een oplopende inflatie.",
-"q": "Gebruik fragment 1 en bron 3.\nWelke grafiek uit bron 3 geeft de ingreep van de centrale bank van Qatar juist weer?\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik fragment 1 en bron 3.\nWelke grafiek uit bron 3 geeft de ingreep van de centrale bank van Qatar juist weer?",
 "model": "grafiek 1\nOpmerking Uitsluitend 2 of 0 scorepunten toekennen.",
 "pnt": 2
 },
@@ -2294,7 +2294,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "Econoom Pieter Hut stelt: - stelling 1: “Uit bron 1 blijkt dat de inflatie is afgenomen en dat er zelfs sprake is geweest van deflatie.” - stelling 2: “Banken kunnen de hypotheekrente laag houden, omdat ze ook op termijn een lage inflatie verwachten.” - stelling 3: “Bij het aanschaffen van een woning met een hypothecaire financiering van 30 jaar is er sprake van ruilen over tijd.”",
-"q": "Gebruik stelling 1 en bron 1.\nIn welk jaar of welke jaren is er sprake geweest van deflatie? Licht je antwoord toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik stelling 1 en bron 1.\nIn welk jaar of welke jaren is er sprake geweest van deflatie? Licht je antwoord toe.",
 "model": "2009 en 2015 Een voorbeeld van een juiste toelichting is: Bij deflatie geldt dat de reële rente hoger is dan de nominale rente.\nOpmerking Voor één juist jaartal met juiste toelichting één scorepunt toekennen.",
 "pnt": 2
 },
@@ -2466,7 +2466,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 28,
 "ctx": "Harry Klein heeft ter onderbouwing van bovenstaande uitspraak in het krantenbericht een pay-offmatrix gemaakt. Hierin wordt de winstverandering bij de mogelijke keuzes van beide zorgverzekeraars weergegeven (zie bron 1).",
-"q": "Gebruik bron 1.\nBeredeneer of beide verzekeraars inderdaad in deze situatie in een gevangenendilemma terecht komen. Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de verzekeraars tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBeredeneer of beide verzekeraars inderdaad in deze situatie in een gevangenendilemma terecht komen. Ga als volgt te werk: - Leg uit hoe de dominante strategie van elk van de verzekeraars tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• De dominante strategie van Anderzorg (AZ) is ‘verlagen eigen risico’ want als Beterzorg (BZ) ‘handhaaft’ dan 1 > 0,6 en als BZ ‘verlaagt’ dan 0,5 > 0,2 De dominante strategie van BZ is ook ‘verlagen eigen risico’ want als AZ ‘handhaaft’ dan 1,1 > 1,0 en als AZ ‘verlaagt’ dan 0,8 > 0,2 (2p)\n• Deze evenwichtssituatie is een suboptimale uitkomst (0,5 ; 0,8) omdat beide leveranciers hun pay-off kunnen vergroten door het eigen risico te handhaven (0,6 ; 1,0) (dus er is sprake van een gevangenendilemma) (1p)\nOpmerking Voor het volledig toekennen van de eerste twee scorepunten moet een bewijs worden gegeven van beide dominante strategieën.",
 "pnt": 3
 },
@@ -2560,7 +2560,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "uit een krant: Een garnalenkotter uit Arnemuiden vangt dagelijks duizenden kilo’s Hollandse garnalen. Op dit moment zijn ze “goud” waard. De prijzen rijzen de pan uit. “Ik heb dit nog nooit meegemaakt”, zegt schipper Rinus. “Verse garnalen zijn kort houdbaar. We brengen onze vangst altijd meteen naar de visveiling en hopen op een goede prijs. We hadden verwacht ongeveer € 3,50 per kilo te krijgen, nu stopt de veilingklok op € 8.” Rinus vermoedt dat de prijsstijging te maken heeft met de verminderde garnalenstand in de Noordzee als gevolg van ongunstige weersomstandigheden.",
-"q": "Gebruik het inleidende krantenfragment en bron 1.\nWelke grafiek geeft het vermoeden van Rinus weer over de oorzaak van de prijsstijging?\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het inleidende krantenfragment en bron 1.\nWelke grafiek geeft het vermoeden van Rinus weer over de oorzaak van de prijsstijging?",
 "model": "grafiek 1",
 "pnt": 1
 },
@@ -2576,7 +2576,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Schipper John wil maximaal profiteren van de hoge garnalenprijs. Hij overweegt om te investeren in een technische aanpassing van zijn garnalenkotter, zodat de vangstcapaciteit toeneemt. Met een grotere vangstcapaciteit denkt hij zijn maximale winst te kunnen verhogen.",
-"q": "Gebruik het inleidende krantenfragment en bron 2.\nBereken met hoeveel procent John de maximale winst denkt te kunnen verhogen als hij de technische aanpassing realiseert.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het inleidende krantenfragment en bron 2.\nBereken met hoeveel procent John de maximale winst denkt te kunnen verhogen als hij de technische aanpassing realiseert.",
 "model": "Een voorbeeld van een juiste berekening is:\n• huidige situatie: TO = 8 × 125.000 € 1.000.000 TK = 2,20 × 125.000 + 480.000 € 755.000 ‒ TW € 245.000 (1p)\n• nieuwe situatie: TO = 8 × 175.000 € 1.400.000 TK = 2,75 × 175.000 + 530.000 € 1.011.250 ‒ TW € 388.750 (1p)\n• winsttoename 388.750 245.000\n- 245.000\n× 100% = 58,7% (1p)",
 "pnt": 3
 },
@@ -2608,7 +2608,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Rinus vindt de voorgenomen investering van John niet verstandig en doet de volgende uitspraken: 1 “De hoge prijs van Hollandse garnalen is waarschijnlijk van korte duur. Veranderingen in vraag en aanbod kunnen via het marktmechanisme zowel tot hogere als tot lagere prijzen leiden.” 2 “Als John zijn investering realiseert, mag de prijs van de Hollandse garnaal niet onder de € ... per kilo komen, anders wordt zijn maximale totale winst in de nieuwe situatie lager dan in de oude situatie.”",
-"q": "Gebruik uitspraak 2 en bron 2.\nBereken welke prijs bij uitspraak 2 moet worden ingevuld.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik uitspraak 2 en bron 2.\nBereken welke prijs bij uitspraak 2 moet worden ingevuld.",
 "model": "€ 7,18 Een voorbeeld van een juiste berekening is:\n• TO - TK = TW P × 175.000 - (2,75 × 175.000 + 530.000) = € 245.000 (1p)\n• 175.000 × P - € 1.011.250 = € 245.000 P = € 7,18 (1p)\nOpmerking Als bij de uitwerking sprake is van doorwerkfouten uit vraag 3, dan geen scorepunt in mindering brengen.",
 "pnt": 2
 },
@@ -2656,7 +2656,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "In de periode 2012–2017 was India een van de snelst groeiende economieën van de wereld. Het nominale bruto binnenlands product (bbp) per hoofd van de bevolking is in die periode bijna verdubbeld. De groei van het nominale bbp is voornamelijk te verklaren door een toename van de consumptie van de middenklasse en door een toename van de buitenlandse investeringen. Een Indiase econoom stelt: 1 “Hoewel het nominale bbp per hoofd van de bevolking bijna is verdubbeld, betekent dat niet dat de welvaart in India ook bijna twee keer zo groot is.” 2 “Het belangrijkste probleem in India is de matige infrastructuur. Daarom moet de overheid daar fors in investeren.”",
-"q": "Gebruik bron 1.\nToon met een berekening aan dat het nominale bbp per hoofd van de bevolking in India in de periode 2012–2017 bijna is verdubbeld.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat het nominale bbp per hoofd van de bevolking in India in de periode 2012–2017 bijna is verdubbeld.",
 "model": "Een voorbeeld van een juiste benadering is:\n• nominale groei bbp ≈ reële groei + inflatie = 48,2% + 40,8% = 89,0% (1p)\n• indexcijfer bevolkingsomvang: 1.342\n1.264 × 100 = 106,2 (1p)\n• de nominale groei per hoofd van de bevolking was ongeveer 189,0 100 78,0% 106,2 - = / 89,0% ‒ 6,2% = 82,8% Conclusie: een stijging van circa 80% / dus bijna een verdubbeling (1p)\nEen voorbeeld van een juiste exacte berekening is:\n• indexcijfer nominaal bbp: 148,2 × 140,8\n100 = 208,7 (1p)\n• indexcijfer bevolkingsomvang: 1.342\n1.264 × 100 = 106,2 (1p)\n• 208,7 106,2 × 100 = 196,5 Conclusie: een stijging van 96,5% / dus bijna een verdubbeling (1p)\nOpmerking Het laatste deel van de berekening en de vermelding van de conclusie zijn beide noodzakelijk voor het toekennen van het derde scorepunt.",
 "pnt": 3
 },
@@ -2688,7 +2688,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "De econoom is positief over de onderhandelingen en stelt: “Zowel India als de EU kan profiteren van meer vrijhandel. Ik heb de effecten hiervan onderzocht en in een pay-off-matrix gezet (zie bron 2). Hieruit blijkt dat er geen gevangenendilemma zal zijn.”",
-"q": "Gebruik bron 2.\nLeg uit waarom er geen gevangenendilemma zal zijn.\nDoe het als volgt: - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens dat er geen sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLeg uit waarom er geen gevangenendilemma zal zijn.\nDoe het als volgt: - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens dat er geen sprake is van een gevangenendilemma.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• De dominante strategie van India is het afschaffen van de protectionistische maatregelen, want als EU deze ‘afschaft’ dan 2% > 0,5% en als EU deze ‘handhaaft’ dan 1% > 0%. De dominante strategie van EU is het afschaffen van de protectionistische maatregelen, want als India deze ‘afschaft’ dan 1,5% > 0,5% en als India deze ‘handhaaft’ dan 1% > 0%. (1p)\n• (Het volgen van) de dominante strategie leidt tot de hoogste extra economische groei voor beide handelspartners / is ook de optimale uitkomst (dus is er geen sprake van een gevangenendilemma) (1p)",
 "pnt": 2
 },
@@ -2736,7 +2736,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 13,
 "ctx": "fragment 2 uit een economisch rapport: Om aan de eisen van het Stabiliteitspact (zie bron 2) van de Economische en Monetaire Unie (EMU) te voldoen, heeft de Nederlandse overheid in de periode 2010–2015 diverse maatregelen genomen. Zo werden de overheidsuitgaven verlaagd en de overheidsinkomsten verhoogd (zie bron 3), waardoor de begroting van 2015 redelijk op orde is gekomen (zie bron 1). Maar als gevolg van die maatregelen zijn er wel bijna 400.000 banen verloren gegaan.",
-"q": "Gebruik bron 1 en bron 2.\nToon voor elk van beide eisen van het Stabiliteitspact aan of de overheidsfinanciën in 2015 hieraan voldoen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nToon voor elk van beide eisen van het Stabiliteitspact aan of de overheidsfinanciën in 2015 hieraan voldoen.",
 "model": "Een voorbeeld van een juist antwoord is:\n• overheidstekort: 2,0% (2%) van het bbp, dus voldoet aan de eis van ≤ 3% (1p)\n• bbp = € 14 mld\n0,02 = € 700 mld 1\n• overheidsschuld = € 446 mld\n€ 700 mld × 100% = 64% Conclusie: overheidsschuld: 64% van het bbp, dus voldoet niet aan de eis van ≤ 60% (1p)\nOpmerking Het laatste deel van de berekening en de vermelding van een juiste conclusie zijn beide noodzakelijk voor het toekennen van het derde scorepunt.",
 "pnt": 3
 },
@@ -2752,7 +2752,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 14,
 "ctx": "fragment 2 uit een economisch rapport: Om aan de eisen van het Stabiliteitspact (zie bron 2) van de Economische en Monetaire Unie (EMU) te voldoen, heeft de Nederlandse overheid in de periode 2010–2015 diverse maatregelen genomen. Zo werden de overheidsuitgaven verlaagd en de overheidsinkomsten verhoogd (zie bron 3), waardoor de begroting van 2015 redelijk op orde is gekomen (zie bron 1). Maar als gevolg van die maatregelen zijn er wel bijna 400.000 banen verloren gegaan.",
-"q": "Gebruik fragment 2 uit het economisch rapport en bron 3.\nMaak van het onderstaande schema een economisch juiste redenering.\nDoe het als volgt: - Schrijf de letters a tot en met d op. - Schrijf achter elke letter het juiste economische verschijnsel. Kies uit: 1 besteedbaar inkomen daalt 2 binnenlandse bestedingen dalen 3 binnenlandse productie daalt 4 consumptie daalt\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik fragment 2 uit het economisch rapport en bron 3.\nMaak van het onderstaande schema een economisch juiste redenering.\nDoe het als volgt: - Schrijf de letters a tot en met d op. - Schrijf achter elke letter het juiste economische verschijnsel. Kies uit: 1 besteedbaar inkomen daalt 2 binnenlandse bestedingen dalen 3 binnenlandse productie daalt 4 consumptie daalt",
 "model": "a besteedbaar inkomen daalt (1) b consumptie daalt (4) c binnenlandse bestedingen dalen (2) d binnenlandse productie daalt (3)\nindien vier antwoorden juist 2 indien drie of twee antwoorden juist 1 indien één of geen antwoord juist 0",
 "pnt": 2
 },
@@ -2846,7 +2846,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "In 2013 waren de kosten van alcoholgebruik 2.624 miljoen euro hoger dan de baten. Dit is één van de uitkomsten van een zogeheten maatschappelijke kosten-batenanalyse waarbij de welvaartseffecten van alcoholgebruik in kaart zijn gebracht. Maatschappelijke kosten van alcoholgebruik kunnen bijvoorbeeld ontstaan door een lagere arbeidsproductiviteit, inzet van politie en justitie en verkeersongevallen. De baten van alcoholgebruik bestaan uit het consumentensurplus, het producentensurplus, en de accijnsopbrengsten voor de overheid (zie bron 1).",
-"q": "Gebruik fragment 1 uit het onderzoeksrapport en bron 1 en 2.\nBereken de consumentenuitgaven aan bier in 2013.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik fragment 1 uit het onderzoeksrapport en bron 1 en 2.\nBereken de consumentenuitgaven aan bier in 2013.",
 "model": "Een voorbeeld van een juiste berekening is:\n• totale kosten = € 8.164 miljoen totale kosten = consumentensurplus + producentensurplus + accijnzen + saldo totale accijnsopbrengst = € 8.164 miljoen - € 3.800 miljoen - € 700 miljoen - € 2.624 miljoen = € 1.040 miljoen (1p)\n• consumentenuitgaven alcohol:\n€ 1.040 miljoen\n0,278 = € 3.741 miljoen 1\n• consumentenuitgaven bier: € 3.741 miljoen - € 1.740 miljoen - € 916 miljoen = € 1.085 miljoen (1p)",
 "pnt": 3
 },
@@ -2894,7 +2894,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "fragment 2 uit een onderzoeksrapport, 2016: Door een verhoging van de accijns op alcohol kan het negatieve saldo van kosten en baten van alcoholgebruik omslaan naar een positief saldo, dus hogere baten dan kosten. Het effect van zo’n accijnsverhoging is sterk afhankelijk van de prijs- en inkomenselasticiteiten van alcoholgebruik (zie bron 3).",
-"q": "Gebruik fragment 2 uit het onderzoeksrapport en bron 3.\nMaak van onderstaande zinnen een economisch juiste tekst.\n\n- Een accijnsverhoging op …(1)… heeft relatief het grootste effect op het alcoholgebruik. - Wijn en sterke drank worden door consumenten als een …(2)…\n\ngoed beschouwd. - Bij een prijsverhoging van …(3)… zou alcoholgebruik in het algemeen volledig ophouden te bestaan. Kies uit: bij (1) bier / wijn / sterke drank bij (2) inferieur / luxe / primair bij (3) 50% / 100% / 200%\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik fragment 2 uit het onderzoeksrapport en bron 3.\nMaak van onderstaande zinnen een economisch juiste tekst.\n\n- Een accijnsverhoging op …(1)… heeft relatief het grootste effect op het alcoholgebruik. - Wijn en sterke drank worden door consumenten als een …(2)…\n\ngoed beschouwd. - Bij een prijsverhoging van …(3)… zou alcoholgebruik in het algemeen volledig ophouden te bestaan. Kies uit: bij (1) bier / wijn / sterke drank bij (2) inferieur / luxe / primair bij (3) 50% / 100% / 200%",
 "model": "• (1) sterke drank (1p)\n• (2) luxe (1p)\n• (3) 200% (1p)",
 "pnt": 3
 },
@@ -2973,7 +2973,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "uit een reactie van een deskundige: In andere landen is onderzocht of het negatieve saldo van kosten en baten van alcoholgebruik kan worden omgezet naar een positief saldo. Uit deze onderzoeken blijkt dat een minimumprijs van 45 cent per eenheid alcohol (1 centiliter) leidt tot een afname van alcoholgebruik met 19%. Door de invoering van de minimumprijs ontstaat een aanbodoverschot. Indien de overheid het ontstane aanbodoverschot opkoopt, neemt het producentensurplus toe.",
-"q": "Gebruik de reactie van de deskundige en bron 4.\nWelk vlak of welke combinatie van vlakken geeft de genoemde toename van het producentensurplus juist weer? Noteer de letter(s).\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de reactie van de deskundige en bron 4.\nWelk vlak of welke combinatie van vlakken geeft de genoemde toename van het producentensurplus juist weer? Noteer de letter(s).",
 "model": "g, h en i\nOpmerking Uitsluitend 2 of 0 scorepunten toekennen.\nAanvulling: bij vraag 20 moet naast antwoord g, h en i ook antwoord e, h en i goed gerekend worden.",
 "pnt": 2
 },
@@ -3005,7 +3005,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "uit een krant, januari 2016: In de periode 2010 tot en met 2015 heeft de wisselkoers van de Zwitserse frank (CHF) ten opzichte van de euro (€) een stijging van ruim 20% doorgemaakt. Hierdoor is de internationale concurrentiepositie van Zwitserland verslechterd. Met name de Zwitserse toeristenindustrie, die een belangrijk deel van de export uitmaakt, is hierdoor hard geraakt. Toeristen kiezen nu vaker voor een vakantie in eurolanden zoals Oostenrijk, Duitsland en Italië.",
-"q": "Gebruik het inleidende krantenfragment en bron 1.\nToon met een berekening aan dat in de periode januari 2010 tot en met januari 2015 de wisselkoers van de CHF ten opzichte van de € met ruim 20% is gestegen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het inleidende krantenfragment en bron 1.\nToon met een berekening aan dat in de periode januari 2010 tot en met januari 2015 de wisselkoers van de CHF ten opzichte van de € met ruim 20% is gestegen.",
 "model": "Een voorbeeld van een juiste berekening is:\n• koers CHF in euro (2010) = 1,483 (1p)\n= 0,674\nkoers CHF in euro (2015) = 1,201 (1p)\n= 0,833 (1p)\n• stijgingspercentage = 0,833 0,674\n- 0,674\n× 100% = 23,6% (1p)",
 "pnt": 2
 },
@@ -3021,7 +3021,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Op 1 januari 2016 was 100 CHF gelijk aan € 92,30. Deze verdere koersstijging had gevolgen voor het vakantiebudget in CHF van buitenlandse toeristen uit eurolanden.",
-"q": "Gebruik bovenstaande informatie en bron 1.\nBereken met hoeveel CHF een vakantiebudget van € 1.000 omgerekend in CHF op 1 januari 2016 is veranderd ten opzichte van 1 januari 2015.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande informatie en bron 1.\nBereken met hoeveel CHF een vakantiebudget van € 1.000 omgerekend in CHF op 1 januari 2016 is veranderd ten opzichte van 1 januari 2015.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Op 1 januari 2015 is de waarde van € 1.000 → 1,201 × 1.000 = CHF 1.201 (1p)\n• Op 1 januari 2016 is de waarde van € 1.000 → 1.000\n0,923 = CHF 1.083,42 1.201 - 1.083,42 = CHF 117,58 afgenomen / veranderd (1p)",
 "pnt": 2
 },
@@ -3145,7 +3145,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Nederland heeft ruim acht miljoen personenauto’s, die kunnen worden ingedeeld in de volgende categorieën: - auto’s die volledig elektrisch rijden (stekkerauto’s); - auto’s die uitsluitend op fossiele brandstof (benzine, gas en diesel) rijden; - hybride auto’s die zowel op elektriciteit als op fossiele brandstof kunnen rijden. uit een tijdschrift, december 2016: Ruim een miljoen Nederlanders rijden een ‘auto van de zaak’, beter bekend als een zakelijke leaseauto. Een leaseauto is een auto die tegen een vaste vergoeding voor langere tijd ter beschikking wordt gesteld aan een gebruiker. Bij zakelijke lease betaalt de werkgever de volledige rekening van het leasen, inclusief kosten van onderhoud, brandstof, verzekering en wegenbelasting. De werknemer hoeft dan zelf niets meer te betalen voor het gebruik van de auto. De werknemer moet wel extra inkomstenbelasting betalen over een bepaald percentage van de waarde van de leaseauto, de zogenaamde fiscale bijtelling. De overheid heeft de afgelopen jaren de CO2-uitstoot van fossiele brandstoffen proberen te beperken via lagere fiscale bijtellingen voor elektrische en hybride leaseauto’s. Als gevolg van dit belastingvoordeel worden er fors meer hybride auto’s geleaset. Toch blijven leaserijders met een hybride leaseauto nog te veel op fossiele brandstoffen rijden in plaats van op elektriciteit, omdat er met een volle tank nu eenmaal meer kilometers kunnen worden gereden dan met een volle batterij. De overheid heeft besloten om, vanwege het tegenvallende klimaateffect van de stimuleringsmaatregel, de fiscale bijtellingen voor de periode 2017–2020 via nieuwe wetgeving aan te passen.",
-"q": "Gebruik bron 1.\nOp welke wijze probeert de overheid met de nieuwe wetgeving haar klimaatdoelstelling alsnog te bereiken? Licht je antwoord toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nOp welke wijze probeert de overheid met de nieuwe wetgeving haar klimaatdoelstelling alsnog te bereiken? Licht je antwoord toe.",
 "model": "Een voorbeeld van een juist antwoord met toelichting is:\n• In de nieuwe wetgeving is de fiscale bijtelling van hybride leaseauto’s opgetrokken (naar het niveau van de leaseauto met fossiele brandstoffen) (1p)\n• zodat er alleen fiscaal voordeel gehaald kan worden bij een volledig elektrische leaseauto (waarmee geen fossiele brandstoffen getankt kunnen worden) (1p)",
 "pnt": 2
 },
@@ -3177,7 +3177,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 29,
 "ctx": "In 2017 rijdt Jolanda van Dijk een hybride leaseauto van de zaak met een aanschafwaarde van € 45.000. Ze heeft geen andere fiscale bijtellingen of aftrekposten. Haar brutojaarinkomen bedraagt € 69.000 in 2018. Vanwege de gestegen fiscale bijtelling vraagt Jolanda zich af of ze beter voor private lease in plaats van voor zakelijke lease kan kiezen. Ze bekijkt de voorwaarden van private lease van hetzelfde type auto in een advertentie (zie bron 2). Ook in het geval dat Jolanda kiest voor private lease blijft haar werkgever de kosten van brandstof en/of elektriciteit vergoeden.",
-"q": "Gebruik het tijdschriftartikel, voorgaande tekst, en bron 1, 2 en 3.\nToon met een berekening van de maandelijkse kosten aan wat de beste keuze voor Jolanda van Dijk is voor 2018: private lease of zakelijke lease. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het tijdschriftartikel, voorgaande tekst, en bron 1, 2 en 3.\nToon met een berekening van de maandelijkse kosten aan wat de beste keuze voor Jolanda van Dijk is voor 2018: private lease of zakelijke lease. Bronvermelding Een opsomming van de in dit examen gebruikte bronnen, zoals teksten en afbeeldingen, is te vinden in het bij dit examen behorende correctievoorschrift, dat na afloop van het examen wordt gepubliceerd.",
 "model": "private lease Een voorbeeld van een juiste berekening is:\n• zakelijke lease: extra te betalen belasting als gevolg van de fiscale bijtelling in 2018, tarief 51,95%: 51,95% van 22% van € 45.000 = € 5.143\n5.1€ 43\n12 = € 428 per maand 1\n• Dat is duurder dan de kosten van private lease in 2018: € 415 per maand (1p)",
 "pnt": 2
 },
@@ -3251,7 +3251,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "uit een krant, december 2017: Iedereen die in Nederland woont of werkt, moet een basisverzekering voor zorg - kortweg basispakket - afsluiten. De overheid bepaalt wat onder het basispakket valt en wat niet. Daarnaast kunnen mensen een aanvullende zorgverzekering afsluiten om kosten te verzekeren die buiten het basispakket vallen, zoals tandzorg, fysiotherapie, hulpmiddelen of alternatieve geneeswijzen. Het basispakket heeft een verplicht eigen risico van minimaal € 385 per persoon per jaar. Verzekerden die kiezen voor een vrijwillig verhoogd eigen risico, krijgen korting op de premie. De gezamenlijke zorgverzekeringsmaatschappijen zien een trend dat verzekerden zich steeds rationeler gedragen: - Klanten verzekeren zich alleen nog voor aanvullende zorg waarvan zij (bijna) zeker weten dat zij die gaan gebruiken. - Gezonde mensen kiezen steeds vaker voor een verhoogd eigen risico bij het basispakket.",
-"q": "Gebruik bron 1.\nVan welke marktvorm is er sprake op de markt voor basisverzekeringen voor zorg? Leg het antwoord uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nVan welke marktvorm is er sprake op de markt voor basisverzekeringen voor zorg? Leg het antwoord uit.",
 "model": "oligopolie Voorbeelden van een juiste uitleg zijn: - Vier (grootste) verzekeringsmaatschappijen hebben gezamenlijk bijna\n(88% van) de gehele markt. - Drie bedrijven hebben gezamenlijk drie kwart van de markt. - Twee bedrijven hebben ruim de helft van de markt.",
 "pnt": 1
 },
@@ -3267,7 +3267,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Het veranderende klantgedrag kan duiden op een verandering in risico-aversie bij verzekerden (zie bron 2 en bron 3).",
-"q": "Gebruik bron 2 en bron 3.\nLeg voor elk van de bronnen uit hoe je hieruit een toename ofwel een afname van risico-aversie bij verzekerden kunt afleiden.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2 en bron 3.\nLeg voor elk van de bronnen uit hoe je hieruit een toename ofwel een afname van risico-aversie bij verzekerden kunt afleiden.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• Bron 2: Er is een afname van risico-aversie. Steeds meer verzekerden kiezen (vrijwillig) voor een verhoogd eigen risico (zie bron 2), waaruit af te leiden valt dat verzekerden bereid zijn meer risico te aanvaarden / minder risico-avers zijn / meer risico-zoekend zijn (1p)\n• Bron 3: Er is een afname van risico-aversie. Verzekerden sluiten minder aanvullende verzekeringen af (zie bron 3), waaruit afgeleid kan worden dat mensen vaker zelf het risico van extra zorgkosten dragen (voor wat betreft de kosten die onder de aanvullende zorg vallen) (1p)",
 "pnt": 2
 },
@@ -3283,7 +3283,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Zorgverzekeraar DSW introduceert voor het jaar 2018 een premiekorting van € 276 per persoon per jaar voor verzekerden die het eigen risico bij het basispakket met € 500 verhogen van € 385 naar € 885. Voorheen hadden alle verzekerden bij DSW alleen het verplichte eigen risico van € 385 per persoon per jaar. Stel dat 13% van de verzekerden van DSW vrijwillig kiest voor een verhoging van het eigen risico naar € 885. Ga ervan uit dat het aantal verzekerden bij DSW in 2017 en 2018 gelijk is (zie bron 1).",
-"q": "Gebruik de voorgaande tekst en bron 1.\nBereken hoeveel minder premie-inkomsten DSW in 2018 ontvangt als gevolg van de verleende premiekorting op het basispakket.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de voorgaande tekst en bron 1.\nBereken hoeveel minder premie-inkomsten DSW in 2018 ontvangt als gevolg van de verleende premiekorting op het basispakket.",
 "model": "Een voorbeeld van een juiste berekening is:\n• DSW heeft een marktaandeel van 3,5%. DSW heeft 3,5% van 17 miljoen = 595.000 verzekerden 13% van 595.000 = 77.350 verzekerden kiezen voor een verhoogd eigen risico (1p)\n• afname TO = premiekorting x aantal verzekerden met hoger ER = € 276 x 77.350 = € 21.348.600 minder premie-inkomsten (1p)",
 "pnt": 2
 },
@@ -3379,7 +3379,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "Econoom Snoeks wil de opties van de VS en zijn handelspartners om wel of niet importheffingen in te stellen, analyseren met een speltheoretisch model. Elk van de partijen heeft twee opties: wel of geen importheffingen instellen. Elke optie heeft gevolgen voor het bbp. Als beide partijen hun keuze gelijktijdig maken, dan zijn er vier scenario’s (zie bron 1). De uitkomsten van de scenario’s kunnen in een opbrengstenmatrix weergegeven worden (bron 2).",
-"q": "Gebruik bron 1 en bron 2.\nIs het ontstaan van de handelsoorlog te verklaren op basis van de opbrengstenmatrix? Leg je antwoord uit. Doe het als volgt: - Neem de opbrengstenmatrix uit bron 2 over op je antwoordenblad. - Vul voor de letters A tot en met D de juiste getallen in door gebruik te maken van bron 1. - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens of het ontstaan van de handelsoorlog te verklaren is door de dominante strategieën van de partijen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nIs het ontstaan van de handelsoorlog te verklaren op basis van de opbrengstenmatrix? Leg je antwoord uit. Doe het als volgt: - Neem de opbrengstenmatrix uit bron 2 over op je antwoordenblad. - Vul voor de letters A tot en met D de juiste getallen in door gebruik te maken van bron 1. - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens of het ontstaan van de handelsoorlog te verklaren is door de dominante strategieën van de partijen.",
 "model": "Een voorbeeld van een juist antwoord is:\n• A ; B C ; D\n−4,7% ; −4,9% −1,4% ; −0,5% (1p)\n• De dominante strategie van de VS is ‘geen importheffing’, want −0,5% > −4,7% en 0% > −1,4% en de dominante strategie van de handelspartners is ‘geen importheffing’ want −0,5% > −4,9% en 0% > −1,2% (1p)\n• Als beide kiezen voor ‘geen importheffing’ ontstaat er geen handelsoorlog, dus het ontstaan van een handelsoorlog is niet te verklaren op basis van de dominante strategieën (1p)",
 "pnt": 3
 },
@@ -3503,7 +3503,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 14,
 "ctx": "uit een krant: Het verhogen van de AOW-leeftijd leidt tot veel negatieve reacties in de samenleving. Er is juist een toenemende behoefte om de AOW-leeftijd flexibel te maken. Bijvoorbeeld elk jaar dat je de AOW later laat ingaan dan 67 jaar, gaat de uitkering per jaar dat je later stopt 6,5% omhoog. Elk jaar dat je de AOW eerder laat ingaan dan 67 jaar, gaat de uitkering per jaar 6,5% omlaag (zie bron 1). De voorzitter van de Ouderenbond is voorstander van zo’n flexibele AOW. De staatssecretaris van Sociale Zaken en Werkgelegenheid is minder enthousiast. De voorzitter van de Ouderenbond en de staatssecretaris van Sociale Zaken en Werkgelegenheid discussieerden in januari 2021 met elkaar in een televisieprogramma. - De voorzitter: “Mijn buurman Henk is laag opgeleid en heeft een fysiek zwaar beroep. Hij wil in goede gezondheid samen met zijn vrouw van zijn oude dag genieten, ook al moet hij daarvoor een deel van zijn pensioenuitkering inleveren. Op 3 januari 2022 wordt hij 65 jaar. Hij zou dan graag met pensioen gaan. Een flexibele AOW maakt dat mogelijk.” - De staatssecretaris: “Hoogopgeleiden hebben, in tegenstelling tot Henk, vaak geen fysiek zwaar beroep. Een flexibele AOW kan daardoor leiden tot een nog grotere inkomensongelijkheid tussen laag- en hoogopgeleiden.”",
-"q": "Gebruik de uitspraak van de voorzitter, bron 1, bron 2 en bron 3.\nBereken de maandelijkse bruto-AOW-uitkering die Henk in 2022 zou ontvangen als hij gebruik kan maken van een flexibele AOW.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de uitspraak van de voorzitter, bron 1, bron 2 en bron 3.\nBereken de maandelijkse bruto-AOW-uitkering die Henk in 2022 zou ontvangen als hij gebruik kan maken van een flexibele AOW.",
 "model": "Een voorbeeld van een juiste berekening is:\n• uitkering in 2021: € 847,57 uitkering in 2022: € 847,57 × 1,015 = € 860,28 (1p)\n• korting 2 × 6,5% = 13% → € 860,28 × 0,87 = € 748,44 (1p)\nAanvulling: bij vraag 14 bij de tweede deelscore moet het scorepunt worden toegekend voor een berekening waarin de korting op een juiste wijze is toegepast.",
 "pnt": 2
 },
@@ -3519,7 +3519,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "uit een krant: Het verhogen van de AOW-leeftijd leidt tot veel negatieve reacties in de samenleving. Er is juist een toenemende behoefte om de AOW-leeftijd flexibel te maken. Bijvoorbeeld elk jaar dat je de AOW later laat ingaan dan 67 jaar, gaat de uitkering per jaar dat je later stopt 6,5% omhoog. Elk jaar dat je de AOW eerder laat ingaan dan 67 jaar, gaat de uitkering per jaar 6,5% omlaag (zie bron 1). De voorzitter van de Ouderenbond is voorstander van zo’n flexibele AOW. De staatssecretaris van Sociale Zaken en Werkgelegenheid is minder enthousiast. De voorzitter van de Ouderenbond en de staatssecretaris van Sociale Zaken en Werkgelegenheid discussieerden in januari 2021 met elkaar in een televisieprogramma. - De voorzitter: “Mijn buurman Henk is laag opgeleid en heeft een fysiek zwaar beroep. Hij wil in goede gezondheid samen met zijn vrouw van zijn oude dag genieten, ook al moet hij daarvoor een deel van zijn pensioenuitkering inleveren. Op 3 januari 2022 wordt hij 65 jaar. Hij zou dan graag met pensioen gaan. Een flexibele AOW maakt dat mogelijk.” - De staatssecretaris: “Hoogopgeleiden hebben, in tegenstelling tot Henk, vaak geen fysiek zwaar beroep. Een flexibele AOW kan daardoor leiden tot een nog grotere inkomensongelijkheid tussen laag- en hoogopgeleiden.”",
-"q": "Gebruik de uitspraak van de staatssecretaris en bron 1.\nLeg uit hoe een flexibele AOW kan leiden tot een nog grotere inkomensongelijkheid tussen laag- en hoogopgeleiden.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de uitspraak van de staatssecretaris en bron 1.\nLeg uit hoe een flexibele AOW kan leiden tot een nog grotere inkomensongelijkheid tussen laag- en hoogopgeleiden.",
 "model": "Voorbeelden van een juiste uitleg zijn:\n• Mensen met een hogere opleiding hebben relatief weinig fysiek zware beroepen en zullen geneigd zijn hun AOW-uitkering later te laten ingaan (1p)\n• Zij kunnen dan profiteren van een hogere AOW-uitkering ten opzichte van de lager opgeleiden (en dit leidt tot een grotere inkomensongelijkheid) (1p)\nof\n• Mensen met een lagere opleiding hebben relatief vaak fysiek zware beroepen en zien zich hierdoor meer genoodzaakt hun AOW-uitkering eerder te laten ingaan (1p)\n• Zij ontvangen ten opzichte van de hoger opgeleiden een lagere AOW-uitkering (en dit leidt tot een grotere inkomensongelijkheid) (1p)",
 "pnt": 2
 },
@@ -3535,7 +3535,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "uit een krant: Op de Nederlandse arbeidsmarkt zijn steeds meer zelfstandige ondernemers zonder personeel (zzp’ers) actief. Deze groep Nederlanders werkt niet in loondienst bij een werkgever maar werkt voor eigen rekening voor opdrachtgevers. Je komt zzp’ers in alle sectoren tegen: van de bouwsector en de zorg tot de advocatuur. In 2008 waren er 810 duizend zzp’ers, wat overeenkwam met 9% van de werkzame beroepsbevolking. Dat aantal is in tien jaar tijd, zowel in economisch slechte tijden als in economisch goede tijden, sterk gegroeid. De solidariteit binnen het stelsel van sociale zekerheid in Nederland komt onder druk te staan door de groei van het aandeel zzp’ers binnen de werkzame beroepsbevolking. In de eerste plaats gelden voor zzp’ers geen verplichte collectieve verzekeringen tegen arbeidsongeschiktheid en ziekte, zoals die er wel zijn voor werknemers. Particuliere verzekeringen zijn duur, en daarom verzekert een grote groep zzp’ers zich niet. In de tweede plaats gelden er belastingvoordelen voor zzp’ers, waardoor zij minder bijdragen aan collectieve regelingen zoals de bijstandsuitkering en het basispensioen voor ouderen (AOW).",
-"q": "Gebruik het krantenartikel en bron 1.\nLeg aan de hand van de grafiek uit dat het aandeel van de zzp’ers binnen de werkzame beroepsbevolking is gegroeid in 2017 ten opzichte van 2008.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het krantenartikel en bron 1.\nLeg aan de hand van de grafiek uit dat het aandeel van de zzp’ers binnen de werkzame beroepsbevolking is gegroeid in 2017 ten opzichte van 2008.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• Het aantal zzp’ers is tussen 2008 en 2017 met 30,2% / van indexcijfer 100 naar 130,2 gestegen, terwijl de totale werkzame beroepsbevolking (inclusief de zzp’ers) met 2,1% / van indexcijfer 100 naar 102,1 is gestegen (1p)\n• De groei van het aantal zzp’ers is dus naar verhouding groter dan de groei van de werkzame beroepsbevolking, waaruit blijkt dat het aandeel zzp’ers in de werkzame beroepsbevolking is gestegen 1 of Een voorbeeld van een juiste uitleg via een berekening is:\n• Het aandeel zzp’ers in de werkzame beroepsbevolking van 2008 is 9% (zie krantenartikel). De werkzame beroepsbevolking in 2008 =\n810.000\n0,09 = 9.000.000 personen. Het aandeel zzp’ers in de werkzame beroepsbevolking van 2017 = 9.000.000 810.000 ××\n1,302\n1,021 × 100% = 11,5% (1p)\n• en 11,5% > 9% dus het aandeel zzp’ers is gegroeid ten opzichte van 2008 (1p)",
 "pnt": 2
 },
@@ -3657,7 +3657,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "De buurmannen Zacharia (53 jaar) en Willem (50 jaar) werken allebei in de bouwsector. In 2018 was er een sterke productiegroei in deze sector en gaf Zacharia zijn baan in loondienst op. Hij werd zzp’er in de bouw, terwijl Willem ervoor koos werknemer te blijven. De bouw kent een cao met een bedrijfspensioen. Zacharia en Willem hebben het krantenartikel gelezen en zijn met elkaar daarover in discussie geraakt. - Uitspraak 1 – Zacharia: “Ik begrijp niet dat jij werknemer blijft. Mijn inkomen is dankzij de groei in de bouwsector hoger dan dat van jou. Mijn inkomen past zich snel aan de marktsituatie aan. En dan heb ik ook nog belastingvoordelen die jij niet hebt.” - Uitspraak 2 – Willem: “Ik blijf liever werknemer. Dan weet ik beter waar ik financieel aan toe ben en bovendien ben ik verzekerd tegen arbeidsongeschiktheid en ziekte. Jij mag dat zelf regelen, wat je trouwens nog steeds niet hebt gedaan. En dat terwijl het werken in de bouw niet zonder gevaren is….” - Uitspraak 3 – Zacharia: “Particuliere verzekeringsmaatschappijen werken met risicogroepen waar ze de premies op afstemmen. Dan is de zelfstandige advocaat beter af dan ik. Er zijn overheidsplannen om te komen tot een verplichte collectieve verzekering tegen arbeidsongeschiktheid en ziekte voor alle zzp’ers in Nederland. Daar wacht ik op, omdat dat veel gunstiger is voor mij. Leve de verplichte solidariteit!” - Uitspraak 4 – Willem: “Solidair? Jij hebt over enkele jaren net zoveel pensioen als ik, zonder dat je daarvoor betaalt. Dat noem ik geen solidariteit.” - Uitspraak 5 – Zacharia: “Wat je nu zegt over pensioen klopt niet. Je vergist je!”",
-"q": "Gebruik bron 2.\nBereken hoeveel minder Zacharia als startende zelfstandige betaalt aan inkomensheffing vergeleken met Willem als ze beiden € 33.333 per jaar zouden verdienen. Je hoeft geen rekening te houden met andere aftrekposten dan in de bron genoemd.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nBereken hoeveel minder Zacharia als startende zelfstandige betaalt aan inkomensheffing vergeleken met Willem als ze beiden € 33.333 per jaar zouden verdienen. Je hoeft geen rekening te houden met andere aftrekposten dan in de bron genoemd.",
 "model": "• De fiscale aftrekmogelijkheden voor Zacharia bedragen: 7.280 + 2.123 + 0,14 x (33.333 – 7.280 – 2.123) = € 12.753,20 (1p)\n• Het tarief van 40,85% is van toepassing voor zowel Willem als Zacharia (want het belastbaar jaarinkomen van Zacharia = € 33.333 – € 12.753,20 = € 20.579,80 en dat is tussen € 20.143 en € 68.507; het belastbaar inkomen van Willem is hoger dan dat van Zacharia en valt ook tussen de grenswaarden van de tweede schijf) (1p)\n• Hierdoor heeft Zacharia een fiscaal voordeel ten opzichte van Willem van: 40,85% x 12.753,20 = € 5.209,68 (1p)",
 "pnt": 3
 },
@@ -3689,7 +3689,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Onderzoek naar de verwachte collectieve vraag naar studieleningen in 2022 leidt tot twee conclusies: a De vraag naar studieleningen is rente-inelastisch1) bij een rente tussen 0,5% en 0,3%. b Bij een lagere rente zou het totale rentebedrag over het in 2022 collectief geleende bedrag dalen. noot 1 Rente-elasticiteit is de prijselasticiteit van het collectief gevraagde bedrag aan studieleningen.",
-"q": "Gebruik bron 1.\nToon met een berekening aan dat de rente-elasticiteit gelijk is aan –0,5 bij een renteverandering van 0,5% naar 0,3%.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat de rente-elasticiteit gelijk is aan –0,5 bij een renteverandering van 0,5% naar 0,3%.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Qvoud = –2,0 x roud + 3,0 = –2,0 x 0,5 + 3,0 = € 2,0 mld Qvnieuw = –2,0 x rnieuw + 3,0 = –2,0 x 0,3 + 3,0 = € 2,4 mld (Qvoud en Qvnieuw mogen ook bepaald zijn via aflezen uit de grafiek.) De rentedaling is r nieuw r oud\n- r oud\n= 0,3 0,5\n- 0,5\n= –0,4 dus een afname van 40%\nDe stijging van de vraag is Q nieuw – Q oud\nQ oud\n= 2,4 - 2,\n0 2 ,\n0= 0,2 dus een toename van 20% (1p)\n• De rente-elasticiteit van de vraag is –40% 20%\n= –0,5 1\n(De berekening onderbouwt conclusie a , want –0,5 > –1 en < 0, en dus is de vraag rente-inelastisch.)",
 "pnt": 2
 },
@@ -3705,7 +3705,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "Onderzoek naar de verwachte collectieve vraag naar studieleningen in 2022 leidt tot twee conclusies: a De vraag naar studieleningen is rente-inelastisch1) bij een rente tussen 0,5% en 0,3%. b Bij een lagere rente zou het totale rentebedrag over het in 2022 collectief geleende bedrag dalen. noot 1 Rente-elasticiteit is de prijselasticiteit van het collectief gevraagde bedrag aan studieleningen.",
-"q": "Gebruik bron 1.\nLeg met behulp van de rente-elasticiteit uit dat conclusie b juist is bij een renteverandering van 0,5% naar 0,3%.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg met behulp van de rente-elasticiteit uit dat conclusie b juist is bij een renteverandering van 0,5% naar 0,3%.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• De rente-elasticiteit is –0,5. Dat is groter dan –1. Hieruit volgt dat de relatieve verandering van de hoeveelheid kleiner is dan de relatieve verandering van de rente (1p)\n• Doordat het effect van de rentedaling groter is dan de hoeveelheidstijging daalt het totale rentebedrag (r x Q) 1 of Een voorbeeld van een juist antwoord via een berekening is:\n• De rente daalt met 40% en bij een elasticiteit van –0,5 levert dit een toename van het leenbedrag met (–40% x –0,5 =) + 20% op (1p)\n• Doordat het effect van de rentedaling groter is dan de hoeveelheidstijging daalt het totale rentebedrag (r x Q) (1p)",
 "pnt": 2
 },
@@ -3753,7 +3753,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Carlein Solis: “Het herinvoeren van de subsidieregeling zal leiden tot een sterke stijging van de omzet voor producenten van zonnepanelen. De subsidie wordt verstrekt aan de producent. Zeker is ook dat het consumentensurplus zal toenemen doordat de subsidie wordt doorgegeven aan de consument. Bovendien heeft het positieve gevolgen voor de werkgelegenheid in andere sectoren van de economie.”",
-"q": "Gebruik bron 1.\nMaak van onderstaande zinnen een economisch juiste tekst.\n\n- Uitgaand van de situatie zonder subsidie bedraagt de prijselasticiteit van de vraag naar zonnepanelen …(1)…. - Blijkbaar is de vraag naar zonnepanelen …(2)…. Kies uit: bij (1) 0,3 / –0,3 / 3,3 / –3,3 bij (2) elastisch / inelastisch\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nMaak van onderstaande zinnen een economisch juiste tekst.\n\n- Uitgaand van de situatie zonder subsidie bedraagt de prijselasticiteit van de vraag naar zonnepanelen …(1)…. - Blijkbaar is de vraag naar zonnepanelen …(2)…. Kies uit: bij (1) 0,3 / –0,3 / 3,3 / –3,3 bij (2) elastisch / inelastisch",
 "model": "bij (1) –3,3 bij (2) elastisch\n(Poud = 500 en Qvoud = 60.000 Pnieuw = 425 en Qvnieuw = 90.000 Prijselasticiteit: 50%\n–15% = –3,3 )",
 "pnt": 1
 },
@@ -3811,7 +3811,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 28,
 "ctx": "Carlein Solis: “Het herinvoeren van de subsidieregeling zal leiden tot een sterke stijging van de omzet voor producenten van zonnepanelen. De subsidie wordt verstrekt aan de producent. Zeker is ook dat het consumentensurplus zal toenemen doordat de subsidie wordt doorgegeven aan de consument. Bovendien heeft het positieve gevolgen voor de werkgelegenheid in andere sectoren van de economie.”",
-"q": "Gebruik bron 1.\nGeef met een letter of combinatie van letters de toename van het consumentensurplus aan bij herinvoering van de subsidieregeling.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nGeef met een letter of combinatie van letters de toename van het consumentensurplus aan bij herinvoering van de subsidieregeling.",
 "model": "b en d",
 "pnt": 1
 },
@@ -3859,7 +3859,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Zuivelondernemer Tine stelt in december de prijs van roomboter vast op het niveau waarbij de totale winst wordt gemaximeerd. De totale variabele kosten stijgen proportioneel met de productie.",
-"q": "Gebruik bron 1.\nWelk vlak geeft de omzet weer die Tine behaalt bij winstmaximering?\nNoteer de letters van de hoekpunten van het vlak.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nWelk vlak geeft de omzet weer die Tine behaalt bij winstmaximering?\nNoteer de letters van de hoekpunten van het vlak.",
 "model": "(vlak) OEMG\nOpmerking Uitsluitend 2 of 0 scorepunten toekennen.",
 "pnt": 2
 },
@@ -3875,7 +3875,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Zuivelondernemer Tine stelt in december de prijs van roomboter vast op het niveau waarbij de totale winst wordt gemaximeerd. De totale variabele kosten stijgen proportioneel met de productie.",
-"q": "Gebruik bron 1.\nLeg uit dat het consumentensurplus van kopers van Noorse roomboter gelijk is aan het vlak EFM.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat het consumentensurplus van kopers van Noorse roomboter gelijk is aan het vlak EFM.",
 "model": "Een redenering dat het consumentensurplus / het vlak EFM gelijk is aan\n• het totale / cumulatieve verschil tussen de prijs E die geldt bij winstmaximering (1p)\n• en de betalingsbereidheid van alle kopers bij prijs E (lijnstuk FM) (1p)",
 "pnt": 2
 },
@@ -3891,7 +3891,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Om iets aan de hoge prijs van roomboter te doen, besluit de Noorse regering de belasting op de invoer van roomboter op te heffen. Hierdoor treden veel buitenlandse aanbieders toe tot de roombotermarkt in Noorwegen en ontstaat er een markt van volkomen concurrentie. De nieuwe toetreders hebben een andere kostenstructuur dan Tine. In het bronnenboekje wordt de situatie op de roombotermarkt onder monopolie (bron 1) en de situatie onder volkomen concurrentie (bron 2) weergegeven. De verandering van de marktstructuur heeft gevolgen voor zowel het consumentensurplus als het producentensurplus.",
-"q": "Gebruik bron 1 en bron 2.\nLeid uit de grafieken af dat het totale surplus toeneemt als de roombotermarkt verandert van monopolie naar volkomen concurrentie.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nLeid uit de grafieken af dat het totale surplus toeneemt als de roombotermarkt verandert van monopolie naar volkomen concurrentie.",
 "model": "Voorbeelden van een juist antwoord zijn: Door de prijsdaling, de toename van de evenwichtshoeveelheid en de afname van de marginale kosten\n• neemt het consumentensurplus fors toe (van driehoek EFM naar driehoek SFU) (en wijzigt het producentensurplus relatief weinig, van rechthoek DEML naar driehoek RSU) (1p)\n• zodat de som van beide, oftewel het totale surplus, toeneemt (van DFML naar RFU) (1p)\nof\n• het totale surplus bij monopolie heeft als oppervlak DFML (1p)\n• het totale surplus bij volkomen concurrentie heeft als oppervlak RFU, en RFU is groter dan DFML (1p)",
 "pnt": 2
 },
@@ -3907,7 +3907,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 6,
 "ctx": "Om iets aan de hoge prijs van roomboter te doen, besluit de Noorse regering de belasting op de invoer van roomboter op te heffen. Hierdoor treden veel buitenlandse aanbieders toe tot de roombotermarkt in Noorwegen en ontstaat er een markt van volkomen concurrentie. De nieuwe toetreders hebben een andere kostenstructuur dan Tine. In het bronnenboekje wordt de situatie op de roombotermarkt onder monopolie (bron 1) en de situatie onder volkomen concurrentie (bron 2) weergegeven. De verandering van de marktstructuur heeft gevolgen voor zowel het consumentensurplus als het producentensurplus.",
-"q": "Gebruik bron 1 en bron 2.\nLeid uit de grafieken af welke gevolgen de situatie van volkomen concurrentie heeft voor het marktaandeel van Tine. Ga ervan uit dat de kostenstructuur van Tine niet verandert.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nLeid uit de grafieken af welke gevolgen de situatie van volkomen concurrentie heeft voor het marktaandeel van Tine. Ga ervan uit dat de kostenstructuur van Tine niet verandert.",
 "model": "Een voorbeeld van een juist antwoord is: Uit de grafieken kan afgeleid worden dat\n• voor Tine geldt dat de marginale opbrengsten (S) nu lager zijn dan haar marginale kosten (D) / dat de marginale kosten (S) van de buitenlandse aanbieders lager zijn dan die van Tine (1p)\n• zodat Tine onder volledige concurrentie van de markt gedrukt wordt (1p)",
 "pnt": 2
 },
@@ -3955,7 +3955,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "In de Belgische media wordt gewaarschuwd voor het gevaar dat bedrijven hun vestigingen naar het buitenland verplaatsen. Melcopack bestudeert de gevolgen van een verplaatsing van de toetjesproductie naar een van de buurlanden Nederland of Duitsland. In de directievergadering van Melcopack wordt het onderzoek naar de verplaatsing van het bedrijf naar het buitenland besproken. De directeur komt op basis van bron 1 en bron 2 tot de conclusie dat de kostprijs het laagst is bij productie in Nederland.",
-"q": "Gebruik bron 1 en bron 2.\nLaat met een berekening zien dat de directeur terecht concludeert dat de kostprijs bij productie in Nederland lager is dan bij productie in Duitsland.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nLaat met een berekening zien dat de directeur terecht concludeert dat de kostprijs bij productie in Nederland lager is dan bij productie in Duitsland.",
 "model": "Een voorbeeld van een juiste benadering is: - Volgens bron 1 is het loonpeil in Nederland hoger dan in Duitsland.\nVolgens bron 2 is de arbeidsproductiviteit in Nederland hoger dan in Duitsland. - Benadering van het verschil in loonpeil tussen Nederland en\nDuitsland:≈ 133,2 - 131,9 = 1,3 - Benadering van het verschil in arbeidsproductiviteit tussen Nederland\nen Duitsland: ≈ 102,5- 100,3 = 2,2 - Conclusie: Het verschil in arbeidsproductiviteit is groter dan het\nverschil in loonpeil. Hieruit blijkt dat de loonkosten per product in Nederland lager zijn dan in Duitsland.\nEen voorbeeld van een juiste exacte berekening is: - Berekening index loonkosten per product in Duitsland\n131,9 100 131,5 100,3 × = - Berekening index loonkosten per product in Nederland\n133,2 100 130,0 102,5 × = - Conclusie: Hieruit volgt dat de loonkosten per product lager zijn in\nNederland (130,0) dan in Duitsland (131,5).\n• voor een juiste benadering of berekening (1p)\n• voor een juiste conclusie dat Nederland lagere loonkosten per product heeft dan Duitsland (1p)",
 "pnt": 2
 },
@@ -3971,7 +3971,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "De directeur van Melcopack besluit ondanks het loonkostenvoordeel van de buurlanden om Melcopack toch niet naar het buitenland te verplaatsen vanwege de hoge kosten van de verplaatsing. Om toch winstgevend te kunnen blijven, wil hij de loonkosten bewaken. Hiervoor stelt hij dat de loonkosten als percentage van de bruto toegevoegde waarde niet verder mogen stijgen.",
-"q": "Gebruik bron 3.\nLaat met een berekening zien dat het aandeel van de loonkosten maximaal 50% van de bruto toegevoegde waarde van een toetje mag bedragen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nLaat met een berekening zien dat het aandeel van de loonkosten maximaal 50% van de bruto toegevoegde waarde van een toetje mag bedragen.",
 "model": "Een voorbeeld van een juiste berekening is:\n• (bruto toegevoegde waarde = omzet – inkoopwaarde goederen & diensten =) 1,45 – (0,22 + 0,07 + 0,01 + 0,11) = 1,04 of (bruto toegevoegde waarde = som van de beloning voor productiefactoren + afschrijving =) 0,18 + 0,16 + 0,10 + 0,08 + 0,52 = 1,04 (1p)\n• De loonkosten als percentage van de bruto toegevoegde waarde zijn 0,52 0,5 1,04 = is 50% (1p)",
 "pnt": 2
 },
@@ -4003,7 +4003,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "Els van Buren overweegt om RidgeBlade windturbines te laten plaatsen op haar woning, zodat ze zelf energie kan opwekken. Ze vraagt een offerte aan bij een installateur (zie bron 1). Ze gaat ervan uit dat ze na de installatie 60 procent van haar elektriciteitsverbruik kan opwekken met de windturbines.",
-"q": "Gebruik bron 1 en bron 2.\nBereken in hoeveel jaar Els de kosten van de windturbines zou kunnen terugverdienen op basis van haar verbruik in 2019 en bij gelijkblijvende energietarieven. Rond de uitkomst naar boven af op hele jaren.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nBereken in hoeveel jaar Els de kosten van de windturbines zou kunnen terugverdienen op basis van haar verbruik in 2019 en bij gelijkblijvende energietarieven. Rond de uitkomst naar boven af op hele jaren.",
 "model": "Een voorbeeld van een juiste berekening is:\n• verbruik en energiebelasting = (€ 412,09 + € 173,51) x 1,21 = € 708,58 (1p)\n• er wordt per jaar 60% van € 708,58 bespaard = € 425,15 per jaar (1p)\n• aanschaf / jaarlijkse besparing = € 9.042,72\n€ 425,15 = 21,3 jaar → 22 jaar (1p)",
 "pnt": 3
 },
@@ -4083,7 +4083,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Nederland staat al vele jaren in de top tien van de meest concurrerende economieën ter wereld. Dat is mede te danken aan een goed onderwijssysteem. Om de kwaliteit van dit onderwijssysteem te waarborgen zijn er voldoende goed opgeleide leraren nodig. Onderzoeksbureau Ecodata onderzoekt hoe de onderwijsarbeidsmarkt zich de komende jaren zal ontwikkelen. Ecodata heeft in het onderzoeksrapport een schema opgenomen van factoren die van invloed zijn op de arbeidsmarkt voor leraren (zie bron 1). Dit schema is nog niet volledig.",
-"q": "Gebruik bron 1.\nMoet de pijl van pensioenleeftijd worden getrokken naar de vraag naar leraren of naar het aanbod van leraren? Maak een keuze en leg ook uit of er sprake is van een negatief verband of van een positief verband.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nMoet de pijl van pensioenleeftijd worden getrokken naar de vraag naar leraren of naar het aanbod van leraren? Maak een keuze en leg ook uit of er sprake is van een negatief verband of van een positief verband.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De pijl moet getrokken worden naar aanbod van leraren (en niet naar de vraag naar leraren) omdat de pensioenleeftijd van leraren invloed heeft op hoe lang leraren doorwerken en zich dus blijven aanbieden op de arbeidsmarkt (1p)\n• Het verband is positief, / In het schema moet een plus staan, omdat het (arbeids)aanbod van leraren stijgt bij langer doorwerken (als gevolg van een verhoging van de pensioenleeftijd) (1p)",
 "pnt": 2
 },
@@ -4243,7 +4243,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "In de periode 2008-2012 heeft de Nederlandse overheid al diverse belastingverhogingen doorgevoerd. Zo zijn de accijnzen op alcohol en brandstof gestegen, is het btw-tarief verhoogd naar 21% en gingen de assurantiebelastingen omhoog. De belastingverhoging van 2013 betrof de inkomstenbelasting (zie bron 1). Een verhoging van die belasting veroorzaakte veel ophef in de media.",
-"q": "Gebruik bron 1.\nLeg uit dat maatregel 2 kan leiden tot meer belastinginkomsten.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat maatregel 2 kan leiden tot meer belastinginkomsten.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Als de inkomensgrenzen van de belastingschijven niet gecorrigeerd worden voor inflatie, en de lonen wel stijgen als gevolg van de inflatie (1p)\n• dan zal een groter deel van de inkomens van belastingbetalers in de hogere schijven terechtkomen (dan wanneer hun lonen wel worden gecorrigeerd en dan zullen de belastingontvangsten van de overheid toenemen) (1p)",
 "pnt": 2
 },
@@ -4259,7 +4259,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "In de periode 2008-2012 heeft de Nederlandse overheid al diverse belastingverhogingen doorgevoerd. Zo zijn de accijnzen op alcohol en brandstof gestegen, is het btw-tarief verhoogd naar 21% en gingen de assurantiebelastingen omhoog. De belastingverhoging van 2013 betrof de inkomstenbelasting (zie bron 1). Een verhoging van die belasting veroorzaakte veel ophef in de media.",
-"q": "Gebruik bron 1.\nNoem een maatregel die bij 3 ingevuld kan worden en licht je antwoord toe.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nNoem een maatregel die bij 3 ingevuld kan worden en licht je antwoord toe.",
 "model": "Voorbeelden van een juiste maatregel zijn: - De aftrekposten beperken\nUit de uitleg moet blijken dat het belastbaar inkomen van een belastingbetaler kan toenemen door het beperken van de aftrekposten, en dat hierdoor de belastingontvangsten van de overheid toenemen. - De heffingskortingen verlagen\nUit de uitleg moet blijken dat het te betalen belastingbedrag toeneemt door het verlagen van de heffingskorting.\nvoor een juiste maatregel die leidt tot hogere belastinginkomsten, (uitgezonderd variaties op 1, 2 en 4 uit de bron) en een daarbij passende juiste, volledige uitleg 2 voor een juiste maatregel met onvolledige of ontbrekende uitleg 1 alle andere antwoorden 0",
 "pnt": 2
 },
@@ -4275,7 +4275,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "In de periode 2008-2012 heeft de Nederlandse overheid al diverse belastingverhogingen doorgevoerd. Zo zijn de accijnzen op alcohol en brandstof gestegen, is het btw-tarief verhoogd naar 21% en gingen de assurantiebelastingen omhoog. De belastingverhoging van 2013 betrof de inkomstenbelasting (zie bron 1). Een verhoging van die belasting veroorzaakte veel ophef in de media.",
-"q": "Gebruik bron 1.\nBeredeneer op basis van figuur 2 met behulp van een berekening of maatregel 4 over de periode 2013 – 2017 een nivellerend of denivellerend effect op de inkomensverdeling tussen belastingplichtigen heeft gehad. Ga als volgt te werk: - Bereken eerst de gemiddelde belastingdruk voor beide jaren en voor beide bruto-inkomens die in figuur 2 van bron 1 vermeld staan; - Leid uit je berekeningen een conclusie af over het effect op de inkomensverdeling.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBeredeneer op basis van figuur 2 met behulp van een berekening of maatregel 4 over de periode 2013 – 2017 een nivellerend of denivellerend effect op de inkomensverdeling tussen belastingplichtigen heeft gehad. Ga als volgt te werk: - Bereken eerst de gemiddelde belastingdruk voor beide jaren en voor beide bruto-inkomens die in figuur 2 van bron 1 vermeld staan; - Leid uit je berekeningen een conclusie af over het effect op de inkomensverdeling.",
 "model": "Een voorbeeld van een juiste berekening en een afgeleide conclusie is:\n• (De gemiddelde belastingdruk = te betalen belasting\nbruto-inkomen × 100%) Bij bruto-inkomen € 35.000\ngemiddelde belastingdruk 2013: € 11.167 100% 31,9% € 35.000 × = gemiddelde belastingdruk 2017: € 11.217 100% 32,0% € 35.000 × = Bij bruto-inkomen € 100.000\ngemiddelde belastingdruk 2013: € 42.868 100% 42,9% € 100.000 × = gemiddelde belastingdruk 2017: € 45.050 100% 45,1% € 100.000 × = (2p)\n• voor het hogere bruto-inkomen (€ 100.000) is de gemiddelde belastingdruk meer gestegen dan voor het lagere bruto-inkomen (€ 35.000). Hierdoor is er sprake van inkomensnivellering (1p)\nOpmerking Bij de eerste deelscore uitsluitend twee scorepunten toekennen als voor beide jaren zowel teller als noemer juist zijn gebruikt.",
 "pnt": 3
 },
@@ -4291,7 +4291,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "Een econoom reageert ook op de belastingverhoging via een ingezonden stuk in een krant. Hij begint zijn brief als volgt: “Sinds de kredietcrisis in 2008 zijn talloze lastenverzwaringen doorgevoerd. Ondanks deze maatregelen blijft het overheidstekort oplopen. Verhoging van het 52%-tarief van de inkomstenbelasting lijkt op het eerste gezicht een oplossing, maar hierdoor zal het tekort alleen maar verder oplopen. Dat heeft te maken met een verschijnsel waar de Amerikaanse econoom Laffer de aandacht op heeft gevestigd en dat wordt weergegeven door de curve die naar hem is vernoemd (zie bron 2). Ik ben van mening dat de overheid het hoogste belastingtarief juist moet verlagen naar bijvoorbeeld 40% ……”",
-"q": "Gebruik bron 2.\nSchrijf het vervolg van de brief van de econoom. Daarin moeten de volgende aspecten aan de orde komen: - het effect van een verlaging van het hoogste belastingtarief op de belastingopbrengst in Nederland; - een verklaring voor dit effect.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nSchrijf het vervolg van de brief van de econoom. Daarin moeten de volgende aspecten aan de orde komen: - het effect van een verlaging van het hoogste belastingtarief op de belastingopbrengst in Nederland; - een verklaring voor dit effect.",
 "model": "Een voorbeeld van een juist antwoord is:\n• … want een verlaging van het hoogste belastingpercentage in Nederland ─ van 52% naar 40% ─ zal leiden tot toenemende belastingopbrengst (1p)\n• Dit effect treedt op doordat het vermijdingsgedrag (ontduiken en ontwijken) van de belastingbetaler minder wordt en de belastingbetaler geprikkeld wordt om meer te werken als gevolg van de verlaging van het belastingpercentage (1p)",
 "pnt": 2
 },
@@ -4339,7 +4339,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 28,
 "ctx": "De markt voor kleding kent steeds meer keurmerken. Keurmerken zijn ontstaan om asymmetrische informatie over de kwaliteitsaspecten van kleding op te heffen. De wildgroei die vervolgens is ontstaan, zorgt weer voor meer onduidelijkheid. De diversiteit aan keurmerken maakt de markt met aanbod uit alle delen van de wereld minder transparant. De keurmerken gaan bijvoorbeeld over eerlijke handel of over mens- en milieuvriendelijke productie. Voor de klant is het lastig om al deze keurmerken met elkaar te vergelijken, en dus is het lastig om te kiezen tussen kleding met verschillende keurmerken. Anderzijds concluderen onderzoekers dat consumenten in Nederland maar beperkt bereid zijn meer te betalen voor een beter geproduceerd kledingstuk dan voor een kledingstuk dat minder verantwoord is geproduceerd, maar in eenzelfde behoefte kan voorzien.",
-"q": "Gebruik bron 1.\nBereken hoeveel procent de consument gemiddeld meer wil betalen voor producten met een keurmerk voor milieuvriendelijke productie dan voor producten met een keurmerk voor eerlijke handel. Geef de uitkomst in hele procenten.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken hoeveel procent de consument gemiddeld meer wil betalen voor producten met een keurmerk voor milieuvriendelijke productie dan voor producten met een keurmerk voor eerlijke handel. Geef de uitkomst in hele procenten.",
 "model": "• 110 - 105 (1p)\n• = 5% 1 of\n• 110 100 100 105 × - = (1p)\n• (4,76% ≈) 5% (1p)",
 "pnt": 2
 },
@@ -4546,7 +4546,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 7,
 "ctx": "Door een misoogst van kokos zijn de grondstofkosten voor kokosbrood met 10 eurocent per pakje kokosbrood gestegen. De algemeen directeur van Koko wil deze kostenstijging volledig doorberekenen. Koko levert zijn volledige productie van kokosbrood aan twee grote supermarktketens. Koko weet nog steeds winst te behalen, ondanks de marktmacht van de afnemers. De supermarktketens streven naar maximale winst en overwegen om hun marktmacht als afnemers te gebruiken door met Koko in onderhandeling te gaan over de verhoging van hun inkoopprijs. Als beide supermarktketens ervoor kiezen om met Koko te onderhandelen, zal het resultaat zijn dat Koko de prijs van een pakje kokosbrood met minder dan 10 eurocent verhoogt. Als een van de supermarktketens akkoord gaat met de prijsverhoging van 10 eurocent en als de ander wil onderhandelen, zal Koko uitsluitend leveren aan de supermarktketen die akkoord gaat.",
-"q": "Gebruik bron 1.\nToon met behulp van de getallen in de opbrengstenmatrix in bron 1 aan dat er een gevangenendilemma ontstaat voor de beide supermarktketens. Doe het als volgt: - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens dat er sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon met behulp van de getallen in de opbrengstenmatrix in bron 1 aan dat er een gevangenendilemma ontstaat voor de beide supermarktketens. Doe het als volgt: - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens dat er sprake is van een gevangenendilemma.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van keten 1 is akkoord gaan, want als keten 2 akkoord gaat, dan is de winstdaling € 6.000 en dat is minder dan € 10.000, en als keten 2 onderhandelt, dan is de winstdaling € 2.000 en dat is minder dan € 3.000. De dominante strategie van keten 2 is akkoord gaan, want als keten 1 akkoord gaat, dan is de winstdaling € 6.000 en dat is minder dan € 10.000, en als keten 1 onderhandelt dan is de winstdaling € 2.000 en dat is minder dan € 3.000 (1p)\n• Dit levert een uitkomst op die voor beide ketens suboptimaal is, want de gezamenlijke winstdaling zou minder geweest zijn als beide ketens zouden onderhandelen (en dus is er sprake van een gevangenendilemma) (1p)",
 "pnt": 2
 },
@@ -4562,7 +4562,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "De supermarktketens zullen minder pakjes kokosbrood inkopen als hun inkoopprijs is gestegen. De financieel directeur van Koko heeft de verwachte financiële gevolgen uitgewerkt. Hij stelt dat de prijs van een pakje kokosbrood niet met 10 eurocent moet worden verhoogd maar met 5 eurocent.",
-"q": "Gebruik bron 2 bij de volgende drie vragen.\nToon met een berekening aan dat de vraag naar kokosbrood door supermarkten prijselastisch is.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2 bij de volgende drie vragen.\nToon met een berekening aan dat de vraag naar kokosbrood door supermarkten prijselastisch is.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De procentuele verandering van de afzet is 3,5 4,0- 4,0\n×100% = −12,5%\nDe procentuele verandering van de prijs is 1,30 1,20- 1,20\n×100% = 8,3% (1p)\n• Dus de (absolute) procentuele verandering van de afzet is groter dan de procentuele verandering van de prijs (want 12,5% > 8,3% ) en dus is de vraag van de supermarkten naar kokosbrood elastisch. of Prijselasticiteit Ev = - 12,5 8,3\n= - 1,5 Ev < −1, dus de vraag van de supermarkten naar kokosbrood is elastisch (1p)\nAanvulling: bij vraag 8 tweede deelscore moet • Ev < −1, dus de vraag van de supermarkten naar kokosbrood is elastisch 1 worden vervangen door: • Ev < −1 / dus de vraag van de supermarkten naar kokosbrood is elastisch 1.",
 "pnt": 2
 },
@@ -4610,7 +4610,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 11,
 "ctx": "Uit een rapport over de Nederlandse detailhandel in levensmiddelen: Er is sprake van schaalvergroting bij supermarkten: de gemiddelde grootte van supermarkten, gemeten in winkelvloeroppervlak, neemt toe. In dezelfde periode is het aantal supermarkten licht gestegen.",
-"q": "Gebruik bovenstaande tekst en bron 1.\nToon met een berekening aan dat er tussen 2017 en 2020 sprake was van schaalvergroting bij supermarkten.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en bron 1.\nToon met een berekening aan dat er tussen 2017 en 2020 sprake was van schaalvergroting bij supermarkten.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Het totale winkelvloeroppervlak is verhoudingsgewijs meer gestegen dan het aantal supermarkten: Het vloeroppervlak steeg tussen 2017 en 2020 met 4.772 4.772\n- 4.453 × 100% = 7,16% Het aantal supermarkten steeg tussen 2017 en 2020 met 6.386 6.200\n- 6.200 × 100% = 3,00% of Het winkelvloeroppervlak per supermarkt is toegenomen:\n2017:\n4.453.000 6.200 = 718 m 2 per supermarkt 2020:\n4.772.000 6.386 = 747 m 2 per supermarkt (1p)\n• Hieruit blijkt dat de omvang per winkel is gestegen (en dat wil zeggen dat er schaalvergroting is geweest) (1p)\nAanvulling: bij vraag 11 eerste deelscore, moet de berekening 4.772 4.772 - 4.453 × 100% = 7,16% worden vervangen door: 4.772 4.453 - 4.453 × 100% = 7,16% en Toelichting: De eenheid van het winkeloppervlak moet gelezen worden als m2. en moet worden toegevoegd: Opmerking Het tweede scorepunt wordt toegekend voor de gevolgtrekking dat het winkelvloeroppervlak / de omvang per winkel is gestegen. Voor toekenning van dit scorepunt is een correcte onderbouwing van de gevolgtrekking noodzakelijk..",
 "pnt": 2
 },
@@ -4626,7 +4626,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "Uit een rapport over de Nederlandse detailhandel in levensmiddelen: Er is sprake van schaalvergroting bij supermarkten: de gemiddelde grootte van supermarkten, gemeten in winkelvloeroppervlak, neemt toe. In dezelfde periode is het aantal supermarkten licht gestegen.",
-"q": "Gebruik bron 2.\nHoe blijkt uit bron 2 dat de supermarkten van Albert Heijn in 2018 gemiddeld een grotere omzet halen dan de supermarkten die zijn aangesloten bij Superunie?\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nHoe blijkt uit bron 2 dat de supermarkten van Albert Heijn in 2018 gemiddeld een grotere omzet halen dan de supermarkten die zijn aangesloten bij Superunie?",
 "model": "Een voorbeeld van een juist antwoord is:\n• Uit bron 2 blijkt dat Albert Heijn met een kleiner aantal winkels dan Superunie een grotere totale omzet behaalt, (1p)\n• en hieruit volgt dat de gemiddelde omzet per winkel bij Albert Heijn groter is dan bij Superunie (1p)\nAanvulling: bij vraag 12 moet worden toegevoegd: Opmerking Voor toekenning van het tweede scorepunt is een correcte onderbouwing van de gevolgtrekking noodzakelijk.",
 "pnt": 2
 },
@@ -4714,7 +4714,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Het Nederlands pensioenstelsel bestaat uit drie pijlers, die samen de totale uitkering bepalen die iemand ontvangt als hij de pensioengerechtigde leeftijd heeft bereikt. De pijlers zijn: 1) het staatspensioen (AOW) 2) het bedrijfspensioen 3) het individueel opgebouwde pensioen De tweede pijler, het bedrijfspensioen, wordt opgebouwd voor werknemers in loondienst. Werkgevers en werknemers leggen premie in bij pensioenfondsen, die de premies beleggen. Het stelsel van bedrijfspensioenen staat onder andere onder druk door lage beleggingsrendementen. Als gevolg daarvan zijn de bedrijfspensioenuitkeringen in de periode 2014-2018 gelijk gebleven, terwijl de cao-lonen en de consumentenprijzen in diezelfde periode wel zijn gestegen (zie bron 1).",
-"q": "Gebruik de inleidende tekst en bron 1.\nToon met een berekening aan dat de koopkracht van de bedrijfspensioenuitkeringen tussen 2014 en 2018 met 4% is gedaald, afgerond op hele procenten.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de inleidende tekst en bron 1.\nToon met een berekening aan dat de koopkracht van de bedrijfspensioenuitkeringen tussen 2014 en 2018 met 4% is gedaald, afgerond op hele procenten.",
 "model": "Een voorbeeld van een juiste benadering is:\n• de relatieve prijsstijging ≈ Pnieuw ─ Poud = 113,0 ─ 108,6 = 4,4% (1p)\n• Het reële inkomen ≈ verandering in het nominale pensioeninkomen ─ de relatieve prijsstijging = 0% ─ 4,4% = ─ 4,4% (oftewel een koopkrachtdaling van afgerond 4%) 1 of Een voorbeeld van een juiste exacte berekening is:\n• de relatieve prijsstijging: Pnieuw\nPoud\n= 108,6 113 = 1,041 het prijsindexcijfer (PIC) = 104,1 (1p)\n• indexcijfer reëel inkomen (RIC) = NIC\nPIC ×100 = 104,1100\n×100 = 96,1\n(NIC = nominaal indexcijfer; NIC = 100 omdat de nominale pensioenuitkeringen gelijk zijn gebleven) Oftewel de koopkracht is gedaald met 100 – 96,1 = 3,9% (oftewel een koopkrachtdaling van afgerond 4%) (1p)",
 "pnt": 2
 },
@@ -4799,7 +4799,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "Uit een weekblad, november 2013: De Organisatie voor Economische Samenwerking en Ontwikkeling (OESO) voorspelt in een rapport voor Nederland en de eurozone in de komende jaren deflatie en een stagnerende economische ontwikkeling. Een van de oorzaken van de stagnatie is een laag consumentenvertrouwen. De onderzoekers van de OESO hebben een model opgesteld waarin aan het consumentenvertrouwen een centrale rol is toebedeeld ter verklaring van economische groei (zie bron 1).",
-"q": "Gebruik bron 1.\nLeg uit hoe de overheidsbestedingen (pijl 2) van invloed zijn op het consumentenvertrouwen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit hoe de overheidsbestedingen (pijl 2) van invloed zijn op het consumentenvertrouwen.",
 "model": "Voorbeelden van een juist antwoord zijn: - Pijl 2: de overheid vervult een voorbeeldrol; de overheid straalt\nvertrouwen uit in de economie door meer te besteden. - Pijl 2: meer overheidsbestedingen leiden tot meer productie, hetgeen weer leidt tot meer inkomen, dus meer bestedingsruimte en meer vertrouwen.",
 "pnt": 1
 },
@@ -4979,7 +4979,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "Uit een tijdschrift, december 2018: In het stabiliteitspact van de EMU zijn normen afgesproken voor het overheidstekort en de staatsschuld van de lidstaten. De ontwerpbegrotingen van de lidstaten worden ter beoordeling voorgelegd aan de Europese Commissie. De afspraken met Italië zijn dat het overheidstekort in 2019 maximaal 1,6% van het bbp mag bedragen en dat de staatschuldquote moet worden verlaagd. In 2018 is de Italiaanse staatschuld 130% van het bbp. De regering van Italië wil de overheidsuitgaven in 2019 met 35 miljard euro verhogen tot 820 miljard euro (zie bron 1). Het overheidstekort in 2019 wordt hierdoor hoger dan wat met de EMU was afgesproken. De regering van Italië is niet van plan de begroting aan te passen en doet de volgende 3 beweringen: 1 Een hoger tekort op de begroting in 2019 zal leiden tot meer economische groei. 2 Hogere economische groei leidt in de toekomst tot een lager overheidstekort. 3 Hogere economische groei leidt op twee manieren tot een lagere staatsschuldquote.",
-"q": "Gebruik bron 1.\nToon met een berekening aan dat het begrote overheidstekort van Italië in 2019 hoger is dan 1,6% van het bbp.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat het begrote overheidstekort van Italië in 2019 hoger is dan 1,6% van het bbp.",
 "model": "• Overheidstekort = (Overheidsuitgaven O − Belastingontvangsten B = pijl2 – pijl3=) 820 – 770 = 50 miljard euro (1p)\n• In % van bbp (Y): 1.730 50\n× 100% = 2,89% (>1,6%) 1",
 "pnt": 2
 },
@@ -5043,7 +5043,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 29,
 "ctx": "De Europese Commissie stuurt aan op handhaving van de afspraken van het stabiliteitspact. De Commissie kijkt ook naar de gevolgen van de hoge staatsschuld op de lange termijn. Bovendien is het niet nakomen van de afspraken over het overheidstekort ongunstig voor de kredietwaardigheid van Italië. De lage kredietwaardigheid zal tot uitdrukking komen in de ratings van Italiaanse staatsobligaties door kredietbeoordelaars. Op dit moment hebben deze obligaties nog een B-rating (zie bron 2).",
-"q": "Gebruik bron 2.\nLeg uit welk effect de lagere rating van kredietbeoordelaars zal hebben op de staatschuld van de Italiaanse overheid.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLeg uit welk effect de lagere rating van kredietbeoordelaars zal hebben op de staatschuld van de Italiaanse overheid.",
 "model": "Voorbeelden van een juist antwoord zijn:\n• Een lagere rating betekent dat beleggers tegen strengere voorwaarden / hogere rente zullen uitlenen, waardoor de rente-uitgaven van de overheid (op de staatsschuld) stijgen (1p)\n• en moet de overheid meer lenen (bij gelijkblijvende belastinginkomsten en overige uitgaven), waardoor de staatsschuld groeit (1p)\nof\n• Een lagere rating betekent lagere staatsobligatiekoersen, wat leidt tot verliezen op beleggingen van Italiaanse banken (1p)\n• die (bij te zwakke kapitaalpositie) een beroep doen op staatssteun van de Italiaanse overheid, wat leidt tot een stijging van de staatsschuld en tot financieringstekort (1p)",
 "pnt": 2
 },
@@ -5208,7 +5208,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Een econoom heeft onderzoek gedaan naar de vraag naar schade-polissen en presenteert de bevindingen in een schema (zie bron 1).",
-"q": "Gebruik bron 1, pijl 4.\nHeeft risicoaversie van consumenten een positief of een negatief effect op de vraag naar schadepolissen? Leg je keuze uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1, pijl 4.\nHeeft risicoaversie van consumenten een positief of een negatief effect op de vraag naar schadepolissen? Leg je keuze uit.",
 "model": "positief effect Een voorbeeld van een juiste uitleg is:\n• Risicoaversie betekent dat consumenten risico willen vermijden, (en zich met een verzekeringspolis indekken tegen schade), en (1p)\n• dit betekent dat een risicoaverse consument bij elke premie vaker/meer/hogere verzekeringen wil afsluiten (oftewel de vraag naar polissen doet toenemen) (1p)\nOpmerking De cursief gedrukte aspecten moeten genoemd of verwoord zijn voor toekenning van scorepunten.",
 "pnt": 2
 },
@@ -5224,7 +5224,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Een econoom heeft onderzoek gedaan naar de vraag naar schade-polissen en presenteert de bevindingen in een schema (zie bron 1).",
-"q": "Gebruik bron 1, pijl 2 en de grafieken uit bron 2.\nWelke grafiek geeft de vraagverandering bij een toename van de kans op schade juist weer? Leg je keuze uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1, pijl 2 en de grafieken uit bron 2.\nWelke grafiek geeft de vraagverandering bij een toename van de kans op schade juist weer? Leg je keuze uit.",
 "model": "• grafiek 1 (1p)\n• voorbeeld van een juiste toelichting: (de vraaglijn verschuift naar rechts) omdat (uit het positieve verband van pijl 2 in bron 1 blijkt dat) de consumenten een grotere behoefte aan polissen hebben door een factor anders dan de prijs (te weten toename van de kans op schade) (1p)",
 "pnt": 2
 },
@@ -5240,7 +5240,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 6,
 "ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Gebruik bron 1, pijl 3.\nMaak van de redenering van de econoom een economisch juiste tekst.\n\nKies uit: bij (1) af / toe bij (2) naar links / naar rechts / niet bij (3) verlagen / verhogen bij (4) langs / van bij (5) afnemen / toenemen bij (6) naar links / naar rechts / niet bij (7) negatief / positief\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1, pijl 3.\nMaak van de redenering van de econoom een economisch juiste tekst.\n\nKies uit: bij (1) af / toe bij (2) naar links / naar rechts / niet bij (3) verlagen / verhogen bij (4) langs / van bij (5) afnemen / toenemen bij (6) naar links / naar rechts / niet bij (7) negatief / positief",
 "model": "• bij (1) toe bij (2) naar links bij (3) verhogen (1p)\n• bij (4) langs bij (5) afnemen (1p)\n• bij (6) naar rechts bij (7) positief (1p)",
 "pnt": 3
 },
@@ -5606,7 +5606,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Van Min vervolgt in het krantenbericht: “Zelfs een bekend reisbureau als IFLAS redt het dus niet. Er lijkt alleen nog toekomst te zijn voor online reisbureaus die reizen verkopen met een lage gemiddelde winst in combinatie met een grote afzet.” Van Min bestudeert de prijselasticiteiten voor binnenlandse en buitenlandse reizen (zie bron 1), en leidt daaruit af: 1 dat van buitenlandse reizen meer afzetgroei te verwachten is dan van binnenlandse reizen bij dezelfde procentuele prijsverlaging 2 en dat reisbureaus die zich toeleggen op buitenlandse reizen hun omzet zullen zien stijgen ondanks de lagere prijzen, terwijl reisbureaus die zich toeleggen op binnenlandse reizen hun omzet zullen zien dalen als gevolg van de lagere prijzen.",
-"q": "Gebruik bron 1.\nLeg voor elk van de uitspraken 1 en 2 uit of ze juist of onjuist zijn. Betrek de prijselasticiteiten in je uitleg.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg voor elk van de uitspraken 1 en 2 uit of ze juist of onjuist zijn. Betrek de prijselasticiteiten in je uitleg.",
 "model": "Een voorbeeld van een juist antwoord is: Uitspraak (1p)\n• De prijselasticiteit bij buitenlandse reizen is −4,4 De prijselasticiteit bij binnenlandse reizen is −0,56 −4,4 < −0,56, dus afzet (Q) van / vraag naar buitenlandse reizen reageert sterker elastisch op de prijs (P) dan bij binnenlandse reizen. Hiermee is aangetoond dat uitspraak 1 juist is 1 Uitspraak (2p)\n• De prijselasticiteit bij buitenlandse reizen is kleiner dan −1 / de vraag naar buitenlandse reizen is prijselastisch, dit betekent dat een prijsdaling van 1% leidt tot een stijging van de gevraagde hoeveelheid met meer dan 1%. De prijselasticiteit bij binnenlandse reizen is tussen 0 en −1 / de vraag naar binnenlandse reizen is prijsinelastisch, dit betekent dat een prijsdaling van 1% leidt tot een stijging van de gevraagde hoeveelheid met minder dan 1% (1p)\n• Verder geldt dat de omzet gelijk is aan PxQ en dit betekent (in combinatie met de hiervoor gegeven prijselasticiteiten) dat de omzet van buitenlandse reizen zal stijgen bij prijsdaling en dat de omzet van binnenlandse reizen zal dalen bij prijsdaling. Hiermee is aangetoond dat uitspraak 2 juist is (1p)",
 "pnt": 3
 },
@@ -5654,7 +5654,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 18,
 "ctx": "Gebruik bron 1",
-"q": "Kies uit bron 1 de figuur die optie 1 uit het rapport van het onderzoeksbureau weergeeft. Neem de figuur over op je antwoordblad en arceer het nieuwe consumentensurplus.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Kies uit bron 1 de figuur die optie 1 uit het rapport van het onderzoeksbureau weergeeft. Neem de figuur over op je antwoordblad en arceer het nieuwe consumentensurplus.",
 "model": "Figuur 3\nindien juiste grafiek overgenomen en juiste arcering consumentensurplus 2 indien juiste grafiek gekozen (grafiek 3 is benoemd en/of overgenomen) en onjuiste of ontbrekende arcering consumentensurplus 1 alle andere antwoorden 0\nOpmerking De netheid van de grafiek en de arcering maken geen onderdeel uit van de beoordeling. De grafiek is voldoende juist overgenomen als de Qa, Qa’ en Qv lijnen juist gepositioneerd zijn ten opzichte van elkaar. Het ontbreken van overige grafiekonderdelen zoals de grafiekassen maakt geen onderdeel uit van de beoordeling. Voor een juist gearceerd consumentensurplus volstaat een driehoek met geheel of gedeeltelijke arcering en met hoekpunten die gepositioneerd zijn conform het gegeven voorbeeld.",
 "pnt": 2
 },
@@ -6040,7 +6040,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 1,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Gebruik de tekst en bron 1.\nMaak van onderstaande zinnen een economisch juiste redenering.\n\n- De inkomstenbelasting is een instrument om de …(1)... inkomens te herverdelen. - In het nieuwe stelsel …(2)… het marginale tarief van de lage inkomens tot en met € 20.142, …(3)… het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een …(5)… effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen. Kies uit: bij (1) primaire / secundaire bij (2) stijgt / daalt bij (3) stijgt / daalt bij (4) stijgt / daalt bij (5) denivellerend / nivellerend bij (6) denivellerend / nivellerend bij (7) stijgen / dalen\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de tekst en bron 1.\nMaak van onderstaande zinnen een economisch juiste redenering.\n\n- De inkomstenbelasting is een instrument om de …(1)... inkomens te herverdelen. - In het nieuwe stelsel …(2)… het marginale tarief van de lage inkomens tot en met € 20.142, …(3)… het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een …(5)… effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen. Kies uit: bij (1) primaire / secundaire bij (2) stijgt / daalt bij (3) stijgt / daalt bij (4) stijgt / daalt bij (5) denivellerend / nivellerend bij (6) denivellerend / nivellerend bij (7) stijgen / dalen",
 "model": "(1) primaire (2) stijgt (3) daalt (4) daalt (5) denivellerend (6) nivellerend (7) stijgen\nindien zeven antwoorden juist 3 indien zes of vijf antwoorden juist 2 indien vier of drie antwoorden juist 1 indien minder dan drie antwoorden juist 0",
 "pnt": 3
 },
@@ -6196,7 +6196,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "Een medewerker van een politieke partij wil nagaan of de gemiddelde belastingdruk op arbeid bij werknemers in de middengroep inderdaad daalt onder het nieuwe inkomstenbelastingstelsel. De medewerker berekent dat bij een belastbaar inkomen uit arbeid van € 40.000 en zonder aftrekposten, de gemiddelde belastingdruk bij het oude belastingsysteem 27,9% was. te betalen belasting De gemiddelde belastingdruk 100% belastbaar inkomen = ×",
-"q": "Gebruik bron 1 en 2.\nToon aan de hand van een berekening aan of bij een belastbaar inkomen uit arbeid van € 40.000 de gemiddelde belastingdruk onder het nieuwe belastingsysteem is gedaald.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nToon aan de hand van een berekening aan of bij een belastbaar inkomen uit arbeid van € 40.000 de gemiddelde belastingdruk onder het nieuwe belastingsysteem is gedaald.",
 "model": "Een voorbeeld van een juiste berekening is:\n• bij een belastbaar inkomen van € 40.000 hoort een belastingtarief van 36,93% Berekende belasting: 0,3693 x € 40.000 = € 14.772 Te betalen belasting = berekende belasting - heffingskortingen = € 14.772 – € 1.406 – € 2.857 = € 10.509 (1p)\n• De gemiddelde belastingdruk = belastbaar te betalen belasting inkomen × 100% = €10.509 €40.000 × 100% = 26,3% Dit is lager dan 27,9%, dus de gemiddelde belastingdruk is gedaald (1p)",
 "pnt": 2
 },
@@ -6404,7 +6404,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Uit een krant, 2015: In het voorjaar van 2013 voorspelde het Centraal Planbureau (CPB) dat het overheidstekort van Nederland zou uitkomen op 3,1% van het bruto binnenlands product (bbp) in 2013. De voorspelling bleek onjuist, want eind 2013 was het overheidstekort van Nederland weer onder de 3% gekomen. Daarmee voldeed Nederland voor het eerst sinds de economische en financiële crisis weer aan de norm voor het overheidstekort van het Stabiliteits- en Groeipact (SGP) (zie kader). Het Stabiliteits- en Groeipact (SGP) en de boeteclausule De lidstaten die deel uitmaken van de Economische en Monetaire Unie (EMU) moeten zich vanaf 2013 opnieuw1) houden aan de volgende afspraken: - Het overheidstekort mag niet meer bedragen dan 3% van het bbp. - De overheidsschuld mag niet hoger zijn dan 60% van het bbp. Als een lidstaat de beide normen van overheidstekort en overheidsschuld overschrijdt, dan legt de EMU aan de lidstaat een boete op van 0,2% van het bbp van het voorafgaande jaar. noot 1 De EMU ging tijdens de voorafgaande crisis soepeler om met de normen en legde toen geen boete op. Vanaf 2014 lag de economische groei in Nederland boven de trendmatige groei. De overheidsschuld als percentage van het bbp kwam in 2013 en 2014 nog steeds ruim boven de norm van het SGP uit (zie bron 1). Ondanks het overschrijden van de norm van de overheidsschuld, heeft Nederland in 2013 en 2014 geen boete van de EMU gehad. In een havo 5-klas bespreken leerlingen de ontwikkeling van het overheidstekort in Nederland en de toepassing van de boeteclausule voor ons land. - Amira: Had Nederland in 2013 die 3%-norm niet gehaald, dan zou Nederland een boete hebben gekregen van ruim 1,5 miljard euro. - Oscar: Als we in 2014 een boete opgelegd hadden gekregen, dan zou die boete vanaf 2014 een procyclische werking hebben op de conjunctuur van Nederland.",
-"q": "Gebruik bron 1.\nLaat met behulp van een berekening zien of de uitspraak van Amira juist is.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLaat met behulp van een berekening zien of de uitspraak van Amira juist is.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Het bbp in het voorafgaande jaar (2012) is 599 miljard euro (1p)\n• De boete is 0,2% van het bbp (in het voorafgaande jaar) 0,002 x 599 miljard euro = 1,198 miljard euro De boete is minder dan 1,5 miljard, dus de uitspraak is onjuist (1p)",
 "pnt": 2
 },
@@ -6452,7 +6452,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 18,
 "ctx": "Een van de voorwaarden van het SGP is erop gericht om de omvang van de overheidsschuld te beheersen. De verwachte economische groei in de jaren na de crisis helpt mee om de norm van het SGP te bereiken. Als de Nederlandse regering erin zou slagen om de overheidsschuld van Nederland niet verder te laten toenemen, dan zal uiteindelijk de norm kunnen worden gehaald.",
-"q": "Gebruik bron 1.\nBereken de groei van het bbp in procenten die Nederland na 2015 zou moeten realiseren om weer te voldoen aan de norm van het SGP, als de overheidsschuld in euro’s gelijk zou blijven aan het niveau van 2015.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken de groei van het bbp in procenten die Nederland na 2015 zou moeten realiseren om weer te voldoen aan de norm van het SGP, als de overheidsschuld in euro’s gelijk zou blijven aan het niveau van 2015.",
 "model": "Een voorbeeld van een juiste berekening is:\n• De staatsschuld is 471 miljard in 2015. De maximale overheidsschuld is 60% van het bbp. Het bbp moet groeien naar 471 miljard 785 miljard 0,60 = (1p)\n• De groei in procenten van het verwachte bbp in 2015 = 785 miljard 100% 124,2% 632 miljard × = De vereiste groei is dus 124,2% - 100% = 24,2% (1p)",
 "pnt": 2
 },
@@ -6500,7 +6500,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "Uit een krant, december 2016: ‘Stille’ prijsopdrijvingen Een reep chocolade die in gewicht is verlaagd van 225 naar 200 gram, maar nog steeds € 3,49 kost; toiletpapierrollen die 14% minder vellen tellen dan vroeger, maar nog steeds even duur zijn; koffiepads die 0,5 gram minder koffie bevatten, maar waarvoor de consument nog steeds evenveel betaalt. Economen hebben er een naam voor: krimpflatie, een samentrekking van krimp en inflatie. Door de omvang of het gewicht van een product te verlagen, kunnen producenten voorkomen dat zij de prijzen van hun product moeten verhogen vanwege bijvoorbeeld een stijging van de grondstofkosten. Maar, het kan ook een manier zijn om meer winst te maken. De krimpflatie werd ook dit jaar niet meegenomen in het standaardmandje van producten dat het Centraal Bureau voor de Statistiek (CBS) gebruikt om de consumentenprijsindex (CPI) te bepalen. Woordvoerder Jaap Knoop van het CBS: “De consument is de dupe, want krimpflatie zorgt voor een daling van de koopkracht.”",
-"q": "Gebruik bron 1.\nBereken met hoeveel procentpunt het CPI van 2017 verandert indien het CBS wel rekening zou houden met krimpflatie.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken met hoeveel procentpunt het CPI van 2017 verandert indien het CBS wel rekening zou houden met krimpflatie.",
 "model": "Een voorbeeld van een juiste berekening is:\n• (102,1 x 12 + 102,5 x 3 + 100,6 x 5 + 100,6 x 26 + 98,1 x 14 + 101,3 x 16 + 100,1 x 24) / 100 = 100,5 (1p)\n• dus een stijging van 100,5 – 100,3 = 0,2 procentpunt (1p)",
 "pnt": 2
 },
@@ -6516,7 +6516,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "Theeproducent Roy Bos wordt geconfronteerd met een stijging van de grondstofprijs van de theezakjes. Hij overweegt de inhoud van een doos te verminderen van 20 naar 19 theezakjes en de verkoopprijs te handhaven, omdat hij dan nog winst maakt.",
-"q": "Gebruik bron 2.\nBereken de winststijging per jaar in euro’s voor Roy Bos na de grondstofprijswijziging en de inhoudswijziging. Doe het als volgt: - Bereken het effect van de grondstofprijswijziging op de gemiddelde totale kosten per doos (GTK). - Bereken het effect van de inhoudswijziging op de gemiddelde totale kosten per doos (GTK). - Bereken de nieuwe afzet (Q) en vervolgens de verandering in de totale winst (TW).\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nBereken de winststijging per jaar in euro’s voor Roy Bos na de grondstofprijswijziging en de inhoudswijziging. Doe het als volgt: - Bereken het effect van de grondstofprijswijziging op de gemiddelde totale kosten per doos (GTK). - Bereken het effect van de inhoudswijziging op de gemiddelde totale kosten per doos (GTK). - Bereken de nieuwe afzet (Q) en vervolgens de verandering in de totale winst (TW).",
 "model": "Een voorbeeld van een juiste berekening is:\n• Het effect van de grondstofprijsstijging op de GTK van een doos is:\nGTK(oude doos, oude grondstofprijs) = 0,30+0,08+0,12+0,10+0,06 =\n€ 0,66\nGTK(oude doos, nieuwe grondstofprijs) =\n0,30+0,08+0,12+0,10x1,1+0,06\n= € 0,67 1\n• Het effect van een vermindering van het aantal theezakjes per doos op\nde GTK van een doos is:\nGTK(nieuwe doos, nieuwe grondstofprijs) = 1920 x € 0,67 = € 0,6365 (1p)\n• Qoud = 1.500.000 dozen Qnieuw = 1.500.000 x 20 / 19 = 1.578.947 dozen (1p)\n• (P=Poud=Pnieuw = € 1,20; GWoud = € 0,54) TWoud = Qoud x GWoud = 1.500.000 x € 0,54 = € 810.000 TWnieuw = Qnieuw x GWnieuw = Qnieuw x (P - GTKnieuw) = 1.578.947 x (€ 1,20 - € 0,6365) = 1.578.947 x € 0,5635 = € 889.737 Winststijging = TWnieuw - TWoud = € 79.737 (1p)",
 "pnt": 4
 },
@@ -6532,7 +6532,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "De enige concurrent van Roy Bos, theeproducent Celine Stevens, wordt ook geconfronteerd met een stijging van de inkoopkosten van de grondstof thee. Beide producenten staan voor de keuze om de verkoopprijs te verhogen óf de inhoud van een doos theezakjes te verminderen. De collectieve afzet van theezakjes blijft gelijk, en beide producenten streven naar maximale winst. De keuzes van beide producenten leiden tot een winststijging, zoals blijkt uit de pay-off-matrix (zie bron 3). Celine Stevens zegt hierover: “Er is geen sprake van een gevangenendilemma, en daarom kan ik het beste de inhoud van een doos thee verlagen.”",
-"q": "Gebruik bron 3.\nBepaal of de uitspraak van Celine Stevens juist is.\nDoe het als volgt: - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nBepaal of de uitspraak van Celine Stevens juist is.\nDoe het als volgt: - Leg uit hoe de dominante strategie van elk van de twee partijen tot stand komt. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.",
 "model": "Een voorbeeld van een juiste verklaring is:\n• De dominante strategie van Roy Bos is de inhoud verminderen, want als Celine Stevens de verkoopprijs verhoogt, dan kiest Roy Bos voor inhoud verminderen, want een winststijging van 6% > 2%, en als Celine Stevens de inhoud vermindert, dan kiest Roy Bos voor inhoud verminderen, want een winststijging van 4% > 1%. De dominante strategie van Celine Stevens is de inhoud verminderen, want als Roy Bos de verkoopprijs verhoogt, dan kiest Celine Stevens voor inhoud verminderen, want een winststijging van 6% > 2%, en als Roy Bos de inhoud vermindert, dan kiest Celine Stevens voor inhoud verminderen, want een winststijging van 4% > 1% (1p)\n• Aangezien er geen andere uitkomst is waarbij beide partijen een hogere opbrengst hebben, is er geen sprake van een gevangenendilemma (1p)",
 "pnt": 2
 },
@@ -6564,7 +6564,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "Sister is wereldwijd een van de grotere fabrikanten van printers en inktpatronen met een omzet van meer dan 4 miljard euro.",
-"q": "Gebruik het tijdschriftbericht en bron 1.\nBereken de omzet van Sister-inktpatronen in Europa in 2021.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het tijdschriftbericht en bron 1.\nBereken de omzet van Sister-inktpatronen in Europa in 2021.",
 "model": "Een voorbeeld van een juiste berekening is:\n• De totale omzet van inktpatronen in 2021 is 5% hoger dan in 2018: € 9.300.000.000 × 1,05 = € 9.765.000.000 (1p)\n• De omzet van inktpatronen van Sister in Europa in 2021 is € 9.765.000.000 × 0,15 = € 1.464.750.000 (1p)",
 "pnt": 2
 },
@@ -6596,7 +6596,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Inktmarkt.nl is aanbieder van kloon-patronen. De marketingdirecteur legt uit waarom de kloon-patronen van Inktmarkt.nl zo populair zijn: “Wij leveren dezelfde kwaliteit inkt tegen minder dan 50% van de prijs van de originele patronen.” Sister, met een jaaromzet van 65 miljoen euro op de Nederlandse markt, heeft plannen om de internetwinkel Inktmarkt.nl met een jaaromzet van 20 miljoen euro over te nemen. Inktmarkt.nl verkoopt alleen in Nederland. In bepaalde gevallen moeten overnames verplicht worden aangemeld bij de mededingingsautoriteit.",
-"q": "Gebruik bron 2 en overige informatie uit deze opgave.\nWaren de bedrijven verplicht de overname te melden bij de mededingingsautoriteit? Leg je antwoord uit aan de hand van de twee voorwaarden die in bron 2 zijn vermeld.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2 en overige informatie uit deze opgave.\nWaren de bedrijven verplicht de overname te melden bij de mededingingsautoriteit? Leg je antwoord uit aan de hand van de twee voorwaarden die in bron 2 zijn vermeld.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Aan voorwaarde 1 is voldaan, want Sister heeft wereldwijd een omzet van meer dan 4 miljard euro / want Sister heeft alleen in Europa al een omzet van meer dan 1 miljard euro (en dit is ook zonder de overname al meer dan € 113.450.000) (1p)\n• Aan voorwaarde 2 is niet voldaan, want (een van de twee ondernemingen, namelijk ) ‘Inktmarkt.nl’ heeft een jaaromzet (van 20 miljoen euro) die lager is dan 30 miljoen euro (voorwaarde 2) (1p)\n• Omdat slechts een van de twee voorwaarden van toepassing is / omdat de voorwaarden niet allebei van toepassing zijn, hoeven de bedrijven de overname niet te melden bij de mededingingsautoriteit (1p)\nOpmerking: Een juiste uitleg van de beide voorwaarden is vereist voor toekenning van het derde scorepunt.",
 "pnt": 3
 },
@@ -6726,7 +6726,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "Of zzp’ers een individuele aov afsluiten hangt sterk af van het inkomen (zie bron 1).",
-"q": "Gebruik bron 1.\nToon met een berekening aan dat meer dan 40% van de zzp’ers geen aov heeft.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat meer dan 40% van de zzp’ers geen aov heeft.",
 "model": "Een voorbeeld van een juiste berekening is: Het percentage zzp’ers zonder aov is het (ongewogen) gemiddelde percentage zzp’ers zonder aov over alle klassen = (64,8 + 53,0 + 45,8 + 34,8 + 23,0) / 5 = 44,3% (meer dan 40%).",
 "pnt": 1
 },
@@ -6742,7 +6742,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Of zzp’ers een individuele aov afsluiten hangt sterk af van het inkomen (zie bron 1).",
-"q": "Gebruik bron 1.\nLeg met behulp van bron 1 uit dat arbeidsongeschiktheid kan leiden tot denivellering van secundaire inkomens tussen zzp’ers.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg met behulp van bron 1 uit dat arbeidsongeschiktheid kan leiden tot denivellering van secundaire inkomens tussen zzp’ers.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Lagere inkomensgroepen (binnen de groep zzp’ers) hebben relatief vaak geen individuele aov (zie bron 1), dus bij arbeidsongeschiktheid zullen zij hun inkomen (sterk) zien dalen (1p)\n• Hogere inkomensgroepen (binnen de groep zzp’ers) hebben relatief vaak een individuele aov (zie bron 1), dus bij arbeidsongeschiktheid zullen zij hun inkomen (grotendeels) behouden. Hierdoor worden de inkomensverschillen groter (= denivellering) (1p)",
 "pnt": 2
 },
@@ -6774,7 +6774,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Zzp’ers willen niet alleen het risico op inkomensverlies bij langdurige arbeidsongeschiktheid afdekken, maar ook het risico op inkomensverlies bij kortdurende ziekte. Zzp’ers kunnen hiervoor: - een inkomensverzekering afsluiten of - met een groep mensen uit hun netwerk een zogenoemd broodfonds oprichten (zie bron 2). Bij een broodfonds is er volgens de deelnemers geen sprake van asymmetrische informatie, en het risico op averechtse selectie en moral hazard is heel klein.",
-"q": "Gebruik bron 2.\nLeg uit waarom er bij het broodfonds geen sprake is van asymmetrische informatie, en dat het risico op averechtse selectie en moral hazard heel klein is.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLeg uit waarom er bij het broodfonds geen sprake is van asymmetrische informatie, en dat het risico op averechtse selectie en moral hazard heel klein is.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Doordat de deelnemers aan een broodfonds elkaar kennen is er geen sprake van asymmetrische informatie tussen de leden, en (1p)\n• zullen deelnemers elkaars risico kennen (en zal er een sociale norm zijn om elkaar te helpen ongeacht het risico), waardoor averechtse selectie geen (grote) rol speelt, en (1p)\n• er is geen/weinig sprake van moral hazard, omdat deelnemers niet hun gezondheid op het spel zetten als gevolg van (bewust) roekeloos gedrag na deelname aan het broodfonds (1p)",
 "pnt": 3
 },
@@ -6790,7 +6790,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 6,
 "ctx": "Eén van de deelnemers aan broodfonds ‘Brood op de Plank’ heeft zijn deelname opgezegd. De overige deelnemers hebben zzp’er Nelleke uitgenodigd om deel te nemen aan het broodfonds Brood op de Plank (zie bron 2). Ze overweegt of ze de uitnodiging aan zal nemen. Nelleke rekent erop dat de komende twee jaar gemiddeld 4% van de 50 deelnemers aan het broodfonds schenkingen krijgt van het broodfonds in verband met ziekte. Ze neemt aan dat ze na twee jaar uit het broodfonds stapt, en wil weten hoeveel zij dan per saldo heeft betaald als ze zelf gezond is gebleven.",
-"q": "Gebruik bron 2.\nBereken het bedrag dat Nelleke over een periode van twee jaar per saldo moet betalen bij deelname aan het broodfonds.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nBereken het bedrag dat Nelleke over een periode van twee jaar per saldo moet betalen bij deelname aan het broodfonds.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Totale kosten: 24 maanden x (€ 10 maandelijkse contributie + € 112,50 maandelijkse inleg) + € 225 (inschrijfkosten) = € 3.165 (1p)\n• 4% van de deelnemers wordt ziek waardoor in totaal uit de pot wordt gehaald: (0,04 x 50 x € 2.500 x 24) = € 120.000. Dit is een bijdrage van € 120.000 / 50 = € 2.400 per persoon (1p)\n• De totale inleg is € 112,50 x 24 = € 2.700; De restitutie is € 2.700 – € 2.400 = € 300 Per saldo betaalt Nelleke € 3.165 – € 300 = € 2.865 (1p)\nOpmerking De voorwaarde van inleggen totdat de buffer van 36 keer de maandelijkse inleg bereikt is, speelt bij deze berekening geen rol, want die buffer is na 24 keer inleggen nog niet bereikt.",
 "pnt": 3
 },
@@ -6838,7 +6838,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "De Vereniging Chinese-Aziatische Horeca Ondernemers (VCHO) onderzoekt de arbeidsmarkt van specialiteitenkoks voor Aziatische restaurants met behulp van een model (zie bron 1) om een aantal mogelijke oplossingen te analyseren.",
-"q": "Gebruik bron 1.\nBereken het evenwichtsloon op de markt van specialiteitenkoks voor Aziatische restaurants na de toegenomen vraag.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken het evenwichtsloon op de markt van specialiteitenkoks voor Aziatische restaurants na de toegenomen vraag.",
 "model": "Een voorbeeld van een juiste berekening is: Na de toegenomen vraag is de vraag gelijk aan het aanbod Qa0 = 10.500 specialiteitenkoks Qv1 = –1,2L + 44.640 = 10.500 L = € 28.450",
 "pnt": 1
 },
@@ -6854,7 +6854,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "De Nederlandse regering en de VCHO sluiten uiteindelijk het zogenoemde Wokakkoord om het vraagoverschot naar specialiteitenkoks te verminderen. In dit Wokakkoord is bepaald dat maximaal 900 nieuwe specialiteitenkoks mogen overkomen uit Azië om in Nederlandse Aziatische restaurants te komen werken. De voorwaarden voor werkvergunningen zijn voor deze koks versoepeld. Een woordvoerder van de VCHO stelt: “We zijn blij met het overeengekomen quotum, maar het is niet voldoende om het tekort aan specialiteitenkoks volledig weg te werken.”",
-"q": "Gebruik bron 1.\nBereken met hoeveel specialiteitenkoks het quotum van 900 koks moet worden verhoogd om het tekort aan koks volledig op te heffen bij een loon van € 25.000.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken met hoeveel specialiteitenkoks het quotum van 900 koks moet worden verhoogd om het tekort aan koks volledig op te heffen bij een loon van € 25.000.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Qv1 = Qa (bij het loon van € 25.000) Qv1 = –1,2 x 25.000 + 44.640 = 14.640 specialiteitenkoks (1p)\n• Het arbeidsaanbod inclusief quotum is 10.500 + 900 = 11.400 specialiteitenkoks Het quotum zou verhoogd moeten worden met 14.640 – 11.400 = 3.240 specialiteitenkoks (1p)",
 "pnt": 2
 },
@@ -6886,7 +6886,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "Ook de sterke economische groei in Azië zorgt ervoor dat niet aan de totale vraag naar specialiteitenkoks in Nederland kan worden voldaan.",
-"q": "Gebruik bron 1.\nMaak van onderstaande zinnen een economisch juiste redenering.\n\nDe sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië …(1)…. In de grafiek van bron 1 verschuift daardoor de …(2)… naar …(3)…. Dit leidt tot een …(4)… van het totale surplus op deze markt. Kies uit: bij (1) daalt / stijgt bij (2) aanbodlijn / vraaglijn bij (3) links / rechts bij (4) afname / toename\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nMaak van onderstaande zinnen een economisch juiste redenering.\n\nDe sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië …(1)…. In de grafiek van bron 1 verschuift daardoor de …(2)… naar …(3)…. Dit leidt tot een …(4)… van het totale surplus op deze markt. Kies uit: bij (1) daalt / stijgt bij (2) aanbodlijn / vraaglijn bij (3) links / rechts bij (4) afname / toename",
 "model": "(1) stijgt (2) aanbodlijn (3) links (4) afname\nindien vier antwoorden juist 2 indien drie antwoorden juist 1 indien minder dan drie antwoorden juist 0",
 "pnt": 2
 },
@@ -6982,7 +6982,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 13,
 "ctx": "Uit een krant, december 2022: Als een werknemer zijn auto van de zaak ook privé gebruikt, wordt dat door de belastingdienst gezien als extra inkomen uit arbeid. Daarom moet een bepaald percentage van de aanschafwaarde van de auto jaarlijks bij het bruto jaarinkomen worden opgeteld, waardoor het belastbaar inkomen stijgt: de zogenoemde fiscale bijtelling. De overheid van een land houdt zich aan het klimaatakkoord. Daarom zal vanaf 1 januari 2023 deze fiscale bijtelling afhankelijk worden van de CO2- uitstoot van de auto en het type brandstof dat de auto verbruikt. Volgens de overheid heeft deze nieuwe regeling ook een gunstig effect op de technologische vooruitgang en daarmee op de structurele groei van de economie.",
-"q": "Gebruik bron 1.\nLeg uit dat de nieuwe regeling van fiscale bijtelling de negatieve externe effecten van het autorijden kan terugdringen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat de nieuwe regeling van fiscale bijtelling de negatieve externe effecten van het autorijden kan terugdringen.",
 "model": "Een voorbeeld van een juist antwoord is:\n• CO2-uitstoot is een negatief extern effect van autorijden, omdat de vervuiling niet tot uitdrukking komt in de prijs van autorijden (en dat leidt tot maatschappelijke kosten) (1p)\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO2-uitstoot. De CO2-uitstoot zal afnemen, omdat de werknemer (via het prijsmechanisme) wordt gestimuleerd om een auto met minder CO2-uitstoot te kiezen (1p)\nof\n• Doordat de fiscale bijtelling uitstootafhankelijk wordt (zie bron 1) zal de vervuiler meer gaan betalen voor meer CO2-uitstoot. Hierdoor wordt de vervuiling (als gevolg van CO2-uitstoot) geïnternaliseerd en is er sprake van minder negatieve externe effecten (2p)",
 "pnt": 2
 },
@@ -7014,7 +7014,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Meryem krijgt van haar werkgever de beschikking over een auto van de zaak per 1 januari 2023. De werkgever geeft haar een lijst met auto’s waaruit zij mag kiezen (zie bron 2). Zij gaat deze auto ook privé gebruiken. Meryem kiest de auto met de laagste fiscale bijtelling. Ze is benieuwd hoeveel extra belasting ze moet betalen in 2023. Meryem heeft een bruto-inkomen van € 35.000. Aftrekposten en overige fiscale bijtellingen heeft ze niet.",
-"q": "Gebruik bron 1, 2 en 3.\nBereken hoeveel belasting Meryem in 2023 extra moet betalen als gevolg van de door haar gekozen auto van de zaak.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1, 2 en 3.\nBereken hoeveel belasting Meryem in 2023 extra moet betalen als gevolg van de door haar gekozen auto van de zaak.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Ze kiest voor Hyundai (vanwege de laagste aanschafwaarde en de laagste bijtelling. Daarmee heeft ze een bijtelling van 14% van de aanschafwaarde) Bijtelling: 14% van € 14.065 = € 1.969,10 (1p)\n• Ook met de bijtelling valt haar inkomen in schijf 1: 37,1% van € 1.969,10 = € 730,54 (1p)\nOpmerkingen - Een andere manier van afronden ook goed rekenen. - Als er is gekozen voor een andere auto maximaal 1 scorepunt toekennen.",
 "pnt": 2
 },
@@ -7078,7 +7078,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "De beroepsbevolking in Europa vergrijst. De groep werkenden tussen 55 jaar en de pensioengerechtigde leeftijd groeit relatief snel ten opzichte van de groep werkenden tussen het begin van hun loopbaan en 55 jaar. Hierdoor stijgt het aandeel van 55-plussers in de beroepsbevolking. Een econoom stelt: “Ook door deze vergrijzing van de beroepsbevolking in Europa is de rente relatief laag.”",
-"q": "Gebruik bron 1.\nLeg de stelling van de econoom uit met behulp van bron 1.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg de stelling van de econoom uit met behulp van bron 1.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Uit de figuur in bron 1 blijkt dat het vermogen van 55-plussers gemiddeld groter is dan dat van mensen onder de 55 jaar, en (1p)\n• omdat het aandeel 55-plussers (relatief) hoog is, zal het totale vermogen (relatief) hoog zijn. Hierdoor is het aanbod op de vermogensmarkt (ten opzichte van de vraag relatief) hoog, waardoor de rente (relatief) laag is (1p)",
 "pnt": 2
 },
@@ -7126,7 +7126,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "Het gevecht om marktaandeel kan opgevat worden als een simultaan spel.",
-"q": "Gebruik bron 1.\nLeg uit dat beide landen zich in een gevangenendilemma bevinden.\nDoe het als volgt: - Leg uit of beide landen een dominante strategie hebben. - Beredeneer vervolgens dat er sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat beide landen zich in een gevangenendilemma bevinden.\nDoe het als volgt: - Leg uit of beide landen een dominante strategie hebben. - Beredeneer vervolgens dat er sprake is van een gevangenendilemma.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie voor Rusland is hoger aanbod handhaven, want ongeacht wat Saoedi-Arabië kiest, de omzetverandering is het minst negatief / het meest positief als Rusland kiest voor hoger aanbod handhaven (↓ > ↓↓ en ↑↑ > ↑). De dominante strategie voor Saoedi-Arabië is hoger aanbod handhaven, want ongeacht wat Rusland doet, de omzetverandering is het minst negatief / het meest positief als Saoedi-Arabië kiest voor hoger aanbod handhaven (↓ > ↓↓ en ↑↑ > ↑) (1p)\n• Het resultaat dat tot stand komt (handhaven, handhaven) is suboptimaal voor beide landen, want beider individuele resultaten zouden beter zijn als beide landen kiezen voor verlagen van het aanbod (en dus er is sprake van een gevangenendilemma) (1p)",
 "pnt": 2
 },
@@ -7142,7 +7142,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Het gevecht om marktaandeel kan opgevat worden als een simultaan spel.",
-"q": "Gebruik bron 1.\nVerklaar de uitkomst in de cel rechtsonder in de tabel. Betrek in je antwoord de prijselasticiteit van de vraag.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nVerklaar de uitkomst in de cel rechtsonder in de tabel. Betrek in je antwoord de prijselasticiteit van de vraag.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De cel rechtsonder geeft weer dat beide landen hebben besloten om het aanbod te verlagen. Hierdoor zal de prijs van ruwe olie stijgen (1p)\n• Uit de gegevens blijkt dat (voor beide landen) de omzet is toegenomen (↑ ; ↑) bij de gestegen prijs. Dit betekent dat er sprake is van een prijsinelastische vraag naar ruwe olie (1p)",
 "pnt": 2
 },
@@ -7158,7 +7158,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "De dalende olieprijzen waren aanleiding voor Saoedi-Arabië en Rusland om met elkaar in overleg te gaan. De Saoedische minister van Energie stelde: “We bevinden ons in een gevangenendilemma. Daarom stel ik voor dat we afspraken maken over de maximale hoeveelheid olie die we aanbieden om zo de prijzen te verhogen.” De Russische minister van Energie reageerde op zijn Saoedische collega: “Laten we wachten met afspraken maken tot de VS hebben gereageerd op de prijsdaling. Als de VS de huidige productie handhaven, kunnen zij bij een prijsdaling van 30% naar US$ 30 per vat niet winstgevend produceren, terwijl zij dat bij de oude prijs wel konden. Ik verwacht dat de VS de oliemarkt zullen verlaten, zodat de concurrentie op lange termijn wordt beperkt.”",
-"q": "Gebruik bron 2.\nToon met een berekening aan dat de VS bij de nieuwe prijs niet winstgevend kunnen produceren, terwijl zij dat bij de oude prijs wel konden.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nToon met een berekening aan dat de VS bij de nieuwe prijs niet winstgevend kunnen produceren, terwijl zij dat bij de oude prijs wel konden.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Bij aflezing van bron 2 zijn de gemiddelde totale kosten voor de VS ongeveer US$ 36 (21,5 + 9,4 + 5,5 = US$ 36,4), dat is meer dan de marktprijs van US$ 30 en de productie is dan niet kostendekkend (1p)\n• (De nieuwe prijs is 70% van de oude prijs, dus) de oude marktprijs was\n30 0,7 = US$ 42,86, dat is meer dan US$ 36,4 en de productie was toen wel kostendekkend (en er werd wel winst gemaakt) (1p)",
 "pnt": 2
 },
@@ -7174,7 +7174,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "De dalende olieprijzen waren aanleiding voor Saoedi-Arabië en Rusland om met elkaar in overleg te gaan. De Saoedische minister van Energie stelde: “We bevinden ons in een gevangenendilemma. Daarom stel ik voor dat we afspraken maken over de maximale hoeveelheid olie die we aanbieden om zo de prijzen te verhogen.” De Russische minister van Energie reageerde op zijn Saoedische collega: “Laten we wachten met afspraken maken tot de VS hebben gereageerd op de prijsdaling. Als de VS de huidige productie handhaven, kunnen zij bij een prijsdaling van 30% naar US$ 30 per vat niet winstgevend produceren, terwijl zij dat bij de oude prijs wel konden. Ik verwacht dat de VS de oliemarkt zullen verlaten, zodat de concurrentie op lange termijn wordt beperkt.”",
-"q": "Gebruik bron 2.\nZal de VS op korte termijn de olieproductie stoppen en de oliemarkt verlaten? Verklaar je antwoord.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nZal de VS op korte termijn de olieproductie stoppen en de oliemarkt verlaten? Verklaar je antwoord.",
 "model": "Nee Een voorbeeld van een juist antwoord is:\n• Omdat de prijs hoger is dan de gemiddelde variabele kosten (en omdat de constante kosten op korte termijn doorlopen) (1p)\n• zal de VS (niet stoppen maar) blijven produceren met als doel om het verlies te minimaliseren / is het verlies bij blijven produceren lager dan het verlies bij stoppen (1p)",
 "pnt": 2
 },
@@ -7279,7 +7279,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 29,
 "ctx": "Tot aan 2008 streefde de NS naar minimaal totaal verlies.",
-"q": "Gebruik bron 1.\nLeg uit waarom de marginale kosten gelijk zijn aan de gemiddelde variabele kosten.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit waarom de marginale kosten gelijk zijn aan de gemiddelde variabele kosten.",
 "model": "Een voorbeeld van een juist antwoord is: De gemiddelde variabele kosten zijn constant / De variabele kosten zijn proportioneel variabel, wat betekent dat ieder extra product telkens dezelfde hoeveelheid extra kosten met zich meebrengt (en dus geldt dat MK=GVK).",
 "pnt": 1
 },
@@ -7295,7 +7295,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 30,
 "ctx": "Tot aan 2008 streefde de NS naar minimaal totaal verlies.",
-"q": "Gebruik bron 1.\nLeg met behulp van bron 1 uit bij welke prijs er sprake is van een minimaal totaal verlies.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg met behulp van bron 1 uit bij welke prijs er sprake is van een minimaal totaal verlies.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Het minimale verlies wordt (hetzelfde als de doelstelling maximale winst) bereikt bij de hoeveelheid Q waarbij MO = MK. Het snijpunt ligt bij Q = 2.000 miljoen km (1p)\n• In de grafiek is (bij Q = 2.000) te zien dat P = GO = € 0,40 per km (De gemiddelde opbrengsten per km zijn lager dan de gemiddelde kosten per km, waardoor er verlies geleden wordt) (1p)\nAanvulling: bij vraag 30 moet bij de eerste deelscore het antwoord • Het minimale verlies wordt (hetzelfde als de doelstelling maximale winst) bereikt bij de hoeveelheid Q waarbij MO = MK. Het snijpunt ligt bij Q = 2.000 miljoen km 1 vervangen worden door: • Het minimale verlies wordt (hetzelfde als de doelstelling maximale winst) bereikt bij de hoeveelheid Q waarbij MO = MK. (Het snijpunt ligt bij Q = 2.000 miljoen km) 1.",
 "pnt": 2
 },
@@ -7343,7 +7343,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "Met een verhoging van de energiebelasting op gasverbruik kan de overheid gezinnen en bedrijven stimuleren om minder gas te verbruiken en te kiezen voor alternatieve energiebronnen. Het effect ervan is afhankelijk van de prijselasticiteit van de vraag naar gas. Voor een gemiddeld gezinshuishouden is de prijselasticiteit van de vraag naar gas −0,1. Het jaarlijkse gasverbruik is gemiddeld 1.466 m3 per gezinshuishouden. De overheid stelt zich ten doel het gasverbruik in kubieke meter (m3) van een gemiddeld gezinshuishouden te verminderen met 5% en wil daartoe de huidige energiebelasting op gas met 75% verhogen.",
-"q": "Gebruik bron 1 en bovenstaande tekst.\nBereken of een verhoging van de huidige energiebelasting met 75% voldoende is om de doelstelling van de overheid te halen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bovenstaande tekst.\nBereken of een verhoging van de huidige energiebelasting met 75% voldoende is om de doelstelling van de overheid te halen.",
 "model": "Een voorbeeld van een juist antwoord is: De verhoging van 75% is niet voldoende om de doelstelling te behalen:\n• Nieuwe energiebelasting = 1,75 x oude energiebelasting = 1,75 x € 0,346 = € 0,606\nlevering en transport gas € 0,452\nnieuwe energiebelasting € 0,606\nnieuwe tarief exclusief btw € 1,058\nbtw 21% over € 1,058 € 0,222\nnieuw gastarief inclusief btw € 1,280 (1p)\n• de gasprijs stijgt met (nieuw tarief oud tarief oud tarief) 100% 1,280 0,96\n– x = € € – € 6 0,966 x 100% = 32,5% (1p)\n• De prijselasticiteit is -0,1 dus de vraag naar gas daalt met 0,1 x procentuele prijsstijging van het gas = 0,1 x 32,5% = 3,3% en dit is minder dan de doelstelling van 5% (1p)",
 "pnt": 3
 },
@@ -7503,7 +7503,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "Iedereen in Nederland die inkomstenbelasting moet betalen, heeft recht op één of meer heffingskortingen. Naast de algemene heffingskorting hebben belastingplichtigen die betaald werk verrichten ook recht op een arbeidskorting. Tussen 2014 en 2017 heeft de regering de hoogte van beide heffingskortingen inkomensafhankelijker gemaakt (zie bron 1). Dit heeft effect op de arbeidsmarkt. De regering stelt: “De aanpassing van de arbeidskorting voor inkomens tot en met € 80.000 kan ertoe leiden dat meer mensen zich zullen aanbieden op de arbeidsmarkt.”",
-"q": "Gebruik bron 1.\nLeg de stelling van de regering uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg de stelling van de regering uit.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Uit bron 1 blijkt dat de arbeidskorting door de jaren heen hoger is geworden (voor inkomens tot en met € 80.000 als gevolg van de toegenomen inkomensafhankelijkheid) waardoor het netto-inkomen uit arbeid (voor deze inkomens) stijgt (1p)\n• Daardoor wordt werken/participeren op de arbeidsmarkt aantrekkelijker, en neemt het arbeidsaanbod toe (aanzuigeffect) (1p)",
 "pnt": 2
 },
@@ -7519,7 +7519,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 14,
 "ctx": "Onderstaand oorzaak-gevolg schema toont de invloed van de verhoogde arbeidskorting (bij inkomens tot en met € 80.000) op de arbeidsvraag.",
-"q": "Gebruik bron 1.\nLeg uit of het gemiddelde belastingtarief van een werknemer met een inkomen van € 20.000 hoger of lager wordt na de belastingwijziging.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit of het gemiddelde belastingtarief van een werknemer met een inkomen van € 20.000 hoger of lager wordt na de belastingwijziging.",
 "model": "Een antwoord waaruit blijkt dat\n• door de verhoging van de heffingskortingen de te betalen inkomstenbelasting bij een inkomen van € 20.000 afneemt, (1p)\n• en dat het gemiddelde belastingtarief door die afname van te betalen inkomstenbelasting daalt (want gemiddeld belastingtarief is belastingbedrag gedeeld door het bruto-inkomen) (1p)",
 "pnt": 2
 },
@@ -7535,7 +7535,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Belastingheffing kan een nivellerend effect hebben op de inkomensverdeling. Een belastbaar inkomen van € 120.000 is zes keer zo hoog als een belastbaar inkomen van € 20.000 (zie bron 1 en bron 2). Een werknemer met een belastbaar inkomen van € 120.000 had in 2013 een netto-inkomen van € 66.744. Een werknemer met een belastbaar inkomen van € 20.000 had in 2013 een netto-inkomen van € 16.317. Daarmee was het netto-inkomen van het hogere inkomen 4,1 keer zo hoog als het netto-inkomen van het lagere inkomen. Door de belastingwijziging is er in 2014 sprake van een toegenomen nivellering voor de belastbare inkomens € 120.000 en € 20.000.",
-"q": "Gebruik bron 1 en bron 2.\nToon met een berekening aan dat er door de belastingwijziging in 2014 sprake is van toegenomen nivellering voor de inkomens € 120.000 en € 20.000.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bron 2.\nToon met een berekening aan dat er door de belastingwijziging in 2014 sprake is van toegenomen nivellering voor de inkomens € 120.000 en € 20.000.",
 "model": "Een voorbeeld van een juiste berekening is:\n• 2014:\nlaag (in €) hoog (in €) belastbaar inkomen 20.000 120.000 af: inkomstenbelasting vóór heffingskortingen – 7.270 – 55.616 bij: algemene heffingskorting + 2.093 + 1.362 bij: arbeidskorting + 2.097 + 367 netto-inkomen 16.920 66.113 (1p)\n• Daarmee was het netto-inkomen van de hoogste inkomens 66.113/16.920 = 3,9 keer zo hoog als het netto-inkomen van de laagste inkomens. De ratio is kleiner geworden (van 4,1 naar 3,9, dus is er sprake van toegenomen nivellering) (1p)",
 "pnt": 2
 },
@@ -7551,7 +7551,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Het Centraal Planbureau (CPB) voorspelde dat in 2014 en volgende jaren de Nederlandse economie zal groeien. Stel dat deze voorspelling uit is gekomen en dat in 2017 de Nederlandse economie in de fase van hoogconjunctuur verkeerde.",
-"q": "Gebruik bron 3.\nHad de aanpassing van de beide heffingskortingen een procyclisch of anticyclisch effect op de conjuncturele ontwikkeling van Nederland in het jaar 2017? Leg je keuze uit met een berekening.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 3.\nHad de aanpassing van de beide heffingskortingen een procyclisch of anticyclisch effect op de conjuncturele ontwikkeling van Nederland in het jaar 2017? Leg je keuze uit met een berekening.",
 "model": "procyclisch Een voorbeeld van een juist antwoord is:\n• In 2017 verkeert Nederland in een hoogconjunctuur. Door dit belastingplan wordt er in 2017 –5.162+363–2.481+3.601= –3.679 miljoen euro minder belasting betaald (ten opzichte van 2016) (1p)\n• Dit heeft een positief effect op de bestedingen waardoor de hoogconjunctuur wordt versterkt, en dit betekent dat er een procyclisch effect is (1p)",
 "pnt": 2
 },
@@ -7567,7 +7567,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "De prijs van medicijnen op de Amerikaanse markt is onderwerp van discussie. Zijn de prijzen zo hoog omdat medicijnfabrikanten hoge kosten hebben of omdat ze hoge winsten willen maken? Het Amerikaanse bedrijf Fluid heeft recent de prijs van een flesje van zijn antibioticum Antibio sterk verhoogd. Nadat Fluid een aantal andere bedrijven met patenten voor andere antibiotica heeft opgekocht, ontstond een monopolie voor het medicijn Antibio. Hierdoor ontstond een nieuwe prijsafzetfunctie voor Antibio (zie bron 1). Fluid streeft bij het aanbod van Antibio naar maximale totale winst.",
-"q": "Gebruik bron 1.\nBepaal de prijs die Fluid zal vragen voor één doosje Antibio. Bepaal daartoe eerst de afzet van Antibio.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBepaal de prijs die Fluid zal vragen voor één doosje Antibio. Bepaal daartoe eerst de afzet van Antibio.",
 "model": "• MO=MK bij Q= 350 (x 1.000 doosjes) (1p)\n• (Bij Q= 350.000 is GO= $ 2.250,) Fluid moet dus $ 2.250 vragen per doosje (1p)\nOpmerking Een correcte toepassing van MO=MK (eerste deelscore) is voorwaardelijk voor toekenning van de tweede scorepunt.",
 "pnt": 2
 },
@@ -7583,7 +7583,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 18,
 "ctx": "De prijs van medicijnen op de Amerikaanse markt is onderwerp van discussie. Zijn de prijzen zo hoog omdat medicijnfabrikanten hoge kosten hebben of omdat ze hoge winsten willen maken? Het Amerikaanse bedrijf Fluid heeft recent de prijs van een flesje van zijn antibioticum Antibio sterk verhoogd. Nadat Fluid een aantal andere bedrijven met patenten voor andere antibiotica heeft opgekocht, ontstond een monopolie voor het medicijn Antibio. Hierdoor ontstond een nieuwe prijsafzetfunctie voor Antibio (zie bron 1). Fluid streeft bij het aanbod van Antibio naar maximale totale winst.",
-"q": "Gebruik bron 1.\nBereken de maximale totale winst die Fluid maakt met Antibio.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken de maximale totale winst die Fluid maakt met Antibio.",
 "model": "Een voorbeeld van een juiste berekening is:\n• (Bij Q= 350.000 is GO= $ 2.250, bij Q= 350.000 is) GTK= $ 1.750 (1p)\n• TW= TO–TK= (GO-GTK) x Q= ($ 2.250 – $ 1.750) x 350.000= $ 175.000.000 (1p)\nOpmerking Als bij de berekening de duizendtallen ontbreken (TW= $ 175.000) dan maximaal een scorepunt toekennen.",
 "pnt": 2
 },
@@ -7703,7 +7703,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Een toenemend aantal bedrijven wordt getroffen door computerincidenten die voor veel schade zorgen. Los van technische storingen kan er sprake zijn van cybercriminaliteit als bijvoorbeeld het netwerk van een bedrijf wordt gehackt. Twee bedrijven, ABC en XYZ, zijn groothandels in specialistische gereedschappen en zijn elkaars grootste concurrent. Stel dat beide bedrijven tegelijk door cybercriminelen worden gehackt. De hackers hebben alle klantgegevens gestolen, en zullen de klantgegevens pas weer teruggeven als er losgeld is betaald. ABC en XYZ maken een afweging. Als ze losgeld betalen hebben ze onmiddellijk weer toegang tot de klantgegevens. Als ze geen losgeld betalen, dat moeten ze een gespecialiseerd IT-bedrijf inhuren. Dat IT-bedrijf heeft enkele weken nodig om de klantgegevens weer terug te halen. De bedrijven hebben de klantgegevens voortdurend nodig, om omzet en vertrouwen van klanten te behouden. In bron 1 staat een matrix waarin de gevolgen voor beide bedrijven wordt weergegeven.",
-"q": "Gebruik bron 1.\nToon aan de hand van bron 1 aan dat beide bedrijven in een gevangenendilemma terecht komen. Ga als volgt te werk: - Leg uit hoe de dominante strategie van beide bedrijven tot stand komt.\nNoem daarbij de relevante getallen uit de matrix. - Leg uit dat er sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon aan de hand van bron 1 aan dat beide bedrijven in een gevangenendilemma terecht komen. Ga als volgt te werk: - Leg uit hoe de dominante strategie van beide bedrijven tot stand komt.\nNoem daarbij de relevante getallen uit de matrix. - Leg uit dat er sprake is van een gevangenendilemma.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van bedrijf ABC is wel losgeld betalen, want als bedrijf XYZ wel losgeld betaalt is –5 > –6 en als bedrijf XYZ geen losgeld betaalt is –2 > –4; De dominante strategie van bedrijf XYZ is wel losgeld betalen, want als bedrijf ABC wel losgeld betaalt is –4 > –5 en als bedrijf ABC geen losgeld betaalt is –2 > –3 (1p)\n• De evenwichtssituatie: beide bedrijven betalen losgeld (–5; –4). Dit is een suboptimaal resultaat aangezien de uitkomst waarbij beide bedrijven geen losgeld betalen voor elk van beide bedrijven een beter resultaat oplevert, –4; –3 (1p)",
 "pnt": 2
 },
@@ -7847,7 +7847,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "Els Middelkoop is medewerker van een supermarkt. Ze leest in de krant over de looneis van de vakbond. Els verdiende in 2019 een jaarsalaris van € 24.998,- en is benieuwd naar wat dit in 2020 voor haar zou betekenen.",
-"q": "Gebruik het krantenbericht en bron 1.\nBereken de koopkrachtverbetering van Els Middelkoop in 2020, indien de looneis van de vakbond wordt gerealiseerd. Geef je antwoord op 1 decimaal nauwkeurig.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik het krantenbericht en bron 1.\nBereken de koopkrachtverbetering van Els Middelkoop in 2020, indien de looneis van de vakbond wordt gerealiseerd. Geef je antwoord op 1 decimaal nauwkeurig.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Bij een inkomen van € 24.998 is een loonstijging van 3,5% gelijk aan: 3,5% x € 24.998 = € 874,93. € 874,93 is minder dan € 1.000, dus Els Middelkoop krijgt de minimale loonstijging van € 1.000. (1p)\n• Haar nominale loonstijging is € 1.000\n€ 24.998 x 100% = 4%. 1\n• De koopkrachtverbetering is (bij benadering) percentage nominale loonstijging - percentage inflatie = 4% - 2,3% = 1,7%. (1p)\nOpmerking Indien de kandidaat de koopkrachtverbetering in euro’s uitrekent kan de maximale score worden behaald.",
 "pnt": 3
 },
@@ -7895,7 +7895,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 6,
 "ctx": "Na intensieve onderhandelingen gaan de supermarktketens akkoord met de looneis van de vakbond. De nieuwe cao geldt voor alle werknemers.",
-"q": "Gebruik bron 2.\nLeg uit dat er in toenemende mate sprake is van meeliftgedrag bij de cao-onderhandelingen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLeg uit dat er in toenemende mate sprake is van meeliftgedrag bij de cao-onderhandelingen.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Het deel/percentage van de werknemers dat lid is van een vakbond neemt af (van ongeveer 35% in 1980 naar ongeveer 20% in 2020). (1p)\n• Supermarktwerknemers die geen lid zijn van een vakbond profiteren van de onderhandelingen door de vakbond / van de inspanning van een ander zonder zelf (financieel) bij te dragen (omdat de CAO voor iedere werknemer geldt / algemeen verbindend is, en dus is er sprake van meeliftgedrag). (1p)\nOpmerking Voor het toekennen van de eerste deelscore moet de organisatiegraad in procenten worden verwoord.",
 "pnt": 2
 },
@@ -8005,7 +8005,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "De drie grootste aanbieders van speedpedelecs hebben gezamenlijk 70% van de markt van speedpedelecs in handen. Iedere aanbieder heeft binnen het assortiment keuzemogelijkheden, zoals design, vermogen en sterkte van de accu. Sprinter is een van de aanbieders van speedpedelecs. Over type Sprinter4 zijn de volgende gegevens bekend: Marginale kosten (MK) € 3.500 Totale constante kosten (TCK) € 1.000.000",
-"q": "Gebruik bron 1.\nWelk vlak geeft de totale winst van Sprinter weer, als het bedrijf streeft naar maximale omzet? Noteer de letters van de hoekpunten van het vlak en leg je keuze uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nWelk vlak geeft de totale winst van Sprinter weer, als het bedrijf streeft naar maximale omzet? Noteer de letters van de hoekpunten van het vlak en leg je keuze uit.",
 "model": "BCJK Een voorbeeld van een juiste uitleg is:\n• Als het bedrijf streeft naar maximale omzet, dan is MO = 0. (1p)\n• Bij q = 500 is op de GO-lijn in punt J de prijs C (€ 6.000) af te lezen, en is GTK af te lezen in punt K, waarde B (€ 5.500). (De gemiddelde winst is gelijk aan GO-GTK.) De totale winst wordt weergegeven door de hoekpunten BCJK. (1p)",
 "pnt": 2
 },
@@ -8021,7 +8021,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "Sprinter heeft een nieuwe zakelijke klant gevonden. Het Nederlandse accountantskantoor Snel krijgt van het internationale moederbedrijf een budget van € 6.000 per medewerker, om voor alle 100 medewerkers speedpedelecs Sprinter4 aan te schaffen. Het moederbedrijf van Snel heeft de spelregels bepaald: - Snel doet een prijsvoorstel aan Sprinter voor levering van 100 stuks Sprinter4. Dat voorstel kan € 6.000 per speedpedelec zijn, maar het kan ook een lager bedrag zijn. - Als Sprinter het voorstel accepteert, dan ontvangt Sprinter de afgesproken prijs en ontvangt Snel het verschil tussen € 6.000 en de afgesproken prijs. - Als Sprinter het voorstel weigert, dan ontvangen beide bedrijven niets. Sprinter wil minimaal € 3.500 ontvangen voor type Sprinter4.",
-"q": "Gebruik bron 1.\nLeg uit dat Sprinter minimaal € 3.500 wil ontvangen voor type Sprinter4.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat Sprinter minimaal € 3.500 wil ontvangen voor type Sprinter4.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Het bedrijf zal (minimaal) de marginale kosten willen terugverdienen voordat het gaat leveren, en (1p)\n• (in bron 1 is af te lezen) dat de marginale productiekosten (MK) gelijk zijn aan € 3.500. (1p)",
 "pnt": 2
 },
@@ -8093,7 +8093,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "In bron 2 staan drie keuzeopties van het spel beschreven in een beslisboom. De uitkomsten geven de verdeling van het restbedrag na aftrek van de variabele productiekosten.",
-"q": "Gebruik bron 2.\nWelke bedragen moeten op plaats (1) en (2) in de beslisboom staan? Leg je keuze uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nWelke bedragen moeten op plaats (1) en (2) in de beslisboom staan? Leg je keuze uit.",
 "model": "Een voorbeeld van een juist antwoord is:\n• bij (1): € 1.500 want Snel houdt over: budgetbedrag - afgesproken prijs = € 6.000 - € 4.500 = € 1.500 (als Sprinter het voorstel accepteert) (1p)\n• bij (2): € 1.000 want Sprinter houdt na dekking van de marginale kosten over: afgesproken prijs - marginale kosten = € 4.500 - € 3.500 = € 1.000 (als Sprinter het voorstel accepteert). (1p)",
 "pnt": 2
 },
@@ -8109,7 +8109,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 13,
 "ctx": "In bron 2 staan drie keuzeopties van het spel beschreven in een beslisboom. De uitkomsten geven de verdeling van het restbedrag na aftrek van de variabele productiekosten.",
-"q": "Gebruik bron 2.\nLeg uit welke van de drie verdelingen uit bron 2 tot stand zal komen, als Sprinter en Snel streven naar een zo hoog mogelijke eigen opbrengst in euro’s.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLeg uit welke van de drie verdelingen uit bron 2 tot stand zal komen, als Sprinter en Snel streven naar een zo hoog mogelijke eigen opbrengst in euro’s.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• Een correcte keuze en correcte redenering over het economisch handelen van Sprinter / respondent. (1p)\n• Een correcte keuze en correcte redenering over het economisch handelen van Snel / aanbieder. (1p)\nEen voorbeeld van een juist antwoord is:\n• Sprinter zal elk voorstel dat hoger is dan de minimale leveringsbereidheid / dat een hogere opbrengst heeft dan € 0 accepteren (dat wil zeggen dat Sprinter elk aanbod zal accepteren). (1p)\n• Snel (kent de strategie van Sprinter en) zal een voorstel doen dat de eigen opbrengst maximaliseert, (dus € 3.501) omdat dat voorstel nog net geaccepteerd wordt, dus de verdeling wordt € 2.499 ; € 1. (1p)\nOpmerking\n‒ Als bij de uitwerking sprake is van een doorwerkfout uit de vorige\nvraag, dan geen scorepunt in mindering brengen. ‒ Voor juiste antwoorden via de best response methode kunnen\nmaximale scorepunten worden toegekend.",
 "pnt": 2
 },
@@ -8532,7 +8532,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 28,
 "ctx": "Bron 1 laat de werkgelegenheid in de sector toerisme zien, zowel in aantal personen als in arbeidsjaren. Beide indicatoren zijn toegenomen als gevolg van de toegenomen bestedingen in de sector. Ook wordt er minder in deeltijd gewerkt.",
-"q": "Gebruik bron 1.\nToon met een berekening aan dat werknemers in de sector toerisme tussen 2014 en 2017 gemiddeld minder in deeltijd zijn gaan werken.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nToon met een berekening aan dat werknemers in de sector toerisme tussen 2014 en 2017 gemiddeld minder in deeltijd zijn gaan werken.",
 "model": "Een voorbeeld van een juiste berekening is:\n• De werkgelegenheid in aantal werkzame personen is gestegen met\nwerkende personen nieuw -\nwerkende personen oud werkende personen oud x 100% = 761 - 703 703x 100% = 8,3% . (1p)\n• De werkgelegenheid in arbeidsjaren is gestegen met\narbeidsjaren nieuw -\narbeidsjaren arbeidsjaren oud\noud x 100% = 455 - 413 413x 100% = 10,2% . De werkgelegenheid in arbeidsjaren is harder gestegen dan in personen (dus zijn mensen gemiddeld minder in deeltijd gaan werken).\n1 of\n• 2014: werkgelegenheid werkgelegenheid in in arbeidsjaren personen = 703 413 = 1,70 (1p)\n• 2017: werkgelegenheid werkgelegenheid in in arbeidsjaren personen = 455 761 = 1,67 De verhouding personen/arbeidsjaren is afgenomen (en dat betekent dat minder mensen in deeltijd zijn gaan werken). (1p)",
 "pnt": 2
 },
@@ -8596,7 +8596,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "Op de veiling is een gemiddelde marktprijs van 1.550 Tanzaniaanse shilling per kilogram tot stand gekomen. Volgens de boeren is deze marktprijs te laag om de productiekosten te dekken. Om de boeren te behoeden voor faillissement, kondigt de president van Tanzania een minimumprijs van 3.300 Tanzaniaanse shilling per kilogram aan. Het overschot dat als gevolg van de minimumprijs ontstaat, zal worden opgekocht door de overheid. De nieuwe marktsituatie is geschetst in bron 1. De prijselasticiteit van het aanbod (Ea) is gedefinieerd als: % verandering aangeboden hoeveelheid Ea % verandering prijs =",
-"q": "Gebruik bron 1 en bovenstaande definitie van de prijselasticiteit van het aanbod.\nLeid de prijselasticiteit van het aanbod af uit het verloop van de aanbodlijn op de markt van cashewnoten.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bovenstaande definitie van de prijselasticiteit van het aanbod.\nLeid de prijselasticiteit van het aanbod af uit het verloop van de aanbodlijn op de markt van cashewnoten.",
 "model": "Een voorbeeld van een juist antwoord is:\n• (Uit de aanbodlijn blijkt dat) de gehele oogst / de hoeveelheid C wordt aangeboden ongeacht de prijs (1p)\n• hetgeen betekent dat (de %-verandering van de aangeboden hoeveelheid / de teller van de breuk en dus) de prijselasticiteit van het aanbod gelijk is aan 0 / dat het aanbod (volledig) prijsinelastisch is. (1p)",
 "pnt": 2
 },
@@ -8612,7 +8612,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Op de veiling is een gemiddelde marktprijs van 1.550 Tanzaniaanse shilling per kilogram tot stand gekomen. Volgens de boeren is deze marktprijs te laag om de productiekosten te dekken. Om de boeren te behoeden voor faillissement, kondigt de president van Tanzania een minimumprijs van 3.300 Tanzaniaanse shilling per kilogram aan. Het overschot dat als gevolg van de minimumprijs ontstaat, zal worden opgekocht door de overheid. De nieuwe marktsituatie is geschetst in bron 1. De prijselasticiteit van het aanbod (Ea) is gedefinieerd als: % verandering aangeboden hoeveelheid Ea % verandering prijs =",
-"q": "Gebruik bron 1.\nWelk vlak geeft het geldbedrag weer van het overschot dat de overheid heeft opgekocht? Noteer de letters van de hoekpunten van het vlak en leg je keuze uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nWelk vlak geeft het geldbedrag weer van het overschot dat de overheid heeft opgekocht? Noteer de letters van de hoekpunten van het vlak en leg je keuze uit.",
 "model": "• De totale opkoopkosten worden weergegeven met het vlak BIJC. 1 Een voorbeeld van een juiste uitleg is:\n• De invoering van de minimumprijs leidt tot een aanbodoverschot (BC / IJ) (1p)\n• welke tegen de minimumprijs Pmin (= H / I / J) wordt opgekocht. (1p)",
 "pnt": 3
 },
@@ -8660,7 +8660,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 6,
 "ctx": "Een econoom stelt: “Om te kunnen concurreren met andere landen waar cashewnoten worden geproduceerd, zijn economische structuurontwikkelingen nodig. Bijvoorbeeld investeringen in nieuwe technologieën die leiden tot een toename van de arbeidsproductiviteit. Op de korte-termijn kunnen deze investeringen leiden tot een vermindering van de werkgelegenheid op de cashewnotenmarkt, maar op de lange-termijn zijn ze noodzakelijk voor het herstel ervan.” Het korte-termijn effect is in de figuur weergegeven door pijl 1. Het lange-termijn effect is in de figuur weergegeven door pijl 2 en pijl 3. Toelichting: een “–“ betekent een negatief verband, een “+” betekent een positief verband.",
-"q": "Gebruik pijl 1 uit de figuur.\nGeef een argument voor het korte-termijn effect dat investeringen in arbeidsproductiviteit-verhogende technologieën kunnen leiden tot een vermindering van de werkgelegenheid.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik pijl 1 uit de figuur.\nGeef een argument voor het korte-termijn effect dat investeringen in arbeidsproductiviteit-verhogende technologieën kunnen leiden tot een vermindering van de werkgelegenheid.",
 "model": "Een voorbeeld van een juist antwoord is: (korte-termijn effect pijl 1:) Door de gestegen arbeidsproductiviteit zijn minder mensen nodig voor dezelfde productie / mensen worden vervangen door machines, waardoor de werkgelegenheid afneemt (bij gelijkblijvende productie).",
 "pnt": 1
 },
@@ -8676,7 +8676,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 7,
 "ctx": "Een econoom stelt: “Om te kunnen concurreren met andere landen waar cashewnoten worden geproduceerd, zijn economische structuurontwikkelingen nodig. Bijvoorbeeld investeringen in nieuwe technologieën die leiden tot een toename van de arbeidsproductiviteit. Op de korte-termijn kunnen deze investeringen leiden tot een vermindering van de werkgelegenheid op de cashewnotenmarkt, maar op de lange-termijn zijn ze noodzakelijk voor het herstel ervan.” Het korte-termijn effect is in de figuur weergegeven door pijl 1. Het lange-termijn effect is in de figuur weergegeven door pijl 2 en pijl 3. Toelichting: een “–“ betekent een negatief verband, een “+” betekent een positief verband.",
-"q": "Gebruik pijl 2 en 3 uit de figuur.\nLeg het lange-termijn effect uit dat investeringen in arbeidsproductiviteit- verhogende technologieën kunnen leiden tot een toename van werkgelegenheid.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik pijl 2 en 3 uit de figuur.\nLeg het lange-termijn effect uit dat investeringen in arbeidsproductiviteit- verhogende technologieën kunnen leiden tot een toename van werkgelegenheid.",
 "model": "Een voorbeeld van een juist antwoord is:\n• (lange-termijn effect pijl 2:) Deze investeringen (in arbeidsproductiviteit verhogende technologieën) leiden tot een daling van de loonkosten per product. Hierdoor kunnen de prijzen (van exportgoederen) dalen en verbetert de internationale concurrentiepositie. (1p)\n• (lange-termijn effect pijl 3:) Hierdoor kan de export van cashewnoten toenemen, waardoor de (binnenlandse) productie toeneemt en de vraag naar arbeid / de werkgelegenheid kan toenemen. (1p)",
 "pnt": 2
 },
@@ -8804,7 +8804,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Een econoom stelt dat mensen in de hoogste inkomenscategorie meer gebruikmaken van de regeling dan mensen in de lagere inkomenscategorieën. Dit wordt versterkt doordat het land een progressief belastingstelsel kent met drie schijven, zie bron 1.",
-"q": "Gebruik bron 1 en bovenstaande tekst.\nGeef twee argumenten die de stelling van de econoom onderbouwen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en bovenstaande tekst.\nGeef twee argumenten die de stelling van de econoom onderbouwen.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Mensen uit lagere inkomenscategorieën hebben minder financiële ruimte om een studie te bekostigen dan mensen uit de hoogste inkomenscategorie. (1p)\n• De aftrekpost voor studiekosten levert belastingplichtigen met een hoogste inkomen procentueel een groter voordeel op (49,5%) dan mensen met een lager inkomen (19,03% of 36,93%). (1p)",
 "pnt": 2
 },
@@ -8820,7 +8820,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Denise heeft haar hbo-studie pedagogiek met succes afgerond en is inmiddels een aantal jaren werkzaam als leerlingbegeleider. Zij overweegt om volgend jaar in de avonduren te gaan studeren voor een universitaire master orthopedagogiek. Ze wil graag weten wat deze studie haar volgend jaar zou kosten. De kosten voor de eenjarige master orthopedagogiek zijn: - collegegeld: € 2.300 - studiematerialen: € 400 Denise mag de kosten boven de drempel van € 300 aftrekken. Ze heeft volgend jaar een bruto-inkomen van € 36.000. Zij heeft geen andere aftrekposten.",
-"q": "Gebruik bron 1.\nBereken de netto-studiekosten van Denise.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken de netto-studiekosten van Denise.",
 "model": "Een voorbeeld van een juiste berekening is:\n• studiekosten € 2.300 + € 400 = € 2.700 De aftrekbare kosten zijn: € 2.700 – € 300 = € 2.400. (1p)\n• Het inkomen valt in de eerste schijf. belastingvoordeel: € 2.400 x 0,1903 = € 456,72 Totale netto studiekosten = studiekosten – belastingvoordeel = € 2.700 – € 456,72 = € 2.243,28. (1p)",
 "pnt": 2
 },
@@ -8868,7 +8868,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "Een econoom reageert op het krantenbericht met twee beweringen. Bewering 1: “Door de renteverlaging zullen in een laagconjunctuur de bedrijfsinvesteringen nauwelijks toenemen.” Bewering 2: “De afweging van huurders om nu al dan niet over te gaan tot koop van een eigen woning, is gebaseerd op veel meer factoren dan alleen de hoogte van het rentetarief. Ik heb een voorbeeld uitgewerkt (bron 1).”",
-"q": "Gebruik bewering 2 en bron 1.\nLaat met een berekening zien dat de jaarlijkse woonlast bij koop pas na drie jaar lager is dan bij huren. Bereken hiertoe de jaarlijkse woonlasten in het derde en vierde jaar.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bewering 2 en bron 1.\nLaat met een berekening zien dat de jaarlijkse woonlast bij koop pas na drie jaar lager is dan bij huren. Bereken hiertoe de jaarlijkse woonlasten in het derde en vierde jaar.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Jaarlijkse woonlasten bij eigen woning: hypotheekrente: 2% van € 240.000 = € 4.800 overige woonlasten: 12 × € 250 = € 3.000\n€ 7.800. 1\n• Jaarlijkse woonlasten bij huurwoning: De huur wordt jaarlijks verhoogd met 4%. In het derde jaar is de jaarlijkse huursom € 7.200 × 1,04 × 1,04 = € 7.787,52 (en dat is kleiner dan € 7.800). In het vierde jaar is de jaarlijkse huursom € 7.200 × 1,04 × 1,04 × 1,04 = € 8.099,02. (1p)\n• Dus de jaarlijkse huursom in het vierde jaar is groter dan € 7.800 / meer dan de jaarlijkse woonlasten bij een eigen woning. (1p)",
 "pnt": 3
 },
@@ -8884,7 +8884,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "Een econoom reageert op het krantenbericht met twee beweringen. Bewering 1: “Door de renteverlaging zullen in een laagconjunctuur de bedrijfsinvesteringen nauwelijks toenemen.” Bewering 2: “De afweging van huurders om nu al dan niet over te gaan tot koop van een eigen woning, is gebaseerd op veel meer factoren dan alleen de hoogte van het rentetarief. Ik heb een voorbeeld uitgewerkt (bron 1).”",
-"q": "Gebruik bewering 2 en bron 1.\nNoem een andere reden dan genoemd in bewering 2 en bron 1, die huurders kunnen betrekken in hun afweging om al dan niet een eigen woning te kopen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bewering 2 en bron 1.\nNoem een andere reden dan genoemd in bewering 2 en bron 1, die huurders kunnen betrekken in hun afweging om al dan niet een eigen woning te kopen.",
 "model": "Voorbeelden van een juist antwoord zijn: - een mogelijke waardestijging van de koopwoning - onzekerheid over inkomen in de toekomst - een mogelijke verandering in het belastingstelsel, zoals beperking van\nde aftrek van hypotheekrente / stijging van het eigenwoningforfait - consumentenvoorkeur voor een bepaald type woning",
 "pnt": 1
 },
@@ -8900,7 +8900,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "Door een stijgende levensverwachting en minder geboorten verandert de samenstelling van de Nederlandse bevolking. Het Centraal Planbureau (CPB) analyseert de gevolgen hiervan voor de overheidsfinanciën en voor de solidariteit tussen generaties. Hiervoor kijkt het CPB naar het houdbaarheidssaldo. Het houdbaarheidssaldo geeft aan of het huidige niveau van de overheidsvoorzieningen op lange termijn betaalbaar en houdbaar is, zonder dat de overheidsschuld oploopt of de belastinginkomsten moeten worden verhoogd. Voorbeelden van gelijkblijvende overheidsvoorzieningen zijn: - dat er in de toekomst voor elke leerling evenveel leraren zijn als nu, - dat er voor elke oudere evenveel handen aan het bed zijn als nu, - dat uitkeringen welvaartsvast zijn. Als er een houdbaarheidstekort is, dan betekent dit dat de voorzieningen in de toekomst slechter betaalbaar zijn. Het CPB constateert dat de leeftijdsopbouw van de bevolking verandert en dat het aantal 67-plussers als percentage van het aantal 20- tot 66-jarigen in de periode tot 2040 sterk zal stijgen (zie bron 1).",
-"q": "Gebruik bron 1.\nLeg uit dat het houdbaarheidssaldo kan verslechteren als gevolg van de ontwikkeling van de grijze druk.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat het houdbaarheidssaldo kan verslechteren als gevolg van de ontwikkeling van de grijze druk.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Omdat 67-plussers gemiddeld meer gebruik maken van overheidsuitgaven (aow, zorg) / minder belasting afdragen dan de 20- tot 66-jarigen, (1p)\n• stijgen de overheidsuitgaven / dalen de overheidsinkomsten en daalt het toekomstige overheidssaldo (bij een gelijkblijvend voorzieningenniveau en dus verslechtert het houdbaarheidssaldo). (1p)",
 "pnt": 2
 },
@@ -9076,7 +9076,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Bij de vragen 4 en 5 worden de belastingen buiten beschouwing gelaten. Het minimumuurloon voor de jongeren (< 21 jaar) is afhankelijk van de leeftijd. Zo krijgt een 16-jarige voor hetzelfde werk een lager minimumuurloon dan een 20-jarige.",
-"q": "Gebruik bron 1.\nBereken hoeveel procent het minimumuurloon van een 20-jarige hoger is dan dat van een 16-jarige.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken hoeveel procent het minimumuurloon van een 20-jarige hoger is dan dat van een 16-jarige.",
 "model": "Een voorbeeld van een juiste berekening is:\n€ 10,62 - €\n4,58 € 4,58 x 100% = 131,9%",
 "pnt": 1
 },
@@ -9092,7 +9092,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Een 16-jarige begint op 31 maart 2024 met werken bij een supermarkt. Op 31 juli 2024 is deze persoon nog steeds 16 jaar.",
-"q": "Gebruik bron 1 en 2.\nBereken hoe hoog het minimumuurloon op 31 juli 2024 van de 16-jarige moet zijn om minimaal dezelfde koopkracht te behouden als op 31 maart 2024.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nBereken hoe hoog het minimumuurloon op 31 juli 2024 van de 16-jarige moet zijn om minimaal dezelfde koopkracht te behouden als op 31 maart 2024.",
 "model": "Een voorbeeld van een juiste berekening is:\n• De inflatie (van april tot en met juli) is (bij benadering) 0,16 + 0,39 + 0,44 + 0,77 = 1,76% (1p)\n• Het minimumuurloon voor een 16-jarige zal moeten stijgen tot 1,0176 x € 4,58 = € 4,66 (om dezelfde koopkracht te behouden). (1p)\nof\n• De inflatie (van april tot en met juli) is 100 x 1,0016 x 1,0039 x 1,0044 x 1,0077 – 100 = 1,77% (1p)\n• Het minimumuurloon voor een 16-jarige zal moeten stijgen tot 1,0177 x € 4,58 = € 4,66 (om dezelfde koopkracht te behouden). (1p)\nOpmerking Als de kandidaat de inflatie berekent op basis van 3 of 5 maanden kunnen maximale scorepunten worden behaald.",
 "pnt": 2
 },
@@ -9217,7 +9217,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "Verhuurbedrijf Hopi Bon wil ook fietsen gaan verhuren. Het bedrijf gaat fietsenrekken plaatsen langs de kust en in enkele binnenlandse plaatsen. Toeristen kunnen fietsen huren en betalen per dag. Ze kunnen de fietsen overal op het eiland plaatsen in de daarvoor bestemde fietsenrekken. Ze kunnen dan eventueel overstappen op een ander type fiets. Hopi Bon rekent eenzelfde prijs voor de twee typen fietsen. De directeur van Hopi Bon maakt een analyse (zie bron 1).",
-"q": "Gebruik bron 1.\nZijn de variabele kosten degressief, proportioneel of progressief?\nLeg je antwoord uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nZijn de variabele kosten degressief, proportioneel of progressief?\nLeg je antwoord uit.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De marginale kosten zijn bij elke hoeveelheid / elke q / steeds hetzelfde (weergegeven door een horizontale lijn in de grafiek). (1p)\n• Daarom zijn de variabele kosten proportioneel (ten opzichte van q). (1p)\nOpmerking Het tweede scorepunt uitsluitend toekennen als het een logisch gevolg is van de eerste stap.",
 "pnt": 2
 },
@@ -9233,7 +9233,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "Hopi Bon heeft als doelstelling maximale winst.",
-"q": "Gebruik bron 1.\nBereken het resultaat per dag van Hopi Bon.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nBereken het resultaat per dag van Hopi Bon.",
 "model": "Een juist antwoord bestaat uit:\n• De afzet (q) bepalen bij maximale winst. (1p)\n• De P en GTK bepalen bij maximale winst. (1p)\n• Het resultaat berekenen bij maximale winst. (1p)\nEen voorbeeld van een juist antwoord is:\n• (maximale winst wordt bereikt als MO = MK) MO = MK geeft q = 25 (1p)\n• Bij een q = 25 hoort een P = 28 en een GTK = 16. (1p)\n• TW = 28 x 25 - 16 x 25 = $ 300 (per dag) (1p)",
 "pnt": 3
 },
@@ -9249,7 +9249,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 11,
 "ctx": "De welvaart die ontstaat op deze fietsverhuurmarkt kan worden gemeten aan de hand van het consumenten- en producentensurplus. Door een prijsverlaging stijgt de welvaart.",
-"q": "Gebruik bron 1.\nLeg het welvaartseffect uit als Hopi Bon een lagere prijs rekent dan de prijs bij maximale winst. Doe het als volgt: - Leg het effect van een lagere prijs uit op het consumentensurplus. - Leg het effect van een lagere prijs uit op het dalende producentensurplus. - Leg het effect van een lagere prijs uit op het stijgende producentensurplus.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg het welvaartseffect uit als Hopi Bon een lagere prijs rekent dan de prijs bij maximale winst. Doe het als volgt: - Leg het effect van een lagere prijs uit op het consumentensurplus. - Leg het effect van een lagere prijs uit op het dalende producentensurplus. - Leg het effect van een lagere prijs uit op het stijgende producentensurplus.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Door een lagere prijs wordt het verschil tussen de betalingsbereidheid en de prijs groter / worden er meer producten verhuurd, waardoor het consumentensurplus zal stijgen. (1p)\n• Door een lagere prijs wordt het verschil tussen de leveringsbereidheid / MK en de prijs kleiner, waardoor het producentensurplus zal dalen. (1p)\n• Door een lagere prijs worden er meer producten verhuurd, waardoor het producentensurplus zal stijgen. (1p)",
 "pnt": 3
 },
@@ -9265,7 +9265,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 12,
 "ctx": "Hopi Bon wil starten met een huurprijs van $ 16, om daarna deze te verhogen naar $ 24. De directeur onderzoekt of het starten met een lage prijs ervoor zorgt dat bij een prijsverhoging de omzet zal stijgen.",
-"q": "Gebruik bron 1.\nZal de omzet van Hopi Bon stijgen of dalen? Leg je antwoord uit door eerst de prijselasticiteit van de vraag te berekenen.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nZal de omzet van Hopi Bon stijgen of dalen? Leg je antwoord uit door eerst de prijselasticiteit van de vraag te berekenen.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Als de prijs stijgt van $ 16 naar $ 24 zal de afzet dalen van 40 naar 30. procentuele verandering P = 24 16 x 100% 50% 16- = procentuele verandering q = 30 40 x 100% -25% 40- = (1p)\n• De prijselasticiteit = -25% / 50% = -0,5 (dus er is sprake van een prijsinelastische vraag). (1p)\n• Bij een prijsinelastische vraag leidt een prijsstijging tot een omzetstijging. (1p)\nOpmerking - Het derde scorepunt uitsluitend toekennen als een verbale conclusie\neen logisch gevolg is van de eerste twee stappen. - Het derde scorepunt mag ook rekenkundig worden aangetoond.",
 "pnt": 3
 },
@@ -9441,7 +9441,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Een deel van de bevolking wil terug naar een AOW-leeftijd van 65 jaar. Een onderzoeker analyseert hoe de extra kosten van een verlaging van de AOW-leeftijd kunnen worden gefinancierd en heeft van drie maatregelen de gevolgen doorgerekend (zie bron 1).",
-"q": "Gebruik bron 1.\nLeg uit dat maatregel 1 op langere termijn kan leiden tot hogere collectieve zorguitgaven.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1.\nLeg uit dat maatregel 1 op langere termijn kan leiden tot hogere collectieve zorguitgaven.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Bij het niet vergoeden van bepaalde geneeskundige handelingen, zullen mensen zich minder vaak laten behandelen. (1p)\n• Dit kan leiden tot een verergering van het ziektebeeld en dus tot hogere zorgkosten in de toekomst. (1p)",
 "pnt": 2
 },
@@ -9457,7 +9457,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "De onderzoeker: “Bij maatregel 2 ontvangen AOW’ers een lagere maandelijkse uitkering. Bovendien komt de koopkracht van AOW’ers verder onder druk te staan, zelfs al bij een inflatie van 1%. Voor een (echt)paar met een AOW-uitkering als enige bron van inkomsten, levert maatregel 2 een koopkrachtdaling van minimaal 6% op.”",
-"q": "Gebruik bron 1 en 2.\nToon met een berekening aan dat door maatregel 2 de koopkrachtdaling voor een (echt)paar minimaal 6% is bij een inflatie van 1%.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nToon met een berekening aan dat door maatregel 2 de koopkrachtdaling voor een (echt)paar minimaal 6% is bij een inflatie van 1%.",
 "model": "Voorbeelden van een juiste berekening zijn:\n• € 1.708,08 – € 1.807,20\n1.807,20 x 100% = -5,5% € (1p)\n• Koopkrachtverandering = -5,5% − 1% (inflatie) = -6,5% (1p)\nof\n• €€ 1.708,08 1.807,20\nx 100 = 94,5 (1p)\n• 94,5 101 x 100 = 93,6 Dus een daling van 6,4% (1p)",
 "pnt": 2
 },
@@ -9473,7 +9473,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "De onderzoeker zegt over maatregel 3: “Dit leidt ertoe dat een alleenstaande oudere met een AOW-uitkering als enige inkomstenbron, jaarlijks een paar duizend euro meer belasting in box 1 moet betalen ten opzichte van de huidige situatie.”",
-"q": "Gebruik bron 1, 2 en 3.\nBereken hoeveel euro een alleenstaande oudere extra in box 1 moet betalen door maatregel 3.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1, 2 en 3.\nBereken hoeveel euro een alleenstaande oudere extra in box 1 moet betalen door maatregel 3.",
 "model": "Voorbeelden van een juiste berekening zijn:\n• Belasting met maatregel 3: € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x 0,3693 = € 5.897 (1p)\n• Belasting zonder maatregel 3: € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x 0,1903 = € 3.038 € 5.897 − € 3.038 = € 2.859 (1p)\nof\n• € 1.330,76 x 12 = € 15.969,12 € 15.969,12 x (0,3693 − 0,1903) = € 2.858 (2p)\nOpmerking Als de kandidaat met niet afgeronde getallen rekent kan de maximale score worden behaald.",
 "pnt": 2
 },
@@ -9745,7 +9745,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "Uit een krant: De Mexicaanse overheid heeft op 1 januari 2014 een suikeraccijns ingevoerd om de negatieve externe effecten van overmatige suikerconsumptie terug te dringen. Sindsdien betalen Mexicanen een heffing in de vorm van een vast bedrag per pond1) suiker. De invoering van een suikeraccijns heeft in Mexico het gewenste effect gehad: over heel 2014 nam de verkoop van suiker met gemiddeld 6 procent af, wat neerkomt op een verminderde consumptie van 1,5 pond per persoon. Deze lagere consumptie blijkt niet evenredig te zijn verdeeld over de verschillende inkomensgroepen, want de vraag naar suiker van mensen met een laag inkomen is prijselastischer dan die van mensen met een hoog inkomen. noot 1 een pond = 500 gram",
-"q": "Gebruik bovenstaand krantenartikel en bron 1.\nWelke grafiek geeft de vraag naar suiker van Mexicanen met een laag inkomen het best weer? Leg je antwoord uit.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaand krantenartikel en bron 1.\nWelke grafiek geeft de vraag naar suiker van Mexicanen met een laag inkomen het best weer? Leg je antwoord uit.",
 "model": "grafiek 2 Een voorbeeld van een juiste uitleg is: Bij de lage inkomens in grafiek 2 ontstaat er bij eenzelfde prijsverandering een relatief grotere hoeveelheidsverandering dan bij hoge inkomens. Dan is de vraag naar suiker prijselastischer voor de lage inkomens.\nOpmerking 0 of 2 scorepunten toekennen",
 "pnt": 2
 },
@@ -9761,7 +9761,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "De Mexicaanse overheid heeft als doelstelling de totale consumptie van suiker met minimaal 25% te beperken. Dit wil ze bereiken met de ingevoerde accijns. Stel dat in Mexico de prijs van een pond suiker vóór invoering van de accijns 4,50 peso bedraagt.",
-"q": "Gebruik bron 2.\nLaat met een berekening zien dat de doelstelling van de Mexicaanse overheid wordt bereikt.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLaat met een berekening zien dat de doelstelling van de Mexicaanse overheid wordt bereikt.",
 "model": "Een voorbeeld van een juiste berekening is:\n• berekening nieuwe evenwichtsprijs: 1,5P – 7 = -0,5P + 5 → P = 6 nieuwe evenwichtshoeveelheid: Q = 1,5 x 6 – 7 → Q = 2 (1p)\n• oude evenwichtshoeveelheid: Q = 1,5 x 4,50 – 4 → Q = 2,75 (1p)\n• procentuele afname: (2 – 2,75) / 2,75 x 100% = -27,3% (De doelstelling wordt dus bereikt.) (1p)",
 "pnt": 3
 },
@@ -9777,7 +9777,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "De invoering van de suikeraccijns heeft gevolgen voor zowel het consumentensurplus als het producentensurplus op de markt van suiker (zie bron 2).",
-"q": "Gebruik bron 2.\nGeef met letters het oppervlak aan dat het consumenten- en producentensurplus weergeeft en het oppervlak dat de accijnsopbrengst weergeeft na het heffen van de suikeraccijns. Neem daarvoor onderstaande tabel over op het antwoordblad en vul aan op de stippellijnen.\noppervlak consumentensurplus ……….. oppervlak producentensurplus ……….. oppervlak accijnsopbrengst ………..\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nGeef met letters het oppervlak aan dat het consumenten- en producentensurplus weergeeft en het oppervlak dat de accijnsopbrengst weergeeft na het heffen van de suikeraccijns. Neem daarvoor onderstaande tabel over op het antwoordblad en vul aan op de stippellijnen.\noppervlak consumentensurplus ……….. oppervlak producentensurplus ……….. oppervlak accijnsopbrengst ………..",
 "model": "Een voorbeeld van een juist antwoord is:\n• oppervlak consumentensurplus: ABC (1p)\n• oppervlak producentensurplus: HIJ of BCD (1p)\n• oppervlak accijnsopbrengst: BCIH of DCIJ (1p)",
 "pnt": 3
 },
@@ -9873,7 +9873,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "In een land zijn mensen verplicht zich te verzekeren voor basiszorg. Zorgverzekeraars hebben een wettelijke acceptatieplicht voor de basiszorgverzekering. De zorgverzekeraars richten zich in hun marketing op specifieke doelgroepen zoals studenten. Met name studenten zijn vanwege hun lage leeftijd over het algemeen gezond, waardoor ze weinig zorgkosten maken. Deze marketing gericht op bepaalde doelgroepen kan echter leiden tot ongewenste situaties op de zorgverzekeringsmarkt.",
-"q": "Gebruik bovenstaande tekst en bron 1.\nMaak van onderstaande zinnen een economisch juiste redenering.\n\nOp de markt van basiszorgverzekeringen is er sprake van …(1)… solidariteit. De zorgverzekeraars zijn actief op een …(2)…. Op deze markt is er sprake van ...(3)… concurrentie. Het aantrekken van studenten leidt tot …(4)… voor de zorgverzekeraar die de studenten aantrekt. Kies uit: bij (1) verplichte / vrijwillige bij (2) oligopolistische markt / markt van monopolistische concurrentie bij (3) volkomen / onvolkomen bij (4) averechtse selectie / risico-aversie / kostenvoordeel\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en bron 1.\nMaak van onderstaande zinnen een economisch juiste redenering.\n\nOp de markt van basiszorgverzekeringen is er sprake van …(1)… solidariteit. De zorgverzekeraars zijn actief op een …(2)…. Op deze markt is er sprake van ...(3)… concurrentie. Het aantrekken van studenten leidt tot …(4)… voor de zorgverzekeraar die de studenten aantrekt. Kies uit: bij (1) verplichte / vrijwillige bij (2) oligopolistische markt / markt van monopolistische concurrentie bij (3) volkomen / onvolkomen bij (4) averechtse selectie / risico-aversie / kostenvoordeel",
 "model": "(1) verplichte (2) oligopolistische markt (3) onvolkomen (4) kostenvoordeel\nindien (1) en (4) juist 1 indien (2) en (3) juist 1",
 "pnt": 2
 },
@@ -9970,7 +9970,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Zorgverzekeraars A en C zijn beide van plan om een campagne te voeren. Deze campagne is gericht op studenten. De kosten van de campagne zijn voor A en C gelijk vast bedrag. Een econoom maakt een pay-offmatrix (zie bron 2). In deze matrix zijn de winstveranderingen van de verzekeraars niet gelijk aan elkaar als één verzekeraar geen campagne voert en de andere verzekeraar wel. Als verzekeraar A bijvoorbeeld wel campagne voert en verzekeraar C niet, zal de winst van verzekeraar A met 10% stijgen. Als verzekeraar A geen campagne voert en verzekeraar C wel, zal de winst van verzekeraar C met 9% stijgen.",
-"q": "Gebruik bron 1 en 2.\nLeg dit verschil in winstveranderingen uit aan de hand van de gemiddelde constante kosten van de verzekeraars.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 1 en 2.\nLeg dit verschil in winstveranderingen uit aan de hand van de gemiddelde constante kosten van de verzekeraars.",
 "model": "Een voorbeeld van juist antwoord is:\n• Zorgverzekeraar A heeft een groter marktaandeel en kan daardoor de constante kosten van de campagne over meer klanten verspreiden, waardoor de gemiddelde constante kosten (voor A) lager zijn. (1p)\n• Hierdoor is de kostprijs bij verzekeraar A lager. Als zorgverzekeraar A geen campagne voert en zorgverzekeraar C wel, dan zal zorgverzekeraar C studenten winnen (+9%), maar minder als zorgverzekeraar C geen campagne voert en zorgverzekeraar A wel (+10%). (1p)",
 "pnt": 2
 },
@@ -9986,7 +9986,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 18,
 "ctx": "Zorgverzekeraars A en C zijn beide van plan om een campagne te voeren. Deze campagne is gericht op studenten. De kosten van de campagne zijn voor A en C gelijk vast bedrag. Een econoom maakt een pay-offmatrix (zie bron 2). In deze matrix zijn de winstveranderingen van de verzekeraars niet gelijk aan elkaar als één verzekeraar geen campagne voert en de andere verzekeraar wel. Als verzekeraar A bijvoorbeeld wel campagne voert en verzekeraar C niet, zal de winst van verzekeraar A met 10% stijgen. Als verzekeraar A geen campagne voert en verzekeraar C wel, zal de winst van verzekeraar C met 9% stijgen.",
-"q": "Gebruik bron 2.\nLeg met behulp van getallen uit de matrix in bron 2 uit of er sprake is van een gevangenendilemma. Doe het als volgt: - Leg uit of beide verzekeraars een dominante strategie hebben. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.\n(De bron staat in de bijlage van het examen. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bron 2.\nLeg met behulp van getallen uit de matrix in bron 2 uit of er sprake is van een gevangenendilemma. Doe het als volgt: - Leg uit of beide verzekeraars een dominante strategie hebben. - Beredeneer vervolgens of er sprake is van een gevangenendilemma.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De dominante strategie van verzekeraar A is campagne voeren, omdat +10% > 0% en -1% > -5%. De dominante strategie van verzekeraar C is ook campagne voeren, omdat +9% > 0% en -1% > -6%. (1p)\n• Het (Nash-)evenwicht is dat beide campagne voeren. Ze komen hierdoor in een suboptimale uitkomst / 0% ; 0% > -1% ; -1% dus er is sprake van een gevangenendilemma. (1p)",
 "pnt": 2
 },
@@ -10461,7 +10461,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "Het CPB gebruikt uitsluitend gegevens uit tabel 1 voor de berekening van het gemiddeld belastingtarief. Tabel 1 Schijvenstelsel Schijflengte Belastingtarief Schijf 1 Van € 0 - € 76.817 37,5% Schijf 2 Vanaf € 76.817 49,5%",
-"q": "Gebruik tabel 1.\nBereken het gemiddeld belastingtarief bij een belastbaar inkomen van € 142.854.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 1.\nBereken het gemiddeld belastingtarief bij een belastbaar inkomen van € 142.854.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een correcte berekening van de totale belasting (1p)\n• een correcte berekening van het gemiddeld belastingtarief (1p)\nEen voorbeeld van een juiste berekening is:\n• Schijf 1 = € 76.817 x 0,375 = € 28.806 Schijf 2 = (€ 142.854 – € 76.817) x 0,495 = € 32.688 Totale belasting = € 28.806 + € 32.688 = € 61.494 (1p)\n• Gemiddeld belastingtarief = (€ 61.494 / € 142.854) x 100% = 43% (1p)\nOpmerking Als de leerling met niet-afgeronde bedragen rekent kan de maximumscore worden behaald.",
 "pnt": 2
 },
@@ -10493,7 +10493,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "Het CPB analyseert de herverdeling met figuur 1. Figuur 1 Inkomensverdeling na herverdeling in Nederland",
-"q": "Gebruik figuur 1.\nBereken hoeveel procent de 10% huishoudens met de hoogste inkomens meer verdient dan de 10% huishoudens met de laagste inkomens.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 1.\nBereken hoeveel procent de 10% huishoudens met de hoogste inkomens meer verdient dan de 10% huishoudens met de laagste inkomens.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De 10% huishoudens met de hoogste inkomens verdient (100% – 75%) = 25%. De 10% huishoudens met de laagste inkomens verdient (3% – 0%) = 3%. (1p)\n• 25 3 x 100% 733,33% 3- = (1p)\nOpmerking Als de leerling een verschil berekent in procentpunten maximaal 1 scorepunt toekennen.",
 "pnt": 2
 },
@@ -10605,7 +10605,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "FC Forward wil zelf de inkomsten verhogen. De club onderzoekt daarom twee scenario’s waarbij ze de prijs van de thuiswedstrijden willen verhogen (zie tabel 2). Tabel 2 Twee scenario’s met verschillende prijselasticiteiten Ticketprijs (gemiddeld) Extra omzet naast ticket verkoop als % van de ticketverkoop Huidige situatie € 25 20.000 15% Scenario 1 € 30 20.000 15% Scenario 2 € 35 16.000 10%",
-"q": "Gebruik tabel 2.\nToon aan dat de prijselasticiteit van de vraag 0 (= nul) is in scenario 1.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 2.\nToon aan dat de prijselasticiteit van de vraag 0 (= nul) is in scenario 1.",
 "model": "Voorbeelden van een juist antwoord zijn: - In scenario 1 wordt de prijs verhoogd en verandert de gevraagde\nhoeveelheid niet. De prijselasticiteit van de vraag is 0. - De procentuele verandering van de gevraagde hoeveelheid is 0%.\nDe procentuele verandering van de prijs is 30 25) x 100% 0 – 2 % 25 = ( De prijselasticiteit van de vraag is 0% 0 20% =",
 "pnt": 1
 },
@@ -10621,7 +10621,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 18,
 "ctx": "FC Forward wil zelf de inkomsten verhogen. De club onderzoekt daarom twee scenario’s waarbij ze de prijs van de thuiswedstrijden willen verhogen (zie tabel 2). Tabel 2 Twee scenario’s met verschillende prijselasticiteiten Ticketprijs (gemiddeld) Extra omzet naast ticket verkoop als % van de ticketverkoop Huidige situatie € 25 20.000 15% Scenario 1 € 30 20.000 15% Scenario 2 € 35 16.000 10%",
-"q": "Gebruik tabel 2.\nBereken de prijselasticiteit van de vraag in scenario 2 en geef een verklaring voor het verschil in prijselasticiteiten van scenario 1 en 2.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 2.\nBereken de prijselasticiteit van de vraag in scenario 2 en geef een verklaring voor het verschil in prijselasticiteiten van scenario 1 en 2.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een juiste berekening van de procentuele veranderingen van de prijs en de vraag. (1p)\n• een juiste berekening van de prijselasticiteit van de vraag. (1p)\n• een juiste verklaring voor het verschil in prijselasticiteiten in scenario 1 en 2. (1p)\nEen voorbeeld van een juist antwoord voor de eerste en tweede deelscore is:\n• In scenario 2 geldt: De prijs verandert met (€\n35 € – 25 € 25) x 100% = 40% De vraag daalt met (16.000 20 .0– 00 20.000) x 100% = – 20% (1p)\n• Prijselasticiteit van de vraag = – 20% 40%\n= – 0,5 1\nVoorbeelden van een juist antwoord voor de derde deelscore zijn: 1 - De prijsverhoging in scenario 1 vinden toeschouwers acceptabel,\nwaardoor de gevraagde hoeveelheid niet verandert en de prijselasticiteit lager is dan in scenario 2. - Bij een prijs van € 25 is er sprake van een vraagoverschot /\ncapaciteitstekort. Bij een hogere prijs worden nog steeds alle tickets verkocht.",
 "pnt": 3
 },
@@ -10637,7 +10637,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "FC Forward wil zelf de inkomsten verhogen. De club onderzoekt daarom twee scenario’s waarbij ze de prijs van de thuiswedstrijden willen verhogen (zie tabel 2). Tabel 2 Twee scenario’s met verschillende prijselasticiteiten Ticketprijs (gemiddeld) Extra omzet naast ticket verkoop als % van de ticketverkoop Huidige situatie € 25 20.000 15% Scenario 1 € 30 20.000 15% Scenario 2 € 35 16.000 10%",
-"q": "Gebruik tabel 2. FC Forward kiest het scenario dat de hoogste totale omzet oplevert.\nKiest de club voor scenario 1 of scenario 2? Verklaar je antwoord met behulp van een berekening.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 2. FC Forward kiest het scenario dat de hoogste totale omzet oplevert.\nKiest de club voor scenario 1 of scenario 2? Verklaar je antwoord met behulp van een berekening.",
 "model": "Een voorbeeld van een juiste berekening is: - Omzet kaartverkoop scenario 1: (€ 30 x 20.000) = € 600.000 Omzet kaartverkoop scenario 2: (€ 35 x 16.000) = € 560.000 - Totale omzet scenario 1: € 600.000 x 1,15 = € 690.000 Totale omzet scenario 2: € 560.000 x 1,10 = € 616.000 - De voetbalclub kiest voor scenario 1.\nindien drie elementen juist 2 indien twee elementen juist 1 indien minder dan twee elementen juist 0",
 "pnt": 2
 },
@@ -10701,7 +10701,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "De econoom kijkt naar de vermogensmarkt (zie figuur 2). De vermogensmarkt is de markt voor vraag en aanbod van onder andere geld en leningen. Figuur 2 Vermogensmarkt",
-"q": "Gebruik figuur 2.\nGeef een verklaring voor het stijgend verloop van de aanbodlijn.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 2.\nGeef een verklaring voor het stijgend verloop van de aanbodlijn.",
 "model": "Voorbeeld van een juist antwoord is: Als de rente stijgt wordt het aantrekkelijker om te sparen / krediet te verstrekken.",
 "pnt": 1
 },
@@ -10885,7 +10885,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 29,
 "ctx": "Het gezondheidsbureau onderzoekt de Britse markt voor frisdranken. Figuur 3 toont de opbrengsten en kosten van een frisdrankproducent voordat de suikertaks wordt ingevoerd. Vervolgens wordt een suikertaks ingevoerd van £ 0,50 per liter frisdrank, waardoor de marginale kosten stijgen. De constante kosten worden buiten beschouwing gelaten. De producent streeft naar maximale winst. Figuur 3 Opbrengsten en kosten van de frisdrankproducent",
-"q": "Gebruik figuur 3.\nBereken de verandering van de maximale winst van de frisdrankproducent nadat de suikertaks is ingevoerd.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 3.\nBereken de verandering van de maximale winst van de frisdrankproducent nadat de suikertaks is ingevoerd.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de oude winst. (1p)\n• een berekening van de nieuwe winst. (1p)\n• een berekening van de verandering van de winst. (1p)\nEen voorbeeld van een juist antwoord is:\n• De oude winst is (bij MO = MK) gelijk aan 9 x (2,75 – 0,5) = £ 20,25 miljoen. (1p)\n• De MK stijgt naar 1, waarbij de nieuwe winst gelijk is aan 8 x (3 – 1) = £ 16 miljoen. (1p)\n• De winst verandert met 16 miljoen – 20,25 miljoen = – £ 4,25 miljoen. (1p)\nOpmerkingen - Als de leerling met een oude prijs van 2,7 of 2,8 rekent, kan de\nmaximale score worden behaald. - Als de leerling de verandering van de winst in procenten berekent, kan\nde maximale score worden behaald.",
 "pnt": 3
 },
@@ -11054,7 +11054,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 2,
 "ctx": "Een econoom onderzoekt de totale markt voor druiven binnen de EU. Figuur 1 toont deze markt. Figuur 1 Druivenmarkt binnen de EU De vraaglijn geeft de betalingsbereidheid van consumenten weer voor geproduceerde druiven binnen de EU.",
-"q": "Gebruik figuur 1.\nBereken de maximale betalingsbereidheid van de consumenten.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 1.\nBereken de maximale betalingsbereidheid van de consumenten.",
 "model": "Een voorbeeld van een juist antwoord is: Maximale betalingsbereidheid van de consumenten als Qv = 0, dus als -7,4P + 80 = 0 → P = 10,81",
 "pnt": 1
 },
@@ -11070,7 +11070,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Een econoom onderzoekt de totale markt voor druiven binnen de EU. Figuur 1 toont deze markt. Figuur 1 Druivenmarkt binnen de EU De vraaglijn geeft de betalingsbereidheid van consumenten weer voor geproduceerde druiven binnen de EU.",
-"q": "Gebruik figuur 1.\nBereken de totale marktomzet van druiven binnen de EU. Bereken daarvoor eerst de evenwichtsprijs en evenwichtshoeveelheid.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 1.\nBereken de totale marktomzet van druiven binnen de EU. Bereken daarvoor eerst de evenwichtsprijs en evenwichtshoeveelheid.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Evenwichtsprijs als Qv = Qa → -7,4P + 80 = 6,6P - 4 → P = 6 Evenwichtshoeveelheid = 6,6 x 6 - 4 = 35,6 (x 1 miljoen) (1p)\n• De marktomzet = 6 x 35,6 x 1 miljoen = € 213,6 miljoen (1p)",
 "pnt": 2
 },
@@ -11278,7 +11278,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Venezuela is een land dat te maken heeft met een hoge inflatie. Daarnaast heeft Venezuela een hoge werkloosheid (zie figuur 2). Figuur 2 Percentage werkloze beroepsbevolking in de periode 2021-2026",
-"q": "Gebruik figuur 2.\nBereken de procentuele stijging van het werkloosheidspercentage in 2022 ten opzichte van 2021.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 2.\nBereken de procentuele stijging van het werkloosheidspercentage in 2022 ten opzichte van 2021.",
 "model": "Een voorbeeld van een juiste berekening is:\n27,1 - 20,6 20,6\n× 100% = 31,6%",
 "pnt": 1
 },
@@ -11574,7 +11574,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 24,
 "ctx": "De Autoriteit Consument en Markt (ACM = toezichthouder) kan in actie komen als zij het bestaan van een kartel vermoedt. De deelnemende bedrijven van het kartel krijgen dan een boete opgelegd. De wijze waarop de ACM de hoogte van de boete berekent, staat in tabel 1. Tabel 1 Hoogte van de boete bij constatering van een kartel Regels Basis van de boete De omzet van de opdracht: € 872.990 Hoogte van de boete 45% van de omzet Mogelijkheden tot het verkrijgen van korting op de vastgesteld boete: Toegeven van kartel en inzage geven in alle documenten 60% korting op de hoogte van de oorspronkelijke boete Klikken (uit eigen beweging kartel melden bij de ACM) Boetevermindering van 100% van de oorspronkelijke boete",
-"q": "Gebruik tabel 1.\nBereken de hoogte van de boete die de ACM een onderneming oplegt als er sprake is van een kartel en de bestrafte onderneming toegeeft en inzage verleent in de documenten.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 1.\nBereken de hoogte van de boete die de ACM een onderneming oplegt als er sprake is van een kartel en de bestrafte onderneming toegeeft en inzage verleent in de documenten.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Grondslag van de boete is: € 872.990 Boete 0,45 x € 872.990 = € 392.845,50 (1p)\n• Korting = € 392.845,50 x 0,60 = € 235.707,30 Boete is: € 392.845,50 − € 235.707,30 = € 157.138,20 (1p)",
 "pnt": 2
 },
@@ -11590,7 +11590,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "De directeuren van de ondernemingen Rond en Kruis stellen een spelboom op om een gezamenlijk strategie af te spreken. Spelboom 1 Kortingspercentages op de hoogte van de boete bij constatering van een kartel",
-"q": "Gebruik spelboom 1.\nVerklaar met behulp van getallen uit de spelboom welk kortingspercentage de onderneming Kruis krijgt.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik spelboom 1.\nVerklaar met behulp van getallen uit de spelboom welk kortingspercentage de onderneming Kruis krijgt.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Als Kruis kiest voor zwijgen, dan zal Rond kiezen voor klikken, want 100 > 60 en 100 > 0. Als Kruis kiest voor toegeven en inzage geven, dan zal Rond kiezen voor klikken, want 100 > 60 en 100 > 0. Als Kruis kiest voor klikken, dan zal Rond kiezen voor toegeven en inzage geven, want 60 > 0. (1p)\n• Onderneming Rond zal kiezen voor klikken, waarna onderneming Kruis (kiest voor toegeven en inzage geven en dus) een kortingspercentage van 60 krijgt. (1p)",
 "pnt": 2
 },
@@ -11622,7 +11622,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Globalisering heeft ook geleid tot baanpolarisatie. Baanpolarisatie houdt in dat het aantal banen voor middelbaar opgeleiden afneemt en tegelijkertijd het aantal banen voor laag- en voor hoogopgeleiden toeneemt. Baanpolarisatie komt in de hele wereld voor. In Europa is dit effect het grootst, in Azië het kleinst en in Noord-Amerika ligt dit tussen beide continenten in. Tabel 2 Baanpolarisatie, verandering van opleidingsniveau ten opzichte van de totale werkgelegenheid in procentpunten continent opleidingsniveau laag middelbaar hoog a 1,86 −5,12 3,26 b 2,18 −6,92 4,74 c 2,64 −7,88 5,24",
-"q": "Gebruik tabel 2.\nWelk continent hoort bij welke letter? Verklaar je keuze.\nDoe dit als volgt: - Noteer de letters a, b en c op je antwoordblad en noteer achter elke letter een continent. Kies daarbij uit: Azië, Europa en Noord-Amerika. - Geef een verklaring voor je keuze.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 2.\nWelk continent hoort bij welke letter? Verklaar je keuze.\nDoe dit als volgt: - Noteer de letters a, b en c op je antwoordblad en noteer achter elke letter een continent. Kies daarbij uit: Azië, Europa en Noord-Amerika. - Geef een verklaring voor je keuze.",
 "model": "• a Azië b Noord-Amerika c Europa (1p)\n• Het aandeel van middelbaar opgeleiden daalt het meest bij c (Europa) en het minst bij a (Azië) / Het aandeel van laag- en hoogopgeleiden stijgt het meest bij c (Europa) en het minst bij a (Azië). (1p)",
 "pnt": 2
 },
@@ -11787,7 +11787,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 1,
 "ctx": "Een land importeert een groot deel van het benodigde voedsel. Een econome meent dat in dit land de productiekosten van voedsel relatief hoog zijn doordat de voedselproductie minder kapitaalintensief is dan in andere landen. Dit kan volgens haar veranderen als voor de voornaamste landbouwproducten tijdelijk een importverbod wordt ingesteld. Dat gaat weliswaar tijdelijk ten koste van de welvaart van de consumenten, maar geeft binnenlandse producenten de gelegenheid om in de periode waarin het importverbod van kracht is, hun productie efficiënter te maken. De econome hanteert het onderstaande model voor de binnenlandse vraag en het binnenlands aanbod op de markt voor één van de betreffende landbouwproducten. De valuta van het land is de UR. Qv = -2P + 100 Qa = 4P - 80 Qa = Qv P = prijs per ton in UR Qv = binnenlandse vraag in duizenden tonnen Qa = binnenlands aanbod in duizenden tonnen De situatie op de betreffende markt met import bij een prijs op de wereldmarkt van 25 UR per ton is in figuur 1 weergegeven. Figuur 1 marktsituatie voor het geselecteerde landbouwproduct 25 hoeveelheid prijs A B CDE F G URH binnenlands aanbod wereldmarkt-prijs binnenlandse vraag",
-"q": "Noem de letters van de vlakken in figuur 1 waarmee het totale gerealiseerde surplus wordt weergegeven, voordat het importverbod wordt ingesteld.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Noem de letters van de vlakken in figuur 1 waarmee het totale gerealiseerde surplus wordt weergegeven, voordat het importverbod wordt ingesteld.",
 "model": "A, B, D, E, F, H\nOpmerking Het scorepunt alleen toekennen als enkel de zes juiste letters zijn genoemd.",
 "pnt": 1
 },
@@ -12123,7 +12123,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 22,
 "ctx": "Tot nu toe worden aanvullende pensioenen in Nederland uitsluitend uitgekeerd als een bedrag per maand. Uit onderzoek blijkt echter dat veel pensioengerechtigden de voorkeur hebben om een deel van dit pensioen als een bedrag ineens te ontvangen, dat wordt uitgekeerd op de datum van pensionering. Econoom Theuns, werkzaam bij een pensioenfonds, geeft een overzicht welke keuze dit fonds dan aan pensioengerechtigden kan bieden. Hij gaat ervan uit dat pensioendeelnemers vanaf de leeftijd van 67 jaar recht hebben op pensioen. Hoe groter het deel van de pensioenpot is dat wordt ingezet voor een bedrag ineens, des te lager is het resterende deel van de pensioenpot dat wordt ingezet voor maandelijkse uitkeringen. Figuur 1 geeft de mogelijke combinaties van uitkeringen weer. Figuur 1 combinaties van keuzemogelijkheden voor pensioen bedrag ineens 100in % van de pensioenwaarde 9080706050403020100 0 0,06 0,12 0,18 0,24 0,30 0,36 0,42 0,48 0,54 0,60 maandelijkse uitkering in % van de pensioenwaarde Een pensioendeelnemer heeft bij pensionering een verwachte pensioenwaarde van € 200.000, en wil hiervan maandelijks minstens € 480 aan pensioenuitkering ontvangen.",
-"q": "Bereken aan de hand van figuur 1 het bedrag dat deze deelnemer dan maximaal ineens kan ontvangen bij het bereiken van de pensioenleeftijd.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Bereken aan de hand van figuur 1 het bedrag dat deze deelnemer dan maximaal ineens kan ontvangen bij het bereiken van de pensioenleeftijd.",
 "model": "Een voorbeeld van een juiste berekening is:\n480 / 200.000 × 100% = 0,24% Bij 0,24% maandelijkse uitkering kan 60% van de pensioenwaarde ineens opgenomen worden. Dat is 0,60 × € 200.000 = € 120.000.",
 "pnt": 2
 },
@@ -12203,7 +12203,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Theuns concludeert dat keuzevrijheid, samen met een onjuiste inschatting van de eigen levensverwachting, voor veel pensioengerechtigden ertoe kan leiden dat ze op enig moment in de toekomst hun gewenste levensstandaard niet meer kunnen behouden.",
-"q": "Verklaar deze conclusie. Gebruik tabel 1.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Verklaar deze conclusie. Gebruik tabel 1.",
 "model": "Een voorbeeld van een juiste verklaring is: Meer mensen verwachten dat ze geen 75 jaar oud worden dan op basis van objectieve cijfers wordt voorspeld. Deze mensen zullen eerder kiezen voor een vast bedrag ineens (omdat zij inschatten dat ze daarmee in totaal tot hun overlijden over een hoger inkomen kunnen beschikken). Een deel zal toch een hogere leeftijd bereiken dan door henzelf verwacht, en loopt dan de kans dat het resterende pensioenbedrag ontoereikend zal zijn om de gewenste levensstandaard te kunnen behouden.",
 "pnt": 2
 },
@@ -12347,7 +12347,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Volgens het rapport kan de verwachte stijging van de zorgkosten worden aangepakt met een nieuw zorgsysteem waarbij de overheid een basispakket gezondheidszorg verplicht stelt met een vast eigen risico. Mensen kunnen in dat systeem zelf kiezen bij welke verzekeraar zij zich willen verzekeren. Verzekeraars mogen niemand weigeren, maar mogen wel zelf de hoogte van hun premie vaststellen. Volgens het rapport kan dit systeem via de marktrelaties tussen verzekerden, verzekeraars en zorgaanbieders, zoals weergegeven in figuur 1, een matigende invloed hebben op de stijging van de zorgkosten.",
-"q": "Leg deze stelling uit. Betrek alle drie de partijen uit figuur 1 in het antwoord.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg deze stelling uit. Betrek alle drie de partijen uit figuur 1 in het antwoord.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• De verzekerden zullen letten op de hoogte van de premie, waardoor de verzekeraars extra op de kosten zullen willen letten (1p)\n• De verzekeraars zullen dan scherper onderhandelen met zorgaanbieders / ook zoeken naar de goedkoopste zorgaanbieders waardoor zorgaanbieders mogelijk hun prijzen zullen matigen (1p)",
 "pnt": 2
 },
@@ -12427,7 +12427,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "In 2009 hebben werkgevers veel mensen ontslagen, met als gevolg een toename van de werkloosheid. De econoom concludeert op basis van figuur 1 en tabel 2: “Het totale aantal gewerkte uren is in 2009 toch minder sterk gedaald dan de productie.”",
-"q": "Noem de gegevens uit figuur 1 en tabel 2 waarop de econoom zich baseert en leg uit hoe hij daarmee tot zijn conclusie is gekomen.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Noem de gegevens uit figuur 1 en tabel 2 waarop de econoom zich baseert en leg uit hoe hij daarmee tot zijn conclusie is gekomen.",
 "model": "• De daling van het aantal gewerkte uren (met 1,4%; zie tabel 2) in 2009, alsmede de daling van (het indexcijfer van) de arbeidsproductiviteit per uur in 2009 ten opzichte van 2008 (van 108,7 naar 105,9; zie tabel 1) (1p)\n• Een voorbeeld van een juiste uitleg is: Doordat behalve het aantal uren ook de arbeidsproductiviteit per uur is gedaald, is de daling van de productie in 2009 sterker dan de daling van het aantal gewerkte uren in dat jaar (1p)",
 "pnt": 2
 },
@@ -12715,7 +12715,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "Een politicus beweert op basis van figuur 2 dat de afname van het emissieplafond door de overheid in 2016 te bescheiden is geweest. Met een lager emissieplafond was er een nog groter effect geweest op de vermindering van de uitstoot van CO2.",
-"q": "Geeft pijl A in figuur 1 een positief of een negatief verband weer? Licht je keuze toe.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Geeft pijl A in figuur 1 een positief of een negatief verband weer? Licht je keuze toe.",
 "model": "een positief verband Een voorbeeld van een juiste toelichting is: Als de kosten van uitstootloze energieopwekking dalen, zullen meer bedrijven hierop overstappen. Er zal minder behoefte zijn aan emissierechten en de vraag daarnaar zal afnemen, waardoor de prijs zal dalen.",
 "pnt": 2
 },
@@ -12907,7 +12907,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "prijspeil geaggregeerde vraag De econoom maakt in zijn verdere analyse van de te verwachten economische ontwikkelingen gebruik van figuur 2, met de geaggregeerde vraag- en aanbodlijnen voor de korte en lange termijn. Figuur 2 geaggregeerde vraag en aanbod, korte- en lange termijn GV = geaggregeerde vraag GAlt = geaggregeerd aanbod op de lange termijn GAkt = geaggregeerd aanbod op de korte termijn De econoom licht toe dat de GAlt-lijn de productiecapaciteit van het land weergeeft. De GAkt-lijn wordt bepaald door de omvang van de feitelijke productie, gegeven de ervaring dat er op korte termijn sprake is van starheid van lonen en prijzen.",
-"q": "Leg uit dat uit figuur 2 is af te leiden dat de economie zich nu in een laagconjunctuur bevindt.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg uit dat uit figuur 2 is af te leiden dat de economie zich nu in een laagconjunctuur bevindt.",
 "model": "Een voorbeeld van een juiste uitleg is: Het kortetermijn evenwicht wordt weergegeven door het snijpunt van GAkt en GV en dit snijpunt ligt links van GAlt. Hierbij is het bbp lager dan de productiecapaciteit. Hieruit blijkt dat de economie zich nu in een laagconjunctuur bevindt.",
 "pnt": 1
 },
@@ -13451,7 +13451,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "De Nationale Concurrentie Autoriteit (NCA) in een land vraagt zich af of er op de snel groeiende markt van pakketbezorging voor bedrijven aan consumenten voldoende concurrentie is en de tarieven niet te hoog zijn. De NCA heeft daarom onderzoek gedaan naar de marktverhoudingen op deze markt. De fragmenten en figuren komen uit het onderzoeksrapport. Om de mate van concurrentie vast te stellen bepaalt de NCA de concentratiegraad op de markt met behulp van de Herfindahl-Hirschman Index (HHI, fragment 2). Als de HHI boven de 2.000 ligt, kent de betreffende markt volgens de NCA onvoldoende concurrentie. fragment 1 Op de markt van pakketbezorging voor bedrijven aan consumenten zijn vier koeriersbedrijven actief: Rapservice, OBAR, ThuisBest en VDTD. Hun klanten zijn met name webwinkels die de bezorging van pakketten laten uitvoeren. Het aantal bezorgde pakketten groeit jaarlijks sterk, alleen in het jaar 2015 al met maar liefst 11,3%. fragment 2 De HHI wordt berekend door de gekwadrateerde marktaandelen (in procenten) van alle spelers in de markt bij elkaar op te tellen. Deze kan liggen tussen 0 (volledige concurrentie) en 10.000 (monopolie). HHI = α1² + α2² + α3² + ... + αn² HHI = Herfindahl-Hirschman Index α 1, 2, 3, n = marktaandeel bedrijf 1, 2, 3, ...n (in procenten) De NCA concludeert: “De markt van pakketbezorging voor bedrijven aan consumenten kende in het jaar 2015 onvoldoende concurrentie.”",
-"q": "Gebruik figuur 1 bij vraag 16 op de volgende pagina.\nToon de conclusie van de NCA aan met een berekening.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 1 bij vraag 16 op de volgende pagina.\nToon de conclusie van de NCA aan met een berekening.",
 "model": "Een voorbeeld van een juiste berekening is:\n• In 2015 bedraagt de HHI 60² + 25² + 8² + 7² = 4.338 (1p)\n• Deze waarde is hoger dan 2.000. (Volgens het criterium van de NCA kent deze markt dus onvoldoende concurrentie) (1p)\nOpmerking Een alternatieve juiste berekening moet ook goedgekeurd worden, bijvoorbeeld HHI > 60² > 2.000.",
 "pnt": 2
 },
@@ -13883,7 +13883,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "De directie van IC bespreekt gedurende de vergadering het prijsbeleid en overweegt daarbij drie mogelijkheden: de prijs gelijk laten, verhogen met 10% of verlagen met 10%. De directie verwacht dat Farbo op dezelfde manier zal reageren op het prijsbeleid van IC. Een directielid geeft de situatie weer met onderstaande spelboom. Figuur 1 spelboom",
-"q": "Verklaar met behulp van de spelboom dat het voor IC gezien de doelstelling niet zinvol is om de prijs van een liter verf aan te passen.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Verklaar met behulp van de spelboom dat het voor IC gezien de doelstelling niet zinvol is om de prijs van een liter verf aan te passen.",
 "model": "Een voorbeeld van een juiste verklaring is:\n• Als pic = € 12,10; kiest Farbo voor pfb = € 12,00; TWic = € 560.000 Als pic = € 11,00; kiest Farbo voor pfb = € 12,00; TWic = € 800.000 Als pic = € 9,90; kiest Farbo voor pfb = € 10,80; TWic = € 100.000 (1p)\n• IC zal kiezen voor pic = € 11,00 omdat dit de hoogste totale winst oplevert / IC zal de prijs dus niet aanpassen (1p)\nOpmerking Voor het juist verwoorden van de doelstelling van IC zonder het benoemen van getallen worden ook scorepunten toegekend.",
 "pnt": 2
 },
@@ -14411,7 +14411,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "De overheid komt na overleg met de centrale bank met twee maatregelen, gericht op het herstel van de economie: - verlaging van de tarieven van de inkomstenbelasting. - verlaging van milieuheffingen voor bedrijven. In de analyse van de overheid wordt de lange-termijnaanbodcurve als constant geacht en kijkt men enkel naar de korte termijn.",
-"q": "Beargumenteer hoe beide maatregelen leiden tot herstel van de economie. Benoem het effect op de relevante lijnen in figuur 2.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Beargumenteer hoe beide maatregelen leiden tot herstel van de economie. Benoem het effect op de relevante lijnen in figuur 2.",
 "model": "Een voorbeeld van een juiste argumentatie is:\n• Verlaging van de tarieven van de inkomstenbelasting leidt tot een grotere koopkracht van gezinnen (gegeven de rente) en tot een verschuiving van de GV-lijn naar rechts (bij elk prijspeil) (1p)\n• Verlaging van de milieuheffingen voor bedrijven leidt tot lagere kosten per eenheid product. Dit leidt tot een verschuiving van de GAkt-lijn naar beneden (1p)",
 "pnt": 2
 },
@@ -14507,7 +14507,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 26,
 "ctx": "In een gemeente zuivert waterzuiveringsbedrijf Zuiverwater (ZW) afvalwater dat door bedrijven in het riool is geloosd. Bedrijven betalen voor elke liter afvalwater een heffing van 70 euro per vervuilingseenheid (VE). ZW heeft specifieke investeringen gedaan en heeft als bedrijfsdoelstelling break-even draaien. Bedrijven kunnen ervoor kiezen om zelf hun afvalwater te zuiveren. Een groep van vier grote bedrijven (de G4) die samen op een bedrijventerrein zijn gevestigd overweegt een eigen zuiveringsinstallatie te bouwen. De G4 brengt ZW hiervan op de hoogte. ZW ziet zijn break-even doelstelling in gevaar komen en zal moeten onderhandelen met de G4 om tot een oplossing te komen.",
-"q": "Gebruik bovenstaande tekst en tabellen 1 tot en met 3 op pagina 13 bij vraag 26. Als ZW een korting op de heffing per VE aanbiedt, kan het verhinderen dat de G4 overstapt op een eigen zuiveringsinstallatie.\nBereken hoe hoog de korting op de heffing per VE minimaal moet zijn.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst en tabellen 1 tot en met 3 op pagina 13 bij vraag 26. Als ZW een korting op de heffing per VE aanbiedt, kan het verhinderen dat de G4 overstapt op een eigen zuiveringsinstallatie.\nBereken hoe hoog de korting op de heffing per VE minimaal moet zijn.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Totaalaantal VE’s = 60.000 x 0,023 + 80.000 x 0,015 + 50.000 x 0,088 + 40.000 x 0,056 = 9.220 (1p)\n• TK eigen installatie = 25 x 9.220 + 300.000 = € 530.500 Kosten per VE per liter = 530.500/9.220 = € 57,54 De korting per VE moet minimaal zijn: 70 - 57,54 = € 12,46 (1p)",
 "pnt": 2
 },
@@ -14667,7 +14667,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 8,
 "ctx": "Figuur 1 Factoren die de hoogte van de premie van het aanvullend pensioen bepalen De econoom legt de voordelen van de koppeling uit: “De koppeling van de AOW-leeftijd aan de levensverwachting kan leiden tot een verlaging van de premie voor het aanvullend pensioen.” Op basis van figuur 1 geeft de econoom daarvoor drie verklaringen.",
-"q": "Geef op basis van figuur 1 de drie verklaringen waarom de premie voor het aanvullend pensioen kan worden verlaagd.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Geef op basis van figuur 1 de drie verklaringen waarom de premie voor het aanvullend pensioen kan worden verlaagd.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Het kapitaal/vermogen zal langer belegd worden, waardoor de premiehoogte ook groeit (zonder dat premie wordt ingelegd) (pijl a) (1p)\n• De tijd dat er uitkeringen worden gedaan wordt korter, dus het te verzamelen kapitaal wordt kleiner (pijl c) en de tijd dat premies kunnen worden betaald neemt toe (pijl b), dus per periode/jaar hoeft minder premie betaald te worden (1p)\nOpmerking Voor het toekennen van de tweede deelscore dienen beide verklaringen (op basis van pijlen b en c) correct te zijn verwoord.",
 "pnt": 2
 },
@@ -14763,7 +14763,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 14,
 "ctx": "DNB schrijft dat de gevoeligheid voor internationale concurrentie per sector verschilt. Een indicatie voor deze concurrentiegevoeligheid is het niveau van openheid van een bedrijfstak zoals te zien is in figuur 1. Figuur 1 Openheid van Nederlandse bedrijfstakken Som van import en export in procenten van bruto toegevoegde waarde, 2016 totaal economische activiteiten landbouw en veeteelt delfstoffenwinning verwerkende industrie waarvan chemie waarvan basismetaal energiebedrijven water- en afvalwaterbedrijven bouw diensten waarvan transport 0 50 100 150 200 250 300 350 400 De DNB-econoom stelt op basis van figuur 1 dat de invoering van een CO2-taks een sterker negatief effect heeft op de winstgevendheid van de chemiesector dan op de winstgevendheid van de bouwsector.",
-"q": "Onderbouw deze stelling op basis van figuur 1.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Onderbouw deze stelling op basis van figuur 1.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De chemische industrie kent relatief de hoogste som van import en export. Dit betekent dat de sector sterk internationaal georiënteerd is, wat betekent dat er substituten zijn. Om de internationale concurrentiepositie niet te zeer onder druk te zetten zal de sector een CO2-taks slechts ten dele doorberekenen in de eindprijs. Dit gaat ten kosten van de winstgevendheid (1p)\n• De bouwsector heeft veel minder last van internationale concurrentie en kan zodoende een groter deel van een CO2-taks doorberekenen, waardoor de winstgevendheid (gemiddelde winst) op peil blijft. (1p)",
 "pnt": 2
 },
@@ -15051,7 +15051,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 3,
 "ctx": "Uitgeverij Amador overweegt (op basis van de cijfers van de analist) een agressievere aanpak door de introductieprijs met 10% te verlagen. Badlands dreigt te reageren met eenzelfde prijsverlaging. De analist brengt de gevolgen in kaart (figuur 1). Figuur 1 Indexcijfers omzet (afgerond) van Amador en Badlands Toelichting: een indexcijfer van 92,5 betekent een omzetdaling van 7,5% ten opzichte van de uitgangssituatie zonder prijsverlagingen.",
-"q": "Toon met een berekening aan dat het getal bij x in figuur 1 gelijk is aan afgerond 103,8.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Toon met een berekening aan dat het getal bij x in figuur 1 gelijk is aan afgerond 103,8.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Amador hanteert een prijs van 0,9 x € 12 = € 10,80 Badlands hanteert een prijs van € 13 qva = 400 – 30pa + 15pb = 400 – (30x10,8) + (15x13) = 271.000 TOa = pa x qa → 271.000 x 10,80 = € 2.926.800 (1p)\n• De oude omzet was gelijk aan € 2.820.000 (235.000 x € 12). Verandering omzet Amador = 2.926.800 2.820.000\n- 2.820.000 x 100% = 3,79% Het indexcijfer is dan 100 + 3,79 = 103,79 en dat is afgerond 103,8 (1p)",
 "pnt": 2
 },
@@ -15067,7 +15067,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Volgens de analist is de uitgangssituatie (waarbij beide spelers geen prijsverlaging doorvoeren) niet realistisch en zij stelt op basis van figuur 1 het volgende: “De dreiging van Badlands is geloofwaardig, waardoor er een suboptimale situatie ontstaat en Amador dus hoe dan ook een lagere omzet kan verwachten dan in de uitgangssituatie.”",
-"q": "Leg de stelling van de analist uit. Motiveer het antwoord met behulp van relevante getallen uit figuur 1.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg de stelling van de analist uit. Motiveer het antwoord met behulp van relevante getallen uit figuur 1.",
 "model": "Een voorbeeld van een juiste uitleg is:\n• Badlands heeft een dominante strategie om de prijs te verlagen want 104,6 > 100 en 97,9 > 92,5. De dreiging om de prijs te verlagen is dus geloofwaardig (1p)\n• Amador zal daardoor kiezen de prijs te verlagen, omdat 96,3 > 91,7. Hierdoor ontstaat een evenwicht met een suboptimale uitkomst want beide spelers hebben een lagere omzet dan verwacht in de uitgangssituatie (1p)",
 "pnt": 2
 },
@@ -15243,7 +15243,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Een steeds kleiner deel van de economische groei is de afgelopen jaren ten goede gekomen aan de productiefactor arbeid. Econoom Van Nassau onderzocht in 2018 mogelijke oorzaken van deze daling van de loonquote (het totale loon van alle werknemers in bedrijven als percentage van de totale netto toegevoegde waarde van bedrijven). Hij gebruikt figuur 1. Figuur 1 Factoren van invloed op de loonquote Toelichting: globalisering houdt in dat er sprake is van een groeiende internationale handel en buitenlandse investeringen en een toegenomen betekenis van multinationals.",
-"q": "Verklaar met behulp van figuur 1 dat een lagere groei van de lonen kan leiden tot een lagere groei van de arbeidsproductiviteit.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Verklaar met behulp van figuur 1 dat een lagere groei van de lonen kan leiden tot een lagere groei van de arbeidsproductiviteit.",
 "model": "Een voorbeeld van een juiste verklaring is:\n• Als de lonen slechts matig stijgen, wordt de productiefactor arbeid relatief goedkoper ten opzichte van kapitaal. Bedrijven kunnen er dan voor kiezen om geen / minder arbeidsbesparende investeringen te doen (1p)\n• De technologische ontwikkeling blijft achter waardoor de arbeidsproductiviteit minder toeneemt of (zelfs) afneemt (1p)",
 "pnt": 2
 },
@@ -15259,7 +15259,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Een steeds kleiner deel van de economische groei is de afgelopen jaren ten goede gekomen aan de productiefactor arbeid. Econoom Van Nassau onderzocht in 2018 mogelijke oorzaken van deze daling van de loonquote (het totale loon van alle werknemers in bedrijven als percentage van de totale netto toegevoegde waarde van bedrijven). Hij gebruikt figuur 1. Figuur 1 Factoren van invloed op de loonquote Toelichting: globalisering houdt in dat er sprake is van een groeiende internationale handel en buitenlandse investeringen en een toegenomen betekenis van multinationals.",
-"q": "Verklaar met behulp van figuur 1 dat globalisering een negatieve invloed kan hebben op de loonquote.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Verklaar met behulp van figuur 1 dat globalisering een negatieve invloed kan hebben op de loonquote.",
 "model": "Een voorbeeld van een juiste verklaring is: Globalisering leidt tot meer internationale concurrentie. Bedrijven kunnen makkelijker diensten kopen uit landen waar de kosten lager zijn. Hierdoor stijgt het overige inkomen van bedrijven, waardoor het loon als onderdeel van de totale netto toegevoegde waarde daalt (en de loonquote daalt).",
 "pnt": 2
 },
@@ -16219,7 +16219,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 18,
 "ctx": "Hans is beleggingsadviseur bij een bank. Hij gebruikt een aangepaste versie van de conjunctuurklok (figuur 1) om de stand en het verloop van de economie te voorspellen. Hiermee kan hij inschatten hoe bijvoorbeeld aandelenkoersen zich zullen ontwikkelen en kan hij zijn beleggingsadviezen onderbouwen. Deze conjunctuurklok is samengesteld door een statistisch bureau en laat van een aantal indicatoren zien of deze duiden op een opgang of neergang van de conjunctuur. De symbolen staan op de plaats die de positie van de indicator in het laatste kwartaal van 2017 aangeeft. De schaalverdeling op de assen geldt alleen voor de verandering van het reële bbp, de uitvoer en de reële investeringen. Voor consumentenvertrouwen en werkloosheid geldt een afwijkende schaal. Zo geldt voor het consumentenvertrouwen dat dit zich in een hoogconjunctuur bevindt, maar wel is afgenomen ten opzichte van het vorige kwartaal. figuur 1 conjunctuurklok van kwartaal 4 (2017) Toelichting: de trendmatige ontwikkeling van het bbp is 0,3% reële groei per kwartaal. boven boven boven de de de trend trend trend (in (in (in procentpunt) procentpunt) procentpunt) 0,4 0,4 0,4 0,3 0,3 0,3 0,2 0,2 0,2 afname afname afname groei groei groei 0,1 0,1 0,1 t.o.v. t.o.v. t.o.v. vorig vorig vorig kwartaal kwartaal kwartaal in in in procent-procent-procent-punten punten punten -0,1 -0,1 -0,1 -0,2 -0,2 -0,2 -0,3 -0,3 -0,3 -0,4 -0,4 -0,4 onder de trend (in procentpunt) toename toename toename groei groei groei t.o.v. t.o.v. t.o.v. vorig vorig vorig -0,4-0,4-0,4 -0,3-0,3-0,3 -0,2-0,2-0,2 -0,1-0,1-0,1 0 0,10,10,1 0,20,20,2 0,30,30,3 0,40,40,4 in in in kwartaal kwartaal kwartaal procent-procent-procent-punten punten punten onder onder de de trend trend (in (in procentpunt) procentpunt) Legenda: Legenda: Legenda: = = = procentuele procentuele procentuele stijging stijging stijging van van van het het het reële reële reële bbp bbp bbp ten ten ten opzichte opzichte opzichte van van van het het het voorafgaande voorafgaande voorafgaande kwartaal kwartaal kwartaal = = = procentuele procentuele procentuele stijging stijging stijging van van van de de de reële reële reële investeringen investeringen investeringen door door door bedrijven. bedrijven. bedrijven. = = = consumentenvertrouwen consumentenvertrouwen consumentenvertrouwen = = = werkloosheid werkloosheid werkloosheid = = = uitvoer uitvoer uitvoer Hans leest in een toelichting op de conjunctuurklok dat de werkloosheid een achterlopende indicator is. De werkloosheid begint pas af te nemen als er al enige tijd een opgaande conjunctuur is.",
-"q": "Is de werkloosheid gedaald of gestegen in het laatste kwartaal van 2017 ten opzichte van een kwartaal eerder? Licht je antwoord toe met behulp van figuur 1.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Is de werkloosheid gedaald of gestegen in het laatste kwartaal van 2017 ten opzichte van een kwartaal eerder? Licht je antwoord toe met behulp van figuur 1.",
 "model": "gedaald Een voorbeeld van een juiste toelichting is: De indicator ‘werkloosheid’ staat in het eerste kwadrant (rechtsboven), wat betekent: de werkloosheidsontwikkeling bevindt zich in een hoogconjunctuur. Dat betekent een daling van de werkloosheid.",
 "pnt": 1
 },
@@ -16235,7 +16235,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "Hans is beleggingsadviseur bij een bank. Hij gebruikt een aangepaste versie van de conjunctuurklok (figuur 1) om de stand en het verloop van de economie te voorspellen. Hiermee kan hij inschatten hoe bijvoorbeeld aandelenkoersen zich zullen ontwikkelen en kan hij zijn beleggingsadviezen onderbouwen. Deze conjunctuurklok is samengesteld door een statistisch bureau en laat van een aantal indicatoren zien of deze duiden op een opgang of neergang van de conjunctuur. De symbolen staan op de plaats die de positie van de indicator in het laatste kwartaal van 2017 aangeeft. De schaalverdeling op de assen geldt alleen voor de verandering van het reële bbp, de uitvoer en de reële investeringen. Voor consumentenvertrouwen en werkloosheid geldt een afwijkende schaal. Zo geldt voor het consumentenvertrouwen dat dit zich in een hoogconjunctuur bevindt, maar wel is afgenomen ten opzichte van het vorige kwartaal. figuur 1 conjunctuurklok van kwartaal 4 (2017) Toelichting: de trendmatige ontwikkeling van het bbp is 0,3% reële groei per kwartaal. boven boven boven de de de trend trend trend (in (in (in procentpunt) procentpunt) procentpunt) 0,4 0,4 0,4 0,3 0,3 0,3 0,2 0,2 0,2 afname afname afname groei groei groei 0,1 0,1 0,1 t.o.v. t.o.v. t.o.v. vorig vorig vorig kwartaal kwartaal kwartaal in in in procent-procent-procent-punten punten punten -0,1 -0,1 -0,1 -0,2 -0,2 -0,2 -0,3 -0,3 -0,3 -0,4 -0,4 -0,4 onder de trend (in procentpunt) toename toename toename groei groei groei t.o.v. t.o.v. t.o.v. vorig vorig vorig -0,4-0,4-0,4 -0,3-0,3-0,3 -0,2-0,2-0,2 -0,1-0,1-0,1 0 0,10,10,1 0,20,20,2 0,30,30,3 0,40,40,4 in in in kwartaal kwartaal kwartaal procent-procent-procent-punten punten punten onder onder de de trend trend (in (in procentpunt) procentpunt) Legenda: Legenda: Legenda: = = = procentuele procentuele procentuele stijging stijging stijging van van van het het het reële reële reële bbp bbp bbp ten ten ten opzichte opzichte opzichte van van van het het het voorafgaande voorafgaande voorafgaande kwartaal kwartaal kwartaal = = = procentuele procentuele procentuele stijging stijging stijging van van van de de de reële reële reële investeringen investeringen investeringen door door door bedrijven. bedrijven. bedrijven. = = = consumentenvertrouwen consumentenvertrouwen consumentenvertrouwen = = = werkloosheid werkloosheid werkloosheid = = = uitvoer uitvoer uitvoer Hans leest in een toelichting op de conjunctuurklok dat de werkloosheid een achterlopende indicator is. De werkloosheid begint pas af te nemen als er al enige tijd een opgaande conjunctuur is.",
-"q": "Bereken met behulp van figuur 1 de procentuele stijging van het reële bbp in het vierde kwartaal van 2017 ten opzichte van het tweede kwartaal van 2017.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Bereken met behulp van figuur 1 de procentuele stijging van het reële bbp in het vierde kwartaal van 2017 ten opzichte van het tweede kwartaal van 2017.",
 "model": "Een voorbeeld van een juiste berekening is:\n• Het bbp steeg in het vierde kwartaal ten opzichte van het derde kwartaal: 0,3% + 0,2% = 0,5% (1p)\n• De stijging in het derde kwartaal ten opzichte van het tweede kwartaal was 0,3% + 0,1% = 0,4% 1,005 × 1,004 = 1,009 → 0,9% stijging (1p)\nOpmerking Voor 0,5% + 0,4% wordt het tweede scorepunt ook toegekend.",
 "pnt": 2
 },
@@ -16683,7 +16683,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Visserijbedrijven willen investeren in innovatieve technologieën om hun visvangst en hun marktpositie te verbeteren. Haddok onderzoekt dit en reageert met behulp van figuur 1: i “Door de investeringen veranderen de kosten voor een individuele visser en verschuift een curve in het rechterdiagram, ii Daardoor verandert het evenwicht op de collectieve markt, iii Hierdoor zal de situatie van overbevissing juist verder verslechteren.”",
-"q": "Leg de reactie van econoom Haddok uit met behulp van figuur 1.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg de reactie van econoom Haddok uit met behulp van figuur 1.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Door de innovatieve investeringen dalen de marginale kosten van de visvangst, dus de MK-lijn schuift naar beneden (1p)\n• Aanbieders kunnen bij iedere prijs meer aanbieden en dus verschuift de collectieve aanbodlijn naar rechts. Op de collectieve vismarkt ontstaat een nieuw evenwicht met een lagere prijs (1p)\n• Door de lagere prijs zal de gevraagde hoeveelheid vis stijgen. Hierdoor stijgt de totale visvangst nog verder (en verslechtert de situatie) (1p)\nOpmerkingen - Het tweede scorepunt uitsluitend toekennen als het een logisch gevolg\nis van de eerste deelscore - Het derde scorepunt uitsluitend toekennen als er wordt geredeneerd\nnaar een verslechtering van de situatie",
 "pnt": 3
 },
@@ -17019,7 +17019,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "Onderwijsinstellingen in het hoger onderwijs (aanbieders) rekenen € 12.000 per jaar collegegeld. Het hoger onderwijs wordt toegankelijker als het collegegeld daalt door bijvoorbeeld een subsidie aan de aanbieder. Het Plan Bureau (PB) onderzoekt de effecten van een subsidie op het collegegeld voor de markt van hoger onderwijs (zie figuur 1). Figuur 1 Vraag- en aanbodmodel van hoger onderwijs De subsidie heeft gevolgen voor de doelmatigheid van het hoger onderwijs.",
-"q": "Analyseer de gevolgen van de subsidie voor de doelmatigheid. Ga als volgt te werk: - Arceer in de uitwerkbijlage (figuur A) het subsidiebedrag van de overheid. - Arceer in de uitwerkbijlage (figuur B) het verloren surplus dat ontstaat door de overheidssubsidie.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Analyseer de gevolgen van de subsidie voor de doelmatigheid. Ga als volgt te werk: - Arceer in de uitwerkbijlage (figuur A) het subsidiebedrag van de overheid. - Arceer in de uitwerkbijlage (figuur B) het verloren surplus dat ontstaat door de overheidssubsidie.",
 "model": "Een voorbeeld van een juiste arcering is: (zie de tekening in het correctievoorschrift)\n• Het juist arceren van de subsidie (figuur A) (1p)\n• Het juist arceren van het surplus verlies (figuur B) (1p)\nFiguur A Figuur B\nof voor de eerste deelscore, figuur A: (zie het correctievoorschrift)",
 "pnt": 2
 },
@@ -17115,7 +17115,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 15,
 "ctx": "Figuur 1 Indexcijfers afzet en omzet van PostNV op de brievenpostmarkt (2010 = 100) Figuur 2 Indexcijfers afzet en omzet van PostNV op de pakketbezorgingsmarkt (2012 = 100) Naast brievenpost is PostNV ook actief in pakketbezorging waar PostNV een grote speler is. Het is daarom mogelijk dat PostNV aan kruissubsidie heeft gedaan om de concurrentiepositie op de markt van pakketbezorging te versterken. Kruissubsidie betekent dat PostNV brievenpost relatief duurder maakt om pakketpost relatief goedkoper te maken om zo beter te kunnen concurreren op de markt van pakketpost.",
-"q": "Leg op basis van figuur 1 en 2 uit hoe er kan worden afgeleid dat er sprake kan zijn geweest van kruissubsidie.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg op basis van figuur 1 en 2 uit hoe er kan worden afgeleid dat er sprake kan zijn geweest van kruissubsidie.",
 "model": "Een voorbeeld van een juist antwoord is: Uit figuur 1 blijkt dat de omzet procentueel minder is gedaald dan de afzet. Dat betekent dat de brievenpost duurder is geworden. Uit figuur 2 blijkt dat de afzet van pakketpost procentueel meer is gestegen dan de omzet. Dat betekent dat pakketpost relatief goedkoper is geworden. Dan zou er sprake kunnen zijn geweest van kruissubsidie.",
 "pnt": 2
 },
@@ -17195,7 +17195,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "Figuur 1 toont een model. Hierin heeft het monetair beleid van de JCB en de FED via de valutamarkt een sterke invloed op de onderlinge exportopbrengsten. Figuur 1 Exportopbrengsten Japan en VS - De getallen betreffen uitsluitend de onderlinge exportopbrengst van Japan en de VS in de eigen valuta, uitgedrukt in afgeronde gehele indexcijfers (de huidige situatie is gelijk aan “ongewijzigd beleid; ongewijzigd beleid”). - De exportprijs wordt uitsluitend bepaald door de hoogte van de wisselkoers. Andere factoren die invloed hebben op de exportprijs worden constant verondersteld. Uit het model kunnen de volgende conclusies worden getrokken: i. Het model heeft een Nash-evenwicht. ii. Dit Nash-evenwicht zal gevolgen hebben voor het binnenlands prijspeil van zowel de VS als Japan (die beide in een hoogconjunctuur verkeren) waardoor de internationale concurrentiepositie kan verslechteren.",
-"q": "Leg de conclusies uit en gebruik getallen uit de spelboom voor het aantonen van het Nash-evenwicht.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg de conclusies uit en gebruik getallen uit de spelboom voor het aantonen van het Nash-evenwicht.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Als de JCB kiest voor ongewijzigd beleid, zal de FED kiezen voor ruim monetair beleid want 104 > 100. Als de JCB kiest voor ruim monetair beleid zal de FED kiezen voor ruim monetair beleid want 100 > 62,5. De JCB zal daarom ook ruim monetair beleid voeren want 100 > 75. Het Nash-evenwicht is dus beide ruim beleid (100, 100) (1p)\n• Beide verlagen de rente. Hierdoor stijgen de binnenlandse bestedingen in beide landen waardoor (gegeven de hoogconjunctuur) de (bestedings)inflatie stijgt (1p)\n• Omdat het binnenlands prijspeil stijgt (ten opzichte van het buitenlands prijspeil) zal de internationale concurrentiepositie van beide landen verslechteren (1p)",
 "pnt": 3
 },
@@ -17243,7 +17243,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Econoom Valderrama stelt: “Ik neem aan dat de centrale bank de beleidsrente aanpast aan de verwachte inflatie en dat ze effectief de rente met één stap aanpassen zodanig dat deze de economie op een output gap van nul brengt.”",
-"q": "Teken in de uitwerkbijlage (figuur C) de nieuwe IS-curve (IS1), MB-curve (MB1) en GA-curve (GA1) bij het nieuwe evenwicht. Noteer op de relevante assen in het tweede en/of derde diagram het nieuwe inkomen (Y*), rente (r1) en de inflatie (π1).\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Teken in de uitwerkbijlage (figuur C) de nieuwe IS-curve (IS1), MB-curve (MB1) en GA-curve (GA1) bij het nieuwe evenwicht. Noteer op de relevante assen in het tweede en/of derde diagram het nieuwe inkomen (Y*), rente (r1) en de inflatie (π1).",
 "model": "• Verschuiving GA-curve omlaag met exact het verschil tussen de inflatie π0 en de lagere inflatie door de schok π1. Op de nieuwe GA-curve komt er bij het nieuwe inkomen (Y0= Y*) een nieuwe inflatie tot stand op basis van de lagere inflatieverwachtingen: π1 (1p)\n• Verschuiving IS curve naar links en MB curve omlaag, waarbij snijpunt IS1=MB1 bij Y0= Y* (1p)",
 "pnt": 2
 },
@@ -17403,7 +17403,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Voor product B geldt: Qa = 2p – 20 Qv = –2p + 80 Qa = aangeboden hoeveelheid zonder subsidie (x 1.000 stuks) Qv = gevraagde hoeveelheid (x 1.000 stuks) P = de prijs per product in euro’s De subsidie bedraagt € 5 per product. De CO2-uitstoot per product A is 6 kilogram, en per product B is het 2 kilogram.",
-"q": "Arceer in de uitwerkbijlage:\n- de heffingsopbrengst voor de overheid in figuur 1. - het verlies aan economische doelmatigheid als gevolg van de subsidie in figuur 2.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Arceer in de uitwerkbijlage:\n- de heffingsopbrengst voor de overheid in figuur 1. - het verlies aan economische doelmatigheid als gevolg van de subsidie in figuur 2.",
 "model": "Een juist antwoord bevat:\n• Het correct arceren op markt A. (1p)\n• Het correct arceren op markt B. (1p)\nOpmerking Andere arceringen kunnen ook juist zijn.",
 "pnt": 2
 },
@@ -17451,7 +17451,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 7,
 "ctx": "Maecenates is een land dat al jaren kampt met een oplopende staatsschuld. Economen Falco en Colomba analyseren de houdbaarheid van de overheidsfinanciën en de doelmatigheid van de overheidsbestedingen in de periode 2011-2020 aan de hand van de gegevens in figuur 1. Figuur 1 Staatsschuldquote en nominale rente Maecenates Staatsschuldquote = staatsschuld x 100% bbp Econoom Falco beweert dat er een verband bestaat tussen de staatsschuldquote en de ontwikkeling van het nominaal rentepercentage op staatsobligaties.",
-"q": "Geef met behulp van figuur 1 een verklaring voor de ontwikkeling van het nominale rentepercentage op staatsobligaties.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Geef met behulp van figuur 1 een verklaring voor de ontwikkeling van het nominale rentepercentage op staatsobligaties.",
 "model": "Voorbeelden van een juist antwoord zijn: - De hogere staatsschuldquote verhoogt het risico op wanbetaling. Beleggers zullen een hogere vergoeding eisen voor dit risico. - De hogere staatsschuldquote kan zorgen voor meer vraag naar\nvermogen (als de staatsschuld is toegenomen). Hierdoor stijgt de rente (op nieuwe obligaties).",
 "pnt": 1
 },
@@ -17611,7 +17611,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 17,
 "ctx": "Arco sluit op 1-1-2023 een exportcontract met een bedrijf uit Rwanda voor de levering van € 12 miljoen aan landbouwapparatuur. Arco ontvangt van het bedrijf het bedrag in Rwandese Frank (RF), volgens Tradesure een hogere risico valuta. Daarom sluit Arco een valutaverzekering af bij Tradesure op 1-1-2023. Het bedrijf uit Rwanda betaalt op 1-7-2023. Figuur 1 Verwachte ontwikkeling wisselkoers van de euro in RF",
-"q": "Gebruik bovenstaande tekst, figuur 1 en tabel 1.\nBereken of Arco voordeel heeft gehad van het afsluiten van de valutaverzekering.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik bovenstaande tekst, figuur 1 en tabel 1.\nBereken of Arco voordeel heeft gehad van het afsluiten van de valutaverzekering.",
 "model": "Een voorbeeld van een juiste berekening is :\n• Bij het niet-afsluiten van een verzekering: De contractsom = € 12 miljoen x 980 = 11,76 miljard RF. Op 1-7 ontvangt Arco: 11,76 miljard RF / 1.024 = € 11.484.375. Er is dus een verlies van € 12.000.000 – € 11.484.375 = € 515.625. (1p)\n• Bij afsluiten van de verzekering ontvangt Arco € 12 miljoen (conform de verzekeringsvoorwaarden). De kosten van de verzekering zijn het vaste deel + variabel deel = (0,005 x 12.000.000) + (0,0025 x 6 x 12.000.000) = € 240.000. De verzekering leidt tot een voordeel van: € 515.625 – € 240.000 = € 275.625. (1p)",
 "pnt": 2
 },
@@ -17675,7 +17675,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 21,
 "ctx": "De wetenschapper stelt dat beide economieën na één renteaanpassing terugkeren naar de potentiële productie. In Oostland zal er een evenwicht ontstaan bij MB0 = MB2. In Westland zal een ander evenwicht ontstaan omdat daar ander beleid is gevoerd. Het model laat drie variabelen zien: de reële productie, de reële rente en de inflatie. De wetenschapper concludeert: “Als ik enkel naar de figuren kijk, zie ik dat slechts één van deze drie variabelen verschilt als beide economieën weer naar Y* terug zijn gekeerd.”",
-"q": "Toon de conclusie van de wetenschapper aan. Werk de opdracht in de uitwerkbijlage als volgt uit: - Teken in figuur 3 de curven die de economie van Westland weergeven nadat de economie is teruggekeerd naar de potentiële productie (Y*). - Benoem de reële rente en inflatie in het nieuwe evenwicht voor beide landen.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Toon de conclusie van de wetenschapper aan. Werk de opdracht in de uitwerkbijlage als volgt uit: - Teken in figuur 3 de curven die de economie van Westland weergeven nadat de economie is teruggekeerd naar de potentiële productie (Y*). - Benoem de reële rente en inflatie in het nieuwe evenwicht voor beide landen.",
 "model": "Een juist antwoord bevat:\n• Het correct tekenen van de GA1-curve met een verschuiving van 0,5 procentpunt omhoog (naar een inflatie van 4%). (1p)\n• Het correct tekenen van de MB1-curve met een verschuiving van 2 procentpunt omhoog (naar een reële rente van 6%). (1p)\n• Het juist benoemen van de evenwichtswaarden van de inflatie en de reële rente. (1p)\nEen juist antwoord is:\n• de nieuwe GA-curve (1p)\n• de nieuwe MB-curve (1p)\n• Het benoemen van de evenwichtswaarden: (1p)\nWestland Oostland\ninflatie 4% 4%\nreële rente 6% 4%",
 "pnt": 3
 },
@@ -17755,7 +17755,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 26,
 "ctx": "Een econoom kijkt met behulp van twee vereenvoudigde modellen naar de economische groei op korte termijn (figuur 1) en op de lange termijn (figuur 2). Met behulp van deze modellen kan de econoom onderzoeken hoe de economische groei kan worden gestimuleerd. Figuur 1 Economische kringloop (pijlen zijn geldstromen) Legenda Y nationaal inkomen E export EV effectieve vraag M import C consumptie B belastingen I investeringen Co autonome consumptie O overheidsbestedingen lo autonome investeringen Oo autonome overheidsbestedingen",
-"q": "Leg uit of er bij figuur 1 sprake is van een Keynesiaans model of een Nieuw klassiek model.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg uit of er bij figuur 1 sprake is van een Keynesiaans model of een Nieuw klassiek model.",
 "model": "Voorbeelden van een juist antwoord zijn: - In het model is te zien dat een verhoging van de bestedingen / EV leidt\ntot een verhoging van het inkomen (Y). Er is dus sprake van een Keynesiaans model. - De Nieuw klassieken veronderstellen dat bestedingen (EV) enkel effect\nhebben op de inflatie en niet op het inkomen / dat de groei van de economie wordt bepaald door structurele ontwikkelingen. In dit model bepalen bestedingen de groei en dus is het Keynesiaans.",
 "pnt": 2
 },
@@ -17883,7 +17883,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "Civitas denkt alle huishoudens te kunnen voorzien van boodschappen, als er een subsidie komt vanuit de gemeente. Civitas overweegt om een van de drie prijsvoorstellen te doen. Deze zijn weergegeven in spelboom 1. De gemeente kan met Civitas een deal sluiten of zelf de voedselvoorziening regelen voor de armste groep. In alle voorstellen heeft iedereen te eten. De gemeente streeft naar zo laag mogelijke kosten, en Civitas wil ook winst maken. Spelboom 1 Winsten Civitas en kosten van de gemeente deal sluiten kleine marge gemeente marktprijs zelf regelen deal sluiten Civitas gemeente zelf regelen kostprijs deal sluiten gemeente zelf regelen Toelichting: alle prijzen van Civitas zijn inclusief een (eventuele) subsidie.",
-"q": "Leg uit welke uitkomst tot stand zal komen. Noem daarbij getallen uit de spelboom.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg uit welke uitkomst tot stand zal komen. Noem daarbij getallen uit de spelboom.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Bij de marktprijs zal de gemeente het zelf regelen, want € 150.000 < € 180.000. Bij een kleine marge en de kostprijs zal de gemeente de deal accepteren, want € 135.000 < € 150.000 en € 90.000 < € 150.000. (1p)\n• Civitas heeft dus de keuze tussen € 0 winst bij de marktprijs, € 45.000 bij een kleine marge en € 0 bij aanbieden tegen kostprijs. De uitkomst is: kleine marge, deal sluiten / € 45.000 ; € 135.000. (1p)\nof Civitas krijgt bij de marktprijs een winst van € 0 omdat de gemeente het zelf zal regelen, want € 150.000 < € 180.000. Bij de kleine marge krijgt Civitas € 45.000, want voor de gemeente is € 135.000 < € 150.000. Bij de kostprijs krijgt Civitas € 0, dus is het voor Civitas het voordeligst om een kleine marge te rekenen. De uitkomst is: kleine marge, deal sluiten / € 45.000 ; € 135.000.",
 "pnt": 2
 },
@@ -18107,7 +18107,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 19,
 "ctx": "De staalverwerkende industrie vraagt om 9 miljoen ton staal. Archy levert in de uitgangssituatie 7,333 miljoen ton staal. De rest wordt geïmporteerd. Na invoering van de stikstofheffing blijft de totale binnenlandse vraag naar staal 9 miljoen ton. Figuur 1 Opbrengsten en kosten Archy Archy streeft naar maximale totale winst. Voor Archy geldt in de uitgangssituatie: GO = –60Q + 980 MK1 = 100 Een stikstofheffing zal leiden tot een stijging van de marginale kosten met 40%.",
-"q": "Gebruik figuur 1, de tekst boven figuur 1 en de formule van de Armington-elasticiteit.\nBereken de hoogte van de Armington-elasticiteit.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 1, de tekst boven figuur 1 en de formule van de Armington-elasticiteit.\nBereken de hoogte van de Armington-elasticiteit.",
 "model": "Een juist antwoord bevat:\n• een berekening van de procentuele verandering van de binnenlandse prijs en de procentuele verandering van de geïmporteerde hoeveelheid staal. (1p)\n• een berekening van de Armington-elasticiteit. (1p)\nEen voorbeeld van een juiste berekening is:\n• De (binnenlandse) prijs was 540 en stijgt naar 560. De procentuele verandering van de prijs is (560 – 540) / 540 x 100 = 3,7%. Geïmporteerd staal stijgt van 1,667 (9 – 7,333) naar 2 miljoen ton (9 – 7). De procentuele verandering is (2 – 1,667) / 1,667 x 100 = 20%. (1p)\n• De Armington-elasticiteit is 20% / 3,7% = 5,4 (afgerond). (1p)",
 "pnt": 2
 },
@@ -18123,7 +18123,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 20,
 "ctx": "Piethaan: “Een stikstofheffing zal effect hebben op het producentensurplus van de binnenlandse staalmarkt, waardoor de doelmatigheid van de staalmarkt verder zal afnemen. Onze buurlanden hebben echter minder milieuregels, waardoor de mondiale maatschappelijke kosten juist kunnen toenemen.”",
-"q": "Analyseer het effect van de stikstofheffing op het producentensurplus in de binnenlandse staalmarkt. Doe het als volgt: - Arceer in de figuur in de uitwerkbijlage de veranderingen van het producentensurplus als gevolg van de stikstofheffing. - Geef een verklaring voor de daling van het producentensurplus.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Analyseer het effect van de stikstofheffing op het producentensurplus in de binnenlandse staalmarkt. Doe het als volgt: - Arceer in de figuur in de uitwerkbijlage de veranderingen van het producentensurplus als gevolg van de stikstofheffing. - Geef een verklaring voor de daling van het producentensurplus.",
 "model": "Een juist antwoord bevat:\n• drie arceringen van de veranderingen van het producentensurplus. (2p)\n• een verklaring van de totale verandering van het producentensurplus. (1p)\nEen voorbeeld van juiste arcering is: (zie de tekening in het correctievoorschrift)\nindien drie arceringen juist 2 indien twee arceringen juist 1 indien een of geen arceringen juist 0\nEen voorbeeld van een juiste verklaring is: 1 Het producentensurplus daalt (per saldo), omdat de productie daalt en de marginale kosten (als gevolg van de heffing) meer stijgen (+40) dan de verkoopprijs (+20).",
 "pnt": 3
 },
@@ -18411,7 +18411,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "De pensioenfondsen beleggen hun vermogen in aandelen en obligaties. Pensioenfondsen concurreren met elkaar (= marktwerking) op basis van de ingelegde pensioenpremie. Werknemers ontvangen alleen informatie over de verhouding tussen obligaties en aandelen waarin een pensioenfonds belegt en de maandelijkse premie die ze moeten betalen. In Mañan kunnen werknemers wisselen van pensioenaanbieder. Figuur 1 toont de relevante factoren binnen de markt voor aanvullende pensioenen. Figuur 1 Factoren die de hoogte van de aanvullende pensioenen beïnvloeden huidig vermogen pensioenfonds dekkingsgraad x 100% huidige waarde toekomstige pensioenuitkeringen = Stel dat de inflatie hoger wordt dan de gewenste inflatie van de centrale bank.",
-"q": "Leg met behulp van figuur 1 uit dat deze hogere inflatie zorgt voor een stijgende dekkingsgraad.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg met behulp van figuur 1 uit dat deze hogere inflatie zorgt voor een stijgende dekkingsgraad.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg van het effect van inflatie op de rentestand. (1p)\n• Een uitleg van het effect van de rente via huidige waarde van de toekomstige pensioenuitkeringen (de noemer). (1p)\nEen voorbeeld van een juist antwoord is:\n• Bij een hogere inflatie (dan gewenst) zal de centrale bank (vanwege de monetaire beleidsregel) ervoor kiezen om de rente te verhogen. (1p)\n• Een hogere rente zorgt voor een lagere huidige waarde van de toekomstige pensioenuitkeringen waardoor de dekkingsgraad zal stijgen. (1p)",
 "pnt": 2
 },
@@ -18427,7 +18427,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "De pensioenfondsen beleggen hun vermogen in aandelen en obligaties. Pensioenfondsen concurreren met elkaar (= marktwerking) op basis van de ingelegde pensioenpremie. Werknemers ontvangen alleen informatie over de verhouding tussen obligaties en aandelen waarin een pensioenfonds belegt en de maandelijkse premie die ze moeten betalen. In Mañan kunnen werknemers wisselen van pensioenaanbieder. Figuur 1 toont de relevante factoren binnen de markt voor aanvullende pensioenen. Figuur 1 Factoren die de hoogte van de aanvullende pensioenen beïnvloeden huidig vermogen pensioenfonds dekkingsgraad x 100% huidige waarde toekomstige pensioenuitkeringen = Stel dat de inflatie hoger wordt dan de gewenste inflatie van de centrale bank.",
-"q": "Leg met behulp van figuur 1 uit dat marktwerking tot een lagere premie kan leiden.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg met behulp van figuur 1 uit dat marktwerking tot een lagere premie kan leiden.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• Een uitleg van het effect van marktwerking op de bedrijfskosten. (1p)\n• Een uitleg van het effect van bedrijfskosten op de premies. (1p)\nEen voorbeeld van een juist antwoord is:\n• Doordat werknemers kunnen overstappen naar een andere pensioenaanbieder ontstaat marktwerking. Dit zorgt ervoor dat pensioenfondsen zo efficiënt mogelijk willen werken zodat de bedrijfskosten dalen. (1p)\n• Als ze dit doorberekenen zal ook de premie dalen. (1p)\nof\n• Marktwerking kan pensioenfondsen stimuleren om innovatieve beleggingsstrategieën en -producten te ontwikkelen die betere rendementen kunnen opleveren of lagere risico's hebben. Deze betere producten / strategieën kunnen de kosten van het pensioenfonds verlagen. (1p)\n• Als ze dit doorberekenen zal ook de premie dalen. (1p)",
 "pnt": 2
 },
@@ -18683,7 +18683,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "De econoom stelt een model op voor twee boeren om de keuze voor traditionele of biologische teelt te onderzoeken (zie tabellen 1 en 2). Tabel 1 verkoopprijs en variabele kosten per kg traditionele teelt biologische teelt verkoopprijs per kg € 2,20 € 3,00 variabele kosten per kg € 0,75 € 1,00 Tabel 2 pay-off matrix van behaalde winsten (in €) en afzetten (in kg) boer B traditionele teelt biologische teelt boer A traditionele teelt € 80.000 ; € 80.000 65.000 kg ; 65.000 kg € 87.250 ; € 75.000 70.000 kg ; 46.050 kg biologische teelt € 75.000 ; € 87.250 46.050 kg ; 70.000 kg € 92.900 ; € 92.900 55.000 kg ; 55.000 kg Stel dat boer B investeert in biologische teelt, terwijl boer A voorlopig traditioneel blijft telen. De oude vaste (constante) kosten, voordat de investering wordt gedaan, zijn € 14.250.",
-"q": "Gebruik tabellen 1 en 2.\nBereken de procentuele stijging van de totale vaste (constante) kosten bij boer B als gevolg van de investering in biologische teelt.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabellen 1 en 2.\nBereken de procentuele stijging van de totale vaste (constante) kosten bij boer B als gevolg van de investering in biologische teelt.",
 "model": "Een juiste berekening bevat:\n• Een berekening van de nieuwe vaste (constante) kosten. (1p)\n• Een berekening van de procentuele stijging van de constante kosten. (1p)\nEen voorbeeld van een juiste berekening is:\n• In de nieuwe situatie zijn bij de afzet van 46.050 kg de TCK: TCK = TO – TVK – TW = 46.050 kg x (3 – 1) – 75.000 = € 17.100. (1p)\n• Dit is een stijging van: (17.100 – 14.250) / 14.250 x 100 = 20%. (1p)",
 "pnt": 2
 },
@@ -18715,7 +18715,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 29,
 "ctx": "De econoom stelt een model op voor twee boeren om de keuze voor traditionele of biologische teelt te onderzoeken (zie tabellen 1 en 2). Tabel 1 verkoopprijs en variabele kosten per kg traditionele teelt biologische teelt verkoopprijs per kg € 2,20 € 3,00 variabele kosten per kg € 0,75 € 1,00 Tabel 2 pay-off matrix van behaalde winsten (in €) en afzetten (in kg) boer B traditionele teelt biologische teelt boer A traditionele teelt € 80.000 ; € 80.000 65.000 kg ; 65.000 kg € 87.250 ; € 75.000 70.000 kg ; 46.050 kg biologische teelt € 75.000 ; € 87.250 46.050 kg ; 70.000 kg € 92.900 ; € 92.900 55.000 kg ; 55.000 kg Stel dat boer B investeert in biologische teelt, terwijl boer A voorlopig traditioneel blijft telen. De vaste (constante) kosten voor de investering zijn € 14.250.",
-"q": "Gebruik tabel 2.\nLeg met behulp van getallen uit of de negatieve externe effecten dalen als de boeren kiezen voor afzetmaximalisatie.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik tabel 2.\nLeg met behulp van getallen uit of de negatieve externe effecten dalen als de boeren kiezen voor afzetmaximalisatie.",
 "model": "Een voorbeeld van een juist antwoord is:\n• Als de boeren voor afzetmaximalisatie kiezen, hebben zij beiden een dominante strategie van traditionele teelt, want 65.000 > 46.050 en 70.000 > 55.000. (1p)\n• Daardoor zullen de negatieve gevolgen van groenteteelt op het milieu niet afnemen, waardoor de negatieve externe effecten niet dalen. (1p)",
 "pnt": 2
 },
@@ -18779,7 +18779,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Stel dat de overheid een subsidie van € 50 per videodeurbel geeft aan alle consumenten. Hierdoor verschuift de GO- en MO-lijn.",
-"q": "Teken de GO- en MO-lijn inclusief subsidie in figuur 1 van de uitwerkbijlage.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Teken de GO- en MO-lijn inclusief subsidie in figuur 1 van de uitwerkbijlage.",
 "model": "• het correct tekenen van de GO-lijn. (1p)\n• het correct tekenen van de MO-lijn. (1p)",
 "pnt": 2
 },
@@ -18795,7 +18795,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 5,
 "ctx": "In de praktijk blijkt dat het verstrekken van een subsidie van € 50 per videodeurbel aan de producent eenvoudiger is uit te voeren dan aan de consument. Daarmee ontstaat de marktsituatie zoals getoond in figuur 2. Figuur 2 Marktsituatie van Safetybell na subsidie aan de producent De verschuiving van de MK-lijn naar MK’-lijn is het gevolg van de subsidie aan de producent. Safetybell blijft streven naar maximale totale winst.",
-"q": "Arceer het totale subsidiebedrag in figuur 2 van de uitwerkbijlage.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Arceer het totale subsidiebedrag in figuur 2 van de uitwerkbijlage.",
 "model": "Twee voorbeelden van een juiste arcering: (zie de tekening in het correctievoorschrift)\nOpmerking Uitsluitend 0 of 2 scorepunten toekennen.",
 "pnt": 2
 },
@@ -18875,7 +18875,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 10,
 "ctx": "De lijn in figuur 1 geeft aan dat de premies als percentage van het totale pensioenvermogen dalen.",
-"q": "Gebruik de aannames a, b, c en d en figuur 1.\nLeg uit dat de premies als percentage van het totale pensioenvermogen dalen.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik de aannames a, b, c en d en figuur 1.\nLeg uit dat de premies als percentage van het totale pensioenvermogen dalen.",
 "model": "Een juist antwoord bevat:\n• een juiste uitleg over de relatie tussen het pensioenvermogen en het bbp. (1p)\n• een juiste uitleg over de relatie tussen de premies als percentage van het pensioenvermogen en het bbp. (1p)\nEen voorbeeld van een juist antwoord is:\n• Het jaarlijkse rendement groeit meer dan het bbp, waardoor het totale pensioenvermogen meer stijgt dan het bbp. (1p)\n• Doordat de premies als percentage van het bbp gelijk blijven, zullen de premies als percentage van het totale pensioenvermogen dalen. (1p)",
 "pnt": 2
 },
@@ -19115,7 +19115,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 25,
 "ctx": "Om de macro-economische effecten van beide voorstellen te onderzoeken, gebruikt een econoom het IS-MB-GA model. Figuren 1 en 2 tonen een negatieve vraagschok waardoor de productie kleiner is dan het productiepotentieel. Figuur 1 toont een model met een starre arbeidsmarkt en figuur 2 toont een model met een flexibele arbeidsmarkt. Figuur 1 Starre arbeidsmarkt Figuur 2 Flexibele arbeidsmarkt r = reële rente in procenten π = inflatie in procenten Y = reële productie / inkomen",
-"q": "Leg uit in welk model (figuur 1 of figuur 2) de centrale bank de nominale rente sterker zal verlagen om de economie terug te laten keren naar de potentiële productie.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Leg uit in welk model (figuur 1 of figuur 2) de centrale bank de nominale rente sterker zal verlagen om de economie terug te laten keren naar de potentiële productie.",
 "model": "Een voorbeeld van een juist antwoord is:\n• In figuur 2 ontstaat een groter verschil tussen de inflatie en de verwachte inflatie. (1p)\n• De centrale bank zal dan een grotere nominale renteaanpassing doen, waardoor de economie terugkeert naar de potentiële productie. (1p)",
 "pnt": 2
 },
@@ -19147,7 +19147,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 27,
 "ctx": "In de situatie vóór de droogte was de prijs van water € 1 per 1.000 liter. Een econoom stelt een model op waarin een heffing van € 1 per 1.000 liter water wordt ingevoerd (zie figuur 1). Figuur 1 Vraag en aanbod van drinkwater per maand Qa1 = aanbodlijn voor heffing Qa2 = aanbodlijn na heffing Qv1 = vraaglijn september t/m juni Qv2 = vraaglijn in droogste maanden juli en augustus Q’ = maandelijkse productiecapaciteit bij droogte P = prijs voor heffing in euro’s Ph = prijs na heffing in euro’s",
-"q": "Gebruik figuur 1.\nLeg uit of de heffing ervoor zorgt dat de overconsumptie in de zomermaanden bij droogte wordt tegengegaan.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 1.\nLeg uit of de heffing ervoor zorgt dat de overconsumptie in de zomermaanden bij droogte wordt tegengegaan.",
 "model": "Een voorbeeld van een juist antwoord is:\n• De heffing zorgt voor een toename van de prijs naar € 2 (per 1.000 liter). Hierdoor ontstaat een nieuw evenwicht bij Qv2 = Qa2 bij Q = 14.000. (1p)\n• De vraag is gelijk aan de capaciteit, dus overconsumptie wordt tegengegaan. (1p)",
 "pnt": 2
 },
@@ -19243,7 +19243,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Als gevolg van de keuze voor biobrandstof verandert het totale surplus bij winstmaximalisatie.",
-"q": "Arceer in figuur 1 van de uitwerkbijlage de vlakken die deze verandering van het totale surplus bij winstmaximalisatie weergeven.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Arceer in figuur 1 van de uitwerkbijlage de vlakken die deze verandering van het totale surplus bij winstmaximalisatie weergeven.",
 "model": "Een juist antwoord bevat:\n• het arceren van de verandering als gevolg van de andere prijs. (1p)\n• het arceren van de verandering als gevolg van de andere afzet. (1p)\nEen voorbeeld van een juiste arcering is: (zie de tekening in het correctievoorschrift)",
 "pnt": 2
 },
@@ -19323,7 +19323,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 9,
 "ctx": "De effectiviteit van het monetaire beleid kan worden gemeten door de rente-elasticiteit. De rente-elasticiteit meet hoe sterk de vraag naar geld reageert als gevolg van een renteverandering.",
-"q": "Gebruik figuur 2.\nBereken de rente-elasticiteit als gevolg van het ingrijpen van de centrale bank.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Gebruik figuur 2.\nBereken de rente-elasticiteit als gevolg van het ingrijpen van de centrale bank.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de procentuele veranderingen van de rente en van de gevraagde hoeveelheid. (1p)\n• een berekening van de rente-elasticiteit. (1p)\nEen voorbeeld van een juiste berekening is:\n• Procentuele verandering rente: (2,5 – 4) / 4 x 100% = –37,5%. Procentuele verandering vraag: (50 mld – 40 mld) / 40 mld x 100% = 25%. (1p)\n• De rente-elasticiteit = 25% / –37,5% = –0,7 (1p)\nOpmerking Als de kandidaat de nieuwe evenwichtsrente afleest tussen 2,3% en 2,7% kunnen maximale scorepunten worden behaald.",
 "pnt": 2
 },
@@ -19387,7 +19387,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 13,
 "ctx": "In periode 1 verschuift de IS-curve naar IS1. De econoom neemt aan dat de centrale bank met één rentestap de economie terugbrengt naar de potentiële productie (Y*).",
-"q": "Geef de aanpassing van de economie weer over de tijd.\nDoe het als volgt: - Teken in figuur 3 van de uitwerkbijlage de nieuwe MB-curve (MB1) en GA-curve (GA1) van periode 1. - Vul in de tabel in de uitwerkbijlage de reële rente (r) en de inflatie (π) in na de renteaanpassing.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Geef de aanpassing van de economie weer over de tijd.\nDoe het als volgt: - Teken in figuur 3 van de uitwerkbijlage de nieuwe MB-curve (MB1) en GA-curve (GA1) van periode 1. - Vul in de tabel in de uitwerkbijlage de reële rente (r) en de inflatie (π) in na de renteaanpassing.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een schets van GA1 (1p)\n• een schets van MB1 (1p)\n• de nieuwe reële rente en inflatie. (1p)\nEen voorbeeld van een juist antwoord is:\n• GA1 verschuift met twee procentpunt omlaag. (1p)\n• MB1 verschuift naar r = 1%. (1p)\n• In het evenwicht geldt dat r = 1% en π = 2%. (1p)",
 "pnt": 3
 },
@@ -19547,7 +19547,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 23,
 "ctx": "Een econoom analyseert de economie van Australië in 2023 met behulp van een kringloopmodel (zie figuur 5). De pijlen zijn geldstromen. Figuur 5 Kringloopmodel Australië (2023) De getallen zijn in miljarden Australische dollars. B = belastingen C = particuliere consumptie E = export van goederen en diensten I = bedrijfsinvesteringen M = import van goederen en diensten O = overheidsbestedingen S = particuliere besparingen Y = nationaal inkomen (vervangingsinvesteringen en afschrijvingen blijven buiten beschouwing) In het kringloopmodel staan de pijlen tussen gezinnen, banken en bedrijven gegeven. De richting van de pijlen tussen buitenland, banken en overheid (pijlen 1 en 3) zijn nog onbekend.",
-"q": "Geef:\n- de berekening van de vier ontbrekende waarden in figuur 5; - aan in welke richting de pijlen bij 1 en 3 lopen.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Geef:\n- de berekening van de vier ontbrekende waarden in figuur 5; - aan in welke richting de pijlen bij 1 en 3 lopen.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een berekening van de vier ontbrekende waarden. (2p)\n• het benoemen van de richting van de twee pijlen. (1p)\nEen voorbeeld van een juist antwoord is:\n• 1 → (E - M) = 671 - 527 = 144 2 → I = (Y - C - O - E + M) → I = 2.385 - 1.237 - 885 - 671 + 527 = 119 3 → (B - O) = 923 - 885 = 38 4 → S = (Y - B - C) → S = 2.385 - 923 - 1.237 = 225 (2p)\n• Pijl 1 loopt van banken naar buitenland en pijl 3 loopt van overheid naar banken. (1p)\nVoor de eerste deelscore geldt: indien vier waarden juist 2 indien drie of twee waarden juist 1 indien minder dan twee waarden juist 0",
 "pnt": 3
 },
@@ -19707,7 +19707,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 4,
 "ctx": "Een econoom analyseert de gevolgen van het programma met een vraag- en aanbodmodel (zie figuur 1). Figuur 1 Vraag- en aanbodmodel van rijst Hierbij geldt dat: De vraag (V): Qv = –0,4P + 550 Het aanbod (A): Qa = 0,8P – 100 Q is in miljoenen tonnen P is de prijs per ton (in $) Het programma leidt per saldo tot een verlies voor de overheid.",
-"q": "Arceer in figuur 1 in de uitwerkbijlage het verlies van de overheid.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Arceer in figuur 1 in de uitwerkbijlage het verlies van de overheid.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• het correct aangeven van het verschil tussen vraag en aanbod bij een prijs van $ 750. (1p)\n• het correct aangeven van het verschil tussen de garantieprijs en de prijs van rijst voor mensen met de laagste inkomens bij Q = 500. (1p)\nEen voorbeeld van een juiste arcering is: (zie de tekening in het correctievoorschrift)",
 "pnt": 2
 },
@@ -19899,7 +19899,7 @@ EXAMEN.vragen.push(...[
 "t": "open",
 "nr": 16,
 "ctx": "Figuur 2 toont het IS-MB-GA model met een flexibele arbeidsmarkt. In dit land ontstaat er een laagconjunctuur waardoor IS0 verschuift naar IS1. Neem aan dat de centrale bank de economie met één rentestap terugbrengt naar het evenwicht.",
-"q": "Bepaal de evenwichten bij de nieuwe stabiele inflatie. Doe het als volgt:\n- Teken in figuur 2 in de uitwerkbijlage de nieuwe MB-curve (MB1) en GA-curve (GA1). - Noteer in de tabel eronder het nieuwe inkomen (Y*), de nieuwe reële rente, de inflatie in de uitgangssituatie en de nieuwe inflatie.\n(De figuur of tabel staat in het examen zelf. Die zit nog niet in de app: pak het examen erbij.)",
+"q": "Bepaal de evenwichten bij de nieuwe stabiele inflatie. Doe het als volgt:\n- Teken in figuur 2 in de uitwerkbijlage de nieuwe MB-curve (MB1) en GA-curve (GA1). - Noteer in de tabel eronder het nieuwe inkomen (Y*), de nieuwe reële rente, de inflatie in de uitgangssituatie en de nieuwe inflatie.",
 "model": "Een juist antwoord bevat in relatie tot de context:\n• een schets van GA1 (1p)\n• een schets van MB1 (1p)\n• het oude inkomen, de nieuwe reële rente, de oude en nieuwe inflatie. (1p)\n1 • het verschuiven van de GA-curve met 2 procentpunt.\n• het verschuiven van de MB-curve met 1 procentpunt. (1p)\n• het noteren van de evenwichtswaarden 7, 400, 5,5 en 3,5 (1p)\nreële rente inkomen inflatie\nuitgangssituatie 8 400 5,5\nnieuwe situatie 7 400 3,5\nOpmerking Als de inflatie met 0,2 procentpunt verschil wordt afgelezen kan het maximale aantal scorepunten worden behaald.",
 "pnt": 3
 },
