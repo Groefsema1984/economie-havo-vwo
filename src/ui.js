@@ -11,7 +11,7 @@ const FOTO={start:'1522202176988-66273c2fd55f',A:'1554224154-26032ffc0d07',B:'14
  sprint:'1704265586142-db3e17d0dea0',vaardig:'1611974789855-9c2a0a7236a3',herhaal:'1434030216411-0b793f4b4173',docent:'1509062522246-3755977927d7',collectie:'1785780224428-7b690d3d58bd',account:'1522071820081-009f0129c71c'};
 const foto=(k,w=1400)=>FOTO[k]?`background-image:url('https://images.unsplash.com/photo-${FOTO[k]}?w=${w}&q=70&auto=format&fit=crop')`:'';
 const VOET=()=>`<footer class="voettekst"><div class="in"><b>vellesan <span class="o">college</span></b><span>Economie havo/vwo · oefenapp per syllabusdomein</span><span style="margin-left:auto">Foto's: Unsplash</span></div></footer>`;
-const initialen=n=>(n||'?').split(' ').filter(Boolean).map(x=>x[0]).filter(c=>/[A-Za-zÀ-ÿ]/.test(c)).slice(0,2).join('').toUpperCase()||'?';
+const initialen=n=>(n||'?').split(' ').filter(Boolean).map(x=>x[0]).filter(c=>/\p{L}/u.test(c)).slice(0,2).join('').toUpperCase()||'?';
 function nav(){
   document.body.dataset.scherm=scherm; const vk=$('.logo .vak'); if(vk) vk.textContent=vakLabel();
   const m=$('#menu'), p=$('#profiel'); if(!m) return;
@@ -49,7 +49,7 @@ welkom(){
    <div class="kaart"><span class="eyebrow" style="color:var(--knop)">Eerste keer</span><h3 style="margin:6px 0 0">Ik ben nieuw</h3>
     <label class="label">Je voor- en achternaam</label><input type="text" id="wNaam" autocomplete="name">
     <label class="label">Je klas</label><select id="wKlas">${opties}</select>
-    <div class="voet"><button class="knop vol" onclick="nieuwAccount()">Account maken</button></div></div>
+    <div class="voet"><button class="knop vol" id="wMaak" onclick="nieuwAccount()">Account maken</button></div></div>
    ${serverModus()?`<div class="kaart"><span class="eyebrow" style="color:var(--knop)">Terugkomen</span><h3 style="margin:6px 0 0">Ik heb al een account</h3>
     <p class="zacht" style="margin:6px 0 0;font-size:15px">Nieuwe iPad, of de app opnieuw geopend? Vul je speler-ID en herstelcode in. Je voortgang komt terug.</p>
     <label class="label">Speler-ID</label><input type="text" id="hId" autocapitalize="characters" placeholder="bijv. H5-K7QD">
@@ -59,6 +59,9 @@ welkom(){
    <p class="zacht mid" style="font-size:14px;margin-top:24px">Tip voor de iPad: open de link in Safari, tik op het deel-icoon en kies "Zet op beginscherm". Open de app daarna altijd vanaf het beginscherm.</p></div>${VOET()}`;
 },
 code(){
+  if(!S||!S.id||!S.code) return `<div class="wrap" style="max-width:560px"><div class="kaart mid"><div class="groot">⚠️</div>
+   <h2 style="margin-top:0">Je gegevens zijn nog niet binnen</h2><p>Er ging iets mis bij het maken van je account. Kijk onder <b>Account</b> of je speler-ID en herstelcode er staan. Staan ze er niet, vraag je docent om je gegevens op te zoeken.</p>
+   <div class="voet" style="justify-content:center"><button class="knop" onclick="go('account')">Naar Account</button></div></div></div>`;
   return `<div class="wrap" style="max-width:560px"><div class="kaart mid"><div class="groot">🔐</div>
    <h2 style="margin-top:0">Bewaar deze gegevens goed</h2><p>Hiermee haal je je voortgang terug op een andere iPad of als de app gewist is. <b>Maak nu een screenshot.</b></p>
    <p class="zacht" style="margin-bottom:2px">Speler-ID</p><div class="code">${esc(S.id)}</div>
@@ -208,14 +211,23 @@ docent(){
 };
 
 // ===== Account =====
+let accountBezig=false;
 async function nieuwAccount(){
+  if(accountBezig) return;                       // nog een tik terwijl de server bezig is: negeren
   const naam=$('#wNaam').value.trim().replace(/\s+/g,' '), klas=$('#wKlas').value;
   if(naam.length<3||!naam.includes(' ')){ melding('Vul je voor- én achternaam in'); return }
-  S=nieuweStaat(); S.naam=naam; S.klas=klas;
+  const st=nieuweStaat(); st.naam=naam; st.klas=klas;
   if(serverModus()){
-    try{ const j=await api('nieuw',{naam,klas}); S.id=j.id; S.code=j.code; bewaar(false); await sync(); go('code'); }
-    catch(e){ S=null; melding('Geen verbinding met de server. Probeer het opnieuw. ('+e.message+')',4000) }
-  } else { S.id='LOKAAL-'+Math.random().toString(36).slice(2,6).toUpperCase(); bewaar(false); go('home') }
+    accountBezig=true; const knop=$('#wMaak'); if(knop){ knop.disabled=true; knop.textContent='Account wordt gemaakt… even geduld' }
+    try{
+      const j=await api('nieuw',{naam,klas});
+      if(!j.id||!j.code) throw new Error('de server gaf geen speler-ID terug');
+      st.id=String(j.id); st.code=String(j.code); S=st; bewaar(false);
+      await sync(); S.id=S.id||st.id; S.code=S.code||st.code;   // id en code nooit kwijtraken door de sync
+      go('code');
+    }catch(e){ S=null; melding('Het account is niet gemaakt. Probeer het opnieuw. ('+e.message+')',5000); if(knop){ knop.disabled=false; knop.textContent='Account maken' } }
+    finally{ accountBezig=false }
+  } else { st.id='LOKAAL-'+Math.random().toString(36).slice(2,6).toUpperCase(); S=st; bewaar(false); go('home') }
 }
 async function herstelAccount(){
   const id=$('#hId').value.trim().toUpperCase(), code=$('#hCode').value.trim();
