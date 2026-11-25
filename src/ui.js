@@ -141,7 +141,7 @@ wereld(w){
   const groepen=[]; lvs.forEach((l,i)=>{ const g=l.hfd||''; let x=groepen.find(y=>y.g===g); if(!x){ x={g,h:[]}; groepen.push(x) } x.h.push(kaart(l,i)) });
   groepen.sort((a,b)=>(a.g?1:0)-(b.g?1:0));
   const heeftHfd=groepen.some(x=>x.g);
-  const blokken=groepen.map(x=>`<div class="sectie">${x.g?esc(x.g):'Basis: startset en rekenlab'}</div><div class="levels">${x.h.join('')}</div>`).join('')+
+  const blokken=groepen.map(x=>`<div class="sectie">${x.g?esc(x.g):'Basis: startset en rekenlab'}</div><div class="levels">${x.h.join('')}</div>${typeof casusBlokVoor==='function'?casusBlokVoor(w,x.g):''}`).join('')+
     (heeftHfd?'':`<div class="kaart" style="margin-top:14px"><p class="zacht" style="margin:0">📚 Hier komen later de hoofdstukken van <b>Economie Integraal</b> voor dit domein. Tot die tijd oefen je met de startset en het rekenlab.</p></div>`);
   return `<section class="foto held" style="--k:${W.kleur};${foto(w,1800)}"><div class="in">
     <div class="paneel"><h4>In dit domein</h4>${paneel}</div>

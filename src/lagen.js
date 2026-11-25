@@ -10,7 +10,7 @@ const LAAG_GEWICHT = { k:3, m:2, v:1 };
 function _laagKaart(){ return typeof BEGRIP_LAAG!=='undefined' ? BEGRIP_LAAG : {h:{},v:{}} }
 // laag van een begrip voor het niveau van de leerling; null = begrip hoort niet bij dit niveau
 function laagVan(k, n=niv()){ const L=_laagKaart(); if(L[n]&&L[n][k]) return L[n][k]; const ander=n==='v'?'h':'v'; return (L[ander]&&L[ander][k]) ? null : 'm' }
-const standaardModus = () => /^(H5|V6)$/i.test((S&&S.klas)||'') ? 'examen' : 'toets';
+const standaardModus = () => /^(H5|V6)$/i.test(kijkKlas()||'') ? 'examen' : 'toets';
 function klasModus(){ return (S&&(S.kmodus==='examen'||S.kmodus==='toets')) ? S.kmodus : standaardModus() }
 function oefenModus(){ return (S&&(S.lmodus==='examen'||S.lmodus==='toets')) ? S.lmodus : klasModus() }
 const verdiepingAan = () => !!(S&&S.verd===1);

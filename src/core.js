@@ -11,9 +11,11 @@ const IDLE_MS = 90*1000;                 // na 90 s zonder tikken telt oefentijd
 
 // ===== Niveau en levels =====
 const niveauVan = klas => /^v/i.test(String(klas||'')) ? 'v' : 'h';
-const niv = () => niveauVan(S&&S.klas);
+// docentaccount (S.alles) bekijkt de klas die het zelf kiest (S.dklas)
+const kijkKlas = () => S&&(S.alles&&S.dklas||S.klas);
+const niv = () => niveauVan(kijkKlas());
 const klasLabel = k => { const m=/^([HV])(\d)$/i.exec(k||''); return m ? m[2]+' '+(m[1].toUpperCase()==='V'?'vwo':'havo') : (k||'') };
-const vakLabel = () => 'Economie '+(S&&S.klas?klasLabel(S.klas):'havo/vwo');
+const vakLabel = () => 'Economie '+(S&&S.klas?klasLabel(kijkKlas()):'havo/vwo');
 const speelbaar = l => l.vragen.length>0 || (l.gens||[]).length>0;
 // alle levels van een wereld voor een niveau (n leeg = alle niveaus). Een level of vraag met niv:'v' is alleen voor vwo.
 function lvsVoor(w, n=niv()){ return (LEVELS[w]||[]).filter(l=>!n||!l.niv||l.niv===n).map(l=>{ if(!n||!l.vragen.some(v=>v.niv)) return l; return Object.assign({},l,{vragen:l.vragen.filter(v=>!v.niv||v.niv===n)}) }) }

@@ -25,6 +25,12 @@ async function uitloggen(){
   uitlogStap=false; S=null; lsWeg(KEY); lsWeg(KEY+'-reserve'); lsWeg(KEY_EIGEN); go('welkom'); melding('Je bent uitgelogd.');
 }
 
+// Alles open: in de docentweergave en voor een docentaccount (S.alles, zet je in de Data-tab van de server)
+const allesOpen = () => !!(S&&(S.demo||S.alles));
+const _levelOpenW=levelOpen; levelOpen=function(w,i){ return allesOpen()||_levelOpenW(w,i) };
+const _toetsOpenW=toetsOpen; toetsOpen=function(w){ return allesOpen()||_toetsOpenW(w) };
+function wisselDocKlas(klas){ if(!S||!S.alles) return; S.dklas=klas; bewaar(); go('account') }
+
 function klasKnoppen(huidig, actie){
   return KLASSEN.map(k=>`<button class="knop ${k===huidig?'':'zacht'} klein" onclick="${actie}('${k}')">${esc(klasLabel(k))}</button>`).join(' ');
 }
@@ -36,6 +42,8 @@ SCHERMEN.account = function(){
     <p class="zacht" style="margin-bottom:6px">Wissel van klas</p><div class="voet" style="justify-content:flex-start;gap:8px;flex-wrap:wrap;margin:0">${klasKnoppen(S.klas,'wisselDemo')}</div>
     <div class="voet" style="justify-content:flex-start;margin-top:16px"><button class="knop" onclick="stopDemo()">Stop docentweergave</button></div></div></div>`;
   let h=_accountScherm();
+  if(S&&S.alles) h=h.replace(/(<div class="sectie">|<p class="zacht" style="font-size:13px">Versie)/, `<div class="kaart" style="border:2px solid var(--acc)"><p style="margin-top:0"><b>👩‍🏫 Docentaccount.</b> Alle levels, toetsen en casussen staan open. Je bekijkt nu <b>${esc(klasLabel(kijkKlas()))}</b>.</p>
+    <p class="zacht" style="margin-bottom:6px">Wissel van klas</p><div class="voet" style="justify-content:flex-start;gap:8px;flex-wrap:wrap;margin:0">${klasKnoppen(kijkKlas(),'wisselDocKlas')}</div></div>$1`);
   const blok = uitlogStap
     ? `<div class="kaart" style="border:2px solid var(--fout)"><h3 style="margin-top:0">Weet je het zeker?</h3>
        <p>Schrijf eerst je gegevens op. Zonder speler-ID en herstelcode kun je je voortgang niet terughalen.</p>
@@ -56,8 +64,8 @@ SCHERMEN.docent = function(){
 
 // in de docentweergave: duidelijke knop bovenin om te wisselen
 const _navW = nav;
-nav = function(){ _navW(); const p=$('#profiel'); if(p&&S&&S.demo&&p.innerHTML&&!p.querySelector('.demoWissel'))
-  p.insertAdjacentHTML('afterbegin',`<button class="knop zacht klein demoWissel" style="margin-right:8px" onclick="go('account')" title="Wissel van klas of stop">👩‍🏫 ${esc(klasLabel(S.klas))} · wissel</button>`) };
+nav = function(){ _navW(); const p=$('#profiel'); if(p&&S&&(S.demo||S.alles)&&p.innerHTML&&!p.querySelector('.demoWissel'))
+  p.insertAdjacentHTML('afterbegin',`<button class="knop zacht klein demoWissel" style="margin-right:8px" onclick="go('account')" title="Wissel van klas">👩‍🏫 ${esc(klasLabel(kijkKlas()))} · wissel</button>`) };
 
 // welkomscherm: ingang voor de docent (zonder account)
 const _welkomScherm = SCHERMEN.welkom;
