@@ -133,7 +133,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.1,
 "ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk",
-"q": "Vraag 7, open plek (1): kies het juiste woord.\nHet bbp van € 642,9 miljard geeft … weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013.",
+"q": "Vraag 7, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bron 1. - Het bbp van € 642,9 miljard geeft ____(1)____ weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de …(2)… genoemd. - Het bbp is de productiewaarde op Nederlands grondgebied. Het bruto nationaal inkomen (bni) is de productiewaarde voortgebracht door alle Nederlanders. Omdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland …(3)… dan de betaalde primaire inkomens aan het buitenland.",
 "o": [
 "de nominale waarde",
 "het totale surplus"
@@ -153,7 +153,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.2,
 "ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk",
-"q": "Vraag 7, open plek (2): kies het juiste woord.\nHet bbp van € 642,9 miljard geeft …(1)… weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de … genoemd.",
+"q": "Vraag 7, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bron 1. - Het bbp van € 642,9 miljard geeft de nominale waarde weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de ____(2)____ genoemd. - Het bbp is de productiewaarde op Nederlands grondgebied. Het bruto nationaal inkomen (bni) is de productiewaarde voortgebracht door alle Nederlanders. Omdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland …(3)… dan de betaalde primaire inkomens aan het buitenland.",
 "o": [
 "koopkracht",
 "totale bruto toegevoegde waarde"
@@ -173,7 +173,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.3,
 "ctx": "Gegevens uit de nationale rekeningen spelen een centrale rol bij het vaststellen van het economisch en monetair beleid. De economische groei, het overheidstekort en het nationaal spaarsaldo zijn belangrijke macro-economische indicatoren uit de nationale rekeningen. Bronnen 1, 2 en 3 zijn onderdelen uit de nationale rekeningen van Nederland in 2013. In de nationale rekeningen wordt het bruto binnenlands product (bbp) gebruikt om de economische groei te meten. Het bbp wordt ook vaak gebruikt om de welvaart te meten. Aan deze maatstaf kleven wel bezwaren, omdat sommige economische verschijnselen niet in het bbp zijn opgenomen. Dit kan betekenen dat de welvaart wordt onderschat of overschat. Hieronder staan drie economische verschijnselen. 1 negatieve externe effecten 2 productie in het zwarte circuit 3 vrijwilligerswerk",
-"q": "Vraag 7, open plek (3): kies het juiste woord.\nOmdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland … dan de betaalde primaire inkomens aan het buitenland.",
+"q": "Vraag 7, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik bron 1. - Het bbp van € 642,9 miljard geeft de nominale waarde weer van alle in Nederland geproduceerde goederen en diensten in het jaar 2013. Het wordt ook wel de totale bruto toegevoegde waarde genoemd. - Het bbp is de productiewaarde op Nederlands grondgebied. Het bruto nationaal inkomen (bni) is de productiewaarde voortgebracht door alle Nederlanders. Omdat het bbp kleiner is dan het bni zijn de ontvangen primaire inkomens uit het buitenland ____(3)____ dan de betaalde primaire inkomens aan het buitenland.",
 "o": [
 "groter",
 "kleiner"
@@ -369,7 +369,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.1,
 "ctx": "Sinds 2006 is de verzekering tegen zorgkosten in Nederland geprivatiseerd. Om hoge zorgpremies te voorkomen is in de Zorgverzekeringswet (Zvw) geregeld dat iedereen die in Nederland woont verplicht een basiszorgverzekering moet afsluiten. Volgens een onderzoeksbureau is een mogelijk gevolg van deze verplichte verzekering een toename van moral hazard, waardoor de collectieve zorguitgaven en uiteindelijk de zorgpremies alsnog kunnen stijgen.",
-"q": "Vraag 18, open plek (1): kies het juiste woord.\nBij verzekeringen in het algemeen hangt de keuze van de consument voor het afsluiten van een verzekering onder andere af van de mate van ….",
+"q": "Vraag 18, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nBij verzekeringen in het algemeen hangt de keuze van de consument voor het afsluiten van een verzekering onder andere af van de mate van ____(1)____. Bij de basiszorgverzekering is er daarom sprake van verplichte …(2)…, waarbij de premie voor iedereen gelijk kan blijven. De verplichting voorkomt dat er …(3)… optreedt, waarbij onevenredig veel mensen met een …(4)… gezondheidsrisico zich zouden verzekeren.",
 "o": [
 "asymmetrische informatie",
 "risico-aversie"
@@ -389,7 +389,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.2,
 "ctx": "Sinds 2006 is de verzekering tegen zorgkosten in Nederland geprivatiseerd. Om hoge zorgpremies te voorkomen is in de Zorgverzekeringswet (Zvw) geregeld dat iedereen die in Nederland woont verplicht een basiszorgverzekering moet afsluiten. Volgens een onderzoeksbureau is een mogelijk gevolg van deze verplichte verzekering een toename van moral hazard, waardoor de collectieve zorguitgaven en uiteindelijk de zorgpremies alsnog kunnen stijgen.",
-"q": "Vraag 18, open plek (2): kies het juiste woord.\nBij de basiszorgverzekering is er daarom sprake van verplichte …, waarbij de premie voor iedereen gelijk kan blijven.",
+"q": "Vraag 18, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nBij verzekeringen in het algemeen hangt de keuze van de consument voor het afsluiten van een verzekering onder andere af van de mate van risico-aversie. Bij de basiszorgverzekering is er daarom sprake van verplichte ____(2)____, waarbij de premie voor iedereen gelijk kan blijven. De verplichting voorkomt dat er …(3)… optreedt, waarbij onevenredig veel mensen met een …(4)… gezondheidsrisico zich zouden verzekeren.",
 "o": [
 "belastingheffing",
 "solidariteit"
@@ -409,7 +409,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.3,
 "ctx": "Sinds 2006 is de verzekering tegen zorgkosten in Nederland geprivatiseerd. Om hoge zorgpremies te voorkomen is in de Zorgverzekeringswet (Zvw) geregeld dat iedereen die in Nederland woont verplicht een basiszorgverzekering moet afsluiten. Volgens een onderzoeksbureau is een mogelijk gevolg van deze verplichte verzekering een toename van moral hazard, waardoor de collectieve zorguitgaven en uiteindelijk de zorgpremies alsnog kunnen stijgen.",
-"q": "Vraag 18, open plek (3): kies het juiste woord.\nDe verplichting voorkomt dat er … optreedt, waarbij onevenredig veel mensen met een …(4)… gezondheidsrisico zich zouden verzekeren.",
+"q": "Vraag 18, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nBij verzekeringen in het algemeen hangt de keuze van de consument voor het afsluiten van een verzekering onder andere af van de mate van risico-aversie. Bij de basiszorgverzekering is er daarom sprake van verplichte solidariteit, waarbij de premie voor iedereen gelijk kan blijven. De verplichting voorkomt dat er ____(3)____ optreedt, waarbij onevenredig veel mensen met een …(4)… gezondheidsrisico zich zouden verzekeren.",
 "o": [
 "asymmetrische informatie",
 "averechtse selectie"
@@ -429,7 +429,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.4,
 "ctx": "Sinds 2006 is de verzekering tegen zorgkosten in Nederland geprivatiseerd. Om hoge zorgpremies te voorkomen is in de Zorgverzekeringswet (Zvw) geregeld dat iedereen die in Nederland woont verplicht een basiszorgverzekering moet afsluiten. Volgens een onderzoeksbureau is een mogelijk gevolg van deze verplichte verzekering een toename van moral hazard, waardoor de collectieve zorguitgaven en uiteindelijk de zorgpremies alsnog kunnen stijgen.",
-"q": "Vraag 18, open plek (4): kies het juiste woord.\nDe verplichting voorkomt dat er …(3)… optreedt, waarbij onevenredig veel mensen met een … gezondheidsrisico zich zouden verzekeren.",
+"q": "Vraag 18, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nBij verzekeringen in het algemeen hangt de keuze van de consument voor het afsluiten van een verzekering onder andere af van de mate van risico-aversie. Bij de basiszorgverzekering is er daarom sprake van verplichte solidariteit, waarbij de premie voor iedereen gelijk kan blijven. De verplichting voorkomt dat er averechtse selectie optreedt, waarbij onevenredig veel mensen met een ____(4)____ gezondheidsrisico zich zouden verzekeren.",
 "o": [
 "hoog",
 "laag"
@@ -705,7 +705,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.1,
 "ctx": "De voorzitter: “Wij hebben te maken met een tegenvaller. De verwachte vraag naar onze toegangskaartjes is bepaald vóórdat de datum van de finale van het Europees Kampioenschap (EK) voetbal bekend werd.” De voorzitter vervolgt zijn betoog.",
-"q": "Vraag 6, open plek (1): kies het juiste woord.\n“Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de … voor de Brabantse Avond afnemen omdat de EK-finale een …(2)… goed is van onze Brabantse Avond.",
+"q": "Vraag 6, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bron 1. “Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de ____(1)____ voor de Brabantse Avond afnemen omdat de EK-finale een …(2)… goed is van onze Brabantse Avond. We moeten de vraagvergelijking dus aanpassen naar …(3)…. Dat betekent dat bij elke prijs het …(4)… surplus zal afnemen.”",
 "o": [
 "betalingsbereidheid",
 "inkomenselasticiteit"
@@ -725,7 +725,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.2,
 "ctx": "De voorzitter: “Wij hebben te maken met een tegenvaller. De verwachte vraag naar onze toegangskaartjes is bepaald vóórdat de datum van de finale van het Europees Kampioenschap (EK) voetbal bekend werd.” De voorzitter vervolgt zijn betoog.",
-"q": "Vraag 6, open plek (2): kies het juiste woord.\n“Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de …(1)… voor de Brabantse Avond afnemen omdat de EK-finale een … goed is van onze Brabantse Avond.",
+"q": "Vraag 6, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bron 1. “Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de betalingsbereidheid voor de Brabantse Avond afnemen omdat de EK-finale een ____(2)____ goed is van onze Brabantse Avond. We moeten de vraagvergelijking dus aanpassen naar …(3)…. Dat betekent dat bij elke prijs het …(4)… surplus zal afnemen.”",
 "o": [
 "complementair",
 "inferieur",
@@ -746,7 +746,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.3,
 "ctx": "De voorzitter: “Wij hebben te maken met een tegenvaller. De verwachte vraag naar onze toegangskaartjes is bepaald vóórdat de datum van de finale van het Europees Kampioenschap (EK) voetbal bekend werd.” De voorzitter vervolgt zijn betoog.",
-"q": "Vraag 6, open plek (3): kies het juiste woord.\nWe moeten de vraagvergelijking dus aanpassen naar ….",
+"q": "Vraag 6, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik bron 1. “Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de betalingsbereidheid voor de Brabantse Avond afnemen omdat de EK-finale een substitutie goed is van onze Brabantse Avond. We moeten de vraagvergelijking dus aanpassen naar ____(3)____. Dat betekent dat bij elke prijs het …(4)… surplus zal afnemen.”",
 "o": [
 "Qv = -150P + 11.000",
 "Qv = -150P + 13.000"
@@ -766,7 +766,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.4,
 "ctx": "De voorzitter: “Wij hebben te maken met een tegenvaller. De verwachte vraag naar onze toegangskaartjes is bepaald vóórdat de datum van de finale van het Europees Kampioenschap (EK) voetbal bekend werd.” De voorzitter vervolgt zijn betoog.",
-"q": "Vraag 6, open plek (4): kies het juiste woord.\nDat betekent dat bij elke prijs het … surplus zal afnemen.”",
+"q": "Vraag 6, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nGebruik bron 1. “Nu blijkt dat de finale van het EK voetbal samenvalt met de Brabantse Avond zal de betalingsbereidheid voor de Brabantse Avond afnemen omdat de EK-finale een substitutie goed is van onze Brabantse Avond. We moeten de vraagvergelijking dus aanpassen naar Qv = -150P + 11.000. Dat betekent dat bij elke prijs het ____(4)____ surplus zal afnemen.”",
 "o": [
 "consumenten-",
 "producenten-",
@@ -979,7 +979,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.1,
 "ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)",
-"q": "Vraag 18, open plek (1): kies het juiste woord.\nInkomens die in een land worden verdiend met het ter beschikking stellen van productiefactoren worden … genoemd.",
+"q": "Vraag 18, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nInkomens die in een land worden verdiend met het ter beschikking stellen van productiefactoren worden ____(1)____ genoemd. Een voorbeeld daarvan is …(2)…. De optelsom van al deze inkomens vormt het bruto binnenlands product van een land, berekend via de …(3)… methode.",
 "o": [
 "overdrachtsinkomens",
 "primaire inkomens",
@@ -1000,7 +1000,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.2,
 "ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)",
-"q": "Vraag 18, open plek (2): kies het juiste woord.\nInkomens die in een land worden verdiend met het ter beschikking stellen van productiefactoren worden …(1)… genoemd. Een voorbeeld daarvan is ….",
+"q": "Vraag 18, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nInkomens die in een land worden verdiend met het ter beschikking stellen van productiefactoren worden primaire inkomens genoemd. Een voorbeeld daarvan is ____(2)____. De optelsom van al deze inkomens vormt het bruto binnenlands product van een land, berekend via de …(3)… methode.",
 "o": [
 "rente",
 "subsidie",
@@ -1021,7 +1021,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 18.3,
 "ctx": "Bonaire, Sint Eustatius en Saba (de BES-eilanden) zijn sinds 2010 bijzondere gemeentes van Nederland. Deze BES-eilanden hebben gezamenlijk circa 24.000 inwoners. Nuestra en Mateo, twee havoleerlingen van het Bonairecollege, onderzoeken of er verschillen in inkomensverdeling bestaan tussen de eilanden onderling en tussen de eilanden als geheel en ‘Europees’ Nederland. Op internet vinden Nuestra en Mateo de volgende gegevens: - een tabel met de secundaire-inkomensverhouding op Bonaire, Saba, St. Eustatius en ‘Europees’ Nederland (zie bron 1) - een Lorenzcurve van de secundaire-inkomensverdeling op Saba (zie bron 2) - een tabel met de secundaire-inkomensverdeling op Bonaire, Saba en St. Eustatius (zie bron 3) - een diagram met de verdeling van de huishoudens over de BES-eilanden (zie bron 4)",
-"q": "Vraag 18, open plek (3): kies het juiste woord.\nDe optelsom van al deze inkomens vormt het bruto binnenlands product van een land, berekend via de … methode.",
+"q": "Vraag 18, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nInkomens die in een land worden verdiend met het ter beschikking stellen van productiefactoren worden primaire inkomens genoemd. Een voorbeeld daarvan is rente. De optelsom van al deze inkomens vormt het bruto binnenlands product van een land, berekend via de ____(3)____ methode.",
 "o": [
 "objectieve",
 "subjectieve"
@@ -1392,8 +1392,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h19-1.12.1",
 "t": "ex",
 "nr": 12.1,
-"ctx": "Een verzekeraar die de PHYD-autoverzekering aanbiedt doet de volgende uitspraak: “We baseren de indeling in een categorie vooral op het gedrag van de bestuurder zoals remmen, optrekken en snelheidsovertredingen. Dankzij de app kunnen we het gedrag van de bestuurder volgen en wordt …(1)… sterk verminderd. Hierdoor wordt het voor ons mogelijk …(2)… toe te passen, zodat de bestuurder een financiële prikkel krijgt het rijgedrag in positieve zin aan te passen.”",
-"q": "Vraag 12, open plek (1): kies het juiste woord.\nDankzij de app kunnen we het gedrag van de bestuurder volgen en wordt … sterk verminderd.",
+"ctx": "",
+"q": "Vraag 12, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nEen verzekeraar die de PHYD-autoverzekering aanbiedt doet de volgende uitspraak: “We baseren de indeling in een categorie vooral op het gedrag van de bestuurder zoals remmen, optrekken en snelheidsovertredingen. Dankzij de app kunnen we het gedrag van de bestuurder volgen en wordt ____(1)____ sterk verminderd. Hierdoor wordt het voor ons mogelijk …(2)… toe te passen, zodat de bestuurder een financiële prikkel krijgt het rijgedrag in positieve zin aan te passen.”",
 "o": [
 "asymmetrische informatie",
 "risico-avers gedrag"
@@ -1412,8 +1412,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h19-1.12.2",
 "t": "ex",
 "nr": 12.2,
-"ctx": "Een verzekeraar die de PHYD-autoverzekering aanbiedt doet de volgende uitspraak: “We baseren de indeling in een categorie vooral op het gedrag van de bestuurder zoals remmen, optrekken en snelheidsovertredingen. Dankzij de app kunnen we het gedrag van de bestuurder volgen en wordt …(1)… sterk verminderd. Hierdoor wordt het voor ons mogelijk …(2)… toe te passen, zodat de bestuurder een financiële prikkel krijgt het rijgedrag in positieve zin aan te passen.”",
-"q": "Vraag 12, open plek (2): kies het juiste woord.\nHierdoor wordt het voor ons mogelijk … toe te passen, zodat de bestuurder een financiële prikkel krijgt het rijgedrag in positieve zin aan te passen.”",
+"ctx": "",
+"q": "Vraag 12, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nEen verzekeraar die de PHYD-autoverzekering aanbiedt doet de volgende uitspraak: “We baseren de indeling in een categorie vooral op het gedrag van de bestuurder zoals remmen, optrekken en snelheidsovertredingen. Dankzij de app kunnen we het gedrag van de bestuurder volgen en wordt asymmetrische informatie sterk verminderd. Hierdoor wordt het voor ons mogelijk ____(2)____ toe te passen, zodat de bestuurder een financiële prikkel krijgt het rijgedrag in positieve zin aan te passen.”",
 "o": [
 "premiedifferentiatie",
 "zelfbinding"
@@ -1481,7 +1481,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.1,
 "ctx": "Het Caribische eiland Aruba heeft een economie die erg afhankelijk is van haar belangrijkste handelspartner, de Verenigde Staten van Amerika (VS). Er worden veel goederen uit de VS geïmporteerd en het eiland wordt door veel Amerikaanse toeristen bezocht. Ook voor directe investeringen in hotels is Aruba sterk op de VS aangewezen.",
-"q": "Vraag 15, open plek (1): kies het juiste woord.\nBezoek van Amerikaanse toeristen wordt als … geregistreerd op de …(2)… van de Arubaanse betalingsbalans.",
+"q": "Vraag 15, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nBezoek van Amerikaanse toeristen wordt als ____(1)____ geregistreerd op de …(2)… van de Arubaanse betalingsbalans. - Import van goederen wordt als …(3)… geregistreerd op de …(4)… van de Arubaanse betalingsbalans. - Directe investeringen van buitenlandse hotelketens op Aruba worden als …(5)… geregistreerd op de …(6)… van de betalingsbalans van Aruba.",
 "o": [
 "export",
 "import"
@@ -1501,7 +1501,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.2,
 "ctx": "Het Caribische eiland Aruba heeft een economie die erg afhankelijk is van haar belangrijkste handelspartner, de Verenigde Staten van Amerika (VS). Er worden veel goederen uit de VS geïmporteerd en het eiland wordt door veel Amerikaanse toeristen bezocht. Ook voor directe investeringen in hotels is Aruba sterk op de VS aangewezen.",
-"q": "Vraag 15, open plek (2): kies het juiste woord.\nBezoek van Amerikaanse toeristen wordt als …(1)… geregistreerd op de … van de Arubaanse betalingsbalans.",
+"q": "Vraag 15, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nBezoek van Amerikaanse toeristen wordt als export geregistreerd op de ____(2)____ van de Arubaanse betalingsbalans. - Import van goederen wordt als …(3)… geregistreerd op de …(4)… van de Arubaanse betalingsbalans. - Directe investeringen van buitenlandse hotelketens op Aruba worden als …(5)… geregistreerd op de …(6)… van de betalingsbalans van Aruba.",
 "o": [
 "kapitaalrekening",
 "lopende rekening"
@@ -1521,7 +1521,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.3,
 "ctx": "Het Caribische eiland Aruba heeft een economie die erg afhankelijk is van haar belangrijkste handelspartner, de Verenigde Staten van Amerika (VS). Er worden veel goederen uit de VS geïmporteerd en het eiland wordt door veel Amerikaanse toeristen bezocht. Ook voor directe investeringen in hotels is Aruba sterk op de VS aangewezen.",
-"q": "Vraag 15, open plek (3): kies het juiste woord.\nImport van goederen wordt als … geregistreerd op de …(4)… van de Arubaanse betalingsbalans.",
+"q": "Vraag 15, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nBezoek van Amerikaanse toeristen wordt als export geregistreerd op de lopende rekening van de Arubaanse betalingsbalans. - Import van goederen wordt als ____(3)____ geregistreerd op de …(4)… van de Arubaanse betalingsbalans. - Directe investeringen van buitenlandse hotelketens op Aruba worden als …(5)… geregistreerd op de …(6)… van de betalingsbalans van Aruba.",
 "o": [
 "ontvangsten",
 "uitgaven"
@@ -1541,7 +1541,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.4,
 "ctx": "Het Caribische eiland Aruba heeft een economie die erg afhankelijk is van haar belangrijkste handelspartner, de Verenigde Staten van Amerika (VS). Er worden veel goederen uit de VS geïmporteerd en het eiland wordt door veel Amerikaanse toeristen bezocht. Ook voor directe investeringen in hotels is Aruba sterk op de VS aangewezen.",
-"q": "Vraag 15, open plek (4): kies het juiste woord.\nImport van goederen wordt als …(3)… geregistreerd op de … van de Arubaanse betalingsbalans.",
+"q": "Vraag 15, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nBezoek van Amerikaanse toeristen wordt als export geregistreerd op de lopende rekening van de Arubaanse betalingsbalans. - Import van goederen wordt als uitgaven geregistreerd op de ____(4)____ van de Arubaanse betalingsbalans. - Directe investeringen van buitenlandse hotelketens op Aruba worden als …(5)… geregistreerd op de …(6)… van de betalingsbalans van Aruba.",
 "o": [
 "kapitaalrekening",
 "lopende rekening"
@@ -1561,7 +1561,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.5,
 "ctx": "Het Caribische eiland Aruba heeft een economie die erg afhankelijk is van haar belangrijkste handelspartner, de Verenigde Staten van Amerika (VS). Er worden veel goederen uit de VS geïmporteerd en het eiland wordt door veel Amerikaanse toeristen bezocht. Ook voor directe investeringen in hotels is Aruba sterk op de VS aangewezen.",
-"q": "Vraag 15, open plek (5): kies het juiste woord.\nDirecte investeringen van buitenlandse hotelketens op Aruba worden als … geregistreerd op de …(6)… van de betalingsbalans van Aruba.",
+"q": "Vraag 15, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nBezoek van Amerikaanse toeristen wordt als export geregistreerd op de lopende rekening van de Arubaanse betalingsbalans. - Import van goederen wordt als uitgaven geregistreerd op de lopende rekening van de Arubaanse betalingsbalans. - Directe investeringen van buitenlandse hotelketens op Aruba worden als ____(5)____ geregistreerd op de …(6)… van de betalingsbalans van Aruba.",
 "o": [
 "ontvangsten",
 "uitgaven"
@@ -1581,7 +1581,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.6,
 "ctx": "Het Caribische eiland Aruba heeft een economie die erg afhankelijk is van haar belangrijkste handelspartner, de Verenigde Staten van Amerika (VS). Er worden veel goederen uit de VS geïmporteerd en het eiland wordt door veel Amerikaanse toeristen bezocht. Ook voor directe investeringen in hotels is Aruba sterk op de VS aangewezen.",
-"q": "Vraag 15, open plek (6): kies het juiste woord.\nDirecte investeringen van buitenlandse hotelketens op Aruba worden als …(5)… geregistreerd op de … van de betalingsbalans van Aruba.",
+"q": "Vraag 15, open plek (6): kies wat er op de plek van ____(6)____ hoort.\nBezoek van Amerikaanse toeristen wordt als export geregistreerd op de lopende rekening van de Arubaanse betalingsbalans. - Import van goederen wordt als uitgaven geregistreerd op de lopende rekening van de Arubaanse betalingsbalans. - Directe investeringen van buitenlandse hotelketens op Aruba worden als ontvangsten geregistreerd op de ____(6)____ van de betalingsbalans van Aruba.",
 "o": [
 "kapitaalrekening",
 "lopende rekening"
@@ -1905,7 +1905,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.1,
 "ctx": "De financieel directeur schrijft in het advies aan zijn algemeen directeur: “Als de voorgestelde vleestaks wordt ingevoerd, heeft dat behoorlijke gevolgen voor onze winst. Mijn advies is een reclamecampagne te starten met de boodschap dat vlees boordevol goede bouwstoffen zit.….”",
-"q": "Vraag 7, open plek (1): kies het juiste woord.\n“Consumenten zullen dan minder snel overstappen op … goederen van vlees.",
+"q": "Vraag 7, open plek (1): kies wat er op de plek van ____(1)____ hoort.\n“Consumenten zullen dan minder snel overstappen op ____(1)____ goederen van vlees. Dat betekent dat de vraag naar ons product …(2)… wordt. Het gevolg is dat onze prijs-afzetlijn …(3)… zal verlopen waardoor we een hoger percentage van de vleestaks kunnen doorberekenen aan de consument. De keerzijde is wel dat de reclamecampagne zal leiden tot hogere …(4)… kosten.”",
 "o": [
 "complementaire",
 "inferieure",
@@ -1926,7 +1926,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.2,
 "ctx": "De financieel directeur schrijft in het advies aan zijn algemeen directeur: “Als de voorgestelde vleestaks wordt ingevoerd, heeft dat behoorlijke gevolgen voor onze winst. Mijn advies is een reclamecampagne te starten met de boodschap dat vlees boordevol goede bouwstoffen zit.….”",
-"q": "Vraag 7, open plek (2): kies het juiste woord.\nDat betekent dat de vraag naar ons product … wordt.",
+"q": "Vraag 7, open plek (2): kies wat er op de plek van ____(2)____ hoort.\n“Consumenten zullen dan minder snel overstappen op substitutie goederen van vlees. Dat betekent dat de vraag naar ons product ____(2)____ wordt. Het gevolg is dat onze prijs-afzetlijn …(3)… zal verlopen waardoor we een hoger percentage van de vleestaks kunnen doorberekenen aan de consument. De keerzijde is wel dat de reclamecampagne zal leiden tot hogere …(4)… kosten.”",
 "o": [
 "prijselastischer",
 "prijsinelastischer"
@@ -1946,7 +1946,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.3,
 "ctx": "De financieel directeur schrijft in het advies aan zijn algemeen directeur: “Als de voorgestelde vleestaks wordt ingevoerd, heeft dat behoorlijke gevolgen voor onze winst. Mijn advies is een reclamecampagne te starten met de boodschap dat vlees boordevol goede bouwstoffen zit.….”",
-"q": "Vraag 7, open plek (3): kies het juiste woord.\nHet gevolg is dat onze prijs-afzetlijn … zal verlopen waardoor we een hoger percentage van de vleestaks kunnen doorberekenen aan de consument.",
+"q": "Vraag 7, open plek (3): kies wat er op de plek van ____(3)____ hoort.\n“Consumenten zullen dan minder snel overstappen op substitutie goederen van vlees. Dat betekent dat de vraag naar ons product prijsinelastischer wordt. Het gevolg is dat onze prijs-afzetlijn ____(3)____ zal verlopen waardoor we een hoger percentage van de vleestaks kunnen doorberekenen aan de consument. De keerzijde is wel dat de reclamecampagne zal leiden tot hogere …(4)… kosten.”",
 "o": [
 "minder steil",
 "steiler"
@@ -1966,7 +1966,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.4,
 "ctx": "De financieel directeur schrijft in het advies aan zijn algemeen directeur: “Als de voorgestelde vleestaks wordt ingevoerd, heeft dat behoorlijke gevolgen voor onze winst. Mijn advies is een reclamecampagne te starten met de boodschap dat vlees boordevol goede bouwstoffen zit.….”",
-"q": "Vraag 7, open plek (4): kies het juiste woord.\nDe keerzijde is wel dat de reclamecampagne zal leiden tot hogere … kosten.”",
+"q": "Vraag 7, open plek (4): kies wat er op de plek van ____(4)____ hoort.\n“Consumenten zullen dan minder snel overstappen op substitutie goederen van vlees. Dat betekent dat de vraag naar ons product prijsinelastischer wordt. Het gevolg is dat onze prijs-afzetlijn steiler zal verlopen waardoor we een hoger percentage van de vleestaks kunnen doorberekenen aan de consument. De keerzijde is wel dat de reclamecampagne zal leiden tot hogere ____(4)____ kosten.”",
 "o": [
 "constante",
 "variabele"
@@ -2034,7 +2034,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 10.1,
 "ctx": "afbeelding wel / geen structuurkant 1 2 3 4 Het CBS publiceert ook over de Nederlandse arbeidsmarkt, waar veranderingen in vraag en aanbod mede afhankelijk zijn van conjuncturele en structurele ontwikkelingen in de economie. Begin 2009, direct na de kredietcrisis, loopt de werkloosheid op. Begin 2017 neemt de krapte op de arbeidsmarkt echter weer toe, mede als gevolg van een aanhoudende economische groei. Deze conjunctuuromslag maakt het CBS zichtbaar door middel van de conjunctuurklok (zie bron 2).",
-"q": "Vraag 10, open plek (1): kies het juiste woord.\nToenemende krapte op de arbeidsmarkt ontstaat als de … meer stijgt dan de …(2)….",
+"q": "Vraag 10, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nToenemende krapte op de arbeidsmarkt ontstaat als de ____(1)____ meer stijgt dan de …(2)…. Hierdoor kunnen de gemiddelde lonen …(3)…. Dat kan een positieve invloed op de …(4)… kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de …(5)… kant van de economie.",
 "o": [
 "beroepsbevolking",
 "werkgelegenheid"
@@ -2054,7 +2054,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 10.2,
 "ctx": "afbeelding wel / geen structuurkant 1 2 3 4 Het CBS publiceert ook over de Nederlandse arbeidsmarkt, waar veranderingen in vraag en aanbod mede afhankelijk zijn van conjuncturele en structurele ontwikkelingen in de economie. Begin 2009, direct na de kredietcrisis, loopt de werkloosheid op. Begin 2017 neemt de krapte op de arbeidsmarkt echter weer toe, mede als gevolg van een aanhoudende economische groei. Deze conjunctuuromslag maakt het CBS zichtbaar door middel van de conjunctuurklok (zie bron 2).",
-"q": "Vraag 10, open plek (2): kies het juiste woord.\nToenemende krapte op de arbeidsmarkt ontstaat als de …(1)… meer stijgt dan de ….",
+"q": "Vraag 10, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nToenemende krapte op de arbeidsmarkt ontstaat als de werkgelegenheid meer stijgt dan de ____(2)____. Hierdoor kunnen de gemiddelde lonen …(3)…. Dat kan een positieve invloed op de …(4)… kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de …(5)… kant van de economie.",
 "o": [
 "beroepsbevolking",
 "werkgelegenheid"
@@ -2074,7 +2074,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 10.3,
 "ctx": "afbeelding wel / geen structuurkant 1 2 3 4 Het CBS publiceert ook over de Nederlandse arbeidsmarkt, waar veranderingen in vraag en aanbod mede afhankelijk zijn van conjuncturele en structurele ontwikkelingen in de economie. Begin 2009, direct na de kredietcrisis, loopt de werkloosheid op. Begin 2017 neemt de krapte op de arbeidsmarkt echter weer toe, mede als gevolg van een aanhoudende economische groei. Deze conjunctuuromslag maakt het CBS zichtbaar door middel van de conjunctuurklok (zie bron 2).",
-"q": "Vraag 10, open plek (3): kies het juiste woord.\nToenemende krapte op de arbeidsmarkt ontstaat als de …(1)… meer stijgt dan de …(2)…. Hierdoor kunnen de gemiddelde lonen ….",
+"q": "Vraag 10, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nToenemende krapte op de arbeidsmarkt ontstaat als de werkgelegenheid meer stijgt dan de beroepsbevolking. Hierdoor kunnen de gemiddelde lonen ____(3)____. Dat kan een positieve invloed op de …(4)… kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de …(5)… kant van de economie.",
 "o": [
 "dalen",
 "stijgen"
@@ -2094,7 +2094,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 10.4,
 "ctx": "afbeelding wel / geen structuurkant 1 2 3 4 Het CBS publiceert ook over de Nederlandse arbeidsmarkt, waar veranderingen in vraag en aanbod mede afhankelijk zijn van conjuncturele en structurele ontwikkelingen in de economie. Begin 2009, direct na de kredietcrisis, loopt de werkloosheid op. Begin 2017 neemt de krapte op de arbeidsmarkt echter weer toe, mede als gevolg van een aanhoudende economische groei. Deze conjunctuuromslag maakt het CBS zichtbaar door middel van de conjunctuurklok (zie bron 2).",
-"q": "Vraag 10, open plek (4): kies het juiste woord.\nDat kan een positieve invloed op de … kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de …(5)… kant van de economie.",
+"q": "Vraag 10, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nToenemende krapte op de arbeidsmarkt ontstaat als de werkgelegenheid meer stijgt dan de beroepsbevolking. Hierdoor kunnen de gemiddelde lonen stijgen. Dat kan een positieve invloed op de ____(4)____ kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de …(5)… kant van de economie.",
 "o": [
 "conjunctuur",
 "structuur"
@@ -2114,7 +2114,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 10.5,
 "ctx": "afbeelding wel / geen structuurkant 1 2 3 4 Het CBS publiceert ook over de Nederlandse arbeidsmarkt, waar veranderingen in vraag en aanbod mede afhankelijk zijn van conjuncturele en structurele ontwikkelingen in de economie. Begin 2009, direct na de kredietcrisis, loopt de werkloosheid op. Begin 2017 neemt de krapte op de arbeidsmarkt echter weer toe, mede als gevolg van een aanhoudende economische groei. Deze conjunctuuromslag maakt het CBS zichtbaar door middel van de conjunctuurklok (zie bron 2).",
-"q": "Vraag 10, open plek (5): kies het juiste woord.\nDat kan een positieve invloed op de …(4)… kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de … kant van de economie.",
+"q": "Vraag 10, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nToenemende krapte op de arbeidsmarkt ontstaat als de werkgelegenheid meer stijgt dan de beroepsbevolking. Hierdoor kunnen de gemiddelde lonen stijgen. Dat kan een positieve invloed op de conjunctuur kant van de economie hebben, maar kan tevens leiden tot een gewijzigde verhouding tussen arbeid en kapitaal aan de ____(5)____ kant van de economie.",
 "o": [
 "conjunctuur",
 "structuur"
@@ -2406,7 +2406,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.1,
 "ctx": "uit een krant, 14 november 2017: Anderzorg heeft de voorwaarden voor zijn ziektekostenverzekering voor komend jaar bekendgemaakt. De jaarpremie voor 2018 is vastgesteld op € 1.290 en daalt daarmee met 0,5% ten opzichte van 2017. Bovendien verlaagt Anderzorg het eigen risico van € 485 naar € 375. Gezondheidseconoom Harry Klein zegt in een interview met deze krant dat dit hem verbaast. “Gezien de stijgende zorgkosten had ik juist een premieverhoging van 10% en een verhoging van het eigen risico verwacht.” Een woordvoerder van Anderzorg bevestigt de nieuwe voorwaarden en zegt hierover: “Door schaalvoordelen zijn onze gemiddelde kosten gedaald en dat leidt tot een premieverlaging. Het eigen risico hebben wij verlaagd, omdat mensen niet altijd invloed hebben op hun zorgkosten en wij van mening zijn dat je deze ‘slechte’ risico’s niet mag benadelen. Wij pleiten voor het volledig afschaffen van het eigen risico.”",
-"q": "Vraag 27, open plek (1): kies het juiste woord.\nDe wettelijke verplichting om verzekerd te zijn voor kosten van de basiszorg is een vorm van ….",
+"q": "Vraag 27, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik de inleidende tekst en het krantenbericht. De wettelijke verplichting om verzekerd te zijn voor kosten van de basiszorg is een vorm van ____(1)____. De lagere gemiddelde kosten van Anderzorg kunnen het gevolg zijn van een stijging van …(2)…. Verzekerden die veel claimen hebben een …(3)… van een verlaging van het eigen risico.",
 "o": [
 "collectieve dwang",
 "zelfbinding"
@@ -2426,7 +2426,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.2,
 "ctx": "uit een krant, 14 november 2017: Anderzorg heeft de voorwaarden voor zijn ziektekostenverzekering voor komend jaar bekendgemaakt. De jaarpremie voor 2018 is vastgesteld op € 1.290 en daalt daarmee met 0,5% ten opzichte van 2017. Bovendien verlaagt Anderzorg het eigen risico van € 485 naar € 375. Gezondheidseconoom Harry Klein zegt in een interview met deze krant dat dit hem verbaast. “Gezien de stijgende zorgkosten had ik juist een premieverhoging van 10% en een verhoging van het eigen risico verwacht.” Een woordvoerder van Anderzorg bevestigt de nieuwe voorwaarden en zegt hierover: “Door schaalvoordelen zijn onze gemiddelde kosten gedaald en dat leidt tot een premieverlaging. Het eigen risico hebben wij verlaagd, omdat mensen niet altijd invloed hebben op hun zorgkosten en wij van mening zijn dat je deze ‘slechte’ risico’s niet mag benadelen. Wij pleiten voor het volledig afschaffen van het eigen risico.”",
-"q": "Vraag 27, open plek (2): kies het juiste woord.\nDe lagere gemiddelde kosten van Anderzorg kunnen het gevolg zijn van een stijging van ….",
+"q": "Vraag 27, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik de inleidende tekst en het krantenbericht. De wettelijke verplichting om verzekerd te zijn voor kosten van de basiszorg is een vorm van collectieve dwang. De lagere gemiddelde kosten van Anderzorg kunnen het gevolg zijn van een stijging van ____(2)____. Verzekerden die veel claimen hebben een …(3)… van een verlaging van het eigen risico.",
 "o": [
 "het aantal verzekerden",
 "de toegevoegde waarde"
@@ -2446,7 +2446,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.3,
 "ctx": "uit een krant, 14 november 2017: Anderzorg heeft de voorwaarden voor zijn ziektekostenverzekering voor komend jaar bekendgemaakt. De jaarpremie voor 2018 is vastgesteld op € 1.290 en daalt daarmee met 0,5% ten opzichte van 2017. Bovendien verlaagt Anderzorg het eigen risico van € 485 naar € 375. Gezondheidseconoom Harry Klein zegt in een interview met deze krant dat dit hem verbaast. “Gezien de stijgende zorgkosten had ik juist een premieverhoging van 10% en een verhoging van het eigen risico verwacht.” Een woordvoerder van Anderzorg bevestigt de nieuwe voorwaarden en zegt hierover: “Door schaalvoordelen zijn onze gemiddelde kosten gedaald en dat leidt tot een premieverlaging. Het eigen risico hebben wij verlaagd, omdat mensen niet altijd invloed hebben op hun zorgkosten en wij van mening zijn dat je deze ‘slechte’ risico’s niet mag benadelen. Wij pleiten voor het volledig afschaffen van het eigen risico.”",
-"q": "Vraag 27, open plek (3): kies het juiste woord.\nVerzekerden die veel claimen hebben een … van een verlaging van het eigen risico.",
+"q": "Vraag 27, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik de inleidende tekst en het krantenbericht. De wettelijke verplichting om verzekerd te zijn voor kosten van de basiszorg is een vorm van collectieve dwang. De lagere gemiddelde kosten van Anderzorg kunnen het gevolg zijn van een stijging van het aantal verzekerden. Verzekerden die veel claimen hebben een ____(3)____ van een verlaging van het eigen risico.",
 "o": [
 "voordeel",
 "nadeel vervolg krantenbericht, 14 november 2017: Op de opmerking van Anderzorg om via een verlaging van het eigen risico de solidariteit tussen ‘goede’ en ‘slechte’ risico’s te bevorderen, reageert gezondheidseconoom Harry Klein “Dat is naar mijn mening niet de reden van de verlaging van het eigen risico. De reden is dat Anderzorg en Beterzorg een gevangenendilemma ervaren.”"
@@ -2498,7 +2498,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.1,
 "ctx": "uit een krant: Een garnalenkotter uit Arnemuiden vangt dagelijks duizenden kilo’s Hollandse garnalen. Op dit moment zijn ze “goud” waard. De prijzen rijzen de pan uit. “Ik heb dit nog nooit meegemaakt”, zegt schipper Rinus. “Verse garnalen zijn kort houdbaar. We brengen onze vangst altijd meteen naar de visveiling en hopen op een goede prijs. We hadden verwacht ongeveer € 3,50 per kilo te krijgen, nu stopt de veilingklok op € 8.” Rinus vermoedt dat de prijsstijging te maken heeft met de verminderde garnalenstand in de Noordzee als gevolg van ongunstige weersomstandigheden.",
-"q": "Vraag 1, open plek (1): kies het juiste woord.\nHollandse garnalen die op de visveiling worden aangeboden zijn … goederen.",
+"q": "Vraag 1, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nHollandse garnalen die op de visveiling worden aangeboden zijn ____(1)____ goederen. - Omdat op deze markt veel individuele aanbieders actief zijn en er geen belemmeringen voor nieuwe aanbieders zijn, kan de marktvorm het best omschreven worden als …(2)…. - De individuele aanbieders, zoals Rinus, kunnen de marktprijs …(3)… beïnvloeden.",
 "o": [
 "homogene",
 "heterogene"
@@ -2518,7 +2518,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.2,
 "ctx": "uit een krant: Een garnalenkotter uit Arnemuiden vangt dagelijks duizenden kilo’s Hollandse garnalen. Op dit moment zijn ze “goud” waard. De prijzen rijzen de pan uit. “Ik heb dit nog nooit meegemaakt”, zegt schipper Rinus. “Verse garnalen zijn kort houdbaar. We brengen onze vangst altijd meteen naar de visveiling en hopen op een goede prijs. We hadden verwacht ongeveer € 3,50 per kilo te krijgen, nu stopt de veilingklok op € 8.” Rinus vermoedt dat de prijsstijging te maken heeft met de verminderde garnalenstand in de Noordzee als gevolg van ongunstige weersomstandigheden.",
-"q": "Vraag 1, open plek (2): kies het juiste woord.\nOmdat op deze markt veel individuele aanbieders actief zijn en er geen belemmeringen voor nieuwe aanbieders zijn, kan de marktvorm het best omschreven worden als ….",
+"q": "Vraag 1, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nHollandse garnalen die op de visveiling worden aangeboden zijn homogene goederen. - Omdat op deze markt veel individuele aanbieders actief zijn en er geen belemmeringen voor nieuwe aanbieders zijn, kan de marktvorm het best omschreven worden als ____(2)____. - De individuele aanbieders, zoals Rinus, kunnen de marktprijs …(3)… beïnvloeden.",
 "o": [
 "volkomen concurrentie",
 "monopolie",
@@ -2540,7 +2540,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.3,
 "ctx": "uit een krant: Een garnalenkotter uit Arnemuiden vangt dagelijks duizenden kilo’s Hollandse garnalen. Op dit moment zijn ze “goud” waard. De prijzen rijzen de pan uit. “Ik heb dit nog nooit meegemaakt”, zegt schipper Rinus. “Verse garnalen zijn kort houdbaar. We brengen onze vangst altijd meteen naar de visveiling en hopen op een goede prijs. We hadden verwacht ongeveer € 3,50 per kilo te krijgen, nu stopt de veilingklok op € 8.” Rinus vermoedt dat de prijsstijging te maken heeft met de verminderde garnalenstand in de Noordzee als gevolg van ongunstige weersomstandigheden.",
-"q": "Vraag 1, open plek (3): kies het juiste woord.\nDe individuele aanbieders, zoals Rinus, kunnen de marktprijs … beïnvloeden.",
+"q": "Vraag 1, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nHollandse garnalen die op de visveiling worden aangeboden zijn homogene goederen. - Omdat op deze markt veel individuele aanbieders actief zijn en er geen belemmeringen voor nieuwe aanbieders zijn, kan de marktvorm het best omschreven worden als volkomen concurrentie. - De individuele aanbieders, zoals Rinus, kunnen de marktprijs ____(3)____ beïnvloeden.",
 "o": [
 "niet",
 "wel"
@@ -2784,7 +2784,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.1,
 "ctx": "In 2013 waren de kosten van alcoholgebruik 2.624 miljoen euro hoger dan de baten. Dit is één van de uitkomsten van een zogeheten maatschappelijke kosten-batenanalyse waarbij de welvaartseffecten van alcoholgebruik in kaart zijn gebracht. Maatschappelijke kosten van alcoholgebruik kunnen bijvoorbeeld ontstaan door een lagere arbeidsproductiviteit, inzet van politie en justitie en verkeersongevallen. De baten van alcoholgebruik bestaan uit het consumentensurplus, het producentensurplus, en de accijnsopbrengsten voor de overheid (zie bron 1).",
-"q": "Vraag 15, open plek (1): kies het juiste woord.\n“Het saldo van de kosten en baten van 2.624 miljoen euro zoals genoemd in het rapport komt mede voort uit ….",
+"q": "Vraag 15, open plek (1): kies wat er op de plek van ____(1)____ hoort.\n“Het saldo van de kosten en baten van 2.624 miljoen euro zoals genoemd in het rapport komt mede voort uit ____(1)____. - Het consumentensurplus is berekend door de …(2)… te verminderen met de …(3)… van alcohol.”",
 "o": [
 "externe effecten",
 "verzonken kosten"
@@ -2804,7 +2804,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.2,
 "ctx": "In 2013 waren de kosten van alcoholgebruik 2.624 miljoen euro hoger dan de baten. Dit is één van de uitkomsten van een zogeheten maatschappelijke kosten-batenanalyse waarbij de welvaartseffecten van alcoholgebruik in kaart zijn gebracht. Maatschappelijke kosten van alcoholgebruik kunnen bijvoorbeeld ontstaan door een lagere arbeidsproductiviteit, inzet van politie en justitie en verkeersongevallen. De baten van alcoholgebruik bestaan uit het consumentensurplus, het producentensurplus, en de accijnsopbrengsten voor de overheid (zie bron 1).",
-"q": "Vraag 15, open plek (2): kies het juiste woord.\nHet consumentensurplus is berekend door de … te verminderen met de …(3)… van alcohol.”",
+"q": "Vraag 15, open plek (2): kies wat er op de plek van ____(2)____ hoort.\n“Het saldo van de kosten en baten van 2.624 miljoen euro zoals genoemd in het rapport komt mede voort uit externe effecten. - Het consumentensurplus is berekend door de ____(2)____ te verminderen met de …(3)… van alcohol.”",
 "o": [
 "betalingsbereidheid",
 "marktprijs",
@@ -2825,7 +2825,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.3,
 "ctx": "In 2013 waren de kosten van alcoholgebruik 2.624 miljoen euro hoger dan de baten. Dit is één van de uitkomsten van een zogeheten maatschappelijke kosten-batenanalyse waarbij de welvaartseffecten van alcoholgebruik in kaart zijn gebracht. Maatschappelijke kosten van alcoholgebruik kunnen bijvoorbeeld ontstaan door een lagere arbeidsproductiviteit, inzet van politie en justitie en verkeersongevallen. De baten van alcoholgebruik bestaan uit het consumentensurplus, het producentensurplus, en de accijnsopbrengsten voor de overheid (zie bron 1).",
-"q": "Vraag 15, open plek (3): kies het juiste woord.\nHet consumentensurplus is berekend door de …(2)… te verminderen met de … van alcohol.”",
+"q": "Vraag 15, open plek (3): kies wat er op de plek van ____(3)____ hoort.\n“Het saldo van de kosten en baten van 2.624 miljoen euro zoals genoemd in het rapport komt mede voort uit externe effecten. - Het consumentensurplus is berekend door de betalingsbereidheid te verminderen met de ____(3)____ van alcohol.”",
 "o": [
 "betalingsbereidheid",
 "marktprijs",
@@ -2910,7 +2910,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.1,
 "ctx": "fragment 2 uit een onderzoeksrapport, 2016: Door een verhoging van de accijns op alcohol kan het negatieve saldo van kosten en baten van alcoholgebruik omslaan naar een positief saldo, dus hogere baten dan kosten. Het effect van zo’n accijnsverhoging is sterk afhankelijk van de prijs- en inkomenselasticiteiten van alcoholgebruik (zie bron 3).",
-"q": "Vraag 19, open plek (1): kies het juiste woord.\nEen accijnsverhoging op … heeft relatief het grootste effect op het alcoholgebruik.",
+"q": "Vraag 19, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik fragment 2 uit het onderzoeksrapport en bron 3. - Een accijnsverhoging op ____(1)____ heeft relatief het grootste effect op het alcoholgebruik. - Wijn en sterke drank worden door consumenten als een …(2)… goed beschouwd. - Bij een prijsverhoging van …(3)… zou alcoholgebruik in het algemeen volledig ophouden te bestaan.",
 "o": [
 "bier",
 "wijn",
@@ -2931,7 +2931,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.2,
 "ctx": "fragment 2 uit een onderzoeksrapport, 2016: Door een verhoging van de accijns op alcohol kan het negatieve saldo van kosten en baten van alcoholgebruik omslaan naar een positief saldo, dus hogere baten dan kosten. Het effect van zo’n accijnsverhoging is sterk afhankelijk van de prijs- en inkomenselasticiteiten van alcoholgebruik (zie bron 3).",
-"q": "Vraag 19, open plek (2): kies het juiste woord.\nWijn en sterke drank worden door consumenten als een … goed beschouwd.",
+"q": "Vraag 19, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik fragment 2 uit het onderzoeksrapport en bron 3. - Een accijnsverhoging op sterke drank heeft relatief het grootste effect op het alcoholgebruik. - Wijn en sterke drank worden door consumenten als een ____(2)____ goed beschouwd. - Bij een prijsverhoging van …(3)… zou alcoholgebruik in het algemeen volledig ophouden te bestaan.",
 "o": [
 "inferieur",
 "luxe",
@@ -2952,7 +2952,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.3,
 "ctx": "fragment 2 uit een onderzoeksrapport, 2016: Door een verhoging van de accijns op alcohol kan het negatieve saldo van kosten en baten van alcoholgebruik omslaan naar een positief saldo, dus hogere baten dan kosten. Het effect van zo’n accijnsverhoging is sterk afhankelijk van de prijs- en inkomenselasticiteiten van alcoholgebruik (zie bron 3).",
-"q": "Vraag 19, open plek (3): kies het juiste woord.\nBij een prijsverhoging van … zou alcoholgebruik in het algemeen volledig ophouden te bestaan.",
+"q": "Vraag 19, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik fragment 2 uit het onderzoeksrapport en bron 3. - Een accijnsverhoging op sterke drank heeft relatief het grootste effect op het alcoholgebruik. - Wijn en sterke drank worden door consumenten als een luxe goed beschouwd. - Bij een prijsverhoging van ____(3)____ zou alcoholgebruik in het algemeen volledig ophouden te bestaan.",
 "o": [
 "50%",
 "100%",
@@ -3053,7 +3053,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 24.1,
 "ctx": "Om de internationale concurrentiepositie van Zwitserland te verbeteren heeft de Zwitserse Centrale Bank het besluit genomen om de rente te verlagen.",
-"q": "Vraag 24, open plek (1): kies het juiste woord.\n“Als gevolg van de renteverlaging zullen beleggers uit eurolanden … in Zwitserland gaan beleggen.",
+"q": "Vraag 24, open plek (1): kies wat er op de plek van ____(1)____ hoort.\n“Als gevolg van de renteverlaging zullen beleggers uit eurolanden ____(1)____ in Zwitserland gaan beleggen. - De vraag naar de Zwitserse frank zal door de renteverlaging …(2)… en de koers van de Zwitserse frank zal ten opzichte van de euro …(3)…. Het is de verwachting dat het toerisme naar Zwitserland hierdoor zal gaan aantrekken.”",
 "o": [
 "meer",
 "minder"
@@ -3073,7 +3073,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 24.2,
 "ctx": "Om de internationale concurrentiepositie van Zwitserland te verbeteren heeft de Zwitserse Centrale Bank het besluit genomen om de rente te verlagen.",
-"q": "Vraag 24, open plek (2): kies het juiste woord.\nDe vraag naar de Zwitserse frank zal door de renteverlaging … en de koers van de Zwitserse frank zal ten opzichte van de euro …(3)….",
+"q": "Vraag 24, open plek (2): kies wat er op de plek van ____(2)____ hoort.\n“Als gevolg van de renteverlaging zullen beleggers uit eurolanden minder in Zwitserland gaan beleggen. - De vraag naar de Zwitserse frank zal door de renteverlaging ____(2)____ en de koers van de Zwitserse frank zal ten opzichte van de euro …(3)…. Het is de verwachting dat het toerisme naar Zwitserland hierdoor zal gaan aantrekken.”",
 "o": [
 "dalen",
 "stijgen"
@@ -3093,7 +3093,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 24.3,
 "ctx": "Om de internationale concurrentiepositie van Zwitserland te verbeteren heeft de Zwitserse Centrale Bank het besluit genomen om de rente te verlagen.",
-"q": "Vraag 24, open plek (3): kies het juiste woord.\nDe vraag naar de Zwitserse frank zal door de renteverlaging …(2)… en de koers van de Zwitserse frank zal ten opzichte van de euro ….",
+"q": "Vraag 24, open plek (3): kies wat er op de plek van ____(3)____ hoort.\n“Als gevolg van de renteverlaging zullen beleggers uit eurolanden minder in Zwitserland gaan beleggen. - De vraag naar de Zwitserse frank zal door de renteverlaging dalen en de koers van de Zwitserse frank zal ten opzichte van de euro ____(3)____. Het is de verwachting dat het toerisme naar Zwitserland hierdoor zal gaan aantrekken.”",
 "o": [
 "dalen",
 "stijgen"
@@ -3209,7 +3209,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.1,
 "ctx": "uit een krant, december 2017: Iedereen die in Nederland woont of werkt, moet een basisverzekering voor zorg - kortweg basispakket - afsluiten. De overheid bepaalt wat onder het basispakket valt en wat niet. Daarnaast kunnen mensen een aanvullende zorgverzekering afsluiten om kosten te verzekeren die buiten het basispakket vallen, zoals tandzorg, fysiotherapie, hulpmiddelen of alternatieve geneeswijzen. Het basispakket heeft een verplicht eigen risico van minimaal € 385 per persoon per jaar. Verzekerden die kiezen voor een vrijwillig verhoogd eigen risico, krijgen korting op de premie. De gezamenlijke zorgverzekeringsmaatschappijen zien een trend dat verzekerden zich steeds rationeler gedragen: - Klanten verzekeren zich alleen nog voor aanvullende zorg waarvan zij (bijna) zeker weten dat zij die gaan gebruiken. - Gezonde mensen kiezen steeds vaker voor een verhoogd eigen risico bij het basispakket.",
-"q": "Vraag 1, open plek (1): kies het juiste woord.\nEen aanvullende zorgverzekering is een … ten opzichte van het basispakket.",
+"q": "Vraag 1, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik het krantenartikel. - Een aanvullende zorgverzekering is een ____(1)____ ten opzichte van het basispakket. - Doordat klanten steeds rationelere keuzes maken bij het afsluiten van een aanvullende zorgverzekering, zal averechtse selectie …(2)….",
 "o": [
 "complementair goed",
 "substitutiegoed",
@@ -3230,7 +3230,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.2,
 "ctx": "uit een krant, december 2017: Iedereen die in Nederland woont of werkt, moet een basisverzekering voor zorg - kortweg basispakket - afsluiten. De overheid bepaalt wat onder het basispakket valt en wat niet. Daarnaast kunnen mensen een aanvullende zorgverzekering afsluiten om kosten te verzekeren die buiten het basispakket vallen, zoals tandzorg, fysiotherapie, hulpmiddelen of alternatieve geneeswijzen. Het basispakket heeft een verplicht eigen risico van minimaal € 385 per persoon per jaar. Verzekerden die kiezen voor een vrijwillig verhoogd eigen risico, krijgen korting op de premie. De gezamenlijke zorgverzekeringsmaatschappijen zien een trend dat verzekerden zich steeds rationeler gedragen: - Klanten verzekeren zich alleen nog voor aanvullende zorg waarvan zij (bijna) zeker weten dat zij die gaan gebruiken. - Gezonde mensen kiezen steeds vaker voor een verhoogd eigen risico bij het basispakket.",
-"q": "Vraag 1, open plek (2): kies het juiste woord.\nDoordat klanten steeds rationelere keuzes maken bij het afsluiten van een aanvullende zorgverzekering, zal averechtse selectie ….",
+"q": "Vraag 1, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik het krantenartikel. - Een aanvullende zorgverzekering is een complementair goed ten opzichte van het basispakket. - Doordat klanten steeds rationelere keuzes maken bij het afsluiten van een aanvullende zorgverzekering, zal averechtse selectie ____(2)____.",
 "o": [
 "toenemen",
 "afnemen",
@@ -3427,7 +3427,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.1,
 "ctx": "Nederland kent bij de financiering van het ouderdomspensioen de volgende uitgangspunten: - een basispensioen voor iedereen volgens de Algemene Ouderdomswet (AOW), waarbij met de ontvangen premies in een jaar direct de uitkeringen in dat jaar worden betaald - een bedrijfspensioen afhankelijk van het looninkomen, waarbij door een pensioenfonds op basis van belegde premies de uitkering wordt verstrekt - een vrijwillige aanvullende pensioenverzekering, waarbij er zelf wordt gespaard voor extra pensioen",
-"q": "Vraag 12, open plek (1): kies het juiste woord.\nAOW-uitkeringen worden in Nederland gefinancierd op basis van het ….",
+"q": "Vraag 12, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nAOW-uitkeringen worden in Nederland gefinancierd op basis van het ____(1)____. Er vindt herverdeling van inkomen plaats tussen leeftijdsgroepen. Hierbij is sprake van …(2)… tussen generaties. - Bedrijfspensioenen worden uitgekeerd door een pensioenfonds op basis van belegde premies. De werknemer spaart zelf voor zijn pensioen, en wordt daarbij geholpen door de werkgever die meebetaalt aan de pensioenpremie. Hierbij is sprake van …(3)…",
 "o": [
 "kapitaaldekkingsstelsel",
 "omslagstelsel"
@@ -3447,7 +3447,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.2,
 "ctx": "Nederland kent bij de financiering van het ouderdomspensioen de volgende uitgangspunten: - een basispensioen voor iedereen volgens de Algemene Ouderdomswet (AOW), waarbij met de ontvangen premies in een jaar direct de uitkeringen in dat jaar worden betaald - een bedrijfspensioen afhankelijk van het looninkomen, waarbij door een pensioenfonds op basis van belegde premies de uitkering wordt verstrekt - een vrijwillige aanvullende pensioenverzekering, waarbij er zelf wordt gespaard voor extra pensioen",
-"q": "Vraag 12, open plek (2): kies het juiste woord.\nEr vindt herverdeling van inkomen plaats tussen leeftijdsgroepen. Hierbij is sprake van … tussen generaties.",
+"q": "Vraag 12, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nAOW-uitkeringen worden in Nederland gefinancierd op basis van het omslagstelsel. Er vindt herverdeling van inkomen plaats tussen leeftijdsgroepen. Hierbij is sprake van ____(2)____ tussen generaties. - Bedrijfspensioenen worden uitgekeerd door een pensioenfonds op basis van belegde premies. De werknemer spaart zelf voor zijn pensioen, en wordt daarbij geholpen door de werkgever die meebetaalt aan de pensioenpremie. Hierbij is sprake van …(3)…",
 "o": [
 "verplichte solidariteit",
 "vrijwillige solidariteit"
@@ -3467,7 +3467,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.3,
 "ctx": "Nederland kent bij de financiering van het ouderdomspensioen de volgende uitgangspunten: - een basispensioen voor iedereen volgens de Algemene Ouderdomswet (AOW), waarbij met de ontvangen premies in een jaar direct de uitkeringen in dat jaar worden betaald - een bedrijfspensioen afhankelijk van het looninkomen, waarbij door een pensioenfonds op basis van belegde premies de uitkering wordt verstrekt - een vrijwillige aanvullende pensioenverzekering, waarbij er zelf wordt gespaard voor extra pensioen",
-"q": "Vraag 12, open plek (3): kies het juiste woord.\nDe werknemer spaart zelf voor zijn pensioen, en wordt daarbij geholpen door de werkgever die meebetaalt aan de pensioenpremie. Hierbij is sprake van …",
+"q": "Vraag 12, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nAOW-uitkeringen worden in Nederland gefinancierd op basis van het omslagstelsel. Er vindt herverdeling van inkomen plaats tussen leeftijdsgroepen. Hierbij is sprake van verplichte solidariteit tussen generaties. - Bedrijfspensioenen worden uitgekeerd door een pensioenfonds op basis van belegde premies. De werknemer spaart zelf voor zijn pensioen, en wordt daarbij geholpen door de werkgever die meebetaalt aan de pensioenpremie. Hierbij is sprake van ____(3)____",
 "o": [
 "directe ruil",
 "intertemporele ruil"
@@ -3599,7 +3599,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.1,
 "ctx": "De buurmannen Zacharia (53 jaar) en Willem (50 jaar) werken allebei in de bouwsector. In 2018 was er een sterke productiegroei in deze sector en gaf Zacharia zijn baan in loondienst op. Hij werd zzp’er in de bouw, terwijl Willem ervoor koos werknemer te blijven. De bouw kent een cao met een bedrijfspensioen. Zacharia en Willem hebben het krantenartikel gelezen en zijn met elkaar daarover in discussie geraakt. - Uitspraak 1 – Zacharia: “Ik begrijp niet dat jij werknemer blijft. Mijn inkomen is dankzij de groei in de bouwsector hoger dan dat van jou. Mijn inkomen past zich snel aan de marktsituatie aan. En dan heb ik ook nog belastingvoordelen die jij niet hebt.” - Uitspraak 2 – Willem: “Ik blijf liever werknemer. Dan weet ik beter waar ik financieel aan toe ben en bovendien ben ik verzekerd tegen arbeidsongeschiktheid en ziekte. Jij mag dat zelf regelen, wat je trouwens nog steeds niet hebt gedaan. En dat terwijl het werken in de bouw niet zonder gevaren is….” - Uitspraak 3 – Zacharia: “Particuliere verzekeringsmaatschappijen werken met risicogroepen waar ze de premies op afstemmen. Dan is de zelfstandige advocaat beter af dan ik. Er zijn overheidsplannen om te komen tot een verplichte collectieve verzekering tegen arbeidsongeschiktheid en ziekte voor alle zzp’ers in Nederland. Daar wacht ik op, omdat dat veel gunstiger is voor mij. Leve de verplichte solidariteit!” - Uitspraak 4 – Willem: “Solidair? Jij hebt over enkele jaren net zoveel pensioen als ik, zonder dat je daarvoor betaalt. Dat noem ik geen solidariteit.” - Uitspraak 5 – Zacharia: “Wat je nu zegt over pensioen klopt niet. Je vergist je!”",
-"q": "Vraag 19, open plek (1): kies het juiste woord.\nomdat de verhouding verzekerden met hoog risico verzekerden met laag risico … is,",
+"q": "Vraag 19, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik uitspraak 2 en uitspraak 3. Zacharia onderbouwt uitspraak 3 als volgt: Bij een verplichte collectieve verzekering is de verzekeringspremie lager dan bij een particuliere verzekering - omdat de verhouding verzekerden met hoog risico verzekerden met laag risico ____(1)____ is, - en daardoor is de gemiddelde schade-uitkering per verzekerde …(2)….",
 "o": [
 "lager",
 "gelijk",
@@ -3620,7 +3620,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.2,
 "ctx": "De buurmannen Zacharia (53 jaar) en Willem (50 jaar) werken allebei in de bouwsector. In 2018 was er een sterke productiegroei in deze sector en gaf Zacharia zijn baan in loondienst op. Hij werd zzp’er in de bouw, terwijl Willem ervoor koos werknemer te blijven. De bouw kent een cao met een bedrijfspensioen. Zacharia en Willem hebben het krantenartikel gelezen en zijn met elkaar daarover in discussie geraakt. - Uitspraak 1 – Zacharia: “Ik begrijp niet dat jij werknemer blijft. Mijn inkomen is dankzij de groei in de bouwsector hoger dan dat van jou. Mijn inkomen past zich snel aan de marktsituatie aan. En dan heb ik ook nog belastingvoordelen die jij niet hebt.” - Uitspraak 2 – Willem: “Ik blijf liever werknemer. Dan weet ik beter waar ik financieel aan toe ben en bovendien ben ik verzekerd tegen arbeidsongeschiktheid en ziekte. Jij mag dat zelf regelen, wat je trouwens nog steeds niet hebt gedaan. En dat terwijl het werken in de bouw niet zonder gevaren is….” - Uitspraak 3 – Zacharia: “Particuliere verzekeringsmaatschappijen werken met risicogroepen waar ze de premies op afstemmen. Dan is de zelfstandige advocaat beter af dan ik. Er zijn overheidsplannen om te komen tot een verplichte collectieve verzekering tegen arbeidsongeschiktheid en ziekte voor alle zzp’ers in Nederland. Daar wacht ik op, omdat dat veel gunstiger is voor mij. Leve de verplichte solidariteit!” - Uitspraak 4 – Willem: “Solidair? Jij hebt over enkele jaren net zoveel pensioen als ik, zonder dat je daarvoor betaalt. Dat noem ik geen solidariteit.” - Uitspraak 5 – Zacharia: “Wat je nu zegt over pensioen klopt niet. Je vergist je!”",
-"q": "Vraag 19, open plek (2): kies het juiste woord.\nen daardoor is de gemiddelde schade-uitkering per verzekerde ….",
+"q": "Vraag 19, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik uitspraak 2 en uitspraak 3. Zacharia onderbouwt uitspraak 3 als volgt: Bij een verplichte collectieve verzekering is de verzekeringspremie lager dan bij een particuliere verzekering - omdat de verhouding verzekerden met hoog risico verzekerden met laag risico lager is, - en daardoor is de gemiddelde schade-uitkering per verzekerde ____(2)____.",
 "o": [
 "lager",
 "gelijk",
@@ -3769,7 +3769,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.1,
 "ctx": "Carlein Solis: “Het herinvoeren van de subsidieregeling zal leiden tot een sterke stijging van de omzet voor producenten van zonnepanelen. De subsidie wordt verstrekt aan de producent. Zeker is ook dat het consumentensurplus zal toenemen doordat de subsidie wordt doorgegeven aan de consument. Bovendien heeft het positieve gevolgen voor de werkgelegenheid in andere sectoren van de economie.”",
-"q": "Vraag 27, open plek (1): kies het juiste woord.\nUitgaand van de situatie zonder subsidie bedraagt de prijselasticiteit van de vraag naar zonnepanelen ….",
+"q": "Vraag 27, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bron 1. - Uitgaand van de situatie zonder subsidie bedraagt de prijselasticiteit van de vraag naar zonnepanelen ____(1)____. - Blijkbaar is de vraag naar zonnepanelen …(2)….",
 "o": [
 "0,3",
 "–0,3",
@@ -3791,7 +3791,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.2,
 "ctx": "Carlein Solis: “Het herinvoeren van de subsidieregeling zal leiden tot een sterke stijging van de omzet voor producenten van zonnepanelen. De subsidie wordt verstrekt aan de producent. Zeker is ook dat het consumentensurplus zal toenemen doordat de subsidie wordt doorgegeven aan de consument. Bovendien heeft het positieve gevolgen voor de werkgelegenheid in andere sectoren van de economie.”",
-"q": "Vraag 27, open plek (2): kies het juiste woord.\nUitgaand van de situatie zonder subsidie bedraagt de prijselasticiteit van de vraag naar zonnepanelen …(1)…. - Blijkbaar is de vraag naar zonnepanelen ….",
+"q": "Vraag 27, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bron 1. - Uitgaand van de situatie zonder subsidie bedraagt de prijselasticiteit van de vraag naar zonnepanelen 3,3. - Blijkbaar is de vraag naar zonnepanelen ____(2)____.",
 "o": [
 "elastisch",
 "inelastisch"
@@ -4163,7 +4163,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.1,
 "ctx": "Zes miljard euro extra was er nodig om het overheidstekort van Nederland in 2013 onder drie procent van het bruto binnenlands product (bbp) te krijgen. De drie procentnorm is een afspraak uit het Stabiliteitspact tussen de eurolanden. Sinds de kredietcrisis (2008) had Nederland tot aan 2013 deze norm niet meer gehaald. Volgens de Europese Unie (EU) moest de Nederlandse overheid zo snel mogelijk orde op zaken stellen, anders zou er een boete volgen. Om het tekort van zes miljard euro aan te vullen heeft de Nederlandse overheid nieuwe belastingverhogingen doorgevoerd.",
-"q": "Vraag 21, open plek (1): kies het juiste woord.\nDit tekort kan worden gezien als een vorm van ….",
+"q": "Vraag 21, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDoordat, sinds de kredietcrisis, de overheidsuitgaven de overheidsinkomsten overtroffen ontstond er een overheidstekort. - Dit tekort kan worden gezien als een vorm van ____(1)____. - De overheid kon het tekort financieren met de …(2)… van obligaties. - Er is dan sprake van ruilen over de tijd, waarbij de overheid bestedingen verschuift …(3)…, en waarbij de kopers van obligaties bestedingen verschuiven …(4)…",
 "o": [
 "uitgestelde belastingheffing",
 "besparing"
@@ -4183,7 +4183,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.2,
 "ctx": "Zes miljard euro extra was er nodig om het overheidstekort van Nederland in 2013 onder drie procent van het bruto binnenlands product (bbp) te krijgen. De drie procentnorm is een afspraak uit het Stabiliteitspact tussen de eurolanden. Sinds de kredietcrisis (2008) had Nederland tot aan 2013 deze norm niet meer gehaald. Volgens de Europese Unie (EU) moest de Nederlandse overheid zo snel mogelijk orde op zaken stellen, anders zou er een boete volgen. Om het tekort van zes miljard euro aan te vullen heeft de Nederlandse overheid nieuwe belastingverhogingen doorgevoerd.",
-"q": "Vraag 21, open plek (2): kies het juiste woord.\nDe overheid kon het tekort financieren met de … van obligaties.",
+"q": "Vraag 21, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDoordat, sinds de kredietcrisis, de overheidsuitgaven de overheidsinkomsten overtroffen ontstond er een overheidstekort. - Dit tekort kan worden gezien als een vorm van uitgestelde belastingheffing. - De overheid kon het tekort financieren met de ____(2)____ van obligaties. - Er is dan sprake van ruilen over de tijd, waarbij de overheid bestedingen verschuift …(3)…, en waarbij de kopers van obligaties bestedingen verschuiven …(4)…",
 "o": [
 "aflossing",
 "uitgifte"
@@ -4203,7 +4203,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.3,
 "ctx": "Zes miljard euro extra was er nodig om het overheidstekort van Nederland in 2013 onder drie procent van het bruto binnenlands product (bbp) te krijgen. De drie procentnorm is een afspraak uit het Stabiliteitspact tussen de eurolanden. Sinds de kredietcrisis (2008) had Nederland tot aan 2013 deze norm niet meer gehaald. Volgens de Europese Unie (EU) moest de Nederlandse overheid zo snel mogelijk orde op zaken stellen, anders zou er een boete volgen. Om het tekort van zes miljard euro aan te vullen heeft de Nederlandse overheid nieuwe belastingverhogingen doorgevoerd.",
-"q": "Vraag 21, open plek (3): kies het juiste woord.\nEr is dan sprake van ruilen over de tijd, waarbij de overheid bestedingen verschuift …, en waarbij de kopers van obligaties bestedingen verschuiven …(4)…",
+"q": "Vraag 21, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDoordat, sinds de kredietcrisis, de overheidsuitgaven de overheidsinkomsten overtroffen ontstond er een overheidstekort. - Dit tekort kan worden gezien als een vorm van uitgestelde belastingheffing. - De overheid kon het tekort financieren met de uitgifte van obligaties. - Er is dan sprake van ruilen over de tijd, waarbij de overheid bestedingen verschuift ____(3)____, en waarbij de kopers van obligaties bestedingen verschuiven …(4)…",
 "o": [
 "van het heden naar de toekomst",
 "van de toekomst naar het heden"
@@ -4223,7 +4223,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.4,
 "ctx": "Zes miljard euro extra was er nodig om het overheidstekort van Nederland in 2013 onder drie procent van het bruto binnenlands product (bbp) te krijgen. De drie procentnorm is een afspraak uit het Stabiliteitspact tussen de eurolanden. Sinds de kredietcrisis (2008) had Nederland tot aan 2013 deze norm niet meer gehaald. Volgens de Europese Unie (EU) moest de Nederlandse overheid zo snel mogelijk orde op zaken stellen, anders zou er een boete volgen. Om het tekort van zes miljard euro aan te vullen heeft de Nederlandse overheid nieuwe belastingverhogingen doorgevoerd.",
-"q": "Vraag 21, open plek (4): kies het juiste woord.\nEr is dan sprake van ruilen over de tijd, waarbij de overheid bestedingen verschuift …(3)…, en waarbij de kopers van obligaties bestedingen verschuiven …",
+"q": "Vraag 21, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDoordat, sinds de kredietcrisis, de overheidsuitgaven de overheidsinkomsten overtroffen ontstond er een overheidstekort. - Dit tekort kan worden gezien als een vorm van uitgestelde belastingheffing. - De overheid kon het tekort financieren met de uitgifte van obligaties. - Er is dan sprake van ruilen over de tijd, waarbij de overheid bestedingen verschuift van de toekomst naar het heden, en waarbij de kopers van obligaties bestedingen verschuiven ____(4)____",
 "o": [
 "van het heden naar de toekomst",
 "van de toekomst naar het heden"
@@ -4483,7 +4483,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.1,
 "ctx": "Het Nederlandse bedrijf Koko is momenteel de enige fabrikant ter wereld van kokosbrood, een broodbeleg dat alleen in Nederland wordt geconsumeerd. Een paar jaar geleden waren nog zeven bedrijven actief op de Nederlandse afzetmarkt. Koko was op die markt de fabrikant met de grootste afzet en wist daardoor concurrentievoordeel te behalen op de andere aanbieders. Deze aanbieders gingen failliet of werden door Koko overgenomen.",
-"q": "Vraag 6, open plek (1): kies het juiste woord.\nVoordat Koko zijn concurrenten overnam, was er sprake van ….",
+"q": "Vraag 6, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nVoordat Koko zijn concurrenten overnam, was er sprake van ____(1)____. Op dit moment spreken we van …(2)…. Door de overnames heeft Koko nu meer marktmacht, en is prijszetter geworden. Bij een prijsverhoging zal het consumentensurplus …(3)….",
 "o": [
 "monopolistische concurrentie",
 "een oligopolie",
@@ -4504,7 +4504,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.2,
 "ctx": "Het Nederlandse bedrijf Koko is momenteel de enige fabrikant ter wereld van kokosbrood, een broodbeleg dat alleen in Nederland wordt geconsumeerd. Een paar jaar geleden waren nog zeven bedrijven actief op de Nederlandse afzetmarkt. Koko was op die markt de fabrikant met de grootste afzet en wist daardoor concurrentievoordeel te behalen op de andere aanbieders. Deze aanbieders gingen failliet of werden door Koko overgenomen.",
-"q": "Vraag 6, open plek (2): kies het juiste woord.\nVoordat Koko zijn concurrenten overnam, was er sprake van …(1)…. Op dit moment spreken we van ….",
+"q": "Vraag 6, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nVoordat Koko zijn concurrenten overnam, was er sprake van een oligopolie. Op dit moment spreken we van ____(2)____. Door de overnames heeft Koko nu meer marktmacht, en is prijszetter geworden. Bij een prijsverhoging zal het consumentensurplus …(3)….",
 "o": [
 "monopolistische concurrentie",
 "een oligopolie",
@@ -4525,7 +4525,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 6.3,
 "ctx": "Het Nederlandse bedrijf Koko is momenteel de enige fabrikant ter wereld van kokosbrood, een broodbeleg dat alleen in Nederland wordt geconsumeerd. Een paar jaar geleden waren nog zeven bedrijven actief op de Nederlandse afzetmarkt. Koko was op die markt de fabrikant met de grootste afzet en wist daardoor concurrentievoordeel te behalen op de andere aanbieders. Deze aanbieders gingen failliet of werden door Koko overgenomen.",
-"q": "Vraag 6, open plek (3): kies het juiste woord.\nBij een prijsverhoging zal het consumentensurplus ….",
+"q": "Vraag 6, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nVoordat Koko zijn concurrenten overnam, was er sprake van een oligopolie. Op dit moment spreken we van een monopolie. Door de overnames heeft Koko nu meer marktmacht, en is prijszetter geworden. Bij een prijsverhoging zal het consumentensurplus ____(3)____.",
 "o": [
 "kleiner worden",
 "gelijk blijven",
@@ -4674,7 +4674,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 14.1,
 "ctx": "Het Nederlands pensioenstelsel bestaat uit drie pijlers, die samen de totale uitkering bepalen die iemand ontvangt als hij de pensioengerechtigde leeftijd heeft bereikt. De pijlers zijn: 1) het staatspensioen (AOW) 2) het bedrijfspensioen 3) het individueel opgebouwde pensioen De tweede pijler, het bedrijfspensioen, wordt opgebouwd voor werknemers in loondienst. Werkgevers en werknemers leggen premie in bij pensioenfondsen, die de premies beleggen. Het stelsel van bedrijfspensioenen staat onder andere onder druk door lage beleggingsrendementen. Als gevolg daarvan zijn de bedrijfspensioenuitkeringen in de periode 2014-2018 gelijk gebleven, terwijl de cao-lonen en de consumentenprijzen in diezelfde periode wel zijn gestegen (zie bron 1).",
-"q": "Vraag 14, open plek (1): kies het juiste woord.\nEr is de laatste jaren geen sprake geweest van een waardevast bedrijfspensioen, omdat de … waarde van het bedrijfspensioen niet is meegestegen met de …(2)….",
+"q": "Vraag 14, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bovenstaande tekst. Er is de laatste jaren geen sprake geweest van een waardevast bedrijfspensioen, omdat de ____(1)____ waarde van het bedrijfspensioen niet is meegestegen met de …(2)….",
 "o": [
 "nominale",
 "reële"
@@ -4694,7 +4694,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 14.2,
 "ctx": "Het Nederlands pensioenstelsel bestaat uit drie pijlers, die samen de totale uitkering bepalen die iemand ontvangt als hij de pensioengerechtigde leeftijd heeft bereikt. De pijlers zijn: 1) het staatspensioen (AOW) 2) het bedrijfspensioen 3) het individueel opgebouwde pensioen De tweede pijler, het bedrijfspensioen, wordt opgebouwd voor werknemers in loondienst. Werkgevers en werknemers leggen premie in bij pensioenfondsen, die de premies beleggen. Het stelsel van bedrijfspensioenen staat onder andere onder druk door lage beleggingsrendementen. Als gevolg daarvan zijn de bedrijfspensioenuitkeringen in de periode 2014-2018 gelijk gebleven, terwijl de cao-lonen en de consumentenprijzen in diezelfde periode wel zijn gestegen (zie bron 1).",
-"q": "Vraag 14, open plek (2): kies het juiste woord.\nEr is de laatste jaren geen sprake geweest van een waardevast bedrijfspensioen, omdat de …(1)… waarde van het bedrijfspensioen niet is meegestegen met de ….",
+"q": "Vraag 14, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bovenstaande tekst. Er is de laatste jaren geen sprake geweest van een waardevast bedrijfspensioen, omdat de nominale waarde van het bedrijfspensioen niet is meegestegen met de ____(2)____.",
 "o": [
 "cao-lonen",
 "inflatie"
@@ -4830,8 +4830,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-1.21.1",
 "t": "ex",
 "nr": 21.1,
-"ctx": "De president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot ...(1)… bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4).... Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
-"q": "Vraag 21, open plek (1): kies het juiste woord.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot … bestedingen en …(2)… besparingen door de consumenten.",
+"ctx": "",
+"q": "Vraag 21, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot ____(1)____ bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4)…. Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
 "o": [
 "lage",
 "hoge"
@@ -4850,8 +4850,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-1.21.2",
 "t": "ex",
 "nr": 21.2,
-"ctx": "De president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot ...(1)… bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4).... Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
-"q": "Vraag 21, open plek (2): kies het juiste woord.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot …(1)… bestedingen en … besparingen door de consumenten.",
+"ctx": "",
+"q": "Vraag 21, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot lage bestedingen en ____(2)____ besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4)…. Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
 "o": [
 "lage",
 "hoge"
@@ -4870,8 +4870,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-1.21.3",
 "t": "ex",
 "nr": 21.3,
-"ctx": "De president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot ...(1)… bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4).... Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
-"q": "Vraag 21, open plek (3): kies het juiste woord.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot …(1)… bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen ….",
+"ctx": "",
+"q": "Vraag 21, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot lage bestedingen en hoge besparingen door de consumenten. Producenten zullen daarop hun prijzen ____(3)____. Vervolgens zullen de lonen, winsten en investeringen …(4)…. Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
 "o": [
 "verhogen",
 "verlagen"
@@ -4890,8 +4890,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-1.21.4",
 "t": "ex",
 "nr": 21.4,
-"ctx": "De president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot ...(1)… bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4).... Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
-"q": "Vraag 21, open plek (4): kies het juiste woord.\nVervolgens zullen de lonen, winsten en investeringen ….",
+"ctx": "",
+"q": "Vraag 21, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot lage bestedingen en hoge besparingen door de consumenten. Producenten zullen daarop hun prijzen verlagen. Vervolgens zullen de lonen, winsten en investeringen ____(4)____. Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
 "o": [
 "dalen",
 "stijgen"
@@ -4910,8 +4910,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-1.21.5",
 "t": "ex",
 "nr": 21.5,
-"ctx": "De president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot ...(1)… bestedingen en …(2)… besparingen door de consumenten. Producenten zullen daarop hun prijzen …(3)…. Vervolgens zullen de lonen, winsten en investeringen …(4).... Consumenten zullen daarop hun bestedingen …(5)…. Daardoor stagneert de economische ontwikkeling.",
-"q": "Vraag 21, open plek (5): kies het juiste woord.\nVervolgens zullen de lonen, winsten en investeringen …(4)…. Consumenten zullen daarop hun bestedingen ….",
+"ctx": "",
+"q": "Vraag 21, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nDe president van de Europese Centrale Bank (ECB) reageert op het rapport van de OESO en beschrijft de gevolgen van het lage consumentenvertrouwen: Het lage consumentenvertrouwen leidt tot lage bestedingen en hoge besparingen door de consumenten. Producenten zullen daarop hun prijzen verlagen. Vervolgens zullen de lonen, winsten en investeringen dalen. Consumenten zullen daarop hun bestedingen ____(5)____. Daardoor stagneert de economische ontwikkeling.",
 "o": [
 "uitstellen",
 "vervroegen"
@@ -5107,7 +5107,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 3.1,
 "ctx": "Schadeverzekeringen hebben hun oorsprong in de scheepvaart. De Romeinen dreven handel met verre gebieden, waardoor er extra risico was van schade, bijvoorbeeld door zeerovers. Daarom werd de transportprijs verhoogd met een risico-opslag. Tegenwoordig is er een aparte verzekeringsmarkt waar schaderisico’s worden ondergebracht bij schadeverzekeraars.",
-"q": "Vraag 3, open plek (1): kies het juiste woord.\nVerzekeraars kennen de persoonlijke risico’s van hun klanten minder goed dan de klanten die zelf kennen, oftewel, de verzekeraars hebben te maken met ….",
+"q": "Vraag 3, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nVerzekeraars kennen de persoonlijke risico’s van hun klanten minder goed dan de klanten die zelf kennen, oftewel, de verzekeraars hebben te maken met ____(1)____. Een gevolg daarvan is dat de verzekeraars worden geconfronteerd met twee economische verschijnselen. - Het eerste is …(2)…, wat betekent dat alleen consumenten die verwachten dat het schadebedrag minimaal gelijk is aan de te betalen premie zich laten verzekeren. - Het tweede is …(3)… wat betekent dat verzekerde consumenten roekelozer met hun bezittingen omgaan. - Beide verschijnselen kunnen tot gevolg hebben dat het …(4)… schadebedrag hoger is dan het …(5)… schadebedrag op basis waarvan de premie tot stand is gekomen. Verzekeraars dekken zich tegen deze twee economische verschijnselen in via een premieopslag.",
 "o": [
 "asymmetrische informatie",
 "eigen risico",
@@ -5128,7 +5128,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 3.2,
 "ctx": "Schadeverzekeringen hebben hun oorsprong in de scheepvaart. De Romeinen dreven handel met verre gebieden, waardoor er extra risico was van schade, bijvoorbeeld door zeerovers. Daarom werd de transportprijs verhoogd met een risico-opslag. Tegenwoordig is er een aparte verzekeringsmarkt waar schaderisico’s worden ondergebracht bij schadeverzekeraars.",
-"q": "Vraag 3, open plek (2): kies het juiste woord.\nHet eerste is…, wat betekent dat alleen consumenten die verwachten dat het schadebedrag minimaal gelijk is aan de te betalen premie zich laten verzekeren.",
+"q": "Vraag 3, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nVerzekeraars kennen de persoonlijke risico’s van hun klanten minder goed dan de klanten die zelf kennen, oftewel, de verzekeraars hebben te maken met asymmetrische informatie. Een gevolg daarvan is dat de verzekeraars worden geconfronteerd met twee economische verschijnselen. - Het eerste is ____(2)____, wat betekent dat alleen consumenten die verwachten dat het schadebedrag minimaal gelijk is aan de te betalen premie zich laten verzekeren. - Het tweede is …(3)… wat betekent dat verzekerde consumenten roekelozer met hun bezittingen omgaan. - Beide verschijnselen kunnen tot gevolg hebben dat het …(4)… schadebedrag hoger is dan het …(5)… schadebedrag op basis waarvan de premie tot stand is gekomen. Verzekeraars dekken zich tegen deze twee economische verschijnselen in via een premieopslag.",
 "o": [
 "averechtse selectie",
 "moral hazard"
@@ -5148,7 +5148,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 3.3,
 "ctx": "Schadeverzekeringen hebben hun oorsprong in de scheepvaart. De Romeinen dreven handel met verre gebieden, waardoor er extra risico was van schade, bijvoorbeeld door zeerovers. Daarom werd de transportprijs verhoogd met een risico-opslag. Tegenwoordig is er een aparte verzekeringsmarkt waar schaderisico’s worden ondergebracht bij schadeverzekeraars.",
-"q": "Vraag 3, open plek (3): kies het juiste woord.\nHet tweede is … wat betekent dat verzekerde consumenten roekelozer met hun bezittingen omgaan.",
+"q": "Vraag 3, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nVerzekeraars kennen de persoonlijke risico’s van hun klanten minder goed dan de klanten die zelf kennen, oftewel, de verzekeraars hebben te maken met asymmetrische informatie. Een gevolg daarvan is dat de verzekeraars worden geconfronteerd met twee economische verschijnselen. - Het eerste is averechtse selectie, wat betekent dat alleen consumenten die verwachten dat het schadebedrag minimaal gelijk is aan de te betalen premie zich laten verzekeren. - Het tweede is ____(3)____ wat betekent dat verzekerde consumenten roekelozer met hun bezittingen omgaan. - Beide verschijnselen kunnen tot gevolg hebben dat het …(4)… schadebedrag hoger is dan het …(5)… schadebedrag op basis waarvan de premie tot stand is gekomen. Verzekeraars dekken zich tegen deze twee economische verschijnselen in via een premieopslag.",
 "o": [
 "averechtse selectie",
 "moral hazard"
@@ -5168,7 +5168,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 3.4,
 "ctx": "Schadeverzekeringen hebben hun oorsprong in de scheepvaart. De Romeinen dreven handel met verre gebieden, waardoor er extra risico was van schade, bijvoorbeeld door zeerovers. Daarom werd de transportprijs verhoogd met een risico-opslag. Tegenwoordig is er een aparte verzekeringsmarkt waar schaderisico’s worden ondergebracht bij schadeverzekeraars.",
-"q": "Vraag 3, open plek (4): kies het juiste woord.\nBeide verschijnselen kunnen tot gevolg hebben dat het … schadebedrag hoger is dan het …(5)…schadebedrag op basis waarvan de premie tot stand is gekomen.",
+"q": "Vraag 3, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nVerzekeraars kennen de persoonlijke risico’s van hun klanten minder goed dan de klanten die zelf kennen, oftewel, de verzekeraars hebben te maken met asymmetrische informatie. Een gevolg daarvan is dat de verzekeraars worden geconfronteerd met twee economische verschijnselen. - Het eerste is averechtse selectie, wat betekent dat alleen consumenten die verwachten dat het schadebedrag minimaal gelijk is aan de te betalen premie zich laten verzekeren. - Het tweede is moral hazard wat betekent dat verzekerde consumenten roekelozer met hun bezittingen omgaan. - Beide verschijnselen kunnen tot gevolg hebben dat het ____(4)____ schadebedrag hoger is dan het …(5)… schadebedrag op basis waarvan de premie tot stand is gekomen. Verzekeraars dekken zich tegen deze twee economische verschijnselen in via een premieopslag.",
 "o": [
 "verwachte",
 "werkelijke"
@@ -5188,7 +5188,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 3.5,
 "ctx": "Schadeverzekeringen hebben hun oorsprong in de scheepvaart. De Romeinen dreven handel met verre gebieden, waardoor er extra risico was van schade, bijvoorbeeld door zeerovers. Daarom werd de transportprijs verhoogd met een risico-opslag. Tegenwoordig is er een aparte verzekeringsmarkt waar schaderisico’s worden ondergebracht bij schadeverzekeraars.",
-"q": "Vraag 3, open plek (5): kies het juiste woord.\nBeide verschijnselen kunnen tot gevolg hebben dat het …(4)… schadebedrag hoger is dan het …schadebedrag op basis waarvan de premie tot stand is gekomen.",
+"q": "Vraag 3, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nVerzekeraars kennen de persoonlijke risico’s van hun klanten minder goed dan de klanten die zelf kennen, oftewel, de verzekeraars hebben te maken met asymmetrische informatie. Een gevolg daarvan is dat de verzekeraars worden geconfronteerd met twee economische verschijnselen. - Het eerste is averechtse selectie, wat betekent dat alleen consumenten die verwachten dat het schadebedrag minimaal gelijk is aan de te betalen premie zich laten verzekeren. - Het tweede is moral hazard wat betekent dat verzekerde consumenten roekelozer met hun bezittingen omgaan. - Beide verschijnselen kunnen tot gevolg hebben dat het werkelijke schadebedrag hoger is dan het ____(5)____ schadebedrag op basis waarvan de premie tot stand is gekomen. Verzekeraars dekken zich tegen deze twee economische verschijnselen in via een premieopslag.",
 "o": [
 "verwachte",
 "werkelijke"
@@ -5255,8 +5255,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.1",
 "t": "ex",
 "nr": 6.1,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (1): kies het juiste woord.\nDoor een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… .",
+"ctx": "",
+"q": "Vraag 6, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen ____(1)____, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)…. - Door een verschuiving …(4)… de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "af",
 "toe"
@@ -5275,8 +5275,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.2",
 "t": "ex",
 "nr": 6.2,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (2): kies het juiste woord.\nDoor een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …, en zal de verzekeraar de premie …(3)… .",
+"ctx": "",
+"q": "Vraag 6, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen toe, verschuift de aanbodlijn van de polis ____(2)____, en zal de verzekeraar de premie …(3)…. - Door een verschuiving …(4)… de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "naar links",
 "naar rechts",
@@ -5296,8 +5296,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.3",
 "t": "ex",
 "nr": 6.3,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (3): kies het juiste woord.\nDoor een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie … .",
+"ctx": "",
+"q": "Vraag 6, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen toe, verschuift de aanbodlijn van de polis naar links, en zal de verzekeraar de premie ____(3)____. - Door een verschuiving …(4)… de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "verlagen",
 "verhogen"
@@ -5316,8 +5316,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.4",
 "t": "ex",
 "nr": 6.4,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (4): kies het juiste woord.\nDoor een verschuiving …de vraaglijn zal het aantal afgesloten polissen …(5)….",
+"ctx": "",
+"q": "Vraag 6, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen toe, verschuift de aanbodlijn van de polis naar links, en zal de verzekeraar de premie verhogen. - Door een verschuiving ____(4)____ de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "langs",
 "van"
@@ -5336,8 +5336,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.5",
 "t": "ex",
 "nr": 6.5,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (5): kies het juiste woord.\nDoor een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen ….",
+"ctx": "",
+"q": "Vraag 6, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen toe, verschuift de aanbodlijn van de polis naar links, en zal de verzekeraar de premie verhogen. - Door een verschuiving langs de vraaglijn zal het aantal afgesloten polissen ____(5)____. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "afnemen",
 "toenemen"
@@ -5356,8 +5356,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.6",
 "t": "ex",
 "nr": 6.6,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (6): kies het juiste woord.\nMaar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis ….",
+"ctx": "",
+"q": "Vraag 6, open plek (6): kies wat er op de plek van ____(6)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen toe, verschuift de aanbodlijn van de polis naar links, en zal de verzekeraar de premie verhogen. - Door een verschuiving langs de vraaglijn zal het aantal afgesloten polissen afnemen. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis ____(6)____. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "naar links",
 "naar rechts",
@@ -5377,8 +5377,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.6.7",
 "t": "ex",
 "nr": 6.7,
-"ctx": "In zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen …(1)…, verschuift de aanbodlijn van de polis …(2)…, en zal de verzekeraar de premie …(3)… . - Door een verschuiving …(4)…de vraaglijn zal het aantal afgesloten polissen …(5)…. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis …(6)…. Dit schadelasteffect draagt bij aan een …(7)… verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.”",
-"q": "Vraag 6, open plek (7): kies het juiste woord.\nDit schadelasteffect draagt bij aan een … verband tussen de schadelast en het aantal afgesloten polissen.",
+"ctx": "",
+"q": "Vraag 6, open plek (7): kies wat er op de plek van ____(7)____ hoort.\nIn zijn rapport geeft de econoom de volgende redenering bij pijl 3 van bron 1. “Om winst te maximaliseren zou je verwachten dat verzekeraars de schadelast (uit te keren schade per gebeurtenis) proberen te minimaliseren. Toch kan een hogere schadelast zelfs tot hogere winst leiden, en dat komt door het zogenaamde ‘schadelasteffect’. Een voorbeeld: Als consumenten weten dat autoruitschade gemiddeld 200 euro kost, dan zal de vraag naar ruitschadeverzekeringen relatief laag zijn. - Stel nu dat de reparaties zo veel duurder zijn geworden dat de schadelast 700 euro bedraagt. Door een toename van de schadelast nemen de marginale kosten van verzekeringspolissen toe, verschuift de aanbodlijn van de polis naar links, en zal de verzekeraar de premie verhogen. - Door een verschuiving langs de vraaglijn zal het aantal afgesloten polissen afnemen. - Maar door het verhoogde risico voor de consument (het schadelasteffect) verschuift de vraaglijn van deze verzekeringspolis naar rechts. Dit schadelasteffect draagt bij aan een ____(7)____ verband tussen de schadelast en het aantal afgesloten polissen. Daardoor kan uiteindelijk de winst zelfs toenemen.” Gebruik bron 1, pijl 3.",
 "o": [
 "negatief",
 "positief"
@@ -5430,7 +5430,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.1,
 "ctx": "Het spaargedrag van Nederlandse huishoudens liet tot circa 2013 twee tegengestelde ontwikkelingen zien. Aan de ene kant liepen de spaartegoeden flink op omdat de huishoudens hun koopkracht in de toekomst veilig willen stellen. Aan de andere kant maakten Nederlanders meer gebruik van consumptief krediet zoals roodstaan op de betaalrekening en kopen op afbetaling. Bij het Centraal Bureau voor de Statistiek (CBS) zijn cijfers beschikbaar over schuld in de roodstand onder volwassenen, dat wil zeggen onder volwassenen met een negatief saldo op de betaalrekening aan het eind van een maand. Uit deze cijfers blijkt dat de gemiddelde schuld in de roodstand eind december 2012 de hoogte had bereikt van 3.800 euro. De roodstand was daarmee hoger dan het modale netto-inkomen per maand. De totale schuld in de roodstand was gestegen van 7,8 miljard euro eind december 2007 naar 10,1 miljard euro eind december 2012. In de jaren na 2012 is de schuld in de roodstand geleidelijk weer gezakt. Een onderzoeker beweert dat meer dan een kwart van de tien miljoen volwassenen eind december 2012 rood stond op de betaalrekening.",
-"q": "Vraag 8, open plek (1): kies het juiste woord.\nBij een hoge rente zijn de besparingen … dan bij een lage rentestand.",
+"q": "Vraag 8, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nHet bedrag aan besparingen hangt af van meerdere factoren: de rentestand, het consumentenvertrouwen en de hoogte van de inflatie. - Bij een hoge rente zijn de besparingen ____(1)____ dan bij een lage rentestand. - Bij een hoog consumentenvertrouwen zal …(2)… worden gespaard dan bij een laag consumentenvertrouwen. - Bij een hoge inflatieverwachting zal er …(3)… gespaard worden dan bij een lage inflatieverwachting, omdat de bestedingen worden …(4)….",
 "o": [
 "hoger",
 "lager"
@@ -5450,7 +5450,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.2,
 "ctx": "Het spaargedrag van Nederlandse huishoudens liet tot circa 2013 twee tegengestelde ontwikkelingen zien. Aan de ene kant liepen de spaartegoeden flink op omdat de huishoudens hun koopkracht in de toekomst veilig willen stellen. Aan de andere kant maakten Nederlanders meer gebruik van consumptief krediet zoals roodstaan op de betaalrekening en kopen op afbetaling. Bij het Centraal Bureau voor de Statistiek (CBS) zijn cijfers beschikbaar over schuld in de roodstand onder volwassenen, dat wil zeggen onder volwassenen met een negatief saldo op de betaalrekening aan het eind van een maand. Uit deze cijfers blijkt dat de gemiddelde schuld in de roodstand eind december 2012 de hoogte had bereikt van 3.800 euro. De roodstand was daarmee hoger dan het modale netto-inkomen per maand. De totale schuld in de roodstand was gestegen van 7,8 miljard euro eind december 2007 naar 10,1 miljard euro eind december 2012. In de jaren na 2012 is de schuld in de roodstand geleidelijk weer gezakt. Een onderzoeker beweert dat meer dan een kwart van de tien miljoen volwassenen eind december 2012 rood stond op de betaalrekening.",
-"q": "Vraag 8, open plek (2): kies het juiste woord.\nBij een hoog consumentenvertrouwen zal … worden gespaard dan bij een laag consumentenvertrouwen.",
+"q": "Vraag 8, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nHet bedrag aan besparingen hangt af van meerdere factoren: de rentestand, het consumentenvertrouwen en de hoogte van de inflatie. - Bij een hoge rente zijn de besparingen hoger dan bij een lage rentestand. - Bij een hoog consumentenvertrouwen zal ____(2)____ worden gespaard dan bij een laag consumentenvertrouwen. - Bij een hoge inflatieverwachting zal er …(3)… gespaard worden dan bij een lage inflatieverwachting, omdat de bestedingen worden …(4)….",
 "o": [
 "meer",
 "minder"
@@ -5470,7 +5470,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.3,
 "ctx": "Het spaargedrag van Nederlandse huishoudens liet tot circa 2013 twee tegengestelde ontwikkelingen zien. Aan de ene kant liepen de spaartegoeden flink op omdat de huishoudens hun koopkracht in de toekomst veilig willen stellen. Aan de andere kant maakten Nederlanders meer gebruik van consumptief krediet zoals roodstaan op de betaalrekening en kopen op afbetaling. Bij het Centraal Bureau voor de Statistiek (CBS) zijn cijfers beschikbaar over schuld in de roodstand onder volwassenen, dat wil zeggen onder volwassenen met een negatief saldo op de betaalrekening aan het eind van een maand. Uit deze cijfers blijkt dat de gemiddelde schuld in de roodstand eind december 2012 de hoogte had bereikt van 3.800 euro. De roodstand was daarmee hoger dan het modale netto-inkomen per maand. De totale schuld in de roodstand was gestegen van 7,8 miljard euro eind december 2007 naar 10,1 miljard euro eind december 2012. In de jaren na 2012 is de schuld in de roodstand geleidelijk weer gezakt. Een onderzoeker beweert dat meer dan een kwart van de tien miljoen volwassenen eind december 2012 rood stond op de betaalrekening.",
-"q": "Vraag 8, open plek (3): kies het juiste woord.\nBij een hoge inflatieverwachting zal er … gespaard worden dan bij een lage inflatieverwachting, omdat de bestedingen worden …(4)….",
+"q": "Vraag 8, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nHet bedrag aan besparingen hangt af van meerdere factoren: de rentestand, het consumentenvertrouwen en de hoogte van de inflatie. - Bij een hoge rente zijn de besparingen hoger dan bij een lage rentestand. - Bij een hoog consumentenvertrouwen zal minder worden gespaard dan bij een laag consumentenvertrouwen. - Bij een hoge inflatieverwachting zal er ____(3)____ gespaard worden dan bij een lage inflatieverwachting, omdat de bestedingen worden …(4)….",
 "o": [
 "meer",
 "minder"
@@ -5490,7 +5490,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.4,
 "ctx": "Het spaargedrag van Nederlandse huishoudens liet tot circa 2013 twee tegengestelde ontwikkelingen zien. Aan de ene kant liepen de spaartegoeden flink op omdat de huishoudens hun koopkracht in de toekomst veilig willen stellen. Aan de andere kant maakten Nederlanders meer gebruik van consumptief krediet zoals roodstaan op de betaalrekening en kopen op afbetaling. Bij het Centraal Bureau voor de Statistiek (CBS) zijn cijfers beschikbaar over schuld in de roodstand onder volwassenen, dat wil zeggen onder volwassenen met een negatief saldo op de betaalrekening aan het eind van een maand. Uit deze cijfers blijkt dat de gemiddelde schuld in de roodstand eind december 2012 de hoogte had bereikt van 3.800 euro. De roodstand was daarmee hoger dan het modale netto-inkomen per maand. De totale schuld in de roodstand was gestegen van 7,8 miljard euro eind december 2007 naar 10,1 miljard euro eind december 2012. In de jaren na 2012 is de schuld in de roodstand geleidelijk weer gezakt. Een onderzoeker beweert dat meer dan een kwart van de tien miljoen volwassenen eind december 2012 rood stond op de betaalrekening.",
-"q": "Vraag 8, open plek (4): kies het juiste woord.\nBij een hoge inflatieverwachting zal er …(3)… gespaard worden dan bij een lage inflatieverwachting, omdat de bestedingen worden ….",
+"q": "Vraag 8, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nHet bedrag aan besparingen hangt af van meerdere factoren: de rentestand, het consumentenvertrouwen en de hoogte van de inflatie. - Bij een hoge rente zijn de besparingen hoger dan bij een lage rentestand. - Bij een hoog consumentenvertrouwen zal minder worden gespaard dan bij een laag consumentenvertrouwen. - Bij een hoge inflatieverwachting zal er minder gespaard worden dan bij een lage inflatieverwachting, omdat de bestedingen worden ____(4)____.",
 "o": [
 "versneld",
 "vertraagd"
@@ -5781,8 +5781,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.25.1",
 "t": "ex",
 "nr": 25.1,
-"ctx": "De IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, ...(1)… de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt …(2)… de ISK. Als gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
-"q": "Vraag 25, open plek (1): kies het juiste woord.\nOm te voorkomen dat de koers daalt, … de Centrale Bank de rente zodat de kapitaalinvoer stijgt.",
+"ctx": "",
+"q": "Vraag 25, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, ____(1)____ de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt …(2)… de ISK. Als gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
 "o": [
 "verhoogt",
 "verlaagt"
@@ -5801,8 +5801,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.25.2",
 "t": "ex",
 "nr": 25.2,
-"ctx": "De IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, ...(1)… de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt …(2)… de ISK. Als gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
-"q": "Vraag 25, open plek (2): kies het juiste woord.\nOm te voorkomen dat de koers daalt, …(1)… de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt … de ISK.",
+"ctx": "",
+"q": "Vraag 25, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, verhoogt de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt ____(2)____ de ISK. Als gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
 "o": [
 "de vraag naar",
 "het aanbod van"
@@ -5821,8 +5821,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.25.3",
 "t": "ex",
 "nr": 25.3,
-"ctx": "De IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, ...(1)… de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt …(2)… de ISK. Als gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
-"q": "Vraag 25, open plek (3): kies het juiste woord.\nAls gevolg van de renteaanpassing door de Centrale Bank … de bestedingen van consumenten en …(4)… de besparingen.",
+"ctx": "",
+"q": "Vraag 25, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDe IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, verhoogt de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt de vraag naar de ISK. Als gevolg van de renteaanpassing door de Centrale Bank ____(3)____ de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
 "o": [
 "stijgen",
 "dalen"
@@ -5841,8 +5841,8 @@ EXAMEN.vragen.push(...[
 "id": "ex.h22-2.25.4",
 "t": "ex",
 "nr": 25.4,
-"ctx": "De IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, ...(1)… de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt …(2)… de ISK. Als gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en …(4)… de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
-"q": "Vraag 25, open plek (4): kies het juiste woord.\nAls gevolg van de renteaanpassing door de Centrale Bank …(3)… de bestedingen van consumenten en … de besparingen.",
+"ctx": "",
+"q": "Vraag 25, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDe IJslandse econoom vervolgt de redenering: “De Centrale Bank zal de daling van de koers van de munt ISK in euro’s tegengaan om de vaste wisselkoers te handhaven. Om te voorkomen dat de koers daalt, verhoogt de Centrale Bank de rente zodat de kapitaalinvoer stijgt. Hierdoor stijgt de vraag naar de ISK. Als gevolg van de renteaanpassing door de Centrale Bank dalen de bestedingen van consumenten en ____(4)____ de besparingen. Dit betekent dat het conjunctuurbeleid van de overheid teniet wordt gedaan.”",
 "o": [
 "stijgen",
 "dalen"
@@ -5894,7 +5894,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.1,
 "ctx": "Gebruik het bericht van het CBS",
-"q": "Vraag 27, open plek (1): kies het juiste woord.\nIn de geschetste situatie van een neergaande conjuncturele ontwikkeling zijn de nominale uitkeringen ….",
+"q": "Vraag 27, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nIn de geschetste situatie van een neergaande conjuncturele ontwikkeling zijn de nominale uitkeringen ____(1)____. Het algemeen prijspeil is gestegen, en de reële uitkeringen, zijn …(2)…. - De uitkeringen zijn …(3)… welvaartsvast en …(4)… waardevast.",
 "o": [
 "gelijk gebleven",
 "gestegen",
@@ -5915,7 +5915,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.2,
 "ctx": "Gebruik het bericht van het CBS",
-"q": "Vraag 27, open plek (2): kies het juiste woord.\nHet algemeen prijspeil is gestegen, en de reële uitkeringen, zijn ….",
+"q": "Vraag 27, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nIn de geschetste situatie van een neergaande conjuncturele ontwikkeling zijn de nominale uitkeringen gelijk gebleven. Het algemeen prijspeil is gestegen, en de reële uitkeringen, zijn ____(2)____. - De uitkeringen zijn …(3)… welvaartsvast en …(4)… waardevast.",
 "o": [
 "gelijk gebleven",
 "gestegen",
@@ -5936,7 +5936,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.3,
 "ctx": "Gebruik het bericht van het CBS",
-"q": "Vraag 27, open plek (3): kies het juiste woord.\nDe uitkeringen zijn … welvaartsvast en …(4)… waardevast.",
+"q": "Vraag 27, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nIn de geschetste situatie van een neergaande conjuncturele ontwikkeling zijn de nominale uitkeringen gelijk gebleven. Het algemeen prijspeil is gestegen, en de reële uitkeringen, zijn gedaald. - De uitkeringen zijn ____(3)____ welvaartsvast en …(4)… waardevast.",
 "o": [
 "wel",
 "niet"
@@ -5956,7 +5956,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.4,
 "ctx": "Gebruik het bericht van het CBS",
-"q": "Vraag 27, open plek (4): kies het juiste woord.\nDe uitkeringen zijn …(3)… welvaartsvast en … waardevast.",
+"q": "Vraag 27, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nIn de geschetste situatie van een neergaande conjuncturele ontwikkeling zijn de nominale uitkeringen gelijk gebleven. Het algemeen prijspeil is gestegen, en de reële uitkeringen, zijn gedaald. - De uitkeringen zijn wel welvaartsvast en ____(4)____ waardevast.",
 "o": [
 "wel",
 "niet"
@@ -6056,7 +6056,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.1,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (1): kies het juiste woord.\nDe inkomstenbelasting is een instrument om de … inkomens te herverdelen.",
+"q": "Vraag 1, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de ____(1)____ inkomens te herverdelen. - In het nieuwe stelsel …(2)… het marginale tarief van de lage inkomens tot en met € 20.142, …(3)… het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een …(5)… effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen.",
 "o": [
 "primaire",
 "secundaire"
@@ -6076,7 +6076,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.2,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (2): kies het juiste woord.\nIn het nieuwe stelsel … het marginale tarief van de lage inkomens tot en met € 20.142, …(3)… het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep.",
+"q": "Vraag 1, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de primaire inkomens te herverdelen. - In het nieuwe stelsel ____(2)____ het marginale tarief van de lage inkomens tot en met € 20.142, …(3)… het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een …(5)… effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen.",
 "o": [
 "stijgt",
 "daalt"
@@ -6096,7 +6096,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.3,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (3): kies het juiste woord.\nIn het nieuwe stelsel …(2)… het marginale tarief van de lage inkomens tot en met € 20.142, … het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep.",
+"q": "Vraag 1, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de primaire inkomens te herverdelen. - In het nieuwe stelsel stijgt het marginale tarief van de lage inkomens tot en met € 20.142, ____(3)____ het marginale tarief van de hoge inkomens vanaf € 68.601, en …(4)… het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een …(5)… effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen.",
 "o": [
 "stijgt",
 "daalt"
@@ -6116,7 +6116,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.4,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (4): kies het juiste woord.\nIn het nieuwe stelsel …(2)… het marginale tarief van de lage inkomens tot en met € 20.142, …(3)… het marginale tarief van de hoge inkomens vanaf € 68.601, en … het marginale tarief van de middengroep.",
+"q": "Vraag 1, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de primaire inkomens te herverdelen. - In het nieuwe stelsel stijgt het marginale tarief van de lage inkomens tot en met € 20.142, daalt het marginale tarief van de hoge inkomens vanaf € 68.601, en ____(4)____ het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een …(5)… effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen.",
 "o": [
 "stijgt",
 "daalt"
@@ -6136,7 +6136,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.5,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (5): kies het juiste woord.\nDe aanpassingen van de marginale tarieven hebben een … effect op de inkomensverdeling.",
+"q": "Vraag 1, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de primaire inkomens te herverdelen. - In het nieuwe stelsel stijgt het marginale tarief van de lage inkomens tot en met € 20.142, daalt het marginale tarief van de hoge inkomens vanaf € 68.601, en daalt het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een ____(5)____ effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een …(6)… effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen.",
 "o": [
 "denivellerend",
 "nivellerend"
@@ -6156,7 +6156,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.6,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (6): kies het juiste woord.\nDe maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een … effect op de inkomensverdeling.",
+"q": "Vraag 1, open plek (6): kies wat er op de plek van ____(6)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de primaire inkomens te herverdelen. - In het nieuwe stelsel stijgt het marginale tarief van de lage inkomens tot en met € 20.142, daalt het marginale tarief van de hoge inkomens vanaf € 68.601, en daalt het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een denivellerend effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een ____(6)____ effect op de inkomensverdeling. - In het nieuwe belastingstelsel …(7)… de indirecte belastingen.",
 "o": [
 "denivellerend",
 "nivellerend"
@@ -6176,7 +6176,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.7,
 "ctx": "In 2020 is een nieuw belastingstelsel ingevoerd in Nederland. Het belangrijkste doel van de hervorming is om werken meer lonend te maken. Daarom is de belasting op arbeid verlaagd en de belasting op consumptie verhoogd. Het nieuwe stelsel bevat de volgende maatregelen: 1 Het aantal belastingschijven is teruggebracht van drie naar twee met aanpassing van de marginale belastingtarieven (zie bron 1). 2 Tegelijkertijd veranderde de hoogte van de arbeidskorting en de algemene heffingskorting (zie bron 2). 3 De hypotheekrenteaftrek1) wordt verlaagd naar het tarief in de eerste schijf. 4 Het lage btw-tarief2) is verhoogd van 6 naar 9 procent. De overige btw- tarieven blijven ongewijzigd. noot 1 Hypotheekrenteaftrek is een aftrekpost voor de inkomstenbelasting: de betaalde hypotheekrente voor de eigen woning mag onder voorwaarden afgetrokken worden van het bruto-inkomen om het belastbaar inkomen te bepalen. noot 2 Het lage btw-tarief is het tarief dat geheven wordt op de eerste levensbehoeften en op arbeidsintensieve diensten zoals die van de kapper, schilder en fietsenmaker.",
-"q": "Vraag 1, open plek (7): kies het juiste woord.\nIn het nieuwe belastingstelsel … de indirecte belastingen.",
+"q": "Vraag 1, open plek (7): kies wat er op de plek van ____(7)____ hoort.\nGebruik de tekst en bron 1. - De inkomstenbelasting is een instrument om de primaire inkomens te herverdelen. - In het nieuwe stelsel stijgt het marginale tarief van de lage inkomens tot en met € 20.142, daalt het marginale tarief van de hoge inkomens vanaf € 68.601, en daalt het marginale tarief van de middengroep. - De aanpassingen van de marginale tarieven hebben een denivellerend effect op de inkomensverdeling. - De maatregel om de hypotheekrenteaftrek te verlagen naar het tarief in de eerste schijf heeft een nivellerend effect op de inkomensverdeling. - In het nieuwe belastingstelsel ____(7)____ de indirecte belastingen.",
 "o": [
 "stijgen",
 "dalen"
@@ -6644,7 +6644,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.1,
 "ctx": "Uit een krant, 2019: Werkenden in loondienst zijn verplicht verzekerd tegen inkomensverlies bij arbeidsongeschiktheid. Voor deze verzekering betalen werknemers en werkgevers een inkomensafhankelijke premie aan een verzekeringsmaatschappij. De ontvangen premies worden gebruikt om de uitkeringen te betalen die moeten worden uitgekeerd in dat jaar. Zelfstandigen zonder personeel (zzp’ers) daarentegen, moeten dit onvoorziene inkomensverlies zelf verzekeren via een individuele arbeidsongeschiktheidsverzekering (aov). In de praktijk is een individuele aov voor een zzp’er duurder dan een aov voor een werknemer, waardoor veel zzp’ers op zoek gaan naar betaalbare, alternatieve verzekeringsvormen.",
-"q": "Vraag 1, open plek (1): kies het juiste woord.\nDe verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een … verzekering en wordt gefinancierd via het …(2)… Zzp’ers kunnen kiezen voor een individuele aov.",
+"q": "Vraag 1, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik het krantenbericht. De verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een ____(1)____ verzekering en wordt gefinancierd via het …(2)… Zzp’ers kunnen kiezen voor een individuele aov. Door het ontbreken van …(3)… bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van …(4)… waardoor de premie relatief hoog is.",
 "o": [
 "particuliere",
 "sociale"
@@ -6664,7 +6664,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.2,
 "ctx": "Uit een krant, 2019: Werkenden in loondienst zijn verplicht verzekerd tegen inkomensverlies bij arbeidsongeschiktheid. Voor deze verzekering betalen werknemers en werkgevers een inkomensafhankelijke premie aan een verzekeringsmaatschappij. De ontvangen premies worden gebruikt om de uitkeringen te betalen die moeten worden uitgekeerd in dat jaar. Zelfstandigen zonder personeel (zzp’ers) daarentegen, moeten dit onvoorziene inkomensverlies zelf verzekeren via een individuele arbeidsongeschiktheidsverzekering (aov). In de praktijk is een individuele aov voor een zzp’er duurder dan een aov voor een werknemer, waardoor veel zzp’ers op zoek gaan naar betaalbare, alternatieve verzekeringsvormen.",
-"q": "Vraag 1, open plek (2): kies het juiste woord.\nDe verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een …(1)… verzekering en wordt gefinancierd via het … Zzp’ers kunnen kiezen voor een individuele aov.",
+"q": "Vraag 1, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik het krantenbericht. De verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een sociale verzekering en wordt gefinancierd via het ____(2)____ Zzp’ers kunnen kiezen voor een individuele aov. Door het ontbreken van …(3)… bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van …(4)… waardoor de premie relatief hoog is.",
 "o": [
 "kapitaaldekkingsstelsel",
 "omslagstelsel"
@@ -6684,7 +6684,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.3,
 "ctx": "Uit een krant, 2019: Werkenden in loondienst zijn verplicht verzekerd tegen inkomensverlies bij arbeidsongeschiktheid. Voor deze verzekering betalen werknemers en werkgevers een inkomensafhankelijke premie aan een verzekeringsmaatschappij. De ontvangen premies worden gebruikt om de uitkeringen te betalen die moeten worden uitgekeerd in dat jaar. Zelfstandigen zonder personeel (zzp’ers) daarentegen, moeten dit onvoorziene inkomensverlies zelf verzekeren via een individuele arbeidsongeschiktheidsverzekering (aov). In de praktijk is een individuele aov voor een zzp’er duurder dan een aov voor een werknemer, waardoor veel zzp’ers op zoek gaan naar betaalbare, alternatieve verzekeringsvormen.",
-"q": "Vraag 1, open plek (3): kies het juiste woord.\nDoor het ontbreken van … bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van …(4)… waardoor de premie relatief hoog is.",
+"q": "Vraag 1, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik het krantenbericht. De verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een sociale verzekering en wordt gefinancierd via het omslagstelsel Zzp’ers kunnen kiezen voor een individuele aov. Door het ontbreken van ____(3)____ bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van …(4)… waardoor de premie relatief hoog is.",
 "o": [
 "asymmetrische informatie",
 "collectieve dwang",
@@ -6705,7 +6705,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.4,
 "ctx": "Uit een krant, 2019: Werkenden in loondienst zijn verplicht verzekerd tegen inkomensverlies bij arbeidsongeschiktheid. Voor deze verzekering betalen werknemers en werkgevers een inkomensafhankelijke premie aan een verzekeringsmaatschappij. De ontvangen premies worden gebruikt om de uitkeringen te betalen die moeten worden uitgekeerd in dat jaar. Zelfstandigen zonder personeel (zzp’ers) daarentegen, moeten dit onvoorziene inkomensverlies zelf verzekeren via een individuele arbeidsongeschiktheidsverzekering (aov). In de praktijk is een individuele aov voor een zzp’er duurder dan een aov voor een werknemer, waardoor veel zzp’ers op zoek gaan naar betaalbare, alternatieve verzekeringsvormen.",
-"q": "Vraag 1, open plek (4): kies het juiste woord.\nDoor het ontbreken van …(3)… bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van … waardoor de premie relatief hoog is.",
+"q": "Vraag 1, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nGebruik het krantenbericht. De verzekering tegen arbeidsongeschiktheid voor werkenden in loondienst is een sociale verzekering en wordt gefinancierd via het omslagstelsel Zzp’ers kunnen kiezen voor een individuele aov. Door het ontbreken van collectieve dwang bij het afsluiten van een individuele aov, is er bij deze verzekeringen sprake van ____(4)____ waardoor de premie relatief hoog is.",
 "o": [
 "averechtse selectie",
 "meeliftgedrag",
@@ -6902,7 +6902,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.1,
 "ctx": "Ook de sterke economische groei in Azië zorgt ervoor dat niet aan de totale vraag naar specialiteitenkoks in Nederland kan worden voldaan.",
-"q": "Vraag 12, open plek (1): kies het juiste woord.\nDe sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië ….",
+"q": "Vraag 12, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bron 1. De sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië ____(1)____. In de grafiek van bron 1 verschuift daardoor de …(2)… naar …(3)…. Dit leidt tot een …(4)… van het totale surplus op deze markt.",
 "o": [
 "daalt",
 "stijgt"
@@ -6922,7 +6922,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.2,
 "ctx": "Ook de sterke economische groei in Azië zorgt ervoor dat niet aan de totale vraag naar specialiteitenkoks in Nederland kan worden voldaan.",
-"q": "Vraag 12, open plek (2): kies het juiste woord.\nIn de grafiek van bron 1 verschuift daardoor de … naar …(3)….",
+"q": "Vraag 12, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bron 1. De sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië stijgt. In de grafiek van bron 1 verschuift daardoor de ____(2)____ naar …(3)…. Dit leidt tot een …(4)… van het totale surplus op deze markt.",
 "o": [
 "aanbodlijn",
 "vraaglijn"
@@ -6942,7 +6942,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.3,
 "ctx": "Ook de sterke economische groei in Azië zorgt ervoor dat niet aan de totale vraag naar specialiteitenkoks in Nederland kan worden voldaan.",
-"q": "Vraag 12, open plek (3): kies het juiste woord.\nIn de grafiek van bron 1 verschuift daardoor de …(2)… naar ….",
+"q": "Vraag 12, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik bron 1. De sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië stijgt. In de grafiek van bron 1 verschuift daardoor de aanbodlijn naar ____(3)____. Dit leidt tot een …(4)… van het totale surplus op deze markt.",
 "o": [
 "links",
 "rechts"
@@ -6962,7 +6962,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 12.4,
 "ctx": "Ook de sterke economische groei in Azië zorgt ervoor dat niet aan de totale vraag naar specialiteitenkoks in Nederland kan worden voldaan.",
-"q": "Vraag 12, open plek (4): kies het juiste woord.\nDit leidt tot een … van het totale surplus op deze markt.",
+"q": "Vraag 12, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nGebruik bron 1. De sterke economische groei in Azië zorgt ervoor dat de vraag naar koks in Azië stijgt. In de grafiek van bron 1 verschuift daardoor de aanbodlijn naar links. Dit leidt tot een ____(4)____ van het totale surplus op deze markt.",
 "o": [
 "afname",
 "toename"
@@ -7238,7 +7238,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.1,
 "ctx": "Koning Willem I (koning van 1815 tot 1840) besloot dat er passagiersvervoer per trein moest komen in Nederland in 1835. Er bleken geen particuliere investeerders te zijn en daarom richtte de overheid de Hollandsche IJzeren Spoorwegmaatschappij op (voorloper van de Nederlandse Spoorwegen). De overheid financierde daarmee de aanleg van het spoorwegennet, en zorgde ervoor dat het treinkaartje betaalbaar was. De Nederlandse Spoorwegen (NS) hebben het wettelijk monopolie op passagiersvervoer per spoor gehad tot 2008.",
-"q": "Vraag 28, open plek (1): kies het juiste woord.\nDe overheid heeft een wettelijk monopolie ingesteld vanwege de hoge … en vanwege de mogelijkheid invloed uit te oefenen op de …(2)….",
+"q": "Vraag 28, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe overheid heeft een wettelijk monopolie ingesteld vanwege de hoge ____(1)____ en vanwege de mogelijkheid invloed uit te oefenen op de …(2)….",
 "o": [
 "constante kosten",
 "variabele kosten"
@@ -7258,7 +7258,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.2,
 "ctx": "Koning Willem I (koning van 1815 tot 1840) besloot dat er passagiersvervoer per trein moest komen in Nederland in 1835. Er bleken geen particuliere investeerders te zijn en daarom richtte de overheid de Hollandsche IJzeren Spoorwegmaatschappij op (voorloper van de Nederlandse Spoorwegen). De overheid financierde daarmee de aanleg van het spoorwegennet, en zorgde ervoor dat het treinkaartje betaalbaar was. De Nederlandse Spoorwegen (NS) hebben het wettelijk monopolie op passagiersvervoer per spoor gehad tot 2008.",
-"q": "Vraag 28, open plek (2): kies het juiste woord.\nDe overheid heeft een wettelijk monopolie ingesteld vanwege de hoge …(1)… en vanwege de mogelijkheid invloed uit te oefenen op de ….",
+"q": "Vraag 28, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe overheid heeft een wettelijk monopolie ingesteld vanwege de hoge constante kosten en vanwege de mogelijkheid invloed uit te oefenen op de ____(2)____.",
 "o": [
 "omzet",
 "prijs",
@@ -7631,7 +7631,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 20.1,
 "ctx": "Kate Miller is voorzitter van een patiëntenvereniging en maakt bezwaar tegen de prijsverhoging van het medicijn Antibio door Fluid. De Amerikaanse patiënten krijgen dit medicijn niet vergoed door de zorgverzekeraar. Zij maakt zich zorgen over de patiënten die afhankelijk zijn van dit medicijn. Kate Miller bespreekt het effect van de prijsverandering en inkomensverandering op de vraag naar dit medicijn.",
-"q": "Vraag 20, open plek (1): kies het juiste woord.\nBij medicijnen zie je in het algemeen dat de vraag … is.",
+"q": "Vraag 20, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nBij medicijnen zie je in het algemeen dat de vraag ____(1)____ is. - Ook bij daling van het inkomen zal de vraag naar het medicijn nauwelijks dalen. Er is hier sprake van een …(2)… goed.",
 "o": [
 "prijselastisch",
 "prijsinelastisch"
@@ -7651,7 +7651,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 20.2,
 "ctx": "Kate Miller is voorzitter van een patiëntenvereniging en maakt bezwaar tegen de prijsverhoging van het medicijn Antibio door Fluid. De Amerikaanse patiënten krijgen dit medicijn niet vergoed door de zorgverzekeraar. Zij maakt zich zorgen over de patiënten die afhankelijk zijn van dit medicijn. Kate Miller bespreekt het effect van de prijsverandering en inkomensverandering op de vraag naar dit medicijn.",
-"q": "Vraag 20, open plek (2): kies het juiste woord.\nOok bij daling van het inkomen zal de vraag naar het medicijn nauwelijks dalen. Er is hier sprake van een … goed.",
+"q": "Vraag 20, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nBij medicijnen zie je in het algemeen dat de vraag prijsinelastisch is. - Ook bij daling van het inkomen zal de vraag naar het medicijn nauwelijks dalen. Er is hier sprake van een ____(2)____ goed.",
 "o": [
 "noodzakelijk",
 "inferieur"
@@ -7943,7 +7943,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.1,
 "ctx": "De drie grootste aanbieders van speedpedelecs hebben gezamenlijk 70% van de markt van speedpedelecs in handen. Iedere aanbieder heeft binnen het assortiment keuzemogelijkheden, zoals design, vermogen en sterkte van de accu. Sprinter is een van de aanbieders van speedpedelecs. Over type Sprinter4 zijn de volgende gegevens bekend: Marginale kosten (MK) € 3.500 Totale constante kosten (TCK) € 1.000.000",
-"q": "Vraag 8, open plek (1): kies het juiste woord.\nDe marktvorm van de markt van speedpedelecs wordt … genoemd.",
+"q": "Vraag 8, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe marktvorm van de markt van speedpedelecs wordt ____(1)____ genoemd. - Een speedpedelec is een …(2)… goed. - Bij type Sprinter4 is sprake van …(3)… variabele kosten.",
 "o": [
 "volkomen concurrentie",
 "monopolistische concurrentie",
@@ -7964,7 +7964,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.2,
 "ctx": "De drie grootste aanbieders van speedpedelecs hebben gezamenlijk 70% van de markt van speedpedelecs in handen. Iedere aanbieder heeft binnen het assortiment keuzemogelijkheden, zoals design, vermogen en sterkte van de accu. Sprinter is een van de aanbieders van speedpedelecs. Over type Sprinter4 zijn de volgende gegevens bekend: Marginale kosten (MK) € 3.500 Totale constante kosten (TCK) € 1.000.000",
-"q": "Vraag 8, open plek (2): kies het juiste woord.\nDe marktvorm van de markt van speedpedelecs wordt …(1)… genoemd. - Een speedpedelec is een … goed.",
+"q": "Vraag 8, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe marktvorm van de markt van speedpedelecs wordt oligopolie genoemd. - Een speedpedelec is een ____(2)____ goed. - Bij type Sprinter4 is sprake van …(3)… variabele kosten.",
 "o": [
 "homogeen",
 "heterogeen"
@@ -7984,7 +7984,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.3,
 "ctx": "De drie grootste aanbieders van speedpedelecs hebben gezamenlijk 70% van de markt van speedpedelecs in handen. Iedere aanbieder heeft binnen het assortiment keuzemogelijkheden, zoals design, vermogen en sterkte van de accu. Sprinter is een van de aanbieders van speedpedelecs. Over type Sprinter4 zijn de volgende gegevens bekend: Marginale kosten (MK) € 3.500 Totale constante kosten (TCK) € 1.000.000",
-"q": "Vraag 8, open plek (3): kies het juiste woord.\nBij type Sprinter4 is sprake van … variabele kosten.",
+"q": "Vraag 8, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDe marktvorm van de markt van speedpedelecs wordt oligopolie genoemd. - Een speedpedelec is een heterogeen goed. - Bij type Sprinter4 is sprake van ____(3)____ variabele kosten.",
 "o": [
 "proportioneel",
 "progressief",
@@ -8053,7 +8053,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 11.1,
 "ctx": "De hiervoor vermelde spelregels voldoen aan de kenmerken van een ultimatumspel.",
-"q": "Vraag 11, open plek (1): kies het juiste woord.\nMaak van onderstaande zinnen een economisch juiste tekst over de kenmerken van het ultimatumspel. - Het ultimatumspel is een … spel.",
+"q": "Vraag 11, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nHet ultimatumspel is een ____(1)____ spel. - Het spel kent …(2)… spelers. - De …(3)… doet een voorstel om een geldbedrag te verdelen. - De …(4)… kiest vervolgens tussen het voorstel accepteren of weigeren. - Als de tweede speler …(5)… dan ontvangen beide het overeengekomen deel.",
 "o": [
 "sequentieel",
 "simultaan"
@@ -8073,7 +8073,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 11.2,
 "ctx": "De hiervoor vermelde spelregels voldoen aan de kenmerken van een ultimatumspel.",
-"q": "Vraag 11, open plek (2): kies het juiste woord.\nHet ultimatumspel is een …(1)… spel. - Het spel kent … spelers.",
+"q": "Vraag 11, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nHet ultimatumspel is een sequentieel spel. - Het spel kent ____(2)____ spelers. - De …(3)… doet een voorstel om een geldbedrag te verdelen. - De …(4)… kiest vervolgens tussen het voorstel accepteren of weigeren. - Als de tweede speler …(5)… dan ontvangen beide het overeengekomen deel.",
 "o": [
 "twee",
 "drie"
@@ -8157,7 +8157,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.1,
 "ctx": "Uit een krant: De huizenprijzen zijn in 2021 op een hoogtepunt na een lange periode van sterke prijsstijgingen. Nieuwkomers op de woningmarkt, ook wel starters genoemd, hebben nog geen vermogen opgebouwd en moeten de aankoop van een woning volledig financieren met een lening. Starters met een modaal inkomen kiezen er vaak voor om eerst een woning in de vrije sector te huren, voordat ze besluiten om een woning te kopen. In de vrije sector van de huurwoningenmarkt geldt geen maximale huurprijs. De woonlasten van deze huurders zijn doorgaans hoger dan de woonlasten van kopers van een vergelijkbare woning. Daarnaast groeit het vermogen van huurders niet mee met de stijging van de huizenprijzen. Hierdoor ontstaat een groeiende vermogensongelijkheid tussen kopers en huurders. Dat zorgt ervoor dat een toekomstige stap van huur naar koop alleen maar lastiger wordt.",
-"q": "Vraag 15, open plek (1): kies het juiste woord.\nOp de woningmarkt zijn veel individuele vragers en aanbieders actief. De aangeboden woningen zijn … goederen.",
+"q": "Vraag 15, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nOp de woningmarkt zijn veel individuele vragers en aanbieders actief. De aangeboden woningen zijn ____(1)____ goederen. De woningmarkt kan daarom het best worden omschreven als …(2)…. - De inkomenselasticiteit van de vraag naar huurwoningen in de vrije sector is voor starters op de Nederlandse woningmarkt gelijk aan -0,5. Dit betekent dat starters een huurwoning als een …(3)… goed beschouwen.",
 "o": [
 "heterogene",
 "homogene"
@@ -8177,7 +8177,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.2,
 "ctx": "Uit een krant: De huizenprijzen zijn in 2021 op een hoogtepunt na een lange periode van sterke prijsstijgingen. Nieuwkomers op de woningmarkt, ook wel starters genoemd, hebben nog geen vermogen opgebouwd en moeten de aankoop van een woning volledig financieren met een lening. Starters met een modaal inkomen kiezen er vaak voor om eerst een woning in de vrije sector te huren, voordat ze besluiten om een woning te kopen. In de vrije sector van de huurwoningenmarkt geldt geen maximale huurprijs. De woonlasten van deze huurders zijn doorgaans hoger dan de woonlasten van kopers van een vergelijkbare woning. Daarnaast groeit het vermogen van huurders niet mee met de stijging van de huizenprijzen. Hierdoor ontstaat een groeiende vermogensongelijkheid tussen kopers en huurders. Dat zorgt ervoor dat een toekomstige stap van huur naar koop alleen maar lastiger wordt.",
-"q": "Vraag 15, open plek (2): kies het juiste woord.\nDe woningmarkt kan daarom het best worden omschreven als ….",
+"q": "Vraag 15, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nOp de woningmarkt zijn veel individuele vragers en aanbieders actief. De aangeboden woningen zijn heterogene goederen. De woningmarkt kan daarom het best worden omschreven als ____(2)____. - De inkomenselasticiteit van de vraag naar huurwoningen in de vrije sector is voor starters op de Nederlandse woningmarkt gelijk aan -0,5. Dit betekent dat starters een huurwoning als een …(3)… goed beschouwen.",
 "o": [
 "monopolistische concurrentie",
 "oligopolie",
@@ -8198,7 +8198,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 15.3,
 "ctx": "Uit een krant: De huizenprijzen zijn in 2021 op een hoogtepunt na een lange periode van sterke prijsstijgingen. Nieuwkomers op de woningmarkt, ook wel starters genoemd, hebben nog geen vermogen opgebouwd en moeten de aankoop van een woning volledig financieren met een lening. Starters met een modaal inkomen kiezen er vaak voor om eerst een woning in de vrije sector te huren, voordat ze besluiten om een woning te kopen. In de vrije sector van de huurwoningenmarkt geldt geen maximale huurprijs. De woonlasten van deze huurders zijn doorgaans hoger dan de woonlasten van kopers van een vergelijkbare woning. Daarnaast groeit het vermogen van huurders niet mee met de stijging van de huizenprijzen. Hierdoor ontstaat een groeiende vermogensongelijkheid tussen kopers en huurders. Dat zorgt ervoor dat een toekomstige stap van huur naar koop alleen maar lastiger wordt.",
-"q": "Vraag 15, open plek (3): kies het juiste woord.\nDit betekent dat starters een huurwoning als een … goed beschouwen.",
+"q": "Vraag 15, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nOp de woningmarkt zijn veel individuele vragers en aanbieders actief. De aangeboden woningen zijn heterogene goederen. De woningmarkt kan daarom het best worden omschreven als monopolistische concurrentie. - De inkomenselasticiteit van de vraag naar huurwoningen in de vrije sector is voor starters op de Nederlandse woningmarkt gelijk aan -0,5. Dit betekent dat starters een huurwoning als een ____(3)____ goed beschouwen.",
 "o": [
 "inferieur",
 "luxe",
@@ -8299,7 +8299,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 20.1,
 "ctx": "Uit een krant: Het pensioenfonds ABP behaalde in augustus een beleggingswinst van € 5 miljard uit onder meer aandelen, vastgoed en obligaties. Daardoor had het fonds eind augustus € 456 miljard in de pensioenkas. De huidige waarde van de toekomstige verplichtingen van het ABP groeide echter veel harder. Bij het ABP daalde de dekkingsgraad1) in augustus van 94 naar 89 procent. Dat betekent dat het ABP te weinig vermogen heeft om de toekomstige uitkeringen te kunnen uitbetalen. De Nederlandsche Bank (DNB) is de toezichthouder op de pensioenfondsen en berekent de huidige waarde van de toekomstige verplichtingen op basis van de rentestand. 1\\) dekkingsgraad = huidige vermogen pensioenfonds x 100% huidige waarde toekomstige verplichtingen pensioenfonds",
-"q": "Vraag 20, open plek (1): kies het juiste woord.\nHet pensioenfonds ABP financiert de pensioenen volgens het ….",
+"q": "Vraag 20, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik het krantenbericht. Het pensioenfonds ABP financiert de pensioenen volgens het ____(1)____. Doordat de rente is …(2)…, groeide de huidige waarde van de toekomstige verplichtingen en daalde de dekkingsgraad. Om de dekkingsgraad te verhogen, kunnen pensioenpremies worden …(3)….",
 "o": [
 "omslagstelsel",
 "kapitaaldekkingsstelsel"
@@ -8319,7 +8319,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 20.2,
 "ctx": "Uit een krant: Het pensioenfonds ABP behaalde in augustus een beleggingswinst van € 5 miljard uit onder meer aandelen, vastgoed en obligaties. Daardoor had het fonds eind augustus € 456 miljard in de pensioenkas. De huidige waarde van de toekomstige verplichtingen van het ABP groeide echter veel harder. Bij het ABP daalde de dekkingsgraad1) in augustus van 94 naar 89 procent. Dat betekent dat het ABP te weinig vermogen heeft om de toekomstige uitkeringen te kunnen uitbetalen. De Nederlandsche Bank (DNB) is de toezichthouder op de pensioenfondsen en berekent de huidige waarde van de toekomstige verplichtingen op basis van de rentestand. 1\\) dekkingsgraad = huidige vermogen pensioenfonds x 100% huidige waarde toekomstige verplichtingen pensioenfonds",
-"q": "Vraag 20, open plek (2): kies het juiste woord.\nDoordat de rente is …, groeide de huidige waarde van de toekomstige verplichtingen en daalde de dekkingsgraad.",
+"q": "Vraag 20, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik het krantenbericht. Het pensioenfonds ABP financiert de pensioenen volgens het kapitaaldekkingsstelsel. Doordat de rente is ____(2)____, groeide de huidige waarde van de toekomstige verplichtingen en daalde de dekkingsgraad. Om de dekkingsgraad te verhogen, kunnen pensioenpremies worden …(3)….",
 "o": [
 "gestegen",
 "gedaald"
@@ -8339,7 +8339,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 20.3,
 "ctx": "Uit een krant: Het pensioenfonds ABP behaalde in augustus een beleggingswinst van € 5 miljard uit onder meer aandelen, vastgoed en obligaties. Daardoor had het fonds eind augustus € 456 miljard in de pensioenkas. De huidige waarde van de toekomstige verplichtingen van het ABP groeide echter veel harder. Bij het ABP daalde de dekkingsgraad1) in augustus van 94 naar 89 procent. Dat betekent dat het ABP te weinig vermogen heeft om de toekomstige uitkeringen te kunnen uitbetalen. De Nederlandsche Bank (DNB) is de toezichthouder op de pensioenfondsen en berekent de huidige waarde van de toekomstige verplichtingen op basis van de rentestand. 1\\) dekkingsgraad = huidige vermogen pensioenfonds x 100% huidige waarde toekomstige verplichtingen pensioenfonds",
-"q": "Vraag 20, open plek (3): kies het juiste woord.\nOm de dekkingsgraad te verhogen, kunnen pensioenpremies worden ….",
+"q": "Vraag 20, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik het krantenbericht. Het pensioenfonds ABP financiert de pensioenen volgens het kapitaaldekkingsstelsel. Doordat de rente is gedaald, groeide de huidige waarde van de toekomstige verplichtingen en daalde de dekkingsgraad. Om de dekkingsgraad te verhogen, kunnen pensioenpremies worden ____(3)____.",
 "o": [
 "verhoogd",
 "verlaagd"
@@ -8471,7 +8471,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.1,
 "ctx": "De wereldbevolking blijft groeien. Bovendien zijn er, mede door lagere prijzen, steeds meer mensen in staat om vaker en langer te reizen. De bestedingen in de sector toerisme nemen daardoor wereldwijd toe. Ook in Nederland leveren hogere bestedingen in deze sector in toenemende mate een bijdrage aan het bruto binnenlands product (bbp) en de werkgelegenheid. Driekwart van de bestedingen in de sector toerisme is te danken aan de bestedingen van buitenlandse toeristen in Nederland.",
-"q": "Vraag 27, open plek (1): kies het juiste woord.\nDe bruto toegevoegde waarde van de Nederlandse bedrijven in de toeristische sector kan worden berekend door te kijken naar het verschil tussen de omzet en de waarde van de ….",
+"q": "Vraag 27, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe bruto toegevoegde waarde van de Nederlandse bedrijven in de toeristische sector kan worden berekend door te kijken naar het verschil tussen de omzet en de waarde van de ____(1)____. Het bbp van een land bestaat uit de toegevoegde waarde van de bedrijven en de toegevoegde waarde van …(2)…. De laatste is gelijk aan …(3)….",
 "o": [
 "ingekochte hulp- en grondstoffen",
 "investeringen",
@@ -8492,7 +8492,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.2,
 "ctx": "De wereldbevolking blijft groeien. Bovendien zijn er, mede door lagere prijzen, steeds meer mensen in staat om vaker en langer te reizen. De bestedingen in de sector toerisme nemen daardoor wereldwijd toe. Ook in Nederland leveren hogere bestedingen in deze sector in toenemende mate een bijdrage aan het bruto binnenlands product (bbp) en de werkgelegenheid. Driekwart van de bestedingen in de sector toerisme is te danken aan de bestedingen van buitenlandse toeristen in Nederland.",
-"q": "Vraag 27, open plek (2): kies het juiste woord.\nHet bbp van een land bestaat uit de toegevoegde waarde van de bedrijven en de toegevoegde waarde van ….",
+"q": "Vraag 27, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe bruto toegevoegde waarde van de Nederlandse bedrijven in de toeristische sector kan worden berekend door te kijken naar het verschil tussen de omzet en de waarde van de ingekochte hulp- en grondstoffen. Het bbp van een land bestaat uit de toegevoegde waarde van de bedrijven en de toegevoegde waarde van ____(2)____. De laatste is gelijk aan …(3)….",
 "o": [
 "het buitenland",
 "de overheid"
@@ -8512,7 +8512,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 27.3,
 "ctx": "De wereldbevolking blijft groeien. Bovendien zijn er, mede door lagere prijzen, steeds meer mensen in staat om vaker en langer te reizen. De bestedingen in de sector toerisme nemen daardoor wereldwijd toe. Ook in Nederland leveren hogere bestedingen in deze sector in toenemende mate een bijdrage aan het bruto binnenlands product (bbp) en de werkgelegenheid. Driekwart van de bestedingen in de sector toerisme is te danken aan de bestedingen van buitenlandse toeristen in Nederland.",
-"q": "Vraag 27, open plek (3): kies het juiste woord.\nHet bbp van een land bestaat uit de toegevoegde waarde van de bedrijven en de toegevoegde waarde van …(2)…. De laatste is gelijk aan ….",
+"q": "Vraag 27, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDe bruto toegevoegde waarde van de Nederlandse bedrijven in de toeristische sector kan worden berekend door te kijken naar het verschil tussen de omzet en de waarde van de ingekochte hulp- en grondstoffen. Het bbp van een land bestaat uit de toegevoegde waarde van de bedrijven en de toegevoegde waarde van de overheid. De laatste is gelijk aan ____(3)____.",
 "o": [
 "de ambtenarensalarissen",
 "het saldo van de primaire inkomens uit het buitenland"
@@ -9156,7 +9156,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.1,
 "ctx": "Fietsen op Bonaire wordt steeds populairder. Het wordt gezien als een gezond en duurzaam alternatief voor het vele autogebruik op het eiland. Toeristen maken graag gebruik van huurfietsen om het eiland te verkennen. Op Bonaire is een beperkt aantal fietsverhuurbedrijven actief. Zij verhuren gewone fietsen voor toeristen die op de goed aangelegde wegen willen fietsen. Daarnaast verhuren de bedrijven speciale mountainbikes aan toeristen die op zandwegen of in nationale parken willen fietsen. Ook de lokale bevolking gebruikt de huurfietsen naast de eigen fiets.",
-"q": "Vraag 8, open plek (1): kies het juiste woord.\nDe Bonairiaanse fietsverhuurmarkt kan worden gezien als een markt van ….",
+"q": "Vraag 8, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bovenstaande tekst. De Bonairiaanse fietsverhuurmarkt kan worden gezien als een markt van ____(1)____. De huurfietsen kunnen worden gezien als …(2)… producten. Huurfietsen en eigen fietsen kunnen worden gezien als …(3)… goederen.",
 "o": [
 "volkomen concurrentie",
 "monopolistische concurrentie",
@@ -9177,7 +9177,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.2,
 "ctx": "Fietsen op Bonaire wordt steeds populairder. Het wordt gezien als een gezond en duurzaam alternatief voor het vele autogebruik op het eiland. Toeristen maken graag gebruik van huurfietsen om het eiland te verkennen. Op Bonaire is een beperkt aantal fietsverhuurbedrijven actief. Zij verhuren gewone fietsen voor toeristen die op de goed aangelegde wegen willen fietsen. Daarnaast verhuren de bedrijven speciale mountainbikes aan toeristen die op zandwegen of in nationale parken willen fietsen. Ook de lokale bevolking gebruikt de huurfietsen naast de eigen fiets.",
-"q": "Vraag 8, open plek (2): kies het juiste woord.\nDe huurfietsen kunnen worden gezien als … producten.",
+"q": "Vraag 8, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bovenstaande tekst. De Bonairiaanse fietsverhuurmarkt kan worden gezien als een markt van oligopolie. De huurfietsen kunnen worden gezien als ____(2)____ producten. Huurfietsen en eigen fietsen kunnen worden gezien als …(3)… goederen.",
 "o": [
 "homogene",
 "heterogene"
@@ -9197,7 +9197,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 8.3,
 "ctx": "Fietsen op Bonaire wordt steeds populairder. Het wordt gezien als een gezond en duurzaam alternatief voor het vele autogebruik op het eiland. Toeristen maken graag gebruik van huurfietsen om het eiland te verkennen. Op Bonaire is een beperkt aantal fietsverhuurbedrijven actief. Zij verhuren gewone fietsen voor toeristen die op de goed aangelegde wegen willen fietsen. Daarnaast verhuren de bedrijven speciale mountainbikes aan toeristen die op zandwegen of in nationale parken willen fietsen. Ook de lokale bevolking gebruikt de huurfietsen naast de eigen fiets.",
-"q": "Vraag 8, open plek (3): kies het juiste woord.\nHuurfietsen en eigen fietsen kunnen worden gezien als … goederen.",
+"q": "Vraag 8, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik bovenstaande tekst. De Bonairiaanse fietsverhuurmarkt kan worden gezien als een markt van oligopolie. De huurfietsen kunnen worden gezien als heterogene producten. Huurfietsen en eigen fietsen kunnen worden gezien als ____(3)____ goederen.",
 "o": [
 "substitutie",
 "complementaire"
@@ -9633,7 +9633,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 5.1,
 "ctx": "Om de recessie te bestrijden, maar toch de overheidstekorten te bewaken, stellen regeringsleiders voor om afspraken te maken binnen de EMU over gezamenlijk anticyclisch begrotingsbeleid. Een econoom stelt dat de afspraken voor Nederland weinig uitmaken: “Als nu niet wordt bezuinigd, zal Nederland het vertrouwen van de financiële markten verliezen.”",
-"q": "Vraag 5, open plek (1): kies het juiste woord.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente … Het aanbod van staatsobligaties neemt …(2)… en dat leidt tot een …(3)… van de obligatiekoersen.",
+"q": "Vraag 5, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente ____(1)____ Het aanbod van staatsobligaties neemt …(2)… en dat leidt tot een …(3)… van de obligatiekoersen. Een stijgende staatsschuldquote leidt vanwege het grotere kredietrisico tot afnemend vertrouwen bij beleggers, waardoor de rente …(4)…",
 "o": [
 "stijgt",
 "daalt"
@@ -9653,7 +9653,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 5.2,
 "ctx": "Om de recessie te bestrijden, maar toch de overheidstekorten te bewaken, stellen regeringsleiders voor om afspraken te maken binnen de EMU over gezamenlijk anticyclisch begrotingsbeleid. Een econoom stelt dat de afspraken voor Nederland weinig uitmaken: “Als nu niet wordt bezuinigd, zal Nederland het vertrouwen van de financiële markten verliezen.”",
-"q": "Vraag 5, open plek (2): kies het juiste woord.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente …(1)… Het aanbod van staatsobligaties neemt … en dat leidt tot een …(3)… van de obligatiekoersen.",
+"q": "Vraag 5, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente stijgt Het aanbod van staatsobligaties neemt ____(2)____ en dat leidt tot een …(3)… van de obligatiekoersen. Een stijgende staatsschuldquote leidt vanwege het grotere kredietrisico tot afnemend vertrouwen bij beleggers, waardoor de rente …(4)…",
 "o": [
 "toe",
 "af"
@@ -9673,7 +9673,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 5.3,
 "ctx": "Om de recessie te bestrijden, maar toch de overheidstekorten te bewaken, stellen regeringsleiders voor om afspraken te maken binnen de EMU over gezamenlijk anticyclisch begrotingsbeleid. Een econoom stelt dat de afspraken voor Nederland weinig uitmaken: “Als nu niet wordt bezuinigd, zal Nederland het vertrouwen van de financiële markten verliezen.”",
-"q": "Vraag 5, open plek (3): kies het juiste woord.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente …(1)… Het aanbod van staatsobligaties neemt …(2)… en dat leidt tot een … van de obligatiekoersen.",
+"q": "Vraag 5, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente stijgt Het aanbod van staatsobligaties neemt toe en dat leidt tot een ____(3)____ van de obligatiekoersen. Een stijgende staatsschuldquote leidt vanwege het grotere kredietrisico tot afnemend vertrouwen bij beleggers, waardoor de rente …(4)…",
 "o": [
 "stijging",
 "daling"
@@ -9693,7 +9693,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 5.4,
 "ctx": "Om de recessie te bestrijden, maar toch de overheidstekorten te bewaken, stellen regeringsleiders voor om afspraken te maken binnen de EMU over gezamenlijk anticyclisch begrotingsbeleid. Een econoom stelt dat de afspraken voor Nederland weinig uitmaken: “Als nu niet wordt bezuinigd, zal Nederland het vertrouwen van de financiële markten verliezen.”",
-"q": "Vraag 5, open plek (4): kies het juiste woord.\nEen stijgende staatsschuldquote leidt vanwege het grotere kredietrisico tot afnemend vertrouwen bij beleggers, waardoor de rente …",
+"q": "Vraag 5, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDoor een toenemend overheidstekort moet de Nederlandse overheid meer lenen, waardoor de rente stijgt Het aanbod van staatsobligaties neemt toe en dat leidt tot een daling van de obligatiekoersen. Een stijgende staatsschuldquote leidt vanwege het grotere kredietrisico tot afnemend vertrouwen bij beleggers, waardoor de rente ____(4)____",
 "o": [
 "verder stijgt",
 "verder daalt"
@@ -9889,7 +9889,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 16.1,
 "ctx": "In een land zijn mensen verplicht zich te verzekeren voor basiszorg. Zorgverzekeraars hebben een wettelijke acceptatieplicht voor de basiszorgverzekering. De zorgverzekeraars richten zich in hun marketing op specifieke doelgroepen zoals studenten. Met name studenten zijn vanwege hun lage leeftijd over het algemeen gezond, waardoor ze weinig zorgkosten maken. Deze marketing gericht op bepaalde doelgroepen kan echter leiden tot ongewenste situaties op de zorgverzekeringsmarkt.",
-"q": "Vraag 16, open plek (1): kies het juiste woord.\nOp de markt van basiszorgverzekeringen is er sprake van … solidariteit.",
+"q": "Vraag 16, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nGebruik bovenstaande tekst en bron 1. Op de markt van basiszorgverzekeringen is er sprake van ____(1)____ solidariteit. De zorgverzekeraars zijn actief op een …(2)…. Op deze markt is er sprake van …(3)… concurrentie. Het aantrekken van studenten leidt tot …(4)… voor de zorgverzekeraar die de studenten aantrekt.",
 "o": [
 "verplichte",
 "vrijwillige"
@@ -9909,7 +9909,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 16.2,
 "ctx": "In een land zijn mensen verplicht zich te verzekeren voor basiszorg. Zorgverzekeraars hebben een wettelijke acceptatieplicht voor de basiszorgverzekering. De zorgverzekeraars richten zich in hun marketing op specifieke doelgroepen zoals studenten. Met name studenten zijn vanwege hun lage leeftijd over het algemeen gezond, waardoor ze weinig zorgkosten maken. Deze marketing gericht op bepaalde doelgroepen kan echter leiden tot ongewenste situaties op de zorgverzekeringsmarkt.",
-"q": "Vraag 16, open plek (2): kies het juiste woord.\nOp de markt van basiszorgverzekeringen is er sprake van …(1)… solidariteit. De zorgverzekeraars zijn actief op een ….",
+"q": "Vraag 16, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nGebruik bovenstaande tekst en bron 1. Op de markt van basiszorgverzekeringen is er sprake van verplichte solidariteit. De zorgverzekeraars zijn actief op een ____(2)____. Op deze markt is er sprake van …(3)… concurrentie. Het aantrekken van studenten leidt tot …(4)… voor de zorgverzekeraar die de studenten aantrekt.",
 "o": [
 "oligopolistische markt",
 "markt van monopolistische concurrentie"
@@ -9929,7 +9929,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 16.3,
 "ctx": "In een land zijn mensen verplicht zich te verzekeren voor basiszorg. Zorgverzekeraars hebben een wettelijke acceptatieplicht voor de basiszorgverzekering. De zorgverzekeraars richten zich in hun marketing op specifieke doelgroepen zoals studenten. Met name studenten zijn vanwege hun lage leeftijd over het algemeen gezond, waardoor ze weinig zorgkosten maken. Deze marketing gericht op bepaalde doelgroepen kan echter leiden tot ongewenste situaties op de zorgverzekeringsmarkt.",
-"q": "Vraag 16, open plek (3): kies het juiste woord.\nOp deze markt is er sprake van … concurrentie.",
+"q": "Vraag 16, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nGebruik bovenstaande tekst en bron 1. Op de markt van basiszorgverzekeringen is er sprake van verplichte solidariteit. De zorgverzekeraars zijn actief op een oligopolistische markt. Op deze markt is er sprake van ____(3)____ concurrentie. Het aantrekken van studenten leidt tot …(4)… voor de zorgverzekeraar die de studenten aantrekt.",
 "o": [
 "volkomen",
 "onvolkomen"
@@ -9949,7 +9949,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 16.4,
 "ctx": "In een land zijn mensen verplicht zich te verzekeren voor basiszorg. Zorgverzekeraars hebben een wettelijke acceptatieplicht voor de basiszorgverzekering. De zorgverzekeraars richten zich in hun marketing op specifieke doelgroepen zoals studenten. Met name studenten zijn vanwege hun lage leeftijd over het algemeen gezond, waardoor ze weinig zorgkosten maken. Deze marketing gericht op bepaalde doelgroepen kan echter leiden tot ongewenste situaties op de zorgverzekeringsmarkt.",
-"q": "Vraag 16, open plek (4): kies het juiste woord.\nHet aantrekken van studenten leidt tot … voor de zorgverzekeraar die de studenten aantrekt.",
+"q": "Vraag 16, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nGebruik bovenstaande tekst en bron 1. Op de markt van basiszorgverzekeringen is er sprake van verplichte solidariteit. De zorgverzekeraars zijn actief op een oligopolistische markt. Op deze markt is er sprake van onvolkomen concurrentie. Het aantrekken van studenten leidt tot ____(4)____ voor de zorgverzekeraar die de studenten aantrekt.",
 "o": [
 "averechtse selectie",
 "risico-aversie",
@@ -10162,7 +10162,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.1,
 "ctx": "In Nederland wordt veel gemotoriseerd gefietst. Dat gebeurt onder andere op snorfietsen (fietsen met een brandstofmotor) en fatbikes (elektrische fietsen met brede banden). Zowel snorfietsen als fatbikes mogen maximaal 25 kilometer per uur. Alleen voor snorfietsen geldt een helmplicht. Dit zorgt ervoor dat fatbikes populair zijn geworden.",
-"q": "Vraag 1, open plek (1): kies het juiste woord.\nEen fatbike is een … ten opzichte van een snorfiets en een verzekering voor de fatbike is een …(2)… ten opzichte van een fatbike.",
+"q": "Vraag 1, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nEen fatbike is een ____(1)____ ten opzichte van een snorfiets en een verzekering voor de fatbike is een …(2)… ten opzichte van een fatbike. Op de markt voor fatbikes onderscheiden aanbieders zich met behulp van productkenmerken. Dit wordt …(3)… genoemd. Op deze markt zijn veel aanbieders actief en is er sprake van …(4)… goederen. Er is sprake van …(5)….",
 "o": [
 "complementair goed",
 "substitutiegoed"
@@ -10182,7 +10182,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.2,
 "ctx": "In Nederland wordt veel gemotoriseerd gefietst. Dat gebeurt onder andere op snorfietsen (fietsen met een brandstofmotor) en fatbikes (elektrische fietsen met brede banden). Zowel snorfietsen als fatbikes mogen maximaal 25 kilometer per uur. Alleen voor snorfietsen geldt een helmplicht. Dit zorgt ervoor dat fatbikes populair zijn geworden.",
-"q": "Vraag 1, open plek (2): kies het juiste woord.\nEen fatbike is een …(1)… ten opzichte van een snorfiets en een verzekering voor de fatbike is een … ten opzichte van een fatbike.",
+"q": "Vraag 1, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nEen fatbike is een substitutiegoed ten opzichte van een snorfiets en een verzekering voor de fatbike is een ____(2)____ ten opzichte van een fatbike. Op de markt voor fatbikes onderscheiden aanbieders zich met behulp van productkenmerken. Dit wordt …(3)… genoemd. Op deze markt zijn veel aanbieders actief en is er sprake van …(4)… goederen. Er is sprake van …(5)….",
 "o": [
 "complementaire dienst",
 "substitutiedienst"
@@ -10202,7 +10202,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.3,
 "ctx": "In Nederland wordt veel gemotoriseerd gefietst. Dat gebeurt onder andere op snorfietsen (fietsen met een brandstofmotor) en fatbikes (elektrische fietsen met brede banden). Zowel snorfietsen als fatbikes mogen maximaal 25 kilometer per uur. Alleen voor snorfietsen geldt een helmplicht. Dit zorgt ervoor dat fatbikes populair zijn geworden.",
-"q": "Vraag 1, open plek (3): kies het juiste woord.\nOp de markt voor fatbikes onderscheiden aanbieders zich met behulp van productkenmerken. Dit wordt … genoemd.",
+"q": "Vraag 1, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nEen fatbike is een substitutiegoed ten opzichte van een snorfiets en een verzekering voor de fatbike is een complementaire dienst ten opzichte van een fatbike. Op de markt voor fatbikes onderscheiden aanbieders zich met behulp van productkenmerken. Dit wordt ____(3)____ genoemd. Op deze markt zijn veel aanbieders actief en is er sprake van …(4)… goederen. Er is sprake van …(5)….",
 "o": [
 "prijsdiscriminatie",
 "productdifferentiatie",
@@ -10223,7 +10223,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.4,
 "ctx": "In Nederland wordt veel gemotoriseerd gefietst. Dat gebeurt onder andere op snorfietsen (fietsen met een brandstofmotor) en fatbikes (elektrische fietsen met brede banden). Zowel snorfietsen als fatbikes mogen maximaal 25 kilometer per uur. Alleen voor snorfietsen geldt een helmplicht. Dit zorgt ervoor dat fatbikes populair zijn geworden.",
-"q": "Vraag 1, open plek (4): kies het juiste woord.\nOp deze markt zijn veel aanbieders actief en is er sprake van … goederen.",
+"q": "Vraag 1, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nEen fatbike is een substitutiegoed ten opzichte van een snorfiets en een verzekering voor de fatbike is een complementaire dienst ten opzichte van een fatbike. Op de markt voor fatbikes onderscheiden aanbieders zich met behulp van productkenmerken. Dit wordt productdifferentiatie genoemd. Op deze markt zijn veel aanbieders actief en is er sprake van ____(4)____ goederen. Er is sprake van …(5)….",
 "o": [
 "heterogene",
 "homogene"
@@ -10243,7 +10243,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.5,
 "ctx": "In Nederland wordt veel gemotoriseerd gefietst. Dat gebeurt onder andere op snorfietsen (fietsen met een brandstofmotor) en fatbikes (elektrische fietsen met brede banden). Zowel snorfietsen als fatbikes mogen maximaal 25 kilometer per uur. Alleen voor snorfietsen geldt een helmplicht. Dit zorgt ervoor dat fatbikes populair zijn geworden.",
-"q": "Vraag 1, open plek (5): kies het juiste woord.\nOp deze markt zijn veel aanbieders actief en is er sprake van …(4)… goederen. Er is sprake van ….",
+"q": "Vraag 1, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nEen fatbike is een substitutiegoed ten opzichte van een snorfiets en een verzekering voor de fatbike is een complementaire dienst ten opzichte van een fatbike. Op de markt voor fatbikes onderscheiden aanbieders zich met behulp van productkenmerken. Dit wordt productdifferentiatie genoemd. Op deze markt zijn veel aanbieders actief en is er sprake van heterogene goederen. Er is sprake van ____(5)____.",
 "o": [
 "een oligopolie",
 "monopolistische concurrentie",
@@ -10360,7 +10360,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.1,
 "ctx": "Het Centraal Planbureau (CPB) onderzoekt het effect van het belastingstelsel voor verschillende inkomensgroepen in Nederland. Het CPB kijkt hierbij naar het gemiddelde bruto-jaarinkomen, de betaalde belastingen, sociale premies en het gemiddeld belastingtarief.",
-"q": "Vraag 7, open plek (1): kies het juiste woord.\nEen stijging van het inkomen leidt tot een … van het gemiddeld belastingtarief.",
+"q": "Vraag 7, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nEr is een progressief belastingstelsel. Een stijging van het inkomen leidt tot een ____(1)____ van het gemiddeld belastingtarief. Secundaire inkomens zullen …(2)…. - Lage inkomens consumeren een groter deel van hun inkomen dan hoge inkomens. Hierdoor dragen lage inkomens een …(3)… deel van hun inkomen af aan …(4)… belastingen, zoals btw en accijnzen. - Bij de premies sociale zekerheid betaalt iedereen hetzelfde percentage over het belastbaar inkomen tot € 38.000. Over het inkomen daarboven wordt geen premie betaald. Dit betekent dat er sprake is van een …(5)… premiestelsel.",
 "o": [
 "daling",
 "stijging"
@@ -10380,7 +10380,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.2,
 "ctx": "Het Centraal Planbureau (CPB) onderzoekt het effect van het belastingstelsel voor verschillende inkomensgroepen in Nederland. Het CPB kijkt hierbij naar het gemiddelde bruto-jaarinkomen, de betaalde belastingen, sociale premies en het gemiddeld belastingtarief.",
-"q": "Vraag 7, open plek (2): kies het juiste woord.\nEen stijging van het inkomen leidt tot een …(1)… van het gemiddeld belastingtarief. Secundaire inkomens zullen ….",
+"q": "Vraag 7, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nEr is een progressief belastingstelsel. Een stijging van het inkomen leidt tot een stijging van het gemiddeld belastingtarief. Secundaire inkomens zullen ____(2)____. - Lage inkomens consumeren een groter deel van hun inkomen dan hoge inkomens. Hierdoor dragen lage inkomens een …(3)… deel van hun inkomen af aan …(4)… belastingen, zoals btw en accijnzen. - Bij de premies sociale zekerheid betaalt iedereen hetzelfde percentage over het belastbaar inkomen tot € 38.000. Over het inkomen daarboven wordt geen premie betaald. Dit betekent dat er sprake is van een …(5)… premiestelsel.",
 "o": [
 "denivelleren",
 "nivelleren"
@@ -10400,7 +10400,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.3,
 "ctx": "Het Centraal Planbureau (CPB) onderzoekt het effect van het belastingstelsel voor verschillende inkomensgroepen in Nederland. Het CPB kijkt hierbij naar het gemiddelde bruto-jaarinkomen, de betaalde belastingen, sociale premies en het gemiddeld belastingtarief.",
-"q": "Vraag 7, open plek (3): kies het juiste woord.\nHierdoor dragen lage inkomens een … deel van hun inkomen af aan …(4)… belastingen, zoals btw en accijnzen.",
+"q": "Vraag 7, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nEr is een progressief belastingstelsel. Een stijging van het inkomen leidt tot een stijging van het gemiddeld belastingtarief. Secundaire inkomens zullen nivelleren. - Lage inkomens consumeren een groter deel van hun inkomen dan hoge inkomens. Hierdoor dragen lage inkomens een ____(3)____ deel van hun inkomen af aan …(4)… belastingen, zoals btw en accijnzen. - Bij de premies sociale zekerheid betaalt iedereen hetzelfde percentage over het belastbaar inkomen tot € 38.000. Over het inkomen daarboven wordt geen premie betaald. Dit betekent dat er sprake is van een …(5)… premiestelsel.",
 "o": [
 "groter",
 "kleiner"
@@ -10420,7 +10420,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.4,
 "ctx": "Het Centraal Planbureau (CPB) onderzoekt het effect van het belastingstelsel voor verschillende inkomensgroepen in Nederland. Het CPB kijkt hierbij naar het gemiddelde bruto-jaarinkomen, de betaalde belastingen, sociale premies en het gemiddeld belastingtarief.",
-"q": "Vraag 7, open plek (4): kies het juiste woord.\nHierdoor dragen lage inkomens een …(3)… deel van hun inkomen af aan … belastingen, zoals btw en accijnzen.",
+"q": "Vraag 7, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nEr is een progressief belastingstelsel. Een stijging van het inkomen leidt tot een stijging van het gemiddeld belastingtarief. Secundaire inkomens zullen nivelleren. - Lage inkomens consumeren een groter deel van hun inkomen dan hoge inkomens. Hierdoor dragen lage inkomens een groter deel van hun inkomen af aan ____(4)____ belastingen, zoals btw en accijnzen. - Bij de premies sociale zekerheid betaalt iedereen hetzelfde percentage over het belastbaar inkomen tot € 38.000. Over het inkomen daarboven wordt geen premie betaald. Dit betekent dat er sprake is van een …(5)… premiestelsel.",
 "o": [
 "directe",
 "indirecte"
@@ -10440,7 +10440,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 7.5,
 "ctx": "Het Centraal Planbureau (CPB) onderzoekt het effect van het belastingstelsel voor verschillende inkomensgroepen in Nederland. Het CPB kijkt hierbij naar het gemiddelde bruto-jaarinkomen, de betaalde belastingen, sociale premies en het gemiddeld belastingtarief.",
-"q": "Vraag 7, open plek (5): kies het juiste woord.\nDit betekent dat er sprake is van een … premiestelsel.",
+"q": "Vraag 7, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nEr is een progressief belastingstelsel. Een stijging van het inkomen leidt tot een stijging van het gemiddeld belastingtarief. Secundaire inkomens zullen nivelleren. - Lage inkomens consumeren een groter deel van hun inkomen dan hoge inkomens. Hierdoor dragen lage inkomens een groter deel van hun inkomen af aan indirecte belastingen, zoals btw en accijnzen. - Bij de premies sociale zekerheid betaalt iedereen hetzelfde percentage over het belastbaar inkomen tot € 38.000. Over het inkomen daarboven wordt geen premie betaald. Dit betekent dat er sprake is van een ____(5)____ premiestelsel.",
 "o": [
 "degressief",
 "progressief",
@@ -10765,7 +10765,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 26.1,
 "ctx": "Een gezondheidsbureau in Groot-Brittannië onderzoekt een heffing op suikerhoudende voeding (de suikertaks).",
-"q": "Vraag 26, open plek (1): kies het juiste woord.\nDoor de suikertaks zal het producentensurplus … en zal het consumentensurplus …(2)… op de markt voor suikerhoudende voeding.",
+"q": "Vraag 26, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDoor de suikertaks zal het producentensurplus ____(1)____ en zal het consumentensurplus …(2)… op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen …(3)…. Als het inkomen van consumenten stijgt, leidt dit tot een relatief kleine toename van de vraag naar suikerhoudende voeding. Consumenten zien deze goederen als …(4)… goederen. Er is dan sprake van een …(5)… inkomenselasticiteit.",
 "o": [
 "afnemen",
 "toenemen",
@@ -10786,7 +10786,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 26.2,
 "ctx": "Een gezondheidsbureau in Groot-Brittannië onderzoekt een heffing op suikerhoudende voeding (de suikertaks).",
-"q": "Vraag 26, open plek (2): kies het juiste woord.\nDoor de suikertaks zal het producentensurplus …(1)… en zal het consumentensurplus … op de markt voor suikerhoudende voeding.",
+"q": "Vraag 26, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDoor de suikertaks zal het producentensurplus afnemen en zal het consumentensurplus ____(2)____ op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen …(3)…. Als het inkomen van consumenten stijgt, leidt dit tot een relatief kleine toename van de vraag naar suikerhoudende voeding. Consumenten zien deze goederen als …(4)… goederen. Er is dan sprake van een …(5)… inkomenselasticiteit.",
 "o": [
 "afnemen",
 "toenemen",
@@ -10807,7 +10807,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 26.3,
 "ctx": "Een gezondheidsbureau in Groot-Brittannië onderzoekt een heffing op suikerhoudende voeding (de suikertaks).",
-"q": "Vraag 26, open plek (3): kies het juiste woord.\nDoor de suikertaks zal het producentensurplus …(1)… en zal het consumentensurplus …(2)… op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen ….",
+"q": "Vraag 26, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDoor de suikertaks zal het producentensurplus afnemen en zal het consumentensurplus afnemen op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen ____(3)____. Als het inkomen van consumenten stijgt, leidt dit tot een relatief kleine toename van de vraag naar suikerhoudende voeding. Consumenten zien deze goederen als …(4)… goederen. Er is dan sprake van een …(5)… inkomenselasticiteit.",
 "o": [
 "afnemen",
 "toenemen",
@@ -10828,7 +10828,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 26.4,
 "ctx": "Een gezondheidsbureau in Groot-Brittannië onderzoekt een heffing op suikerhoudende voeding (de suikertaks).",
-"q": "Vraag 26, open plek (4): kies het juiste woord.\nConsumenten zien deze goederen als … goederen.",
+"q": "Vraag 26, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDoor de suikertaks zal het producentensurplus afnemen en zal het consumentensurplus afnemen op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen toenemen. Als het inkomen van consumenten stijgt, leidt dit tot een relatief kleine toename van de vraag naar suikerhoudende voeding. Consumenten zien deze goederen als ____(4)____ goederen. Er is dan sprake van een …(5)… inkomenselasticiteit.",
 "o": [
 "inferieure",
 "primaire",
@@ -10849,7 +10849,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 26.5,
 "ctx": "Een gezondheidsbureau in Groot-Brittannië onderzoekt een heffing op suikerhoudende voeding (de suikertaks).",
-"q": "Vraag 26, open plek (5): kies het juiste woord.\nEr is dan sprake van een … inkomenselasticiteit.",
+"q": "Vraag 26, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nDoor de suikertaks zal het producentensurplus afnemen en zal het consumentensurplus afnemen op de markt voor suikerhoudende voeding. De overheidsinkomsten zullen toenemen. Als het inkomen van consumenten stijgt, leidt dit tot een relatief kleine toename van de vraag naar suikerhoudende voeding. Consumenten zien deze goederen als primaire goederen. Er is dan sprake van een ____(5)____ inkomenselasticiteit.",
 "o": [
 "positieve",
 "negatieve"
@@ -10917,7 +10917,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 30.1,
 "ctx": "Het gezondheidsbureau onderzoekt de Britse markt voor frisdranken. Figuur 3 toont de opbrengsten en kosten van een frisdrankproducent voordat de suikertaks wordt ingevoerd. Vervolgens wordt een suikertaks ingevoerd van £ 0,50 per liter frisdrank, waardoor de marginale kosten stijgen. De constante kosten worden buiten beschouwing gelaten. De producent streeft naar maximale winst. Figuur 3 Opbrengsten en kosten van de frisdrankproducent",
-"q": "Vraag 30, open plek (1): kies het juiste woord.\nVoor de invoering van de suikertaks is er sprake van … waardoor de productie van frisdrank …(2)… is dan maatschappelijk gewenst.",
+"q": "Vraag 30, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nVoor de invoering van de suikertaks is er sprake van ____(1)____ waardoor de productie van frisdrank …(2)… is dan maatschappelijk gewenst.",
 "o": [
 "collectieve dwang",
 "marktfalen"
@@ -10937,7 +10937,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 30.2,
 "ctx": "Het gezondheidsbureau onderzoekt de Britse markt voor frisdranken. Figuur 3 toont de opbrengsten en kosten van een frisdrankproducent voordat de suikertaks wordt ingevoerd. Vervolgens wordt een suikertaks ingevoerd van £ 0,50 per liter frisdrank, waardoor de marginale kosten stijgen. De constante kosten worden buiten beschouwing gelaten. De producent streeft naar maximale winst. Figuur 3 Opbrengsten en kosten van de frisdrankproducent",
-"q": "Vraag 30, open plek (2): kies het juiste woord.\nVoor de invoering van de suikertaks is er sprake van …(1)… waardoor de productie van frisdrank … is dan maatschappelijk gewenst.",
+"q": "Vraag 30, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nVoor de invoering van de suikertaks is er sprake van marktfalen waardoor de productie van frisdrank ____(2)____ is dan maatschappelijk gewenst.",
 "o": [
 "lager",
 "hoger"
@@ -10973,7 +10973,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.1,
 "ctx": "Fruit bevat veel gezonde voedingsstoffen en vitamines. Fruit wordt steeds populairder bij consumenten. Hierdoor is er sprake van een groei van deze markt.",
-"q": "Vraag 1, open plek (1): kies het juiste woord.\nDe populariteit van fruit onder consumenten is gestegen, wat heeft geleid tot een verschuiving van de … van fruit naar …(2)….",
+"q": "Vraag 1, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe populariteit van fruit onder consumenten is gestegen, wat heeft geleid tot een verschuiving van de ____(1)____ van fruit naar …(2)…. Deze verschuiving leidt, bij een gelijk gebleven …(3)…, tot een …(4)… prijs per kilo.",
 "o": [
 "aanbodlijn",
 "vraaglijn"
@@ -10993,7 +10993,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.2,
 "ctx": "Fruit bevat veel gezonde voedingsstoffen en vitamines. Fruit wordt steeds populairder bij consumenten. Hierdoor is er sprake van een groei van deze markt.",
-"q": "Vraag 1, open plek (2): kies het juiste woord.\nDe populariteit van fruit onder consumenten is gestegen, wat heeft geleid tot een verschuiving van de …(1)… van fruit naar ….",
+"q": "Vraag 1, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe populariteit van fruit onder consumenten is gestegen, wat heeft geleid tot een verschuiving van de vraaglijn van fruit naar ____(2)____. Deze verschuiving leidt, bij een gelijk gebleven …(3)…, tot een …(4)… prijs per kilo.",
 "o": [
 "links",
 "rechts"
@@ -11013,7 +11013,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.3,
 "ctx": "Fruit bevat veel gezonde voedingsstoffen en vitamines. Fruit wordt steeds populairder bij consumenten. Hierdoor is er sprake van een groei van deze markt.",
-"q": "Vraag 1, open plek (3): kies het juiste woord.\nDeze verschuiving leidt, bij een gelijk gebleven …, tot een …(4)… prijs per kilo.",
+"q": "Vraag 1, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDe populariteit van fruit onder consumenten is gestegen, wat heeft geleid tot een verschuiving van de vraaglijn van fruit naar rechts. Deze verschuiving leidt, bij een gelijk gebleven ____(3)____, tot een …(4)… prijs per kilo.",
 "o": [
 "aanbod",
 "vraag"
@@ -11033,7 +11033,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 1.4,
 "ctx": "Fruit bevat veel gezonde voedingsstoffen en vitamines. Fruit wordt steeds populairder bij consumenten. Hierdoor is er sprake van een groei van deze markt.",
-"q": "Vraag 1, open plek (4): kies het juiste woord.\nDeze verschuiving leidt, bij een gelijk gebleven …(3)…, tot een … prijs per kilo.",
+"q": "Vraag 1, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDe populariteit van fruit onder consumenten is gestegen, wat heeft geleid tot een verschuiving van de vraaglijn van fruit naar rechts. Deze verschuiving leidt, bij een gelijk gebleven aanbod, tot een ____(4)____ prijs per kilo.",
 "o": [
 "gelijkblijvende",
 "hogere",
@@ -11342,7 +11342,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.1,
 "ctx": "De centrale bank van Venezuela besluit om in te grijpen om de hoge inflatie te bestrijden.",
-"q": "Vraag 19, open plek (1): kies het juiste woord.\nHierdoor is het saldo lopende rekening van de betalingsbalans ….",
+"q": "Vraag 19, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nVenezuela heeft een negatief overheidssaldo en een negatief particulier spaarsaldo. Hierdoor is het saldo lopende rekening van de betalingsbalans ____(1)____. Door hogere rentebetalingen aan het buitenland zal het saldo lopende rekening van de betalingsbalans …(2)…. Internationale beleggers hebben geen vertrouwen in de Venezolaanse overheid. Hierdoor zal de rente op nieuwe staatsobligaties …(3)…. Als de overheid een geloofwaardig onderpand kan aanbieden, zal de rente …(4)….",
 "o": [
 "negatief",
 "positief"
@@ -11362,7 +11362,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.2,
 "ctx": "De centrale bank van Venezuela besluit om in te grijpen om de hoge inflatie te bestrijden.",
-"q": "Vraag 19, open plek (2): kies het juiste woord.\nDoor hogere rentebetalingen aan het buitenland zal het saldo lopende rekening van de betalingsbalans ….",
+"q": "Vraag 19, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nVenezuela heeft een negatief overheidssaldo en een negatief particulier spaarsaldo. Hierdoor is het saldo lopende rekening van de betalingsbalans negatief. Door hogere rentebetalingen aan het buitenland zal het saldo lopende rekening van de betalingsbalans ____(2)____. Internationale beleggers hebben geen vertrouwen in de Venezolaanse overheid. Hierdoor zal de rente op nieuwe staatsobligaties …(3)…. Als de overheid een geloofwaardig onderpand kan aanbieden, zal de rente …(4)….",
 "o": [
 "verslechteren",
 "niet veranderen",
@@ -11383,7 +11383,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.3,
 "ctx": "De centrale bank van Venezuela besluit om in te grijpen om de hoge inflatie te bestrijden.",
-"q": "Vraag 19, open plek (3): kies het juiste woord.\nHierdoor zal de rente op nieuwe staatsobligaties ….",
+"q": "Vraag 19, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nVenezuela heeft een negatief overheidssaldo en een negatief particulier spaarsaldo. Hierdoor is het saldo lopende rekening van de betalingsbalans negatief. Door hogere rentebetalingen aan het buitenland zal het saldo lopende rekening van de betalingsbalans verslechteren. Internationale beleggers hebben geen vertrouwen in de Venezolaanse overheid. Hierdoor zal de rente op nieuwe staatsobligaties ____(3)____. Als de overheid een geloofwaardig onderpand kan aanbieden, zal de rente …(4)….",
 "o": [
 "dalen",
 "stijgen"
@@ -11403,7 +11403,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 19.4,
 "ctx": "De centrale bank van Venezuela besluit om in te grijpen om de hoge inflatie te bestrijden.",
-"q": "Vraag 19, open plek (4): kies het juiste woord.\nAls de overheid een geloofwaardig onderpand kan aanbieden, zal de rente ….",
+"q": "Vraag 19, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nVenezuela heeft een negatief overheidssaldo en een negatief particulier spaarsaldo. Hierdoor is het saldo lopende rekening van de betalingsbalans negatief. Door hogere rentebetalingen aan het buitenland zal het saldo lopende rekening van de betalingsbalans verslechteren. Internationale beleggers hebben geen vertrouwen in de Venezolaanse overheid. Hierdoor zal de rente op nieuwe staatsobligaties stijgen. Als de overheid een geloofwaardig onderpand kan aanbieden, zal de rente ____(4)____.",
 "o": [
 "dalen",
 "stijgen"
@@ -11455,7 +11455,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.1,
 "ctx": "De overheid van Nederland doet een aanbesteding voor nieuwe verkeersborden. Hiervoor vraagt ze alle vijf ondernemingen die actief zijn op deze markt, om een bod uit te brengen. De ondernemingen weten niet van elkaar wat de hoogte is van het bod dat zij gaan uitbrengen. De overheid kiest voor het laagste bod, omdat de productie en levering bij elke onderneming hetzelfde is.",
-"q": "Vraag 21, open plek (1): kies het juiste woord.\nDe markt voor verkeersborden heeft kenmerken van de marktvorm … met een …(2)… product.",
+"q": "Vraag 21, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nDe markt voor verkeersborden heeft kenmerken van de marktvorm ____(1)____ met een …(2)… product. Bij deze aanbesteding is er sprake van …(3)… en als gevolg hiervan leidt deze aanbesteding tot een …(4)… bod.",
 "o": [
 "volledige mededinging",
 "monopolistische concurrentie",
@@ -11476,7 +11476,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.2,
 "ctx": "De overheid van Nederland doet een aanbesteding voor nieuwe verkeersborden. Hiervoor vraagt ze alle vijf ondernemingen die actief zijn op deze markt, om een bod uit te brengen. De ondernemingen weten niet van elkaar wat de hoogte is van het bod dat zij gaan uitbrengen. De overheid kiest voor het laagste bod, omdat de productie en levering bij elke onderneming hetzelfde is.",
-"q": "Vraag 21, open plek (2): kies het juiste woord.\nDe markt voor verkeersborden heeft kenmerken van de marktvorm …(1)… met een … product.",
+"q": "Vraag 21, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nDe markt voor verkeersborden heeft kenmerken van de marktvorm oligopolie met een ____(2)____ product. Bij deze aanbesteding is er sprake van …(3)… en als gevolg hiervan leidt deze aanbesteding tot een …(4)… bod.",
 "o": [
 "homogeen",
 "heterogeen"
@@ -11496,7 +11496,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.3,
 "ctx": "De overheid van Nederland doet een aanbesteding voor nieuwe verkeersborden. Hiervoor vraagt ze alle vijf ondernemingen die actief zijn op deze markt, om een bod uit te brengen. De ondernemingen weten niet van elkaar wat de hoogte is van het bod dat zij gaan uitbrengen. De overheid kiest voor het laagste bod, omdat de productie en levering bij elke onderneming hetzelfde is.",
-"q": "Vraag 21, open plek (3): kies het juiste woord.\nBij deze aanbesteding is er sprake van … en als gevolg hiervan leidt deze aanbesteding tot een …(4)… bod.",
+"q": "Vraag 21, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nDe markt voor verkeersborden heeft kenmerken van de marktvorm oligopolie met een homogeen product. Bij deze aanbesteding is er sprake van ____(3)____ en als gevolg hiervan leidt deze aanbesteding tot een …(4)… bod.",
 "o": [
 "asymmetrische informatie",
 "averechtse selectie"
@@ -11516,7 +11516,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 21.4,
 "ctx": "De overheid van Nederland doet een aanbesteding voor nieuwe verkeersborden. Hiervoor vraagt ze alle vijf ondernemingen die actief zijn op deze markt, om een bod uit te brengen. De ondernemingen weten niet van elkaar wat de hoogte is van het bod dat zij gaan uitbrengen. De overheid kiest voor het laagste bod, omdat de productie en levering bij elke onderneming hetzelfde is.",
-"q": "Vraag 21, open plek (4): kies het juiste woord.\nBij deze aanbesteding is er sprake van …(3)… en als gevolg hiervan leidt deze aanbesteding tot een … bod.",
+"q": "Vraag 21, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nDe markt voor verkeersborden heeft kenmerken van de marktvorm oligopolie met een homogeen product. Bij deze aanbesteding is er sprake van asymmetrische informatie en als gevolg hiervan leidt deze aanbesteding tot een ____(4)____ bod.",
 "o": [
 "laag",
 "hoog"
@@ -11654,7 +11654,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.1,
 "ctx": "De econoom analyseert baanpolarisatie op de Nederlandse arbeidsmarkt.",
-"q": "Vraag 28, open plek (1): kies het juiste woord.\nAls gevolg van economische … is het aantal banen voor middelbaar opgeleiden afgenomen en is er veel behoefte aan hoogopgeleide mensen.",
+"q": "Vraag 28, open plek (1): kies wat er op de plek van ____(1)____ hoort.\nAls gevolg van economische ____(1)____ is het aantal banen voor middelbaar opgeleiden afgenomen en is er veel behoefte aan hoogopgeleide mensen. Hierdoor ontstaat een …(2)… op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden …(3)…. Op de arbeidsmarkt voor hoogopgeleiden is er sprake van een …(4)… waardoor de gemiddelde lonen van hoogopgeleiden …(5)….",
 "o": [
 "conjunctuurontwikkeling",
 "structuurontwikkeling"
@@ -11674,7 +11674,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.2,
 "ctx": "De econoom analyseert baanpolarisatie op de Nederlandse arbeidsmarkt.",
-"q": "Vraag 28, open plek (2): kies het juiste woord.\nHierdoor ontstaat een … op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden…(3)….",
+"q": "Vraag 28, open plek (2): kies wat er op de plek van ____(2)____ hoort.\nAls gevolg van economische structuurontwikkeling is het aantal banen voor middelbaar opgeleiden afgenomen en is er veel behoefte aan hoogopgeleide mensen. Hierdoor ontstaat een ____(2)____ op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden …(3)…. Op de arbeidsmarkt voor hoogopgeleiden is er sprake van een …(4)… waardoor de gemiddelde lonen van hoogopgeleiden …(5)….",
 "o": [
 "tekort",
 "overschot"
@@ -11694,7 +11694,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.3,
 "ctx": "De econoom analyseert baanpolarisatie op de Nederlandse arbeidsmarkt.",
-"q": "Vraag 28, open plek (3): kies het juiste woord.\nHierdoor ontstaat een …(2)… op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden….",
+"q": "Vraag 28, open plek (3): kies wat er op de plek van ____(3)____ hoort.\nAls gevolg van economische structuurontwikkeling is het aantal banen voor middelbaar opgeleiden afgenomen en is er veel behoefte aan hoogopgeleide mensen. Hierdoor ontstaat een overschot op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden ____(3)____. Op de arbeidsmarkt voor hoogopgeleiden is er sprake van een …(4)… waardoor de gemiddelde lonen van hoogopgeleiden …(5)….",
 "o": [
 "dalen",
 "stijgen"
@@ -11714,7 +11714,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.4,
 "ctx": "De econoom analyseert baanpolarisatie op de Nederlandse arbeidsmarkt.",
-"q": "Vraag 28, open plek (4): kies het juiste woord.\nOp de arbeidsmarkt voor hoogopgeleiden is er sprake van een … waardoor de gemiddelde lonen van hoogopgeleiden …(5)….",
+"q": "Vraag 28, open plek (4): kies wat er op de plek van ____(4)____ hoort.\nAls gevolg van economische structuurontwikkeling is het aantal banen voor middelbaar opgeleiden afgenomen en is er veel behoefte aan hoogopgeleide mensen. Hierdoor ontstaat een overschot op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden dalen. Op de arbeidsmarkt voor hoogopgeleiden is er sprake van een ____(4)____ waardoor de gemiddelde lonen van hoogopgeleiden …(5)….",
 "o": [
 "afgenomen aanbod",
 "toegenomen aanbod",
@@ -11735,7 +11735,7 @@ EXAMEN.vragen.push(...[
 "t": "ex",
 "nr": 28.5,
 "ctx": "De econoom analyseert baanpolarisatie op de Nederlandse arbeidsmarkt.",
-"q": "Vraag 28, open plek (5): kies het juiste woord.\nOp de arbeidsmarkt voor hoogopgeleiden is er sprake van een …(4)… waardoor de gemiddelde lonen van hoogopgeleiden ….",
+"q": "Vraag 28, open plek (5): kies wat er op de plek van ____(5)____ hoort.\nAls gevolg van economische structuurontwikkeling is het aantal banen voor middelbaar opgeleiden afgenomen en is er veel behoefte aan hoogopgeleide mensen. Hierdoor ontstaat een overschot op de arbeidsmarkt voor middelbaar opgeleiden, waardoor de gemiddelde lonen van middelbaar opgeleiden dalen. Op de arbeidsmarkt voor hoogopgeleiden is er sprake van een toegenomen vraag waardoor de gemiddelde lonen van hoogopgeleiden ____(5)____.",
 "o": [
 "dalen",
 "stijgen"

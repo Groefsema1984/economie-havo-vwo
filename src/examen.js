@@ -6,7 +6,7 @@ const exVragen = (n=niv()) => (typeof EXAMEN==='undefined'?[]:EXAMEN.vragen).fil
 const exDomeinen = () => DOMEINEN.filter(d=>exVragen().some(v=>v.d===d.id));
 const EX_IMG = 'examens/img/';
 // examenpagina's met de bronnen bij een vraag (EX_BRON komt uit tools/examen_bronnen.py)
-function exBron(v){ if(v.img&&v.img.length) return v.img; const e=typeof EX_BRON!=='undefined'&&v.ex&&EX_BRON[v.ex]; return (e&&e[v.nr])||[] }
+function exBron(v){ if(v.img&&v.img.length) return v.img; const e=typeof EX_BRON!=='undefined'&&v.ex&&EX_BRON[v.ex]; return (e&&(e[v.nr]||e[Math.floor(v.nr)]))||[] }   // 28.5 = open plek 5 van vraag 28
 function bronLabel(s){ const m=s.match(/-(\w)-(\d+)$/); if(!m) return '📄 Examenpagina';
   return m[1]==='b'?`📊 Bronnen blz. ${m[2]}`:m[1]==='u'?'✏️ Uitwerkbijlage':`📄 Examen blz. ${m[2]}` }
 const exNaam = c => { const m=/^([hv])(\d\d)-(\d)$/.exec(c)||[]; return `${NIVEAUS[m[1]]||''} ${2000+ +m[2]} tijdvak ${m[3]}` };

@@ -167,11 +167,7 @@ def splits_invul(v, antw):
     antw = re.split(r'\b[Ii]ndien\b|Opmerking|\n\(\d\) en \(\d\)|•\s*\(\d\) en \(\d\)|•\s*\(\d\) juist', antw)[0]   # alleen het modelantwoord, niet de puntentelling
     juist = {int(m.group(1)): re.sub(r'\s+bij$', '', m.group(2).strip(' .')) for m in re.finditer(r'\((\d)\):?\s*([^()\n•]+?)(?=\s*\(\dp\)|\s*\(\d\)|\s+\d\s*$|\s+\d\n|\n|$|\s+indien|\s+of\s)', antw)}
     dubbel = {k for k in range(1, 10) if len(re.findall(r'\(%d\)' % k, antw)) > 1}   # meerdere goede antwoordsets
-    tekst = re.sub(r'\s+', ' ', v['q'][:km.start()])
-    if '(1)' not in tekst: tekst = re.sub(r'\s+', ' ', v['ctx']) + ' ' + tekst   # de zinnen staan soms boven de vraag
-    tekst = re.sub(r'(?:…|\.\.\.)\s*\((\d)\)\s*(?:…|\.\.\.)', r'…(\1)…', tekst)   # '...(1)…' geen zinseinde
-    zinnen = re.split(r'(?<=[.!?])\s+|\s-\s|^-\s', tekst)
-    uit = []
+    kandidaten = []
     for k, o in sorted(opties.items()):
         if k in dubbel: continue
         j = juist.get(k, '')
@@ -179,15 +175,35 @@ def splits_invul(v, antw):
         idx = next((i for i, x in enumerate(o) if nm(x) == nm(j)), None)
         if idx is None: idx = next((i for i, x in enumerate(o) if j and (j.lower().startswith(x.lower()) or x.lower().startswith(j.lower()))), None)
         if idx is None: return []   # niet eenduidig: dan alleen de open vraag
-        zi = next((i for i, z in enumerate(zinnen) if f'({k})' in z), None)
-        zin = zinnen[zi] if zi is not None else ''
-        if zi and len(zin) < 50: zin = zinnen[zi - 1] + ' ' + zin   # korte zin: vorige zin erbij voor de context
-        zin = re.sub(r'(?:…|\.\.\.)\s*\(%d\)\s*(?:…|\.\.\.)' % k, '…', zin).strip(' -')
-        zin = re.sub(r'(?:…|\.\.\.)\s*\((\d)\)\s*(?:…|\.\.\.)', r'…(\1)…', zin)
-        zin = re.sub(r'^Maak [^:]*:\s*', '', zin)
-        zin = re.sub(r'\s+Maak (?:de|van|onderstaande)[^.]*?(?:correct|juist)[^.]*\.?', '', zin)
-        uit.append({'k': k, 'zin': zin, 'o': o, 'a': idx})
-    return uit
+        kandidaten.append((k, o, idx))
+    goed = {k: o[idx] for k, o, idx in kandidaten}
+    tekst, uit_ctx = invul_bron(v)
+    return [{'k': k, 'zin': invul_tekst(tekst, k, goed), 'o': o, 'a': idx, 'ctx_weg': uit_ctx} for k, o, idx in kandidaten]
+
+def invul_vraag(nr, k, zin):
+    return f'Vraag {nr}, open plek ({k}): kies wat er op de plek van ____({k})____ hoort.\n{zin}'
+
+GAT = r'(?:…|\.\.\.)\s*\((\d)\)\s*(?:…|\.\.\.)?'
+
+def invul_bron(v):
+    """De hele tekst met open plekken van een invulvraag. Tweede waarde: True als die tekst (deels) uit de context komt."""
+    km = re.search(r'Kies uit:', v['q'])
+    tekst = re.sub(r'\s+', ' ', v['q'][:km.start()] if km else v['q']).strip()
+    uit_ctx = not re.search(GAT, tekst)
+    if uit_ctx: tekst = re.sub(r'\s+', ' ', v.get('ctx') or '').strip() + ' ' + tekst   # de zinnen staan soms boven de vraag
+    tekst = re.sub(r'(?:^|(?<=[.!?”"]) )Maak (?:de|van|onderstaande|het|deze)[^.:]*?(?:correct|juist)[^.:]*[.:]\s*', ' ', tekst)
+    return re.sub(r'\s+', ' ', tekst).strip(' -'), uit_ctx
+
+def invul_tekst(tekst, k, goed):
+    """Tekst bij open plek k: eerdere plekken ingevuld met het goede woord, plek k als ____(k)____, latere plekken open."""
+    def plek(m):
+        n = int(m.group(1))
+        if n == k: return ' ____(%d)____ ' % n
+        if n < k and n in goed: return ' %s ' % goed[n]
+        return ' …(%d)… ' % n
+    t = re.sub(r'\s+', ' ', re.sub(GAT, plek, tekst))
+    return re.sub(r' ([.,;:!?”)])', r'\1', t).strip()
+
 
 def main():
     vragen, rapport = [], []
@@ -273,8 +289,8 @@ def main():
                 continue
             vragen.append(dict(basis, id=eid, t='open', nr=v['nr'], ctx=v['ctx'], q=q, model=a, pnt=v['pnt'])); n_open += 1
             for s in splits_invul(v, a):
-                vragen.append(dict(basis, id=f'{eid}.{s["k"]}', t='ex', nr=v['nr'] + s['k'] / 10, ctx=v['ctx'],
-                                   q=f'Vraag {v["nr"]}, open plek ({s["k"]}): kies het juiste woord.\n{s["zin"]}', o=s['o'], a=s['a'],
+                vragen.append(dict(basis, id=f'{eid}.{s["k"]}', t='ex', nr=v['nr'] + s['k'] / 10, ctx='' if s['ctx_weg'] else v['ctx'],
+                                   q=invul_vraag(v['nr'], s['k'], s['zin']), o=s['o'], a=s['a'],
                                    u=f'Juist is: {s["o"][s["a"]]}.'))
                 n_mc += 1
         rapport.append(f'{ex}: {n_open} open vragen, {n_mc} meerkeuzevragen uit invulvragen')
